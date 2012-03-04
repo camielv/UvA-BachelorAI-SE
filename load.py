@@ -179,16 +179,28 @@ class DocumentDisplayer(tornado.web.RequestHandler):
       docid=self.get_argument("docid")
       res = application.searcher_bm25f.find("id", unicode(docid))
       path = get_relative_path(res[0]['path'])
+      title = get_relative_path(res[0]['title'])
+
       f = open(header_file, 'r')
       lines = f.readlines()
       for l in lines:
         self.write(l)
+
+      self.write("<h1>" + title + "</h1>")
+      self.write("<p><a href=\"/cloud?docid=" + docid + "\">Generate Cloud</a></p><h2>Relevant Articles</h2><p>")
+      res = application.searcher_tf_idf("content", unicode(title), limit=int(10))
+      for r in res:
+        res_id = str(r['id'])
+        res_title = r['title']
+        self.write("<a href=/display?docid=" + res_id + ">"+ res_title +"</a><br />")
+      self.write("</p><p>")
+
       f = open(path, "r")
       lines = f.readlines()
-      self.write("<p><a href=\"/cloud?docid=" + docid + "\">Generate Cloud</a></p><p>")
       for l in lines:
         self.write(l)
       self.write("</p>")
+
       f = open(footer_file, 'r')
       lines = f.readlines()
       for l in lines:
@@ -259,7 +271,7 @@ class TermStatisticsDisplayer(tornado.web.RequestHandler):
 
 class Closer(tornado.web.RequestHandler):
     def get(self):
-      close_resources()
+      close_resources(application)
 
 class Indexer(tornado.web.RequestHandler):
     def post(self):
