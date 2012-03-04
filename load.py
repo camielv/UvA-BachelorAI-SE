@@ -157,9 +157,9 @@ class SearchHandler(tornado.web.RequestHandler):
         self.write("<br />")
         self.write("Max hits: " + number)
         self.write("<br />")
-        self.write("Scoring " + scoring)
+        self.write("Scoring: " + scoring)
         self.write("<br />")
-        self.write("Field " + field)
+        self.write("Field: " + field)
         self.write("<br /> <br />")
         self.write("Number of hits:  " + str(min(int(number), len(res))) + "<br />")
         for r in res:
@@ -167,21 +167,28 @@ class SearchHandler(tornado.web.RequestHandler):
           nexttitle = r['title']
           self.write("<a href=/display?docid=" + nextid + ">"+ nexttitle +"</a><br />")
         self.write("</p>")
-        f = open(header_file, 'r')
+        f = open(footer_file, 'r')
         lines = f.readlines()
         for l in lines:
           self.write(l)
-
-
 
 class DocumentDisplayer(tornado.web.RequestHandler):
     def get(self):
       docid=self.get_argument("docid")
       res = application.searcher_bm25f.find("id", unicode(docid))
       path = get_relative_path(res[0]['path'])
+      f = open(header_file, 'r')
+      lines = f.readlines()
+      for l in lines:
+        self.write(l)
       f = open(path, "r")
       lines = f.readlines()
-      self.write("<a href=\"/cloud?docid=" + docid + "\">Generate Cloud</a>")
+      self.write("<p><a href=\"/cloud?docid=" + docid + "\">Generate Cloud</a></p><p>")
+      for l in lines:
+        self.write(l)
+      self.write("</p>")
+      f = open(footer_file, 'r')
+      lines = f.readlines()
       for l in lines:
         self.write(l)
 
