@@ -188,7 +188,7 @@ class DocumentDisplayer(tornado.web.RequestHandler):
 
       self.write("<h1>" + title + "</h1>")
       self.write("<p><a href=\"/cloud?docid=" + docid + "\">Generate Cloud</a></p><h2>Relevant Articles</h2><p>")
-      res = application.searcher_tf_idf("content", unicode(title), limit=int(10))
+      res = application.searcher_tf_idf.find("content", unicode(title), limit=int(10))
       for r in res:
         res_id = str(r['id'])
         res_title = r['title']
