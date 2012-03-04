@@ -1,0 +1,42 @@
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    text-align: center;
+    background:#000;
+    color:#fff;
+    font-size:12px;
+    line-height:150%;
+    font-family: Helvetica;
+}
+
+select {
+    background: #6789a3;
+    width: 100px;
+    border: 1px solid #fff;
+}
+
+input{
+    background: #6789a3;
+    margin: 10px;
+    width: 200px;
+}
+
+label {
+    margin: 10px;
+}
+#main{
+    min-height: 100%;
+    margin: 0 auto -4em;
+}
+
+#footer {
+    height: 4em;
+    background: #03142f;
+}
+
+.clear {
+    height: 4em;
+}

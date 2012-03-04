@@ -1,0 +1,68 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Fantastic 4 Search</title>
+<link rel="stylesheet" type="text/css" href="css/main.css" />
+<script type="text/javascript" src="js/main.js"></script> 
+</head>
+
+<body>
+<div id="main">
+    <img src="images/logo.png" alt="Fantastic Four" /><br />
+    <h1>Search</h1>
+    <form id="mainsearch" method="post" action="/search">
+        <input type="text" onclick="hideText(this)" value="Type here to search"/><br />
+        <label for="number">Results</label>
+        <select name="number">
+            <option>1</option>
+            <option>10</option>                       
+            <option>100</option>
+            <option>1000</option>
+        </select>
+        <label for="field">Field</label>
+        <select name="field">
+            <option>Title</option>
+            <option>Content</option>                       
+        </select>
+        <label for="scoring">Scoring</label>
+        <select name="scoring">
+            <option>BM25F</option>
+            <option>Cosine</option>
+            <option>PL2</option>
+            <option>Frequency</option>
+            <option>TF_IDF</option>
+        </select><br />
+        <input type="submit" value="Search" />
+    </form>
+    <h1>View full lexicon</h1> 
+
+    <form name="viewLexicon" action="/lexdisplay" method="post">
+        <label for="field">Field</label>
+        <select name="field">
+            <option>Title</option>
+            <option>Content</option>                       
+        </select><br />
+        <input type="submit" value="View"/>
+    </form> 
+
+    <h1>Reindex</h1>
+    <p>Takes about three minutes!</p>
+    <form name="reindex" action="/index" method="post">
+        <label for="stemming">Stemming</label>
+        <select name="stemming">
+            <option>Yes</option>
+            <option>No</option>                       
+        </select><br />
+        <label for="stopwords">Stop words</label>
+        <textarea name="stopwords" cols=30 rows = 5></textarea>
+        <br />
+        <input type="submit" value="Run indexing"/>
+    </form> 
+    <div class="clear"></div>
+</div>
+<div id="footer">
+Copyright 2012 &#169; Fantastic 4 Search, a project for the University of Amsterdam by Shehzaad Jainullah,<br /> Frank Schurgers, Marissa Sieuwerts, Guido van Bruggen and Camiel Verschoor. All Rights Reserved.
+</div>
+</body>
+</html>
