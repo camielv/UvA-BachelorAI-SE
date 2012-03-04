@@ -147,6 +147,11 @@ class SearchHandler(tornado.web.RequestHandler):
           searcher = application.searcher_frequency
         else:
           raise Exception("Unsupported scoring method")
+        f = open(header_file, 'r')
+        lines = f.readlines()
+        for l in lines:
+          self.write(l)
+        self.write("<p>")
         res = searcher.find(field, unicode(query), limit=int(number))
         self.write("Query: " + query)
         self.write("<br />")
@@ -161,6 +166,13 @@ class SearchHandler(tornado.web.RequestHandler):
           nextid = str(r['id'])
           nexttitle = r['title']
           self.write("<a href=/display?docid=" + nextid + ">"+ nexttitle +"</a><br />")
+        self.write("</p>")
+        f = open(header_file, 'r')
+        lines = f.readlines()
+        for l in lines:
+          self.write(l)
+
+
 
 class DocumentDisplayer(tornado.web.RequestHandler):
     def get(self):
