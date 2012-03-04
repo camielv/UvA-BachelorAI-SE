@@ -22,8 +22,8 @@
         </select>
         <label for="field">Field</label>
         <select name="field">
-            <option>Title</option>
-            <option>Content</option>                       
+            <option value="title">Title</option>
+            <option value="content">Content</option>                       
         </select>
         <label for="scoring">Scoring</label>
         <select name="scoring">
@@ -40,8 +40,8 @@
     <form name="viewLexicon" action="/lexdisplay" method="post">
         <label for="field">Field</label>
         <select name="field">
-            <option>Title</option>
-            <option>Content</option>                       
+            <option value="title">Title</option>
+            <option value="content">Content</option>                       
         </select><br />
         <input type="submit" value="View"/>
     </form> 
@@ -51,8 +51,8 @@
     <form name="reindex" action="/index" method="post">
         <label for="stemming">Stemming</label>
         <select name="stemming">
-            <option>Yes</option>
-            <option>No</option>                       
+            <option value="yes">Yes</option>
+            <option value="no">No</option>                       
         </select><br />
         <label for="stopwords">Stop words</label>
         <textarea name="stopwords" cols=30 rows = 5></textarea>
