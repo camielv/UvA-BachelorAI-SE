@@ -38,7 +38,9 @@ import matplotlib.pyplot as plt
 ###############################################
 indexdir='index'
 webdir='web'
+header_file = webdir + '/header.html'
 search_file = webdir + '/index.html'
+footer_file = webdir + '/footer.html'
 working_dir = os.environ["PWD"]
 
 
@@ -107,8 +109,12 @@ parser = qparser.MultifieldParser(['content', 'title'])
 class MainHandler(tornado.web.RequestHandler):
     def get(self):
         # read the html file on every request - very inefficient
-        f = open(search_file, 'r')
+        f = open(header_file, 'r')
         lines = f.readlines()
+        f = open(search_file, 'r')
+        lines += f.readlines()
+        f = open(footer_file, 'r')
+        lines += f.readlines()
         for l in lines:
           self.write(l) 
 
