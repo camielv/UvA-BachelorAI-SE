@@ -111,8 +111,10 @@ class MainHandler(tornado.web.RequestHandler):
         # read the html file on every request - very inefficient
         f = open(header_file, 'r')
         lines = f.readlines()
+        lines += "<div class=\"center\">"
         f = open(search_file, 'r')
         lines += f.readlines()
+        lines += "</div>"
         f = open(footer_file, 'r')
         lines += f.readlines()
         for l in lines:
