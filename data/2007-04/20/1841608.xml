@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="20posada--refer" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1841608"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070420T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F03E2D71F3FF933A15757C0A9619C8B63" item-length="216" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Cuban Plane Bombing Suspect Posts Bail on Charges in U.S.  The Cuban exile Luis Posada Carriles, right, who has been linked to the 1976 bombing of a Cuban airliner, was released on bail in New Mexico and returned to Miami to await trial on immigration fraud charges. Officials in Cuba and Venezuela, who want to try him over the bombing, which killed 73 people, have expressed anger that the United States will not extradite him.</p>
+        <p>PAGE A8</p>
+        <p>New Revelation on Wolfowitz  While deputy secretary of defense, Paul Wolfowitz recommended that his companion get a contract in Iraq to advise on the creation of a new government, an inquiry by the Pentagon inspector general said. The inquiry found no wrongdoing.</p>
+        <p>PAGE A10</p>
+        <p>Lessons of Haditha Missed  After marines killed 24 civilians in Haditha, Iraq, the service sought to emphasize values to its members. Nearly a year later, marines killed 10 civilians in Afghanistan.</p>
+        <p>PAGE A13</p>
+        <p>New Abortion Fights Likely  Both sides of the abortion debate expect a push for restrictions as state lawmakers digest a Supreme Court decision upholding a federal ban on a type of abortion.</p>
+        <p>PAGE A18</p>
+        <p>Ex-Qwest Chief Convicted  Joseph P. Nacchio, the former chief executive of Qwest Communications, was found guilty of insider trading.</p>
+        <p>BUSINESS DAY, PAGE C1</p>
+      </block>
+      <block class="full_text">
+        <p>Cuban Plane Bombing Suspect Posts Bail on Charges in U.S.  The Cuban exile Luis Posada Carriles, right, who has been linked to the 1976 bombing of a Cuban airliner, was released on bail in New Mexico and returned to Miami to await trial on immigration fraud charges. Officials in Cuba and Venezuela, who want to try him over the bombing, which killed 73 people, have expressed anger that the United States will not extradite him.</p>
+        <p>PAGE A8</p>
+        <p>New Revelation on Wolfowitz  While deputy secretary of defense, Paul Wolfowitz recommended that his companion get a contract in Iraq to advise on the creation of a new government, an inquiry by the Pentagon inspector general said. The inquiry found no wrongdoing.</p>
+        <p>PAGE A10</p>
+        <p>Lessons of Haditha Missed  After marines killed 24 civilians in Haditha, Iraq, the service sought to emphasize values to its members. Nearly a year later, marines killed 10 civilians in Afghanistan.</p>
+        <p>PAGE A13</p>
+        <p>New Abortion Fights Likely  Both sides of the abortion debate expect a push for restrictions as state lawmakers digest a Supreme Court decision upholding a federal ban on a type of abortion.</p>
+        <p>PAGE A18</p>
+        <p>Ex-Qwest Chief Convicted  Joseph P. Nacchio, the former chief executive of Qwest Communications, was found guilty of insider trading.</p>
+        <p>BUSINESS DAY, PAGE C1</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

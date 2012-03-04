@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Resignation at M.I.T.</title>
+    <meta content="l01mit" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1844258"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="indexing_service" type="descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <org class="indexing_service">Massachusetts Institute of Technology</org>
+        <person class="indexing_service">Jones, Marilee</person>
+        <person class="indexing_service">Glickman, Eugene</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070501T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9803E5D7133EF932A35756C0A9619C8B63" item-length="116" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Resignation at M.I.T.</hl1>
+      </hedline>
+      <abstract>
+        <p>Eugene Glickman letter question logic that compels Marilee Jones to resign as dean of admissions at Massacusetts Institute of Technology, where she did good job for a decade, because she lied about her academic credentials in applying for job (April 27 article);</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''M.I.T.'s Admissions Dean Resigns; Ends 28-Year Lie About Degrees'' (front page, April 27):</p>
+        <p>One should not lie about one's formal qualifications. But on the other hand, as your article made clear, Marilee Jones had been doing the job well for a decade.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''M.I.T.'s Admissions Dean Resigns; Ends 28-Year Lie About Degrees'' (front page, April 27):</p>
+        <p>One should not lie about one's formal qualifications. But on the other hand, as your article made clear, Marilee Jones had been doing the job well for a decade.</p>
+        <p>She was a known quantity at M.I.T. when she was hired as its dean of admissions, having already worked at the institution for many years.</p>
+        <p>If she could, and did, do this job well without a degree, why should she -- or anyone -- need a degree to be hired for it?</p>
+        <p>Eugene Glickman  Brooklyn, April 27, 2007</p>
+        <p>The writer is professor emeritus of music at Nassau Community College.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

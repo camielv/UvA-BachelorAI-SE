@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>LOOKING AHEAD</title>
+    <meta content="09ahead" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1839132"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070409T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE4D7143FF93AA35757C0A9619C8B63" item-length="158" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>LOOKING AHEAD</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>QUARTERLY REPORTS -- Earnings season gets under way with the first Dow component, Alcoa, reporting first-quarter results (Tuesday), followed by the BlackBerry maker Research in Motion (Wednesday), Rite Aid (Thursday) and another Dow component, General Electric (Friday).</p>
+        <p>SIGNALS ON THE ECONOMY -- The main economic news will come on Friday, with the producer price index for April and the trade deficit for March. Retailers will report their same-store sales for March (Thursday). The Federal Open Market Committee will issue minutes of its March 21 meeting (Wednesday).</p>
+        <p>PAINKILLER REVIEW -- An advisory panel for the Food and Drug Administration is scheduled to meet to discuss Merck's application to market the painkiller Arcoxia in the United States (Thursday).</p>
+        <p>NACCHIO TRIAL -- The defense in the trial of Joseph P. Nacchio, the former chief executive of Qwest Communications, is expected to wrap up Monday or Tuesday, and Mr. Nacchio may take the stand in his own defense.</p>
+      </block>
+      <block class="full_text">
+        <p>QUARTERLY REPORTS -- Earnings season gets under way with the first Dow component, Alcoa, reporting first-quarter results (Tuesday), followed by the BlackBerry maker Research in Motion (Wednesday), Rite Aid (Thursday) and another Dow component, General Electric (Friday).</p>
+        <p>SIGNALS ON THE ECONOMY -- The main economic news will come on Friday, with the producer price index for April and the trade deficit for March. Retailers will report their same-store sales for March (Thursday). The Federal Open Market Committee will issue minutes of its March 21 meeting (Wednesday).</p>
+        <p>PAINKILLER REVIEW -- An advisory panel for the Food and Drug Administration is scheduled to meet to discuss Merck's application to market the painkiller Arcoxia in the United States (Thursday).</p>
+        <p>NACCHIO TRIAL -- The defense in the trial of Joseph P. Nacchio, the former chief executive of Qwest Communications, is expected to wrap up Monday or Tuesday, and Mr. Nacchio may take the stand in his own defense.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

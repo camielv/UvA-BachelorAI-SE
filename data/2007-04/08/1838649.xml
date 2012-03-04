@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Ethicist</title>
+    <meta content="08letters.t-3" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838649"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <classifier class="indexing_service" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="indexing_service" type="descriptor">Handicapped</classifier>
+        <classifier class="indexing_service" type="descriptor">Security and Warning Systems</classifier>
+        <person class="indexing_service">gottlieb, shari goldman</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Handicapped</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Security and Warning Systems</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070408T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980DE5DE163FF93BA35757C0A9619C8B63" item-length="167" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Ethicist</hl1>
+      </hedline>
+      <abstract>
+        <p>Shari Goldman Gottlieb letter comments on March 25 Ethicist column on faking need for wheelchair to speed one's way through airport security</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>I commend the Ethicist for an apt response to the inquiry about the ethics of using a wheelchair to speed the way through airport security (March 25). However, it overlooks the fact that faking illness makes it harder for those who are disabled -- especially if the disability is not easily discerned -- to obtain necessary help.</p>
+      </block>
+      <block class="full_text">
+        <p>I commend the Ethicist for an apt response to the inquiry about the ethics of using a wheelchair to speed the way through airport security (March 25). However, it overlooks the fact that faking illness makes it harder for those who are disabled -- especially if the disability is not easily discerned -- to obtain necessary help.</p>
+        <p>I appear to be a healthy woman in her mid-20s. I am severely disabled by chronic pain and severe fatigue, both the legacy of cancer treatment, and depend on wheelchair assistance. I am thankful for the policy that any request for assistance is fulfilled and that this is done without question, sparing me rehashing sensitive information each time. Nevertheless, my youth and the invisibility of my illness often cause my requests for assistance to be met with skepticism. Exploiting one of the rare services that protects an individual's privacy, while offering a vital resource, threatens our already fragile credibility as people legitimately disabled, in need of aid.</p>
+        <p>Shari Goldman Gottlieb</p>
+        <p>Philadelphia</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

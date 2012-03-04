@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>In TV Games, Preschoolers Learn as They Pedal</title>
+    <meta content="26bike" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/26/technology/26bike.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842962"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CIRCUITS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Biking</classifier>
+        <classifier class="online_producer" type="descriptor">Bicycles and Bicycling</classifier>
+        <classifier class="online_producer" type="descriptor">Computer and Video Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer and Video Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bicycles and Bicycling</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070426T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D03E6DE153EF935A15757C0A9619C8B63" item-length="201" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>In TV Games, Preschoolers Learn as They Pedal</hl1>
+        <hl2 class="online_headline">In TV Games, Preschoolers Learn as They Pedal</hl2>
+      </hedline>
+      <byline class="print_byline">By WARREN BUCKLEITNER</byline>
+      <byline class="normalized_byline">Buckleitner, Warren</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Game controllers come in many forms -- so why not an exercise bike? The Smart Cycle from Fisher-Price is a child-size stationary bicycle that hooks up to a TV. The idea is to get your preschooler off the floor and pedaling to drive over letters on the screen while avoiding potholes.</p>
+        <p>Once the bike is assembled -- four D batteries are required -- it is plugged into the audio and video inputs on a TV. A child can steer down a virtual street, matching letters, numbers or shapes, or steering into a pit stop to play one of six early learning games with the onboard joystick. One game, called Number Fields, is like whack-a-mole with numerals, while Letter Creek involves zapping letters as they flow down a stream, spelling out words.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Game controllers come in many forms  so why not an exercise bike?</p>
+      </block>
+      <block class="full_text">
+        <p>Game controllers come in many forms -- so why not an exercise bike? The Smart Cycle from Fisher-Price is a child-size stationary bicycle that hooks up to a TV. The idea is to get your preschooler off the floor and pedaling to drive over letters on the screen while avoiding potholes.</p>
+        <p>Once the bike is assembled -- four D batteries are required -- it is plugged into the audio and video inputs on a TV. A child can steer down a virtual street, matching letters, numbers or shapes, or steering into a pit stop to play one of six early learning games with the onboard joystick. One game, called Number Fields, is like whack-a-mole with numerals, while Letter Creek involves zapping letters as they flow down a stream, spelling out words.</p>
+        <p>The bike will be available this summer for $100 from major toy retailers. Additional software cartridges ($20) will feature Dora the Explorer, SpongeBob, Hot Wheels and Barbie.</p>
+        <p>While the Smart Cycle's music and graphics are quite simple compared with a typical computer game, any toy that can blend TV with mental and physical education can only be a good thing. Perhaps there will be a version for grown-ups.</p>
+        <p>WARREN BUCKLEITNER</p>
+        <p>CIRCUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

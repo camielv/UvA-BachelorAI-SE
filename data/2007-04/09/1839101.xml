@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Popular Demand</title>
+    <meta content="09mostpopular" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1839101"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MOST WANTED"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="general_descriptor">Magazines</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070409T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F06EED8143FF93AA35757C0A9619C8B63" item-length="80" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Popular Demand</hl1>
+      </hedline>
+      <byline class="print_byline">By SHELLY FREIERMAN</byline>
+      <byline class="normalized_byline">Freierman, Shelly</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Magazines remain a healthy place for advertising, with growth everywhere except for the home furnishings and financial, insurance and real estate categories, which reflects the downturn in housing starts and home sales.</p>
+        <p>Direct-to-consumer ad campaigns remain a strong vehicle for pharmaceutical companies, and the drug category led the field with 15.8 percent growth from 2006. Even in those categories where the number of advertising pages fell -- food, apparel and technology -- there was an increase in revenue.</p>
+        <p>SHELLY FREIERMAN</p>
+      </block>
+      <block class="full_text">
+        <p>Magazines remain a healthy place for advertising, with growth everywhere except for the home furnishings and financial, insurance and real estate categories, which reflects the downturn in housing starts and home sales.</p>
+        <p>Direct-to-consumer ad campaigns remain a strong vehicle for pharmaceutical companies, and the drug category led the field with 15.8 percent growth from 2006. Even in those categories where the number of advertising pages fell -- food, apparel and technology -- there was an increase in revenue.</p>
+        <p>SHELLY FREIERMAN  MOST WANTED</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

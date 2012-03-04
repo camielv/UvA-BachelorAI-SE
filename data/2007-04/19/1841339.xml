@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Having Some Fun And Learning At the Same Time</title>
+    <meta content="19world" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/19/technology/19world.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1841339"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CIRCUITS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070419T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F03E5D91E3FF93AA25757C0A9619C8B63" item-length="174" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Having Some Fun And Learning At the Same Time</hl1>
+        <hl2 class="online_headline">Having Some Fun and Learning at the Same Time</hl2>
+      </hedline>
+      <byline class="print_byline">By WARREN BUCKLEITNER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A new form of edutainment software has arrived in the form of JumpStart World, an educational theme park for Windows computers that can replenish itself with new content.</p>
+        <p>Three versions -- for kindergarten, first grade and second grade -- can be purchased for $20 in stores next month, or downloaded now from www.jumpstartworld.com.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A new form of edutainment software has arrived in the form of an educational theme park that can replenish itself with new content.</p>
+      </block>
+      <block class="full_text">
+        <p>A new form of edutainment software has arrived in the form of JumpStart World, an educational theme park for Windows computers that can replenish itself with new content.</p>
+        <p>Three versions -- for kindergarten, first grade and second grade -- can be purchased for $20 in stores next month, or downloaded now from www.jumpstartworld.com.</p>
+        <p>JumpStart World is stocked with chatty characters eager to suggest a challenge. There are dozens of well-crafted math and reading games -- children throw pies at circus clowns holding vocabulary words, or race up a beanstalk by solving math problems that could have come straight out of a workbook.</p>
+        <p>Parents can arrange to have the program send detailed progress reports to their e-mail address, or subscribe to new content downloads for $8 a month.</p>
+        <p>The designers mixed in some smart features to keep things interesting, like seasons that change and the ability to display your child's artwork or digital photos on the park's billboards, and a parade to celebrate your child's birthday, if you choose to disclose it when registering.</p>
+        <p>WARREN BUCKLEITNER</p>
+        <p>CIRCUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

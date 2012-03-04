@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Grant Thornton Resigns as Fremont's Auditor</title>
+    <meta content="03fremont" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/03/business/03fremont.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837748"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Markets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <org class="online_producer">Fremont General Corporation</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070403T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E5DC1F30F930A35757C0A9619C8B63" item-length="480" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Grant Thornton Resigns as Fremont's Auditor</hl1>
+        <hl2 class="online_headline">Grant Thornton Resigns as Fremont’s Auditor</hl2>
+      </hedline>
+      <byline class="print_byline">By FLOYD NORRIS</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The auditor of Fremont General, a troubled financial company that is trying to sell its subprime mortgage business, has resigned with a complaint that the company had failed to provide information when promised.</p>
+        <p>The resignation was disclosed by Fremont General in a filing with the Securities and Exchange Commission after the stock market closed yesterday.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The auditor of Fremont General resigned with a complaint that the company had failed to provide information when promised.</p>
+      </block>
+      <block class="full_text">
+        <p>The auditor of Fremont General, a troubled financial company that is trying to sell its subprime mortgage business, has resigned with a complaint that the company had failed to provide information when promised.</p>
+        <p>The resignation was disclosed by Fremont General in a filing with the Securities and Exchange Commission after the stock market closed yesterday.</p>
+        <p>In it, Grant Thornton, the auditing firm, said that it disagreed with statements that the company had made in announcing the departure.</p>
+        <p>The departure of the auditing firm, which was hired in August after Fremont fired its former auditor, Ernst &amp; Young, raised questions about when, if ever, the company would be able to file its annual report for 2006, which is already overdue.</p>
+        <p>In the S.E.C. filing, Fremont said its audit committee was looking for a new auditor, but added, ''There can be no assurance that the company will be able to retain a new independent registered public accounting firm.''</p>
+        <p>According to the filing, Grant Thornton resigned a week ago. Fremont said that in late February, Grant Thornton decided to expand the scope of the audit ''in light of the company's current operating environment and the industry in which it operates,'' and said it had cooperated.</p>
+        <p>But in a letter dated yesterday, the auditing firm disagreed with part of that statement.</p>
+        <p>''During the course of the audit there were instances where the company did not provide certain requested information to Grant Thornton on dates previously agreed upon with management.'' It said that amounted to a ''reportable event'' under S.E.C. rules, meaning it was required to notify the commission of it.</p>
+        <p>The regulation it cited covers instances where the auditor sees evidence that could ''materially affect the reliability'' of the company's financial statements.</p>
+        <p>The auditor problems provided another jolt to Fremont stock. Its shares, which traded for as much as $31 in 2004, closed at $6.52, down 41 cents, on Monday before the resignation was disclosed. They traded for as little as $5.60 in after-hours trading.</p>
+        <p>Grant Thornton, which ranks in the second tier of accounting firms in the United States, just below the Big Four, also resigned as auditor of another subprime lender, Accredited Home Lenders, that company disclosed late Monday.</p>
+        <p>Accredited said Grant Thornton had given it a resignation letter, dated March 27, on Friday. It said the company had neither asked for nor accepted the letter of resignation, and added that it would also be unable to file its annual report.</p>
+        <p>Accredited said its audit committee was ''reviewing the circumstances'' of the resignation and was seeking a new auditor. The company said it planned to continue making mortgage loans while it looks for one.</p>
+        <p>Accredited stock, which traded over $60 a share less than a year ago, fell 79 cents to $8.48 on Monday, before the auditor resignation was disclosed. It traded as low as $7.55 in after-hours trading.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

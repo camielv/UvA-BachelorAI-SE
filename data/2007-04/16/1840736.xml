@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Japanese, at Times English, Rules the Blogs</title>
+    <meta content="16drill" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/16/technology/16drill.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840736"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="DRILLING DOWN"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Japan</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Japan</classifier>
+        <classifier class="online_producer" type="descriptor">Blogs and Blogging (Internet)</classifier>
+        <classifier class="online_producer" type="descriptor">English Language</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">English Language</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blogs and Blogging (Internet)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Language and Languages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <location class="online_producer">Japan</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070416T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F03EFDF113FF935A25757C0A9619C8B63" item-length="199" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Japanese, at Times English, Rules the Blogs</hl1>
+        <hl2 class="online_headline">Japanese, at Times English, Rules the Blogs</hl2>
+      </hedline>
+      <byline class="print_byline">By ALEX MINDLIN</byline>
+      <byline class="normalized_byline">Mindlin, Alex</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>What is the Internet's most blogged in language? It depends on the month. English and Japanese have leapfrogged each other in the last couple of years.</p>
+        <p>In November 2005, it was Japanese by six percentage points; in April 2006, English. And over the last quarter of 2006, Japanese accounted for 37 percent of all postings, compared with 36 percent in English, according to a report by the blog tracking firm Technorati. (The data omitted password-protected blogs and are known to undercount French and Korean for technical reasons.)</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>What is the Internet’s most blogged in language? English and Japanese have leapfrogged each other in the last couple of years.</p>
+      </block>
+      <block class="full_text">
+        <p>What is the Internet's most blogged in language? It depends on the month. English and Japanese have leapfrogged each other in the last couple of years.</p>
+        <p>In November 2005, it was Japanese by six percentage points; in April 2006, English. And over the last quarter of 2006, Japanese accounted for 37 percent of all postings, compared with 36 percent in English, according to a report by the blog tracking firm Technorati. (The data omitted password-protected blogs and are known to undercount French and Korean for technical reasons.)</p>
+        <p>English and Japanese postings appear quite different from each other. Japanese postings are often sent text-message-style, from mobile phones, so they tend to be shorter and more frequent. English postings, mostly sent from computers, are longer and more sporadic.</p>
+        <p>English postings also occur more uniformly across the day than those in Japanese. They seem as likely to appear at 4 a.m. as at 9 p.m., presumably because English is spoken at many different longitudes. Japanese, Chinese and Italian posts, by contrast, dip sharply at certain hours. ''When people are sleeping in Italy,'' said David L. Sifry, Technorati's founder, ''the number of Italian posts is going to go down.''</p>
+        <p>ALEX MINDLIN</p>
+        <p>DRILLING DOWN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

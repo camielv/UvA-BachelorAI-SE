@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Victoria Van Hyning, Alyn Still</title>
+    <meta content="01vanhyning" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/01/fashion/weddings/01vanhyning.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837259"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Hyning, Victoria Anne Van</person>
+        <person class="indexing_service">Still, Alyn Timothy</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B06E7DD1130F932A35757C0A9619C8B63" item-length="206" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Victoria Van Hyning, Alyn Still</hl1>
+        <hl2 class="online_headline">Victoria Van Hyning, Alyn Still</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Victoria Anne Van Hyning, the daughter of Marlene C. Piturro and Howard M. Van Hyning of Hastings-on-Hudson, N.Y., was married yesterday to Alyn Timothy Still, a son of Helen Still and Michael T. Still of Wrexham, Wales. Jon Berry, a member of the ministry and counsel committee of the Purchase Friends Meeting in Purchase, N.Y., oversaw the Quaker ceremony there.</p>
+        <p>The bride, 22, will keep her name. She was until December the assistant to the archivist and special collections librarian at Goucher College in Baltimore. In October she is to begin studying for a master's in Middle English at Oxford University. She graduated from Goucher.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Victoria Anne Van Hyning, the daughter of Marlene C. Piturro and Howard M. Van Hyning of Hastings-on-Hudson, N.Y., was married yesterday to Alyn Timothy Still, a son of Helen Still and Michael T. Still of Wrexham, Wales. Jon Berry, a member of the ministry and counsel committee of the Purchase Friends Meeting in Purchase, N.Y., oversaw the Quaker ceremony there.</p>
+      </block>
+      <block class="full_text">
+        <p>Victoria Anne Van Hyning, the daughter of Marlene C. Piturro and Howard M. Van Hyning of Hastings-on-Hudson, N.Y., was married yesterday to Alyn Timothy Still, a son of Helen Still and Michael T. Still of Wrexham, Wales. Jon Berry, a member of the ministry and counsel committee of the Purchase Friends Meeting in Purchase, N.Y., oversaw the Quaker ceremony there.</p>
+        <p>The bride, 22, will keep her name. She was until December the assistant to the archivist and special collections librarian at Goucher College in Baltimore. In October she is to begin studying for a master's in Middle English at Oxford University. She graduated from Goucher.</p>
+        <p>Her father, who retired as the principal percussionist of the New York City Opera Orchestra, owns Van Percussion Services, which rents musical instruments, in Dobbs Ferry, N.Y. Her mother writes about health care economics in Caring for the Ages, The Hospitalist and other trade publications.</p>
+        <p>Mr. Still, 23, was until January a manager of the Oxford Quaker Center in England. He is a Web site and database designer in Oxford. He graduated from Oxford University.</p>
+        <p>His mother is a speech therapist in Wrexham. His father retired as the deputy principal and an art teacher at Moor House School in Oxted, England.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

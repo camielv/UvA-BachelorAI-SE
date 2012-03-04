@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Stock Offerings This Week</title>
+    <meta content="23equity" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1842378"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070423T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B04E3DA173EF930A15757C0A9619C8B63" item-length="123" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Stock Offerings This Week</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The following equity and convertible debt offerings are expected this week:</p>
+        <p>CardioMEMS, an initial public offering of six million shares. Bank of America.</p>
+        <p>Cinemark Holdings, an initial public offering of 28 million shares. Lehman Brothers, Credit Suisse and Merrill Lynch.</p>
+        <p>Empresa Distribuidora y Comercializadora Norte, an initial public offering of 15.2 million shares. Citigroup and JPMorgan.</p>
+        <p>Ocean Power Technologies, an initial public offering of five million shares. UBS, Bank of America and Bear Stearns.</p>
+        <p>Ocean Freight, an initial public offering of 10.8 million shares. Bank of America and Cantor Fitzgerald.</p>
+        <p>Orexigen Therapeutics, an initial public offer of six million shares. Merrill Lynch.</p>
+        <p>Pharmasset, an initial public offering of six million shares. Bank of America and UBS.</p>
+        <p>(Source by MCM EquityWatch )</p>
+      </block>
+      <block class="full_text">
+        <p>The following equity and convertible debt offerings are expected this week:</p>
+        <p>CardioMEMS, an initial public offering of six million shares. Bank of America.</p>
+        <p>Cinemark Holdings, an initial public offering of 28 million shares. Lehman Brothers, Credit Suisse and Merrill Lynch.</p>
+        <p>Empresa Distribuidora y Comercializadora Norte, an initial public offering of 15.2 million shares. Citigroup and JPMorgan.</p>
+        <p>Ocean Power Technologies, an initial public offering of five million shares. UBS, Bank of America and Bear Stearns.</p>
+        <p>Ocean Freight, an initial public offering of 10.8 million shares. Bank of America and Cantor Fitzgerald.</p>
+        <p>Orexigen Therapeutics, an initial public offer of six million shares. Merrill Lynch.</p>
+        <p>Pharmasset, an initial public offering of six million shares. Bank of America and UBS.</p>
+        <p>(Source by MCM EquityWatch )</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

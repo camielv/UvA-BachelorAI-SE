@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Fire at Orphanage In Sarajevo Kills 5</title>
+    <meta content="23sarajevo" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20070424T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1842455"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070423T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B01E4D8173EF930A15757C0A9619C8B63" item-length="122" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Fire at Orphanage In Sarajevo Kills 5</hl1>
+      </hedline>
+      <dateline>LJUBLJANA, Slovenia, April 22</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A fire in a downtown orphanage in Sarajevo, Bosnia's capital, killed five babies and injured 19 others on Sunday, the chief prosecutor's office said.</p>
+        <p>The fire broke out in a third floor room of the Ljubica Izevic children's home shortly before 6 a.m., said Dubravko Champara of the prosecutor's office. While fire crews were able to put out the blaze rapidly, he said, three boys and two girls died from the effects of smoke inhalation.</p>
+      </block>
+      <block class="full_text">
+        <p>A fire in a downtown orphanage in Sarajevo, Bosnia's capital, killed five babies and injured 19 others on Sunday, the chief prosecutor's office said.</p>
+        <p>The fire broke out in a third floor room of the Ljubica Izevic children's home shortly before 6 a.m., said Dubravko Champara of the prosecutor's office. While fire crews were able to put out the blaze rapidly, he said, three boys and two girls died from the effects of smoke inhalation.</p>
+        <p>A nurse who had tried to save some of the babies was also injured, with burns to the arms and face, Mr. Champara said in a telephone interview. Nineteen others were being treated for smoke inhalation and were not thought to be in critical condition, he said.</p>
+        <p>Correction:  April 24, 2007, Tuesday  Because of an editing error, a brief article yesterday about a deadly orphanage fire in the Bosnian capital of Sarajevo referred incorrectly in some copies to the location of Ljubljana, the city in the dateline, where the article was reported and written. It is in Slovenia, not Slovakia.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: April 24, 2007, Tuesday</p>
+        <p>Because of an editing error, a brief article yesterday about a deadly orphanage fire in the Bosnian capital of Sarajevo referred incorrectly in some copies to the location of Ljubljana, the city in the dateline, where the article was reported and written. It is in Slovenia, not Slovakia.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

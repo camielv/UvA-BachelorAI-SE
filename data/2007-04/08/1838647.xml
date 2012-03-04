@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Washington Back Channel</title>
+    <meta content="08letters.t-1" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Magazine; Washington; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838647"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Perjury</classifier>
+        <classifier class="indexing_service" type="descriptor">United States International Relations</classifier>
+        <classifier class="indexing_service" type="descriptor">United States Armament and Defense</classifier>
+        <classifier class="indexing_service" type="descriptor">News and News Media</classifier>
+        <location class="indexing_service">Iraq</location>
+        <org class="indexing_service">Central Intelligence Agency</org>
+        <person class="indexing_service">Libby, I Lewis Jr</person>
+        <person class="indexing_service">Wilson, Valerie Plame</person>
+        <person class="indexing_service">Garbus, Martin</person>
+        <person class="indexing_service">Grossman, Lawrence K</person>
+        <person class="indexing_service">Frankel, Max</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Iraq</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Perjury</classifier>
+        <classifier class="online_producer" type="general_descriptor">Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070408T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9403E5DE163FF93BA35757C0A9619C8B63" item-length="418" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Washington Back Channel</hl1>
+      </hedline>
+      <abstract>
+        <p>Martin Garbus letter disputes Max Frankel's argument in March 25 article that I Lewis Libby Jr should never have been prosecuted for perjury in investigation into leaking of CIA agent's identity; letter from Lawrence K Grossman, former president of NBC News and PBS, welcomes fact that 'back alley' relationships between press and government officials have finally been made available for public scrutiny; photos</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Max Frankel's fine article (March 25) on the Libby trial is marred by his conclusion that the prosecution never should have been filed because ''it failed to produce firm evidence of any crime'' and because of the damage it did to journalists and their ability to get important stories.</p>
+      </block>
+      <block class="full_text">
+        <p>Max Frankel's fine article (March 25) on the Libby trial is marred by his conclusion that the prosecution never should have been filed because ''it failed to produce firm evidence of any crime'' and because of the damage it did to journalists and their ability to get important stories.</p>
+        <p>I disagree. The prosecution should have been brought.</p>
+        <p>Journalists do not have a monopoly on the search for truth. A trial is often a place where truth is shown. This trial showed how the Bush administration worked. It showed, for those who wanted to see, more about the relationship between Cheney, Rove, Bush and Libby. It resulted in the conviction of one of the highest-placed government officials in American history. It cast an unflattering light on some news gatherers, but given the facts, it was an appropriate light. It also showed, better than the press has, how politicians use reporters and how reporters use politicians, each for their own ends.</p>
+        <p>There are cases in which overly ambitious prosecutors use the press in insignificant cases. But this was not one of them. Frankel's admonition to future prosecutors, that cases like this should not be filed, is wrongheaded. Obstruction of justice is a serious crime; obstruction of justice at the highest levels of government is a very serious crime. In fact, very few good reporters were damaged at the trial itself. We are left to speculate about future damage, and like Frankel, I assume, although courts do not, there may be some sources that now may be more reluctant. But on balance, letting Libby off the hook was too high a price to pay.</p>
+        <p>Martin Garbus</p>
+        <p>New York</p>
+        <p>Frankel's brilliant and revealing essay offers the best refutation of his own conclusion that when it comes to journalists, ''attorneys general and others armed with subpoena power'' should ''back off'' and ''butt out.'' He provided a fascinating and long-overdue account of what the public needs to know about how leaked information flows to the press in Washington -- for the best of reasons and the worst. Rather than regret that the ''back alley'' relationship between the press and government officials has been exposed at last, we should applaud the fact that these secrets have finally been made available for public scrutiny.</p>
+        <p>Notwithstanding all the press hand-wringing about its inner workings being exposed during the Libby trial, nobody has offered evidence that anonymous sources no longer leak their secrets.</p>
+        <p>Lawrence K. Grossman</p>
+        <p>(Former President of NBC News and PBS)</p>
+        <p>New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

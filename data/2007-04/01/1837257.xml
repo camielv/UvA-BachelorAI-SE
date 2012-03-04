@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Rebecca Roses, Travis Harrison</title>
+    <meta content="01roses" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/01/fashion/weddings/01roses.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837257"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Roses, Rebecca Jill (Rebecca Jill Harrison)</person>
+        <person class="indexing_service">Harrison, Travis</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E05E7DD1130F932A35757C0A9619C8B63" item-length="192" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Rebecca Roses, Travis Harrison</hl1>
+        <hl2 class="online_headline">Rebecca Roses, Travis Harrison</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Rebecca Jill Roses, the daughter of Helene Levy Roses and Dr. Daniel F. Roses of New York, and Travis Harrison, the son of Adrienne Harrison of East Moriches, N.Y., and Thomas J. Harrison of Naples, Fla., were married last evening at Guastavino's in New York. Rabbi Barton A. Shallat officiated.</p>
+        <p>The bride and bridegroom met at Columbia, from which they graduated.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Rebecca Jill Roses, the daughter of Helene Levy Roses and Dr. Daniel F. Roses of New York, and Travis Harrison, the son of Adrienne Harrison of East Moriches, N.Y., and Thomas J. Harrison of Naples, Fla., were married last evening at Guastavino’s in New York. Rabbi Barton A. Shallat officiated.</p>
+      </block>
+      <block class="full_text">
+        <p>Rebecca Jill Roses, the daughter of Helene Levy Roses and Dr. Daniel F. Roses of New York, and Travis Harrison, the son of Adrienne Harrison of East Moriches, N.Y., and Thomas J. Harrison of Naples, Fla., were married last evening at Guastavino's in New York. Rabbi Barton A. Shallat officiated.</p>
+        <p>The bride and bridegroom met at Columbia, from which they graduated.</p>
+        <p>Mrs. Harrison, 28, is a preschool teacher at the Garden House School of New York. She received a master's degree in music technology from New York University. She is studying for a second master's degree, in early childhood education, at Bank Street College of Education in New York.</p>
+        <p>Her father is a professor of surgery and oncology at the School of Medicine at N.Y.U., and her mother is a registered nurse there.</p>
+        <p>Mr. Harrison, 27, is the founder and owner of Serious Business Music, a record label and recording studio in New York.</p>
+        <p>His mother is a sixth-grade teacher at James Wilson Young Middle School in Bayport, N.Y. His father, a real estate developer, is the founder and chief executive of Discovery Communities in Bonita Springs, Fla., which develops assisted-living housing.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

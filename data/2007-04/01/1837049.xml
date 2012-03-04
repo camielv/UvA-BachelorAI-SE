@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Style; Me Dress Pretty</title>
+    <meta content="01Style.t" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine" name="dsk"/>
+    <meta content="50" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Magazine" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837049"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Apparel</classifier>
+        <person class="indexing_service">Bradshaw, David</person>
+        <person class="indexing_service">Limnander, Armand</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine/Columns/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Fashion, Beauty and Fitness</classifier>
+        <classifier class="online_producer" type="general_descriptor">Apparel</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940CE3DA1230F932A35757C0A9619C8B63" item-length="414" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Style; Me Dress Pretty</hl1>
+      </hedline>
+      <byline class="print_byline">By ARMAND LIMNANDER</byline>
+      <byline class="normalized_byline">Limnander, Armand</byline>
+      <abstract>
+        <p>Fashion stylist David Bradshaw is having impact on way men dress; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Fashion stylists have one of the most fungible, hard-to-define jobs on the planet. One day they'll be fussing over fabrics with a designer, or casting models for a show; the next, they're consulting with a celebrity about what to wear to a movie premiere or flying to Dubai with trunks overflowing with runway looks for a photo shoot. Take David Bradshaw, who is currently the editor of GQ Style, the glossy biannual offshoot of British GQ. During the past two decades, he has collaborated on videos for Michael Jackson, Madonna and Janet Jackson; steered the fashion content of Arena and Arena Homme Plus magazines; helped articulate the image of labels like Katharine Hamnett, Jil Sander and Calvin Klein; and worked as Miuccia Prada's right-hand man in men's wear. He is also, at least judging by the photos on these pages, not an ungainly model.</p>
+      </block>
+      <block class="full_text">
+        <p>Fashion stylists have one of the most fungible, hard-to-define jobs on the planet. One day they'll be fussing over fabrics with a designer, or casting models for a show; the next, they're consulting with a celebrity about what to wear to a movie premiere or flying to Dubai with trunks overflowing with runway looks for a photo shoot. Take David Bradshaw, who is currently the editor of GQ Style, the glossy biannual offshoot of British GQ. During the past two decades, he has collaborated on videos for Michael Jackson, Madonna and Janet Jackson; steered the fashion content of Arena and Arena Homme Plus magazines; helped articulate the image of labels like Katharine Hamnett, Jil Sander and Calvin Klein; and worked as Miuccia Prada's right-hand man in men's wear. He is also, at least judging by the photos on these pages, not an ungainly model.</p>
+        <p>Bradshaw was studying civil engineering in London when John Babbage, an illustrator friend for whom he used to sit, introduced him to fashion. ''He probably realized that I was going to have a very boring life as an engineer,'' Bradshaw says. He did some shoots on spec and shopped them around to magazines. After several tries, Arena picked one up and eventually offered him a staff job. ''The truth is, I had always been interested in men's style,'' he remembers. ''A couple of school friends were dandies, and my father always dressed very sharply -- he was a manual laborer, so he wore work clothes during the day, but in the evening he was immaculately turned out.'' Dad's sense of propriety rubbed off: Bradshaw is rarely seen in jeans or short sleeves. In fact, the sharply tailored, ankle-length trousers and short jackets that he has been rocking for years presciently anticipated the shrunken proportions favored by new-guard designers like Thom Browne.</p>
+        <p>Bradshaw sees this neo-popinjay movement taking hold especially in New York. Aside from Thom Browne, he points to the influence of boutiques like Freemans Sporting Club, on Manhattan's Lower East Side, and to American designers ranging from established figures like Ralph Lauren, Tom Ford and Calvin Klein to up-and-comers like Shawn Collins and Adam Kimmel. And clearly, Bradshaw is not afraid to lead by example. ''Someone recently mentioned that he could have never danced around the streets of New York like I did for this shoot,'' he says. ''But the truth is, I felt completely comfortable doing it. In fact, I had the best time.''</p>
+        <p>ARMAND LIMNANDER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

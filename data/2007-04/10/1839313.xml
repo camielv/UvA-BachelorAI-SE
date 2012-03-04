@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>General Wants Increased Troops Into Fall</title>
+    <meta content="10troops" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="World; Washington" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/10/world/middleeast/10troops.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1839313"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Terrorism</classifier>
+        <classifier class="indexing_service" type="descriptor">United States Armament and Defense</classifier>
+        <classifier class="indexing_service" type="descriptor">United States International Relations</classifier>
+        <location class="indexing_service">Iraq</location>
+        <person class="indexing_service">Petraeus, David H (Gen)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Iraq</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Iraq</classifier>
+        <classifier class="online_producer" type="descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">Iraq</location>
+        <org class="online_producer">Defense Department</org>
+        <person class="online_producer">Petraeus, David H</person>
+        <person class="online_producer">Odierno, Raymond T</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070410T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B06E3DC153FF933A25757C0A9619C8B63" item-length="156" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>General Wants Increased Troops Into Fall</hl1>
+        <hl2 class="online_headline">General Wants Increased Troops Into Fall</hl2>
+      </hedline>
+      <dateline>WASHINGTON, April 9</dateline>
+      <abstract>
+        <p>Top US commander in Iraq Gen David H Petraeus recommends current reinforced troop level of 20 ground combat brigades be maintained at least through September (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The top American commander in Iraq has recommended that reinforced troop levels in Iraq be maintained at least through September, Pentagon officials said Monday.</p>
+        <p>The commander, Gen. David H. Petraeus, recommended that the current level of 20 ground combat brigades be maintained into the fall, they said.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Gen. David H. Petraeus has recommended that troop levels in Iraq be maintained at least through September, Pentagon officials said.</p>
+      </block>
+      <block class="full_text">
+        <p>The top American commander in Iraq has recommended that reinforced troop levels in Iraq be maintained at least through September, Pentagon officials said Monday.</p>
+        <p>The commander, Gen. David H. Petraeus, recommended that the current level of 20 ground combat brigades be maintained into the fall, they said.</p>
+        <p>Pentagon officials are examining options for how to maintain the buildup. A leading option is to extend the deployment of four ground combat brigades and an aviation brigade, which have a combined strength of more than 15,000 troops.</p>
+        <p>President Bush announced in January that five additional combat brigades were to be deployed in Iraq as part of a troop buildup.</p>
+        <p>Lt. Gen. Raymond T. Odierno, the day-to-day commander of American forces in Iraq and the second-ranking official there, has advised that the increased troop levels are needed through February 2008.</p>
+        <p>Additional deployments and tour extensions would be required to maintain such an increase into the early part of 2008.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

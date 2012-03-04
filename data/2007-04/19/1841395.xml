@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>St. Louis Renaissance</title>
+    <meta content="l19stlouis" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1841395"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Missouri/St. Louis</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Missouri</classifier>
+        <classifier class="online_producer" type="general_descriptor">Land Use Policies</classifier>
+        <classifier class="online_producer" type="general_descriptor">Geographic Profiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Geography</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070419T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990DE1D81E3FF93AA25757C0A9619C8B63" item-length="155" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>St. Louis Renaissance</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Hopes for a Renaissance After Exodus in St. Louis'' (news article, April 17):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Hopes for a Renaissance After Exodus in St. Louis'' (news article, April 17):</p>
+        <p>I was one of the 856,796 counted by the 1950 census in St. Louis and one the 348,189 counted by the 2000 census. The house in which I was counted in 1950 is 50 yards from the house in which I was counted in 2000. This is where I still live. I have lived through every stage of the exodus and renaissance of St. Louis described in your article.</p>
+        <p>In 1991, I purchased a 40,000-square-foot building that was vacant for 22 years. Sixteen years later the building is home to a successful microbrewery. The neighborhood, slightly west of downtown, includes 900-square-foot lofts that are selling for more than I paid for my building.</p>
+        <p>The renaissance of St. Louis is not simply ''hoped for,'' as your headline implies. It's real.</p>
+        <p>Tom Schlafly  St. Louis, April 17, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

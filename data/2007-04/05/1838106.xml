@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Remember the Veterans</title>
+    <meta content="l05veteran" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838106"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Vietnam War</classifier>
+        <classifier class="online_producer" type="general_descriptor">Veterans</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">War and Revolution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070405T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0CE7DB163FF936A35757C0A9619C8B63" item-length="143" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Remember the Veterans</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>For the last 36 years I have been one of ''the ones who can't see anymore,'' as the actor Gary Sinise describes wounded veterans in Bob Herbert's April 2 column (''Our National Debt''). With virtually no help from elected officials and most national veterans groups, it took me until 1998 to receive benefits for Vietnam war-related legal blindness.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>For the last 36 years I have been one of ''the ones who can't see anymore,'' as the actor Gary Sinise describes wounded veterans in Bob Herbert's April 2 column (''Our National Debt''). With virtually no help from elected officials and most national veterans groups, it took me until 1998 to receive benefits for Vietnam war-related legal blindness.</p>
+        <p>If Mr. Sinise and the proposed Americans Disabled for Life Memorial might remind people that we could still use a hand (a ride to a park, getting to and selecting food at the grocery store, retrieving money from an ATM, even going to a movie), our lives would be less sterile.</p>
+        <p>Perhaps the only good thing to come out of this war is the wider awareness that many wounds of war are endless.</p>
+        <p>Bruce Rider  Grapevine, Tex., April 3, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

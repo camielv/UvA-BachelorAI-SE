@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   KUSHNER, DORIS</title>
+    <meta content="dn041907.1" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1841271"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">KUSHNER, DORIS</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070419T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE0D81F3AF93AA25757C0A9619C8B63" item-length="103" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   KUSHNER, DORIS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>KUSHNER--Doris. Sisterhood Park East Synagogue extends its deepest sympathy to our beloved past President and current Co-Chairman of the Board Ninette Stiskin, and to her family on the loss of her beloved mother. Polly Etkind Hochberg, President Lois Kirsh, Co-Chairman</p>
+        <p>$(6$)KUSHNER--Doris/d. Park East Synagogue and Rabbi Arthur Schneier Park East Day School mourn Doris Kushner, beloved mother of Ninette (Mayer) Stiskin, devoted member and Sisterhood Board Co-Chairman. Mayer, Trustee, and Day School Board Member and Ninette are respected leaders and benefactors. Deepest sympathy to the entire family. May they find comfort among the mourners of Zion and Jerusalem. Rabbi Arthur Schneier</p>
+      </block>
+      <block class="full_text">
+        <p>KUSHNER--Doris. Sisterhood Park East Synagogue extends its deepest sympathy to our beloved past President and current Co-Chairman of the Board Ninette Stiskin, and to her family on the loss of her beloved mother. Polly Etkind Hochberg, President Lois Kirsh, Co-Chairman</p>
+        <p>$(6$)KUSHNER--Doris/d. Park East Synagogue and Rabbi Arthur Schneier Park East Day School mourn Doris Kushner, beloved mother of Ninette (Mayer) Stiskin, devoted member and Sisterhood Board Co-Chairman. Mayer, Trustee, and Day School Board Member and Ninette are respected leaders and benefactors. Deepest sympathy to the entire family. May they find comfort among the mourners of Zion and Jerusalem. Rabbi Arthur Schneier</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

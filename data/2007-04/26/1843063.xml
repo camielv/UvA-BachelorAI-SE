@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; Smithsonian Imposes Admission Fee</title>
+    <meta content="26arts-5" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1843063"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Wildlife</classifier>
+        <classifier class="online_producer" type="general_descriptor">Butterflies and Moths</classifier>
+        <classifier class="online_producer" type="general_descriptor">Flowers and Plants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insects</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070426T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A06E1DC153EF935A15757C0A9619C8B63" item-length="156" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; Smithsonian Imposes Admission Fee</hl1>
+      </hedline>
+      <byline class="print_byline">By ROBIN POGREBIN; Compiled by Lawrence Van Gelder</byline>
+      <byline class="normalized_byline">Pogrebin, Robin</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Smithsonian Institution plans to charge admission for part of a new permanent exhibition at the National Museum of Natural History called ''Butterflies and Plants: Partners in Evolution,'' the museum confirmed yesterday. Admission to the Smithsonian's Washington museums has historically been free; the institution receives 70 percent of its financing from the government. Some members of Congress have recently urged the institution to find ways to raise more of its own money. The exhibition, scheduled to open in November, will include a climate-controlled space full of butterflies that requires admission of about $5. The rest of the show, which focuses on plants and butterflies, will be free. The Washington Post reported yesterday that the fee was planned. The decision was made by the Smithsonian Board of Regents, The Post said, citing minutes it obtained of the board's January meeting. Fees would be waived one day a week.</p>
+        <p>ROBIN POGREBIN</p>
+      </block>
+      <block class="full_text">
+        <p>The Smithsonian Institution plans to charge admission for part of a new permanent exhibition at the National Museum of Natural History called ''Butterflies and Plants: Partners in Evolution,'' the museum confirmed yesterday. Admission to the Smithsonian's Washington museums has historically been free; the institution receives 70 percent of its financing from the government. Some members of Congress have recently urged the institution to find ways to raise more of its own money. The exhibition, scheduled to open in November, will include a climate-controlled space full of butterflies that requires admission of about $5. The rest of the show, which focuses on plants and butterflies, will be free. The Washington Post reported yesterday that the fee was planned. The decision was made by the Smithsonian Board of Regents, The Post said, citing minutes it obtained of the board's January meeting. Fees would be waived one day a week.</p>
+        <p>ROBIN POGREBIN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

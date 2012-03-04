@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>World Briefing | Middle East: Gaza Strip: Protests Over Kidnapped Reporter</title>
+    <meta content="03briefs-5" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837808"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Palestinians</classifier>
+        <classifier class="indexing_service" type="descriptor">Demonstrations and Riots</classifier>
+        <classifier class="indexing_service" type="descriptor">News and News Media</classifier>
+        <classifier class="indexing_service" type="descriptor">Boycotts</classifier>
+        <classifier class="indexing_service" type="descriptor">Kidnapping</classifier>
+        <location class="indexing_service">Israel</location>
+        <location class="indexing_service">Gaza Strip</location>
+        <org class="indexing_service">British Broadcasting Corp</org>
+        <person class="indexing_service">Kershner, Isabel</person>
+        <person class="indexing_service">Johnston, Alan</person>
+        <person class="indexing_service">Abbas, Mahmoud (Pres)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Palestinian Authority</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Gaza Strip</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Israel</classifier>
+        <classifier class="online_producer" type="general_descriptor">Kidnapping</classifier>
+        <classifier class="online_producer" type="general_descriptor">Demonstrations and Riots</classifier>
+        <classifier class="online_producer" type="general_descriptor">Boycotts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Palestinians</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070403T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9802E0DB1F30F930A35757C0A9619C8B63" item-length="99" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>World Briefing | Middle East: Gaza Strip: Protests Over Kidnapped Reporter</hl1>
+      </hedline>
+      <byline class="print_byline">By ISABEL KERSHNER</byline>
+      <byline class="normalized_byline">Kershner, Isabel</byline>
+      <abstract>
+        <p>Palestinian journalists and others have sit-in outside prime minister's office in Gaza City, to demand increased efforts to find Alan Johnston, BBC correspondent abducted there; Palestinian journalist's union declares three-day news boycott of government and office of Pres Mahmoud Abbas (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>More than a hundred Palestinian journalists and others held a sit-in outside the prime minister's office in Gaza City to demand increased efforts to find Alan Johnston, the BBC correspondent abducted there three weeks ago. In the West Bank city of Ramallah, local and international journalists also called on the government to do more. The Palestinian journalists' union declared a three-day news boycott of the government and the office of President Mahmoud Abbas. BBC executives say there has been no information about Mr. Johnston's whereabouts nor any message from his captors saying what they want.</p>
+        <p>ISABEL KERSHNER</p>
+      </block>
+      <block class="full_text">
+        <p>More than a hundred Palestinian journalists and others held a sit-in outside the prime minister's office in Gaza City to demand increased efforts to find Alan Johnston, the BBC correspondent abducted there three weeks ago. In the West Bank city of Ramallah, local and international journalists also called on the government to do more. The Palestinian journalists' union declared a three-day news boycott of the government and the office of President Mahmoud Abbas. BBC executives say there has been no information about Mr. Johnston's whereabouts nor any message from his captors saying what they want.</p>
+        <p>ISABEL KERSHNER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

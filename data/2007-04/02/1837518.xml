@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Partnership Offsets Costs Of Video by Fall Out Boy</title>
+    <meta content="02tag" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/02/technology/02tag.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837518"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MEDIA TALK"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="descriptor">Recordings and Downloads (Video)</classifier>
+        <classifier class="online_producer" type="descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deodorants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cosmetics and Toiletries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <org class="online_producer">Fall Out Boy</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070402T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990DE7D81E30F931A35757C0A9619C8B63" item-length="341" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Partnership Offsets Costs Of Video by Fall Out Boy</hl1>
+        <hl2 class="online_headline">Partnership Offsets Costs of Video by Fall Out Boy</hl2>
+      </hedline>
+      <byline class="print_byline">By ROBERT LEVINE</byline>
+      <byline class="normalized_byline">Levine, Robert</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Fans of Fall Out Boy who downloaded ''Thnks Fr Th Mmrs,'' the rock band's new video last weekend most likely enjoyed the spectacle of chimpanzees playing filmmakers and mocking the members of the band. But they may have noticed something else: Tag All Nighter, a deodorant body spray aimed at young men, is featured prominently in the video.</p>
+        <p>Procter &amp; Gamble, which owns Tag, made a deal with the band's label, Island Records, to make the video available for free downloading from the band's Web site before it could be seen anywhere else.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>More musicians have made product placement deals for videos in the last few years.</p>
+      </block>
+      <block class="full_text">
+        <p>Fans of Fall Out Boy who downloaded ''Thnks Fr Th Mmrs,'' the rock band's new video last weekend most likely enjoyed the spectacle of chimpanzees playing filmmakers and mocking the members of the band. But they may have noticed something else: Tag All Nighter, a deodorant body spray aimed at young men, is featured prominently in the video.</p>
+        <p>Procter &amp; Gamble, which owns Tag, made a deal with the band's label, Island Records, to make the video available for free downloading from the band's Web site before it could be seen anywhere else.</p>
+        <p>Since CD sales are declining but the cost of making a video is not, many musicians have made product placement deals for videos in the last few years. In this deal, Tag essentially underwrote the cost of those downloads for a limited time and put a message to that effect on the band's Web site. Tag also promoted the band in advertising and helped offset the cost of making the video.</p>
+        <p>''It used to be that you'd make a video and you'd get a certain number of plays on MTV, but things changed,'' said Steve Bartels, president of Island Records. The deal with Tag offered another way to reach viewers, and the label said that video was downloaded more than 100,000 times.</p>
+        <p>At a time when music labels are trying to reduce their promotional costs, deals like this could become more common. ''If it offset the cost of the video it sounds like a great idea,'' said Scott Booker, who manages the alternative rock band the Flaming Lips. He said that younger fans were less likely to perceive such deals as ''selling out.''</p>
+        <p>In this case, Fall Out Boy was comfortable with Tag because the brand's ads have a ''sarcastic spin,'' said Pete Wentz, the band's bassist and lyricist. ''Given how the industry is right now, you have to come up with new kinds of partnerships, and when you're able to offset the cost of the video, that's cool. Hiring chimps is not cheap.''</p>
+        <p>ROBERT LEVINE</p>
+        <p>MEDIA TALK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

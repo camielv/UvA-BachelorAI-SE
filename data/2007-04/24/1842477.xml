@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   COPPEL, IRVING G.</title>
+    <meta content="dn042407.2" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1842477"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">COPPEL, IRVING G.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070424T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B05E3DF163AF937A15757C0A9619C8B63" item-length="103" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   COPPEL, IRVING G.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>COPPEL--Irving G., age 76, of New York, NY, died at home on April 21, 2007. Born in Brooklyn, he graduated from Tulane Medical School and served residencies in Houston, San Francisco and Baltimore. After serving as faculty at the University of Illinois and a research fellow at Stanford University, he pursued his career as a pathologist with the Veterans Administration Hospital in East Orange, NJ. He is survived by his wife of 45 years, Suzanne Coppel, and sister, Helen Coppel. Friends may call Friday, April 27, 2007, from 11:00am to 1:00pm at Frank E. Campbell Funeral Chapel, 1076 Madison Ave., NY, NY.</p>
+      </block>
+      <block class="full_text">
+        <p>COPPEL--Irving G., age 76, of New York, NY, died at home on April 21, 2007. Born in Brooklyn, he graduated from Tulane Medical School and served residencies in Houston, San Francisco and Baltimore. After serving as faculty at the University of Illinois and a research fellow at Stanford University, he pursued his career as a pathologist with the Veterans Administration Hospital in East Orange, NJ. He is survived by his wife of 45 years, Suzanne Coppel, and sister, Helen Coppel. Friends may call Friday, April 27, 2007, from 11:00am to 1:00pm at Frank E. Campbell Funeral Chapel, 1076 Madison Ave., NY, NY.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

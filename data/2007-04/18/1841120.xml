@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CALENDAR</title>
+    <meta content="18fcal" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining, Dining Out/Cultural Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Dining and Wine" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/18/dining/18fcal.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1841120"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070418T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9801E1DE1E3FF93BA25757C0A9619C8B63" item-length="458" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CALENDAR</hl1>
+        <hl2 class="online_headline">Food Calendar</hl2>
+      </hedline>
+      <byline class="print_byline">By FLORENCE FABRICANT</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Cherry Blossom Time</p>
+        <p>Japanese cherry blossom, or sakura, festivals, featuring menus that incorporate cherry blossoms and their essences, are being held in several places around town.</p>
+        <p>From Monday through May 6 at En Japanese Brasserie, 435 Hudson Street (Leroy Street), a special eight-course cherry blossom menu will be served, $80: (212) 647-9196.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Cherry Blossom Time.</p>
+      </block>
+      <block class="full_text">
+        <p>Cherry Blossom Time</p>
+        <p>Japanese cherry blossom, or sakura, festivals, featuring menus that incorporate cherry blossoms and their essences, are being held in several places around town.</p>
+        <p>From Monday through May 6 at En Japanese Brasserie, 435 Hudson Street (Leroy Street), a special eight-course cherry blossom menu will be served, $80: (212) 647-9196.</p>
+        <p>The cherry blossoms on more than 200 trees are in bloom at the Brooklyn Botanic Garden, where the Terrace Café will feature special sakura dishes and drinks through May 6: (718) 623-7200.</p>
+        <p>A special cocktail inspired by the cherry blossoms at the Brooklyn Botanic Garden and made with sake, maraschino liqueur and cherry juice will be served through May 6 at the World Bar at Trump World Tower, 845 United Nations Plaza (47th Street and First Avenue) in Manhattan, $12: (212) 935-9361.</p>
+        <p>A number of cherry blossom drinks and dishes will also be served through May 6 at Matsuri, 369 West 16th Street, and for certain orders of drinks and dishes from the special menu customers will receive passes to the Brooklyn Botanic Garden: (212) 243-6400.</p>
+        <p>South African Wine Tasting</p>
+        <p>A free tasting of South African wines, with tidbits, will be held on Saturday from 2 to 5 p.m. at Union Square Wines, 140 Fourth Avenue (13th Street).</p>
+        <p>Balthazar's Birthday</p>
+        <p>On Monday, to celebrate its 10th anniversary, Balthazar, 80 Spring Street (Crosby Street), will pour a special house Champagne, free, by the glass at breakfast and by the bottle at lunch and dinner. Parties of six or more will receive two bottles of the Champagne, Gardet Premier Cru brut nonvintage: (212) 965-1414.</p>
+        <p>Dandelion Primer</p>
+        <p>A talk about dandelions and a tasting will be held on Tuesday at 7 p.m. in the Wallace Orientation Center, fourth floor, at the American Museum of Natural History. The fee is $18 for members, $20 for nonmembers: amnh.org.</p>
+        <p>Tasting Rosés</p>
+        <p>On April 25 from 2 to 4 p.m. the staff at Bette, 461 West 23rd Street, will taste rosé wines and outsiders are welcome to join them and learn about the wines. The fee is $60: (212) 366-0404.</p>
+        <p>Benefits</p>
+        <p>Tonight at the Puck Building, 295 Lafayette Street (Houston Street), a number of restaurants will prepare dishes to raise money for the American Cancer Society. Early V.I.P. tickets for admission at 6:30 p.m. are $250; general admission at 7:30 p.m. is $150 in advance from cancer.org/nynj, or $175 at the door.</p>
+        <p>A Champagne and antipasto party will raise money for the Madison Square Park Conservancy on April 26 from 6 to 8 p.m. at A Voce, 41 Madison Avenue (26th Street). Tickets, $50: (212) 545-8555. Higher price tickets ($250 and $1,000) include lunches or dinners at A Voce at future dates.</p>
+        <p>FLORENCE FABRICANT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

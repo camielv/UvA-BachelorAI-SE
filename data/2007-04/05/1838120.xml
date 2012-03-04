@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Compact Digital Camera That Can Shoot in Low Light</title>
+    <meta content="05camera" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/05/technology/05camera.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1838120"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CIRCUITS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Photography</classifier>
+        <classifier class="indexing_service" type="descriptor">Cameras</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <org class="indexing_service">Nikon Inc</org>
+        <person class="indexing_service">Katz, Marty</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="descriptor">Cameras</classifier>
+        <classifier class="online_producer" type="general_descriptor">Photography</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cameras</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <org class="online_producer">Nikon Corp</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070405T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9401E4DB163FF936A35757C0A9619C8B63" item-length="204" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Compact Digital Camera That Can Shoot in Low Light</hl1>
+        <hl2 class="online_headline">A Compact Digital Camera That Can Shoot in Low Light</hl2>
+      </hedline>
+      <byline class="print_byline">By MARTY KATZ</byline>
+      <byline class="normalized_byline">Katz, Marty</byline>
+      <abstract>
+        <p>Nikon's Coolp�</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Owners of digital single-lens reflex cameras can shoot in low light without flash by turning up their sensitivity controls. At settings of ISO 800 to 3200, the better cameras make pictures that are increasingly grainy, but still usable. At high settings, greater depth of field and faster shutter speeds make pictures sharper.</p>
+        <p>This ability has generally been lacking in pocket cameras -- until now. Nikon's just-released Coolpix P5000 pocket camera, available online and in stores for less than $400, is designed for high sensitivity, with a processor tuned for an improved signal-to-noise ratio and strong noise reduction.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Nikon’s 10-megapixel Coolpix P5000 camera is designed for high sensitivity.</p>
+      </block>
+      <block class="full_text">
+        <p>Owners of digital single-lens reflex cameras can shoot in low light without flash by turning up their sensitivity controls. At settings of ISO 800 to 3200, the better cameras make pictures that are increasingly grainy, but still usable. At high settings, greater depth of field and faster shutter speeds make pictures sharper.</p>
+        <p>This ability has generally been lacking in pocket cameras -- until now. Nikon's just-released Coolpix P5000 pocket camera, available online and in stores for less than $400, is designed for high sensitivity, with a processor tuned for an improved signal-to-noise ratio and strong noise reduction.</p>
+        <p>In informal tests, images shot at ISO 800 and 1600 show grain, but to a degree that is not terrible -- and the shots are better than those from the P5000's pocket-size peers. At ISO 3200, noise reduction reduces grain, but also some of the sharpness.</p>
+        <p>This 10-megapixel camera also has an antishake mechanism and a hot shoe for external flash units that can bounce light off a wall or ceiling for sophisticated effects.</p>
+        <p>And Nikon has brought back the optical viewfinder, a feature that has disappeared from most small cameras but helps those with glasses frame shots without squinting at the 2.5-inch screen.</p>
+        <p>MARTY KATZ</p>
+        <p>CIRCUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

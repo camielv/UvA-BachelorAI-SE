@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Suitors Raise Bid for Clear Channel</title>
+    <meta content="16deal" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/16/business/media/16deal.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840751"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="descriptor">Radio</classifier>
+        <classifier class="online_producer" type="descriptor">Reform and Reorganization</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Reform and Reorganization</classifier>
+        <classifier class="online_producer" type="general_descriptor">Radio</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <org class="online_producer">Clear Channel Communications Inc</org>
+        <org class="online_producer">Bain Capital</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070416T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E6DE113FF935A25757C0A9619C8B63" item-length="336" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Suitors Raise Bid for Clear Channel</hl1>
+        <hl2 class="online_headline">Suitors Raise Bid for Clear Channel</hl2>
+      </hedline>
+      <byline class="print_byline">By ANDREW ROSS SORKIN and MICHAEL J. de la MERCED</byline>
+      <byline class="normalized_byline">Sorkin, Andrew Ross; De La Merced, Michael J</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The two private equity firms seeking to buy Clear Channel Communications have sweetened their offer, fearing that their initial bid may be rejected by shareholders.</p>
+        <p>In a letter to Clear Channel's board, Bain Capital and Thomas H. Lee Partners have proposed raising their $26 billion offer, including debt, for the nation's largest radio company, people briefed on the negotiations said yesterday. The letter proposes several alternatives, including letting shareholders co-invest in a small part of the deal, in what is known as a stub. That would allow the investors a greater return, should the deal prove successful.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Bain Capital and Thomas H. Lee Partners have proposed raising their $26 billion offer for the nation’s largest radio company.</p>
+      </block>
+      <block class="full_text">
+        <p>The two private equity firms seeking to buy Clear Channel Communications have sweetened their offer, fearing that their initial bid may be rejected by shareholders.</p>
+        <p>In a letter to Clear Channel's board, Bain Capital and Thomas H. Lee Partners have proposed raising their $26 billion offer, including debt, for the nation's largest radio company, people briefed on the negotiations said yesterday. The letter proposes several alternatives, including letting shareholders co-invest in a small part of the deal, in what is known as a stub. That would allow the investors a greater return, should the deal prove successful.</p>
+        <p>Last week, Scott Sperling, the co-president of Thomas H. Lee, said at a conference that he was ''evaluating'' the situation, but did not say that the firms would raise their offer.</p>
+        <p>It is unclear whether the restructuring will be enough for Clear Channel's board and its shareholders, who have grumbled about the price.</p>
+        <p>Several investors in the company, including Fidelity Investments and Highfields Capital Management, a hedge fund, said they planned to vote against the current deal. Proxy advisory firms like Glass, Lewis &amp; Company, which wield influence on how shareholders vote, have recommended rejection.</p>
+        <p>Investors were hoping for a sweetened offer of at least $1.50 a share more. Exact terms of the deal could not be learned, but they are unlikely to be given anything near that. The offer of a stub, however, could appease large investors who are expecting the company to do well.</p>
+        <p>Clear Channel has already made one drastic move to help save the deal. Last month, its board said it would postpone the date of the shareholder vote on the deal by a month, to April 19.</p>
+        <p>More notably, it moved the record date, which determines the shareholders eligible to vote on the deal, to March 23, nearly three months after the original date in January. The move was seen by some analysts as a way to get more time to persuade recalcitrant shareholders.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

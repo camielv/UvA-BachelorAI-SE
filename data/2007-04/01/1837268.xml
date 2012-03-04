@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Emily Bahr, Jason Granet</title>
+    <meta content="01bahr" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837268"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Bahr, Emily Jane (Emily Jane Granet)</person>
+        <person class="indexing_service">Granet, Jason Sloan</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E02E7DB1130F932A35757C0A9619C8B63" item-length="178" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Emily Bahr, Jason Granet</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Emily Jane Bahr, a daughter of Ilene Bahr and Dr. Gerald Bahr of New York, was married last evening to Jason Sloan Granet, the son of Andrea Granet and Stephen Granet of North Caldwell, N.J. Rabbi Robert Summers officiated at the Lighthouse at Chelsea Piers in New York.</p>
+        <p>Mrs. Granet, 28, is the medical staff office administrator at NewYork-Presbyterian Hospital/Weill Cornell Medical Center. She graduated magna cum laude from Bowdoin College and received a master's degree in public health from Columbia.</p>
+      </block>
+      <block class="full_text">
+        <p>Emily Jane Bahr, a daughter of Ilene Bahr and Dr. Gerald Bahr of New York, was married last evening to Jason Sloan Granet, the son of Andrea Granet and Stephen Granet of North Caldwell, N.J. Rabbi Robert Summers officiated at the Lighthouse at Chelsea Piers in New York.</p>
+        <p>Mrs. Granet, 28, is the medical staff office administrator at NewYork-Presbyterian Hospital/Weill Cornell Medical Center. She graduated magna cum laude from Bowdoin College and received a master's degree in public health from Columbia.</p>
+        <p>Her father is the director of the critical care medicine division at Lenox Hill Hospital and an associate clinical professor of medicine at New York University School of Medicine. He is also an internist in New York, and the bride's mother is his office manager.</p>
+        <p>Mr. Granet, 29, is an associate at Goldman Sachs in New York, responsible for portfolio risk management and bond trading. He graduated from the University of Michigan.</p>
+        <p>His father works in Roseland, N.J., as a senior vice president in the private client group at Ryan Beck &amp; Company, a stock brokerage firm.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

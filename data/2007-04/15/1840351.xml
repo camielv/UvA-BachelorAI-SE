@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Baby Lust</title>
+    <meta content="15letters.t-3" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1840351"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Reproduction (Biological)</classifier>
+        <person class="indexing_service">Parker, Gail</person>
+        <person class="indexing_service">Orenstein, Peggy</person>
+        <person class="indexing_service">lieberman, sharon</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Reproduction (Biological)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9904E5DD123FF936A25757C0A9619C8B63" item-length="127" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Baby Lust</hl1>
+      </hedline>
+      <abstract>
+        <p>Gail Parker and Sharon Lieberman letters on Peggy Orenstein's April 1 article on women who are desperate to conceive a baby</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Well, of course, women who eat ice cream at least twice a week have a lower risk of infertility (Peggy Orenstein, April 1). Babies aren't stupid. They need some assurance that they'll be eating well for those nine months in the womb. Because once they're born, it'll be just milk and gruel for months.</p>
+      </block>
+      <block class="full_text">
+        <p>Well, of course, women who eat ice cream at least twice a week have a lower risk of infertility (Peggy Orenstein, April 1). Babies aren't stupid. They need some assurance that they'll be eating well for those nine months in the womb. Because once they're born, it'll be just milk and gruel for months.</p>
+        <p>Gail Parker</p>
+        <p>Timonium, Md.</p>
+        <p>My own 1970s New York City group of feminist activists (called a ''collective'' back then) was concerned about reproductive rights, which included being pregnant or not being pregnant. I wish Orenstein had cited at least one ''feminist'' source where childlessness by choice is promoted. Our culture does not fetishize motherhood, as Orenstein suggests, but commodifies it. A baby is the new accessory.</p>
+        <p>Sharon Lieberman</p>
+        <p>Evanston, Ill.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

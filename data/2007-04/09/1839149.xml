@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Gingrich Faults Gonzales for Attorneys 'Mess'</title>
+    <meta content="09attorneys" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1839149"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">United States Attorneys</classifier>
+        <classifier class="indexing_service" type="descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <org class="indexing_service">Justice Department</org>
+        <person class="indexing_service">Gingrich, Newt</person>
+        <person class="indexing_service">Stout, David</person>
+        <person class="indexing_service">Gonzales, Alberto R (Atty Gen)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Legal Profession</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070409T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E1D7143FF93AA35757C0A9619C8B63" item-length="305" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Gingrich Faults Gonzales for Attorneys 'Mess'</hl1>
+      </hedline>
+      <byline class="print_byline">By DAVID STOUT</byline>
+      <byline class="normalized_byline">Stout, David</byline>
+      <dateline>WASHINGTON, April 8</dateline>
+      <abstract>
+        <p>Former House Speaker Newt Gingrich is latest Republican to criticize Atty Gen Alberto R Gonzales for dismissals of eight United States attorneys; says Gonzales should consider stepping down; calls matter 'self-created mess'; says country would be better served with new team at Justice Department, 'across the board' (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Former House Speaker Newt Gingrich on Sunday became the latest Republican to criticize Attorney General Alberto R. Gonzales for the dismissals of eight United States attorneys, and he said Mr. Gonzales should consider stepping down.</p>
+        <p>''This is the most mishandled, artificial, self-created mess that I can remember in the years, in the years I've been active in public life,'' Mr. Gingrich said on ''Fox News Sunday.''</p>
+      </block>
+      <block class="full_text">
+        <p>Former House Speaker Newt Gingrich on Sunday became the latest Republican to criticize Attorney General Alberto R. Gonzales for the dismissals of eight United States attorneys, and he said Mr. Gonzales should consider stepping down.</p>
+        <p>''This is the most mishandled, artificial, self-created mess that I can remember in the years, in the years I've been active in public life,'' Mr. Gingrich said on ''Fox News Sunday.''</p>
+        <p>''You know, the buck has to stop somewhere, and I'm assuming it's the attorney general and his immediate team,'' he said. Asked whether Mr. Gonzales should resign, Mr. Gingrich replied, ''I cannot imagine how he is going to be effective for the rest of this administration.''</p>
+        <p>''I think the country, in fact, would be much better served to have a new team at the Justice Department, across the board,'' added Mr. Gingrich, who is reported to be considering a run for the presidency.</p>
+        <p>D. Kyle Sampson, the attorney general's former chief of staff and one of three aides to resign amid the controversy, told the Senate Judiciary Committee recently that Mr. Gonzales had been deeply involved in discussions about the dismissals.</p>
+        <p>Mr. Sampson appeared to contradict Mr. Gonzales, who has said he had little involvement. An April 17 appearance by Mr. Gonzales before the judiciary panel is widely viewed as a make-or-break event for him.</p>
+        <p>Senator Jon Kyl of Arizona, a Republican on the committee, said on the ABC program ''This Week'' on Sunday that the dismissals had been handled in a ''ham-handed way,'' and that Mr. Gonzales had to restore confidence in his leadership.</p>
+        <p>But Senator Charles E. Schumer, a New York Democrat on the committee who appeared with Mr. Gingrich on ''Fox News Sunday,'' said it was too late. ''Fundamentally, he's not up to the job,'' Mr. Schumer said. ''And he should step down.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

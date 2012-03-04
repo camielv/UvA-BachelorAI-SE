@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   BLUM, CLAIRE</title>
+    <meta content="dn041607.1" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1840700"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">BLUM, CLAIRE</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070416T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9503E3DB123AF935A25757C0A9619C8B63" item-length="156" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   BLUM, CLAIRE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BLUM--Claire. The UJA, Jersey City mourns the passing of Claire Blum. Claire was chairman of UJA of Jersey City over 20 years. Chair of the UJA, Jersey City's Russian Resettlement Board, she managed settlement of over 1000 Soviet, Iranian, Syrian, and Iraqi Jews in New Jersey: Member of governing board of Jewish Family and Counseling Service of Jersey City, and past President of Sisterhood of Temple Beth El. We extend deepest sympathies to her husband Melvin Blum, her children Dr. Jay and Sharon Blum, Dr. Jerald and Rochelle Blum, her grandchildren Drs. Yossef and Deena Blanchard Blum, Zvia, Ariana, Jordana, Samantha, Jamie and Brooke, and greatgrandson Nathan, sister Lorraine Weinstein and brother Leonard Crystal. Her devotion and compassion was unsurpassed. We will miss her forever. Hy Nutkis, Co-Chairman UJA of Jersey City</p>
+        <p>$(6$)BLUM--Claire, (nee Crystal). We celebrate her beautiful life. The Weinstein Family: Sister Lorraine, Sy, Cliff, Ann, Andy, Julia, Jake, Chris and Daniel.</p>
+      </block>
+      <block class="full_text">
+        <p>BLUM--Claire. The UJA, Jersey City mourns the passing of Claire Blum. Claire was chairman of UJA of Jersey City over 20 years. Chair of the UJA, Jersey City's Russian Resettlement Board, she managed settlement of over 1000 Soviet, Iranian, Syrian, and Iraqi Jews in New Jersey: Member of governing board of Jewish Family and Counseling Service of Jersey City, and past President of Sisterhood of Temple Beth El. We extend deepest sympathies to her husband Melvin Blum, her children Dr. Jay and Sharon Blum, Dr. Jerald and Rochelle Blum, her grandchildren Drs. Yossef and Deena Blanchard Blum, Zvia, Ariana, Jordana, Samantha, Jamie and Brooke, and greatgrandson Nathan, sister Lorraine Weinstein and brother Leonard Crystal. Her devotion and compassion was unsurpassed. We will miss her forever. Hy Nutkis, Co-Chairman UJA of Jersey City</p>
+        <p>$(6$)BLUM--Claire, (nee Crystal). We celebrate her beautiful life. The Weinstein Family: Sister Lorraine, Sy, Cliff, Ann, Andy, Julia, Jake, Chris and Daniel.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

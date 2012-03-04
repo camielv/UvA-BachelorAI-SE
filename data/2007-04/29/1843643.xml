@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Patient Privilege</title>
+    <meta content="29letters.t-8" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1843643"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Doctors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Privacy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E05E6DE153EF93AA15757C0A9619C8B63" item-length="173" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Patient Privilege</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>I resent the guilt trip laced behind the Ethicist's advice to ''find another way to do your fair share for the health-care community of which you are a member and from which you benefit'' (April 15). Because I do not wish to have residents or interns present during my examination does not mean I haven't done my fair share by paying my (staggering) medical-insurance premiums or by waiting for what often is an interminable amount of time for my appointment.</p>
+      </block>
+      <block class="full_text">
+        <p>I resent the guilt trip laced behind the Ethicist's advice to ''find another way to do your fair share for the health-care community of which you are a member and from which you benefit'' (April 15). Because I do not wish to have residents or interns present during my examination does not mean I haven't done my fair share by paying my (staggering) medical-insurance premiums or by waiting for what often is an interminable amount of time for my appointment.</p>
+        <p>I need the precious one-on-one with my doctors so that they and I may have a confidential and attentive session to discuss, diagnose and treat my ills. Why didn't the doctor provide a form (what's one more?) at the first appointment to cover a request to have residents present so that the rules, and my preferences, are clear before the game (examination) starts? I'm sorry, but I need to be the sole focus of my exam, and I don't need to be chided for insisting that I am.  D. J. Listort  Newburgh, N.Y.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

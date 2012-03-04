@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Eki Edwards, William Abrams</title>
+    <meta content="15edwards" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/15/fashion/weddings/15edwards.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840491"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Edwards, Dr. Eki Shola (Dr. Eki Shola Abrams)</person>
+        <person class="indexing_service">Abrams, William Bradley</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05EFD9133FF936A25757C0A9619C8B63" item-length="219" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Eki Edwards, William Abrams</hl1>
+        <hl2 class="online_headline">Eki Edwards, William Abrams</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Dr. Eki Shola Edwards and William Bradley Abrams were married yesterday at Coyaba Beach Resort &amp; Club in Montego Bay, Jamaica. Seymour N. Whitter, a civil registrar of marriages for Hanover Parish, officiated.</p>
+        <p>Dr. Abrams, 30, is completing an internship at North Shore University Hospital in Manhasset, N.Y. In July she is to become a resident in anesthesiology at Mount Sinai Medical Center in Manhattan. She graduated from Cornell and received a medical degree from the Mount Sinai School of Medicine.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Dr. Eki Shola Edwards and William Bradley Abrams were married yesterday at Coyaba Beach Resort &amp; Club in Montego Bay, Jamaica. Seymour N. Whitter, a civil registrar of marriages for Hanover Parish, officiated.</p>
+      </block>
+      <block class="full_text">
+        <p>Dr. Eki Shola Edwards and William Bradley Abrams were married yesterday at Coyaba Beach Resort &amp; Club in Montego Bay, Jamaica. Seymour N. Whitter, a civil registrar of marriages for Hanover Parish, officiated.</p>
+        <p>Dr. Abrams, 30, is completing an internship at North Shore University Hospital in Manhasset, N.Y. In July she is to become a resident in anesthesiology at Mount Sinai Medical Center in Manhattan. She graduated from Cornell and received a medical degree from the Mount Sinai School of Medicine.</p>
+        <p>She is a daughter of Hope and Montrose Edwards of Central Islip, N.Y. The bride's father is a special education teacher at Frederick Douglass Academy VI, a high school in Far Rockaway, Queens. Her mother is a social worker at the Lindenhurst, N.Y., site of Just Kids Early Childhood Learning Center.</p>
+        <p>Mr. Abrams, 36, is a marketing strategy manager for the College Board, in Manhattan. He graduated from Indiana University and received an M.B.A. from the University of San Francisco.</p>
+        <p>He is the son of Katherine and Barry Abrams of Kiawah Island, S.C. The bridegroom's mother retired as the general counsel for the northeast area of Verizon Wireless, in Morristown, N.J. His father, who is also retired, was a vice president and the general counsel for the New Jersey unit of Verizon, working in Newark and Arlington, Va.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

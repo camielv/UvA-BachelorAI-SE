@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>National Briefing | Washington: Officials Revise Scope Of Numbers Breach</title>
+    <meta content="24brfs-7" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Technology; U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1842675"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Social Security (US)</classifier>
+        <classifier class="indexing_service" type="descriptor">Robberies and Thefts</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Security</classifier>
+        <classifier class="indexing_service" type="descriptor">Privacy</classifier>
+        <org class="indexing_service">Census Bureau</org>
+        <org class="indexing_service">Agriculture Department (US)</org>
+        <person class="indexing_service">Nixon, Ron</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Social Security (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Privacy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Robberies and Thefts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070424T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E05E7DC143EF937A15757C0A9619C8B63" item-length="99" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>National Briefing | Washington: Officials Revise Scope Of Numbers Breach</hl1>
+      </hedline>
+      <byline class="print_byline">By RON NIXON</byline>
+      <byline class="normalized_byline">Nixon, Ron</byline>
+      <abstract>
+        <p>Agriculture Department has again lowered number of people whose Social Security numbers are disclosed in public database posted on Census Bureau's Website; department now says about 37,800 numbers were exposed; says it will provide credit monitoring for one year for people whose numbers were exposed (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Agriculture Department has again lowered the number of people whose Social Security numbers were disclosed in a public database posted on the Census Bureau's Web site. The department, which was alerted to the problem two weeks ago, now says about 37,800 numbers were exposed. Initially, it had said 100,000 to 150,000 people were affected, before lowering the number to 63,000. It says the current number reflects a complete review of all records posted in the database. The department will provide credit monitoring for one year for the people whose Social Security numbers were exposed.</p>
+        <p>RON NIXON</p>
+      </block>
+      <block class="full_text">
+        <p>The Agriculture Department has again lowered the number of people whose Social Security numbers were disclosed in a public database posted on the Census Bureau's Web site. The department, which was alerted to the problem two weeks ago, now says about 37,800 numbers were exposed. Initially, it had said 100,000 to 150,000 people were affected, before lowering the number to 63,000. It says the current number reflects a complete review of all records posted in the database. The department will provide credit monitoring for one year for the people whose Social Security numbers were exposed.</p>
+        <p>RON NIXON</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

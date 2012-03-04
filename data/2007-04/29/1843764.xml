@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Vis Taraz, Stephen Preer</title>
+    <meta content="29taraz" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/29/fashion/weddings/29taraz.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1843764"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Taraz, Vis</person>
+        <person class="indexing_service">Preer, Stephen Randolph</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E03E7DC123EF93AA15757C0A9619C8B63" item-length="197" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Vis Taraz, Stephen Preer</hl1>
+        <hl2 class="online_headline">Vis Taraz, Stephen Preer</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Vis Taraz, a daughter of Jennifer Taraz of New Canaan, Conn., and the late Ramin Taraz, was married yesterday to Stephen Randolph Preer, the son of Jean and James Preer of Indianapolis. Mary C. Pugh, a Connecticut justice of the peace, officiated at the Waveny House, an event space in New Canaan.</p>
+        <p>The bride, 27, and bridegroom, 30, met at the Massachusetts Institute of Technology, from which they graduated and where he received a master's degree in electrical engineering.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Vis Taraz, a daughter of Jennifer Taraz of New Canaan, Conn., and the late Ramin Taraz, was married yesterday to Stephen Randolph Preer, the son of Jean and James Preer of Indianapolis. Mary C. Pugh, a Connecticut justice of the peace, officiated at the Waveny House, an event space in New Canaan.</p>
+      </block>
+      <block class="full_text">
+        <p>Vis Taraz, a daughter of Jennifer Taraz of New Canaan, Conn., and the late Ramin Taraz, was married yesterday to Stephen Randolph Preer, the son of Jean and James Preer of Indianapolis. Mary C. Pugh, a Connecticut justice of the peace, officiated at the Waveny House, an event space in New Canaan.</p>
+        <p>The bride, 27, and bridegroom, 30, met at the Massachusetts Institute of Technology, from which they graduated and where he received a master's degree in electrical engineering.</p>
+        <p>Ms. Taraz is keeping her name. She is a doctoral student in the economics of developing countries at Yale. Her father, a certified public accountant, was a vice president and the controller of the Arch Insurance Group, a commercial property and casualty insurer in New York. He was also the treasurer of Camp Hand-in-Hand, a summer camp for children of low-income families in New Canaan.</p>
+        <p>Mr. Preer is a software programmer in New Haven for a unit of Motorola that creates wireless communications software. His mother is an associate professor of library and information science at Indiana University and his father is an associate professor of physical science and chemistry at Ivy Tech Community College, both in Indianapolis.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

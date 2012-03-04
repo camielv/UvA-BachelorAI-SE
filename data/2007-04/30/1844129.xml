@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Langella to Play Nixon in Ron Howard Movie</title>
+    <meta content="01nixon" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="" name="print_section"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1844129"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070430T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B04E5D61631F933A05757C0A9619C8B63" item-length="62" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Langella to Play Nixon in Ron Howard Movie</hl1>
+      </hedline>
+      <byline class="print_byline">By LAWRENCE VAN GELDER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Frank Langella will recreate the role of Richard M. Nixon when the Peter Morgan play ''Frost/Nixon'' is adapted for the screen under the direction of Ron Howard, Variety.com reported.</p>
+        <p>Michael Sheen, starring as the interviewer David Frost opposite Mr. Langella on Broadway, will reprise his role in the film, scheduled to go before the cameras on Aug. 27.</p>
+      </block>
+      <block class="full_text">
+        <p>Frank Langella will recreate the role of Richard M. Nixon when the Peter Morgan play ''Frost/Nixon'' is adapted for the screen under the direction of Ron Howard, Variety.com reported.</p>
+        <p>Michael Sheen, starring as the interviewer David Frost opposite Mr. Langella on Broadway, will reprise his role in the film, scheduled to go before the cameras on Aug. 27.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

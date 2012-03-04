@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Garden's Dolan Doesn't Regret Deal With Thomas</title>
+    <meta content="18dolan" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/18/sports/basketball/18dolan.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1841174"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball/National Basketball Association/New York Knicks</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball</classifier>
+        <classifier class="online_producer" type="descriptor">Basketball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Coaches and Managers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Basketball</classifier>
+        <org class="online_producer">New York Knicks</org>
+        <person class="online_producer">Dolan, James L</person>
+        <person class="online_producer">Thomas, Isiah</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070418T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9503E3DC1E3FF93BA25757C0A9619C8B63" item-length="296" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Garden's Dolan Doesn't Regret Deal With Thomas</hl1>
+        <hl2 class="online_headline">Garden’s Dolan Doesn’t Regret Deal With Thomas</hl2>
+      </hedline>
+      <byline class="print_byline">By HOWARD BECK</byline>
+      <byline class="normalized_byline">Beck, Howard</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Despite a dismal final month that crushed the Knicks' playoff hopes, James L. Dolan said yesterday that he did not regret giving Isiah Thomas, the team's coach and president, a contract extension last month.</p>
+        <p>''I'm very confident in the decision that I made,'' Dolan, the Madison Square Garden chairman, said in a 30-minute interview on the radio station WFAN. ''I feel it was the right decision.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Since Madison Square Garden chairman James L. Dolan announced a contract extension for Isiah Thomas, the Knicks’ coach and president, the team has lost 15 of 18 games.</p>
+      </block>
+      <block class="full_text">
+        <p>Despite a dismal final month that crushed the Knicks' playoff hopes, James L. Dolan said yesterday that he did not regret giving Isiah Thomas, the team's coach and president, a contract extension last month.</p>
+        <p>''I'm very confident in the decision that I made,'' Dolan, the Madison Square Garden chairman, said in a 30-minute interview on the radio station WFAN. ''I feel it was the right decision.''</p>
+        <p>Thomas was operating under a one-year ultimatum to show progress or be fired, a decision Dolan had said he would make after the season. Instead, Dolan announced March 12 that Thomas had been signed to a multiyear extension. The Knicks were 29-34 at the time, holding eighth place in the Eastern Conference, the final playoff spot.</p>
+        <p>Since that announcement, the Knicks have lost 15 of 18 games, dropping to 12th place. The free fall came as the Knicks lost three of their top six players to injuries, mitigating Dolan's disappointment.</p>
+        <p>Dolan said Thomas's contract was justified because the Knicks had shown ''that they were capable of executing a strategy that's going to ultimately give us a team that will contend for the N.B.A. championship.''</p>
+        <p>Dolan also defended the trade in 2005 for center Eddy Curry. Thomas sent two unprotected first-round draft picks to the Chicago Bulls. This year's selection will be in the top 10 and, depending on the lottery, could become the No. 1 pick.</p>
+        <p>Dolan said the Knicks had figured to be a playoff team, and out of the lottery, by now.</p>
+        <p>''If we knew then what we know now, and if we could have said we're going to have lottery picks the next two years -- if you knew that, yeah, you could have made a better deal,'' Dolan said. ''But you didn't know that.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

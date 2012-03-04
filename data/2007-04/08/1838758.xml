@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Memorials to 10021</title>
+    <meta content="08cards" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838758"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="PULSE"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Paper and Pulp</classifier>
+        <classifier class="online_producer" type="general_descriptor">Postal Service</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070408T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9904EFDB173FF93BA35757C0A9619C8B63" item-length="134" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Memorials to 10021</hl1>
+      </hedline>
+      <byline class="print_byline">By NADINE RUBIN</byline>
+      <byline class="normalized_byline">Rubin, Nadine</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Part good-will gesture, bigger part clever marketing ploy, some of New York's premier stationers are offering discounts on custom hand-engraved papers to the roughly 50,000 Upper East Siders being booted from their cherished 10021 ZIP code come July 1, into one of two new Zip codes: 10065 and 10075. Dempsey &amp; Carroll, (877) 750-1878, is providing a free copper return-address plate, worth $90, with every bespoke order from within 10021. Even Mrs. John L. Strong, the luxury paper company at 699 Madison Avenue since 1929, will no longer be able to claim Manhattan's most coveted ZIP code as its own; in honor of that predicament, the firm is offering a 21 percent discount on most personalized stationery orders from any ZIP code until June 1. Call (212) 833-2060 to order.</p>
+        <p>NADINE RUBIN</p>
+      </block>
+      <block class="full_text">
+        <p>Part good-will gesture, bigger part clever marketing ploy, some of New York's premier stationers are offering discounts on custom hand-engraved papers to the roughly 50,000 Upper East Siders being booted from their cherished 10021 ZIP code come July 1, into one of two new Zip codes: 10065 and 10075. Dempsey &amp; Carroll, (877) 750-1878, is providing a free copper return-address plate, worth $90, with every bespoke order from within 10021. Even Mrs. John L. Strong, the luxury paper company at 699 Madison Avenue since 1929, will no longer be able to claim Manhattan's most coveted ZIP code as its own; in honor of that predicament, the firm is offering a 21 percent discount on most personalized stationery orders from any ZIP code until June 1. Call (212) 833-2060 to order.</p>
+        <p>NADINE RUBIN  PULSE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

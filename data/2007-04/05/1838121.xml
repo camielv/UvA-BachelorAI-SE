@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>More PC Protection, Less Time Looking at an Hourglass</title>
+    <meta content="05norton" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/05/technology/05norton.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1838121"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CIRCUITS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Security</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <org class="indexing_service">Symantec Corp</org>
+        <org class="indexing_service">Microsoft Corp</org>
+        <person class="indexing_service">Biersdorfer, J D</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <org class="online_producer">Symantec Corp</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070405T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A00E4DB163FF936A35757C0A9619C8B63" item-length="207" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>More PC Protection, Less Time Looking at an Hourglass</hl1>
+        <hl2 class="online_headline">More PC Protection, Less Time Looking at an Hourglass</hl2>
+      </hedline>
+      <byline class="print_byline">By J. D. BIERSDORFER</byline>
+      <byline class="normalized_byline">Biersdorfer, J D</byline>
+      <abstract>
+        <p>Symantec recently�</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Aiming for people who do not like to buy multiple security and utility programs, Symantec recently released an all-in-one suite called Norton 360 for Windows. The package combines antivirus and antispyware tools, a firewall and other applications to help protect a PC from the Internet's ills, along with a backup feature to keep data safe in case of hard-disk woes.</p>
+        <p>In the past, Norton suites have taken knocks for hogging system resources and slowing the computer, but Symantec says it has reworked the code for Norton 360.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Norton 360, Symantec’s all-in-one suite for Windows, uses less memory to protect your PC from the Internet’s ills.</p>
+      </block>
+      <block class="full_text">
+        <p>Aiming for people who do not like to buy multiple security and utility programs, Symantec recently released an all-in-one suite called Norton 360 for Windows. The package combines antivirus and antispyware tools, a firewall and other applications to help protect a PC from the Internet's ills, along with a backup feature to keep data safe in case of hard-disk woes.</p>
+        <p>In the past, Norton suites have taken knocks for hogging system resources and slowing the computer, but Symantec says it has reworked the code for Norton 360.</p>
+        <p>''In the past, our products had six or seven running processes in the background,'' said Tom Powledge, a Symantec senior director of product management.</p>
+        <p>''We've reduced that down to two processes,'' Mr. Powledge said, adding that Norton 360 uses 7 to 10 megabytes of memory in the background and only loads the pieces of the program it needs at the time. Earlier Norton programs used around 45 megabytes of system memory.</p>
+        <p>Norton 360, which works with Windows XP and Vista and includes a free year of updates, is now on sale for $70 at www.symantecstore.com.</p>
+        <p>Other features include two gigabytes of online backup storage and a transaction security component for safe Internet shopping.</p>
+        <p>J. D. BIERSDORFER</p>
+        <p>CIRCUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

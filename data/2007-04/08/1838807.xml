@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Run-Up Reduces Bargains In Utilities</title>
+    <meta content="08utility" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="34" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/08/business/mutfund/08utility.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1838807"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MUTUAL FUNDS REPORT"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Markets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070408T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D06E3D8173FF93BA35757C0A9619C8B63" item-length="546" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Run-Up Reduces Bargains In Utilities</hl1>
+        <hl2 class="online_headline">A Run-Up Reduces Bargains in Utilities</hl2>
+      </hedline>
+      <byline class="print_byline">By BARRY REHFELD</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>UTILITIES stocks have been on quite a run. For the fourth consecutive year, their share prices have been beating the Standard &amp; Poor's 500-stock index by a wide margin, after years of trailing the overall market.</p>
+        <p>Over the last three years, returns for mutual funds focused on utilities averaged more than 20 percent, annualized, according to Morningstar, more than double the average of the S.&amp; P. 500.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Despite gains in utilities share prices, bargains in those stocks and in the mutual funds that buy them may be hard to find.</p>
+      </block>
+      <block class="full_text">
+        <p>UTILITIES stocks have been on quite a run. For the fourth consecutive year, their share prices have been beating the Standard &amp; Poor's 500-stock index by a wide margin, after years of trailing the overall market.</p>
+        <p>Over the last three years, returns for mutual funds focused on utilities averaged more than 20 percent, annualized, according to Morningstar, more than double the average of the S.&amp; P. 500.</p>
+        <p>After these gains, though, bargains in utility stocks and in the mutual funds that buy them may be hard to find.</p>
+        <p>''They're fairly expensive,'' David Kathman, a utilities fund analyst at Morningstar, said of the funds. ''They can be good, if you don't expect too much.''</p>
+        <p>More than two dozen mutual funds and exchange-traded funds focus on utilities. They traditionally offered high dividends, and relatively little in capital gains, but that has changed. Last year, though the total return of utilities mutual funds averaged 26 percent, just 2.54 percentage points came from yield, according to Morningstar.</p>
+        <p>Over the 20 years ended Feb. 28, the utilities funds averaged a total return of just 9.1 percent, annualized, compared with average gains of 11.0 percent for the S.&amp; P. 500, according to the Value Line Mutual Fund Survey.</p>
+        <p>Some utilities funds, on an annualized basis, have handily beaten the S.&amp; P. for more than a decade. Among the leaders are Eaton Vance Utilities, Jennison Utility and MFS Utilities. Such funds have profited on many of the winners, like Exelon, FPL and TXU, the last of which is the subject of a big buyout offer.</p>
+        <p>Like many other utilities funds, these three also invest in stocks that are not utilities, particularly in shares of energy and telecommunications companies. All three hold Equitable Resources, a natural gas company, and Verizon, for example.</p>
+        <p>Jennison has more than 50 percent of its portfolio invested in energy and telecommunications businesses. Shaun Hong, the fund manager, said that he is primarily seeking capital gains from these nonutilities holdings.</p>
+        <p>''They come first; income second,'' he said.</p>
+        <p>Fund managers in this group take different approaches to diversification. Maura A. Shaughnessy, who manages MFS Utilities, will not hesitate to take big positions -- more than 5 percent of her portfolio -- in a single stock. By contrast, Judith A. Saryan, manager of Eaton Vance Utilities, will not let any holding of a single stock reach 3 percent of her portfolio.</p>
+        <p>They also differ in their commitment to foreign stocks. While both funds have far more of their assets invested abroad than does the average utilities fund, Ms. Shaughnessy has significantly less at stake outside the United States than does Ms. Saryan.</p>
+        <p>With stocks outside of utilities playing a significant role in these funds, risks may be growing. Franklin Utilities takes a more conservative approach, primarily investing in the shares of regulated gas and electric companies.</p>
+        <p>Exchange-traded funds, like iShares Dow Jones U.S. Utilities, Utilities Select Sector SPDR and the Vanguard Utilities E.T.F., track many of the same gas and electric stocks held by Franklin. Because they mirror index funds, E.T.F.'s generally have lower expenses than actively managed funds.</p>
+        <p>The merits of a conservative approach are acknowledged even by managers whose funds have profited from volatile energy stocks.</p>
+        <p>''This is a cyclical business,'' Ms. Saryan said. ''You've got to watch out.''</p>
+        <p>MUTUAL FUNDS REPORT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>United Airlines Drops Fallon And Hires Start-Up Agency</title>
+    <meta content="05adde" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/05/business/media/05adde.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1838137"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE MEDIA BUSINESS: ADVERTISING -- ADDENDA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="indexing_service" type="descriptor">Account Changes</classifier>
+        <classifier class="indexing_service" type="descriptor">Advertising and Marketing</classifier>
+        <org class="indexing_service">United Airlines</org>
+        <org class="indexing_service">Ual Corp</org>
+        <org class="indexing_service">Fallon Worldwide</org>
+        <org class="indexing_service">Barrie D'Rozario Murphy</org>
+        <person class="indexing_service">Elliott, Stuart</person>
+        <object.title class="indexing_service">Advertising (Times Column)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Addenda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <org class="online_producer">United Airlines</org>
+        <org class="online_producer">Fallon Worldwide</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070405T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F07E1DB163FF936A35757C0A9619C8B63" item-length="180" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>United Airlines Drops Fallon And Hires Start-Up Agency</hl1>
+        <hl2 class="online_headline">United Airlines Drops Fallon and Hires Start-Up Agency</hl2>
+      </hedline>
+      <byline class="print_byline">By STUART ELLIOTT</byline>
+      <byline class="normalized_byline">Elliott, Stuart</byline>
+      <abstract>
+        <p>United Airlines dismisses Fallon Worldwide, which created ad campaigns for airline since 1996, and awards its creative account to start-up agency Barrie D'Rozario Murphy (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>United Airlines has dismissed Fallon Worldwide in Minneapolis, which created campaigns for the airline since 1996, and awarded its creative account to a start-up agency in Minneapolis, Barrie D'Rozario Murphy. Two of the three principals of the start-up worked on the United account at Fallon before leaving in November.</p>
+        <p>United, part of the UAL Corporation, spent $54.8 million on American advertising last year, according to TNS Media Intelligence, which tracks ad spending, and $78.4 million in 2005. A spokeswoman for Fallon, Rosemary Abendroth, described recent spending as far less than in previous years, when it totaled as much as $100 million, and said the loss would have ''zero impact on the bottom line'' for Fallon, part of the Publicis Groupe.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>United dismissed Fallon Worldwide, which created campaigns for the airline since 1996, and awarded its creative account to Barrie D’Rozario Murphy.</p>
+      </block>
+      <block class="full_text">
+        <p>United Airlines has dismissed Fallon Worldwide in Minneapolis, which created campaigns for the airline since 1996, and awarded its creative account to a start-up agency in Minneapolis, Barrie D'Rozario Murphy. Two of the three principals of the start-up worked on the United account at Fallon before leaving in November.</p>
+        <p>United, part of the UAL Corporation, spent $54.8 million on American advertising last year, according to TNS Media Intelligence, which tracks ad spending, and $78.4 million in 2005. A spokeswoman for Fallon, Rosemary Abendroth, described recent spending as far less than in previous years, when it totaled as much as $100 million, and said the loss would have ''zero impact on the bottom line'' for Fallon, part of the Publicis Groupe.</p>
+        <p>The two principals of Barrie D'Rozario Murphy who worked at Fallon are Bob Barrie and Stuart D'Rozario; they helped produce the current United campaign, ''It's time to fly.'' Fallon was named the sole creative agency for United in 2001 after sharing the assignment for five years with Y&amp;R Advertising in New York, part of the WPP Group.</p>
+        <p>THE MEDIA BUSINESS: ADVERTISING -- ADDENDA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

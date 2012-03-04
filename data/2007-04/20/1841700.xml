@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Manhattan: Workers Rescued From Scaffold</title>
+    <meta content="20mbrfs-6" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1841700"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Windows</classifier>
+        <classifier class="indexing_service" type="descriptor">Scaffolds</classifier>
+        <classifier class="indexing_service" type="descriptor">Accidents and Safety</classifier>
+        <classifier class="indexing_service" type="descriptor">Rescues</classifier>
+        <location class="indexing_service">New York City</location>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Windows</classifier>
+        <classifier class="online_producer" type="general_descriptor">Building (Construction)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Rescues</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070420T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9900E4DF163EF933A15757C0A9619C8B63" item-length="92" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Manhattan: Workers Rescued From Scaffold</hl1>
+      </hedline>
+      <byline class="print_byline">Compiled by John Sullivan</byline>
+      <abstract>
+        <p>Firefighters rescue two window washers stranded on scaffolding outside 37th floor of building in Midtown Manhattan (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Firefighters rescued two window washers who were stranded on a scaffold in Turtle Bay yesterday morning, the Fire Department said. Firefighters received a report about 8 a.m. that two workers, who were not named by the department, were stuck on a scaffold outside the 37th floor at 747 Third Avenue, fire officials said. Firefighters used ropes to secure the scaffold to the building and, after cutting out a window, a firefighter stepped onto the scaffold to guide the workers to safety. No one was injured, fire officials said.</p>
+      </block>
+      <block class="full_text">
+        <p>Firefighters rescued two window washers who were stranded on a scaffold in Turtle Bay yesterday morning, the Fire Department said. Firefighters received a report about 8 a.m. that two workers, who were not named by the department, were stuck on a scaffold outside the 37th floor at 747 Third Avenue, fire officials said. Firefighters used ropes to secure the scaffold to the building and, after cutting out a window, a firefighter stepped onto the scaffold to guide the workers to safety. No one was injured, fire officials said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

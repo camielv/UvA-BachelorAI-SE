@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>NOT FOR SALE</title>
+    <meta content="14five-2" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1840141"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="FIVE DAYS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Chemicals</classifier>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <classifier class="indexing_service" type="descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <org class="indexing_service">Dow Chemical Co</org>
+        <person class="indexing_service">Reinhard, J Pedro</person>
+        <person class="indexing_service">Kreinberg, Romeo</person>
+        <person class="indexing_service">Deutsch, Claudia H</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemicals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070414T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9507E3DD103FF937A25757C0A9619C8B63" item-length="351" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>NOT FOR SALE</hl1>
+      </hedline>
+      <byline class="print_byline">By CLAUDIA H. DEUTSCH</byline>
+      <byline class="normalized_byline">Deutsch, Claudia H</byline>
+      <abstract>
+        <p>Five Days column; Dow Chemical fired J Pedro Reinhard, senior adviser to management, and Romeo Kreinberg, executive vice president, for holding clandestine merger discussions with unnamed third party; company called their behavior 'highly inappropriate and clear violation of Dow's Code of Business Conduct'; takeover rumors persist company is for sale (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE flameout of the radio host Don Imus dominated the discourse this week, but there was other intrigue, including what Dow Chemical said were unauthorized merger talks held by two of its officials and the continuing investigation into the practices of student loan companies.</p>
+        <p>After three months of hotly denying that it was involved in any takeover negotiations, the Dow Chemical Company discovered that, in fact, unauthorized talks had occurred.</p>
+      </block>
+      <block class="full_text">
+        <p>THE flameout of the radio host Don Imus dominated the discourse this week, but there was other intrigue, including what Dow Chemical said were unauthorized merger talks held by two of its officials and the continuing investigation into the practices of student loan companies.</p>
+        <p>After three months of hotly denying that it was involved in any takeover negotiations, the Dow Chemical Company discovered that, in fact, unauthorized talks had occurred.</p>
+        <p>On Thursday, Dow fired J. Pedro Reinhard, a senior adviser to management, and Romeo Kreinberg, an executive vice president, saying they had held clandestine merger discussions with an unnamed third party. The company called their behavior ''highly inappropriate and a clear violation of Dow's Code of Business Conduct.''</p>
+        <p>But while the executives may be gone, the takeover rumors persist. Andrew Liveris, Dow's chief executive, has steadfastly denied that Dow has been approached. But three times this year -- most recently last weekend -- reports have surfaced in the British news media that Dow would be acquired.</p>
+        <p>Few analysts expect that to happen. At $49.1 billion in revenue last year, it is too large for another chemical company to swallow. And with a market capitalization around $44 billion, it would be expensive for a buyout firm.</p>
+        <p>Analysts also say that new owners would be foolish to try to recoup their money by splitting Dow up, because Dow's chemical businesses, which buy and sell to each other as well as to the outside world, are very much intertwined.</p>
+        <p>Dow has been buying back shares, forming joint ventures and building up its overseas sales. And it is banking that, even if a buyout bid is made, its shareholders will vote it down.</p>
+        <p>CLAUDIA H. DEUTSCH</p>
+        <p>MOST POPULAR -- Following are the most-popular business news articles on nytimes.com from April 7 through April 13:  1. A Word of Advice During a Housing Slump: Rent  2. Imus Struggling to Retain Sway as a Franchise  3. Democrats Seek to Lead the Way in Tax Overhaul  4. Sifting Data to Uncover Travel Deals  5. High Stakes: Chávez Plays the Oil Card  Links are at nytimes.com/business.</p>
+        <p>FIVE DAYS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>9 Tough Tricks, And a Title For Shanghai</title>
+    <meta content="23card" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/23/crosswords/bridge/23card.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842384"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Bridge"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Crossword and Games/Bridge</classifier>
+        <classifier class="online_producer" type="descriptor">Cards and Card Games</classifier>
+        <classifier class="online_producer" type="descriptor">Bridge (Card Game)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cards and Card Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bridge (Card Game)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070423T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980DE3DA173EF930A15757C0A9619C8B63" item-length="574" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>9 Tough Tricks, And a Title For Shanghai</hl1>
+        <hl2 class="online_headline">9 Tough Tricks, and a Title for Shanghai</hl2>
+      </hedline>
+      <byline class="print_byline">By Phillip Alder</byline>
+      <byline class="normalized_byline">Alder, Phillip</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>This year's world bridge championships are in Shanghai beginning Sept. 29. And one week ago Shanghai won the Chinese Contract Bridge Association Open Teams championship, beating Qinggong in the 96-board final, 239 international match points to 211.</p>
+        <p>After 50 boards Qinggong enjoyed a 3-imp lead, but it evaporated on the diagramed deal, No. 51.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>This year’s world bridge championships are in Shanghai beginning Sept. 29.</p>
+      </block>
+      <block class="full_text">
+        <p>This year's world bridge championships are in Shanghai beginning Sept. 29. And one week ago Shanghai won the Chinese Contract Bridge Association Open Teams championship, beating Qinggong in the 96-board final, 239 international match points to 211.</p>
+        <p>After 50 boards Qinggong enjoyed a 3-imp lead, but it evaporated on the diagramed deal, No. 51.</p>
+        <p>The auction was the same at both tables. North's jump to game was a tad aggressive, but if he had invited game with a raise to two no-trump, South would have bid the third no-trump. This way the defenders did not know the exact strength of the declarer's hand.</p>
+        <p>What should West have led?</p>
+        <p>While you are deciding, let's look at declarer's chances. He has only five top tricks: one spade, two hearts and two clubs. There is a diamond establishable, the spade finesse is working and the clubs are 3-2, which provide three more tricks. Can South collect a ninth trick before the defenders have five?</p>
+        <p>Against a no-trump contract the old rule, unless you are starting with an honor, is to lead fourth-highest from your longest and strongest. This has stood the test of time, being some 300 years old, dating from the early days of whist. And here it works perfectly. To defeat three no-trump West must lead a low diamond or -- because declarer has no useful spot-cards in the suit -- any spade. But no one would lead a spade given North's overcall.</p>
+        <p>When Dai Jianming sat West for Shanghai, he selected the diamond deuce. The declarer, Zhou Songhe, played dummy's ten and allowed Yang Lixin (East) to win with his jack. East shifted to the heart deuce, South taking the trick with his ace and playing a spade to dummy's queen. Declarer continued with a low spade, West overtaking his partner's ten with the jack and leading the heart queen. South won with his king, played a club to dummy's king, took the spade ace and continued with another spade. West, after winning with his king, cashed his heart ten and diamond ace, then led the club queen. Declarer won on the board and took the final spade, but he lost the last trick to East's club jack for down two.</p>
+        <p>At the other table Dai Jianwei, West for Qinggong, led the heart ten, (not the seven, for fear that that would have blocked the suit). Then the declarer, Zhuang Zejun, played perfectly to land nine tricks. He won with his heart king, led a low club to dummy's ace and made the key play of leading the club nine from the board, which opened up the club eight as a later hand entry.</p>
+        <p>West won with his queen and continued with the heart queen, South winning with his ace and returning the heart nine to establish a third heart trick. East, after taking his heart jack, led the club jack. Declarer won with the king on the board, overtook the club seven with his eight, cashed the heart eight, played a spade to dummy's queen and called for the diamond queen. His nine tricks were two spades, three hearts, one diamond and three clubs.</p>
+        <p>Shanghai was plus 100 and plus 400 for a gain of 11 imps. Now ahead by 8 imps, Shanghai never lost the lead.</p>
+        <p>The winners were Dai, Shi Haojun, Wang Weimin, Wu Shengxiang, Yang and Zhuang. The losers were Chen Xingguo, Dai, Lin Yafu, Shen Yuxiong and Zhou.</p>
+        <p>Bridge</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

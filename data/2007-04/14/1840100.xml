@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Thank You, Mr. Vonnegut</title>
+    <meta content="l14vonnegut" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1840100"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Deaths (Obituaries)</classifier>
+        <person class="indexing_service">Vonnegut, Kurt</person>
+        <person class="indexing_service">Betesh, Rachel</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deaths (Obituaries)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070414T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE5DE103FF937A25757C0A9619C8B63" item-length="163" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Thank You, Mr. Vonnegut</hl1>
+      </hedline>
+      <abstract>
+        <p>Rachel Betesh letter praises Kurt Vonnegut (April 12 obituary)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Kurt Vonnegut Is Dead at 84; Caught Imagination of His Age'' (front page, April 12):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Kurt Vonnegut Is Dead at 84; Caught Imagination of His Age'' (front page, April 12):</p>
+        <p>Kurt Vonnegut's novels sit dog-eared and underlined on my bookshelf, as they do on bookshelves in libraries and dormitories everywhere.</p>
+        <p>Six years ago, after the deaths of my grandfather and my dog, I wrote Mr. Vonnegut a letter. It was to be an appreciation for ''Bluebeard,'' which I had finished that morning. It became an 18-year-old's earnest attempt to thank someone she loved, ''before it was too late.''</p>
+        <p>It must have been just awkward enough to be endearing. Almost a year later, I received a handwritten, illustrated card from New York.</p>
+        <p>''Dearest Rachel,'' it began, ''I did indeed receive your letter. I liked both you and it a whole lot.''</p>
+        <p>Like avid readers and awkward teenagers across the country -- and back through the decades -- I'll miss Mr. Vonnegut for his candor, humor and relevance.</p>
+        <p>Rachel Betesh  Oakland, Calif., April 12, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

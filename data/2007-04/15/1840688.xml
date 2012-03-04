@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Wicked, Twisted Words</title>
+    <meta content="15inbox-1" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1840688"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Homosexuality</classifier>
+        <classifier class="online_producer" type="general_descriptor">Discrimination</classifier>
+        <classifier class="online_producer" type="general_descriptor">Athletics and Sports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Women</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A06E2D8103FF936A25757C0A9619C8B63" item-length="152" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Wicked, Twisted Words</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Sports Editor:</p>
+        <p>Re ''A First-Class Response to a Second-Class Put-Down,'' April 11: Selena Roberts misses a crucial point in her otherwise prescient analysis of sexism in sports. She cites examples in professional sports in which terms like ''queen'' and ''Mary'' have been used, yet these have as much to do with the denigration of gay men, to whom these terms often refer, as they do with women. Sadly, homophobia and sexism go hand in hand.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Sports Editor:</p>
+        <p>Re ''A First-Class Response to a Second-Class Put-Down,'' April 11: Selena Roberts misses a crucial point in her otherwise prescient analysis of sexism in sports. She cites examples in professional sports in which terms like ''queen'' and ''Mary'' have been used, yet these have as much to do with the denigration of gay men, to whom these terms often refer, as they do with women. Sadly, homophobia and sexism go hand in hand.</p>
+        <p>Kevin Jennings  New York</p>
+        <p>The writer is the founder and executive director of the Gay, Lesbian and Straight Education Network.</p>
+        <p>To the Sports Editor:</p>
+        <p>Selena Roberts aptly criticizes those who mock the vulnerable rather than take on someone their own size. She is right to condemn bullies. As Benedick says in ''Much Ado About Nothing,'' ''In a false quarrel there is no true valor.''</p>
+        <p>Brad Bradford  Upper Arlington, Ohio</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Taliban Set Price to Free 5 French and Afghan Aid Workers</title>
+    <meta content="22afghan" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="World; Washington" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1842287"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Hostages</classifier>
+        <classifier class="indexing_service" type="descriptor">Prisoners of War</classifier>
+        <classifier class="indexing_service" type="descriptor">United States International Relations</classifier>
+        <classifier class="indexing_service" type="descriptor">United States Armament and Defense</classifier>
+        <classifier class="indexing_service" type="descriptor">Terrorism</classifier>
+        <classifier class="indexing_service" type="descriptor">Armament, Defense and Military Forces</classifier>
+        <location class="indexing_service">Afghanistan</location>
+        <location class="indexing_service">France</location>
+        <org class="indexing_service">Taliban (Afghan Group)</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Afghanistan</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/France</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/France</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Afghanistan</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prisoners of War</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prisoners of War</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hostages</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prisons and Prisoners</classifier>
+        <classifier class="online_producer" type="general_descriptor">War and Revolution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E7DE173EF931A15757C0A9619C8B63" item-length="178" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Taliban Set Price to Free 5 French and Afghan Aid Workers</hl1>
+      </hedline>
+      <dateline>KABUL, Afghanistan, April 21</dateline>
+      <abstract>
+        <p>Taliban demands France withdraw its troops from Afghanistan and Afghan government release all Taliban prisoners as condition for release of two French aid workers and three Afghan colleagues kidnapped in southwestern Afghanistan; Afghan government says it will not consider another exchange after suffering criticism for previous prisoner exchange (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Taliban demanded Saturday that France withdraw its troops from Afghanistan and that the Afghan government release all Taliban prisoners as conditions for the release of two French aid workers and three Afghan colleagues being held hostage.</p>
+        <p>The aid workers were working for Terre d'Enfance, a nongovernmental organization. They were kidnapped in southwestern Afghanistan on April 3. A spokesman, Qari Yousuf Ahmadi, telephoned The New York Times's bureau in Kabul on Saturday to announce the Taliban's conditions for the aid workers' release.</p>
+      </block>
+      <block class="full_text">
+        <p>The Taliban demanded Saturday that France withdraw its troops from Afghanistan and that the Afghan government release all Taliban prisoners as conditions for the release of two French aid workers and three Afghan colleagues being held hostage.</p>
+        <p>The aid workers were working for Terre d'Enfance, a nongovernmental organization. They were kidnapped in southwestern Afghanistan on April 3. A spokesman, Qari Yousuf Ahmadi, telephoned The New York Times's bureau in Kabul on Saturday to announce the Taliban's conditions for the aid workers' release.</p>
+        <p>The Afghan government has said that it will not consider another exchange of Taliban prisoners for hostages after it was criticized for releasing five Taliban commanders and spokesmen last month in exchange for an Italian journalist.</p>
+        <p>President Hamid Karzai has nevertheless promised the French government his utmost cooperation.</p>
+        <p>The Taliban also announced an increase in their operations against foreign and Afghan forces here.</p>
+        <p>The Taliban leader, Mullah Muhammad Omar, also issued a rare statement, asking fighters to step up suicide attacks and to remain united.</p>
+        <p>The Afghan Defense Ministry spokesman, Gen. Zaher Azimi, dismissed the statement.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

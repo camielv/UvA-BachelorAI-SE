@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Russian Oil Company</title>
+    <meta content="l03russia" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837737"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Auctions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070403T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CEEDD1F30F930A35757C0A9619C8B63" item-length="177" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Russian Oil Company</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>''From Ashes of Yukos, New Russian Oil Giant Emerges'' (news article, March 27), about the politically motivated expropriation of Yukos and the current rigged ''sale'' of its assets, did not mention that the renationalization of the company sanctioned by President Vladimir V. Putin did not simply affect the company's now-imprisoned billionaire chief executive, Mikhail B. Khodorkovsky.</p>
+        <p>It is surely of equal importance that Yukos was a publicly traded company listed on the New York Stock Exchange, with thousands of individual shareholders around the world.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>''From Ashes of Yukos, New Russian Oil Giant Emerges'' (news article, March 27), about the politically motivated expropriation of Yukos and the current rigged ''sale'' of its assets, did not mention that the renationalization of the company sanctioned by President Vladimir V. Putin did not simply affect the company's now-imprisoned billionaire chief executive, Mikhail B. Khodorkovsky.</p>
+        <p>It is surely of equal importance that Yukos was a publicly traded company listed on the New York Stock Exchange, with thousands of individual shareholders around the world.</p>
+        <p>The shareholders have suffered great losses. When the Russian government simply took this asset from its lawful owners, it did so without compensating those owners for the value of the property it lawlessly confiscated.</p>
+        <p>For this reason, I and many other Yukos shareholders have joined to take legal action in United States federal court against the Russian government and other responsible parties to seek compensation for this unlawful theft.</p>
+        <p>Richard V. Allen  Arrowtown, New Zealand  March 28, 2007</p>
+        <p>The writer was national security adviser to President Ronald Reagan.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

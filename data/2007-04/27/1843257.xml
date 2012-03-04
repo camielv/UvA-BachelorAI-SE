@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Studies Reveal an Immune System Regulator</title>
+    <meta content="27immune" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health; U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/27/us/27immune.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1843257"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Cancer</classifier>
+        <classifier class="indexing_service" type="descriptor">Lymphoma</classifier>
+        <classifier class="indexing_service" type="descriptor">Immune System</classifier>
+        <person class="indexing_service">Wade, Nicholas</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Cancer</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="descriptor">Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="descriptor">Immune System</classifier>
+        <classifier class="online_producer" type="descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Immune System</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cancer</classifier>
+        <classifier class="online_producer" type="general_descriptor">Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070427T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE0DE123EF934A15757C0A9619C8B63" item-length="400" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Studies Reveal an Immune System Regulator</hl1>
+        <hl2 class="online_headline">Studies Reveal an Immune System Regulator</hl2>
+      </hedline>
+      <byline class="print_byline">By NICHOLAS WADE</byline>
+      <byline class="normalized_byline">Wade, Nicholas</byline>
+      <abstract>
+        <p>Two separate scientific studies discover unexpected regulatory network that affects entire immune system; network may provide clues to both working of body's immune defenses and generation of class of cancers known as lymphomas (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Scientists working independently in Cambridge, England, and Cambridge, Mass., have discovered an unexpected regulatory network that affects the entire immune system.</p>
+        <p>The regulatory network may provide new clues to both the working of the body's immune defenses and the generation of a class of cancers known as lymphomas, which include Hodgkin's disease.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The regulatory network may provide new clues to the working of the body’s immune defenses and the generation of a class of cancers.</p>
+      </block>
+      <block class="full_text">
+        <p>Scientists working independently in Cambridge, England, and Cambridge, Mass., have discovered an unexpected regulatory network that affects the entire immune system.</p>
+        <p>The regulatory network may provide new clues to both the working of the body's immune defenses and the generation of a class of cancers known as lymphomas, which include Hodgkin's disease.</p>
+        <p>The network depends on a genetic element known as a micro-RNA. RNA is the versatile chemical cousin of DNA; the micro snippets are too short to make genes but can interfere with the much longer messenger RNAs, which are transcribed from the DNA and used to direct the synthesis of proteins.</p>
+        <p>A micro-RNA called miR-155, one of about 500 that have been discovered in mammals in the last 10 years, was known to be more abundant in active B cells, the antibody-making cells of the immune system, as well as in lymphomas.</p>
+        <p>Two groups of scientists, one led by Allan Bradley and Martin Turner in England and the other by Klaus Rajewsky at Harvard Medical School, had the idea of creating strains of mice from which the gene that generates the micro-RNA had been deleted. Their reports were published today in the journal Science.</p>
+        <p>Dr. Bradley's group found that the genetically engineered mice did not respond well to vaccination and failed to develop immunity. Without miR-155, they were unable to generate important cytokines, the cell-to-cell signaling proteins that coordinate the various components of the immune system.</p>
+        <p>Dr. Rajewsky's team found that without miR-155, the immune system was no longer able to select antibody-making cells of the right specificity to attack invaders.</p>
+        <p>Dr. Rajewsky said the involvement of miR-155 in the immune system was a ''completely new development'' that is ''leading to a lot of rethinking.'' Up to now, most immunologists have assumed the immune system was governed at the level of transcription factors, the master regulator proteins that control how genes are turned off and on.</p>
+        <p>''This has dominated everyone's thinking for a generation,'' said Dr. Turner, of the Babraham Institute in Cambridge, England. But the findings showed the importance of a different level of control.</p>
+        <p>''Knocking out the micro-RNA is affecting a lot of different cell types that need to cooperate with each other,'' Dr. Turner said.</p>
+        <p>The work on miR-155 opened a window into the understanding of the immune system, but it is too early for immunologists to figure out any practical consequences.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

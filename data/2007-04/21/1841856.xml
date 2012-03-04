@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Manhattan: Atlantic Yards Can Proceed</title>
+    <meta content="21mbrfs-1" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/21/nyregion/21mbrfs-yards.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1841856"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="New York"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Courts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Courts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Decisions and Verdicts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Area Planning and Renewal</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Machinery and Equipment</classifier>
+        <location class="online_producer">Brooklyn (NYC)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070421T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E7D8163EF932A15757C0A9619C8B63" item-length="140" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Manhattan: Atlantic Yards Can Proceed</hl1>
+        <hl2 class="online_headline">Manhattan: Atlantic Yards Can Proceed</hl2>
+      </hedline>
+      <byline class="print_byline">By ANAHAD O'CONNOR; Compiled by Karin Roberts</byline>
+      <byline class="normalized_byline">O'Connor, Anahad</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A State Supreme Court justice declined yesterday to issue a restraining order temporarily halting the demolition of nine vacant buildings to make way for the Atlantic Yards project near Downtown Brooklyn. The restraining order had been requested by Develop Don't Destroy Brooklyn, which opposes the scale of the 22-acre project that is to encompass housing, office and retail space and a basketball arena. The group had argued that the developer, Forest City Ratner, should not be allowed to begin demolishing buildings before May 3, the date of a hearing on a lawsuit challenging the state's environmental review and approval of the project. Justice Joan Madden said that the plaintiffs had failed to substantiate their argument that the demolition would ''irrevocably harm the neighborhood,'' but that she was not judging the suit's merits.</p>
+        <p>ANAHAD O'CONNOR</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A State Supreme Court justice declined yesterday to issue a restraining order temporarily halting the demolition of nine vacant buildings to make way for the Atlantic Yards project near Downtown Brooklyn. The restraining order had been requested by Develop Don’t Destroy Brooklyn, which opposes the scale of the 22-acre project that is to encompass housing, office and retail space and a basketball arena. The group had argued that the developer, Forest City Ratner, should not be allowed to begin demolishing buildings before May 3, the date of a hearing on a lawsuit challenging the state’s environmental review and approval of the project. Justice Joan Madden said that the plaintiffs had failed to substantiate their argument that the demolition would “irrevocably harm the neighborhood,” but that she was not judging the suit’s merits.</p>
+      </block>
+      <block class="full_text">
+        <p>A State Supreme Court justice declined yesterday to issue a restraining order temporarily halting the demolition of nine vacant buildings to make way for the Atlantic Yards project near Downtown Brooklyn. The restraining order had been requested by Develop Don't Destroy Brooklyn, which opposes the scale of the 22-acre project that is to encompass housing, office and retail space and a basketball arena. The group had argued that the developer, Forest City Ratner, should not be allowed to begin demolishing buildings before May 3, the date of a hearing on a lawsuit challenging the state's environmental review and approval of the project. Justice Joan Madden said that the plaintiffs had failed to substantiate their argument that the demolition would ''irrevocably harm the neighborhood,'' but that she was not judging the suit's merits.</p>
+        <p>ANAHAD O'CONNOR</p>
+        <p>New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

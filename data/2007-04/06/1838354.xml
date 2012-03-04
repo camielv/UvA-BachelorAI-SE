@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Difference Between Mutts and Jeffs? A Gene</title>
+    <meta content="06dogs" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/06/science/06dogs.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1838354"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Dogs</classifier>
+        <classifier class="indexing_service" type="descriptor">Genetics and Heredity</classifier>
+        <classifier class="indexing_service" type="descriptor">Dna (Deoxyribonucleic Acid)</classifier>
+        <org class="indexing_service">Science (Journal)</org>
+        <person class="indexing_service">Mcneil, Donald G Jr</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="descriptor">Dogs</classifier>
+        <classifier class="online_producer" type="descriptor">DNA (Deoxyribonucleic Acid)</classifier>
+        <classifier class="online_producer" type="descriptor">Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dogs</classifier>
+        <classifier class="online_producer" type="general_descriptor">DNA (Deoxyribonucleic Acid)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070406T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9900E4DC173FF935A35757C0A9619C8B63" item-length="326" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Difference Between Mutts and Jeffs? A Gene</hl1>
+        <hl2 class="online_headline">Difference Between Mutts and Jeffs? A Gene</hl2>
+      </hedline>
+      <byline class="print_byline">By DONALD G. McNEIL Jr.</byline>
+      <byline class="normalized_byline">Mcneil, Donald G Jr</byline>
+      <abstract>
+        <p>Journal Science reports scientists discover gene fragment that controls size of dogs; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>If it weren't for the IGF-1 suppressor gene, Paris Hilton's life would be a lot less elegant.</p>
+        <p>She'd be lugging around an Irish wolfhound in her purse.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Scientists have just discovered which gene fragment controls the size of dogs, the mammal with the greatest range in size.</p>
+      </block>
+      <block class="full_text">
+        <p>If it weren't for the IGF-1 suppressor gene, Paris Hilton's life would be a lot less elegant.</p>
+        <p>She'd be lugging around an Irish wolfhound in her purse.</p>
+        <p>Scientists have just discovered which gene fragment controls the size of dogs, the mammal with the greatest range in size: no other species produces adults with 100-fold differences, like that between a 2-pound Chihuahua and a 200-pound Newfoundland.</p>
+        <p>In a study to be published today in the journal Science, researchers analyzed 3,241 purebreds from 143 breeds. Genetically, the yapper arguing with your ankle is almost identical to the drooling behemoth bred to hunt bears, except for a tiny bit of DNA -- universally present in small breeds and largely absent in big ones -- that suppresses the ''insulin-like growth factor 1'' gene.</p>
+        <p>Dog owners have unwittingly been selecting for it since the last ice age. Dogs emerged from the wolf about 15,000 years ago, and as far back as 10,000 years ago domesticated dogs as big as mastiffs and as small as Jack Russells were trotting the earth.</p>
+        <p>The study's lead author, Elaine A. Ostrander, chief of cancer genetics at the National Human Genome Research Institute, said she had visited a lot of dog shows, asking for blood.</p>
+        <p>''It became kind of a status symbol to participate, and we were inundated,'' Dr. Ostrander said. ''I only wanted one sample from any descendant of one grandfather, and owners would show up with five Scottish deerhounds, all of them siblings, and say, 'Oh, absolutely, they all want to be in.' ''</p>
+        <p>Making it ''cool biology,'' she said, is that the same gene suppressor is found in both mice and men, creating mini-mice and suspected in human dwarfism.</p>
+        <p>And because it controls growth gone awry, Dr. Ostrander said, it will help cancer research, and is to be manipulated in mice.</p>
+        <p>But carefully. A mouse the size of a Great Dane, she said, ''would be a little scary, wouldn't it?''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

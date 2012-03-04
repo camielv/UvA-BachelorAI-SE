@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Buffalo: Man Jailed For 21 Years Is Freed</title>
+    <meta content="03mbrfs-2" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837819"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Sex Crimes</classifier>
+        <classifier class="indexing_service" type="descriptor">Dna (Deoxyribonucleic Acid)</classifier>
+        <classifier class="indexing_service" type="descriptor">False Arrests, Convictions and Imprisonments</classifier>
+        <location class="indexing_service">Buffalo (NY)</location>
+        <person class="indexing_service">Capozzi, Anthony</person>
+        <person class="indexing_service">Staba, David</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/Buffalo</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sex Crimes</classifier>
+        <classifier class="online_producer" type="general_descriptor">DNA (Deoxyribonucleic Acid)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070403T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05EEDB1F30F930A35757C0A9619C8B63" item-length="151" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Buffalo: Man Jailed For 21 Years Is Freed</hl1>
+      </hedline>
+      <byline class="print_byline">By DAVID STABA; Compiled by John Sullivan</byline>
+      <byline class="normalized_byline">Staba, David</byline>
+      <abstract>
+        <p>Rape convictions of Anthony Capozzi of Buffalo, who has been incarcerated for 21 years, are vacated after prosecutors announce that newly discovered DNA evidence links another man to attacks (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The rape convictions of a Buffalo man incarcerated for more than 21 years were vacated yesterday, five days after prosecutors announced that newly discovered evidence had linked another man to the attacks. The man, Anthony Capozzi, 50, was not in court for the hearing, during which Judge Shirley Troutman of Erie County Court ordered his release. Mr. Capozzi, who is schizophrenic and is being treated at a state prison hospital in Marcy, was convicted of two rapes in the early 1980s. He was released after prosecutors said that another man's DNA matched the DNA samples from the rapes. That man, Altemio Sanchez, cannot be charged with the rapes because of the statute of limitations, which was five years at the time, prosecutors said. Mr. Sanchez has been charged with three murders in the Buffalo area since 1990. He has pleaded not guilty.</p>
+        <p>DAVID STABA</p>
+      </block>
+      <block class="full_text">
+        <p>The rape convictions of a Buffalo man incarcerated for more than 21 years were vacated yesterday, five days after prosecutors announced that newly discovered evidence had linked another man to the attacks. The man, Anthony Capozzi, 50, was not in court for the hearing, during which Judge Shirley Troutman of Erie County Court ordered his release. Mr. Capozzi, who is schizophrenic and is being treated at a state prison hospital in Marcy, was convicted of two rapes in the early 1980s. He was released after prosecutors said that another man's DNA matched the DNA samples from the rapes. That man, Altemio Sanchez, cannot be charged with the rapes because of the statute of limitations, which was five years at the time, prosecutors said. Mr. Sanchez has been charged with three murders in the Buffalo area since 1990. He has pleaded not guilty.</p>
+        <p>DAVID STABA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

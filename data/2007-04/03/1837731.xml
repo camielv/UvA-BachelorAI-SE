@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Finding Doomsday Asteroids</title>
+    <meta content="03tues3" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/03/opinion/03tues3.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837731"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Space</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Asteroids</classifier>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <classifier class="indexing_service" type="descriptor">Budgets and Budgeting</classifier>
+        <location class="indexing_service">United States</location>
+        <org class="indexing_service">National Aeronautics and Space Administration</org>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="descriptor">Asteroids</classifier>
+        <classifier class="online_producer" type="descriptor">Space</classifier>
+        <classifier class="online_producer" type="descriptor">Earth</classifier>
+        <classifier class="online_producer" type="descriptor">International Space Cooperation and Ventures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Earth</classifier>
+        <classifier class="online_producer" type="general_descriptor">Budgets and Budgeting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Asteroids</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Space Cooperation and Ventures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Planets</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+        <org class="online_producer">National Aeronautics and Space Administration</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070403T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F06EEDD1F30F930A35757C0A9619C8B63" item-length="492" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Finding Doomsday Asteroids</hl1>
+        <hl2 class="online_headline">Finding Doomsday Asteroids</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial says risk that asteroid might some day collide with Earth is remote, but consequences are potentially catastrophic; says Congress should either add funds to NASA's budget, or NASA should divert funds from other programs to accelerate asteroid hunt</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>How much effort should we expend to ward off the possibility that an asteroid might some day collide with Earth? Space experts attending a recent conference in Washington lamented the failure of the federal government -- indeed, of the entire world -- to take the threat seriously enough. The National Aeronautics and Space Administration, at virtually the same moment, advised Congress on steps that could be taken to find and divert threatening asteroids only to conclude that it couldn't afford them.</p>
+        <p>That seems shortsighted. The risk is remote, but the consequences are potentially catastrophic. It would seem wise, at a minimum, to look harder for any death-dealing rocks that might menace us.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Before plunging ahead with an asteroid-deflector, let’s wait to see whether a real threat even exists.</p>
+      </block>
+      <block class="full_text">
+        <p>How much effort should we expend to ward off the possibility that an asteroid might some day collide with Earth? Space experts attending a recent conference in Washington lamented the failure of the federal government -- indeed, of the entire world -- to take the threat seriously enough. The National Aeronautics and Space Administration, at virtually the same moment, advised Congress on steps that could be taken to find and divert threatening asteroids only to conclude that it couldn't afford them.</p>
+        <p>That seems shortsighted. The risk is remote, but the consequences are potentially catastrophic. It would seem wise, at a minimum, to look harder for any death-dealing rocks that might menace us.</p>
+        <p>The encouraging news is that the most horrendous hazards -- asteroids like the one that wiped out the dinosaurs or even smaller objects whose impact could disrupt the global environment -- have mostly been identified under a $4 million-a-year survey program. The space agency estimates that there are some 1,100 near-Earth objects whose diameters exceed six-tenths of a mile, big enough to destroy a medium-sized state and kick up enough dust to affect global climate and crop production. The survey has already identified more than 700 of them. None are on a path to collide with Earth.</p>
+        <p>More troublesome is the threat of smaller asteroids, greater than 460 feet in diameter (about one-seventh the threshold of the really scary big ones), that could devastate a region but not the whole globe. NASA estimates that some 20,000 of these might be potentially hazardous; it has identified only a fraction of them. Two years ago Congress asked NASA to propose new search programs and to analyze ways to divert any asteroids on a collision course with Earth. The agency did that in a March report to Congress, but it balked at the notion of spending up to $1 billion or more to build search instruments or spacecraft.</p>
+        <p>That is understandable. NASA is burdened with the need to finish the space station, build a successor to the shuttles, return to the moon and conduct wide-ranging research. It already has more jobs to perform than money to perform them. But finding asteroids that might threaten the planet, and studying their characteristics in the process, is probably more important than at least some of the other robotic missions mounted by NASA. Congress should either add funds to the agency's budget, or the agency should divert funds from other programs to accelerate the asteroid hunt.</p>
+        <p>Developing ways to deflect asteroids is more problematic. NASA suggests that the best solution would be to explode a nuclear bomb next to an asteroid to deflect it off course, but international aversion to nuclear weapons in space would make that approach difficult without a global consensus. Other experts favor a high-speed ballistic impact or using the gravitational attraction of a hovering spacecraft to nudge the asteroid off course. Before plunging ahead with an asteroid-deflector, let's wait to see whether a real threat even exists.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Special Education Abuses</title>
+    <meta content="l25literacy" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1842783"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Handicapped</classifier>
+        <classifier class="online_producer" type="general_descriptor">Special Education (Handicapped)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070425T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9403E1DA143EF936A15757C0A9619C8B63" item-length="198" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Special Education Abuses</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Word by Word, the World Becomes a Little Less Mystifying for Illiterate Adults,'' by Joseph Berger (On Education column, April 18):</p>
+        <p>The reasons for the dramatic growth in the number of students in special education classes are more complex than they appear. Failure to understand the causes undermines taxpayer support for neighborhood public schools at voting time.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Word by Word, the World Becomes a Little Less Mystifying for Illiterate Adults,'' by Joseph Berger (On Education column, April 18):</p>
+        <p>The reasons for the dramatic growth in the number of students in special education classes are more complex than they appear. Failure to understand the causes undermines taxpayer support for neighborhood public schools at voting time.</p>
+        <p>While part of the increase no doubt is a result of incorrectly classifying students for this designation because they are hard to teach, the greater likelihood is that it is due to a rise in one category alone known as ''specific learning disability.'' The trouble is that this diagnosis is highly subjective, and allows schools to make a profit because the funds generated for treatment exceed the cost of providing services.</p>
+        <p>Perhaps these factors help explain why the Individuals With Disabilities Education Act is reportedly the fourth most litigated federal statute. The lesson that emerges is that students who legitimately qualify under the intent of the law need to be protected against flagrant abuses.</p>
+        <p>Walt Gardner  Los Angeles, April 18, 2007</p>
+        <p>The writer taught for 28 years in the Los Angeles Unified School District.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

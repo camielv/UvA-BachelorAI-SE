@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Juliet Sorce, David Weber</title>
+    <meta content="29Sorce" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/29/fashion/weddings/29Sorce.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1843747"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Sorce, Juliet Anne (Juliet Anne Weber)</person>
+        <person class="indexing_service">Weber, David Nathaniel</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950CEFDD123EF93AA15757C0A9619C8B63" item-length="221" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Juliet Sorce, David Weber</hl1>
+        <hl2 class="online_headline">Juliet Sorce, David Weber</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Juliet Anne Sorce, the daughter of Gloria and Anthony J. Sorce of Manhattan, is to be married today to David Nathaniel Weber, a son of Kathy and Michael J. Weber of Penfield, N.Y. Lisel Burns, the clergy leader for the Brooklyn Society for Ethical Culture, will officiate at the Yale Club of New York.</p>
+        <p>The couple, both 29, graduated from Yale, where they met in a chemistry lab in their freshman year.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Juliet Anne Sorce, the daughter of Gloria and Anthony J. Sorce of Manhattan, is to be married today to David Nathaniel Weber, a son of Kathy and Michael J. Weber of Penfield, N.Y. Lisel Burns, the clergy leader for the Brooklyn Society for Ethical Culture, will officiate at the Yale Club of New York.</p>
+      </block>
+      <block class="full_text">
+        <p>Juliet Anne Sorce, the daughter of Gloria and Anthony J. Sorce of Manhattan, is to be married today to David Nathaniel Weber, a son of Kathy and Michael J. Weber of Penfield, N.Y. Lisel Burns, the clergy leader for the Brooklyn Society for Ethical Culture, will officiate at the Yale Club of New York.</p>
+        <p>The couple, both 29, graduated from Yale, where they met in a chemistry lab in their freshman year.</p>
+        <p>The bride is a senior account executive at Resnicow Schroeder Associates, a New York public relations and consulting agency for museums and other cultural institutions. She received a master's in Italian language and culture from Middlebury.</p>
+        <p>Her father is a professor of art at the Borough of Manhattan Community College of the City University of New York. He is also a painter who is represented by the Roy Boyd Gallery in Chicago. Her mother retired as a reading tutor for children.</p>
+        <p>The bridegroom is an owner of Rickshaw Dumpling Bar, an Asian restaurant in Manhattan.</p>
+        <p>His mother is a fiber artist who makes hand-dyed scarves. She retired as the chairwoman of the English department and as an English teacher at the Greece Arcadia High School in Greece, N.Y. His father, a chemical engineer, retired as a senior project engineer in Rochester for Jacobs Engineering, a firm in Greenville, S.C.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>OBSERVATORY</title>
+    <meta content="10obse2" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Science; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/10/science/10obse3.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1839257"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Observatory"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./West</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Observatory</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Mars (Planet)</classifier>
+        <classifier class="online_producer" type="descriptor">Energy and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Nanotechnology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mars (Planet)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fruit</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insects</classifier>
+        <classifier class="online_producer" type="general_descriptor">Planets</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070410T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B05E7DD153FF933A25757C0A9619C8B63" item-length="828" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>OBSERVATORY</hl1>
+        <hl2 class="online_headline">Scientists Project How Dust Affects the Martian Climate</hl2>
+      </hedline>
+      <byline class="print_byline">By Henry Fountain</byline>
+      <byline class="normalized_byline">Fountain, Henry</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Minuscule Power Plants, With Potential Uses In Tiny Devices</p>
+        <p>The term ''power plant'' conjures images of giant boilers and huge turbines fueled by oil, coal or a nuclear reactor.</p>
+        <p>But power plants can be much smaller in scale. Take the one designed by Zhong Lin Wang and colleagues at the Georgia Institute of Technology. Its working components are on the order of a millionth of a meter high and 40 billionths of a meter wide. It is ''fueled'' by ultrasonic waves or other vibrations.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Climate change on Mars, how fruit flies fly and minuscule power plants.</p>
+      </block>
+      <block class="full_text">
+        <p>Minuscule Power Plants, With Potential Uses In Tiny Devices</p>
+        <p>The term ''power plant'' conjures images of giant boilers and huge turbines fueled by oil, coal or a nuclear reactor.</p>
+        <p>But power plants can be much smaller in scale. Take the one designed by Zhong Lin Wang and colleagues at the Georgia Institute of Technology. Its working components are on the order of a millionth of a meter high and 40 billionths of a meter wide. It is ''fueled'' by ultrasonic waves or other vibrations.</p>
+        <p>This nanogenerator, described in a paper in the journal Science, expands on earlier work by some of the same researchers, who demonstrated that a zinc oxide nanowire, when bent by the tip of an atomic force microscope, generates an electric current by the piezoelectric effect.</p>
+        <p>But using an expensive lab instrument to bend one nanowire to create a tiny amount of electricity is hardly efficient. The new work replaces the microscope with a flat, platinum-coated silicon electrode into which a series of ridges has been etched. This electrode is placed on top of an array of hundreds of nanowires that have been grown on a substrate that functions as a second electrode.</p>
+        <p>The result is a sandwich, with the vertical nanowires between the two electrodes. When vibrations make the top electrode move, many of the nanowires bend, creating a small direct current.</p>
+        <p>With enough nanowires, and improvements in efficiency, the researchers say, such a generator may someday be useful in powering tiny nanoscale devices in places where battery power is not practical -- inside the body, perhaps, where even the pulsations of blood flow might provide the vibrational fuel.</p>
+        <p>For Fruit Flies, Sharp Turns in Flight In the Search for Food</p>
+        <p>If the shortest distance between two points is a straight line, why do fruit flies flit around? You'd think they'd want to conserve energy.</p>
+        <p>''But they make turns on their own, seemingly spontaneously,'' said Mark A. Frye of the University of California, Los Angeles. They fly straight for a distance, he said, then make a right-angle turn and fly straight again, repeating this pattern over and over.</p>
+        <p>But a mathematical analysis of these movements shows that there's a method to them, Dr. Frye and Andy M. Reynolds of Rothamsted Research in England write in the online journal PLoS One. The fly is executing a search strategy that optimizes the chances of finding food.</p>
+        <p>The analysis  shows that the lengths of the straight-flight segments vary according to a probability distribution first described by a French mathematician, Paul Pierre Lévy. These straight segments, called ''Lévy flights,'' are mostly short, but occasionally there are longer ones and, more infrequently, very long ones.</p>
+        <p>The pattern is independent of scale, giving it a fractal quality like the hexagonal patterns in a snowflake. ''If you look at the fly's path from far away, then zoom in, it will look the same,'' Dr. Frye said.</p>
+        <p>A wide variation in segment lengths makes sense for fruit flies, for which locating food is akin to finding a needle in a haystack, Dr. Frye said. With other probability distributions that have less variability in lengths, he said, ''You don't actually end up going far from where you've started.''</p>
+        <p>Lévy flights, he added, ''move you along the landscape much more quickly.''</p>
+        <p>Similar distributions have been found in the movements of other species, including spider monkeys, deer, albatrosses and even human hunter-gatherers. Discovering the same patterns in flies should help with Dr. Frye's eventual goal: understanding how they are generated by the brain.</p>
+        <p>''Fruit flies are great for this because we have all these genetic tools,'' he said. ''So we have a hope of being able to understand the neurobiological mechanism for how this is built.''</p>
+        <p>Scientists Project How Dust Affects The Martian Climate</p>
+        <p>Since astronomers first trained a decent telescope on Mars, the planet's surface has appeared to change over time, with dark areas that grow and recede (and were wrongly interpreted as signs of vegetation or civilization).</p>
+        <p>Scientists realize now that these changes in surface reflectance, or albedo, are due to the dust that swirls around the planet. Places blown free of dust are darker, while those where dust is deposited appear lighter. But they haven't known how the changes affect the Martian climate.</p>
+        <p>Now Lori K. Fenton of NASA's Ames Research Center and colleagues have plugged observed albedo changes over time into a simulation of the Martian climate. Their findings, reported in Nature, show that there is a self-perpetuating aspect to the changes. In areas that have recently darkened, the winds get stronger, increasing the conditions that made it darker in the first place. In lighter areas the winds weaken, which leads to more dust deposition.</p>
+        <p>More important, perhaps, the model also predicts that global air temperatures increase by slightly more than 1 degree Fahrenheit annually. Such a rise could account for a recent change on Mars: the retreat of the ice cap at the south pole.</p>
+        <p>Observatory</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Wright's Swing Adding to Power Shortage</title>
+    <meta content="24shea" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/24/sports/baseball/24shea.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842667"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="BASEBALL"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Mets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="descriptor">Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+        <org class="online_producer">New York Mets</org>
+        <person class="online_producer">Wright, David</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070424T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9506EFDD143EF937A15757C0A9619C8B63" item-length="334" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Wright's Swing Adding to Power Shortage</hl1>
+        <hl2 class="online_headline">Wright’s Swing Adding to Power Shortage</hl2>
+      </hedline>
+      <byline class="print_byline">By MICHAEL S. SCHMIDT</byline>
+      <byline class="normalized_byline">Schmidt, Michael S</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Through the first two full seasons of David Wright's career, he was a complete hitter. In the second half of last season, he became a singles hitter, and now even the base hits seem to be disappearing.</p>
+        <p>This season, Wright has a modest average (.261), only four runs batted in and no home runs. Those are surprising numbers for a player whose marketing presence has ballooned in the past year.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>This season, David Wright has a modest average (.261), less than a handful of runs batted in (four) and no home runs.</p>
+      </block>
+      <block class="full_text">
+        <p>Through the first two full seasons of David Wright's career, he was a complete hitter. In the second half of last season, he became a singles hitter, and now even the base hits seem to be disappearing.</p>
+        <p>This season, Wright has a modest average (.261), only four runs batted in and no home runs. Those are surprising numbers for a player whose marketing presence has ballooned in the past year.</p>
+        <p>Last weekend, against the East Division-leading Braves, Wright was 0 for 11 with five strikeouts. He seems to be lunging at the ball and appears to be anxious at the plate.</p>
+        <p>''Instead of relaxing and allowing the ball to get deep towards me and taking it the other way like I did in the past, I am trying to jump and I am getting a little pull happy,'' said Wright, who went 0 for 3 last night with two strikeouts and a walk in the Mets' 6-1 victory against Colorado at Shea Stadium. ''By not letting the ball travel towards me, I am going out to get it, and it is making me susceptible to off-speed pitches and pitches down and away.''</p>
+        <p>Wright hit 27 home runs in 2005, his first full season, and had 20 homers in the first half of last season. He finished second in the Home Run Derby at last year's All-Star Game in Pittsburgh, but his power numbers dwindled in the second half. Wright hit only six home runs the rest of the year and one in the playoffs.</p>
+        <p>This season, Wright's power slump was overshadowed when he hit safely in the first 14 games, extending his streak to a team-record 26, which dated to last season. But since the streak ended, Wright has looked lost at the plate.</p>
+        <p>''There is room for improvement, but that is the game of baseball,'' Wright said. ''There are some ups and downs. All in all, I feel comfortable, but it is obvious I need to make some improvements.''</p>
+        <p>BASEBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

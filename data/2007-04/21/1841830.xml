@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>To Help Housing, Official Urges Development of Vacant Spaces</title>
+    <meta content="21vacant" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/21/nyregion/21vacant.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1841830"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Locations/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Locations/New York/New York City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Sales and Business Development</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Housing</classifier>
+        <classifier class="online_producer" type="descriptor">Taxation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tax Credits</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sales</classifier>
+        <classifier class="online_producer" type="general_descriptor">Excise Taxes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Taxation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+        <person class="online_producer">Stringer, Scott</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070421T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E3D9163EF932A15757C0A9619C8B63" item-length="279" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>To Help Housing, Official Urges Development of Vacant Spaces</hl1>
+        <hl2 class="online_headline">To Help Housing, Official Urges Development of Vacant Spaces</hl2>
+      </hedline>
+      <byline class="print_byline">By JANNY SCOTT</byline>
+      <byline class="normalized_byline">Scott, Janny</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In a steaming real estate market with a growing shortage of low-cost housing, the Manhattan borough president, Scott M. Stringer, intends today to urge the city to encourage the development of vacant or partially vacant properties through regular surveys and tax incentives.</p>
+        <p>An unscientific street-by-street survey of Manhattan, conducted recently by Mr. Stringer's office, hundreds of volunteers and a grass-roots group called Picture the Homeless, found more than 2,000 vacant or partially vacant properties. Mr. Stringer wants the city to use tax policy to encourage development by imposing a sales tax on vacant property not improved during ownership and by ending a tax exemption for vacant land north of 96th Street.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Manhattan borough president Scott Stringer wants the city to use tax policy to encourage development.</p>
+      </block>
+      <block class="full_text">
+        <p>In a steaming real estate market with a growing shortage of low-cost housing, the Manhattan borough president, Scott M. Stringer, intends today to urge the city to encourage the development of vacant or partially vacant properties through regular surveys and tax incentives.</p>
+        <p>An unscientific street-by-street survey of Manhattan, conducted recently by Mr. Stringer's office, hundreds of volunteers and a grass-roots group called Picture the Homeless, found more than 2,000 vacant or partially vacant properties. Mr. Stringer wants the city to use tax policy to encourage development by imposing a sales tax on vacant property not improved during ownership and by ending a tax exemption for vacant land north of 96th Street.</p>
+        <p>''There should be a registry so that we can do an inventory of the vacant buildings and lots,'' said Mr. Stringer, who plans to release a report on the subject today. ''And I think we need to impose a financial penalty for holding properties vacant, making it more attractive to sell or develop.''</p>
+        <p>The survey found 2,228 lots and buildings in Manhattan that ''appear to be vacant or have vacancies.''</p>
+        <p>More than 500 were empty residential buildings and another 500 were empty lots. Nearly three-fourths were above 96th Street. The report suggested the underused space, if developed, could accommodate 24,000 apartments.</p>
+        <p>Mr. Stringer wants the city to conduct a systematic survey of vacant properties and require that owners register empty residential buildings, in addition to the city considering tax incentives for development.</p>
+        <p>Currently, the city tracks properties whose owners have fallen behind on their taxes, transferring many of them to new owners; but it does not track vacant property on which taxes are being paid.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Affordable Europe: Budapest</title>
+    <meta content="22budaweb" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="" name="print_section"/>
+    <meta content="Travel" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/22/travel/22budaweb.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842328"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <location class="indexing_service">Budapest (Hungary)</location>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Hungary/Budapest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Hungary</classifier>
+        <classifier class="online_producer" type="descriptor">Travel and Vacations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+        <location class="online_producer">Budapest (Hungary)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9405E1D61631F931A15757C0A9619C8B63" item-length="519" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Affordable Europe: Budapest</hl1>
+        <hl2 class="online_headline">Affordable Europe: Budapest</hl2>
+      </hedline>
+      <byline class="print_byline">By EVAN RAIL</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Straddling the Danube, Budapest is famous for its historic bridges, its immense Great Synagogue (the second largest in the world) and the ornate thermal baths dating back to the Turkish occupation. But it's not all ancient history: the Hungarian capital is also home to some of the best restaurants, clubs and cafes in all of ''new'' Europe. Though prices are frequently quoted in euros, the country still uses the forint, which provides some respite for travelers with dollars.</p>
+        <p>Where to Stay for Under 125 Euros</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Though prices are frequently quoted in euros, Hungary still uses the forint, which provides some respite for travelers with dollars.</p>
+      </block>
+      <block class="full_text">
+        <p>Straddling the Danube, Budapest is famous for its historic bridges, its immense Great Synagogue (the second largest in the world) and the ornate thermal baths dating back to the Turkish occupation. But it's not all ancient history: the Hungarian capital is also home to some of the best restaurants, clubs and cafes in all of ''new'' Europe. Though prices are frequently quoted in euros, the country still uses the forint, which provides some respite for travelers with dollars.</p>
+        <p>Where to Stay for Under 125 Euros</p>
+        <p>The lovely Hotel Pest (Paulay Ede u. 31; 36-1-343-1198; www.hotelpest.hu), two streets over from the stately ruins of the Rumbach Synagogue, has 20 surprisingly spacious doubles. The low season rate is 110 euros, or $150 at $1.36 to the euro; 130 euros in high season, or $176, with breakfast. Lower rates may be available online. (An added bonus: children under 6 stay for free.) Another choice nearby is the Hotel Queen Mary (Kertesz u. 34; 36-1-413-3510; www.hotelqueenmary.hu), which has simple but clean doubles with free and fast ethernet connections for laptops, starting at 83 euros in high season.</p>
+        <p>Where to Eat  One of the best restaurants anywhere east of Vienna, Baraka (Andrassy u. 111; 36-1-483-1355; www.barakarestaurant.hu), has a new location and new prices that are not particularly easygoing for dollar-travelers: main courses hover around $33 at current rates. However, new weekday lunch specials bring two-course menus of the same bold, continent-crossing cuisine at 3,500 forints ($18.80 at 186 forints to $1). For hearty local fare at bargain prices, try the charming mom-and- pop lunch shop, Kadar (Klauzal ter 9; 36-1-321-3622), which serves rich Hungarian stews, roasts and chops for around 1,000 forints. For similar meals after sundown, try the last nongentrified eating establishment on boutique-laden Kiraly street, Frici Papa (Kiraly u. 55; 36-1-351-0197).</p>
+        <p>Where to Shop  Designed by Gustave Eiffel, Budapest's Great Market Hall (at Fovam ter) has been a feast for the eyes as well as the gullet since 1897. If you're okay with foie gras, Hungary's best gets a lot cheaper the farther back you go from the main entrance, winding up at about $23 for a 200-gram tin in the very end of the market, significantly cheaper than the same product in the United States. Or pick up a much-easier-to-pack bag of Hungarian saffron: 10 grams (.35 ounces) cost just 500 forints versus $10 for a .2-ounce package from online discounters back home.</p>
+        <p>Best Money-Saving Tip  Classical concerts and opera can be cheap in music-loving Budapest, but cheap never quite compares to free. One of the world's great music schools, the Franz Liszt Academy of Music (Liszt Ferenc ter 8; 36-1-462-4600) has midafternoon concerts, gratis for the general public, taking place about three times a week. Even better, music CDs are very inexpensive at the school shop, with a long-running special on Hungaroton recordings of Liszt, Bartok and others starting at 1,600 forints. The academy is closed during July and August, and concerts take place irregularly during that period, so it is best to call and check ahead of time.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

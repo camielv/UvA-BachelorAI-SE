@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Film in Review; A Dios Momo</title>
+    <meta content="20roun-3" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1841621"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070420T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A02E0D71F3FF933A15757C0A9619C8B63" item-length="225" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Film in Review; A Dios Momo</hl1>
+      </hedline>
+      <byline class="print_byline">By MATT ZOLLER SEITZ</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Opens today in Manhattan.  Directed by Leonardo Ricagni  In Spanish, with English subtitles  Not rated; 108 minutes</p>
+        <p>''A Dios Momo,'' directed by Leonardo Ricagni, is to melodrama as corn syrup is to sweeteners: efficient but crude.</p>
+        <p>The film follows the uplifting misadventures of Obdulio (Mathias Acuña), a sweet-tempered 11-year-old newspaper boy who lives with his grandmother (Carmen Abella), a saintly old woman who is mainly pictured praying, and saves his pennies to buy school uniforms for his sisters.</p>
+      </block>
+      <block class="full_text">
+        <p>Opens today in Manhattan.  Directed by Leonardo Ricagni  In Spanish, with English subtitles  Not rated; 108 minutes</p>
+        <p>''A Dios Momo,'' directed by Leonardo Ricagni, is to melodrama as corn syrup is to sweeteners: efficient but crude.</p>
+        <p>The film follows the uplifting misadventures of Obdulio (Mathias Acuña), a sweet-tempered 11-year-old newspaper boy who lives with his grandmother (Carmen Abella), a saintly old woman who is mainly pictured praying, and saves his pennies to buy school uniforms for his sisters.</p>
+        <p>Obdulio is illiterate and refuses to go to school, but he's obsessed with the Murgas, a troupe of traveling singers. This fascination blossoms into a willingness to learn when his newspaper's watchman, Barrilete (Jorge Esmoris), teaches him to read by dispatching him to the singers' practice room to scrawl Barrilete's lyrics on a chalkboard.</p>
+        <p>This fairy-tale touch might work if the movie weren't so eager to imitate the stalest aspects of the director's chief inspiration, Federico Fellini. (The visions of Obdulio chasing a mimelike apparition through the streets play like an outtake from ''Juliet of the Spirits'' as staged by the ''Waiting for Guffman'' auteur Corky St. Clair.)</p>
+        <p>It sounds churlish to bash a film that's as bereft of bad thoughts as a tiny puppy. But when the puppy licks your face for 108 minutes, enough's enough.</p>
+        <p>MATT ZOLLER SEITZ</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

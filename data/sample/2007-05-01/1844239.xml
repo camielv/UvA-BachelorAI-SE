@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Which Brand of Bottled Water to Choose?</title>
+    <meta content="01pdrink" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="21" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1844239"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CAUCUS: DRINK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Presidential Election of 2008</classifier>
+        <classifier class="indexing_service" type="descriptor">Bottled Water</classifier>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <classifier class="indexing_service" type="descriptor">Debating</classifier>
+        <org class="indexing_service">Coca-Cola Co</org>
+        <org class="indexing_service">Pepsi-Cola Co</org>
+        <person class="indexing_service">Clinton, Hillary Rodham (Sen)</person>
+        <person class="indexing_service">Obama, Barack (Sen)</person>
+        <person class="indexing_service">Healy, Patrick</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water</classifier>
+        <classifier class="online_producer" type="general_descriptor">Debating</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Beverages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070501T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DEFD8133EF932A35756C0A9619C8B63" item-length="139" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Which Brand of Bottled Water to Choose?</hl1>
+      </hedline>
+      <byline class="print_byline">By PATRICK HEALY</byline>
+      <byline class="normalized_byline">Healy, Patrick</byline>
+      <abstract>
+        <p>Sen Hillary Rodham Clinton drank Dasani water, product of Coca-Cola, during April 26 debate among Democratic presidential candidates, and Sen Barack Obama drank Pepsi's Aquafina water; Obama actually raised more money from Coke employees and Clinton more from Pepsi; photos (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Comparison shopper alert: is Senator Hillary Rodham Clinton the Brand X presidential candidate, and Senator Barack Obama the Brand Y?</p>
+        <p>Although former President Bill Clinton, for one, does not see much difference between the two when it comes to Iraq, the rivals apparently part ways on drinking preferences.</p>
+      </block>
+      <block class="full_text">
+        <p>Comparison shopper alert: is Senator Hillary Rodham Clinton the Brand X presidential candidate, and Senator Barack Obama the Brand Y?</p>
+        <p>Although former President Bill Clinton, for one, does not see much difference between the two when it comes to Iraq, the rivals apparently part ways on drinking preferences.</p>
+        <p>In the Democratic presidential hopefuls debate on Thursday, Mrs. Clinton was seen with a bottle of Dasani water, a Coca-Cola product, while Mr. Obama drank Aquafina water, a Pepsi product.</p>
+        <p>Was this product placement on a political stage?</p>
+        <p>If so, their campaign contributors might want to take another look at the candidates. Mr. Obama raised more money than Mrs. Clinton from Coke employees ($4,300 versus her $2,300), and Mrs. Clinton took in more from Pepsi people ($4,600 to his $3,050), according to the candidates' campaign finance reports.</p>
+        <p>PATRICK HEALY</p>
+        <p>CAUCUS: DRINK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

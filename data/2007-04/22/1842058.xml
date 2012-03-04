@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Colleges With Good Bottom Lines</title>
+    <meta content="data22" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Education Life Supplement" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="4A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Education; U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1842058"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="DATA"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tuition</classifier>
+        <classifier class="online_producer" type="general_descriptor">Scholarships and Fellowships</classifier>
+        <classifier class="online_producer" type="general_descriptor">Scholarships and Fellowships</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Awards, Decorations and Honors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A03E7DF1F3FF931A15757C0A9619C8B63" item-length="146" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Colleges With Good Bottom Lines</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To a first-timer, the letters that arrive in spring from financial aid offices can be a head-scratcher: no two packages are alike. Private institutions, especially, interpret family finances in different ways; some have deeper pockets; some fail to meet ''demonstrated need'' (the difference between the cost of attending and the amount a family is deemed able to pay, according to a need analysis formula). According to an annual College Board survey, the private colleges below provide aid packages that meet the highest percentage of need. In reviewing offers, remember: loans have to be paid back, grants do not.</p>
+        <p>KEY:</p>
+        <p>COST: Tuition, fees, room and board  AVERAGE AID PACKAGE: Given freshmen with need  SELF-HELP: Work-study and need-based loans  NON-NEED: Grants and scholarships, excluding athletic awards  PERCENTAGES: % of applicants getting this aid (non-need: % of class)  ALL DOLLAR FIGURES IN THOUSANDS (for freshman class, 2005)</p>
+      </block>
+      <block class="full_text">
+        <p>To a first-timer, the letters that arrive in spring from financial aid offices can be a head-scratcher: no two packages are alike. Private institutions, especially, interpret family finances in different ways; some have deeper pockets; some fail to meet ''demonstrated need'' (the difference between the cost of attending and the amount a family is deemed able to pay, according to a need analysis formula). According to an annual College Board survey, the private colleges below provide aid packages that meet the highest percentage of need. In reviewing offers, remember: loans have to be paid back, grants do not.</p>
+        <p>KEY:</p>
+        <p>COST: Tuition, fees, room and board  AVERAGE AID PACKAGE: Given freshmen with need  SELF-HELP: Work-study and need-based loans  NON-NEED: Grants and scholarships, excluding athletic awards  PERCENTAGES: % of applicants getting this aid (non-need: % of class)  ALL DOLLAR FIGURES IN THOUSANDS (for freshman class, 2005)  DATA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

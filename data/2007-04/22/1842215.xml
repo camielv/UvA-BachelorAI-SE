@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>DWINDLING OPTIONS</title>
+    <meta content="22suits-2" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1842215"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="OPENERS: SUITS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Suits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stock Options and Purchase Plans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B06EFDA163EF931A15757C0A9619C8B63" item-length="204" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>DWINDLING OPTIONS</hl1>
+      </hedline>
+      <byline class="print_byline">By JEFF BAILEY</byline>
+      <byline class="normalized_byline">Bailey, Jeff</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>As a licensed funeral director and founder and chairman of Service Corporation International, the mortuary operator, R. L. Waltrip knows something about untimely passings. And this year, Mr. Waltrip faces the sad prospect of watching 2.8 million stock options he holds expire worthless.</p>
+        <p>The company, based in Houston, is still on the mend from an expansion binge that mostly ended in 1999. Its stock has not risen above $12.33 in the past year. Thus, 400,000 options with an exercise price of $14.81 would have expired worthless on March 10, according to Service Corporation's recently filed proxy statement. And 800,000, exercisable at $19.47 a share, expire May 12.</p>
+      </block>
+      <block class="full_text">
+        <p>As a licensed funeral director and founder and chairman of Service Corporation International, the mortuary operator, R. L. Waltrip knows something about untimely passings. And this year, Mr. Waltrip faces the sad prospect of watching 2.8 million stock options he holds expire worthless.</p>
+        <p>The company, based in Houston, is still on the mend from an expansion binge that mostly ended in 1999. Its stock has not risen above $12.33 in the past year. Thus, 400,000 options with an exercise price of $14.81 would have expired worthless on March 10, according to Service Corporation's recently filed proxy statement. And 800,000, exercisable at $19.47 a share, expire May 12.</p>
+        <p>There is still some hope, though, for a group of 1,613,003 options, exercisable at $12.88 each, expiring Nov. 9.</p>
+        <p>Mr. Waltrip declined to comment, according to a spokesman, Greg Bolton. But there is no need to feel too sorry for him. He has 3.6 million other options expiring through 2010 with current unrealized gains of about $27 million.</p>
+        <p>And, though he is no longer chief executive, he remains well paid. His 2006 salary and incentive compensation totaled $6 million, including $176,751 to provide him with a car, driver and security around his home.</p>
+        <p>JEFF BAILEY</p>
+        <p>OPENERS: SUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

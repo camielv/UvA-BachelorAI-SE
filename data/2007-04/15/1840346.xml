@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Getting Piggy With It</title>
+    <meta content="05remix.feet.pedicure.t-1" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="T: Beauty" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/15/style/15tpiggy.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840346"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE REMIX"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/T: Style Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Fashion, Beauty and Fitness</classifier>
+        <classifier class="online_producer" type="descriptor">Feet</classifier>
+        <classifier class="online_producer" type="descriptor">Beauty</classifier>
+        <classifier class="online_producer" type="general_descriptor">Feet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Beauty</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F00E7DD123FF936A25757C0A9619C8B63" item-length="127" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Getting Piggy With It</hl1>
+        <hl2 class="online_headline">Getting Piggy With It</hl2>
+      </hedline>
+      <byline class="print_byline">By CHRISTINE MUHLKE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Bastien Gonzalez has always been hard to track down, flying from one capital to the next to tend to the toes of the rich and richer. In 2004 he inked an exclusive deal to bring his signature, polish-free, totally buffed medical Pedicure de Bastien to the One and Only resorts -- in Dubai, the Maldives, Mauritius and Los Cabos, Mexico. He spends Sundays in Paris with his girlfriend; infrequent contact ''is why we have so much love,'' he said. This marathon plays out in 18,688 miles traveled per week; 3 passports owned; 10 clients per day; 3,000 pedicures in 2006; 18 pedicurists trained last year; 10 pedicurists fired last year; and 1 buffing chamois used per month. Price for Pedicure de Bastien: $140.</p>
+        <p>CHRISTINE MUHLKE</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Bastien Gonzalez has always been hard to track down, flying from one capital to the next to tend to the toes of the rich and richer. In 2004 he inked an exclusive deal to bring his signature, polish-free, totally buffed medical Pedicure de Bastien to the One and Only resorts  in Dubai, the Maldives, Mauritius and Los Cabos, Mexico. He spends Sundays in Paris with his girlfriend; infrequent contact “is why we have so much love,” he said. This marathon plays out in 18,688 miles traveled per week; 3 passports owned; 10 clients per day; 3,000 pedicures in 2006; 18 pedicurists trained last year; 10 pedicurists fired last year; and 1 buffing chamois used per month. Price for Pedicure de Bastien: $140. [?][?][?]CHRISTINE MUHLKE.</p>
+      </block>
+      <block class="full_text">
+        <p>Bastien Gonzalez has always been hard to track down, flying from one capital to the next to tend to the toes of the rich and richer. In 2004 he inked an exclusive deal to bring his signature, polish-free, totally buffed medical Pedicure de Bastien to the One and Only resorts -- in Dubai, the Maldives, Mauritius and Los Cabos, Mexico. He spends Sundays in Paris with his girlfriend; infrequent contact ''is why we have so much love,'' he said. This marathon plays out in 18,688 miles traveled per week; 3 passports owned; 10 clients per day; 3,000 pedicures in 2006; 18 pedicurists trained last year; 10 pedicurists fired last year; and 1 buffing chamois used per month. Price for Pedicure de Bastien: $140.</p>
+        <p>CHRISTINE MUHLKE  THE REMIX</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

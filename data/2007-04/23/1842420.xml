@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Older Voters Chose Sarkozy, While Young Picked Royal</title>
+    <meta content="23exit" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/23/world/europe/23exit.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842420"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/France</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/France</classifier>
+        <classifier class="online_producer" type="descriptor">Elections</classifier>
+        <classifier class="online_producer" type="descriptor">Public Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Public Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">France</location>
+        <person class="online_producer">Sarkozy, Nicolas</person>
+        <person class="online_producer">Royal, Segolene</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070423T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B03E4D9173EF930A15757C0A9619C8B63" item-length="492" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Older Voters Chose Sarkozy, While Young Picked Royal</hl1>
+        <hl2 class="online_headline">Older Voters Chose Sarkozy, While Young Picked Royal</hl2>
+      </hedline>
+      <byline class="print_byline">By ARIANE BERNARD</byline>
+      <dateline>PARIS, April 22</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Almost half of French voters over age 70 cast their ballots on Sunday for the conservative candidate for president, Nicolas Sarkozy. Almost 30 percent of those ages 18 to 24 favored Ségolène Royal of the Socialist Party.</p>
+        <p>Women, who make up a majority of the electorate, supported Mr. Sarkozy and Ms. Royal equally, but men were twice as likely as women to vote for far-right candidate Jean-Marie Le Pen.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Almost half of French voters over age 70 cast their ballots for the conservative candidate for president, Nicolas Sarkozy. Almost 30 percent of those ages 18 to 24 favored Ségolène Royal of the Socialist Party.</p>
+      </block>
+      <block class="full_text">
+        <p>Almost half of French voters over age 70 cast their ballots on Sunday for the conservative candidate for president, Nicolas Sarkozy. Almost 30 percent of those ages 18 to 24 favored Ségolène Royal of the Socialist Party.</p>
+        <p>Women, who make up a majority of the electorate, supported Mr. Sarkozy and Ms. Royal equally, but men were twice as likely as women to vote for far-right candidate Jean-Marie Le Pen.</p>
+        <p>The data was culled from a telephone poll of registered voters by Ipsos, an independent survey group. Because 15 percent of the respondents said they were abstaining on Sunday, details about their views might be telling in trying to predict the outcome of the runoff election on May 6 between Sunday's top two candidates, Mr. Sarkozy and Ms. Royal.</p>
+        <p>The poll found that people who identified with Mr. Sarkozy's party, the Union for a Popular Movement, had voted overwhelmingly -- 79 percent -- for him. By contrast, one-third of Socialist voters abandoned Ms. Royal, supporting instead other leftist candidates or the centrist candidate, François Bayrou. Also, a disproportionately high number of registered voters who identified with the left stayed home on Sunday, suggesting a group that may still be inclined to vote for Ms. Royal in the runoff.</p>
+        <p>Ms. Royal's base was in urban areas. In the Paris region, Mr. Sarkozy drew more than a third of the votes.</p>
+        <p>While 60 percent of Mr. Sarkozy's voters were drawn to his campaign platform, party affiliation was the driving factor for 52 percent of Ms. Royal's support.</p>
+        <p>The poll also highlighted perceived similarities among candidates. Safety and security was a factor in the choice of 54 percent of Mr. Sarkozy's supporters -- only eight percentage points below that for Mr. Le Pen, who has made security a central campaign theme. Fourteen percent who said they identified with Mr. Le Pen's National Front cast their ballots for Mr. Sarkozy instead.</p>
+        <p>The fight against exclusion and poverty was a factor for 45 percent of those who voted for Ms. Royal, but for only 11 percent of Mr. Sarkozy's voters.</p>
+        <p>Having presidential stature was not necessarily an overriding qualification for voters. In fact, only 16 percent of those who voted for Ms. Royal said she had the air of a president. By contrast, 57 percent of Mr. Sarkozy's supporters said he had that quality. However, 35 percent of Ms. Royal's supporters said they found her close to the French, but only 15 percent of Mr. Sarkozy's backers said the same thing of him.</p>
+        <p>Newly registered voters were divided almost evenly among Ms. Royal, Mr. Sarkozy and Mr. Bayrou, the poll found. A wave of new registrations followed Mr. Le Pen's surprise qualification for the runoff in 2002, and on Sunday, only 7 percent of new voters backed him.</p>
+        <p>The poll was based on the responses of 3,397 people. Because public opinion polls in France use quota samples instead of probability samples, a margin of error cannot be calculated.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

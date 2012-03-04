@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Lisa Ireland, Joshua Ehrlich</title>
+    <meta content="15ireland" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/15/fashion/weddings/15ireland.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840479"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Ireland, Dr. Lisa Michelle</person>
+        <person class="indexing_service">Ehrlich, Joshua Simon</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0DE1D9133FF936A25757C0A9619C8B63" item-length="447" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Lisa Ireland, Joshua Ehrlich</hl1>
+        <hl2 class="online_headline">Lisa Ireland, Joshua Ehrlich</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Dr. Lisa Michelle Ireland and Joshua Simon Ehrlich were married yesterday at the Belvedere Mansion, an inn in Staatsburg, N.Y. William Sanchez, a village justice there, officiated.</p>
+        <p>The bride, 40, will keep her name. She is a veterinarian who works at City Veterinary Care in New York. She received her veterinary degree from Tufts.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Dr. Lisa Michelle Ireland and Joshua Simon Ehrlich were married yesterday at the Belvedere Mansion, an inn in Staatsburg, N.Y. William Sanchez, a village justice there, officiated.</p>
+      </block>
+      <block class="full_text">
+        <p>Dr. Lisa Michelle Ireland and Joshua Simon Ehrlich were married yesterday at the Belvedere Mansion, an inn in Staatsburg, N.Y. William Sanchez, a village justice there, officiated.</p>
+        <p>The bride, 40, will keep her name. She is a veterinarian who works at City Veterinary Care in New York. She received her veterinary degree from Tufts.</p>
+        <p>She is the daughter of Michelle Bennett Ireland of Rochester and David Ireland of Austin, Tex. Her father lectures on consumer debt.</p>
+        <p>The bridegroom, also 40, is a senior vice president for executive development at BeamPines Inc., a human resources consulting firm in New York. He is the dean of a program in executive coaching offered by BeamPines through Middlesex University in New York. He graduated from Yale and has a master's degree and a doctorate, both in psychology, from New York University.</p>
+        <p>He is a son of Dr. Isabelle Ehrlich and Paul Ehrlich of Carmel, N.Y. His mother retired as a psychiatrist there and his father is a violinist and a private violin teacher in Carmel.</p>
+        <p>Dr. Ireland and Dr. Ehrlich met in New York in November 2005 at a speed-dating event. They hit it off and began going out. ''I liked his gentle nature,'' Dr. Ireland recalled. Dr. Ehrlich said he admired her ''intellect, open-mindedness and interest in learning.'' Two months later they went on a seven-day vacation to Costa Rica. ''He had the trip planned before we met, and he decided to invite me,'' Dr. Ireland said. ''I liked his sense of adventure. It sounded like fun.''</p>
+        <p>She had two great fears in life: deep water and sharks. So, of course, their first adventure was scuba diving in the beautiful but shark-infested reefs of Caño Island off the coast of Costa Rica. She soon found she had nothing to fear.</p>
+        <p>''The sharks were docile,'' she said. ''People scuba there all the time.''</p>
+        <p>About four days later, however, the couple encountered something not so docile. They were kayaking across Drake Bay when they suddenly found themselves in the middle of a storm, and about four miles from their waterfront hotel.</p>
+        <p>''We didn't know if we would survive,'' Dr. Ireland remembered. ''My fear was that we were not going to make it back across because we were paddling into a headwind,'' Dr. Ehrlich said.</p>
+        <p>It had taken them an hour and a half to get to where they were. It took them about three and a half hours to paddle back through the driving rain.</p>
+        <p>Looking back on the experience from the dry vantage point of her office in New York, Dr. Ireland said: ''It was crazy. We figured if our relationship survived the vacation, it would mean we really had something.''</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

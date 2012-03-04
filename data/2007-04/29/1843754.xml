@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Caroline Jackson, Kyle Crafton</title>
+    <meta content="29Jackson" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/29/fashion/weddings/29Jackson.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1843754"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Jackson, Caroline (Caroline Crafton)</person>
+        <person class="indexing_service">Crafton, Kyle</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D03EEDD123EF93AA15757C0A9619C8B63" item-length="183" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Caroline Jackson, Kyle Crafton</hl1>
+        <hl2 class="online_headline">Caroline Jackson, Kyle Crafton</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Caroline Jackson and Kyle Crafton were married yesterday at the Plymouth Church of the Pilgrims in Brooklyn. The Rev. David Fisher, a Congregational minister, performed the ceremony.</p>
+        <p>The couple graduated from Duke, where they met.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Caroline Jackson and Kyle Crafton were married yesterday at the Plymouth Church of the Pilgrims in Brooklyn. The Rev. David Fisher, a Congregational minister, performed the ceremony.</p>
+      </block>
+      <block class="full_text">
+        <p>Caroline Jackson and Kyle Crafton were married yesterday at the Plymouth Church of the Pilgrims in Brooklyn. The Rev. David Fisher, a Congregational minister, performed the ceremony.</p>
+        <p>The couple graduated from Duke, where they met.</p>
+        <p>The bride, 30, is the deputy art director of Jane magazine in New York. She is a daughter of Robby Jackson and John R. Jackson of Paradise Valley, Ariz. Her father is an aerospace engineer and business development manager in Cypress, Calif., for DRS Technologies, which has its headquarters in Parsippany, N.J. Her mother is the director of scholarship administration for the Arizona State University Foundation in Tempe, which financially supports the university.</p>
+        <p>The bridegroom, 29, was until this month the publisher and chief financial officer of mediabistro.com, a Manhattan-based Web site providing news and career resources for people in the media. He is the son of Shirley Crafton and Robert Crafton of Homewood, Ill. His parents retired as teachers in Country Club Hills, Ill. His mother taught second grade at the Zenon J. Sykuta School and his father taught fifth and sixth grades at the Southwood School.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

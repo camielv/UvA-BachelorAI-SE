@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Clowns, Daredevils and Plenty of Volume</title>
+    <meta content="04ring" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/04/arts/04ring.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837936"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CIRCUS REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="descriptor">Circuses</classifier>
+        <classifier class="online_producer" type="descriptor">Acrobats and Acrobatics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Circuses</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acrobats and Acrobatics</classifier>
+        <org class="online_producer">Ringling Bros and Barnum &amp; Bailey Circus</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070404T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E5D81F30F937A35757C0A9619C8B63" item-length="423" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Clowns, Daredevils and Plenty of Volume</hl1>
+        <hl2 class="online_headline">Clowns, Daredevils and Plenty of Volume</hl2>
+      </hedline>
+      <byline class="print_byline">By LAWRENCE VAN GELDER</byline>
+      <byline class="normalized_byline">Van Gelder, Lawrence</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Fine circus is a subtle brew of miracle and spectacle. As well balanced as a high-wire act without a net, it blends physical feats from clowning to trapeze daredevilry with captivating costumes, artful lighting and thoughtful music. But somewhere along the way to the 137th edition of the Ringling Brothers and Barnum &amp; Bailey Circus, the balance has tipped. Heavily amplified music, pounding with seeming relentlessness throughout the 2-hour 10-minute show (including intermission), has become a distraction.</p>
+        <p>Once upon a time, when the Greatest Show on Earth served up three rings of entertainment simultaneously, attracting the eye was paramount. But now, with acts taking place in one, two or three rings (sometimes not rings but borders of colored lights), the emphasis has shifted, perhaps unintentionally, to the ear.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Fine circus should be as well balanced as a high-wire act without a net, but somewhere along the way to the 137th edition of the Ringling Brothers and Barnum &amp; Bailey Circus, the balance has tipped.</p>
+      </block>
+      <block class="full_text">
+        <p>Fine circus is a subtle brew of miracle and spectacle. As well balanced as a high-wire act without a net, it blends physical feats from clowning to trapeze daredevilry with captivating costumes, artful lighting and thoughtful music. But somewhere along the way to the 137th edition of the Ringling Brothers and Barnum &amp; Bailey Circus, the balance has tipped. Heavily amplified music, pounding with seeming relentlessness throughout the 2-hour 10-minute show (including intermission), has become a distraction.</p>
+        <p>Once upon a time, when the Greatest Show on Earth served up three rings of entertainment simultaneously, attracting the eye was paramount. But now, with acts taking place in one, two or three rings (sometimes not rings but borders of colored lights), the emphasis has shifted, perhaps unintentionally, to the ear.</p>
+        <p>Nevertheless, in an age when little in the way of the odd or extraordinary escapes the eye of television or the lens of cellphone cameras or immediate worldwide distribution, this lavish circus offers plenty to enjoy.</p>
+        <p>On a recent visit, the audience of young and old reacted with unrestrained laughter and applause to one of the most traditional of acts: two rings of capering dogs, marching on hind- and forelegs, executing front and back flips, zipping down slides, flying through hoops and, as is customary, displaying a bit of irreverence toward their trainers.</p>
+        <p>Admirable, too, are the trapeze artists the Flying Poemas; the Aguilar Brothers, dancing on the high wire; Tabayara Maluenda, doing a handstand while one of his white tigers leaps between his legs; the well-trained and handsome horses and zebras strutting their stuff in three rings; and, of course, Bello Nock.</p>
+        <p>As much daredevil as clown, he joins the acrobat Erendira Wallenda to sway on poles 68 feet above the arena and, with Ms. Wallenda's husband, Nikolas (of the famous Great Wallendas clan), defies the forces of gravity inside and atop the spinning, circling Wheel of Steel. Mr. Nock, with his lofty sheaf of golden hair and mischievous energy, also diverts the audience's attention between some of the acts throughout the show.</p>
+        <p>In keeping with the grand tradition of the Ringling Brothers Circus, this edition offers a cavalcade of elephants, glimpses of goats, leggy dancers, fireworks, acrobats and not one but two people, the husband-and-wife team Tina and Brian Miser, blasted out of a cannon in the grand finale. It adds up to an eye- and earful, but a little less for the ear would be welcome.</p>
+        <p>The circus continues through April 15 at the Garden; (212) 307-7171.</p>
+        <p>CIRCUS REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Fish Story</title>
+    <meta content="Shone.t" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/22/books/review/Shone.t.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1841926"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="descriptor">Books and Literature</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+        <person class="online_producer">Hall, Steven</person>
+        <object.title class="online_producer">Raw Shark Texts, The (Book)</object.title>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9803E5D7123FF931A15757C0A9619C8B63" item-length="643" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Fish Story</hl1>
+        <hl2 class="online_headline">Fish Story</hl2>
+      </hedline>
+      <byline class="print_byline">By TOM SHONE</byline>
+      <byline class="normalized_byline">Shone, Tom</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Raw Shark Texts</p>
+        <p>By Steven Hall.</p>
+        <p>428 pp. Canongate. $24.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>In this first novel, “Matrix” meets Paul Auster meets a conceptual shark.</p>
+      </block>
+      <block class="full_text">
+        <p>The Raw Shark Texts</p>
+        <p>By Steven Hall.</p>
+        <p>428 pp. Canongate. $24.</p>
+        <p>Amnesia plots are a gift to first-time writers; what better way to face down your fear of the empty white page than conjuring a hero whose life is also a complete blank? In Steven Hall's first novel, ''The Raw Shark Texts,'' a man wakes one morning to find himself with no idea of who or where he is; outside his window lurks a brave new world, unpopulated save for a few random souls whose job it is to deliver dollops of plot exposition before whisking themselves away again. Thus is the first requirement of the Amnesiac genre fulfilled -- the one that dictates that a man who is piecing together his life receive only the scantiest help in doing so. It would never do to have some kind soul simply tell him what the hell is going on.</p>
+        <p>His driver's license informs him his name is Eric Sanderson; a letter says to visit one Dr. Randle, who tells Eric that a few years back he lost his girlfriend in Greece, that ever since he has been plagued by memory blackouts -- this is his 11th -- and that whatever else, he must not open any letters he finds from his old self. Naturally he returns home and reads a letter from his old self. It tells him not to trust Dr. Randle, and deposits a series of cryptic clues in his lap. Eric is just getting into one of these -- an hourlong videotape of a light bulb flicking on and off -- when a ''violent something'' lurches out of the TV and attacks his sofa, leaving him ''bobbing and floating and trying to tread water in the idea of the floor, in fluid liquid concept, in its endless cold rolling waves of association and history.'' I hate it when that happens. Eric has just survived an attack by a Ludovician, a ''species of purely conceptual fish'' that feeds on human memory, against which his only defense is to set up a ''nondivergent conceptual loop'' -- to wit, an arrangement of Dictaphones relaying a constant ambient noise between them. In short, to survive, he must turn himself into a walking Brian Eno concert.</p>
+        <p>By which point readers will have observed that Hall is not going for the Dirty Realist of the Year award. His shout-outs instead go to Paul Auster, Haruki Marukami, the ''Matrix'' movies, ''Memento'' and, peering back into the distant mists of time, ''Jaws.'' Together with a young geek sex object with black bob and green eyes named Scout, and an academic named Dr. Trey Fidorous, he forms a threesome that faces off against the shark in an old, water-logged boat that is ''the current collective idea of what a shark hunting boat should be.'' This is one way of admitting to your sources, I suppose -- ''Jaws'' by way of Jung -- although I couldn't stop wondering how much help a theoretical boat was going to be. Then I remembered they were only fighting a conceptual shark to begin with, at which point I went off to make myself a cup of tea.</p>
+        <p>How all this will read in 20 years, or even two, is hard to say, although one suspects that what seemed so vertiginously modern will ultimately seem like so much cyber-age psychedelia -- as depthless and woozy as paisley-patterned shirts. Hollywood, needless to say, has taken the bait; the book was a big hit at the most recent London book fair, and the movie rights were fiercely contested and finally sold for a sum in the mid- to high six figures. But I would advise producers to tread cautiously: we could be in for a replay of ''The Beach,'' by Alex Garland. Novels so in hock to the movies have a habit of evaporating by the time they get to the screen.</p>
+        <p>Tom Shone is the author of ''Blockbuster: How Hollywood Learned to Stop Worrying and Love the Summer.''</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Tom Shone is the author of ''Blockbuster: How Hollywood Learned to Stop Worrying and Love the Summer.''</tagline>
+    </body.end>
+  </body>
+</nitf>

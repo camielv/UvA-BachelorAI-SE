@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>PLAYING FROM HOME</title>
+    <meta content="06letters-2" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Escapes" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838378"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Baseball</classifier>
+        <org class="indexing_service">New York Yankees</org>
+        <person class="indexing_service">Seeley, Hart</person>
+        <person class="indexing_service">Donlon, Barbara</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Escapes</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070406T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9800E0DC173FF935A35757C0A9619C8B63" item-length="79" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>PLAYING FROM HOME</hl1>
+      </hedline>
+      <abstract>
+        <p>Barbara Donlon letter on Hart Seeley's March 23 Rituals column on rituals that help New York Yankees win games</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor: I would like to put Hart Seely's mind at rest (''If You Want the Yankees to Win, the Key Plays Are at Home,'' March 23). He did not lose the 2004 American League Championship Series for the Yankees by neglecting his game day rituals. My 13-year-old daughter won it for the Red Sox with a combination of votive candles, a stuffed monkey in a Sox cap and her lucky pajamas.</p>
+        <p>Barbara Donlon  Winchester, Mass.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor: I would like to put Hart Seely's mind at rest (''If You Want the Yankees to Win, the Key Plays Are at Home,'' March 23). He did not lose the 2004 American League Championship Series for the Yankees by neglecting his game day rituals. My 13-year-old daughter won it for the Red Sox with a combination of votive candles, a stuffed monkey in a Sox cap and her lucky pajamas.</p>
+        <p>Barbara Donlon  Winchester, Mass.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

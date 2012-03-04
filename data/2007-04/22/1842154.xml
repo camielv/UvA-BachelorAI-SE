@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Barbara Brush, Robert Murillo</title>
+    <meta content="22Brush" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1842154"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Brush, Barbara J. (Barbara J. Murillo)</person>
+        <person class="indexing_service">Murillo, Robert</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0DE0DD163EF931A15757C0A9619C8B63" item-length="218" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Barbara Brush, Robert Murillo</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Barbara J. Brush and Robert Murillo are to be married this afternoon at the Lauderdale Yacht Club in Fort Lauderdale, Fla. Bishop Terry G. Villaire of the Catholic Church in America will officiate.</p>
+        <p>The bride, 44, is a Palm Beach County assistant public defender in West Palm Beach, Fla. She is on the board of the Humane Society of Broward County. She graduated from Queens College and received her law degree from Nova University (now known as Nova Southeastern University) in Fort Lauderdale.</p>
+      </block>
+      <block class="full_text">
+        <p>Barbara J. Brush and Robert Murillo are to be married this afternoon at the Lauderdale Yacht Club in Fort Lauderdale, Fla. Bishop Terry G. Villaire of the Catholic Church in America will officiate.</p>
+        <p>The bride, 44, is a Palm Beach County assistant public defender in West Palm Beach, Fla. She is on the board of the Humane Society of Broward County. She graduated from Queens College and received her law degree from Nova University (now known as Nova Southeastern University) in Fort Lauderdale.</p>
+        <p>She is a daughter of the late Barbara J. Brush and the late Charles F. Brush, who lived in Middle Village, Queens. Her father was a vice president at Service Corporation International, a Houston firm that provides funeral, cemetery and cremation services throughout North America. Her mother was a special-education teacher's assistant at Public School 128 in Middle Village.</p>
+        <p>The bridegroom, 39, is an entertainment lawyer in Fort Lauderdale. He graduated from the University of Southern California and received his law degree from the University of California, Los Angeles.</p>
+        <p>He is a son of Lucia Murillo of Boca Raton, Fla., and Dr. Juan J. Murillo of Fort Lauderdale. His mother is a registered nurse at North Broward Medical Center in Deerfield Beach, Fla. His father retired as a cardiologist in private practice in Fort Lauderdale.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

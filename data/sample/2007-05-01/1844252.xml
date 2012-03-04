@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Help, by the Book</title>
+    <meta content="01tue3" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/05/01/opinion/01tue3.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1844252"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Textbooks</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="indexing_service" type="descriptor">Law and Legislation</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <location class="indexing_service">Washington (State)</location>
+        <org class="indexing_service">Rice University</org>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Washington</classifier>
+        <classifier class="online_producer" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="descriptor">Textbooks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <org class="online_producer">Rice University</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070501T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9905E5D7133EF932A35756C0A9619C8B63" item-length="242" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Help, by the Book</hl1>
+        <hl2 class="online_headline">Help, by the Book</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial welcomes State of Washington law requiring textbook companies to disclose prices when they market books to college professors; says to really drive down soaring textbook costs, colleges and universities nationwide will need to find creative solutions, like Rice University's online system of materials that can be printed out cheaply</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The State of Washington is looking out for students and their families by passing a law requiring textbook companies to disclose prices and other relevant information when they market books to college professors in the state. Lawmakers hope that professors who learn the costs upfront will opt for reasonably priced textbooks that cash-strapped students can afford.</p>
+        <p>This law, along with similar measures pending in several other states, is a response to intense lobbying by student groups, who have complained for years about the bankrupting cost of college textbooks. A 2005 study by the Government Accountability Office found that book costs had nearly tripled over some two decades, thanks in part to pricey but marginally useful CD-ROMs and instructional supplements, as well as the constant issuing of lucrative but little changed new editions -- publishing's version of planned obsolescence.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Colleges and universities will need to embrace creative solutions in order to drive down the cost of textbooks.</p>
+      </block>
+      <block class="full_text">
+        <p>The State of Washington is looking out for students and their families by passing a law requiring textbook companies to disclose prices and other relevant information when they market books to college professors in the state. Lawmakers hope that professors who learn the costs upfront will opt for reasonably priced textbooks that cash-strapped students can afford.</p>
+        <p>This law, along with similar measures pending in several other states, is a response to intense lobbying by student groups, who have complained for years about the bankrupting cost of college textbooks. A 2005 study by the Government Accountability Office found that book costs had nearly tripled over some two decades, thanks in part to pricey but marginally useful CD-ROMs and instructional supplements, as well as the constant issuing of lucrative but little changed new editions -- publishing's version of planned obsolescence.</p>
+        <p>The law is an important first step. But to really drive down costs, colleges and universities around the country will need to embrace creative solutions, like the one on display at the online Connexions system at Rice University.</p>
+        <p>That content, already in use for several courses at Rice and at other colleges and universities, is generated by a consortium of writers. Online use is free. And a 300-page hardcover electrical-engineering textbook can be printed out for about $25 -- roughly one-fifth the cost of a book from a conventional publisher. Other universities should follow Rice's creative lead. Students can use all the help they can get.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

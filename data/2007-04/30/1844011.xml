@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Yahoo to Buy Ad Company in Bid to Compete With Google</title>
+    <meta content="30yahoo" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/30/technology/30yahoo.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1844011"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <org class="online_producer">Yahoo Inc</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070430T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0DE4DC133EF933A05757C0A9619C8B63" item-length="555" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Yahoo to Buy Ad Company in Bid to Compete With Google</hl1>
+        <hl2 class="online_headline">Yahoo to Buy Ad Company in Bid to Compete With Google</hl2>
+      </hedline>
+      <byline class="print_byline">By MIGUEL HELFT</byline>
+      <byline class="normalized_byline">Helft, Miguel</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Yahoo plans to acquire Right Media, a privately held company that runs an advertising marketplace, in part to bolster its position as a seller and broker of ads outside its own sprawling network of Web sites, the companies' chief executives said yesterday.</p>
+        <p>Yahoo, which bought a 20 percent stake in Right Media last October, will pay approximately $680 million, in equal parts of stock and cash, for the remaining interest in the company, which is based in New York.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Yahoo plans to acquire Right Media, a privately held company that runs an advertising marketplace, in part to bolster its position as a seller and broker of ads.</p>
+      </block>
+      <block class="full_text">
+        <p>Yahoo plans to acquire Right Media, a privately held company that runs an advertising marketplace, in part to bolster its position as a seller and broker of ads outside its own sprawling network of Web sites, the companies' chief executives said yesterday.</p>
+        <p>Yahoo, which bought a 20 percent stake in Right Media last October, will pay approximately $680 million, in equal parts of stock and cash, for the remaining interest in the company, which is based in New York.</p>
+        <p>''The acquisition, to us, is a key step toward executing our long-term vision to build the leading advertising and publisher ecosystem both on and off the Yahoo network,'' Terry S. Semel, Yahoo's chief executive, said in an interview. The deal is to be announced today and is expected to close in three months.</p>
+        <p>Just weeks ago, DoubleClick agreed to be acquired by Google for $3.1 billion, after negotiating with other interested parties including Yahoo, Microsoft and AOL. Since that deal, some analysts have speculated that Yahoo would acquire control of Right Media to help it compete against the Google-DoubleClick alliance.</p>
+        <p>Right Media, a four-year-old company, runs an exchange in which advertisers and publishers buy and sell online ad placements in real time through an auction system. DoubleClick, which specializes in serving ads on Web sites, announced recently that it would develop a similar type of exchange. Online publishers are increasingly turning to exchanges like these to sell ad space on their sites.</p>
+        <p>Yahoo executives said that the company had been using the Right Media exchange since last year, largely to place ads on Yahoo's Web sites, and had become more comfortable with its capabilities.</p>
+        <p>''What we look forward to do as an owner is put more inventory into that pot to help create a more vibrant exchange and create better pricing for everyone,'' Mr. Semel said.</p>
+        <p>Yahoo said that after the acquisition it would increase its participation in the exchange as both a buyer and seller of ads. The company said it planned eventually to sell all the nonpremium ad space on Yahoo through the exchange, a move executives said would enhance revenue.</p>
+        <p>The deal will give advertisers more choices of where to place ads and will allow publishers to sell their own advertising inventory alongside Yahoo's, they said. Yahoo executives said that about 1,000 publishers are using Right Media to sell ad space on their sites.</p>
+        <p>Mr. Semel and Michael Walrath, chief executive of Right Media, both said the exchange would be a transparent way to buy and sell ads.</p>
+        <p>Google and Yahoo each dominate one segment of the online advertising market. Google is best at selling text ads that appear alongside search results and on other Web sites. Yahoo, which has lagged Google in search, is a leader in selling graphical ads, mostly on its own sites.</p>
+        <p>But the two companies are increasingly competing for a piece of the market for selling and brokering all types of ads across the Web. Google's acquisition of DoubleClick is an effort by the search giant to increase its graphical advertising business.</p>
+        <p>By buying Right Media, analysts have said, Yahoo would accelerate its own efforts to sell and broker ads on other sites. Those efforts began taking shape recently, after Yahoo reached agreements to sell ads on eBay and on some 264 newspaper Web sites.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="11darfur--refer" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1839530"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070411T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9406E1DF123FF932A25757C0A9619C8B63" item-length="206" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>U.S. Sends Sudan a Warning  The State Department is sending Deputy Secretary John D. Negroponte to Sudan to deliver another warning on the situation in Darfur, but given a lack of consequences for past warnings, Sudan is unlikely to take heed, critics say.</p>
+        <p>PAGE A6</p>
+        <p>N.F.L. Players Suspended  The N.F.L. handed out lengthy suspensions to two players who have had repeated off-field legal problems, including a season-long ban for Pacman Jones of the Tennessee Titans.</p>
+        <p>SPORTSWEDNESDAY, PAGE D1</p>
+        <p>$400 Million for Columbia  Columbia University plans to announce a gift of at least $400 million, one of the largest ever to an American university, from John Werner Kluge, a longtime supporter.</p>
+        <p>PAGE B1</p>
+        <p>War-Crime Verdict in Serbia  A Serbian court convicted four former paramilitary officers of killing six Bosnian Muslims in 1995, but did not link them to the deaths of 8,000 Muslims in Srebrenica.</p>
+        <p>PAGE A11</p>
+        <p>A 'Lost' Work Opens  In 1936, the Soviet artists Sergei Prokofiev and Vsevolod Meyerhold began work on ''Boris Godunov.'' It is finally being staged.</p>
+        <p>PAGE B1</p>
+        <p>The All-American Brownie  The brownie, so modest and easy to make, may be the most decadent way to satisfy the national obsession with chocolate.</p>
+        <p>DINING, PAGE F1</p>
+      </block>
+      <block class="full_text">
+        <p>U.S. Sends Sudan a Warning  The State Department is sending Deputy Secretary John D. Negroponte to Sudan to deliver another warning on the situation in Darfur, but given a lack of consequences for past warnings, Sudan is unlikely to take heed, critics say.</p>
+        <p>PAGE A6</p>
+        <p>N.F.L. Players Suspended  The N.F.L. handed out lengthy suspensions to two players who have had repeated off-field legal problems, including a season-long ban for Pacman Jones of the Tennessee Titans.</p>
+        <p>SPORTSWEDNESDAY, PAGE D1</p>
+        <p>$400 Million for Columbia  Columbia University plans to announce a gift of at least $400 million, one of the largest ever to an American university, from John Werner Kluge, a longtime supporter.</p>
+        <p>PAGE B1</p>
+        <p>War-Crime Verdict in Serbia  A Serbian court convicted four former paramilitary officers of killing six Bosnian Muslims in 1995, but did not link them to the deaths of 8,000 Muslims in Srebrenica.</p>
+        <p>PAGE A11</p>
+        <p>A 'Lost' Work Opens  In 1936, the Soviet artists Sergei Prokofiev and Vsevolod Meyerhold began work on ''Boris Godunov.'' It is finally being staged.</p>
+        <p>PAGE B1</p>
+        <p>The All-American Brownie  The brownie, so modest and easy to make, may be the most decadent way to satisfy the national obsession with chocolate.</p>
+        <p>DINING, PAGE F1</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

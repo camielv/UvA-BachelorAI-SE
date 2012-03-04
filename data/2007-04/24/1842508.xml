@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   TALBERT, JEROME</title>
+    <meta content="dn042407.2" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1842508"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">TALBERT, JEROME</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070424T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D04E0DF163AF937A15757C0A9619C8B63" item-length="66" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   TALBERT, JEROME</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>TALBERT--Jerome, formerly of Great Neck, NY. Former head of business affairs at the William Morris Agency, NY. Beloved husband of Marilyn, devoted father of Amy Hartwig, loving father-in-law of Charles, dear brother of Laurens and the late Beverly Boxer, most caring grandfather of Evan and Abby. Services at ''Bernheim-ApterKreitzman'' 68 Old Short Hills Rd. Livingston, NJ on Tuesday at 10:30am. For information please call 1-800-938-6372.</p>
+      </block>
+      <block class="full_text">
+        <p>TALBERT--Jerome, formerly of Great Neck, NY. Former head of business affairs at the William Morris Agency, NY. Beloved husband of Marilyn, devoted father of Amy Hartwig, loving father-in-law of Charles, dear brother of Laurens and the late Beverly Boxer, most caring grandfather of Evan and Abby. Services at ''Bernheim-ApterKreitzman'' 68 Old Short Hills Rd. Livingston, NJ on Tuesday at 10:30am. For information please call 1-800-938-6372.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

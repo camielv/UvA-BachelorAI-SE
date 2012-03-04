@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>In the Street, Among the Masses</title>
+    <meta content="l22city-2" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="14" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1842246"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Seasons and Months</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Dwyer, J C</person>
+        <person class="indexing_service">Cassell, Lara</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Seasons and Months</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9904E7D8163EF931A15757C0A9619C8B63" item-length="181" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>In the Street, Among the Masses</hl1>
+      </hedline>
+      <abstract>
+        <p>J C Dwyer and Lara Cassell letters on David Margolick's April 15 New York Observed essay on seeing familiar faces during certain seasons in New York City</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>''Familiar Faces in the Crowd, and Why They're Rare,'' by David Margolick (New York Observed, April 15), was absurd. For one thing, he asserts that ''much of New York is out of town'' June through August. Not to denigrate the migratory patterns of the super-rich, but most of New York stays right here in the summer.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>''Familiar Faces in the Crowd, and Why They're Rare,'' by David Margolick (New York Observed, April 15), was absurd. For one thing, he asserts that ''much of New York is out of town'' June through August. Not to denigrate the migratory patterns of the super-rich, but most of New York stays right here in the summer.</p>
+        <p>I see people I know surprisingly often, for good statistical reason: we tend to haunt the same neighborhoods.</p>
+        <p>J. C. Dwyer  Park Slope, Brooklyn</p>
+        <p>To the Editor:</p>
+        <p>Thank you to David Margolick for his all-too-true portrayal of street encounters. As a displaced New Yorker, I fiercely miss my days of anonymity in the big city, and the privilege of walking without being force-fed a hello from every passer-by.</p>
+        <p>Merely 10 minutes ago, a stranger remarked, ''Excuse me, miss, you seemed to have dropped your smile'' as I walked our main street. I labored to suppress a growl.</p>
+        <p>Thanks for giving a homesick gal a little piece of her much-missed New York.</p>
+        <p>Lara Cassell  Santa Barbara, Calif.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

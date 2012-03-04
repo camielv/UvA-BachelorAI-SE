@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>In Pasadena, a Look at Forward-Looking Houses</title>
+    <meta content="12exhibit" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1839644"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CURRENTS: EXHIBITIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Architecture</classifier>
+        <org class="indexing_service">Art Center College of Design (Pasadena)</org>
+        <person class="indexing_service">Webb, Michael</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Architecture</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Engineering and Architecture</classifier>
+        <classifier class="online_producer" type="general_descriptor">Architecture</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070412T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B02E5DB123FF931A25757C0A9619C8B63" item-length="163" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>In Pasadena, a Look at Forward-Looking Houses</hl1>
+      </hedline>
+      <byline class="print_byline">By MICHAEL WEBB</byline>
+      <byline class="normalized_byline">Webb, Michael</byline>
+      <abstract>
+        <p>Open House: Architecture and Technology for Intelligent Living at Art Center College of Design in Pasadena, Calif, is exhibit of visionary housing projects by 10 young architects; photos (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>''Open House: Architecture and Technology for Intelligent Living,'' an exhibition of visionary housing projects by 10 young architects, opens on Saturday at Art Center College of Design in Pasadena, Calif. Standouts include Seoul Commune 2026, above left, a cluster of towers covered in vines that provide shade and regulate interior temperature, and the Jellyfish house, top right, which was designed to help clean toxic water on a stretch of reclaimed land on San Francisco Bay and is encased in an organic water jacket that reacts to changes in light and temperature. Dunehouse, center right, is sheathed in skin that responds to the climatic extremes of the Nevada desert, while Open the House!, above right, covers its occupants in temperature-responsive fabric. The show also includes vintage models of housing like Buckminster Fuller's 1928 Dymaxion House and the Monsanto House of the Future. Through July 1 at Art Center's South Campus, 950 South Raymond Avenue, Pasadena, (626) 396-4254 or artcenter.edu/openhouse.</p>
+        <p>MICHAEL WEBB</p>
+      </block>
+      <block class="full_text">
+        <p>''Open House: Architecture and Technology for Intelligent Living,'' an exhibition of visionary housing projects by 10 young architects, opens on Saturday at Art Center College of Design in Pasadena, Calif. Standouts include Seoul Commune 2026, above left, a cluster of towers covered in vines that provide shade and regulate interior temperature, and the Jellyfish house, top right, which was designed to help clean toxic water on a stretch of reclaimed land on San Francisco Bay and is encased in an organic water jacket that reacts to changes in light and temperature. Dunehouse, center right, is sheathed in skin that responds to the climatic extremes of the Nevada desert, while Open the House!, above right, covers its occupants in temperature-responsive fabric. The show also includes vintage models of housing like Buckminster Fuller's 1928 Dymaxion House and the Monsanto House of the Future. Through July 1 at Art Center's South Campus, 950 South Raymond Avenue, Pasadena, (626) 396-4254 or artcenter.edu/openhouse.</p>
+        <p>MICHAEL WEBB  CURRENTS: EXHIBITIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

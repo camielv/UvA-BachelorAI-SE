@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Cambodia's Patrimony</title>
+    <meta content="22alsmail-3" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Arts; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1842024"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="FOREIGN TREASURES"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Art</classifier>
+        <classifier class="indexing_service" type="descriptor">Archaeology and Anthropology</classifier>
+        <person class="indexing_service">O'Reilly, Douglas</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Archeology and Anthropology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="general_descriptor">Archaeology and Anthropology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9906E4D61E3FF931A15757C0A9619C8B63" item-length="141" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Cambodia's Patrimony</hl1>
+      </hedline>
+      <abstract>
+        <p>Douglas O'Reilly letter about April 8 article on foreign artifacts says antiquities should remain in their original countries (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Is the U.S. Protecting Foreign Artifacts? Don't Ask'' by Jeremy Kahn [April 8]:</p>
+        <p>Ancient artifacts may be plentiful, but that does not excuse the method used to extract them. One of the most popular items sought by looters of ancient sites in Cambodia are beads. There is a very real possibility that we will lose any chance to understand the rise of the Angkorian civilization.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Is the U.S. Protecting Foreign Artifacts? Don't Ask'' by Jeremy Kahn [April 8]:</p>
+        <p>Ancient artifacts may be plentiful, but that does not excuse the method used to extract them. One of the most popular items sought by looters of ancient sites in Cambodia are beads. There is a very real possibility that we will lose any chance to understand the rise of the Angkorian civilization.</p>
+        <p>Import restrictions do affect the sale of illegally acquired antiquities. Research by Heritage Watch, where I serve as director, has shown that there was a significant decrease in the numbers of Khmer pieces sold by Sotheby's after the United States and Cambodia agreed to restrict the import of antiquities. These artifacts are the national patrimony of the source countries and should remain in those countries.</p>
+        <p>Dougald O'Reilly  Phnom Penh, Cambodia</p>
+        <p>FOREIGN TREASURES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

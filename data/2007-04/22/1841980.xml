@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>How About a 'Sleeping Beauty' For Insomniacs (Sponsored by Ambien)?</title>
+    <meta content="22blaro" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="29" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/22/arts/dance/22blaro.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1841980"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Dancing</classifier>
+        <classifier class="indexing_service" type="descriptor">Homosexuality</classifier>
+        <classifier class="indexing_service" type="descriptor">Women</classifier>
+        <org class="indexing_service">New York City Ballet</org>
+        <org class="indexing_service">San Francisco Ballet</org>
+        <person class="indexing_service">Dunning, Jennifer</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Homosexuality</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dancing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Women</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9403E0DE1E3FF931A15757C0A9619C8B63" item-length="253" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>How About a 'Sleeping Beauty' For Insomniacs (Sponsored by Ambien)?</hl1>
+        <hl2 class="online_headline">How About a ‘Sleeping Beauty’ for Insomniacs (Sponsored by Ambien)?</hl2>
+      </hedline>
+      <byline class="print_byline">By JENNIFER DUNNING</byline>
+      <byline class="normalized_byline">Dunning, Jennifer</byline>
+      <abstract>
+        <p>Article discusses efforts by American ballet companies to attract new audiences; cites New York City Ballet's Girls Night Out and San Francisco Ballet's special series for gay, lesbian, transgendered and bisexual fans; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The subscription series ''Girls' Night Out'' was born at New York City Ballet last winter, but the description in the current brochure is much less sedate. ''Ladies, with this series you can plan to spend time with your best girlfriends and maybe even make some new ones,'' the blurb says, continuing with promises of ''plenty of 'girl talk' with ballerinas.'' (Is nothing sacred? Do those ''girls'' get battle pay?) Oh, and there's also ''the beauty of the ballet,'' represented here by ''Romeo and Juliet'' and an all-Bach program.</p>
+        <p>Other troupes are scouring their demographics these days for any hitherto unacknowledged audience groups. San Francisco Ballet offers a special series, for instance, for gay, lesbian, transgendered and bisexual fans. And a spokesman for City Ballet swears that the cringe-inducing ''Girls' Night Out'' has been a success. The theme programs drew from 35 to 600 subscribers last season, he said, with ''Girls' '' climbing from 71 to 105 subscribers this season, 65 percent of them renewals. Audiences for the theme program tend to be new or longtime patrons eager to meet like-minded people.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Troupes are scouring their demographics these days for any hitherto unacknowledged audience groups.</p>
+      </block>
+      <block class="full_text">
+        <p>The subscription series ''Girls' Night Out'' was born at New York City Ballet last winter, but the description in the current brochure is much less sedate. ''Ladies, with this series you can plan to spend time with your best girlfriends and maybe even make some new ones,'' the blurb says, continuing with promises of ''plenty of 'girl talk' with ballerinas.'' (Is nothing sacred? Do those ''girls'' get battle pay?) Oh, and there's also ''the beauty of the ballet,'' represented here by ''Romeo and Juliet'' and an all-Bach program.</p>
+        <p>Other troupes are scouring their demographics these days for any hitherto unacknowledged audience groups. San Francisco Ballet offers a special series, for instance, for gay, lesbian, transgendered and bisexual fans. And a spokesman for City Ballet swears that the cringe-inducing ''Girls' Night Out'' has been a success. The theme programs drew from 35 to 600 subscribers last season, he said, with ''Girls' '' climbing from 71 to 105 subscribers this season, 65 percent of them renewals. Audiences for the theme program tend to be new or longtime patrons eager to meet like-minded people.</p>
+        <p>But a perfect niche has been missed by City Ballet this season, which features a centenary tribute to Lincoln Kirstein, its co-founder with George Balanchine. Both men loved cats. Mr. Kirstein referred to the company as the ''New York Kitty Ballet.'' So why no series for cats and their fanciers? The possibilities are endless: a catnip mouse on every seat and tuna tartare for all at intermission.</p>
+        <p>JENNIFER DUNNING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

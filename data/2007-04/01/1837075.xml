@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>James Casebere and Lorna Simpson | Artists</title>
+    <meta content="04tak.original.t" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="T: Design Magazine" name="dsk"/>
+    <meta content="106" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Style; Magazine" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/01/style/tmagazine/04tak.original.t.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837075"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="The Originals"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/T: Style Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B07EEDA1230F932A35757C0A9619C8B63" item-length="103" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>James Casebere and Lorna Simpson | Artists</hl1>
+        <hl2 class="online_headline">James Casebere and Lorna Simpson | Artists</hl2>
+      </hedline>
+      <byline class="print_byline">By Paul L. Underwood</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>He uses architectural models (which he sometimes floods with water) to take arresting photographs, and she uses photography and video art to tackle questions of gender and racial identity. Both halves of the high-art power couple James Casebere and Lorna Simpson work in the same four-story studio, designed by the starchitect David Adjaye. Their work might be highbrow, but they share a down-to-earth aversion to fashion. Simpson favors vintage clothes ''with a flair,'' she says, while Casebere thinks of himself as ''a real plain Midwestern dresser.'' ''He used to wear plaid,'' Simpson teases, ''but not good plaid.''</p>
+        <p>Paul L. Underwood</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>He uses architectural models (which he sometimes floods with water) to take arresting photographs, and she uses photography and video art to tackle questions of gender and racial identity. Both halves of the high-art power couple James Casebere and Lorna Simpson work in the same four-story studio, designed by the starchitect David Adjaye. Their work might be highbrow, but they share a down-to-earth aversion to fashion. Simpson favors vintage clothes “with a flair,” she says, while Casebere thinks of himself as “a real plain Midwestern dresser.” “He used to wear plaid,” Simpson teases, “but not good plaid.”[?][?][?]Paul L. Underwood.</p>
+      </block>
+      <block class="full_text">
+        <p>He uses architectural models (which he sometimes floods with water) to take arresting photographs, and she uses photography and video art to tackle questions of gender and racial identity. Both halves of the high-art power couple James Casebere and Lorna Simpson work in the same four-story studio, designed by the starchitect David Adjaye. Their work might be highbrow, but they share a down-to-earth aversion to fashion. Simpson favors vintage clothes ''with a flair,'' she says, while Casebere thinks of himself as ''a real plain Midwestern dresser.'' ''He used to wear plaid,'' Simpson teases, ''but not good plaid.''</p>
+        <p>Paul L. Underwood  The Originals</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

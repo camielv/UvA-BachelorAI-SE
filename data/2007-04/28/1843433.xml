@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Film in Review; Ta Ra Rum Pum</title>
+    <meta content="28roun-3" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1843433"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Saltz, Rachel</person>
+        <person class="indexing_service">Anand, Siddharth</person>
+        <person class="indexing_service">Khan, Saif Ali</person>
+        <object.title class="indexing_service">Ta Ra Rum Pum (Movie)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070428T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F07E4D7123EF93BA15757C0A9619C8B63" item-length="261" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Film in Review; Ta Ra Rum Pum</hl1>
+      </hedline>
+      <byline class="print_byline">By RACHEL SALTZ</byline>
+      <byline class="normalized_byline">Saltz, Rachel</byline>
+      <abstract>
+        <p>Rachel Saltz reviews film Ta Ra Rum Pum, directed by Siddharth Anand; Saif Ali Khan stars; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Opened yesterday nationwide.  Directed by Siddharth Anand  In Hindi and English, with English subtitles  Not rated, 156 minutes</p>
+        <p>Increasingly, Bollywood movies have the confidence to leave India behind, at least physically. ''Ta Ra Rum Pum,'' about the rise and fall of RV, the ''best, best, best racer in the world,'' may take place entirely in New York, but that doesn't stop it from being a classic example of Bollywood family values.</p>
+      </block>
+      <block class="full_text">
+        <p>Opened yesterday nationwide.  Directed by Siddharth Anand  In Hindi and English, with English subtitles  Not rated, 156 minutes</p>
+        <p>Increasingly, Bollywood movies have the confidence to leave India behind, at least physically. ''Ta Ra Rum Pum,'' about the rise and fall of RV, the ''best, best, best racer in the world,'' may take place entirely in New York, but that doesn't stop it from being a classic example of Bollywood family values.</p>
+        <p>In dizzying time RV (the versatile Saif Ali Khan) acquires a fabulous career, an ''arty type'' wife (whose rich Bengali father -- astonishingly in a Hindi movie -- suggests that she have an affair with RV rather than marry him); a couple of adorable children, Princess and Champ; and a modern dream house on a lake that in the film's whimsical geography seems to be in Manhattan.</p>
+        <p>When RV wipes out in a race (blame his rock-jawed rival, Rusty Finkelstein), the family has to move to Cabbie Alley and with ''a mixture of fantasy and cheerfulness,'' as the production notes say, learn to be poor. But even in this movie, fantasy can go only so far. Champ lands in the hospital and comes up against cold, hard American reality: his insuranceless parents can't pay his bills.</p>
+        <p>It can be disorienting to see New York reflected in a Bollywood looking glass. For the filmmakers, though, all the city's a stage set, perfect for ''Fame'' meets ''West Side Story'' production numbers, and perfect for the kind of family romance that is still the backbone of Hindi cinema.</p>
+        <p>RACHEL SALTZ</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

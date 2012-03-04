@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ashley Bell, Shamina Singh</title>
+    <meta content="22bell" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1842141"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Bell, Ashley Lynn</person>
+        <person class="indexing_service">Singh, Shamina</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0DE1DF163EF931A15757C0A9619C8B63" item-length="279" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ashley Bell, Shamina Singh</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Ashley Lynn Bell and Shamina Singh affirmed their partnership last evening. Mata Mandir K. Khalsa led a commitment ceremony incorporating Sikh traditions at the Houghton House, an event space at the Aspen Wye River Conference Centers in Queenstown, Md.</p>
+        <p>Ms. Bell (above, left) is 38 and an associate producer of ''Blackout,'' a feature film that is to be shown this week at the Tribeca Film Festival. In 2005 and 2006, she was a logistics consultant for the Clinton Global Initiative conferences, a series of events in New York that bring together influential individuals to devise and implement innovative solutions to pressing world problems. From 1993 to 2000, she had various roles in the Advance Office of the Clinton White House. She graduated from the University of Tulsa.</p>
+      </block>
+      <block class="full_text">
+        <p>Ashley Lynn Bell and Shamina Singh affirmed their partnership last evening. Mata Mandir K. Khalsa led a commitment ceremony incorporating Sikh traditions at the Houghton House, an event space at the Aspen Wye River Conference Centers in Queenstown, Md.</p>
+        <p>Ms. Bell (above, left) is 38 and an associate producer of ''Blackout,'' a feature film that is to be shown this week at the Tribeca Film Festival. In 2005 and 2006, she was a logistics consultant for the Clinton Global Initiative conferences, a series of events in New York that bring together influential individuals to devise and implement innovative solutions to pressing world problems. From 1993 to 2000, she had various roles in the Advance Office of the Clinton White House. She graduated from the University of Tulsa.</p>
+        <p>She is a daughter of Dr. Linda Bell and Dr. Robert Bell of Russellville, Ark. Her father is a urologist and her mother is a psychiatrist, both in Russellville.</p>
+        <p>Ms. Singh, also 38, is the vice president for strategic planning and communications in the community relations division at Citigroup in New York. She is on the national board of the Planned Parenthood Federation of America. In 1999 and 2000, she was the executive director of the White House Initiative on Asian Americans and Pacific Islanders. Ms. Singh graduated from Old Dominion University in Norfolk, Va., and has a master's degree in public affairs from the University of Texas.</p>
+        <p>She is a daughter of Jagdish Singh and Amarjit Singh of Chesapeake, Va. Her father, who is retired, was a professor of health sciences at Tidewater Community College in Portsmouth, Va. Her mother is a member of the Virginia Human Rights Council in Richmond.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

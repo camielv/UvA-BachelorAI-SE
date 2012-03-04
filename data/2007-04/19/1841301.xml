@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>From the Time Before Scissors</title>
+    <meta content="19RUNWAY" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Thursday Styles" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/19/fashion/19RUNWAY.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1841301"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="LIFE AS A RUNWAY"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Thursday Styles</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Fashion, Beauty and Fitness</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="descriptor">Hair</classifier>
+        <classifier class="online_producer" type="descriptor">Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hair</classifier>
+        <classifier class="online_producer" type="general_descriptor">Apparel</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <location class="online_producer">Manhattan (NYC)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070419T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D03E3DA1E3FF93AA25757C0A9619C8B63" item-length="171" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>From the Time Before Scissors</hl1>
+        <hl2 class="online_headline">From the Time Before Scissors</hl2>
+      </hedline>
+      <byline class="print_byline">Text by RUTH LA FERLA</byline>
+      <byline class="normalized_byline">La Ferla, Ruth</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THEY were reverent about the music -- '70s and '80s chart toppers like ''Rich Girl,'' ''Maneater'' and ''Out of Touch.'' But the rockers performing Hall &amp; Oates's greatest hits at the Loser's Lounge at Joe's Pub in Manhattan Saturday night were not so pious in their garb.</p>
+        <p>Jeff La Greca, near left, a camped-up ringer for John Oates, his idol, raked his fingers though his copious curls. ''This is yak hair,'' he said deadpan, ''protein-fed and from the Himalayas.'' His moustache, he added, was pure chimpanzee, culled and combed from the monkey's nether regions. ''For a Hall &amp; Oates tribute, only the finest will do.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The rockers performing Hall &amp; Oates&amp;#8217;s greatest hits at the Loser’s Lounge at Joe’s Pub in Manhattan Saturday night were not as pious in their garb as they were about the music.</p>
+      </block>
+      <block class="full_text">
+        <p>THEY were reverent about the music -- '70s and '80s chart toppers like ''Rich Girl,'' ''Maneater'' and ''Out of Touch.'' But the rockers performing Hall &amp; Oates's greatest hits at the Loser's Lounge at Joe's Pub in Manhattan Saturday night were not so pious in their garb.</p>
+        <p>Jeff La Greca, near left, a camped-up ringer for John Oates, his idol, raked his fingers though his copious curls. ''This is yak hair,'' he said deadpan, ''protein-fed and from the Himalayas.'' His moustache, he added, was pure chimpanzee, culled and combed from the monkey's nether regions. ''For a Hall &amp; Oates tribute, only the finest will do.''</p>
+        <p>Others wore their vintage weeds like talismans, showing off raucous plaid flares, baby-doll frocks and a crazy assortment of headbands and shades. Steve Welsh (in stripes, bottom center) accessorized with a banged-up sax, while Anney Fresh (below) mugged beneath a platinum wig. Her look was ''lounge zombie,'' she said, capped by that beehive. ''It's my magic hairdo. I can't sing without it.''</p>
+        <p>LIFE AS A RUNWAY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

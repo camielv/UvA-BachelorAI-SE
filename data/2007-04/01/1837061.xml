@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Off The Wall</title>
+    <meta content="04remix.broadhurst.t" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="T: Design Magazine" name="dsk"/>
+    <meta content="44" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Style; Magazine" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/01/style/tmagazine/04remix.broadhurst.t.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837061"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="The Remix"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/T: Style Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="descriptor">Interior Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Interior Design</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0DE0DA1230F932A35757C0A9619C8B63" item-length="202" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Off The Wall</hl1>
+        <hl2 class="online_headline">Off the Wall</hl2>
+      </hedline>
+      <byline class="print_byline">By Shax Riegler</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Like the overscaled wallpapers for which she is known, the Australian designer Florence Broadhurst was larger than life. ''Florence Broadhurst: Her Secret and Extraordinary Lives'' (Chronicle, $25) charts the career of a woman born to outback obscurity in 1899. In her 20s, she was a nightclub star. By 1927, Broadhurst had moved to London, where, as Madame Pellier, she ran a Bond Street dress shop. After World War II, she returned to Australia with a 10-year-old son and a man who may or may not have been her legal husband, cultivating the persona of a genteel British lady. In 1960, when a tenant -- a struggling wallpaper manufacturer -- fell behind in rent, she stepped in and began issuing the prints that made her famous, whether or not she actually designed them herself. The final mystery of Broadhurst's life is her brutal, still-unsolved murder, perhaps by one of Australia's most notorious serial killers, in 1977. In 2002 her patterns were resurrected by Signature Prints to great acclaim. Clearly, Broadhurst deserves another moment in the spotlight. Despite somewhat jejune writing, this beautiful book -- covered with one of her patterns and bursting with reproductions of many others -- makes an excellent curtain call.</p>
+        <p>Shax Riegler</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Like the overscaled wallpapers for which she is known, the Australian designer Florence Broadhurst was larger than life.</p>
+      </block>
+      <block class="full_text">
+        <p>Like the overscaled wallpapers for which she is known, the Australian designer Florence Broadhurst was larger than life. ''Florence Broadhurst: Her Secret and Extraordinary Lives'' (Chronicle, $25) charts the career of a woman born to outback obscurity in 1899. In her 20s, she was a nightclub star. By 1927, Broadhurst had moved to London, where, as Madame Pellier, she ran a Bond Street dress shop. After World War II, she returned to Australia with a 10-year-old son and a man who may or may not have been her legal husband, cultivating the persona of a genteel British lady. In 1960, when a tenant -- a struggling wallpaper manufacturer -- fell behind in rent, she stepped in and began issuing the prints that made her famous, whether or not she actually designed them herself. The final mystery of Broadhurst's life is her brutal, still-unsolved murder, perhaps by one of Australia's most notorious serial killers, in 1977. In 2002 her patterns were resurrected by Signature Prints to great acclaim. Clearly, Broadhurst deserves another moment in the spotlight. Despite somewhat jejune writing, this beautiful book -- covered with one of her patterns and bursting with reproductions of many others -- makes an excellent curtain call.</p>
+        <p>Shax Riegler  The Remix</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

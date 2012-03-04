@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Discrimination In Your Backyard</title>
+    <meta content="l08west" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Westchester Weekly Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="14WC" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838708"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Mental Retardation</classifier>
+        <classifier class="indexing_service" type="descriptor">Discrimination</classifier>
+        <classifier class="indexing_service" type="descriptor">Autism</classifier>
+        <location class="indexing_service">Mount Vernon (NY)</location>
+        <person class="indexing_service">Mccarra-Fitzpatrick, Maryann</person>
+        <person class="indexing_service">Ostreicher, Linda</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Westchester</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mental Retardation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Autism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Discrimination</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070408T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9501E0D6163FF93BA35757C0A9619C8B63" item-length="371" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Discrimination In Your Backyard</hl1>
+      </hedline>
+      <abstract>
+        <p>MaryAnn McCarra-Fitzpatrick and Linda Ostreicher letters on April 1 article about opposition to group home for developmentally disabled adults in Mount Vernon, NY</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Plea to a Group Home: Another Backyard, Please'' (April 1):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Plea to a Group Home: Another Backyard, Please'' (April 1):</p>
+        <p>The incidence of autism is now 1 in 150. Given this unfortunate fact, all communities will just have to get over the Nimby-fication of their thinking. Where do you expect all these children, once they reach adulthood, to be housed? On the moon, perhaps, where there is no fear that they will affect your property values?</p>
+        <p>To exclude a whole class of persons from the community based on their disability -- their difference -- is the very worst sort of discrimination. It is distressing, indeed, that it is always the most vulnerable and helpless of our society who are in line for the very worst of treatment from their fellow citizens and ''neighbors.''</p>
+        <p>My family was hounded out of an apartment in the Fleetwood section of Mount Vernon after we disclosed that our son is autistic. What has he to look forward to, in his future, given that the discrimination -- at least in his case -- has already started?</p>
+        <p>MaryAnn McCarra-Fitzpatrick  Mount Vernon</p>
+        <p>To the Editor:</p>
+        <p>A crucial fact went unmentioned in your article about Nimby opposition to a group home for the developmentally disabled. It is illegal under both federal and state law to discriminate against people on the basis of disability. I am surprised and disappointed that The Times could cover this story without pointing out that city officials in Mount Vernon have expressed opposition based on a violation of human rights law.</p>
+        <p>The news should be not that Sharon James thinks that a group home will drive down property values on her block. The news is that 17 years after the Americans With Disabilities Act was signed, Mount Vernon residents still think that people with developmental disabilities shouldn't live in their neighborhood.</p>
+        <p>To the people who live in group homes, they are home, not a business. As such, they have as much right to live in a residential district as anybody else. The Mount Vernon city officials who are going on record as opposing this group home are continuing the tradition of the 1987 Yonkers legislators who refused to allow racially integrated housing to be built in segregated areas.</p>
+        <p>Linda Ostreicher  New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

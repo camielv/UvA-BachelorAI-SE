@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A CITIZEN'S CALENDAR</title>
+    <meta content="01njcivic" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837221"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B03EED91030F932A35757C0A9619C8B63" item-length="238" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A CITIZEN'S CALENDAR</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A selective listing of state, county and local government events across New Jersey this week. (All dates and times subject to confirmation.) Items should be submitted by mail at least three weeks in advance to the New Jersey Op-Ed Page, The New York Times, 229 West 43rd Street, New York, N.Y. 10036, or by e-mail to njcivic@nytimes.com.</p>
+        <p>State of New Jersey</p>
+        <p>Trenton Board of Education. Wednesday at 10 a.m. Department of Education, 100 Riverview Plaza. (609) 292-0739.  Trenton Senate Budget and Appropriations Committee. Tuesday at 10 a.m. and 1:30 p.m. State House Annex Building, 150 West State Street. (609) 292-4840.  Trenton Assembly Budget Committee. Thursday at 10 a.m. State House Annex Building, 150 West State Street. (609) 292-4840.</p>
+        <p>Atlantic County</p>
+        <p>Atlantic City Planning Board. Wednesday at 10 a.m. City Hall, 1301 Bacharach Boulevard. (609) 347-5404.  Northfield Board of Chosen Freeholders. Tuesday at 4 p.m. Stillwater Building, 201 South Shore Road. (609) 645-5900.</p>
+        <p>Hudson County</p>
+        <p>Hoboken City Council. Wednesday at 7 p.m. Hoboken City Hall, 94 Washington Street. (201) 420-2070.</p>
+        <p>Middlesex County</p>
+        <p>Monroe Township Council. Wednesday at 7:30 p.m. 1 Municipal Plaza. (732) 521-4400.</p>
+        <p>Passaic County</p>
+        <p>Paterson Planning Board. Wednesday at 7 p.m. Paterson City Hall, 155 Market Street. (973) 321-1500.</p>
+        <p>Sussex County</p>
+        <p>Newton Township Committee. Tuesday at 7 p.m. Stillwater Township Municipal Building, 964 Stillwater Road. (973) 383-9484.</p>
+      </block>
+      <block class="full_text">
+        <p>A selective listing of state, county and local government events across New Jersey this week. (All dates and times subject to confirmation.) Items should be submitted by mail at least three weeks in advance to the New Jersey Op-Ed Page, The New York Times, 229 West 43rd Street, New York, N.Y. 10036, or by e-mail to njcivic@nytimes.com.</p>
+        <p>State of New Jersey</p>
+        <p>Trenton Board of Education. Wednesday at 10 a.m. Department of Education, 100 Riverview Plaza. (609) 292-0739.  Trenton Senate Budget and Appropriations Committee. Tuesday at 10 a.m. and 1:30 p.m. State House Annex Building, 150 West State Street. (609) 292-4840.  Trenton Assembly Budget Committee. Thursday at 10 a.m. State House Annex Building, 150 West State Street. (609) 292-4840.</p>
+        <p>Atlantic County</p>
+        <p>Atlantic City Planning Board. Wednesday at 10 a.m. City Hall, 1301 Bacharach Boulevard. (609) 347-5404.  Northfield Board of Chosen Freeholders. Tuesday at 4 p.m. Stillwater Building, 201 South Shore Road. (609) 645-5900.</p>
+        <p>Hudson County</p>
+        <p>Hoboken City Council. Wednesday at 7 p.m. Hoboken City Hall, 94 Washington Street. (201) 420-2070.</p>
+        <p>Middlesex County</p>
+        <p>Monroe Township Council. Wednesday at 7:30 p.m. 1 Municipal Plaza. (732) 521-4400.</p>
+        <p>Passaic County</p>
+        <p>Paterson Planning Board. Wednesday at 7 p.m. Paterson City Hall, 155 Market Street. (973) 321-1500.</p>
+        <p>Sussex County</p>
+        <p>Newton Township Committee. Tuesday at 7 p.m. Stillwater Township Municipal Building, 964 Stillwater Road. (973) 383-9484.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

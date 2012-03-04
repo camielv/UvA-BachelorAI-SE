@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TRANSACTIONS</title>
+    <meta content="23transaxe" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1842407"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070423T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E7D9173EF930A15757C0A9619C8B63" item-length="303" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TRANSACTIONS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>MAJOR LEAGUE BASEBALL</p>
+        <p>American League  CHICAGO WHITE SOX--Placed INF Alex Cintron on the bereavement list. Recalled INF Andy Gonzalez from Charlotte (IL).  LOS ANGELES ANGELS--Activated RHP Bartolo Colon from the 15-day DL. Optioned LHP Joe Saunders to Salt Lake (PCL).  NEW YORK YANKEES--Activated RHP Jeff Karstens from the 15-day DL. Recalled RHP Colter Bean from Scranton/Wilkes-Barre (IL). Optioned RHP Chris Britton and RHP Darrell Rasner to Scranton/Wilkes-Barre.  TEXAS RANGERS--Purchased the contract of RHP Willie Eyre from Oklahoma (PCL). Designated LHP Bruce Chen for assignment.  TORONTO BLUE JAYS--Optioned RHP Jamie Vermilyea to Syracuse (IL). Recalled LHP Brian Tallet from Syracuse.</p>
+        <p>National League  ARIZONA DIAMONDBACKS--Recalled RHP Yusmeiro Petit from Tucson (PCL). Optioned RHP Mike Schultz to Tucson.  CINCINNATI REDS--Activated INF Jeff Keppinger from the 15-day DL and optioned him to Louisville (IL).  COLORADO ROCKIES--Placed RHP Ramon Ramirez on the 15-day DL, retroactive to April 18. Designated RHP Matt Herges for assignment. Recalled RHP Ryan Speier from Colorado Springs (PCL). Purchased the contract of RHP Bobby Keppel from Colorado Springs.  FLORIDA MARLINS--Optioned RHP Scott Tyler to Carolina (SL). Purchased the contract of LHP Wes Obermueller from Albuquerque (PCL).  MILWAUKEE BREWERS--Purchased the contract of RHP Chris Spurling from Nashville (PCL). Optioned RHP Greg Aquino to Nashville.</p>
+        <p>HOCKEY</p>
+        <p>NHL--Suspended Calgary G Jamie McLennan five games and fined Calgary coach Jim Playfair $25,000 and the Calgary Flames organization $100,000 for a variety of actions during Saturday's game.  CALGARY FLAMES--Recalled G Brent Krahn from Omaha (AHL).</p>
+        <p>American Hockey League  OMAHA AK-SAR-BEN KNIGHTS--Recalled G Leland Irving from Everett (WHL).</p>
+        <p>COLLEGE</p>
+        <p>BUTLER--Named Micah Shrewsberry coordinator of basketball operations. GREAT FALLS--Announced the resignation of Eric Van Kley, athletic director and wrestling coach, to become wrestling coach at Central College, Iowa.</p>
+      </block>
+      <block class="full_text">
+        <p>MAJOR LEAGUE BASEBALL</p>
+        <p>American League  CHICAGO WHITE SOX--Placed INF Alex Cintron on the bereavement list. Recalled INF Andy Gonzalez from Charlotte (IL).  LOS ANGELES ANGELS--Activated RHP Bartolo Colon from the 15-day DL. Optioned LHP Joe Saunders to Salt Lake (PCL).  NEW YORK YANKEES--Activated RHP Jeff Karstens from the 15-day DL. Recalled RHP Colter Bean from Scranton/Wilkes-Barre (IL). Optioned RHP Chris Britton and RHP Darrell Rasner to Scranton/Wilkes-Barre.  TEXAS RANGERS--Purchased the contract of RHP Willie Eyre from Oklahoma (PCL). Designated LHP Bruce Chen for assignment.  TORONTO BLUE JAYS--Optioned RHP Jamie Vermilyea to Syracuse (IL). Recalled LHP Brian Tallet from Syracuse.</p>
+        <p>National League  ARIZONA DIAMONDBACKS--Recalled RHP Yusmeiro Petit from Tucson (PCL). Optioned RHP Mike Schultz to Tucson.  CINCINNATI REDS--Activated INF Jeff Keppinger from the 15-day DL and optioned him to Louisville (IL).  COLORADO ROCKIES--Placed RHP Ramon Ramirez on the 15-day DL, retroactive to April 18. Designated RHP Matt Herges for assignment. Recalled RHP Ryan Speier from Colorado Springs (PCL). Purchased the contract of RHP Bobby Keppel from Colorado Springs.  FLORIDA MARLINS--Optioned RHP Scott Tyler to Carolina (SL). Purchased the contract of LHP Wes Obermueller from Albuquerque (PCL).  MILWAUKEE BREWERS--Purchased the contract of RHP Chris Spurling from Nashville (PCL). Optioned RHP Greg Aquino to Nashville.</p>
+        <p>HOCKEY</p>
+        <p>NHL--Suspended Calgary G Jamie McLennan five games and fined Calgary coach Jim Playfair $25,000 and the Calgary Flames organization $100,000 for a variety of actions during Saturday's game.  CALGARY FLAMES--Recalled G Brent Krahn from Omaha (AHL).</p>
+        <p>American Hockey League  OMAHA AK-SAR-BEN KNIGHTS--Recalled G Leland Irving from Everett (WHL).</p>
+        <p>COLLEGE</p>
+        <p>BUTLER--Named Micah Shrewsberry coordinator of basketball operations. GREAT FALLS--Announced the resignation of Eric Van Kley, athletic director and wrestling coach, to become wrestling coach at Central College, Iowa.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

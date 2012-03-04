@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Et tu, Yale?</title>
+    <meta content="CTyale" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Connecticut Weekly Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="14CN" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/29/opinion/nyregionopinions/CTyale.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1843675"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Connecticut"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Theater</classifier>
+        <classifier class="indexing_service" type="descriptor">Firearms</classifier>
+        <classifier class="indexing_service" type="descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <org class="indexing_service">Yale University</org>
+        <org class="indexing_service">Virginia Polytechnic Institute and State University</org>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Connecticut</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features</classifier>
+        <classifier class="online_producer" type="descriptor">Theater</classifier>
+        <classifier class="online_producer" type="descriptor">Swords</classifier>
+        <classifier class="online_producer" type="descriptor">Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Firearms</classifier>
+        <classifier class="online_producer" type="general_descriptor">Swords</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+        <org class="online_producer">Yale University</org>
+        <org class="online_producer">Virginia Polytechnic Institute and State University</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A04E1DB153EF93AA15757C0A9619C8B63" item-length="191" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Et tu, Yale?</hl1>
+        <hl2 class="online_headline">Et tu, Yale?</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial praises Yale University for rescinding short-lived decision, in wake of Virginia Tech shootings, to ban realistic-looking but fake weapons from student plays</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Yale University's short-lived decision, in the wake of the Virginia Tech shootings, to ban realistic-looking but fake weapons from student plays was a classic case of overreaction.</p>
+        <p>The administration may have meant well, but requiring students to use wooden swords in a play and find something other than a prop handgun did not do a thing to lessen violence or make the world a safer place. After all, any violence the students were prepared to engage in on stage was not real to begin with. Perhaps that's why they call it acting.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Yale University’s short-lived decision, in the wake of the Virginia Tech shootings, to ban realistic-looking but fake weapons from student plays was a classic case of overreaction.</p>
+      </block>
+      <block class="full_text">
+        <p>Yale University's short-lived decision, in the wake of the Virginia Tech shootings, to ban realistic-looking but fake weapons from student plays was a classic case of overreaction.</p>
+        <p>The administration may have meant well, but requiring students to use wooden swords in a play and find something other than a prop handgun did not do a thing to lessen violence or make the world a safer place. After all, any violence the students were prepared to engage in on stage was not real to begin with. Perhaps that's why they call it acting.</p>
+        <p>Students were eloquent in their condemnation of the move, saying that the arts should be a vehicle to heal and inspire, leading people away from their darker selves. Their spirited protests helped persuade Yale to end the ban after a week. An attempt to be sensitive to others by engaging in sweeping censorship seemed contradictory.</p>
+        <p>Rescinding the ban was a very wise move. The attempt to weed out weapons from plays looked ridiculous. ''Macbeth'' should have sword fights. Operas should have acts of revenge. And Brutus should not have to resort to using a banana to kill Julius Caesar.</p>
+        <p>Connecticut</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Meghan Murphy, Jeffrey Gould</title>
+    <meta content="29murphy" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/29/fashion/weddings/29murphy.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1843775"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Murphy, Meghan Kathleen (Meghan Kathleen Gould)</person>
+        <person class="indexing_service">Gould, Jeffrey Alexander</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9504E5DA123EF93AA15757C0A9619C8B63" item-length="213" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Meghan Murphy, Jeffrey Gould</hl1>
+        <hl2 class="online_headline">Meghan Murphy, Jeffrey Gould</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Meghan Kathleen Murphy, a daughter of Karen and Charles J. Murphy of New Canaan, Conn., was married yesterday to Jeffrey Alexander Gould, a son of Clare and George R. Gould of Coram, N.Y. The Rev. Broderick M. Walsh officiated at St. Paul the Apostle Roman Catholic Church in New York.</p>
+        <p>The bride and bridegroom graduated from Bucknell, where they met.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Meghan Kathleen Murphy, a daughter of Karen and Charles J. Murphy of New Canaan, Conn., was married yesterday to Jeffrey Alexander Gould, a son of Clare and George R. Gould of Coram, N.Y. The Rev. Broderick M. Walsh officiated at St. Paul the Apostle Roman Catholic Church in New York.</p>
+      </block>
+      <block class="full_text">
+        <p>Meghan Kathleen Murphy, a daughter of Karen and Charles J. Murphy of New Canaan, Conn., was married yesterday to Jeffrey Alexander Gould, a son of Clare and George R. Gould of Coram, N.Y. The Rev. Broderick M. Walsh officiated at St. Paul the Apostle Roman Catholic Church in New York.</p>
+        <p>The bride and bridegroom graduated from Bucknell, where they met.</p>
+        <p>Mrs. Gould, 26, is a project manager at Nine West, a division of the Jones Apparel Group, in New York; she manages in-store marketing for the company's retail stores.</p>
+        <p>Her father is a senior adviser for investment banking, in New York, at Credit Suisse, the investment bank, and is an adjunct professor of finance at Stern School of Business at New York University. Her mother is a preschool teacher at First Presbyterian Nursery School in New Canaan.</p>
+        <p>Mr. Gould, 28, who works in New York, is a vice president for leveraged finance in the investment banking unit of Barclays Bank, the British financial services company.</p>
+        <p>His mother is an administrative assistant at the Long Island Joint Apprenticeship and Training Committee, a partnership of electrical unions and management that provides training for electricians, in Hauppauge, N.Y. His father works to improve processes in the integrated systems division of Northrop Grumman Corporation in Bethpage, N.Y.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

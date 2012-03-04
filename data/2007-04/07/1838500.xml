@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Judge Reverses Stand in Case of Ex-Astronaut</title>
+    <meta content="07astronaut" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/07/science/space/07astronaut.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1838500"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Space</classifier>
+        <classifier class="indexing_service" type="descriptor">Assaults</classifier>
+        <person class="indexing_service">Aguayo, Terry</person>
+        <person class="indexing_service">Lubet, Marc L (Judge)</person>
+        <person class="indexing_service">Nowak, Lisa M (Capt)</person>
+        <person class="indexing_service">Shipman, Colleen (Capt)</person>
+        <person class="indexing_service">Oefelein, William A (Cmdr)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="general_descriptor">Assaults</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+        <person class="online_producer">Nowak, Lisa Marie</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070407T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9807E1D7173FF934A35757C0A9619C8B63" item-length="311" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Judge Reverses Stand in Case of Ex-Astronaut</hl1>
+        <hl2 class="online_headline">Judge Reverses Stand in Case of Ex-Astronaut</hl2>
+      </hedline>
+      <byline class="print_byline">By TERRY AGUAYO</byline>
+      <byline class="normalized_byline">Aguayo, Terry</byline>
+      <dateline>MIAMI, April 6</dateline>
+      <abstract>
+        <p>Judge Marc L Lubet cancels scheduling hearing on his plan to seal court documents in case of Capt Lisa M Nowak, former astronaut accused of attacking romantic rival, Capt Colleen Shipman, and says he will allow release of records, with exception of psychological evaluations (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Just hours after scheduling a hearing on his plan to seal court documents in the case of a former astronaut accused of attacking a romantic rival, a judge canceled the hearing and said he would allow the release of the records, with the exception of psychological evaluations.</p>
+        <p>The judge, Marc L. Lubet of Orange County Circuit Court, released a written order Thursday evening reversing his earlier decision to seal the records in the case of the former astronaut, Capt. Lisa M. Nowak, pending the hearing he had scheduled for Tuesday.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A judge canceled a hearing on his plan to seal court documents in the case of a former astronaut accused of attacking a romantic rival and said he would allow the release of the records.</p>
+      </block>
+      <block class="full_text">
+        <p>Just hours after scheduling a hearing on his plan to seal court documents in the case of a former astronaut accused of attacking a romantic rival, a judge canceled the hearing and said he would allow the release of the records, with the exception of psychological evaluations.</p>
+        <p>The judge, Marc L. Lubet of Orange County Circuit Court, released a written order Thursday evening reversing his earlier decision to seal the records in the case of the former astronaut, Capt. Lisa M. Nowak, pending the hearing he had scheduled for Tuesday.</p>
+        <p>''Any other restrictions announced in court on release of materials, evidence, and other documents'' are rescinded, Judge Lubet wrote in his order, which he released after he was questioned Thursday evening by a reporter from The Orlando Sentinel.</p>
+        <p>Neither side in the case had requested that the documents be sealed, and prosecutors had been expected to oppose the move.</p>
+        <p>In a hearing Thursday morning, Judge Lubet also asked both sides to limit their contact with the news media. He warned that continuing communication by lawyers with reporters ''will keep this case stoked up in the press,'' and said he wanted to avoid a change of venue.</p>
+        <p>Judge Lubet, a former defense lawyer, ran unopposed for his seat last year. He has been on the bench since January.</p>
+        <p>Captain Nowak, a 43-year-old Navy veteran who flew aboard the space shuttle last year, had learned that Capt. Colleen Shipman of the Air Force was romantically involved with Cmdr. William A. Oefelein of the Navy, a shuttle pilot with whom Captain Nowak also had a relationship.</p>
+        <p>On Feb. 5, the authorities said, Captain Nowak drove more than 900 miles from her home in Texas wearing a diaper to avoid having to stop and confronted Captain Shipman in a parking lot in Orlando.</p>
+        <p>The trial is tentatively scheduled to start in September.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Death in the Family</title>
+    <meta content="Conant.t-1" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="21" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/01/books/review/Conant.t-1.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837034"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="descriptor">Books and Literature</classifier>
+        <classifier class="online_producer" type="descriptor">Biographical Information</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+        <object.title class="online_producer">Red Parts, The: A Memoir (Book)</object.title>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0CE6DD1230F932A35757C0A9619C8B63" item-length="621" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Death in the Family</hl1>
+        <hl2 class="online_headline">A Death in the Family</hl2>
+      </hedline>
+      <byline class="print_byline">By EVE CONANT</byline>
+      <byline class="normalized_byline">Conant, Eve</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE RED PARTS</p>
+        <p>A Memoir.</p>
+        <p>By Maggie Nelson.</p>
+        <p>201 pp. Free Press. $24.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The murder of Maggie Nelson’s aunt cast a long pall on those she left behind.</p>
+      </block>
+      <block class="full_text">
+        <p>THE RED PARTS</p>
+        <p>A Memoir.</p>
+        <p>By Maggie Nelson.</p>
+        <p>201 pp. Free Press. $24.</p>
+        <p>In March 1969, Jane Mixer, a 23-year-old University of Michigan law school student, signed up on a campus ride-board to travel home for spring break. Soon after, her body was found with two bullets in her brain and a stocking so ambitiously wound around her neck that her head was nearly severed. The killer decorated the corpse with Jane's belongings, in an effort almost as laborious as the ones undertaken over the next three decades to make sense of her murder.</p>
+        <p>''The Red Parts,'' Maggie Nelson's memoir of her aunt Jane's killing, which was one in a series that was labeled ''the Michigan Murders,'' opens with a quotation from Nietzsche: ''In all desire to know there is already a drop of cruelty.'' These words take us directly into Nelson's conflicted psyche. A 34-year-old poet, she never met Jane, yet became so obsessed with her death she fell prey to what she calls ''murder mind.'' By day she researches rhyming words for ''skull'' and ''bullet.'' By night she is assailed by sickening images with ''the slapping, prehensile force of the return of the repressed.'' But she is ripped from her grim reveries when an investigator announces that -- thanks to a DNA match -- Jane's unsolved case has been reopened and that an arrest, 35 years after the crime, is imminent.</p>
+        <p>Nelson's stunned family is soon packed into an Ann Arbor courtroom alongside ''true crime'' writers and Court TV reporters streaming autopsy photos live on the Web. Joining them are several half-deaf, '60s-era retired cops and detectives who find themselves navigating the modern world of energetic, female DNA experts, jurors who must swear they understand the difference between reality and ''Law &amp; Order'' and a family member who Googles the accused. At one point, Nelson writes, a detective pulls a bloodstained towel from ''its cardboard evidence box, as if retrieving a piece of flotsam floated in from the far, dark banks of the River Styx. The fabric of reality had to tear a little to allow it into it.''</p>
+        <p>Still, what feels tragic here is not the clinical recounting of Jane's murder, but the effect it has had on the family. As a teenager, Nelson bathed in the dark with coins over her eyes; her sister became a fan of snuff films. Hearing the verdict, Nelson's aloof grandfather (Jane's father) crumples under ''waves of pain, a very old pain that perhaps he himself did not know he housed.''</p>
+        <p>Alternating between a narrative of the trial and a rambling exploration of her own life, Nelson examines the many stereotypes and clichés of murder, making it seem that no subject could possibly be more embedded in the American consciousness. If Nelson isn't musing about the regular-Joe-turned-ax-murderer, she's describing the expectation that her family will ''print up T-shirts with Jane's picture and a 'we will never forget' slogan.'' When staring at the accused, she writes: ''Where I imagined I might find the 'face of evil,' I am finding the face of Elmer Fudd.''</p>
+        <p>Nelson becomes distracted from Jane's story by a failed love affair, which becomes off-putting because we get to know her partner only as ''the man I loved.'' And vague, panicked explorations of the meaning of life and her ''disassociated, heartbroken fog'' will be hard for any reader to sympathize with. But even at her weakest emotionally, Nelson is refreshingly self-critical -- of herself and her writing project. She never figures out what it is that compels her to sit at the trial, ''jotting down all the gory details, no different or better than anyone else.'' Is it that she wants Jane's life to matter, she wonders, or her own?</p>
+        <p>Eve Conant is a writer for Newsweek.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Eve Conant is a writer for Newsweek.</tagline>
+    </body.end>
+  </body>
+</nitf>

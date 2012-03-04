@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Medicare Advantage</title>
+    <meta content="l01krugman" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1844257"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <classifier class="indexing_service" type="descriptor">Medicare</classifier>
+        <classifier class="indexing_service" type="descriptor">Blacks</classifier>
+        <classifier class="indexing_service" type="descriptor">Hispanic-Americans</classifier>
+        <org class="indexing_service">National Assn for the Advancement of Colored People</org>
+        <org class="indexing_service">League of United Latin American Citizens</org>
+        <person class="indexing_service">Shelton, Hilary O</person>
+        <person class="indexing_service">Wilkes, Brent</person>
+        <person class="indexing_service">Krugman, Paul</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicare</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hispanic-Americans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blacks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070501T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A00E5D7133EF932A35756C0A9619C8B63" item-length="199" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Medicare Advantage</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Hilary O Shelton (NAACP) and Brent Wilkes (League of United Latin American Citizens) replies to Paul Krugman's April 20 column, which called their organizations patsies of insurance companies for supporting Medicare Advantage</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>We take offense at Paul Krugman's April 20 column, ''The Plot Against Medicare.'' Not only was the column insulting, but it also ignored our goals to ensure adequate, affordable health care for the communities we represent.</p>
+        <p>Many African-American and Latino seniors prefer Medicare Advantage plans to traditional Medicare. Of those low-income seniors who make just enough to be ineligible for Medicaid but who lack access to employer-sponsored supplemental coverage, 54 percent of Latinos and 38 percent of African-Americans choose Medicare Advantage.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>We take offense at Paul Krugman's April 20 column, ''The Plot Against Medicare.'' Not only was the column insulting, but it also ignored our goals to ensure adequate, affordable health care for the communities we represent.</p>
+        <p>Many African-American and Latino seniors prefer Medicare Advantage plans to traditional Medicare. Of those low-income seniors who make just enough to be ineligible for Medicaid but who lack access to employer-sponsored supplemental coverage, 54 percent of Latinos and 38 percent of African-Americans choose Medicare Advantage.</p>
+        <p>We are strong supporters of Medicare and have consistently fought for full financing. We reject the notion that additional benefits and options provided by Medicare Advantage should be scrapped so that the funds can be used elsewhere.</p>
+        <p>This is an immoral dichotomy; not only do we advocate for continued funding of Medicare, Medicare Savings Programs and Medicare Advantage, but we also advocate passionately for universal quality health care.</p>
+        <p>We will continue to support all programs that benefit our communities.</p>
+        <p>Hilary O. Shelton  Brent Wilkes  Washington, April 26, 2007</p>
+        <p>The writers are, respectively, director of the N.A.A.C.P. Washington bureau; and national executive director for the League of the United Latin American Citizens.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

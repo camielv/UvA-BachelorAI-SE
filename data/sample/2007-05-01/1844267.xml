@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Views of Parents, Students and Teachers Sought</title>
+    <meta content="01parents" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Education; New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/05/01/nyregion/01parents.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1844267"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Education and Schools</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ratings and Rating Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Teachers and School Employees</classifier>
+        <classifier class="online_producer" type="general_descriptor">Public Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <location class="online_producer">New York City</location>
+        <org class="online_producer">Education Department</org>
+        <person class="online_producer">Klein, Joel I</person>
+        <person class="online_producer">Bloomberg, Michael R</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070501T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D02E1D7133EF932A35756C0A9619C8B63" item-length="493" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Views of Parents, Students and Teachers Sought</hl1>
+        <hl2 class="online_headline">Views of Parents, Students and Teachers Sought</hl2>
+      </hedline>
+      <byline class="print_byline">By JULIE BOSMAN</byline>
+      <byline class="normalized_byline">Bosman, Julie</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Department of Education has begun a citywide survey of more than 1.8 million parents, students and teachers concerning their attitudes about the public schools, Mayor Michael R. Bloomberg and Chancellor Joel I. Klein announced yesterday.</p>
+        <p>The $2 million effort is part of the Children First initiative, in which each school will receive a report card with a standard school grade, A through F. Data from the surveys will account for 10 percent of each school's grade.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>New York City’s Department of Education has begun a $2 million citywide survey concerning attitudes about the public schools.</p>
+      </block>
+      <block class="full_text">
+        <p>The Department of Education has begun a citywide survey of more than 1.8 million parents, students and teachers concerning their attitudes about the public schools, Mayor Michael R. Bloomberg and Chancellor Joel I. Klein announced yesterday.</p>
+        <p>The $2 million effort is part of the Children First initiative, in which each school will receive a report card with a standard school grade, A through F. Data from the surveys will account for 10 percent of each school's grade.</p>
+        <p>The Learning Environment Surveys are being mailed with postage-paid return envelopes to parents of middle school and high school students and are being sent home with elementary school children for their parents to fill out.</p>
+        <p>Students in the 6th through 12th grades and teachers at all grade levels will get their surveys at school. The parents, teachers and students invited to participate may also fill out the forms online at schools.nyc.gov/surveys. The deadline is May 18.</p>
+        <p>The survey is intended to produce ''hard facts about which schools are succeeding and which schools are falling behind,'' Mr. Bloomberg said at a news conference at Public School 76 in the Bronx..</p>
+        <p>For assessments of the results, the tentative plan is to give slightly more weight to the parents' responses, officials said.</p>
+        <p>The parents' survey consists of 14 multiple-choice questions, most of them about how much the respondents agree or disagree with statements about school quality, activities, course work and teacher support. Examples vary from ''I feel welcome in my child's school'' to ''Students use alcohol or illegal drugs during school.'' The survey also presents parents with a list of 10 potential improvements, including more teacher training and smaller classes, and asks them to choose the ones they consider most important.</p>
+        <p>Students are quizzed on similar topics, with agree-or-disagree statements like ''My teachers inspire me to learn'' and ''Most students in my school like to put others down.''</p>
+        <p>Even before Mr. Bloomberg and Mr. Klein's announcement, a group of eight parents was urging the public to snub the survey. The parents, who were members of the focus groups that the Department of Education assembled to help them fine-tune the survey, said the questions ignore their concerns about class size, standardized testing and school leadership teams.</p>
+        <p>The group urged parents to cross out the questions and send back the form with a handwritten message demanding ''real parent input.''</p>
+        <p>Mr. Bloomberg said the group had found a way to ''subvert the system and sit around and complain and not make it any better.''</p>
+        <p>Randi Weingarten, the president of the United Federation of Teachers, said she welcomed the survey. ''We want to make sure that we know on the ground what people really think about the schools,'' she said..</p>
+        <p>The department has had trouble getting parents to return similar questionnaires, including recent requests for information about discounted lunches and school bus service. ''The survey will only be as good as the people who participate in it,'' Mr. Klein said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

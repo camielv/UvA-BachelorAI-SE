@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sarah Burger, David Canter</title>
+    <meta content="29Burger" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/29/fashion/weddings/29Burger.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1843753"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Burger, Sarah Beth (Sarah Beth Canter)</person>
+        <person class="indexing_service">Canter, David Julian</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F00EEDD123EF93AA15757C0A9619C8B63" item-length="206" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sarah Burger, David Canter</hl1>
+        <hl2 class="online_headline">Sarah Burger, David Canter</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Sarah Beth Burger and David Julian Canter were married last evening at the Boston Harbor Hotel in Boston. Rabbi Jeffrey Sirkman officiated.</p>
+        <p>Mrs. Canter, 29, is a physical therapist with the Visiting Nurse Service of New York. She graduated from Syracuse University and received a master's in physical therapy from the University of Miami.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Sarah Beth Burger and David Julian Canter were married last evening at the Boston Harbor Hotel in Boston. Rabbi Jeffrey Sirkman officiated.</p>
+      </block>
+      <block class="full_text">
+        <p>Sarah Beth Burger and David Julian Canter were married last evening at the Boston Harbor Hotel in Boston. Rabbi Jeffrey Sirkman officiated.</p>
+        <p>Mrs. Canter, 29, is a physical therapist with the Visiting Nurse Service of New York. She graduated from Syracuse University and received a master's in physical therapy from the University of Miami.</p>
+        <p>She is the daughter of Barbara B. Sager of Bradford, Mass., and David B. Burger of Orange Park, Fla. Her father, a retired certified public accountant, was a partner in Brown &amp; Brown, an accounting firm in Boston. Her mother is a senior vice president for Picis, a firm in Wakefield, Mass., that produces software for health-care organizations. The bride's stepfather, Thomas K. Sager, is the chief executive of Holy Family Hospital in Methuen, Mass. Her stepmother, Dierdre Burger, retired as principal of the Boston Ballet School.</p>
+        <p>Mr. Canter, 32, is the director of commercial and dealer sales for Koko Fitness, a fitness-equipment manufacturer in Norwell, Mass. He graduated from the University of Massachusetts.</p>
+        <p>He is a son of Elaine Canter and Peter Canter of Mamaroneck, N.Y. His mother retired as president of the List Connection, a direct marketing firm in Mamaroneck. His father, a C.P.A., has his own firm in Mamaroneck.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

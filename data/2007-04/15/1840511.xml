@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Double Trouble At a Risky Intersection</title>
+    <meta content="15boot" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="14" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/15/nyregion/thecity/15boot.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840511"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="NEIGHBORHOOD REPORT: HELL'S KITCHEN"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Telephones and Telecommunications</classifier>
+        <classifier class="indexing_service" type="descriptor">Accidents and Safety</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">Telebeam Telecommunications Corp</org>
+        <person class="indexing_service">Mindlin, Alex</person>
+        <person class="indexing_service">Compton, Lee</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Accidents and Safety</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+        <location class="online_producer">Hell's Kitchen</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05EED7133FF936A25757C0A9619C8B63" item-length="310" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Double Trouble At a Risky Intersection</hl1>
+        <hl2 class="online_headline">Double Trouble at a Risky Intersection</hl2>
+      </hedline>
+      <byline class="print_byline">By ALEX MINDLIN</byline>
+      <byline class="normalized_byline">Mindlin, Alex</byline>
+      <abstract>
+        <p>Community Board 4 chairman Lee Compton, following deaths of two pedestrians at 45th Street and Ninth Avenue, asks New York City Information Technology and Telecommunications Department to remove pair of phone booths on corner; department spokesman and booths' operator, Telebeam Telecommunications Corp, dispute contention that they are nuisance; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>On May 22, 2000, a tour bus struck and killed Randolph Walker, a 71-year-old actor, as he crossed 45th Street on the west side of Ninth Avenue. The tour guide later testified that he and the driver had been looking ahead as they turned onto the side street, yet saw no one in the crosswalk.</p>
+        <p>On Feb. 23, Nina Petrow, 55, was killed in the same spot by another tour bus turning off the avenue.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>On May 22, 2000, a tour bus struck and killed Randolph Walker, a 71-year-old actor, as he crossed 45th Street on the west side of Ninth Avenue. The tour guide later testified that he and the driver had been looking ahead as they turned onto the side street, yet saw no one in the crosswalk.</p>
+      </block>
+      <block class="full_text">
+        <p>On May 22, 2000, a tour bus struck and killed Randolph Walker, a 71-year-old actor, as he crossed 45th Street on the west side of Ninth Avenue. The tour guide later testified that he and the driver had been looking ahead as they turned onto the side street, yet saw no one in the crosswalk.</p>
+        <p>On Feb. 23, Nina Petrow, 55, was killed in the same spot by another tour bus turning off the avenue.</p>
+        <p>The second death has revived neighbors' long-held suspicions about a pair of phone booths, joined into a single roofed cabin, that sit perhaps 12 feet north of the intersection. They say the double booths can briefly block pedestrians from the view of drivers turning onto the street.</p>
+        <p>''After this second instance, we all went, 'Well, duh,' '' said Renée Stanley, a stage manager who lives on 44th Street near Ninth Avenue and saw Mr. Walker get hit. ''Once is an accident. Twice, there's a direct line.''</p>
+        <p>Lee Compton, chairman of Community Board 4, has asked the city's Department of Information Technology and Telecommunications to remove the phone booths, calling it ''troubling'' that ''an 8-foot-tall-by-6-foot-wide visual barrier was placed so close to this dangerous intersection.''</p>
+        <p>According to Nicholas Sbordone, a spokesman for the technology department, the phone booths' placement complies with city rules and the booths' operator, Telebeam Telecommunications Corporation, has disputed the contention that they are ''a nuisance.''</p>
+        <p>Osmin Montjovier, who sells books and records from a table at the intersection, counsels pedestrians to be wary. ''Watch this lady here,'' Mr. Montjovier said as a woman and a turning taxi neared the intersection from different directions.</p>
+        <p>He began to narrate an imagined accident: ''The guy who's driving is on his cellphone. He wants to make that turn, and he can't see anything. All of a sudden, somebody's there -- oh, damn!''</p>
+        <p>ALEX MINDLIN</p>
+        <p>NEIGHBORHOOD REPORT: HELL'S KITCHEN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>World Briefing | Europe: Russia Plans Tunnel Link To Alaska</title>
+    <meta content="19briefs-7" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1841465"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070419T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05E6D61E3FF93AA25757C0A9619C8B63" item-length="84" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>World Briefing | Europe: Russia Plans Tunnel Link To Alaska</hl1>
+      </hedline>
+      <byline class="print_byline">By ANDREW E. KRAMER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Russia unveiled a plan to build a tunnel between Siberia and Alaska under the Bering Strait, saying the $65 billion project could be used to export Russian oil, natural gas and electricity to the United States. At 64 miles, it would be twice the length of the Channel Tunnel between Britain and the Continent. While two Ministry of Economy officials endorsed the idea, they made it clear that the Russian government had not signed off on it.</p>
+        <p>ANDREW E. KRAMER</p>
+      </block>
+      <block class="full_text">
+        <p>Russia unveiled a plan to build a tunnel between Siberia and Alaska under the Bering Strait, saying the $65 billion project could be used to export Russian oil, natural gas and electricity to the United States. At 64 miles, it would be twice the length of the Channel Tunnel between Britain and the Continent. While two Ministry of Economy officials endorsed the idea, they made it clear that the Russian government had not signed off on it.</p>
+        <p>ANDREW E. KRAMER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

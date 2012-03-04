@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>B.C.S. Format Receives a Reprieve, for Now</title>
+    <meta content="26bcs" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/26/sports/ncaafootball/26bcs.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1843011"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="FOOTBALL"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/College Football</classifier>
+        <classifier class="online_producer" type="descriptor">Football</classifier>
+        <classifier class="online_producer" type="descriptor">College Athletics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bowl Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">College Athletics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+        <org class="online_producer">Bowl Championship Series</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070426T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F06E6DD153EF935A15757C0A9619C8B63" item-length="356" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>B.C.S. Format Receives a Reprieve, for Now</hl1>
+        <hl2 class="online_headline">B.C.S. Format Receives a Reprieve, for Now</hl2>
+      </hedline>
+      <byline class="print_byline">By PETE THAMEL</byline>
+      <byline class="normalized_byline">Thamel, Pete</byline>
+      <dateline>NEW ORLEANS, April 25</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The annual Bowl Championship Series meetings, which gather all of the Division I-A college football conference commissioners, ended here Wednesday with little significant action.</p>
+        <p>The B.C.S. coordinator Mike Slive said that there would be no change to the current format and that there was no discussion of alternative postseason models during the three days of meetings.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>There was no discussion of alternative postseason models during the annual Bowl Championship Series meetings, which ended Wednesday with little significant action.</p>
+      </block>
+      <block class="full_text">
+        <p>The annual Bowl Championship Series meetings, which gather all of the Division I-A college football conference commissioners, ended here Wednesday with little significant action.</p>
+        <p>The B.C.S. coordinator Mike Slive said that there would be no change to the current format and that there was no discussion of alternative postseason models during the three days of meetings.</p>
+        <p>Slive did say that alternatives would probably be discussed at next year's meeting in Miami. Each conference will evaluate a postseason model that works best through the prism of that conference.</p>
+        <p>''I think we have to look at what's the best way to continue to further the interest and growth of college football in the long term,'' said Slive, who is also the commissioner of the Southeastern Conference. ''Do we have the best model? Should we do something else?''</p>
+        <p>The B.C.S. is entering the second year of its television contract with Fox, which televises every game in the B.C.S. rotation except the Rose Bowl. That contract ends in 2010, but the negotiating window for the next one would open around this time next year.</p>
+        <p>Fox and other television networks, and most of the conference commissioners, including Slive, are interested in a serious discussion about alternative postseason models.</p>
+        <p>That includes the Plus One model, in which the teams ranked first and second in the B.C.S. standings after the four major bowls (Rose, Fiesta, Sugar and Orange) would meet for the national title. The current model matches the teams ranked 1-2 after the regular season and conference championship games.</p>
+        <p>Ten of the 12 B.C.S. decision makers, who include the heads of the 11 conferences and Notre Dame's athletic director, Kevin White, said in December that they would be open to discussion about an alternative postseason model.</p>
+        <p>Slive said he was pleased with how the B.C.S. had worked the past two years, but that he still remembered an undefeated Auburn team not getting a chance to win the title in 2004.</p>
+        <p>''I remember Auburn,'' Slive said. ''It's not the Alamo, but as you go through the analysis, it's a factor.''</p>
+        <p>He added, ''I think there's some interest in alternative models.''</p>
+        <p>FOOTBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

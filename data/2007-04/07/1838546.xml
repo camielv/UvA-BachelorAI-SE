@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; Crime Pays</title>
+    <meta content="07arts-3" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838546"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ratings and Rating Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070407T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D01EFD6173FF934A35757C0A9619C8B63" item-length="163" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; Crime Pays</hl1>
+      </hedline>
+      <byline class="print_byline">By BENJAMIN TOFF; Compiled by Peter Edidin</byline>
+      <byline class="normalized_byline">Toff, Benjamin</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>CBS breezed to an easy victory on Thursday night as ''CSI,'' now in its seventh season, garnered the night's highest ratings and 21.5 million total viewers at 9 p.m., according to Nielsen's estimates. A repeat of ABC's ''Grey's Anatomy'' in that hour drew 8.4 million viewers. CBS's ''Shark'' at 10 earned 15.3 million viewers, a new record and considerably better than the No. 2 show in the time slot, ABC's ''October Road'' (7.7 million). Fox and ABC shared second place for the night. ABC posted a slight edge in total viewers, while Fox fared better among adults 18 to 49. The Fox quiz show ''Are You Smarter Than a 5th Grader?'' (10.2 million) finished second at 8 behind CBS's ''Survivor: Fiji'' (13.3 million). NBC was fourth over all with a lineup of 40-minute ''supersized'' episodes of ''The Office'' at 8 (6.7 million), ''30 Rock'' at 8:40 (5.2 million) and ''Scrubs'' at 9:20 (5 million).</p>
+        <p>BENJAMIN TOFF</p>
+      </block>
+      <block class="full_text">
+        <p>CBS breezed to an easy victory on Thursday night as ''CSI,'' now in its seventh season, garnered the night's highest ratings and 21.5 million total viewers at 9 p.m., according to Nielsen's estimates. A repeat of ABC's ''Grey's Anatomy'' in that hour drew 8.4 million viewers. CBS's ''Shark'' at 10 earned 15.3 million viewers, a new record and considerably better than the No. 2 show in the time slot, ABC's ''October Road'' (7.7 million). Fox and ABC shared second place for the night. ABC posted a slight edge in total viewers, while Fox fared better among adults 18 to 49. The Fox quiz show ''Are You Smarter Than a 5th Grader?'' (10.2 million) finished second at 8 behind CBS's ''Survivor: Fiji'' (13.3 million). NBC was fourth over all with a lineup of 40-minute ''supersized'' episodes of ''The Office'' at 8 (6.7 million), ''30 Rock'' at 8:40 (5.2 million) and ''Scrubs'' at 9:20 (5 million).</p>
+        <p>BENJAMIN TOFF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

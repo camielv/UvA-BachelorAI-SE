@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Today In Business | Three Banks May Bid For ABN</title>
+    <meta content="14biztoday-2" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1840150"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Banks and Banking</classifier>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <org class="indexing_service">Royal Bank of Scotland Plc</org>
+        <org class="indexing_service">Banco Santander Central Hispano</org>
+        <org class="indexing_service">Fortis Ag</org>
+        <org class="indexing_service">Abn Amro</org>
+        <org class="indexing_service">Barclays Plc</org>
+        <person class="indexing_service">Werdigier, Julia</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Banks and Banking</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070414T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E0DD103FF937A25757C0A9619C8B63" item-length="184" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Today In Business | Three Banks May Bid For ABN</hl1>
+      </hedline>
+      <byline class="print_byline">By JULIA WERDIGIER</byline>
+      <byline class="normalized_byline">Werdigier, Julia</byline>
+      <abstract>
+        <p>Ro�</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Royal Bank of Scotland Group and two other European banks approached ABN Amro about a possible takeover bid that could derail the current exclusive merger discussions between ABN and Barclays. Royal Bank of Scotland, Britain's second-largest bank after HSBC Holdings, teamed up with Banco Santander Central Hispano, Spain's largest bank, and Fortis, a Belgian banking group, and together sent a letter to ABN Amro inviting it to enter ''exploratory talks,'' ABN Amro said Friday. ABN Amro repeated it was in exclusive talks with Barclays but said it would consider the approach ''carefully'' and in line with its responsibilities.</p>
+        <p>Investors and analysts have speculated that a bidding war could break out over ABN Amro ever since Barclays started the discussions last month, proposing a takeover that could be the biggest in the banking industry by valuing ABN Amro at more than $80 billion. ABN Amro, which is based in Amsterdam, started merger talks with Barclays after it came under pressure from hedge funds to either split itself up or to seek a buyer following years of poor share price performance.</p>
+        <p>JULIA WERDIGIER</p>
+      </block>
+      <block class="full_text">
+        <p>The Royal Bank of Scotland Group and two other European banks approached ABN Amro about a possible takeover bid that could derail the current exclusive merger discussions between ABN and Barclays. Royal Bank of Scotland, Britain's second-largest bank after HSBC Holdings, teamed up with Banco Santander Central Hispano, Spain's largest bank, and Fortis, a Belgian banking group, and together sent a letter to ABN Amro inviting it to enter ''exploratory talks,'' ABN Amro said Friday. ABN Amro repeated it was in exclusive talks with Barclays but said it would consider the approach ''carefully'' and in line with its responsibilities.</p>
+        <p>Investors and analysts have speculated that a bidding war could break out over ABN Amro ever since Barclays started the discussions last month, proposing a takeover that could be the biggest in the banking industry by valuing ABN Amro at more than $80 billion. ABN Amro, which is based in Amsterdam, started merger talks with Barclays after it came under pressure from hedge funds to either split itself up or to seek a buyer following years of poor share price performance.</p>
+        <p>JULIA WERDIGIER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

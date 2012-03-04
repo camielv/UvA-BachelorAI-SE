@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Waltrip May Step Down As Driver</title>
+    <meta content="20sportsbriefs-1" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1841694"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="SPORTS BRIEFING: AUTO RACING"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles/Topics/Wheel Spin</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobile Racing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070420T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0DE5DF163EF933A15757C0A9619C8B63" item-length="147" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Waltrip May Step Down As Driver</hl1>
+      </hedline>
+      <byline class="print_byline">By VIV BERNSTEIN</byline>
+      <byline class="normalized_byline">Bernstein, Viv</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The beleaguered Nascar team owner Michael Waltrip said yesterday that he would consider removing himself as driver of the No. 55 Napa Toyota if the team did not improve. Waltrip, in his first year as owner of the flagship Toyota franchise in the Nextel Cup, has failed to qualify for seven of the first eight races, including tomorrow's Subway Fresh Fit 500 at Phoenix International Raceway.</p>
+        <p>None of his three racecars, including the No. 44 Toyota, driven by Dale Jarrett, and the No. 00, with David Reutimann, are in the top 35 in points and thus guaranteed a spot in each race.</p>
+      </block>
+      <block class="full_text">
+        <p>The beleaguered Nascar team owner Michael Waltrip said yesterday that he would consider removing himself as driver of the No. 55 Napa Toyota if the team did not improve. Waltrip, in his first year as owner of the flagship Toyota franchise in the Nextel Cup, has failed to qualify for seven of the first eight races, including tomorrow's Subway Fresh Fit 500 at Phoenix International Raceway.</p>
+        <p>None of his three racecars, including the No. 44 Toyota, driven by Dale Jarrett, and the No. 00, with David Reutimann, are in the top 35 in points and thus guaranteed a spot in each race.</p>
+        <p>Reutimann qualified on time yesterday and will start 25th in tomorrow's race. Jarrett used a champion's exemption to make the race. Jarrett is ranked 38th in points, with Reutimann 44th and Waltrip 54th and last among Cup drivers with minus-27 points.</p>
+        <p>VIV BERNSTEIN</p>
+        <p>SPORTS BRIEFING: AUTO RACING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

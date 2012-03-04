@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>OUT-BOX</title>
+    <meta content="15outbox" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1840598"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05E2DC103FF936A25757C0A9619C8B63" item-length="120" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>OUT-BOX</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The five most e-mailed articles from nytimes.com/sports for April 6 to 13.</p>
+        <p>1. THROWING BATTERS CURVES BEFORE THROWING A PITCH Creighton pitcher Pat Venditte is ambidextrous.</p>
+        <p>(Published April 6)</p>
+        <p>2. A CUSTOM RIDE, LEGAL FOR THE STREET OR THE 18TH TEE A community where golf carts serve as transportation.</p>
+        <p>(April 9)</p>
+        <p>3. BIDDERS ARE LINING UP FOR A CHANCE TO OWN THE CUBS Despite a dismal record, a team and its ballpark are hot property.</p>
+        <p>(April 11)</p>
+        <p>4. A FIRST-CLASS RESPONSE TO A SECOND-CLASS PUT-DOWN Sports of The Times: The Rutgers women's basketball team takes the high road in the wake of Don Imus's comments.</p>
+        <p>(April 11)</p>
+        <p>5. RUTGERS WOMEN SEND IMUS AN ANGRY MESSAGE News article.</p>
+        <p>(April 11)</p>
+      </block>
+      <block class="full_text">
+        <p>The five most e-mailed articles from nytimes.com/sports for April 6 to 13.</p>
+        <p>1. THROWING BATTERS CURVES BEFORE THROWING A PITCH Creighton pitcher Pat Venditte is ambidextrous.</p>
+        <p>(Published April 6)</p>
+        <p>2. A CUSTOM RIDE, LEGAL FOR THE STREET OR THE 18TH TEE A community where golf carts serve as transportation.</p>
+        <p>(April 9)</p>
+        <p>3. BIDDERS ARE LINING UP FOR A CHANCE TO OWN THE CUBS Despite a dismal record, a team and its ballpark are hot property.</p>
+        <p>(April 11)</p>
+        <p>4. A FIRST-CLASS RESPONSE TO A SECOND-CLASS PUT-DOWN Sports of The Times: The Rutgers women's basketball team takes the high road in the wake of Don Imus's comments.</p>
+        <p>(April 11)</p>
+        <p>5. RUTGERS WOMEN SEND IMUS AN ANGRY MESSAGE News article.</p>
+        <p>(April 11)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

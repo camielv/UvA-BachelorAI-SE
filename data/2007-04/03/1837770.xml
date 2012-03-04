@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bank Said to Weigh Spinoff of a Unit</title>
+    <meta content="03buyout" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/03/business/03buyout.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837770"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Banks and Banking</classifier>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <org class="indexing_service">Metavante (Co)</org>
+        <org class="indexing_service">Marshall &amp; Ilsley Corp</org>
+        <org class="indexing_service">Warburg Pincus</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="descriptor">Banks and Banking</classifier>
+        <classifier class="online_producer" type="descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Banks and Banking</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070403T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9803EEDC1F30F930A35757C0A9619C8B63" item-length="189" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bank Said to Weigh Spinoff of a Unit</hl1>
+        <hl2 class="online_headline">Bank Said to Weigh Spinoff of a Unit</hl2>
+      </hedline>
+      <abstract>
+        <p>Metavante Corp will become its own company under deal being completed by its parent company, Milwaukee bank Marshall &amp; Ilsley, and private equity firm Warburg Pincus; Metavante handles customer relationships and financial transactions for banks (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Metavante Corporation, a financial processing firm, would become its own company under a deal being completed by its parent company, the Milwaukee bank Marshall &amp; Ilsley, and the private equity firm Warburg Pincus, according to people with knowledge of the plans.</p>
+        <p>Metavante handles customer relationships and financial transactions, like online bill payments, for banks.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Metavante Corporation would become its own company under a deal being completed by its parent company, the Milwaukee bank Marshall &amp; Ilsley, and the private equity firm Warburg Pincus.</p>
+      </block>
+      <block class="full_text">
+        <p>The Metavante Corporation, a financial processing firm, would become its own company under a deal being completed by its parent company, the Milwaukee bank Marshall &amp; Ilsley, and the private equity firm Warburg Pincus, according to people with knowledge of the plans.</p>
+        <p>Metavante handles customer relationships and financial transactions, like online bill payments, for banks.</p>
+        <p>Under a proposed tax-free transaction, Metavante would be spun off to shareholders, and Warburg Pincus would pay cash for a minority stake. Financial details were not disclosed.</p>
+        <p>Marshall &amp; Ilsley, founded in 1847, operates retail banking offices in Wisconsin, Illinois, Minnesota, Missouri, Kansas, Oklahoma, Nevada, Arizona and Florida.</p>
+        <p>Financial institutions have been under pressure to spin off their processing arms as a way of increasing returns to shareholders. Last year, First Data spun off Western Union, its global money transfer business, to focus on its struggling credit card and debit card transaction business.</p>
+        <p>The hedge fund manager William A. Ackman also is pushing for a spinoff of Comdata, a fast-growing division of the business services firm Ceridian. And Synovus Financial Corporation has been under pressure to spin off its credit-processing arm, Total System Services.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

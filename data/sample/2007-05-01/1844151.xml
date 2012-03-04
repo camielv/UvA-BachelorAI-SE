@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   TORRES, ANGEL</title>
+    <meta content="dn050107" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1844151"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">TORRES, ANGEL</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070501T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE2DB163AF932A35756C0A9619C8B63" item-length="64" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   TORRES, ANGEL</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>TORRES--Angel. July 9, 1962 April 21, 2007. Born in Brooklyn, NY, resided in Tamarac, Florida. Passed away at the age of 44, in Fort Lauderdale, FL after a long and valiant struggle against HIV/AIDS. Beloved son of the late Angel Torres Sr., Angel leaves behind his mother Rafaela, brother Rudy, sister Judy and his loving companion and friend of 25 years, Ernest Grossman.</p>
+      </block>
+      <block class="full_text">
+        <p>TORRES--Angel. July 9, 1962 April 21, 2007. Born in Brooklyn, NY, resided in Tamarac, Florida. Passed away at the age of 44, in Fort Lauderdale, FL after a long and valiant struggle against HIV/AIDS. Beloved son of the late Angel Torres Sr., Angel leaves behind his mother Rafaela, brother Rudy, sister Judy and his loving companion and friend of 25 years, Ernest Grossman.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>World Briefing | Europe: Vatican City: Pope Closes Limbo</title>
+    <meta content="21briefs-4" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1841863"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Baptism</classifier>
+        <org class="indexing_service">Roman Catholic Church</org>
+        <person class="indexing_service">Fisher, Ian</person>
+        <person class="indexing_service">Benedict Xvi (Pope)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baptism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Christians and Christianity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Religion and Churches</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070421T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F03E6D8163EF932A15757C0A9619C8B63" item-length="94" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>World Briefing | Europe: Vatican City: Pope Closes Limbo</hl1>
+      </hedline>
+      <byline class="print_byline">By IAN FISHER</byline>
+      <byline class="normalized_byline">Fisher, Ian</byline>
+      <abstract>
+        <p>Netherworld of limbo, long speculated in Roman Catholic teaching as destination of babies who die unbaptized, has been replaced with 'prayerful hope' that they reach heaven; Pope Benedict signs theological report that effectively demotes limbo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The netherworld of limbo, long speculated in Roman Catholic teaching as the destination of babies who die unbaptized, has been replaced with the ''prayerful hope'' that they reach heaven. Pope Benedict XVI signed a theological report, years in the making, that effectively demoted limbo, a place neither in heaven nor in hell, where unbaptized babies would not be in communion with God but would nonetheless enjoy eternal happiness. Many in the church felt the idea, never formally a part of church doctrine, was outdated and caused undue worry for parents.</p>
+        <p>IAN FISHER</p>
+      </block>
+      <block class="full_text">
+        <p>The netherworld of limbo, long speculated in Roman Catholic teaching as the destination of babies who die unbaptized, has been replaced with the ''prayerful hope'' that they reach heaven. Pope Benedict XVI signed a theological report, years in the making, that effectively demoted limbo, a place neither in heaven nor in hell, where unbaptized babies would not be in communion with God but would nonetheless enjoy eternal happiness. Many in the church felt the idea, never formally a part of church doctrine, was outdated and caused undue worry for parents.</p>
+        <p>IAN FISHER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

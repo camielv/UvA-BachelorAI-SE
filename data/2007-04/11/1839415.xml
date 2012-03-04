@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   BUCEY, JUDY</title>
+    <meta content="dn041107.1" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1839415"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">BUCEY, JUDY</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070411T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F02E2DE123AF932A25757C0A9619C8B63" item-length="66" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   BUCEY, JUDY</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BUCEY--Judy. We mourn the loss of our dear friend and colleague. Judy was a talented goldsmith and a gracious soul. She created exquisite jewels of precious gems. Judy was completely genuine; her kindness and gentleness were utterly natural. She brought light to all who knew her. We will miss you, and we will never forget you. Cecelia, Cheryl, Evy, Heike, Lois, Ronda, Tereze, and Tracy</p>
+      </block>
+      <block class="full_text">
+        <p>BUCEY--Judy. We mourn the loss of our dear friend and colleague. Judy was a talented goldsmith and a gracious soul. She created exquisite jewels of precious gems. Judy was completely genuine; her kindness and gentleness were utterly natural. She brought light to all who knew her. We will miss you, and we will never forget you. Cecelia, Cheryl, Evy, Heike, Lois, Ronda, Tereze, and Tracy</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

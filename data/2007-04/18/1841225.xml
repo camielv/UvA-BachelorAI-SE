@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Real Animal Cruelty</title>
+    <meta content="18lett-3" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining, Dining Out/Cultural Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Dining and Wine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1841225"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Wildlife</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cruelty to Animals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hunting and Trapping</classifier>
+        <classifier class="online_producer" type="general_descriptor">Livestock</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cooking and Cookbooks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070418T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E1DB1E3FF93BA25757C0A9619C8B63" item-length="159" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Real Animal Cruelty</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>The irate readers have it, with five letters last week damning Steven Rinella for cruelty to animals for killing sparrows and squirrels (little mention was made of bigger game).</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>The irate readers have it, with five letters last week damning Steven Rinella for cruelty to animals for killing sparrows and squirrels (little mention was made of bigger game).</p>
+        <p>Sorry, but I didn't see it that way. ''Thumping with a hammer'' seemed to me a quick and painless death for animals that are in oversupply (especially the sparrows that arrived here from England and displaced so many of our native birds) thanks to all that food supplied by humans.</p>
+        <p>The real animal cruelty lies in the feedlots and cramped prisons in which the vast majority of our meat animals are raised. Unlike most readers of The Times, I've visited factory farms and slaughterhouses, and I'd rather eat hunted game than animals kept under the brutal regimes that are hidden from consumer view.</p>
+        <p>It's not Mr. Rinella who has usurped animals' freedom, it's the consumers of supermarket beef, chicken and pork.</p>
+        <p>Susan Goldhor  Cambridge, Mass.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

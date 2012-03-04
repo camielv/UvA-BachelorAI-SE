@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Both Sales And Earnings Rise Sharply At Amazon</title>
+    <meta content="25amazon" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/25/technology/25amazon.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842806"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070425T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980CE3D9143EF936A15757C0A9619C8B63" item-length="598" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Both Sales And Earnings Rise Sharply At Amazon</hl1>
+        <hl2 class="online_headline">Both Sales and Earnings Rise Sharply at Amazon</hl2>
+      </hedline>
+      <byline class="print_byline">By BRAD STONE</byline>
+      <byline class="normalized_byline">Stone, Brad</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The typically slow winter months for traditional retailers did not seem to put a chill on the shopping at Amazon.com.</p>
+        <p>The company, based in Seattle, announced yesterday that its quarterly profit increased 38 percent, to $145 million, compared with $106 million in the period last year. It cited improving margins in its core retail business and increased sales in categories like electronics and soft goods, including jewelry, apparel and shoes.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Quarterly profit increased 38 percent, to $145 million, on improving margins in its core retail business and increased sales.</p>
+      </block>
+      <block class="full_text">
+        <p>The typically slow winter months for traditional retailers did not seem to put a chill on the shopping at Amazon.com.</p>
+        <p>The company, based in Seattle, announced yesterday that its quarterly profit increased 38 percent, to $145 million, compared with $106 million in the period last year. It cited improving margins in its core retail business and increased sales in categories like electronics and soft goods, including jewelry, apparel and shoes.</p>
+        <p>Wall Street reacted positively to the report, which was released after the close of regular trading. Shares of Amazon.com shot up more than 12 percent after hours to over $50. During regular trading, Amazon shares fell to $44.75, down 2 cents, after slowly gaining all week on expectations of a strong quarter.</p>
+        <p>''We're pleased with our overall strong growth and especially with the number of people joining Amazon Prime,'' Amazon's founder and chief executive, Jeff Bezos, said in a written statement, referring to the company's premium shipping program, which offers second-day delivery for $79 a year.</p>
+        <p>Scott Devitt, an analyst at Stifel, Nicolaus &amp; Company, attributed the strong quarter to a greater selection of products outside of Amazon's core media business. ''This is not about adding new customers; it is about increasing purchases from existing customers,'' he said. ''The capacity to find what one is looking for on the site has increased significantly, and that is what is driving growth.''</p>
+        <p>One new category is groceries. Amazon said that subscription growth to its year-old grocery delivery service was strong and that the most popular items were diapers, nutrition bars and coffee.</p>
+        <p>Amazon also reported overall sales of $3.02 billion, compared with $2.28 billion a year ago, beating Wall Street estimates of $2.9 billion. Net income increased 115 percent, to $111 million, in the first quarter, compared with net income of $51 million in the first quarter a year ago.</p>
+        <p>Analysts who cover the company were particularly happy to see a slowdown in the growth of the company's investments in new technologies. Amazon said it spent $186 million on technology and content in the first quarter, up from $146 million a year before, but that is not as big a jump as some analysts anticipated.</p>
+        <p>''Technology and content increased in absolute dollars, but we expect the growth rate in spending to be significantly less than it was in 2006,'' Amazon's chief technology officer, Tom Szkutak, told analysts in a conference call.</p>
+        <p>That spending is partly linked to Amazon's shift toward digitally distributing films and music, instead of selling physical DVDs and CDs. Last fall, Amazon introduced a digital movie store called Amazon Unbox and formed a partnership with the digital video recording pioneer TiVo to deliver movies to TiVo boxes.</p>
+        <p>But it has yet to unveil a long-rumored music service. Reports in the British press this week said that Amazon would start such a competitor to Apple's iTunes next month with music that does not carry antipiracy protection software, which some users find cumbersome. Amazon would not comment.</p>
+        <p>One initiative that has not yet yielded measurable results is Amazon Web Services, in which the company rents out parts of its infrastructure, like its storage computers, to smaller companies that do not want to develop skills that Amazon has honed over the years.</p>
+        <p>Mr. Bezos said it was still too early to judge whether Web Services could generate the same revenue as retail sales. ''The market sizes are potentially very large,'' he said. ''How large it can be over what time frame, we'll have to wait and see. But we are going to keep inventing in that area.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

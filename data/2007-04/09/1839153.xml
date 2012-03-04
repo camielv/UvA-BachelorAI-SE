@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Circuit Breaker</title>
+    <meta content="09mon2" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/09/opinion/09mon2.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1839153"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Labor</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Wages and Salaries</classifier>
+        <classifier class="indexing_service" type="descriptor">Retail Stores and Trade</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Layoffs and Job Reductions</classifier>
+        <org class="indexing_service">Circuit City Group</org>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Shopping</classifier>
+        <classifier class="online_producer" type="descriptor">Retail Stores and Trade</classifier>
+        <classifier class="online_producer" type="general_descriptor">Retail Stores and Trade</classifier>
+        <classifier class="online_producer" type="general_descriptor">Layoffs and Job Reductions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wages and Salaries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+        <org class="online_producer">Circuit City Stores Inc</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070409T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9405EFD7143FF93AA35757C0A9619C8B63" item-length="282" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Circuit Breaker</hl1>
+        <hl2 class="online_headline">Circuit Breaker</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial says Circuit City's cost-cutting decision to fire 3,400 of its better-paid workers to fill positions with cheaper labor may be counterproductive; says lack of experienced help will induce shoppers to turn to Internet shopping instead</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The announcement that Circuit City was laying off some 3,400 of its better-paid workers to fill the same positions with cheaper labor has become the latest chapter in the new rulebook for corporate America. There are significant social questions for policy makers in these new norms, but businesses need to consider whether this is really the answer.</p>
+        <p>As American consumers turn ever more to online shopping, it would seem that customer service provided by knowledgeable salespeople would be the highest priority for face-to-face interactions. The best shopping experience has to be the goal if people are going to keep slogging through the elements and marching through the sliding doors.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The announcement that Circuit City was laying off some 3,400 of its better-paid workers to fill the same positions with cheaper labor has become the latest chapter in the new rulebook for corporate America.</p>
+      </block>
+      <block class="full_text">
+        <p>The announcement that Circuit City was laying off some 3,400 of its better-paid workers to fill the same positions with cheaper labor has become the latest chapter in the new rulebook for corporate America. There are significant social questions for policy makers in these new norms, but businesses need to consider whether this is really the answer.</p>
+        <p>As American consumers turn ever more to online shopping, it would seem that customer service provided by knowledgeable salespeople would be the highest priority for face-to-face interactions. The best shopping experience has to be the goal if people are going to keep slogging through the elements and marching through the sliding doors.</p>
+        <p>Circuit City seems to have missed that point. It also seems to have missed the trend, described by Michael Barbaro in The Times recently, toward so-called experience stores.</p>
+        <p>In experience stores, companies let consumers hang out, relax and use the products -- watch television, play video games, make phone calls -- until they decide they want to own them. The Apple stores, with their free Internet connections on high-powered computers, attract droves. Samsung, Sony, Verizon and more are in on the act.</p>
+        <p>Times are tough for Circuit City. The company went from a $140 million profit in its 2006 fiscal year to a $12 million loss in its recently completed 2007 fiscal year. But it may have to find better ways of cutting costs and finding efficiencies than offering an inferior shopping experience. The more that stores turn to underpaid, and often surly, short-timers, the more appealing the pick-and-click of Internet shopping becomes. Circuit City and its brethren need to ask whether they are trimming the fat or sowing the seeds of their own obsolescence.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

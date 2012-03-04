@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TiVo Plays A Trump Card: Web Smarts</title>
+    <meta content="05pogue" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/05/technology/05pogue.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1838174"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="STATE OF THE ART"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Recordings (Video)</classifier>
+        <classifier class="indexing_service" type="descriptor">Recording Equipment</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">Tivo Inc</org>
+        <person class="indexing_service">Pogue, David</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Innovation</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Operations</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/David Pogue</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recording Equipment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Video)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070405T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CEFDA163FF936A35757C0A9619C8B63" item-length="1418" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TiVo Plays A Trump Card: Web Smarts</hl1>
+        <hl2 class="online_headline">TiVo Plays a Trump Card: Web Smarts</hl2>
+      </hedline>
+      <byline class="print_byline">By DAVID POGUE</byline>
+      <byline class="normalized_byline">Pogue, David</byline>
+      <abstract>
+        <p>David Pogue column on some of new features that have been automatically beamed into existing Series 2 and 3 TiVo boxes to be connected to broadband Internet connection; drawing; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>What is it with the rash of new set-top boxes lately? One recent box brings the best of the Internet to your TV screen, like podcasts, Web videos and Internet radio. Another one is a video recorder that you can operate from anywhere in the world (for example, tell it to record a show), using only your cellphone.</p>
+        <p>There's even a product that displays slide shows and videos that your friends send to it from their computers -- great if they have a new baby and you're a technophobe.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>TiVo has been quietly adding features that take the machine well beyond its original function as a video recorder.</p>
+      </block>
+      <block class="full_text">
+        <p>What is it with the rash of new set-top boxes lately? One recent box brings the best of the Internet to your TV screen, like podcasts, Web videos and Internet radio. Another one is a video recorder that you can operate from anywhere in the world (for example, tell it to record a show), using only your cellphone.</p>
+        <p>There's even a product that displays slide shows and videos that your friends send to it from their computers -- great if they have a new baby and you're a technophobe.</p>
+        <p>O.K., just kidding. There aren't really three set-top boxes like that -- they are, in fact, all one box. And it's not even a new one; it's the TiVo, which has been around for years. But for the last year, TiVo the company has been quietly adding features that take the machine well beyond its original function as a video recorder and turn it into a surprisingly versatile Internet portal.</p>
+        <p>TiVo has become synonymous with the life-changing, time-shifting magic of a digital video recorder. You can pause live TV or rewind it. You can auto-record every episode of a favorite series. You can skip commercials. You can watch a one-hour ''American Idol'' episode in 23 minutes -- by skipping over the recaps, the previews and the chitchat.</p>
+        <p>But the cable TV companies now offer video recorders of their own. The monthly fee is about the same as TiVo's -- around $10 a month. (TiVo, after you buy the unit, costs $8.30 to $17 a month to subscribe to its service, depending on how far in advance you're willing to pay.) Users merely lease the cable company's box, whereas a new TiVo Series 2 costs $100, and the high-definition Series 3 is $800. The TiVo's software is light-years more polished and reliable, but to the masses, a ''free'' box trumps everything.</p>
+        <p>Clearly, TiVo had to do something to differentiate itself. Its master plan: to tap the Internet for material and features.</p>
+        <p>Here's a look at some of the new features that have been automatically beamed into existing Series 2 and 3 TiVo boxes in the last year. Most require the TiVo to be connected to a broadband Internet connection, wirelessly or not.</p>
+        <p>BROADCAST HOME MOVIES -- This feature, only one week old, lets you send home movies and photo slide shows from your computer directly into the ''Now Playing'' lists of TiVo owners who might enjoy them.</p>
+        <p>You upload your raw material at OneTrueMedia.com, where you can add a musical soundtrack, if you like. Then you're given a numeric password, which you supply to any TiVo owner who wants to be able to tune in to your new ''channel.''</p>
+        <p>The rest is automatic. From now on, any new movies that you upload automatically appear in the TiVo owners' Now Playing lists.</p>
+        <p>Grade: A-. It's too bad that you, the uploader, have to pay by the month ($4) or year ($40) for this service; a fee for each movie would make more sense. Even so, this service opens up a magical new conduit to other people's TV sets that's never been available. It would be hard to imagine an easier, faster way to let parents or grandparents watch their distant offspring grow up.</p>
+        <p>CELLPHONE PROGRAMMING -- You can now download a subset of the TiVo's software onto a Verizon cellphone. You can use it to search the TV listings and command your TiVo, back at home, to record any show or series, even if you give it only 15 minutes' notice.</p>
+        <p>Grade: B. Using your cellphone is awfully cool, and this service is great when you hear about something worth watching while you're traveling. But Verizon charges $2 a month for this, whereas you can perform the same stunt (programming the TiVo remotely) free at TiVo.com or tv.yahoo.com/tivo.</p>
+        <p>TIVOCAST -- TiVo can now auto-record Web videos from CNET, The New York Times, Rocketboom, The Onion and other sources just the way it records TV shows, and play them in TV-screen dimensions. (My own weekly videos are among the offerings.)</p>
+        <p>Grade: A. These videos look and sound fantastic on the big screen. And the whole concept makes overwhelming sense; why should all the fun and information of Web videos be confined to a stuttering, low-resolution, three-inch rectangle in your Web browser? More, more!</p>
+        <p>AMAZON MOVIES -- Amazon.com offers movie downloads, either for rental (usually $4) or for purchase (usually $16). Most people who use this service, called Unbox, download the movies to their computers. But now you can request that your Unbox movies arrive directly on the TiVo.</p>
+        <p>Grade: B. The movie selection is small, you don't get the DVD extras, and most of the rental movies erase themselves 24 hours after you start watching them.</p>
+        <p>But the video quality is excellent, and using your Web browser to order a movie is a lot more efficient than, say, clunking through the pay-per-view list on your TV set. As more movies come online, this technology could bring us one step closer to our inevitable ''any movie, any time'' future.</p>
+        <p>WEATHER AND TRAFFIC -- With two clicks of the remote, you can fill your TV screen with the local five-day forecast or the current conditions on your commute (''Lane Closed on I-271 northbound at Exit 23 until 7 p.m.'').</p>
+        <p>Grade: A+. The service is fantastic, full-featured and free (although you have to sign up for a free Yahoo account).</p>
+        <p>MOVIE LISTINGS -- Two clicks bring you a list of movies playing locally, complete with show times and other information; you can even buy tickets right from the TiVo.</p>
+        <p>Grade: A-. You can get similar information from many other sources -- MovieFone, Web sites, the newspaper -- but TiVo's presentation is cleaner, faster and totally unsullied by ads. You're supposed to be able to buy tickets through the TiVo, too, but not all theaters offer this feature.</p>
+        <p>INTERNET RADIO -- TiVo can play any of hundreds of Internet radio stations, neatly organized by type of music (or talk) and ready to play with high fidelity. Your TV screen isn't wasted, either; most stations display performer information and album art.</p>
+        <p>Grade: B. Sometimes the music is strong and clear, and sometimes there are flickering dropouts. A few stations don't play because they're ''sold out,'' whatever that means.</p>
+        <p>PODCASTS -- As simple as can be: use the neatly categorized list (News, Music, Tech, and so on) of the Internet's best podcasts (NPR, CBS News, PBS, Time and so on) or type in the address of your own quirky favorite. Listen while you make breakfast.</p>
+        <p>Grade: A. No ads, no clutter, no effort -- just a direct line to the best audio on the Net, even when your computer is turned off.</p>
+        <p>GURU GUIDE -- At your option, the TiVo can auto-record several hours a week of TV shows recommended by experts like the Parents TV Council, Sports Illustrated, CNET and so on.</p>
+        <p>Grade: C-. The concept is sound, but the reality is baffling. What does the Parents TV Council recommend for your children? Game shows (''Wheel of Fortune,'' ''Deal or No Deal'') and sassy sitcoms (''Kim Possible,'' ''Hannah Montana''). The council evidently objects only to bad language, not bad TV.</p>
+        <p>Meanwhile, CNET's technology recommendations include ''American Idol,'' ''Heroes'' and ''New York Mets @ St. Louis Cardinals'' (huh?).</p>
+        <p>In short, either the gurus or their recommendations need a rethink.</p>
+        <p>MUSIC AND PHOTOS -- The much-hyped Apple TV is a set-top box that brings your computer's music, photos and videos on the TV screen, wirelessly. But the TiVo does exactly the same thing, and it's already hooked up to your TV.</p>
+        <p>Grade: B. Copy-protected music and videos don't play, and the software is bare bones.</p>
+        <p>THE BOTTOM LINE -- This Internet stuff is a lot of icing on an already delicious cake, and more is coming.</p>
+        <p>Not all of it will appeal to the masses or people who just want to watch ''Saturday Night Live'' on Sunday morning. And these enhancements make a TiVo fan's attempts to explain, in a nutshell, what the TiVo is an even more hopeless task.</p>
+        <p>But if TiVo's aim was to differentiate itself, it's been successful. As you've probably noticed, not everything worth watching these days originates on TV. But thanks to these unheralded and unadvertised improvements, the TiVo is the first set-top box to present all the good stuff on a single screen -- the one across from your couch.</p>
+        <p>STATE OF THE ART E-mail: Pogue@nytimes.com</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">E-mail: Pogue@nytimes.com</tagline>
+    </body.end>
+  </body>
+</nitf>

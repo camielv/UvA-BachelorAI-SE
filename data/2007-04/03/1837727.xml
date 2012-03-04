@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Goodby, Silverstein Wins Sprint Account</title>
+    <meta content="03sprint" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/03/business/media/03sprint.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837727"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Telephones and Telecommunications</classifier>
+        <classifier class="indexing_service" type="descriptor">Advertising and Marketing</classifier>
+        <classifier class="indexing_service" type="descriptor">Account Changes</classifier>
+        <org class="indexing_service">Sprint Nextel</org>
+        <org class="indexing_service">Goodby Silverstein &amp; Partners</org>
+        <org class="indexing_service">Tbwa/chiat/day</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+        <org class="online_producer">Sprint Nextel Corp</org>
+        <org class="online_producer">Omnicom Group Incorporated</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070403T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DEFDD1F30F930A35757C0A9619C8B63" item-length="181" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Goodby, Silverstein Wins Sprint Account</hl1>
+        <hl2 class="online_headline">Goodby, Silverstein Wins Sprint Account</hl2>
+      </hedline>
+      <abstract>
+        <p>Sprint Nextel ends three-month review for its creative account by selecting Goodby, Silverstein &amp; Partners; Sprint Nextel spends $1.2 billion to $1.5 billion each year in advertising; TBWA/Chiat/Day created Sprint Nextel ads aimed at consumers; it withdrew from review (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Sprint Nextel  ended a three-month review for its creative account by selecting Goodby, Silverstein &amp; Partners in San Francisco, part of the Omnicom Group, for the assignment.</p>
+        <p>Sprint Nextel spends $1.2 billion to $1.5 billion a year in advertising.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Sprint Nextel selected Goodby, Silverstein &amp; Partners in San Francisco, part of the Omnicom Group, for its creative account.</p>
+      </block>
+      <block class="full_text">
+        <p>Sprint Nextel  ended a three-month review for its creative account by selecting Goodby, Silverstein &amp; Partners in San Francisco, part of the Omnicom Group, for the assignment.</p>
+        <p>Sprint Nextel spends $1.2 billion to $1.5 billion a year in advertising.</p>
+        <p>The decision came Saturday after the review had been narrowed to Goodby, Silverstein and Ogilvy &amp; Mather Worldwide in New York, part of the WPP Group. A third finalist, Y&amp;R Advertising, was eliminated last week.</p>
+        <p>The Sprint Nextel creative account had been shared by two agencies. The goal of the review was to consolidate all creative assignments at a single agency, as Sprint Nextel consolidated its media account in 2006 at the MindShare unit of WPP.</p>
+        <p>The two agencies sharing the creative assignment were TBWA/Chiat/Day in New York, part of the TBWA Worldwide division of Omnicom, and Publicis &amp; Hal Riney, part of the Publicis Groupe.</p>
+        <p>TBWA/Chiat/Day created Sprint Nextel ads aimed at consumers; it withdrew from the review.</p>
+        <p>Riney, which created ads aimed at business customers, decided against taking part in the review; Sprint Nextel described that as a mutual decision.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

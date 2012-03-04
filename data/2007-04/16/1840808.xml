@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CRITICS' CHOICE/NEW CDs; Ms. Mopey, Begone! Power Pop Is Back!</title>
+    <meta content="16choi-1" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20070419T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1840808"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070416T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B05EFDD113FF935A25757C0A9619C8B63" item-length="328" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CRITICS' CHOICE/NEW CDs; Ms. Mopey, Begone! Power Pop Is Back!</hl1>
+      </hedline>
+      <byline class="print_byline">By JON PARELES</byline>
+      <byline class="normalized_byline">Pareles, Jon</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Avril Lavigne  ''The Best Damn Thing''  (RCA)</p>
+        <p>Just about every word and every note on Avril Lavigne's third album, ''The Best Damn Thing,'' is delivered as if it leads to an exclamation point. ''I hate you now! So go away! From me! You're gone!'' she sings in ''I Can Do Better,'' one of the album's many punk-pop kiss-offs.</p>
+      </block>
+      <block class="full_text">
+        <p>Avril Lavigne  ''The Best Damn Thing''  (RCA)</p>
+        <p>Just about every word and every note on Avril Lavigne's third album, ''The Best Damn Thing,'' is delivered as if it leads to an exclamation point. ''I hate you now! So go away! From me! You're gone!'' she sings in ''I Can Do Better,'' one of the album's many punk-pop kiss-offs.</p>
+        <p>Ms. Lavigne learned her commercial lesson. Her 2002 debut album, ''Let Go,'' was full of chirpy, driving songs insisting that a teenage girl (like Ms. Lavigne at the time) deserved attention; it sold 6.6 million copies in the United States. Her second, ''Under My Skin'' in 2004, indulged some angst with mopier songs and sold less than half as well.</p>
+        <p>So while Ms. Lavigne is now 22 and married, ''The Best Damn Thing'' serves up even narrower, high-concept teenage romance than ''Let Go'' did. She relies on the Swedish teen-pop expert Dr. Luke, who collaborated on Kelly Clarkson's ''Since U Been Gone.'' Most of Ms. Lavigne's new songs are up-tempo, with punk power chords atop pep-rally beats and rhymes that are more like cheerleader chants than hip-hop; who knew Toni Basil's ''Mickey'' would spawn a school of pop? Ms. Lavigne and Dr. Luke distill young love into competition with other girls, annoyance at male deficiencies and occasional bliss with someone who's ''hot.''</p>
+        <p>As an album ''The Best Damn Thing'' is too relentless to be heard end to end. Its songs are expected to bring occasional jolts to a playlist. The single ''Girlfriend,'' is the best, using cleverly manipulated echoes and attacks to sound as if Ms. Lavigne were charging in from all directions, and it makes most of the other songs sound redundant, though still perky. She hedges her bets with a few power ballads; her next career move will apparently be along the lines of Shania Twain. But for now she's trying to blast her way back onto a few million high schoolers' iPods.</p>
+        <p>Correction:  April 19, 2007, Thursday  The Critics' Choice column on Monday about new CDs misstated the nationality of Dr. Luke, who produced some of the songs on the Avril Lavigne album ''The Best Damn Thing.'' He is American, not Swedish.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: April 19, 2007, Thursday</p>
+        <p>The Critics' Choice column on Monday about new CDs misstated the nationality of Dr. Luke, who produced some of the songs on the Avril Lavigne album ''The Best Damn Thing.'' He is American, not Swedish.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

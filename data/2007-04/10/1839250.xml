@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Smokers Take More Sick Time Than Nonsmokers, Study Says</title>
+    <meta content="10patt" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/10/health/10patt.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1839250"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="VITAL SIGNS: PATTERNS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="descriptor">Smoking and Tobacco</classifier>
+        <classifier class="online_producer" type="descriptor">Working Hours</classifier>
+        <classifier class="online_producer" type="general_descriptor">Working Hours</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Smoking and Tobacco</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070410T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05EEDE153FF933A25757C0A9619C8B63" item-length="242" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Smokers Take More Sick Time Than Nonsmokers, Study Says</hl1>
+        <hl2 class="online_headline">Patterns: Smokers Take More Sick Time Than Nonsmokers, Study Says</hl2>
+      </hedline>
+      <byline class="print_byline">By Nicholas Bakalar</byline>
+      <byline class="normalized_byline">Bakalar, Nicholas</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A study of Swedish workers has found that smokers take more than a week more annual sick leave than nonsmokers, even after adjusting for smokers' general health and their tendency to take more stressful or physically taxing jobs.</p>
+        <p>Using data on 14,272 workers ages 16 to 65, researchers studied sick leave reports from a nationwide survey conducted from 1988 to 1991. According to background information in the article, smokers are known to choose more dangerous jobs than nonsmokers and are more likely to be involved in risky activities. Those tendencies, the article said, rather than smoking, might contribute to the greater number of sick days among smokers. But even after statistically controlling for these factors, the large difference between smokers and nonsmokers was evident.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Smokers take more than a week more annual sick leave than nonsmokers, a new study suggests.</p>
+      </block>
+      <block class="full_text">
+        <p>A study of Swedish workers has found that smokers take more than a week more annual sick leave than nonsmokers, even after adjusting for smokers' general health and their tendency to take more stressful or physically taxing jobs.</p>
+        <p>Using data on 14,272 workers ages 16 to 65, researchers studied sick leave reports from a nationwide survey conducted from 1988 to 1991. According to background information in the article, smokers are known to choose more dangerous jobs than nonsmokers and are more likely to be involved in risky activities. Those tendencies, the article said, rather than smoking, might contribute to the greater number of sick days among smokers. But even after statistically controlling for these factors, the large difference between smokers and nonsmokers was evident.</p>
+        <p>Compared with people who never smoked, smokers took an average of 7.67 more days of sick leave. After controlling for other factors, former smokers took no more sick days than nonsmokers. The study appears in the April issue of Tobacco Control.</p>
+        <p>Petter Lundborg, the author of the study  and an assistant professor at the Free University of Amsterdam, said there might still be factors affecting smoking and sick leave that were not picked up by the analysis. He said he was not sure why smokers took sick days for reasons other than health. ''It may be,'' Dr. Lundborg said, ''that smokers have attitudes or personalities different from those of nonsmokers that may explain the variation.''</p>
+        <p>VITAL SIGNS: PATTERNS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

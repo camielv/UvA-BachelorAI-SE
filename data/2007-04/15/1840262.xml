@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Water World</title>
+    <meta content="05get.map.t" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="T: Beauty" name="dsk"/>
+    <meta content="34" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1840262"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE GET"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/T: Style Magazine</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9406E3DF153FF936A25757C0A9619C8B63" item-length="97" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Water World</hl1>
+      </hedline>
+      <byline class="print_byline">By MAURA EGAN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Style Map | Baden-Baden: The curative waters of Baden-Baden, Germany, a pristine spa town on the edge of the Black Forest, have lured the royal, rich and rheumatic since the 19th century. The bucolic setting also attracted Russian literary giants like Tolstoy, Turgenev and Dostoyevsky (who frittered away his last rubles at the local casino). Today the Russians still come, as do world leaders (like Bill Clinton and Hosni Mubarak, the president of Egypt) and even Posh Spice, who shvitzed and shopped with fellow football wives during the World Cup last summer.</p>
+        <p>MAURA EGAN</p>
+      </block>
+      <block class="full_text">
+        <p>Style Map | Baden-Baden: The curative waters of Baden-Baden, Germany, a pristine spa town on the edge of the Black Forest, have lured the royal, rich and rheumatic since the 19th century. The bucolic setting also attracted Russian literary giants like Tolstoy, Turgenev and Dostoyevsky (who frittered away his last rubles at the local casino). Today the Russians still come, as do world leaders (like Bill Clinton and Hosni Mubarak, the president of Egypt) and even Posh Spice, who shvitzed and shopped with fellow football wives during the World Cup last summer.</p>
+        <p>MAURA EGAN  THE GET</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

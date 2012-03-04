@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   WEBB, DOROTHY IRENE</title>
+    <meta content="dn041007.1" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1839243"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">WEBB, DOROTHY IRENE</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070410T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9406E5DE123AF933A25757C0A9619C8B63" item-length="92" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   WEBB, DOROTHY IRENE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WEBB--Dorothy Irene. 82. A lifelong resident of Ossining, NY until May 2005, died of natural causes on March 23, 2007 in Palm Springs, CA. Survived by son Jim and his lifepartner, Roy W. Rigsby of Palm Springs, CA; and son Franklin T., his wife Susan and their children Patricia and Catherine as well as several nieces and nephews. Interment in Ossining, NY. Contributions in her memory may be made to the Alzheimers Association, 73-710 Fred Waring Drive, Ste. 208, Palm Desert, CA 92260. For further information contact Jim at Jim@DesertRealEstate4You .com.</p>
+      </block>
+      <block class="full_text">
+        <p>WEBB--Dorothy Irene. 82. A lifelong resident of Ossining, NY until May 2005, died of natural causes on March 23, 2007 in Palm Springs, CA. Survived by son Jim and his lifepartner, Roy W. Rigsby of Palm Springs, CA; and son Franklin T., his wife Susan and their children Patricia and Catherine as well as several nieces and nephews. Interment in Ossining, NY. Contributions in her memory may be made to the Alzheimers Association, 73-710 Fred Waring Drive, Ste. 208, Palm Desert, CA 92260. For further information contact Jim at Jim@DesertRealEstate4You .com.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

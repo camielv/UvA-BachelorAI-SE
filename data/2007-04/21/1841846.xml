@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="21btmcxns-4" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Education; Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1841846"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="indexing_service" type="descriptor">Firearms</classifier>
+        <classifier class="indexing_service" type="descriptor">Gun Control</classifier>
+        <classifier class="indexing_service" type="descriptor">Colleges and Universities</classifier>
+        <location class="indexing_service">Virginia</location>
+        <location class="indexing_service">Blacksburg (Va)</location>
+        <org class="indexing_service">Virginia Polytechnic Institute and State University</org>
+        <person class="indexing_service">Cho, Seung-Hui</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Virginia</classifier>
+        <classifier class="online_producer" type="general_descriptor">Firearms</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gun Control</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070421T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05EED9163EF932A15757C0A9619C8B63" item-length="56" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>April 19 article about questions surrounding adequacy of background checks for gun buyers in wake of massacre at Virginia Polytechnic Institute incorrectly described meaning of Virginia's being 'shall issue' state; term refers to qualifications for obtaining permit to carry concealed weapon</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An article on Thursday about questions surrounding the adequacy of background checks for gun buyers in the wake of the massacre at Virginia Polytechnic Institute incorrectly described the meaning of Virginia's being a ''shall issue'' state. The term refers to the qualifications for obtaining a permit to carry a concealed weapon, not for obtaining a weapon.</p>
+      </block>
+      <block class="full_text">
+        <p>An article on Thursday about questions surrounding the adequacy of background checks for gun buyers in the wake of the massacre at Virginia Polytechnic Institute incorrectly described the meaning of Virginia's being a ''shall issue'' state. The term refers to the qualifications for obtaining a permit to carry a concealed weapon, not for obtaining a weapon.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

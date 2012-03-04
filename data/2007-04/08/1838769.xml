@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Shilpa Patel, Christopher Larson</title>
+    <meta content="08patel" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/08/fashion/weddings/08patel.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1838769"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Patel, Shilpa (Shilpa Larson)</person>
+        <person class="indexing_service">Larson, Christopher Lynn</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070408T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B01EEDB173FF93BA35757C0A9619C8B63" item-length="180" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Shilpa Patel, Christopher Larson</hl1>
+        <hl2 class="online_headline">Shilpa Patel and Christopher Larson</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Shilpa Patel, the daughter of Dr. Shaila Patel and Dr. Sumant Patel of Houston, was married there yesterday to Christopher Lynn Larson, a son of Linda Larson and Robert Larson of Fort Collins, Colo. The Rev. Dr. Helen Appelberg, an Episcopal priest, officiated at a ceremony that incorporated Christian and Hindu traditions at the Hotel Derek.</p>
+        <p>Mrs. Larson, 27, received a law degree in June from Brooklyn Law School and now volunteers at the Cancer Advocacy Project at the City Bar Association, for which she compiled a Medicaid guide. She graduated from Tufts.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The couple were married on Saturday at the Hotel Derek in Houston in a ceremony that incorporated Christian and Hindu traditions.</p>
+      </block>
+      <block class="full_text">
+        <p>Shilpa Patel, the daughter of Dr. Shaila Patel and Dr. Sumant Patel of Houston, was married there yesterday to Christopher Lynn Larson, a son of Linda Larson and Robert Larson of Fort Collins, Colo. The Rev. Dr. Helen Appelberg, an Episcopal priest, officiated at a ceremony that incorporated Christian and Hindu traditions at the Hotel Derek.</p>
+        <p>Mrs. Larson, 27, received a law degree in June from Brooklyn Law School and now volunteers at the Cancer Advocacy Project at the City Bar Association, for which she compiled a Medicaid guide. She graduated from Tufts.</p>
+        <p>The bride's father is a radiologist at Conroe-Tomball Radiologists in Tomball, Tex., and the Woodlands, Tex. Her mother is a pediatrician at Texas Children's Pediatric Associates, a group medical practice in Houston. She is also the president of Daya, a nonprofit organization there that assists South Asian victims of domestic violence.</p>
+        <p>Mr. Larson, 28, is the political director for the 21st Century Freedom PAC, a political action committee established by Gov. George E. Pataki. He graduated from Yale.</p>
+        <p>The bridegroom's father is an optometrist in Fort Collins.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

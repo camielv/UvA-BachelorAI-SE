@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Dangerous Cheerleading</title>
+    <meta content="l07cheerleader" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838477"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Cheerleaders</classifier>
+        <classifier class="indexing_service" type="descriptor">Accidents and Safety</classifier>
+        <person class="indexing_service">Shanahan, Emma</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cheerleaders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070407T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F03E7D7173FF934A35757C0A9619C8B63" item-length="137" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Dangerous Cheerleading</hl1>
+      </hedline>
+      <abstract>
+        <p>Emma Shanahan letter holds that like every dangerous sport, cheerleading needs enforced safety regulations (March 31 article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''As Cheerleaders Soar Higher, So Do the Risks,'' (front page, March 31):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''As Cheerleaders Soar Higher, So Do the Risks,'' (front page, March 31):</p>
+        <p>I wasn't surprised to read about Jessica Smith's breaking her neck. There isn't a squad at my school, but even if there were one, I wouldn't join.</p>
+        <p>One reason is that when people think of cheerleaders, they think miniskirts, blonde hair and jock boyfriends -- and I'm not that kind of girl. The other reason is that it is dangerous.</p>
+        <p>Like every dangerous sport, cheerleading needs enforced safety regulations. Cheerleading has you flying through the air -- and gravity doesn't stop for a cheer.</p>
+        <p>Judges and coaches are putting too much pressure on girls. An 18-year-old girl doesn't deserve to have her life on the line just to impress peers. Get well soon, Jessica.</p>
+        <p>Emma Shanahan  New York, March 31, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

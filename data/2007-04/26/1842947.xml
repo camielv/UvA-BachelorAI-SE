@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Control and Dependence, With Rock 'n' Roll on the Box</title>
+    <meta content="26petr" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/26/arts/dance/26petr.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842947"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="DANCE REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance</classifier>
+        <classifier class="online_producer" type="descriptor">Dancing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dancing</classifier>
+        <org class="online_producer">Petronio, Stephen, Company</org>
+        <person class="online_producer">Wainwright, Rufus</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070426T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950CE2DF153EF935A15757C0A9619C8B63" item-length="466" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Control and Dependence, With Rock 'n' Roll on the Box</hl1>
+        <hl2 class="online_headline">Control and Dependence, With Rock ’n’ Roll on the Box</hl2>
+      </hedline>
+      <byline class="print_byline">By GIA KOURLAS</byline>
+      <byline class="normalized_byline">Kourlas, Gia</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The poster in front of the Joyce Theater, where the Stephen Petronio Company performs this week, reveals much about the choreographer's desire to attract younger audiences: the names of musicians, including Rufus Wainwright and Antony, appear above the dancers'. The list reads like the potential soundtrack of ''Williamsburg: The Movie.''</p>
+        <p>How the impact of such music informs Mr. Petronio's choreography is a different part of the equation, but in a January interview, he said, ''I'd like to think that I will be responsible for making dance much more popular, without it being as stupid as the dance on television.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The poster in front of the Joyce Theater, where the company performs this week, reveals much about the choreographer’s desire to attract younger audiences: the names of musicians appear above the dancers’.</p>
+      </block>
+      <block class="full_text">
+        <p>The poster in front of the Joyce Theater, where the Stephen Petronio Company performs this week, reveals much about the choreographer's desire to attract younger audiences: the names of musicians, including Rufus Wainwright and Antony, appear above the dancers'. The list reads like the potential soundtrack of ''Williamsburg: The Movie.''</p>
+        <p>How the impact of such music informs Mr. Petronio's choreography is a different part of the equation, but in a January interview, he said, ''I'd like to think that I will be responsible for making dance much more popular, without it being as stupid as the dance on television.''</p>
+        <p>In his Joyce program, seen on Tuesday night, Mr. Petronio accomplishes at least that with his powerful new ''Without You II,'' a duet for Elena Demyanenko and Michael Badger, set to Placebo's ''Without You I'm Nothing'' (the Flexirol Mix).</p>
+        <p>Wearing dog tags and vaguely militaristic shorts by H. Petal, Mr. Badger, who begins the dance with a solo, masterfully captures Mr. Petronio's elasticity and darting changes of weight. Ms. Demyanenko joins him in a sexy pas de deux about control and dependence that also suggests political overtones. This could be a dark look at the inner world of a soldier, however fashionably attired.</p>
+        <p>Mr. Petronio appears with three others in the slight, one-note ''Ship Song,'' an excerpt from ''Underland,'' set to a song by Nick Cave. Standing in a row facing the audience, the dancers roll on top of one another as if lying in bed (giving the audience the ''aerial'' view), preening in feigned passion.</p>
+        <p>He fares better in the preview of ''This Is the Story of a Girl in a World,'' featuring songs by Antony, particularly in ''Bird Gurhl,'' a trio for Gino Grenek, Amanda Wells and Shila Tirabassi, whose calm focus is as striking as the full-bodied use of her articulate long limbs and back.</p>
+        <p>The program also features the revival of ''ReBourne,'' set to the Beastie Boys and dedicated to Val Bourne, the founder of Dance Umbrella in London, whom Mr. Petronio hailed in a moving speech from the stage. This intricate 1997 piece is about architecture; two dances, full of whiplash turns and controlled balances, are placed in the same space at the same time. It was competently danced, but its luster wore thin, partly because of the music's relentless structure.</p>
+        <p>Mr. Petronio makes more of an impact in ''Bud Suite,'' to four songs by Mr. Wainwright. Here Mr. Petronio is able to burrow deeper into the music's moody underbelly, perhaps because of Mr. Wainwright's askew phrasing. If the revival of ''ReBourne'' shows anything, it's just how far Mr. Petronio, in his use of popular music, has come.</p>
+        <p>Stephen Petronio Company performs through Sunday at the Joyce Theater, 175 Eighth Avenue, at 19th Street, Chelsea; (212) 242-0800.</p>
+        <p>DANCE REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

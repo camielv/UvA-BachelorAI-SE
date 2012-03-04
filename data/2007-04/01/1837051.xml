@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Egg and I</title>
+    <meta content="04endpage.t" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="T: Design Magazine" name="dsk"/>
+    <meta content="162" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Style; Magazine" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/01/style/tmagazine/04endpage.t.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837051"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Timeless"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/T: Style Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">Chairs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chairs</classifier>
+        <person class="online_producer">Shulman, Julius</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980DE1DA1230F932A35757C0A9619C8B63" item-length="282" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Egg and I</hl1>
+        <hl2 class="online_headline">The Egg and I</hl2>
+      </hedline>
+      <byline class="print_byline">By Julius Shulman</byline>
+      <byline class="normalized_byline">Shulman, Julius</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>My favorite design object would have to be the Egg chair by the Danish architect Arne Jacobsen, who gave me two of them. I went to Denmark in 1959, and before I left, I contacted Jacobsen's office about photographing his work. He took me to see some schools that he had designed, and at one of them, a teacher told her students, ''This is the architect of our school, the famous Arne Jacobsen,'' and the children leapt to their feet to say hello to him. We also went to see a display of 16 Egg chairs that was being installed in the main window of Magasin du Nord, one of the big department stores in Copenhagen. By the next day, the store had sold every one of those chairs. At his office, Jacobsen showed me the model for the chair, which looked like a giant egg from which he had carved the chair's features. I spent a month in Denmark, and when I got back to Los Angeles, a truck arrived with the chairs. They have been in my studio ever since, and I use them abundantly. You can sit in them in so many ways, including sideways; they are so comfortable. The chairs were covered in black leather, but there is a lot of wear and tear with people coming to visit -- everyone loves to sit in them. So we replaced the leather with a green Knoll fabric in the late 1960s. I have a number of other chairs in my studio, including an Eames Lounge Chair, but when I'm being interviewed, I sit in one Egg chair, and the person doing the interview sits in the other.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The photographer Julius Shulman like his chair over easy.</p>
+      </block>
+      <block class="full_text">
+        <p>My favorite design object would have to be the Egg chair by the Danish architect Arne Jacobsen, who gave me two of them. I went to Denmark in 1959, and before I left, I contacted Jacobsen's office about photographing his work. He took me to see some schools that he had designed, and at one of them, a teacher told her students, ''This is the architect of our school, the famous Arne Jacobsen,'' and the children leapt to their feet to say hello to him. We also went to see a display of 16 Egg chairs that was being installed in the main window of Magasin du Nord, one of the big department stores in Copenhagen. By the next day, the store had sold every one of those chairs. At his office, Jacobsen showed me the model for the chair, which looked like a giant egg from which he had carved the chair's features. I spent a month in Denmark, and when I got back to Los Angeles, a truck arrived with the chairs. They have been in my studio ever since, and I use them abundantly. You can sit in them in so many ways, including sideways; they are so comfortable. The chairs were covered in black leather, but there is a lot of wear and tear with people coming to visit -- everyone loves to sit in them. So we replaced the leather with a green Knoll fabric in the late 1960s. I have a number of other chairs in my studio, including an Eames Lounge Chair, but when I'm being interviewed, I sit in one Egg chair, and the person doing the interview sits in the other.  Timeless</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

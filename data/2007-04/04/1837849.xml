@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   OUTCALT, F. JOHN</title>
+    <meta content="dn040407" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837849"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">OUTCALT, F. JOHN</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070404T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B07E0D8153AF937A35757C0A9619C8B63" item-length="74" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   OUTCALT, F. JOHN</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>OUTCALT--F. John, on April 2, 2007. Beloved partner of Andrew Rosenthal, loving son of James Scott and the late Margaret Scott, devoted brother of Michael, Wanda, Bryant and Todd. Friends may call on Thursday, April 5, 2-5 pm and 7-9 pm at Frank E. Campbell, 1076 Madison Ave. at 81st Street. Service Friday, 11:30 am, April 6, at Frank E. Campbell. Contributions in his memory may be made to the Children's Hope Foundation.</p>
+      </block>
+      <block class="full_text">
+        <p>OUTCALT--F. John, on April 2, 2007. Beloved partner of Andrew Rosenthal, loving son of James Scott and the late Margaret Scott, devoted brother of Michael, Wanda, Bryant and Todd. Friends may call on Thursday, April 5, 2-5 pm and 7-9 pm at Frank E. Campbell, 1076 Madison Ave. at 81st Street. Service Friday, 11:30 am, April 6, at Frank E. Campbell. Contributions in his memory may be made to the Children's Hope Foundation.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

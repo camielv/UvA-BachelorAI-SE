@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Intelligence Chief Announces Renewed Plan for Overhaul</title>
+    <meta content="12intel" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/12/washington/12intel.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1839698"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Intelligence Services</classifier>
+        <classifier class="indexing_service" type="descriptor">Immigration and Refugees</classifier>
+        <person class="indexing_service">Mcconnell, Michael (Dir)</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <person class="indexing_service">Mazzetti, Mark</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates</classifier>
+        <classifier class="online_producer" type="general_descriptor">Immigration and Refugees</classifier>
+        <classifier class="online_producer" type="general_descriptor">Intelligence</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+        <person class="online_producer">McConnell, John Michael</person>
+        <person class="online_producer">Negroponte, John D</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070412T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E05E0DA123FF931A25757C0A9619C8B63" item-length="465" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Intelligence Chief Announces Renewed Plan for Overhaul</hl1>
+        <hl2 class="online_headline">Intelligence Chief Announces Renewed Plan for Overhaul</hl2>
+      </hedline>
+      <byline class="print_byline">By MARK MAZZETTI</byline>
+      <byline class="normalized_byline">Mazzetti, Mark</byline>
+      <dateline>WASHINGTON, April 11</dateline>
+      <abstract>
+        <p>Mike McConnell, director of national intelligence, outlines plan to make progress on significant problems still bedeviling American spy agencies nearly two years after much heralded overhaul; plan includes mandating better collaboration among intelligence analysts, recruiting more first- and second-generation immigrants and slashing time it takes candidates to navigate security procedures; McConnell says top priority is assessing powers given to director of national intelligence and determining whether White House needs to clarify position's authority; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The director of national intelligence outlined a plan on Wednesday to make progress on significant problems still bedeviling American spy agencies nearly two years after a much-heralded intelligence overhaul.</p>
+        <p>The plan unveiled by the director, Mike McConnell, and his deputies sets midsummer as the target for completing a number of initiatives, including mandating better collaboration among intelligence analysts, recruiting more first- and second-generation immigrants and slashing the time it takes candidates to navigate security procedures.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The plan unveiled by the director, Mike McConnell, and his deputies sets midsummer as the target for completing a number of initiatives.</p>
+      </block>
+      <block class="full_text">
+        <p>The director of national intelligence outlined a plan on Wednesday to make progress on significant problems still bedeviling American spy agencies nearly two years after a much-heralded intelligence overhaul.</p>
+        <p>The plan unveiled by the director, Mike McConnell, and his deputies sets midsummer as the target for completing a number of initiatives, including mandating better collaboration among intelligence analysts, recruiting more first- and second-generation immigrants and slashing the time it takes candidates to navigate security procedures.</p>
+        <p>Although Mr. McConnell praised the work begun by his predecessor, John D. Negroponte, the ''100-day plan'' he and his colleagues announced Wednesday included many initiatives that have been in the works for some time but that officials said had not progressed as far as they would have liked.</p>
+        <p>Mr. McConnell spoke of a ''sense of urgency'' in carrying out the plan and said that a top priority was to assess the powers given to the director of national intelligence and determine whether the White House needed to clarify the position's authority.</p>
+        <p>''We're going to examine it; we're going to argue about it; we're going to make some proposals,'' he said.</p>
+        <p>Last week, Mr. McConnell expressed frustration that although he ostensibly had control over the United States' 16 intelligence agencies, he had limited hiring and firing power because most intelligence personnel answer to other cabinet members.</p>
+        <p>Another priority is to overhaul the ways analysts share information and draw conclusions from raw intelligence reports. Thomas Fingar, the deputy director of national intelligence for analysis, said he was developing uniform standards for intelligence analysis and common Web sites that would allow analysts to share information and test theories challenging consensus views on topics like Iran and North Korea.</p>
+        <p>Mr. Fingar used as an example eBay, the auction Web site where the reliability of sellers is rated by buyers. He said he hoped the new system would reward analysts whose judgments most often turned out to be correct. Or, he said, ''if you are an idiot, we want that made known.''</p>
+        <p>Intelligence officials are also trying to cut in half the about 120 days it now takes candidates to pass government security clearance procedures.</p>
+        <p>Yet a more significant problem Mr. McConnell and his aides cited is that overly stringent security procedures have been disqualifying too many candidates the intelligence community desperately needs to hire. Intelligence officials have said that many candidates, including some of Middle Eastern heritage who are fluent in Arabic or Persian, are not accepted because they have relatives in places like Tehran and are therefore considered security risks. Mr. McConnell said he hoped to eliminate some of those barriers.</p>
+        <p>Officials also said Wednesday that to foster better collaboration, intelligence officers would be required to serve at least one tour of duty outside their home agency before being promoted.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

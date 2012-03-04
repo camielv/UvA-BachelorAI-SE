@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Fast Cellphones Aim To Unseat Laptops</title>
+    <meta content="16phone" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business Travel" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="H" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/16/business/businessspecial3/16phone.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840806"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="DEVICES"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="descriptor">Travel and Vacations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cellular Telephones</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070416T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE2DD113FF935A25757C0A9619C8B63" item-length="636" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Fast Cellphones Aim To Unseat Laptops</hl1>
+        <hl2 class="online_headline">Fast Cellphones Aim to Unseat Laptops</hl2>
+      </hedline>
+      <byline class="print_byline">By DAVID A. KELLY</byline>
+      <byline class="normalized_byline">Kelly, David</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>EVERYONE knows that cellphones -- bristling with cameras, games and often plodding Internet access -- are not just for talking anymore. But as wireless phone companies accelerate their rollout of third-generation (or 3G) phones and services, the quest to replace a business traveler's laptop with a cellphone or hand-held device is quickly becoming a reality.</p>
+        <p>For the past few years, cellphone manufacturers and providers have been steadily adding 3G phones and services to their offerings. These phones have increased data speeds, enabling users to browse Web pages about 5 to 10 times faster than on second-generation devices, and send or receive data faster than they can using standard mobile phones.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Wireless phone companies are accelerating their rollout of new phones and services.</p>
+      </block>
+      <block class="full_text">
+        <p>EVERYONE knows that cellphones -- bristling with cameras, games and often plodding Internet access -- are not just for talking anymore. But as wireless phone companies accelerate their rollout of third-generation (or 3G) phones and services, the quest to replace a business traveler's laptop with a cellphone or hand-held device is quickly becoming a reality.</p>
+        <p>For the past few years, cellphone manufacturers and providers have been steadily adding 3G phones and services to their offerings. These phones have increased data speeds, enabling users to browse Web pages about 5 to 10 times faster than on second-generation devices, and send or receive data faster than they can using standard mobile phones.</p>
+        <p>For example, Sprint sells the Moto Q online for $99, which can be used with a standard voice plan at $39 a month and an optional unlimited 3G data plan for $39.99 a month. ''You can see and feel the difference,'' said Charles Golvin, a senior analyst at Forrester Research. ''The initial connection to the Internet can take some time, but once you start browsing and downloading data, it's much, much faster.''</p>
+        <p>For frequent business travelers like Michael Chasen, the chief executive of the online educational software provider Blackboard, communicating efficiently on his 3G BlackBerry Pearl phone is essential.</p>
+        <p>''I upgraded to a 3G phone last year,'' said Mr. Chasen, who spends more than half the year traveling, ''and it's made it a lot easier to work in between meetings or on the road.''</p>
+        <p>Currently, 3G download speeds are comparable to the speed of a DSL Internet connection, but should as much as triple as providers roll out faster networks over the next year.</p>
+        <p>''For a business traveler, the most exciting aspect of 3G phones will be available in three to six months, when carriers start opening up the bandwidth,'' said Delly Tamer, the founder and chief executive officer of LetsTalk.com, a San Francisco online wireless retailer. ''Then the networks will be fast enough for business travelers to do demos or access corporate applications and databases.''</p>
+        <p>But 3G is also about providing connectivity for a wider range of hand-held and mobile devices, as well as faster Internet access for laptops. Dell, Hewlett-Packard, Lenovo and Sony have already released notebooks with integrated 3G cards, so that travelers simply need to sign up for a 3G service plan. For example, Cingular's unlimited Data Connect 3G rate plans start at $59.99 a month. Travelers can buy a preconfigured laptop from a company like Hewlett-Packard, or they can add a 3G wireless card to their current laptop.</p>
+        <p>To get the faster speeds, of course, you must be on the faster 3G networks, but as with most technology transitions, 3G networks are not available everywhere. Luckily, 3G phones can automatically use older (and slower) networks as well.</p>
+        <p>International travelers need to be aware of exactly which cellular networks their phones require and whether their provider has any roaming agreements with phone companies in the country you are going to. And those international services are probably slower 2G services and not the faster 3G services.</p>
+        <p>Right now, most United States 3G phones support only domestic 3G services, although many (but not all) also support 2G networks in different countries. In such cases, travelers would still be able to access the Internet, but at a slower speed.</p>
+        <p>Some international 3G phones are starting to show up, however, like the Cingular 8525 ($399 with two-year commitment and rebate), which supports international 3G bands as well as Wi-Fi access.</p>
+        <p>Consumers also need to be aware that different United States phone companies support different standards, so phones from one company will not necessarily work with another network. What is certain is that as 3G services come out and more people take advantage of them, there will be increasingly diverse options for services and phones.</p>
+        <p>DEVICES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

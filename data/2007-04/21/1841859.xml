@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New Jersey: Trenton: Increase In Civil Union Requests</title>
+    <meta content="21mbrfs-8" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/21/nyregion/21mbrfs-couples.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1841859"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="New Jersey"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Legal</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="descriptor">Homosexuality</classifier>
+        <classifier class="online_producer" type="descriptor">Marriages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Homosexuality</classifier>
+        <classifier class="online_producer" type="general_descriptor">Marriages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <location class="online_producer">New Jersey</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070421T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04E6D8163EF932A15757C0A9619C8B63" item-length="132" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New Jersey: Trenton: Increase In Civil Union Requests</hl1>
+        <hl2 class="online_headline">Trenton: Increase in Civil Union Requests</hl2>
+      </hedline>
+      <byline class="print_byline">By KAREEM FAHIM; Compiled by Karin Roberts</byline>
+      <byline class="normalized_byline">Fahim, Kareem</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The number of applications from same-sex couples seeking licenses for civil unions increased in the second month that they were available, the state reported yesterday. According to figures released by the state health department, 373 couples applied in the period from March 20 to April 20, up from 229 in the first month after the civil union law went into effect on Feb. 19. Despite the increase, the number of applicants still lags behind the number of same-sex couples who applied for domestic partnerships in 2004, when that option became available and 1,700 couples signed up in the first month alone. Of the 373 same-sex couples who applied in the last month, 17 said that they had equivalent partnerships in other states or Canada.</p>
+        <p>KAREEM FAHIM</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The number of applications from same-sex couples seeking licenses for civil unions increased in the second month that they were available, the state reported yesterday. According to figures released by the state health department, 373 couples applied in the period from March 20 to April 20, up from 229 in the first month after the civil union law went into effect on Feb. 19. Despite the increase, the number of applicants still lags behind the number of same-sex couples who applied for domestic partnerships in 2004, when that option became available and 1,700 couples signed up in the first month alone. Of the 373 same-sex couples who applied in the last month, 17 said that they had equivalent partnerships in other states or Canada. Compiled by Karin Roberts.</p>
+      </block>
+      <block class="full_text">
+        <p>The number of applications from same-sex couples seeking licenses for civil unions increased in the second month that they were available, the state reported yesterday. According to figures released by the state health department, 373 couples applied in the period from March 20 to April 20, up from 229 in the first month after the civil union law went into effect on Feb. 19. Despite the increase, the number of applicants still lags behind the number of same-sex couples who applied for domestic partnerships in 2004, when that option became available and 1,700 couples signed up in the first month alone. Of the 373 same-sex couples who applied in the last month, 17 said that they had equivalent partnerships in other states or Canada.</p>
+        <p>KAREEM FAHIM</p>
+        <p>New Jersey</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

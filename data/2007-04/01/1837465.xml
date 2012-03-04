@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Deadline Nears for TV Negotiations</title>
+    <meta content="01directv" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/01/sports/baseball/01directv.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837465"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League</classifier>
+        <classifier class="online_producer" type="descriptor">Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+        <org class="online_producer">DirecTV</org>
+        <org class="online_producer">Major League Baseball</org>
+        <org class="online_producer">Dish Network</org>
+        <person class="online_producer">Sandomir, Richard</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E3DC1E30F932A35757C0A9619C8B63" item-length="187" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Deadline Nears for TV Negotiations</hl1>
+        <hl2 class="online_headline">Deadline Nears for TV Negotiations</hl2>
+      </hedline>
+      <byline class="print_byline">By RICHARD SANDOMIR</byline>
+      <byline class="normalized_byline">Sandomir, Richard</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Major League Baseball continued to negotiate yesterday with cable operators and the Dish Network in an effort to persuade them to carry the Extra Innings package of out-of-market games and the fledgling MLB Channel.</p>
+        <p>M.L.B. made a seven-year, $700 million deal with DirecTV last month and gave InDemand, a cable consortium that is composed of Comcast, Time Warner and Cox, as well as Dish, DirecTV's satellite rival, until last night to match DirecTV's contract.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Major League Baseball continued to negotiate Saturday with cable operators and the Dish Network in an effort to persuade them to carry the Extra Innings package of out-of-market games.</p>
+      </block>
+      <block class="full_text">
+        <p>Major League Baseball continued to negotiate yesterday with cable operators and the Dish Network in an effort to persuade them to carry the Extra Innings package of out-of-market games and the fledgling MLB Channel.</p>
+        <p>M.L.B. made a seven-year, $700 million deal with DirecTV last month and gave InDemand, a cable consortium that is composed of Comcast, Time Warner and Cox, as well as Dish, DirecTV's satellite rival, until last night to match DirecTV's contract.</p>
+        <p>Tim Brosnan, M.L.B.'s executive vice president for business, said that the deadline would expire at the end of today.</p>
+        <p>''We continue to talk,'' he said, ''and we wouldn't have extended the deadline if we didn't think we could bring everybody in.''</p>
+        <p>If a deal cannot be reached, DirecTV will carry Extra Innings exclusively. DirecTV has agreed to make the MLB Channel available to 15 million subscribers in 2009; the league and InDemand have differed over the terms of making the network available to its digital cable subscribers.</p>
+        <p>InDemand and Dish would like a stake in the channel; for being the first to agree to carry it, DirecTV owns 20 percent.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

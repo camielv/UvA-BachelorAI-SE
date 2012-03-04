@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Unlikely Friends</title>
+    <meta content="Harleman.t" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/01/books/review/Harleman.t.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837018"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="descriptor">Books and Literature</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+        <object.title class="online_producer">Astrid &amp; Veronika (Book)</object.title>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E03E7DB1530F932A35757C0A9619C8B63" item-length="537" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Unlikely Friends</hl1>
+        <hl2 class="online_headline">Unlikely Friends</hl2>
+      </hedline>
+      <byline class="print_byline">By ANN HARLEMAN</byline>
+      <byline class="normalized_byline">Harleman, Ann</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ASTRID &amp; VERONIKA</p>
+        <p>By Linda Olsson.</p>
+        <p>259 pp. Penguin Books. Paper, $14.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>One of Linda Olsson’s title characters is a friendless recluse; the other wants only to be alone with her work.</p>
+      </block>
+      <block class="full_text">
+        <p>ASTRID &amp; VERONIKA</p>
+        <p>By Linda Olsson.</p>
+        <p>259 pp. Penguin Books. Paper, $14.</p>
+        <p>LINDA OLSSON'S first novel casts the themes of secrecy, passion and loss in the shape of a double helix, intertwining the stories of two women, one young and one nearing the end of life, around the axis of their unlikely friendship. As ''Astrid &amp; Veronika'' opens, a New Zealand writer, Veronika, arrives in a remote Swedish village in flight from a mysterious tragedy. On the surface, she and her new neighbor could hardly be more different: Astrid has spent her whole life in this village, while Veronika has traveled the world; Astrid is a friendless recluse while Veronika wants only to be alone with her work, which has been brought to an unexplained halt. Left hanging is the question of what exactly happened to her back in New Zealand, along with the parallel question of what turned Astrid into ''the village witch.''</p>
+        <p>Linked at first by mere accident -- Veronika falls ill, and Astrid finds her and cares for her -- the two women gradually begin to confide in each other. Unlike the voice of the novel's omniscient narrator, theirs are natural and vivid, utterly convincing. And unlike the novel's flatly depicted present, the physical world of the past, in which their stories take place, generously opens to admit us. Sweden in winter is seen in ''a muted twilight where people walked in ankle-deep snow, lifting their feet like wading birds.'' In contrast, summer nights in London are ''warm, like velvety tepid water.'' Hugged goodbye by an old woman who briefly takes care of her in her childhood, Astrid notices that the ''cold rims of her glasses cut into my cheek.'' The crowded train that carries Veronika back to an unloved lover ''smelled sadly of wet wool and perspiration.''</p>
+        <p>Astrid and Veronika usher us into their inner worlds with the same simplicity and grace. Here is the teenage Astrid with her father at the moment when her life turns: ''My stiff fingers struggled with buttons and clasps, while his eyes remained set on me, unblinking. When I stood before him naked his eyes moved slowly over my body. There was no sound: all was silent in this new world. After an eternity he gestured for me to turn around. I stood with my back to him, my eyes on a partly burnt log in the fireplace in front of me. The only sound was the rhythmic rustling of wool against wool, his arm against his trousers. Time passed. My entire youth passed.''</p>
+        <p>''When I told him,'' Veronika recalls of an equally pivotal moment, announcing to her lover that she's leaving, ''I knew that I would never again want to cause someone such grief. ... He sat absolutely still, his eyes wide open. Only his hands moved, clasping and unclasping.''</p>
+        <p>By the halfway mark, it's the characters' voices that are keeping Olsson's readers going, not her irritating attempt to create suspense. And when the crucial revelations arrive, they're disappointing. Neither Veronika's tragedy nor Astrid's truly illuminates the character of the woman who suffers it. Yet ''Astrid &amp; Veronika'' survives this potential derailment because the braiding together of the two women's voices is simply so beguiling.</p>
+        <p>Ann Harleman's latest book, a collection of stories, ''Thoreau's Laundry,'' will be published in May.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Ann Harleman's latest book, a collection of stories, ''Thoreau's Laundry,'' will be published in May.</tagline>
+    </body.end>
+  </body>
+</nitf>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="22sbizcorrection-2" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Corrections; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1842207"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Executives and Management</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wages and Salaries</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D07E0DA163EF931A15757C0A9619C8B63" item-length="69" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A table on April 8 with a report on executive pay included an incorrect figure from Equilar Inc., an executive compensation research firm, for the value of equity holdings of Glenn A. Britt, chief executive of Time Warner Cable. And a correction in this space last Sunday gave another incorrect figure from the firm for those equity holdings. The value was $10.8 million -- not $25.8 million or $10.5 million.</p>
+      </block>
+      <block class="full_text">
+        <p>A table on April 8 with a report on executive pay included an incorrect figure from Equilar Inc., an executive compensation research firm, for the value of equity holdings of Glenn A. Britt, chief executive of Time Warner Cable. And a correction in this space last Sunday gave another incorrect figure from the firm for those equity holdings. The value was $10.8 million -- not $25.8 million or $10.5 million.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

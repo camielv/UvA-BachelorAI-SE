@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Suzanne Gelderman, Bret Woellner</title>
+    <meta content="15gelderman" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/15/fashion/weddings/15gelderman.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840492"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Gelderman, Suzanne Lenae (Suzanne Lenae Woellner)</person>
+        <person class="indexing_service">Woellner, Bret Philip</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04EFD9133FF936A25757C0A9619C8B63" item-length="248" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Suzanne Gelderman, Bret Woellner</hl1>
+        <hl2 class="online_headline">Suzanne Gelderman, Bret Woellner</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Suzanne Lenae Gelderman, a daughter of Beverly A. Gelderman and Dr. Gregory J. Gelderman of Everett, Wash., was married on Wednesday to Bret Philip Woellner, a son of Jane A. Woellner and G. Philip Woellner of Acworth, Ga. Mayor Mildred T. Trotman of the Borough of Princeton, N.J., officiated in her office.</p>
+        <p>On April 5, the Rev. John R. Kleinheksel, a minister of the Reformed Church in America and a pastoral assistant at the American Church in Paris, performed a ceremony in the garden of the Monet house in Giverny, France.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Suzanne Lenae Gelderman, a daughter of Beverly A. Gelderman and Dr. Gregory J. Gelderman of Everett, Wash., was married on Wednesday to Bret Philip Woellner, a son of Jane A. Woellner and G. Philip Woellner of Acworth, Ga. Mayor Mildred T. Trotman of the Borough of Princeton, N.J., officiated in her office.</p>
+      </block>
+      <block class="full_text">
+        <p>Suzanne Lenae Gelderman, a daughter of Beverly A. Gelderman and Dr. Gregory J. Gelderman of Everett, Wash., was married on Wednesday to Bret Philip Woellner, a son of Jane A. Woellner and G. Philip Woellner of Acworth, Ga. Mayor Mildred T. Trotman of the Borough of Princeton, N.J., officiated in her office.</p>
+        <p>On April 5, the Rev. John R. Kleinheksel, a minister of the Reformed Church in America and a pastoral assistant at the American Church in Paris, performed a ceremony in the garden of the Monet house in Giverny, France.</p>
+        <p>Mrs. Woellner, 27, is a candidate for a master's in public affairs and urban and regional planning at Princeton. She graduated from the University of Washington with bachelor's degrees in business information systems and international studies.</p>
+        <p>Her father is the principal of Heatherwood Middle School in Mill Creek, Wash. Her mother retired as a fourth-grade teacher at Jefferson Elementary School in Everett.</p>
+        <p>Mr. Woellner, 26, is studying for a master's in international affairs at Columbia. He graduated from Georgetown and next month is to be commissioned as a second lieutenant in the Army and will serve in Germany as an infantry officer.</p>
+        <p>His mother is the lead guidance counselor at Paulding County High School in Dallas, Ga. His father is a consultant on psychiatric services and hospital administration at Horizon Health, a health-care system in Lewisville, Tex.</p>
+        <p>The bride and bridegroom met in 2002, while serving in the Peace Corps and teaching economics at universities in Ukraine.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Glenn Galang, John Marples</title>
+    <meta content="29galang" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/29/fashion/weddings/29galang.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1843749"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Galang, Glenn Gallega</person>
+        <person class="indexing_service">Marples, John Glennon</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04EEDD123EF93AA15757C0A9619C8B63" item-length="116" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Glenn Galang, John Marples</hl1>
+        <hl2 class="online_headline">Glenn Galang and John Marples</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Glenn Gallega Galang and John Glennon Marples affirmed their partnership last evening in a commitment ceremony led by Courtney Prentis, a Presbyterian deacon, at Terra, a gallery in San Francisco.</p>
+        <p>Mr. Galang (above, left), 36, works in Columbus, Ohio, as a software consultant at CedarCrestone, a firm affiliated with Oracle. He graduated from California Polytechnic State University in San Luis Obispo.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Glenn Gallega Galang and John Glennon Marples affirmed their partnership Saturday evening in a commitment ceremony led by Courtney Prentis at Terra, a gallery in San Francisco.</p>
+      </block>
+      <block class="full_text">
+        <p>Glenn Gallega Galang and John Glennon Marples affirmed their partnership last evening in a commitment ceremony led by Courtney Prentis, a Presbyterian deacon, at Terra, a gallery in San Francisco.</p>
+        <p>Mr. Galang (above, left), 36, works in Columbus, Ohio, as a software consultant at CedarCrestone, a firm affiliated with Oracle. He graduated from California Polytechnic State University in San Luis Obispo.</p>
+        <p>He is the son of Rosita and Ernesto Galang of South San Francisco.</p>
+        <p>Mr. Marples, 29, teaches first grade at Don Callejon School in Santa Clara, Calif. He graduated from Haverford College and received a master's in curriculum and teacher education from Stanford.</p>
+        <p>He is a son of Sally and Lynn Marples of Duxbury, Mass.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

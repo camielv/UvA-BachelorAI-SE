@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   RODAL, ALEXANDER</title>
+    <meta content="dn040807.3" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="30" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838617"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">RODAL, ALEXANDER</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070408T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A02EFD6153AF93BA35757C0A9619C8B63" item-length="61" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   RODAL, ALEXANDER</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>RODAL--Alexander. 91 years old, died peacefully on March 28, 2007. Husband for 50 years of the late Mina. Father of Gail Stadler (Jeff), Dr. Stewart (Eva). Grandfather of Joshua, David (Jill), Alison, and Carolyn. Beloved uncle of Steve and Orna, friend of Esther. Holocaust survivor. For 60 years a well lived life. He will be missed. Services were held privately.</p>
+      </block>
+      <block class="full_text">
+        <p>RODAL--Alexander. 91 years old, died peacefully on March 28, 2007. Husband for 50 years of the late Mina. Father of Gail Stadler (Jeff), Dr. Stewart (Eva). Grandfather of Joshua, David (Jill), Alison, and Carolyn. Beloved uncle of Steve and Orna, friend of Esther. Holocaust survivor. For 60 years a well lived life. He will be missed. Services were held privately.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

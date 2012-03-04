@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Fragile Stuff of Fantasy, Made for the Masses</title>
+    <meta content="26BOOK" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Home and Garden; Style; Books" name="online_sections"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20070503T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1842933"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CURRENTS: BOOKS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Design</classifier>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <person class="indexing_service">Boontje, Tord</person>
+        <person class="indexing_service">Margetts, Martina</person>
+        <person class="indexing_service">Green, Penelope</person>
+        <object.title class="indexing_service">Tord Boontje (Book)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070426T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B07E4DF153EF935A15757C0A9619C8B63" item-length="156" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Fragile Stuff of Fantasy, Made for the Masses</hl1>
+      </hedline>
+      <byline class="print_byline">By PENELOPE GREEN</byline>
+      <byline class="normalized_byline">Green, Penelope</byline>
+      <abstract>
+        <p>Dutch designer Tord Boontje is subject of monograph by Martina Margetts; photos (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>''Tord Boontje,'' by Martina Margetts, editor of Crafts magazine in London, is Rizzoli's blowout monograph of the Dutch designer's work ($75). Some pages are die-cut in a Boontje design, like a wood-cut from a Grimm's fairy tale, making the book itself a beautiful object, much like ''Until Dawn,'' left, Mr. Boontje's lacy curtain panel made from Tyvek, the polyethylene paper used in house framing ($96 at unicahome.com). Mr. Boontje, who brought an artisanal sensibility into contemporary product design, may be the closest thing industrial design has to a celebrity -- he's at the Tate and, since late last year, at Target. It's not hard to see why: using synthetic materials, he makes heartbreakingly delicate objects that look handcrafted but come off a production line. ''A complex evocation of delicate fantasy, fairy tale and myth imagery drives everything he does,'' said Franklin Getchell, the president of the design store Moss. ''It's impossible to resist.''</p>
+        <p>PENELOPE GREEN</p>
+      </block>
+      <block class="full_text">
+        <p>''Tord Boontje,'' by Martina Margetts, editor of Crafts magazine in London, is Rizzoli's blowout monograph of the Dutch designer's work ($75). Some pages are die-cut in a Boontje design, like a wood-cut from a Grimm's fairy tale, making the book itself a beautiful object, much like ''Until Dawn,'' left, Mr. Boontje's lacy curtain panel made from Tyvek, the polyethylene paper used in house framing ($96 at unicahome.com). Mr. Boontje, who brought an artisanal sensibility into contemporary product design, may be the closest thing industrial design has to a celebrity -- he's at the Tate and, since late last year, at Target. It's not hard to see why: using synthetic materials, he makes heartbreakingly delicate objects that look handcrafted but come off a production line. ''A complex evocation of delicate fantasy, fairy tale and myth imagery drives everything he does,'' said Franklin Getchell, the president of the design store Moss. ''It's impossible to resist.''</p>
+        <p>PENELOPE GREEN  CURRENTS: BOOKS</p>
+        <p>Correction:  May 3, 2007, Thursday  A report in the Currents column last Thursday about the Dutch designer Tord Boontje misidentified the work shown in an accompanying photograph. It was the 7-by-11-inch brass-plated steel panel called ''Ivy 1,'' which sells for $59, not a curtain made of Tyvek called ''Until Dawn.''</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: May 3, 2007, Thursday</p>
+        <p>A report in the Currents column last Thursday about the Dutch designer Tord Boontje misidentified the work shown in an accompanying photograph. It was the 7-by-11-inch brass-plated steel panel called ''Ivy 1,'' which sells for $59, not a curtain made of Tyvek called ''Until Dawn.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

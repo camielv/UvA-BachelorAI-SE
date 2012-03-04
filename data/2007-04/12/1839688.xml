@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>If Only You Had an Extra Arm To Take That Photograph</title>
+    <meta content="12quikpod" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/12/technology/12quikpod.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1839688"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CIRCUITS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="descriptor">Cameras</classifier>
+        <classifier class="online_producer" type="general_descriptor">Photography</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cameras</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070412T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D00E3DA123FF931A25757C0A9619C8B63" item-length="207" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>If Only You Had an Extra Arm To Take That Photograph</hl1>
+        <hl2 class="online_headline">If Only You Had an Extra Arm to Take That Photograph</hl2>
+      </hedline>
+      <byline class="print_byline">By IVAN BERGER</byline>
+      <byline class="normalized_byline">Berger, Ivan</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>If you are vacationing by yourself or with just one other person, you may not always have a kind stranger handy to take your photo -- or you may not trust a stranger to return your camera. With an autofocus camera, you can shoot yourself at arm's length. But that close, a camera often exaggerates noses and leaves out most of the background.</p>
+        <p>Good arm's-length picture-taking requires longer arms -- or a Quik Pod. A telescoping wand with a camera mount at one end, the Quik Pod adds about 18 inches to your reach and carries a diminutive curved mirror showing you roughly what the camera will see.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Quik Pod adds about 18 inches to your reach and carries a diminutive curved mirror showing you roughly what the camera will see.</p>
+      </block>
+      <block class="full_text">
+        <p>If you are vacationing by yourself or with just one other person, you may not always have a kind stranger handy to take your photo -- or you may not trust a stranger to return your camera. With an autofocus camera, you can shoot yourself at arm's length. But that close, a camera often exaggerates noses and leaves out most of the background.</p>
+        <p>Good arm's-length picture-taking requires longer arms -- or a Quik Pod. A telescoping wand with a camera mount at one end, the Quik Pod adds about 18 inches to your reach and carries a diminutive curved mirror showing you roughly what the camera will see.</p>
+        <p>The Quik Pod Pro ($24.95) weighs less than a quarter-pound, collapses to a pocket-size 71/2 inches and comes with pocket and belt-loop clips and a carrying bag. The Quik Pod Pro Plus ($29.95) adds legs that turn it into a small tabletop tripod. Both are available from www.quikpod.com and many camera dealers.</p>
+        <p>The Quik Pod can also be used for shooting over the heads of crowds or shooting in awkward places, like under a car. Its light construction limits it to cameras or camcorders weighing a pound or less, the kind most people take on vacation.</p>
+        <p>IVAN BERGER</p>
+        <p>CIRCUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

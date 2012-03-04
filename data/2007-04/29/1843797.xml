@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Past the Bleachers</title>
+    <meta content="29rest" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="14" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/29/dining/29rest.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1843797"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="GOOD EATING/SOUTH BRONX"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Restaurants</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <location class="indexing_service">Bronx (NYC)</location>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Restaurant Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Columns/Good Eating</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE3DA123EF93AA15757C0A9619C8B63" item-length="451" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Past the Bleachers</hl1>
+        <hl2 class="online_headline">Past the Bleachers</hl2>
+      </hedline>
+      <byline class="print_byline">Compiled by Kris Ensminger</byline>
+      <abstract>
+        <p>Excerpts from previously published reviews of restaurants in South Bronx (Good Eating column) (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Stadium fare is hardly the only option when the Yankees are in town. These restaurants, all in the South Bronx, offer a competitive combination of great food and reasonable prices.</p>
+        <p>BRUCKNER BAR AND GRILL  (718) 665-2001; 1 Bruckner Boulevard (Third Avenue), Mott Haven; $; Article: 5/18/05.  The Bruckner fits right into its artists' neighborhood, near the Third Avenue Bridge; it looks like a SoHo restaurant, circa 1978. Menu highlights include excellent guacamole, good burgers oozing juice into toasted English muffins, elaborate salads and six beers on tap.</p>
+        <p>FEEDING TREE  (718) 293-5025; 892 Gerard Avenue (East 161st Street), Yankee Stadium; $; $25 and Under: 8/23/00.  This casual Jamaican spot, one and a half blocks northeast of the stadium, makes some of the best beef patties in the city: spicy, with a rich orange-yellow crust that falls apart into delicious flakes when you bite.</p>
+        <p>Feeding Tree's jerk chicken is excellent, subtly spiced with thyme, allspice and chilies, but the best dish on the menu may be the magnificently mellow curried goat, tender chunks of meat in a mild green sauce. If you've never had goat, this is the one to try.</p>
+        <p>MO GRIDDER'S BBQ  (718) 991-3046; 565 Hunts Point Avenue (Randall Avenue), Hunts Point; $; $25 and Under: 1/24/07.  For pork ribs cut in the St. Louis style, dusted with spice rub and grill-crisped with a touch of sweet, dark sauce, head to Mo Gridder's BBQ, where the dining room doubles as the office for an auto body shop that looks like the place where cars go to die.</p>
+        <p>The pit is outdoors, tacked to the back end of a competition-ready barbecue trailer. With a side of sweet barbecued beans and coleslaw that could double as mayonnaise soup, those ribs make for a mighty fine lunch.</p>
+        <p>PRESS CAFÉ  (718) 401-0545; 114 East 157th Street (Gerard Avenue), Yankee Stadium; $; Article: 5/18/05.  Matt Lewis opens his Press Café, across from the ballpark, 81 times a year, during Yankee home games. (Until further notice, he opens for the playoffs, too.) With its dark wood bar, tile floor and hanging lamps, the place is by far the most elegant in the stadium area.</p>
+        <p>The ''press'' refers to panini, which are Italian pressed sandwiches, the house specialty. The kitchen turns out a wide variety, and some appetizing salads.</p>
+        <p>REAL AZTECA  (718) 860-1566; 1013 East 163rd Street (Southern Boulevard), Hunts Point; $; Article: 5/18/05.  This taqueria makes gorgeously overstuffed tortas, sandwiches of carnitas (roast pork) or cecina (dried beef) with diced tomatoes, lettuce, avocado, queso fresco and pickled jalapeños, all pressed into a softball-size foil package. The tacos are some of the best in the city.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Stadium fare is hardly the only option when the Yankees are in town. The South Bronx’s eateries offer a competitive combination of great food and reasonable prices.</p>
+      </block>
+      <block class="full_text">
+        <p>Stadium fare is hardly the only option when the Yankees are in town. These restaurants, all in the South Bronx, offer a competitive combination of great food and reasonable prices.</p>
+        <p>BRUCKNER BAR AND GRILL  (718) 665-2001; 1 Bruckner Boulevard (Third Avenue), Mott Haven; $; Article: 5/18/05.  The Bruckner fits right into its artists' neighborhood, near the Third Avenue Bridge; it looks like a SoHo restaurant, circa 1978. Menu highlights include excellent guacamole, good burgers oozing juice into toasted English muffins, elaborate salads and six beers on tap.</p>
+        <p>FEEDING TREE  (718) 293-5025; 892 Gerard Avenue (East 161st Street), Yankee Stadium; $; $25 and Under: 8/23/00.  This casual Jamaican spot, one and a half blocks northeast of the stadium, makes some of the best beef patties in the city: spicy, with a rich orange-yellow crust that falls apart into delicious flakes when you bite.</p>
+        <p>Feeding Tree's jerk chicken is excellent, subtly spiced with thyme, allspice and chilies, but the best dish on the menu may be the magnificently mellow curried goat, tender chunks of meat in a mild green sauce. If you've never had goat, this is the one to try.</p>
+        <p>MO GRIDDER'S BBQ  (718) 991-3046; 565 Hunts Point Avenue (Randall Avenue), Hunts Point; $; $25 and Under: 1/24/07.  For pork ribs cut in the St. Louis style, dusted with spice rub and grill-crisped with a touch of sweet, dark sauce, head to Mo Gridder's BBQ, where the dining room doubles as the office for an auto body shop that looks like the place where cars go to die.</p>
+        <p>The pit is outdoors, tacked to the back end of a competition-ready barbecue trailer. With a side of sweet barbecued beans and coleslaw that could double as mayonnaise soup, those ribs make for a mighty fine lunch.</p>
+        <p>PRESS CAFÉ  (718) 401-0545; 114 East 157th Street (Gerard Avenue), Yankee Stadium; $; Article: 5/18/05.  Matt Lewis opens his Press Café, across from the ballpark, 81 times a year, during Yankee home games. (Until further notice, he opens for the playoffs, too.) With its dark wood bar, tile floor and hanging lamps, the place is by far the most elegant in the stadium area.</p>
+        <p>The ''press'' refers to panini, which are Italian pressed sandwiches, the house specialty. The kitchen turns out a wide variety, and some appetizing salads.</p>
+        <p>REAL AZTECA  (718) 860-1566; 1013 East 163rd Street (Southern Boulevard), Hunts Point; $; Article: 5/18/05.  This taqueria makes gorgeously overstuffed tortas, sandwiches of carnitas (roast pork) or cecina (dried beef) with diced tomatoes, lettuce, avocado, queso fresco and pickled jalapeños, all pressed into a softball-size foil package. The tacos are some of the best in the city.</p>
+        <p>GOOD EATING/SOUTH BRONX</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

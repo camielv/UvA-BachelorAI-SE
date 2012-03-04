@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Mourning With the Hokies</title>
+    <meta content="29fifth-3" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Education; Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1843969"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="FIFTH DOWN"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Suicides and Suicide Attempts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suicides and Suicide Attempts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Draft and Recruitment (Sports)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9501E1DD133EF93AA15757C0A9619C8B63" item-length="56" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Mourning With the Hokies</hl1>
+      </hedline>
+      <byline class="print_byline">By JUDY BATTISTA</byline>
+      <byline class="normalized_byline">Battista, Judy</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The N.F.L. paid tribute to the victims of the Virginia Tech massacre by inviting Hokies Coach Frank Beamer and the former Virginia Tech players Bruce Smith, Michael Vick and DeANGELO HALL to the draft. All N.F.L. employees wore Virginia Tech pins and Smith announced Buffalo's first-round pick, running back Marshawn Lynch.</p>
+        <p>JUDY BATTISTA</p>
+      </block>
+      <block class="full_text">
+        <p>The N.F.L. paid tribute to the victims of the Virginia Tech massacre by inviting Hokies Coach Frank Beamer and the former Virginia Tech players Bruce Smith, Michael Vick and DeANGELO HALL to the draft. All N.F.L. employees wore Virginia Tech pins and Smith announced Buffalo's first-round pick, running back Marshawn Lynch.</p>
+        <p>JUDY BATTISTA</p>
+        <p>FIFTH DOWN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Strained Right Calf Could Put Damon on the D.L.</title>
+    <meta content="06pins" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/06/sports/baseball/06pins.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1838417"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Yankees Notebook"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Yankees</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="descriptor">Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+        <org class="online_producer">New York Yankees</org>
+        <person class="online_producer">Damon, Johnny</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070406T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9905E2DB173FF935A35757C0A9619C8B63" item-length="361" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Strained Right Calf Could Put Damon on the D.L.</hl1>
+        <hl2 class="online_headline">Strained Right Calf Could Put Damon on the D.L.</hl2>
+      </hedline>
+      <byline class="print_byline">By TYLER KEPNER; Michael S. Schmidt contributed reporting.</byline>
+      <byline class="normalized_byline">Kepner, Tyler</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Johnny Damon has played 1,705 games in the major leagues and has never been on the disabled list. That will change if his strained right calf becomes worse.</p>
+        <p>Damon had a magnetic resonance imaging examination yesterday that revealed a mild strain of the calf. He was not available for last night's game against the Tampa Bay Devil Rays.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Johnny Damon, who has played 1,705 games in the major leagues and has never been on the disabled list, had an M.R.I. Thursday that revealed a mild strain of the calf.</p>
+      </block>
+      <block class="full_text">
+        <p>Johnny Damon has played 1,705 games in the major leagues and has never been on the disabled list. That will change if his strained right calf becomes worse.</p>
+        <p>Damon had a magnetic resonance imaging examination yesterday that revealed a mild strain of the calf. He was not available for last night's game against the Tampa Bay Devil Rays.</p>
+        <p>After the game, Damon said he would test his calf tomorrow, and if he couldn't play, he would likely go on the disabled list.</p>
+        <p>Damon said that inflammation in the calf was causing him discomfort. ''If I can't go out there and help the team, the team needs to think about someone else that can help out more than I can,'' Damon said.</p>
+        <p>Damon left the opener Monday after five innings, and he said that the condition worsened when he stretched the calf Tuesday, a day off.</p>
+        <p>On Wednesday, he said, he felt much worse and could barely walk. Yesterday brought some improvement.</p>
+        <p>''It is a little better,'' Damon said. ''It takes me a little while to get it loose. When I get out of bed, my leg doesn't straighten out like it should. It is better today, though. I am able to move around a little better.''</p>
+        <p>In Damon's absence, Torre started Melky Cabrera in center field and batted him ninth, with Robinson Canó leading off. Torre said that Canó was swinging the bat better than Cabrera.</p>
+        <p>''Melky at the top seems appropriate,'' Torre said. ''He will be at the top, batting ninth; he just misses one at-bat. Getting an extra at-bat for Robby, we thought, was worthwhile.''</p>
+        <p>''Once Melky starts swinging the bat where he gets more comfortable, he seems like the logical guy to be up there,'' Torre said.</p>
+        <p>Torre said that he did not doubt Cabrera's ability to play center field regularly. Cabrera played poorly in center in a brief trial in July 2005.</p>
+        <p>If the Yankees put Damon on the disabled list, they would probably look to the Class AAA outfielders Kevin Thompson or Kevin Reese. General Manager Brian Cashman said Wednesday that Bernie Williams would not be a possibility.</p>
+        <p>Yankees Notebook</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

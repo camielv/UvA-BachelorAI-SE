@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Inspector Lists Computers With Atomic Secrets as Missing</title>
+    <meta content="01missing" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/01/washington/01missing.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837381"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Atomic Weapons</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Classification of Information</classifier>
+        <org class="indexing_service">Energy Department</org>
+        <org class="indexing_service">National Nuclear Security Administration</org>
+        <person class="indexing_service">Wald, Matthew L</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Atomic Weapons</classifier>
+        <classifier class="online_producer" type="descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="descriptor">Espionage</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Classification of Information</classifier>
+        <classifier class="online_producer" type="general_descriptor">Espionage</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Atomic Weapons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+        <org class="online_producer">Energy Department</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05E5DE1E30F932A35757C0A9619C8B63" item-length="341" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Inspector Lists Computers With Atomic Secrets as Missing</hl1>
+        <hl2 class="online_headline">Inspector Lists Computers With Atomic Secrets as Missing</hl2>
+      </hedline>
+      <byline class="print_byline">By MATTHEW L. WALD</byline>
+      <byline class="normalized_byline">Wald, Matthew L</byline>
+      <dateline>WASHINGTON, March 30</dateline>
+      <abstract>
+        <p>Energy Dept inspector general says National Nuclear Security Administration is missing 20 desktop computers, at least 14 of which have been used for classified information; report marks 13th time in little over four years that audit has found department has lost control over computers used in working on bombs (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The office in charge of protecting American technical secrets about nuclear weapons from foreign spies is missing 20 desktop computers, at least 14 of which have been used for classified information, the Energy Department inspector general reported on Friday.</p>
+        <p>This is the 13th time in a little over four years that an audit has found that the department, whose national laboratories and factories do most of the work in designing and building nuclear warheads, has lost control over computers used in working on the bombs.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Twenty computers are missing from the National Nuclear Security Agency, the Energy Department inspector general reported.</p>
+      </block>
+      <block class="full_text">
+        <p>The office in charge of protecting American technical secrets about nuclear weapons from foreign spies is missing 20 desktop computers, at least 14 of which have been used for classified information, the Energy Department inspector general reported on Friday.</p>
+        <p>This is the 13th time in a little over four years that an audit has found that the department, whose national laboratories and factories do most of the work in designing and building nuclear warheads, has lost control over computers used in working on the bombs.</p>
+        <p>Aside from the computers it cannot find, the department is also using computers not listed in its inventory, and one computer listed as destroyed was in fact being used, the audit said.</p>
+        <p>''Problems with the control and accountability of desktop and laptop computers have plagued the department for a number of years,'' the report said.</p>
+        <p>In January, Linton F. Brooks was fired as the administrator of the National Nuclear Security Agency, the Energy Department agency in charge of bombs, because of security problems. The agency was created in the 1990s because of security scandals.</p>
+        <p>When the most recent audit began, the Counterintelligence Directorate was unable to find 141 desktop computers. In some cases, documents were found indicating that the computers had been taken out of service.</p>
+        <p>Previous incidents of wayward computers have also involved nuclear weapons information. But the office involved in this breach has a special responsibility, tracking and countering efforts to steal bomb information. Its computers would have material on what the department knew about foreign operatives and efforts to steal sensitive information.</p>
+        <p>The report includes a response from the security agency that generally agrees with the findings. But the inspector general, Gregory H. Friedman, noted in his report that ''the comments did not include planned corrective actions with target completion dates.''</p>
+        <p>A spokesman for the department, Craig Stevens, said Energy Secretary Samuel W. Bodman ''recognizes that we need to manage this place better.''</p>
+        <p>The counterintelligence office was recently merged with the intelligence office to improve operations, Mr. Stevens said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

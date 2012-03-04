@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>World Briefing | United Nations: New U.S. Ambassador Starts Job</title>
+    <meta content="24briefs-4" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="World; Washington" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1842673"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">United States Foreign Service</classifier>
+        <classifier class="indexing_service" type="descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="indexing_service" type="descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="indexing_service" type="descriptor">United States International Relations</classifier>
+        <org class="indexing_service">United Nations</org>
+        <person class="indexing_service">Hoge, Warren</person>
+        <person class="indexing_service">Khalilzad, Zalmay (Amb)</person>
+        <person class="indexing_service">Bolton, John R (Amb)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Foreign Service</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Foreign Service</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070424T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9407EEDD143EF937A15757C0A9619C8B63" item-length="153" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>World Briefing | United Nations: New U.S. Ambassador Starts Job</hl1>
+      </hedline>
+      <byline class="print_byline">By WARREN HOGE</byline>
+      <byline class="normalized_byline">Hoge, Warren</byline>
+      <abstract>
+        <p>Zalmay Khalilzad begins first day as new American permanent representative to United Nations; he replaces John R Bolton; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It was Zalmay Khalilzad's first day on the job as the American permanent representative to the United Nations. Mr. Khalilzad, the former ambassador to Iraq who replaced John R. Bolton after he resigned the United Nations post in December when he failed to obtain Senate confirmation, will travel immediately, joining a Security Council mission departing New York today for Serbia and Kosovo. The United States supports a United Nations plan for granting near-independence to Kosovo, but Russia, a veto-bearing member of the Council, is seeking to renegotiate it and called for the trip so ambassadors could see conditions on the ground. Mr. Khalilzad will become head of the Council for May, when the United States occupies the rotating presidency of the 15-member body. Richard A. Grenell, the spokesman for the American mission, quoted Mr. Khalilzad as saying his priorities would be Iran, Iraq, Lebanon, Sudan and United Nations reform.</p>
+        <p>WARREN HOGE</p>
+      </block>
+      <block class="full_text">
+        <p>It was Zalmay Khalilzad's first day on the job as the American permanent representative to the United Nations. Mr. Khalilzad, the former ambassador to Iraq who replaced John R. Bolton after he resigned the United Nations post in December when he failed to obtain Senate confirmation, will travel immediately, joining a Security Council mission departing New York today for Serbia and Kosovo. The United States supports a United Nations plan for granting near-independence to Kosovo, but Russia, a veto-bearing member of the Council, is seeking to renegotiate it and called for the trip so ambassadors could see conditions on the ground. Mr. Khalilzad will become head of the Council for May, when the United States occupies the rotating presidency of the 15-member body. Richard A. Grenell, the spokesman for the American mission, quoted Mr. Khalilzad as saying his priorities would be Iran, Iraq, Lebanon, Sudan and United Nations reform.</p>
+        <p>WARREN HOGE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

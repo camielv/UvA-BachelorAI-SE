@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Robot in Your Pool Doesn't Need Sunscreen</title>
+    <meta content="26robot" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/26/technology/26robot.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842967"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CIRCUITS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Robots</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Swimming</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070426T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07E5DE153EF935A15757C0A9619C8B63" item-length="183" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Robot in Your Pool Doesn't Need Sunscreen</hl1>
+        <hl2 class="online_headline">The Robot in Your Pool Doesn’t Need Sunscreen</hl2>
+      </hedline>
+      <byline class="print_byline">By JOHN BIGGS</byline>
+      <byline class="normalized_byline">Biggs, John</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Hot dogs? Check. Sun hat? Check. Robotic pool cleaner with built-in filter that takes about 90 minutes to pick up leaves, hair and sand? Check.</p>
+        <p>IRobot, maker of the Roomba self-guided vacuum cleaner, has introduced two models of Verro pool-cleaning machines that swim around cleaning up leaves and other debris. The robots, available at www.irobot.com, can automatically traverse pools up to 50 feet in length, filtering up to 5,000 gallons of water every hour. A long power cable connects them to a standard outlet.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Hot dogs? Check. Sun hat? Check. Robotic pool cleaner with built-in filter that takes about 90 minutes to pick up leaves, hair and sand? Check.</p>
+      </block>
+      <block class="full_text">
+        <p>Hot dogs? Check. Sun hat? Check. Robotic pool cleaner with built-in filter that takes about 90 minutes to pick up leaves, hair and sand? Check.</p>
+        <p>IRobot, maker of the Roomba self-guided vacuum cleaner, has introduced two models of Verro pool-cleaning machines that swim around cleaning up leaves and other debris. The robots, available at www.irobot.com, can automatically traverse pools up to 50 feet in length, filtering up to 5,000 gallons of water every hour. A long power cable connects them to a standard outlet.</p>
+        <p>The $800 Verro 300, shown here, is designed for concrete pools and blasts water against pool surfaces to wash off algae and muck. The $1,200 Verro 600, designed for vinyl and fiberglass pools, looks more like a miniature tank and includes a set of scrubbing brushes.</p>
+        <p>Both robots use iRobot's cleaning programs to ensure that no spot is left untouched by brush or water jet. They can even travel up and down the sides of the pool, while a reusable filter bag traps floating particles. If only they could be trained to fetch daiquiris.</p>
+        <p>JOHN BIGGS</p>
+        <p>CIRCUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

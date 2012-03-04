@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Garden &amp; Gun Magazine Has an Awkward Debut</title>
+    <meta content="30garden" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/30/business/media/30garden.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1844018"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MEDIA TALK"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/South Carolina</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Gardens</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/South Carolina</classifier>
+        <classifier class="online_producer" type="descriptor">Magazines</classifier>
+        <classifier class="online_producer" type="descriptor">Firearms</classifier>
+        <classifier class="online_producer" type="descriptor">Gardens and Gardening</classifier>
+        <classifier class="online_producer" type="general_descriptor">Firearms</classifier>
+        <classifier class="online_producer" type="general_descriptor">Magazines</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gardens and Gardening</classifier>
+        <location class="online_producer">South Carolina</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070430T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B03E3DC133EF933A05757C0A9619C8B63" item-length="295" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Garden &amp; Gun Magazine Has an Awkward Debut</hl1>
+        <hl2 class="online_headline">Garden &amp; Gun Magazine Has an Awkward Debut</hl2>
+      </hedline>
+      <byline class="print_byline">By LIA MILLER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Garden &amp; Gun, a glossy new lifestyle magazine from Charleston, S.C., says it is for those who love ''an adventure-bound, art-loving, skeet-shooting lifestyle.'' In reality, the magazine is less about guns than it is about gardens, ''Southern tradition'' and land conservation. The gun part of the title, said Rebecca Darwin, the magazine's publisher, is a metaphor for ''the sporting life.''</p>
+        <p>It is also an inside reference to a popular '70s Charleston disco called the Garden and Gun Club.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A glossy new lifestyle magazine, Garden &amp; Gun, raised eyebrows as its premiere issue arrived on newsstands just days before the shootings at Virginia Tech.</p>
+      </block>
+      <block class="full_text">
+        <p>Garden &amp; Gun, a glossy new lifestyle magazine from Charleston, S.C., says it is for those who love ''an adventure-bound, art-loving, skeet-shooting lifestyle.'' In reality, the magazine is less about guns than it is about gardens, ''Southern tradition'' and land conservation. The gun part of the title, said Rebecca Darwin, the magazine's publisher, is a metaphor for ''the sporting life.''</p>
+        <p>It is also an inside reference to a popular '70s Charleston disco called the Garden and Gun Club.</p>
+        <p>The name might not have raised an eyebrow had not the premiere issue arrived on newsstands just days before the shootings at Virginia Tech in Blacksburg, Va., on April 16. Ms. Darwin said only one critical e-mail message was received, among many positive ones, but others in the magazine industry noted the unfortunate timing.</p>
+        <p>Ms. Darwin, a former publisher of The New Yorker and Mirabella, said that there were no guns in the first issue. The ''sporting life'' piece is an article by George Black on trout fishing in Georgia.</p>
+        <p>Garden &amp; Gun, which is published by the Evening Post Publishing Company, has an initial distribution of 150,000 and plans to publish five issues this year and 10 in 2008.</p>
+        <p>Samir Husni, the head of the University of Mississippi's journalism department, said that he winced when he saw the name. ''In this day and age, any title that you have to explain, you know it's not the right title.''</p>
+        <p>But Ms. Darwin, who had 20 years of publishing experience in New York before returning to her South Carolina roots, said she was confident of the magazine's appeal. ''There are 40 million people that enjoy hunting and fishing; when you get outside of New York City, there is a whole other world out there.''</p>
+        <p>LIA MILLER</p>
+        <p>MEDIA TALK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

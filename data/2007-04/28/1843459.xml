@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>World Briefing | Africa: Liberia: Diamond Ban Lifted</title>
+    <meta content="28briefs-7" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1843459"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Diamonds</classifier>
+        <classifier class="indexing_service" type="descriptor">Embargoes and Economic Sanctions</classifier>
+        <classifier class="indexing_service" type="descriptor">Economic Conditions and Trends</classifier>
+        <location class="indexing_service">Liberia</location>
+        <location class="indexing_service">Africa</location>
+        <org class="indexing_service">United Nations</org>
+        <person class="indexing_service">Johnson-Sirleaf, Ellen (Pres)</person>
+        <person class="indexing_service">Hoge, Warren</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa/Liberia</classifier>
+        <classifier class="online_producer" type="general_descriptor">Embargoes and Economic Sanctions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Embargoes and Economic Sanctions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diamonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Trade and World Market</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070428T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9804E5D6123EF93BA15757C0A9619C8B63" item-length="104" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>World Briefing | Africa: Liberia: Diamond Ban Lifted</hl1>
+      </hedline>
+      <byline class="print_byline">By WARREN HOGE</byline>
+      <byline class="normalized_byline">Hoge, Warren</byline>
+      <abstract>
+        <p>UN Security Council lifts 2001 blockade of sale of so-called blood diamonds from Liberia that fueled wars in West Africa; Pres Ellen Johnson-Sirleaf had pressed for end to embargo as necessary to revive Liberia's economy; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The United Nations Security Council unanimously approved the lifting of a 2001 blockade of the sale of so-called blood diamonds from Liberia that fueled wars in West Africa. Ellen Johnson-Sirleaf, the Liberian president, had pressed for an end to the embargo as necessary to revive the economy of her impoverished nation, and Emyr Jones Parry, left, Britain's ambassador to the United Nations, said the decision reflected confidence that the country now met the standards of the Kimberley Process, an industry initiative certifying the origins of diamonds entering international trade. The Council lifted similar restrictions on Liberian timber sales in June.</p>
+        <p>WARREN HOGE</p>
+      </block>
+      <block class="full_text">
+        <p>The United Nations Security Council unanimously approved the lifting of a 2001 blockade of the sale of so-called blood diamonds from Liberia that fueled wars in West Africa. Ellen Johnson-Sirleaf, the Liberian president, had pressed for an end to the embargo as necessary to revive the economy of her impoverished nation, and Emyr Jones Parry, left, Britain's ambassador to the United Nations, said the decision reflected confidence that the country now met the standards of the Kimberley Process, an industry initiative certifying the origins of diamonds entering international trade. The Council lifted similar restrictions on Liberian timber sales in June.</p>
+        <p>WARREN HOGE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

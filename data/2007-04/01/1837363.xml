@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>On the Lam by the Thousands, Pursued by the Dozens</title>
+    <meta content="01lam" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Week in Review" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837363"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE NATION"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Illegal Aliens</classifier>
+        <classifier class="online_producer" type="general_descriptor">Immigration and Refugees</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E6D71130F932A35757C0A9619C8B63" item-length="283" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>On the Lam by the Thousands, Pursued by the Dozens</hl1>
+      </hedline>
+      <byline class="print_byline">By BILL MARSH</byline>
+      <byline class="normalized_byline">Marsh, Bill</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE math isn't pretty.</p>
+        <p>As of February, there were an estimated 636,000 ''fugitive aliens'' in the United States -- foreigners who have ignored orders to leave the country. They may have entered illegally and been caught (about 60 percent of all fugitives), or they may have visited legally but then overstayed their visas or committed crimes.</p>
+      </block>
+      <block class="full_text">
+        <p>THE math isn't pretty.</p>
+        <p>As of February, there were an estimated 636,000 ''fugitive aliens'' in the United States -- foreigners who have ignored orders to leave the country. They may have entered illegally and been caught (about 60 percent of all fugitives), or they may have visited legally but then overstayed their visas or committed crimes.</p>
+        <p>In any case, they are on the government's list and the government wants them out. Taken together, they would rank as America's 18th-largest city, ahead of Baltimore, Boston and Seattle.</p>
+        <p>Washington (the 27th-largest city) has deputized a force of about 318 officers in the Department of Homeland Security to track and apprehend the fugitives -- a backlog of roughly 2,000 fugitives per officer.</p>
+        <p>Last week, Homeland Security's inspector general said the department was not on course to overcome that backlog. The number of fugitives nearly doubled in five years after the September 2001 attacks.</p>
+        <p>John P. Torres, the director of detention and removal operations for Immigration and Customs Enforcement, said his workers were making progress. That effort began in 2003 with a few dozen officers, and with time and resources, he says, it can tackle the backlog.</p>
+        <p>Last year, officials ended their practice of ''catch and release,'' in which only about a third of alleged immigration violators caught were detained, for lack of housing. Most of those released did not show up for court dates and became fugitives. Now, Mr. Torres said, virtually all are detained.</p>
+        <p>No one really knows how many fugitives there are, since the government's tracking software -- the Deportable Alien Control System, or DACS -- is about 25 years old and considered unreliable. It is supposed to be replaced by January of next year.</p>
+        <p>THE NATION</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

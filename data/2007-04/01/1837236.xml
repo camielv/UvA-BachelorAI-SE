@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Listing Service Dream in Disarray</title>
+    <meta content="1Deal1" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Real Estate Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="11" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Real Estate; Books" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/01/realestate/1Deal1.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837236"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="BIG DEAL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Housing</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Terrorism</classifier>
+        <classifier class="indexing_service" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="indexing_service" type="descriptor">Hijacking</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <location class="indexing_service">World Trade Center (NYC)</location>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">Prudential Douglas Elliman</org>
+        <org class="indexing_service">Corcoran Group</org>
+        <person class="indexing_service">Barbanel, Josh</person>
+        <person class="indexing_service">Vila, Bob</person>
+        <person class="indexing_service">Manning, Lauren</person>
+        <person class="indexing_service">Manning, Greg</person>
+        <object.title class="indexing_service">Love, Greg &amp; Lauren</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Locations/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Locations/New York/New York City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Locations/New York/New York City/Manhattan</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Columns/The Big Deal</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Real Estate</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Real Estate</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Real Estate</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hijacking</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+        <location class="online_producer">Manhattan (NYC)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F05E5D81030F932A35757C0A9619C8B63" item-length="1378" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Listing Service Dream in Disarray</hl1>
+        <hl2 class="online_headline">Listing Service Dream in Disarray</hl2>
+      </hedline>
+      <byline class="print_byline">By JOSH BARBANEL</byline>
+      <byline class="normalized_byline">Barbanel, Josh</byline>
+      <abstract>
+        <p>Efforts by Real Estate Board of New York to create single online showcase for all Manhattan brokers hits yet another snag as two largest firms, Prudential Douglas Elliman and Corcoran Group, announce withdrawal from project; Bob Vila sells apartment in Museum Tower building on West 53rd Street for $2.85 million; Lauren Manning and husband Greg buy co-op off Central Park on West 83rd Street for $3.8 million; her ordeal recovering from 9/11 injuries is subject of his best-selling book Love, Greg &amp; Lauren; photos (Big Deal column) (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>AT the dawn of the Internet age, the real estate brokers in Manhattan got together and said: Let us work together to provide a single place on the Web where buyers can see all the apartments we have to sell. We will help our sellers sell faster, and earn our commissions faster, they said.</p>
+        <p>Years passed and although the idea was adopted nationwide, the industry tried and tried in Manhattan, but the dream of providing a single place to showcase brokers' listings faltered in disagreement and disarray.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The two largest brokerage companies in Manhattan said they plan to boycott a new industry search engine, which will be launched in June by the Real Estate Board of New York.</p>
+      </block>
+      <block class="full_text">
+        <p>AT the dawn of the Internet age, the real estate brokers in Manhattan got together and said: Let us work together to provide a single place on the Web where buyers can see all the apartments we have to sell. We will help our sellers sell faster, and earn our commissions faster, they said.</p>
+        <p>Years passed and although the idea was adopted nationwide, the industry tried and tried in Manhattan, but the dream of providing a single place to showcase brokers' listings faltered in disagreement and disarray.</p>
+        <p>Now, as the Real Estate Board of New York is preparing to start a industry search engine in June, with the help of Trulia, an online real estate search company, this fractious history appears to be repeating itself.</p>
+        <p>After weeks of maneuvering by the board to meet the objections of smaller firms, the two largest brokerage companies in Manhattan, Prudential Douglas Elliman and the Corcoran Group, announced last week that, partly because of the costs involved, they were planning to boycott the new Web site (name and address yet to be determined).</p>
+        <p>''We are not participating,'' said Pamela Liebman, the president and chief executive of Corcoran. ''We wish the Real Estate Board good luck.''</p>
+        <p>Ms. Liebman said that Corcoran's sister companies -- Citi Habitats and the Corcoran Sunshine Marketing Group -- will also decline to participate.</p>
+        <p>Dorothy Herman, the president and chief executive of Prudential Douglas Elliman, said in an interview, ''At this point we are not joining, either.''</p>
+        <p>Steven Spinola, the president the Real Estate Board of New York, which represents the real estate industry, from major building owners to brokers, said he still hoped that when the final product was ready, the major brokers and smaller competitors would decide to sign on. ''It will have the most accurate and comprehensive listings,'' he said, ''and it will catch on quickly.''</p>
+        <p>But it is clear that the defection of the two companies, if not reversed, will be a major blow to the site's claim to comprehensiveness. Together, Corcoran, Prudential and Citi Habitats represent 63 percent of Manhattan listings and of Manhattan brokers among the 10 largest companies, according to figures in an industry survey by The Real Deal, a trade magazine, last May.</p>
+        <p>The Corcoran Sunshine Group, which markets new buildings, is now representing 30 buildings with about $5 billion worth of apartments and about 100 brokers, according to Ms. Liebman.</p>
+        <p>The board first announced the plan for a universal portal -- universal at least for brokers, because sales by individual owners would be excluded -- last December, and at first planned to require all of its member companies, from the largest to the one-person shops, to participate.</p>
+        <p>It would be a way to promote the interests of brokers, who are facing new forms of competition around the country. It would also provide an alternative to The New York Times, whose classified ads, first in print and later online, brokers say, have functioned as a de facto multiple listing service for decades in Manhattan.</p>
+        <p>When the Real Estate Board search engine was first announced, the smaller member firms objected that they would bear a disproportionate cost of joining the system, and the initial fees were rejiggered. They objected to the plan to make the system compulsory, and instead it was made voluntary, and firms were given until mid-May to sign up.</p>
+        <p>But the objections of the large firms seem to be a more difficult obstacle. Corcoran and Elliman officials complained that they had spent large sums branding their own Web sites and persuading buyers to look there first and didn't want to divert their marketing budgets to pay for an unknown industry site.</p>
+        <p>Under the proposal, companies are being asked to pay an initial fee based on size, $12,500 for a large company and an additional $100 a year for each agent represented on the site. Corcoran and Elliman, with the most brokers, would pay the largest bill, but they are not sure they will get their money's worth. Mr. Spinola said he was budgeting about $1 million to market the site.</p>
+        <p>''I spent a lot of money on my Internet site,'' Ms. Herman said. ''I have not seen a comprehensive business plan showing how they are going to market it and how they are going to build traffic.''</p>
+        <p>Hall F. Willkie, the president of Brown Harris Stevens, said his company and its sister company, Halstead Property, would be participating. He said that the new site would drive traffic to brokers' Web sites as well.</p>
+        <p>Frederick W. Peters, the president of Warburg Realty, who is working on Rebny's Web efforts, said that he believed most smaller firms would also sign up.</p>
+        <p>But Klara Madlin, who runs a boutique brokerage with 15 agents, said that she would wait. ''I'm on the fence on whether it will be any value to me,'' she said.</p>
+        <p>Bob Vila Doubles His Money</p>
+        <p>BOB VILA, winding up the last of 17 seasons of his home renovation television series, appears to be as comfortable in the sharky waters of upscale Manhattan real estate investment as he is in the sawdust and blueprints of a Victorian house.</p>
+        <p>Despite his folksy image and his own brand of tools, Mr. Vila and his wife, Diana Barrett, have maintained an apartment for the last six years in the pristine heights of the 52-story Museum Tower, high above the Museum of Modern Art on West 53rd Street. When the museum was in the middle of its messy renovation, limiting the immediate appeal of the apartments, Mr. Vila snapped up another one because his original 2,248-square-foot unit did not provide enough room for a family office. (His primary residence is in Florida, and his production company is in Boston.).</p>
+        <p>''It was great to be able to commute to the office by elevator and invest in some real estate, too,'' he said.</p>
+        <p>Mr. Vila's residential apartment is on the 35th floor, with a corner view toward Fifth Avenue and 54th Street, and the office apartment was on the 49th floor. Property records show that last month Mr. Vila sold the office and nearly doubled his investment in only three years.</p>
+        <p>It turned out that the apartment next to his office was also on the market, and the buyer, Irfan Verjee, a portfolio manager for a $6 billion hedge fund, Kingdon Capital, wanted to combine the two apartments, giving Mr. Vila some extra leverage in negotiations.</p>
+        <p>The apartments have the same room count and are roughly the same size, though Mr. Vila's office has a corner view toward the Avenue of the Americas and West 53rd Street.</p>
+        <p>The other apartment was sold for $1.95 million by Alvin Lukasho, a real estate developer, while Mr. Vila's apartment sold for $2.85 million. Mr. Vila paid $1.45 million in 2004.</p>
+        <p>''We didn't have much negotiating power,'' Mr. Verjee said. The combined apartments will total about 2,400 square feet.</p>
+        <p>Co-op for 9/11 Survivor</p>
+        <p>LAUREN MANNING had one of the grittiest survival stories of the collapse of the World Trade Center on Sept. 11. She had just arrived at 1 World Trade Center from her West Village apartment, where her husband, Greg, was at home tending to their 10-month-old baby, when she was engulfed in a fireball in the lobby and burned over 82 percent of her body. She worked for Cantor Fitzgerald, the investment company.</p>
+        <p>With the help of her husband, who told of the beginnings of her healing in a best-selling book, ''Love, Greg &amp; Lauren'' (Bantam, 2002), she began a prolonged recovery. In 2004, she had recovered enough to carry the Olympic torch as it passed through New York City, on the run to the Olympic Games in Athens.</p>
+        <p>Now, as the reconstruction of the World Trade Center site begins, Ms. Manning and her family are moving away, to an expansive co-op off Central Park, on West 83rd Street. Property records show that they recently closed on a 3,100-square-foot apartment in a 15-story white-brick building. The price was $3.8 million.</p>
+        <p>The Mannings now live in a co-op on Perry Street, near the Richard Meier towers. Mr. Manning would not discuss their reasons for moving.</p>
+        <p>The new apartment has four bedrooms, three exposures and a connected dining room, gallery and living room, according to the listing.</p>
+        <p>BIG DEAL E-mail: bigdeal@nytimes.com</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">E-mail: bigdeal@nytimes.com</tagline>
+    </body.end>
+  </body>
+</nitf>

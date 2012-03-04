@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Talk</title>
+    <meta content="05talk.opener.t" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="T: Beauty" name="dsk"/>
+    <meta content="37" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1840268"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/T: Style Magazine</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9504E2DF153FF936A25757C0A9619C8B63" item-length="231" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Talk</hl1>
+      </hedline>
+      <byline class="print_byline">By Armand Limnander</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Fembot / (fem bot) / n. / in fiction, a powerful, lifelike android with sexy female attributes and blemish-proof skin, e.g., ''I love that episode of 'The Bionic Woman' where the deadly fembot has her face mask removed.'' In reality, a powerful, androidlike female with sexy accessories and blemish-proof skin: ''It all started with those RoboCop shoes, but now she's gone full fembot -- she's even getting DNA-based facials.''</p>
+      </block>
+      <block class="full_text">
+        <p>Fembot / (fem bot) / n. / in fiction, a powerful, lifelike android with sexy female attributes and blemish-proof skin, e.g., ''I love that episode of 'The Bionic Woman' where the deadly fembot has her face mask removed.'' In reality, a powerful, androidlike female with sexy accessories and blemish-proof skin: ''It all started with those RoboCop shoes, but now she's gone full fembot -- she's even getting DNA-based facials.''</p>
+        <p>Sternal / (stur nel) / adj. / of, in or near the sternum; related to the structure of bone and cartilage to which most of the ribs are attached and that is not usually visible, except when exposed by too-low décolletages on too-thin women. The new body part that's sadly begun to be fetishized, e.g., ''It was one thing when her clavicle poked out of that Gucci slip, but now you can see all the bones in her chest -- she's absolutely sternal.''</p>
+        <p>Youthanasia / (yooth en azhe) / n. / a neologism for the controversial practice of performing a battery of age-defying medical procedures to end lifeless skin and wrinkles; advocated by some as a last-resort measure to put the chronically youth-obsessed out of their misery: ''My doctor was on the fence about youthanasia, but I whined so much that he finally agreed to perform my abdominoplasty, mammoplasty and rhytidectomy, all at once.'' Think of it as mercy lifting.</p>
+        <p>Armand Limnander</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

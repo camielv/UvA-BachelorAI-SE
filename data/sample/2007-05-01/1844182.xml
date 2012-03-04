@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Shortage of Vitamin D May Weaken the Elderly</title>
+    <meta content="01nutr" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Health&amp;Fitness" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/05/01/health/01nutr.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1844182"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="VITAL SIGNS: NUTRITION"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Columns/Vital Signs</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Fitness and Nutrition</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Vitamins</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Fashion, Beauty and Fitness</classifier>
+        <classifier class="online_producer" type="descriptor">Vitamins</classifier>
+        <classifier class="online_producer" type="descriptor">Aged</classifier>
+        <classifier class="online_producer" type="descriptor">Exercise</classifier>
+        <classifier class="online_producer" type="general_descriptor">Vitamins</classifier>
+        <classifier class="online_producer" type="general_descriptor">Exercise</classifier>
+        <classifier class="online_producer" type="general_descriptor">Aged</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070501T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07E4D9133EF932A35756C0A9619C8B63" item-length="228" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Shortage of Vitamin D May Weaken the Elderly</hl1>
+        <hl2 class="online_headline">Nutrition: Shortage of Vitamin D May Weaken the Elderly</hl2>
+      </hedline>
+      <byline class="print_byline">By Eric Nagourney</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Too little vitamin D is a common problem among elderly people that may help bring on medical conditions that cause weakness and disability.</p>
+        <p>Now a new study suggests that a shortage of vitamin D may play a direct role in poor physical performance among the elderly.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A new study suggests that a shortage of vitamin D may play a direct role in poor physical performance among the elderly.</p>
+      </block>
+      <block class="full_text">
+        <p>Too little vitamin D is a common problem among elderly people that may help bring on medical conditions that cause weakness and disability.</p>
+        <p>Now a new study suggests that a shortage of vitamin D may play a direct role in poor physical performance among the elderly.</p>
+        <p>Writing in the April issue of The Journal of Gerontology: Medical Sciences, researchers said that people with low levels of vitamin D did worse on tests involving physical skills.</p>
+        <p>The researchers, led by Denise K. Houston of Wake Forest University, drew on data from an Italian study in which more than 900 people 65 and older were tested for vitamin D levels and asked to perform several tasks. The researchers looked at how fast they walked, how quickly they could get out of a chair and how well they could balance.</p>
+        <p>By some estimates, about a quarter of elderly people do not get enough vitamin D. But it is not purely a matter of diet, the researchers said, because much of the body's vitamin D comes from exposure to sunlight. Older people may be less likely to be in the sun, said the researchers, who also pointed out that skin produces vitamin D less well as it ages.</p>
+        <p>Even so, the study noted, research has found that older people who take vitamin D supplements have appeared to gain strength.</p>
+        <p>VITAL SIGNS: NUTRITION</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Talk; Once Upon a Mattress</title>
+    <meta content="04talk.mattress.t" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="T: Design Magazine" name="dsk"/>
+    <meta content="90" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Style; Magazine" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837081"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/T: Style Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Beds and Bedding</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0DEEDA1230F932A35757C0A9619C8B63" item-length="975" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Talk; Once Upon a Mattress</hl1>
+      </hedline>
+      <byline class="print_byline">By Patty Marx</byline>
+      <byline class="normalized_byline">Marx, Patricia</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>I am Patty.</p>
+      </block>
+      <block class="full_text">
+        <p>I am Patty.</p>
+        <p>I am much older than 6.</p>
+        <p>I am a city grown-up.</p>
+        <p>I live in my own apartment.</p>
+        <p>But one night I got to sleep in a store called Hastens. They sell beds.</p>
+        <p>Hastens is enormously enormous.</p>
+        <p>And it has maybe 14 beds.</p>
+        <p>There is a bed that goes up and down and wriggles all your protoplasm when you push a button.1</p>
+        <p>And there is a round bed.2</p>
+        <p>And there is a bed that comes with two little tables on each side so you can have a place for all the things you have to have like your root beer.3</p>
+        <p>There is even a crib for a baby but I am not a baby. As I said, I am much older than 6.</p>
+        <p>And did I tell you there is a bed that costs $59,750?4</p>
+        <p>No, no, no. The mattress is not stuffed with saffron or hard-to-get stem cells or $59,750. It is stuffed with genuine horsehair, which, you must understand, is the best stuff for sleeping on.5</p>
+        <p>Especially if you are a horse.</p>
+        <p>Still, if you do not share my opinion that $59,750 is a lot of money for something you keep on the floor, then I am guessing you are the big boss of a hedge fund or that you live among the haut monde.</p>
+        <p>Paul is my main friend.</p>
+        <p>Paul likes to watch television.</p>
+        <p>So we hop up on a bed that has a giant TV in front of it.</p>
+        <p>And we watch a movie called ''Sleepless in Seattle.''</p>
+        <p>It is a very good movie.</p>
+        <p>Though, between you and me, it has nothing whatsoever to do with slumber.</p>
+        <p>Do you know what else?</p>
+        <p>We order Japanese food and eat it in bed when we watch TV.</p>
+        <p>Please do not tell the people at HÃ</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   NOLL, S. DARWIN</title>
+    <meta content="dn042507.1" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="25" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1842703"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">NOLL, S. DARWIN</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070425T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E03E5DE163AF936A15757C0A9619C8B63" item-length="160" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   NOLL, S. DARWIN</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>NOLL--S. Darwin, 86, passed away peacefully at his home in Palm Beach, FL, on April 23rd, 2007, after a long illness. He was predeceased by his beloved wife, Evelyn, in 1992, and is survived by his devoted and cherished companion, Hazel Leichter Scott, a son, Ronald Noll, a daughter, Lauren Brenckle, five grandchildren, and his devoted cousin, Fred Mervis. A Cleveland industrialist and CEO of Cardinal American Corp, he was also founder of Production Experts, Inc., and numerous other successful companies, primarily in the steel industry; having built and operated steel mills in the United States, Europe and Japan. He was extremely charitable, and was awarded an honorary degree of Doctor of Laws from John Carroll University of Cleveland where he sponsored and aided many, many students. Donations, in lieu of flowers, will be appreciated to the Darwin Noll Fund for Childrens Education at Temple-Tifereth Israel, 26000 Shaker Boulevard, Beachwood, Ohio 44122. Services for Mr. Noll will be private.</p>
+      </block>
+      <block class="full_text">
+        <p>NOLL--S. Darwin, 86, passed away peacefully at his home in Palm Beach, FL, on April 23rd, 2007, after a long illness. He was predeceased by his beloved wife, Evelyn, in 1992, and is survived by his devoted and cherished companion, Hazel Leichter Scott, a son, Ronald Noll, a daughter, Lauren Brenckle, five grandchildren, and his devoted cousin, Fred Mervis. A Cleveland industrialist and CEO of Cardinal American Corp, he was also founder of Production Experts, Inc., and numerous other successful companies, primarily in the steel industry; having built and operated steel mills in the United States, Europe and Japan. He was extremely charitable, and was awarded an honorary degree of Doctor of Laws from John Carroll University of Cleveland where he sponsored and aided many, many students. Donations, in lieu of flowers, will be appreciated to the Darwin Noll Fund for Childrens Education at Temple-Tifereth Israel, 26000 Shaker Boulevard, Beachwood, Ohio 44122. Services for Mr. Noll will be private.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

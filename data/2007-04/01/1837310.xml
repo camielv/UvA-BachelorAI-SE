@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Yes, Retirement Still Seems an Impossible Dream</title>
+    <meta content="01count" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/01/business/yourmoney/01count.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837310"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="OPENERS: THE COUNT"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/The Count</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="descriptor">Retirement</classifier>
+        <classifier class="online_producer" type="descriptor">Pensions and Retirement Plans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Pensions and Retirement Plans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Pensions and Retirement Plans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Retirement</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05E0DB1130F932A35757C0A9619C8B63" item-length="205" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Yes, Retirement Still Seems an Impossible Dream</hl1>
+        <hl2 class="online_headline">Yes, Retirement Still Seems an Impossible Dream</hl2>
+      </hedline>
+      <byline class="print_byline">By PHYLLIS KORKKI</byline>
+      <byline class="normalized_byline">Korkki, Phyllis</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It's time for another retirement study to make you feel anxious and afraid. These studies always come to one conclusion: No matter how much you are saving for retirement, it isn't enough, and you should save much, much more. So you'd better stop spending money on anything related to your present life.</p>
+        <p>A new study, from the Watson Wyatt consulting firm, of 300,000 workers at 32 large employers shows that 70 percent participated in a company retirement plan, mainly a 401(k), and they contributed, on average, 8.4 percent of their pay.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>It’s time for another retirement study to make you feel anxious and afraid.</p>
+      </block>
+      <block class="full_text">
+        <p>It's time for another retirement study to make you feel anxious and afraid. These studies always come to one conclusion: No matter how much you are saving for retirement, it isn't enough, and you should save much, much more. So you'd better stop spending money on anything related to your present life.</p>
+        <p>A new study, from the Watson Wyatt consulting firm, of 300,000 workers at 32 large employers shows that 70 percent participated in a company retirement plan, mainly a 401(k), and they contributed, on average, 8.4 percent of their pay.</p>
+        <p>At least these workers were trying, although they should immediately cease eating out, going to movies and buying things so they can save even more. Others appeared to be in denial about retirement and were not participating in any plan.</p>
+        <p>Watson Wyatt noted that it was not surprising that 52 percent of people making $10,000 to $25,000 annually were not signed up with a company retirement plan. But almost one out of 10 employees making more than $100,000 a year were also 401(k) no-shows. It must be that these people have other sources of income or plan to work until they drop dead. Either that, or they'd better start saving.</p>
+        <p>PHYLLIS KORKKI</p>
+        <p>OPENERS: THE COUNT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

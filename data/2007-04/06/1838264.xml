@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Poetry Barn</title>
+    <meta content="06creef" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="31" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838264"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070406T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980CEED6163FF935A35757C0A9619C8B63" item-length="22" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Poetry Barn</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Matthew Brannon's prints mix art, language and advertising and design motifs in a Manhattan-in-the-'50s style. (Below, ''Steak Dinner,'' 2007.)</p>
+        <p>Review, Page 34</p>
+      </block>
+      <block class="full_text">
+        <p>Matthew Brannon's prints mix art, language and advertising and design motifs in a Manhattan-in-the-'50s style. (Below, ''Steak Dinner,'' 2007.)</p>
+        <p>Review, Page 34</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

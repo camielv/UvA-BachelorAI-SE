@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Holland Jewett, Brett Hopkins</title>
+    <meta content="15jewett" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/15/fashion/weddings/15jewett.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840480"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Jewett, Holland Elizabeth (Holland Elizabeth Hopkins)</person>
+        <person class="indexing_service">Hopkins, Brett Michael</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE1D9133FF936A25757C0A9619C8B63" item-length="185" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Holland Jewett, Brett Hopkins</hl1>
+        <hl2 class="online_headline">Holland Jewett, Brett Hopkins</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Holland Elizabeth Jewett, a daughter of Mary R. Jewett and Kent C. Jewett of Summit, N.J., was married there last evening to Brett Michael Hopkins, the son of Joyce A. Hopkins and Charles J. Hopkins of Sinking Spring, Pa. The Rev. Laura R. Matarazzo performed the ceremony at the Calvary Episcopal Church.</p>
+        <p>The bride and bridegroom met at the University of Richmond, from which they graduated.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Holland Elizabeth Jewett, a daughter of Mary R. Jewett and Kent C. Jewett of Summit, N.J., was married there last evening to Brett Michael Hopkins, the son of Joyce A. Hopkins and Charles J. Hopkins of Sinking Spring, Pa. The Rev. Laura R. Matarazzo performed the ceremony at the Calvary Episcopal Church.</p>
+      </block>
+      <block class="full_text">
+        <p>Holland Elizabeth Jewett, a daughter of Mary R. Jewett and Kent C. Jewett of Summit, N.J., was married there last evening to Brett Michael Hopkins, the son of Joyce A. Hopkins and Charles J. Hopkins of Sinking Spring, Pa. The Rev. Laura R. Matarazzo performed the ceremony at the Calvary Episcopal Church.</p>
+        <p>The bride and bridegroom met at the University of Richmond, from which they graduated.</p>
+        <p>Mrs. Hopkins, 27, is the assistant to the chairman of the North and South American divisions of Sotheby's, the auction house in New York.</p>
+        <p>Her father works in New York as a senior vice president in the real estate group of Wells Fargo Bank.</p>
+        <p>Mr. Hopkins, also 27, works in Stamford, Conn., as an associate portfolio manager in the private portfolio group of Legg Mason, the Baltimore investment management firm. In August, he is to begin studies for an M.B.A. at the University of North Carolina.</p>
+        <p>His father works in Reading, Pa., as the president and chief executive of the insurance brokerage division of Leesport Financial, a financial services company in Wyomissing, Pa., of which he is a director.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

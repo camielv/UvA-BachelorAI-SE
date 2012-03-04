@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Other Voices: Finding Certainty, or Not, in Statistics</title>
+    <meta content="15pubedlets-1" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1840667"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="LETTERS TO THE PUBLIC EDITOR"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/The Public Editor/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ratings and Rating Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9404E5D8103FF936A25757C0A9619C8B63" item-length="1008" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Other Voices: Finding Certainty, or Not, in Statistics</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Re ''The Times's Picture of TV Viewing Is Fuzzier Than It Appears'' (April 8):</p>
+        <p>The claim by Nielsen Media Research that it ''lacks 'the resources' to calculate the margin of error on the 'hundreds of rating numbers a week' '' sounds pretty fishy to me. Based on my recollection of Statistics 101, the margin of error should be easy to calculate from just a few key numbers, and any cheap computer would make short work of even hundreds of rating numbers.</p>
+      </block>
+      <block class="full_text">
+        <p>Re ''The Times's Picture of TV Viewing Is Fuzzier Than It Appears'' (April 8):</p>
+        <p>The claim by Nielsen Media Research that it ''lacks 'the resources' to calculate the margin of error on the 'hundreds of rating numbers a week' '' sounds pretty fishy to me. Based on my recollection of Statistics 101, the margin of error should be easy to calculate from just a few key numbers, and any cheap computer would make short work of even hundreds of rating numbers.</p>
+        <p>If that's true, couldn't one assume that Nielsen withholds the margin of error just to inflate the importance of its ratings, and that its scolding of the media for not being ''more careful in cautioning the public'' that its ''ratings are estimates'' is merely a shameful attempt to deflect the blame that it deserves?</p>
+        <p>I agree with your conclusion that The New York Times should refuse to publish Nielsen's data until Nielsen starts behaving in a responsible manner.</p>
+        <p>WINDSOR SMITH  Sunnyvale, Calif., April 8, 2007</p>
+        <p>The ''margin of sampling error,'' de rigueur in coverage of poll data, is meaningless in itself unless the confidence level is also reported.</p>
+        <p>Journalists typically note something like, ''The survey had a margin of error of plus or minus three percentage points.'' Such a statement implies that we are 100 percent certain that the margin of error is 3 percent, but strictly speaking we can never be 100 percent sure of anything with sample data. We might, for example, be 68 percent sure that the margin of error is plus or minus three points and, in contrast, roughly 95 percent sure that it is plus or minus six points.</p>
+        <p>The exact formula will vary by the distribution and response rate, but it works something like this. By a fairly straightforward procedure, a ''standard error'' is calculated. We can then be about 68 percent sure that the ''true'' (population) mean is within one standard error of the observed sample mean, and we can be about 95 percent sure that the ''true'' (population) mean is within two standard errors of the observed sample mean.</p>
+        <p>The point is that simply providing the margin of error without reporting the corresponding confidence level tells us absolutely nothing while creating the illusion of scientific precision -- and of responsible reporting. Little wonder, then, with many millions of advertising dollars riding on what are often statistically tiny differences, that Nielsen doesn't like to draw a lot of public attention to either the margin of error or the confidence level.</p>
+        <p>MICHAEL MORGAN  Amherst, Mass., April 8, 2007</p>
+        <p>The writer is the chairman of the department of communication at the University of Massachusetts at Amherst.</p>
+        <p>Although you are right to criticize the March 1 article for not including enough information for readers to evaluate fully the Nielsen ratings for the ABC and NBC newscasts, I worry that you may have inadvertently clouded the picture even further in later parts of your discussion.</p>
+        <p>It is true that the margin of error is an important factor to consider in evaluating statistics like these, and the original article should have included this (or at least noted its absence). But you seem to imply that the fact that the margin of error likely exceeded the difference between the ratings for the newscasts somehow invalidates the result as ''not statistically significant.'' As you note, the true viewership of ABC News could have been as low as 9.5 million and the true viewership of NBC could have been 9.7 million, the exact opposite of what was reported.</p>
+        <p>What you don't say, however, is that such a reversal is unlikely. Just because the difference between two values in a survey like Nielsen's falls within the margin of error does not mean the survey is a tossup. In lay terms, each value is as likely to be too high as too low, but your hypothetical reversal requires both that the estimate for ABC was overly high and that the estimate for NBC was overly low. In fact, it's equally likely that ABC was ahead of NBC by twice the margin reported instead.</p>
+        <p>The numerical analysis you provided risked reinforcing the myth of the ''statistical dead heat,'' a particularly dangerous error with the political polling season heating up again.</p>
+        <p>DAN ZIGMOND  Mountain View, Calif., April 8, 2007</p>
+        <p>The writer is the engineering manager for Google TV.</p>
+        <p>Statistical significance is a concept I badger my Statistics 101 class to master. I counsel my students, ''Forget my name, forget the formulas (they sadly will), but remember that an average may be greater than another, but not statistically significantly greater.''</p>
+        <p>Innumeracy was at the heart of the closing of my wife's elementary school. The school had low test scores, but I advised the principal that the school had statistically significant improvement from the previous year's results. No one understood or cared. The school closed.</p>
+        <p>The next step for The Times and other newspapers is to hire a statistical editor. Statistics are too important to leave to elementary school analyses.</p>
+        <p>JOHN LOASE  Pleasantville, N.Y., April 8, 2007</p>
+        <p>The writer is a professor of mathematics at Concordia College-New York.</p>
+        <p>The comment by the editor in charge of the Monday business section, Bruce Headlam, that ''if we run a large disclaimer saying, in effect, this company is withholding a critical piece of information, I imagine many readers would simply turn the page,'' is stunningly inappropriate. The fact that readers wouldn't care about some data if the reliability of the data were revealed means that The Times shouldn't be publishing those data in the first place.</p>
+        <p>STEPHEN KAHN BONNETT  Brooklyn, April 8, 2007</p>
+        <p>Loosen up. It's just television (still the vast wasteland), not a big issue like war and peace and the Final Four.</p>
+        <p>The Nielsens have always been the accepted industry standard, without reference to margin of error. The Times merely reported what is accepted in the industry.</p>
+        <p>STANFORD S. HUNN  Montgomeryville, Pa., April 8, 2007</p>
+        <p>LETTERS TO THE PUBLIC EDITOR</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

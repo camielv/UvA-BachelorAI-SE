@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Nomi Maeyama, Timothy Einenkel</title>
+    <meta content="29maeyama" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/29/fashion/weddings/29maeyama.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1843742"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Maeyama, Nomi</person>
+        <person class="indexing_service">Einenkel, Timothy Leonard</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9401EFDD123EF93AA15757C0A9619C8B63" item-length="180" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Nomi Maeyama, Timothy Einenkel</hl1>
+        <hl2 class="online_headline">Nomi Maeyama, Timothy Einenkel</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Nomi Maeyama, a daughter of Kazue and Keikichi Maeyama of Fair Lawn, N.J., was married yesterday to Timothy Leonard Einenkel, a son of Francie and Robert H. Einenkel of Yonkers. Judge Kenneth M. Karas of the Federal District Court in New York officiated at Stewart Manor Country Club in Stewart Manor, N.Y.</p>
+        <p>Ms. Maeyama, 29, is keeping her name. She is an assistant vice president, working with corporate customers, at Mizuho Corporate Bank in New York, a Japanese commercial bank. She graduated from Wesleyan University. Her father, who is retired, was the owner of Inaho, a Japanese restaurant in Ridgewood, N.J. Her mother retired as a clerk at the Kinokuniya Bookstore in Edgewater, N.J.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Nomi Maeyama, a daughter of Kazue and Keikichi Maeyama of Fair Lawn, N.J., was married yesterday to Timothy Leonard Einenkel, a son of Francie and Robert H. Einenkel of Yonkers. Judge Kenneth M. Karas of the Federal District Court in New York officiated at Stewart Manor Country Club in Stewart Manor, N.Y.</p>
+      </block>
+      <block class="full_text">
+        <p>Nomi Maeyama, a daughter of Kazue and Keikichi Maeyama of Fair Lawn, N.J., was married yesterday to Timothy Leonard Einenkel, a son of Francie and Robert H. Einenkel of Yonkers. Judge Kenneth M. Karas of the Federal District Court in New York officiated at Stewart Manor Country Club in Stewart Manor, N.Y.</p>
+        <p>Ms. Maeyama, 29, is keeping her name. She is an assistant vice president, working with corporate customers, at Mizuho Corporate Bank in New York, a Japanese commercial bank. She graduated from Wesleyan University. Her father, who is retired, was the owner of Inaho, a Japanese restaurant in Ridgewood, N.J. Her mother retired as a clerk at the Kinokuniya Bookstore in Edgewater, N.J.</p>
+        <p>Mr. Einenkel, 27, is a producer in New York of ''The Rachel Maddow Show'' and ''RadioNation With Laura Flanders,'' which are broadcast by Air America Radio. He graduated from Ithaca College. His mother is an assistant librarian at the Spuyten Duyvil branch, in the Bronx, of the New York Public Library. His father is a professor of theater at Nassau Community College in Garden City, N.Y.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

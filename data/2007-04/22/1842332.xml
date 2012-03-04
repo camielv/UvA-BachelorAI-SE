@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Affordable Europe: London</title>
+    <meta content="22londonweb" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="" name="print_section"/>
+    <meta content="Travel" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/22/travel/22londonweb.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842332"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <location class="indexing_service">London (England)</location>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Britain/England/London</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Britain</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Britain/England</classifier>
+        <classifier class="online_producer" type="descriptor">Travel and Vacations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+        <location class="online_producer">London (England)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E1D61631F931A15757C0A9619C8B63" item-length="504" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Affordable Europe: London</hl1>
+        <hl2 class="online_headline">Affordable Europe: London</hl2>
+      </hedline>
+      <byline class="print_byline">By JENNIFER CONLIN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Unfortunately, the words ''affordable'' and ''London'' continue to be near antonyms, with the pound equaling a pricey $2. In fact, there are bargains to be had in Britain, even for those Americans arriving with a wallet full of depleted dollars.</p>
+        <p>Where to Stay for Under £100</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>There are bargains to be had in Britain, even for those Americans arriving with a wallet full of depleted dollars.</p>
+      </block>
+      <block class="full_text">
+        <p>Unfortunately, the words ''affordable'' and ''London'' continue to be near antonyms, with the pound equaling a pricey $2. In fact, there are bargains to be had in Britain, even for those Americans arriving with a wallet full of depleted dollars.</p>
+        <p>Where to Stay for Under £100</p>
+        <p>Amazingly, a budget boutique hotel has opened in expensive Kensington, a 15-minute walk from many of London's top museums. Base2Stay (25 Courtfield Gardens; 44-20-7244-2255; www.base2stay.com) offers guests air-conditioned rooms, flat-screen TVs and high-speed Internet, as well as minikitchens in each room, with a microwave and a fridge. There is no room service or on-site restaurant, but the hotel provides takeout menus from the many nearby restaurants. A standard double costs £99, or $194.</p>
+        <p>Where to Eat  Leon Knightsbridge(136 Brompton Road; 44-20-7589-7330; www.leonrestaurants.co.uk) is collegiate in the best way. It is run by Allegra McEvedy, a chef who worked at some of London's best restaurants (the River Café), pubs (the Cow) and clubs (the Groucho) before starting her own chain; there are now five spanning the city, all eccentrically called Leon. This is one of the newest, just down the road from Harrods, and is filled with people you normally don't see in this upscale, staid neighborhood. At breakfast and lunch, healthy types migrate here to tuck into fruit smoothies (£2.50), organic porridge (£2) and large flatbread sandwiches (a roasted sweet potato falafel is just £2.95). But in the evening, the leather banquettes fill up with a funky crowd, who sip berry vodkas (£3.90) and nibble plates of hot meze, the grilled halloumi (£3.90), Moroccan meatballs (£3.50) and grilled chorizo (£4.30) being the most delicious. A meal for two with wine is about £30.</p>
+        <p>Where to Shop  Forget Harvey Nichols, where a small hair clip can set you back £20. London's most stylish residents (including Kate Moss) regularly duck into the city's secondhand stores, otherwise known here as charity shops. One of the best in Central London is the British Red Crossstore in the heart of Belgravia (London's most expensive postal code), where a quick thumb through the racks revealed an Armani men's suit for £80, Gucci shoes for £25, Abercrombie &amp; Fitch jeans for £25 and Ralph Lauren sandals for £30, not to mention the vintage items you can sometimes find here. At 85 Ebury Street; 44-20-7730-2235. On Kensington Church Street, where a younger crowd shops, the Notting Hill Housing Trust (57 Kensington Church Street; 44-20-7937-5274) recently had several pairs of True Religion jeans for £60 (they normally sell for almost twice that) and even a brand new Kate Spade bag for £60.</p>
+        <p>Best Money-Saving Tip  Time Out London (www.timeout.com/london) offers weekly deals at top restaurants that suddenly find themselves with free tables. It was possible recently to book a three-course weekday lunch with coffee for £25 at Tom Aikens, the original restaurant of one of London's hottest chefs, whose second establishment just down the road, Tom's Kitchen, is currently one of the most coveted reservations in town.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

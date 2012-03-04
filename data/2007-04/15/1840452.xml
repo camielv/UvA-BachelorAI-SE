@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Another Angle On the V-Twins</title>
+    <meta content="15HANDLE" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Automobiles" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="12" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Automobiles" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/15/automobiles/autoreviews/15HANDLE.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840452"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Italy</classifier>
+        <classifier class="online_producer" type="descriptor">Motorcycles, Motor Bikes and Motorscooters</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motorcycles, Motor Bikes and Motorscooters</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B06E5DD133FF936A25757C0A9619C8B63" item-length="295" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Another Angle On the V-Twins</hl1>
+        <hl2 class="online_headline">Another Angle on the V-Twins</hl2>
+      </hedline>
+      <byline class="print_byline">By JERRY GARRETT</byline>
+      <byline class="normalized_byline">Garrett, Jerry</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>IN the revival of Italian motorcycle brands in recent years -- Ducati most notably, but Aprilia, Laverda and MV Agusta as well -- the make with the greatest reserve of emotional equity in the United States may be Moto Guzzi. American enthusiasts often regard Moto Guzzi as Italy's Harley-Davidson, with just as much character and attitude (though a much smaller product line).</p>
+        <p>Moto Guzzi has rightly been renowned for its V-twin engines, much as Harley has. Like Harley the company, Moto Guzzi has survived multiple financial crises. Aprilia, a maker of motorcycles and scooters, saved Moto Guzzi in 2000, announced development of new bikes, then collapsed itself. More recently, Moto Guzzi (and Aprilia) was rescued by the Piaggio Group, the scooter maker.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>IN the revival of Italian motorcycle brands in recent years  Ducati most notably, but Aprilia, Laverda and MV Agusta as well  the make with the greatest reserve of emotional equity in the United States may be Moto Guzzi. American enthusiasts often regard Moto Guzzi as Italy’s Harley-Davidson, with just as much character and attitude (though a much smaller product line).</p>
+      </block>
+      <block class="full_text">
+        <p>IN the revival of Italian motorcycle brands in recent years -- Ducati most notably, but Aprilia, Laverda and MV Agusta as well -- the make with the greatest reserve of emotional equity in the United States may be Moto Guzzi. American enthusiasts often regard Moto Guzzi as Italy's Harley-Davidson, with just as much character and attitude (though a much smaller product line).</p>
+        <p>Moto Guzzi has rightly been renowned for its V-twin engines, much as Harley has. Like Harley the company, Moto Guzzi has survived multiple financial crises. Aprilia, a maker of motorcycles and scooters, saved Moto Guzzi in 2000, announced development of new bikes, then collapsed itself. More recently, Moto Guzzi (and Aprilia) was rescued by the Piaggio Group, the scooter maker.</p>
+        <p>The immediate result has been the introduction of a new family of bikes that give Moto Guzzi an invigorated presence on the international stage. This line includes the Norge 1200 touring bike, the Breva 1100 unadorned version and the Griso 1100, called a techno-custom because of its many styling adornments. I test-rode the fashion-forward Griso, in blood-red paint worthy of a Ferrari.</p>
+        <p>The lean 473-pound Griso features an exposed twin-spar frame that serves not just as a rock-solid platform for the mechanicals, but also as a wrap-around showcase for Italian design.</p>
+        <p>The Griso handles as precisely as an Aprilia sport bike, but the big differentiator is its 1,064 cc engine, with cylinders poking out left and right in Guzzi tradition, rather than the front-and-back layout of a Harley or Ducati twin. It makes a delightful whump-whump -- like a helicopter -- as it authoritatively delivers 88 rambunctious horses to the pavement.</p>
+        <p>It's a sound that should stir the hearts of Guzzi lovers, at least those with $13,490 -- until the next financial crisis.</p>
+        <p>JERRY GARRETT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

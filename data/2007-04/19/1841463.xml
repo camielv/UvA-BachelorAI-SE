@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>World Briefing | Asia: Pakistan: Chief Judge Challenges His Judges</title>
+    <meta content="19briefs-4" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1841463"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070419T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A02E7D61E3FF93AA25757C0A9619C8B63" item-length="68" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>World Briefing | Asia: Pakistan: Chief Judge Challenges His Judges</hl1>
+      </hedline>
+      <byline class="print_byline">By SALMAN MASOOD</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Iftikhar Mohammad Chaudhry, the chief justice suspended by President Pervez Musharraf last month, appeared before the Supreme Judicial Council to defend himself on charges of misuse of power. He has filed a petition in the Supreme Court, the court he once headed, challenging the constitutional authority of the five-judge council, said his lawyer, Chaudhry Aitzaz Ahsan. The council adjourned the hearing until Tuesday.</p>
+        <p>SALMAN MASOOD</p>
+      </block>
+      <block class="full_text">
+        <p>Iftikhar Mohammad Chaudhry, the chief justice suspended by President Pervez Musharraf last month, appeared before the Supreme Judicial Council to defend himself on charges of misuse of power. He has filed a petition in the Supreme Court, the court he once headed, challenging the constitutional authority of the five-judge council, said his lawyer, Chaudhry Aitzaz Ahsan. The council adjourned the hearing until Tuesday.</p>
+        <p>SALMAN MASOOD</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

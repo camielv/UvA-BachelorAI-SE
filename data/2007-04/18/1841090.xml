@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Hot Stuff, Ready to Heat: Chilies, Cactus and Ribs</title>
+    <meta content="18rosa" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining, Dining Out/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Dining and Wine" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1841090"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="FOOD STUFF"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Columns/Food Stuff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070418T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9807E7DE1E3FF93BA25757C0A9619C8B63" item-length="154" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Hot Stuff, Ready to Heat: Chilies, Cactus and Ribs</hl1>
+      </hedline>
+      <byline class="print_byline">By Florence Fabricant</byline>
+      <byline class="normalized_byline">Fabricant, Florence</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Is it worth $9.99 to have someone buy and cook short ribs, shred them, season them with chipotle, arbol and pasilla chilies, mix them with slices of nopales (cactus paddles), fill two soft tortillas with the mixture and slather them with a rich sauce so you can have beef short rib enchiladas with salsa mestiza and cactus for dinner?</p>
+        <p>That is one of eight prepared, ready-to-microwave main dishes devised by Roberto Santibañez, the culinary director of the Rosa Mexicano chain, and available online from FreshDirect. The enchiladas are excellent. Moist turbot and rice in a lusty Vera Cruz-style sauce ($9.99) comes close, but for its undercooked asparagus and chayote. In addition to the choice of prepared dishes ($8.99 to $13.99) are preseasoned meats and seafood ($2.99 to $11.99 a pound), including lush Berkshire pork chops with a rich guajillo chili marinade, ready to bake, broil or grill, $4.49 a pound; freshdirect.com.</p>
+      </block>
+      <block class="full_text">
+        <p>Is it worth $9.99 to have someone buy and cook short ribs, shred them, season them with chipotle, arbol and pasilla chilies, mix them with slices of nopales (cactus paddles), fill two soft tortillas with the mixture and slather them with a rich sauce so you can have beef short rib enchiladas with salsa mestiza and cactus for dinner?</p>
+        <p>That is one of eight prepared, ready-to-microwave main dishes devised by Roberto Santibañez, the culinary director of the Rosa Mexicano chain, and available online from FreshDirect. The enchiladas are excellent. Moist turbot and rice in a lusty Vera Cruz-style sauce ($9.99) comes close, but for its undercooked asparagus and chayote. In addition to the choice of prepared dishes ($8.99 to $13.99) are preseasoned meats and seafood ($2.99 to $11.99 a pound), including lush Berkshire pork chops with a rich guajillo chili marinade, ready to bake, broil or grill, $4.49 a pound; freshdirect.com.  FOOD STUFF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

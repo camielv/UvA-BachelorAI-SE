@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Manhattan: Survey On Apartment Vacancies</title>
+    <meta content="24mbrfs-3" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/24/nyregion/24mbrfs-rental.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842678"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="New York"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Housing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Renting and Leasing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+        <location class="online_producer">Manhattan (NYC)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070424T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D03E7DC143EF937A15757C0A9619C8B63" item-length="119" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Manhattan: Survey On Apartment Vacancies</hl1>
+        <hl2 class="online_headline">Manhattan: Survey on Apartment Vacancies</hl2>
+      </hedline>
+      <byline class="print_byline">By CHRISTINE HAUGHNEY; Compiled by John Sullivan</byline>
+      <byline class="normalized_byline">Haughney, Christine</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The vacancy rate for rental apartments in nearly every Manhattan neighborhood remained below 1 percent for all of 2006, according to data released yesterday by the rental brokerage firm Citi Habitats Inc. Last year was the first time in the five years that Citi Habitats has been collecting this data that the vacancy rate was below 1 percent throughout the whole year. In the West Village, the vacancy rate shrank as low as 0.49 percent. Prices for studio, one-bedroom and two-bedroom apartments throughout Manhattan jumped by about 9 percent from the previous year, and prices for three-bedroom apartments rose by nearly 14 percent. Citi Habitats surveyed 60,000 units for its report.</p>
+        <p>CHRISTINE HAUGHNEY</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The vacancy rate for rental apartments in nearly every Manhattan neighborhood remained below 1 percent for all of 2006, according to data released yesterday by the rental brokerage firm Citi Habitats Inc. Last year was the first time in the five years that Citi Habitats has been collecting this data that the vacancy rate was below 1 percent throughout the whole year. In the West Village, the vacancy rate shrank as low as 0.49 percent. Prices for studio, one-bedroom and two-bedroom apartments throughout Manhattan jumped by about 9 percent from the previous year, and prices for three-bedroom apartments rose by nearly 14 percent. Citi Habitats surveyed 60,000 units for its report.</p>
+      </block>
+      <block class="full_text">
+        <p>The vacancy rate for rental apartments in nearly every Manhattan neighborhood remained below 1 percent for all of 2006, according to data released yesterday by the rental brokerage firm Citi Habitats Inc. Last year was the first time in the five years that Citi Habitats has been collecting this data that the vacancy rate was below 1 percent throughout the whole year. In the West Village, the vacancy rate shrank as low as 0.49 percent. Prices for studio, one-bedroom and two-bedroom apartments throughout Manhattan jumped by about 9 percent from the previous year, and prices for three-bedroom apartments rose by nearly 14 percent. Citi Habitats surveyed 60,000 units for its report.</p>
+        <p>CHRISTINE HAUGHNEY</p>
+        <p>New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

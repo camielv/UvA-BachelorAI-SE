@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Appreciating Salonika</title>
+    <meta content="29letters-3" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1843623"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Travel and Vacations</classifier>
+        <location class="indexing_service">Greece</location>
+        <location class="indexing_service">Salonika (Greece)</location>
+        <person class="indexing_service">Silver, Stephen A</person>
+        <person class="indexing_service">Kakissis, Joanna</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Greece</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9407E6D7143EF93AA15757C0A9619C8B63" item-length="82" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Appreciating Salonika</hl1>
+      </hedline>
+      <abstract>
+        <p>Stephen A Silver letter on Joanna Kakissis's April 8 travel article on visit to Salonika, Greece; photo</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor: Thank you for Joanna Kakissis' ''Salonika: Greek Youth Remake 'Seattle Of the Balkans' '' (Next Stop, April 8), which noted that Thessaloniki (the Greek name for Salonika) is more than just ''the ignored, unloved and lonesome little sister of Athens.'' But to truly appreciate the unique history of Thessaloniki -- especially its rich Jewish and Muslim history -- one should have in hand Mark Mazower's remarkable book ''Salonica, City of Ghosts.''</p>
+        <p>Stephen A. Silver  Walnut Creek, Calif.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor: Thank you for Joanna Kakissis' ''Salonika: Greek Youth Remake 'Seattle Of the Balkans' '' (Next Stop, April 8), which noted that Thessaloniki (the Greek name for Salonika) is more than just ''the ignored, unloved and lonesome little sister of Athens.'' But to truly appreciate the unique history of Thessaloniki -- especially its rich Jewish and Muslim history -- one should have in hand Mark Mazower's remarkable book ''Salonica, City of Ghosts.''</p>
+        <p>Stephen A. Silver  Walnut Creek, Calif.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

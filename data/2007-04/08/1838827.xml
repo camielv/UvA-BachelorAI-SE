@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>What G.E.'s Profit Says About The Planet</title>
+    <meta content="08mark" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/08/business/yourmoney/08mark.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1838827"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MARKET WEEK"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Market Week</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Finance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Markets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">United States Economy</classifier>
+        <classifier class="online_producer" type="descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Economy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+        <org class="online_producer">General Electric Co</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070408T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A06E1D8173FF93BA35757C0A9619C8B63" item-length="445" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>What G.E.'s Profit Says About The Planet</hl1>
+        <hl2 class="online_headline">What G.E.’s Profit Says About the Planet</hl2>
+      </hedline>
+      <byline class="print_byline">By CONRAD DE AENLLE</byline>
+      <byline class="normalized_byline">De Aenlle, Conrad</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>AS General Electric goes, so goes the world, more or less.</p>
+        <p>The size, worldwide reach and multiple business lines of this conglomerate allow its earnings statements to serve for some investment advisers as useful indicators of global economic conditions.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>When G.E. announces first-quarter results on Friday, they could show that the world goes pretty well, even if the American economy could be going better.</p>
+      </block>
+      <block class="full_text">
+        <p>AS General Electric goes, so goes the world, more or less.</p>
+        <p>The size, worldwide reach and multiple business lines of this conglomerate allow its earnings statements to serve for some investment advisers as useful indicators of global economic conditions.</p>
+        <p>When G.E. announces first-quarter results on Friday, they could show that the world goes pretty well, even if the American economy could be going better, said Richard Tortoriello, who covers the company for Standard &amp; Poor's. He predicts 44 cents a share in operating profit.</p>
+        <p>That would be the same as the average estimate of Wall Street analysts and a 10 percent improvement over the comparable figure reported for the first quarter of 2006.</p>
+        <p>It would probably put the company well ahead of the typical constituent of the S.&amp; P. 500-stock index, too.</p>
+        <p>After a long period of double-digit-percentage earnings growth for the index, the rate of growth has begun to decline. Stephen Biggar, director of American equity research at S.&amp; P., expects a sharp deceleration in the first quarter.</p>
+        <p>Earnings forecasts ''have gone pretty steadily downward,'' he noted. As it becomes harder to make a buck here, strength at G.E. would hint that there are richer pickings elsewhere.</p>
+        <p>''G.E. is a bellwether for the global economy,'' Mr. Tortoriello explained. ''It's a $160 billion company'' in revenue. ''That makes it bigger than some small countries out there. It's aligning its portfolio with big trends, like health care, aerospace, oil and gas, so it gives me a sense of what's going on globally.''</p>
+        <p>The sense he expects to get from G.E.'s report is that the United States is not as big an engine of growth as it usually is, but that other countries are picking up the slack. Evidence from G.E. and its big industrial peers, like United Technologies and Boeing, suggests that ''good growth is continuing outside the U.S.''</p>
+        <p>Sources of growth that G.E. may be tapping especially well include infrastructure development in emerging economies and corporate finance worldwide, he said.</p>
+        <p>''If we get a little bit weaker, the rest of the world can still hold on to that growth,'' Mr. Tortoriello predicted.</p>
+        <p>DATA WATCH -- The economic calendar is fairly thin this week, with crucial reports clustered on Friday the 13th.</p>
+        <p>A Bloomberg News poll of economists foresees a 0.2 percent increase in March wholesale prices, excluding food and energy items.</p>
+        <p>Other figures to be announced Friday include the trade deficit for February, which is estimated to have expanded to $60 billion from $59.1 billion in January, and the University of Michigan's initial reading of April consumer confidence; a dip to 87.5 from 88.4 is anticipated in the Bloomberg poll.</p>
+        <p>MARKET WEEK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

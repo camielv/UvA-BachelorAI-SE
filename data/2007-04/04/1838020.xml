@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Palmer Content to Be Honorary Starter at Masters</title>
+    <meta content="04augusta" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/04/sports/golf/04augusta.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1838020"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Golf</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Golf</classifier>
+        <classifier class="online_producer" type="descriptor">Golf</classifier>
+        <classifier class="online_producer" type="descriptor">Masters Golf Tournament</classifier>
+        <classifier class="online_producer" type="general_descriptor">Masters Golf Tournament</classifier>
+        <classifier class="online_producer" type="general_descriptor">Golf</classifier>
+        <classifier class="online_producer" type="general_descriptor">Awards, Decorations and Honors</classifier>
+        <person class="online_producer">Palmer, Arnold</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070404T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E0D61F30F937A35757C0A9619C8B63" item-length="196" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Palmer Content to Be Honorary Starter at Masters</hl1>
+        <hl2 class="online_headline">Palmer Content to Be Honorary Starter at Masters</hl2>
+      </hedline>
+      <dateline>AUGUSTA, Ga., April 3</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Three years after Arnold Palmer retired from playing the Masters, he will stand on the first tee Thursday and hit a drive as the tournament's honorary starter. Palmer, a four-time champion, played in 50 consecutive tournaments after making his first appearance in 1955.</p>
+        <p>''I think the time has come,'' Palmer, 77, said. ''My competitive golf is done. I have no intentions of playing competitively on the Tour. I hope in some way I can show my gratitude to the fans who have followed and supported me these many years.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Three years after Arnold Palmer retired from playing the Masters, he will stand on the first tee Thursday and hit a drive as the tournament’s honorary starter.</p>
+      </block>
+      <block class="full_text">
+        <p>Three years after Arnold Palmer retired from playing the Masters, he will stand on the first tee Thursday and hit a drive as the tournament's honorary starter. Palmer, a four-time champion, played in 50 consecutive tournaments after making his first appearance in 1955.</p>
+        <p>''I think the time has come,'' Palmer, 77, said. ''My competitive golf is done. I have no intentions of playing competitively on the Tour. I hope in some way I can show my gratitude to the fans who have followed and supported me these many years.''</p>
+        <p>Billy Payne, the Augusta chairman, said, ''We are absolutely delighted that Arnold Palmer will once again be on the first tee at Augusta, a place where he belongs, and among thousands that traced their love of the game to his inspiration.''</p>
+        <p>The tradition of an honorary starter began in 1963 and has been performed by six players -- Jock Hutchison, Fred McLeod, Byron Nelson, Gene Sarazen, Ken Venturi and Sam Snead.</p>
+        <p>Asked if he might be tempted to hit his tee shot and keep on playing, Palmer said: ''You know, I'm not too smart, but I'm not stupid. I think I'll just let it go wherever it goes.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

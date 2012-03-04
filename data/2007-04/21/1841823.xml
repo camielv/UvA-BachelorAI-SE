@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CHINA'S MIGHTY ECONOMY</title>
+    <meta content="21five-3" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1841823"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="FIVE DAYS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="indexing_service" type="descriptor">Credit</classifier>
+        <classifier class="indexing_service" type="descriptor">Interest Rates</classifier>
+        <location class="indexing_service">China</location>
+        <location class="indexing_service">Germany</location>
+        <person class="indexing_service">Barboza, David</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/China</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Germany</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Germany</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/China</classifier>
+        <classifier class="online_producer" type="general_descriptor">Interest Rates</classifier>
+        <classifier class="online_producer" type="general_descriptor">Credit</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070421T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A00E5D9163EF932A15757C0A9619C8B63" item-length="212" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CHINA'S MIGHTY ECONOMY</hl1>
+      </hedline>
+      <byline class="print_byline">By DAVID BARBOZA</byline>
+      <byline class="normalized_byline">Barboza, David</byline>
+      <abstract>
+        <p>Five Days column; China said its economy expanded by 11 percent in first quarter, putting it on pace to overtake Germany as world's third-largest economy; growth will probably force government to step up efforts to prevent economy from overheating; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BLACKBERRY users' thumbs were idle; private equity investors got a thumbs up from Sallie Mae; and a jury turned thumbs down on Joseph P. Nacchio, the former chief executive of Qwest.</p>
+        <p>China said its economy expanded by 11 percent in the first quarter, putting it on a pace to overtake Germany as the world's third-largest economy.</p>
+      </block>
+      <block class="full_text">
+        <p>BLACKBERRY users' thumbs were idle; private equity investors got a thumbs up from Sallie Mae; and a jury turned thumbs down on Joseph P. Nacchio, the former chief executive of Qwest.</p>
+        <p>China said its economy expanded by 11 percent in the first quarter, putting it on a pace to overtake Germany as the world's third-largest economy.</p>
+        <p>The growth will probably force Beijing to step up efforts to prevent the economy from overheating. More than a dozen interest rate increases and policy tightening measures over the last three years have been unable to tame the economy.</p>
+        <p>There is also mounting pressure on China to allow its currency, the yuan, to appreciate more quickly.</p>
+        <p>One challenge for China is to keep the economy humming ahead of 2008, when Beijing is set to play host to the Summer Olympics.</p>
+        <p>DAVID BARBOZA</p>
+        <p>MOST POPULAR -- Following are the most-popular business news articles on nytimes.com from April 14 through April 20:  1. I.R.S. Audits Middle Class More Often, More Quickly  2. Pill That Eliminates the Period Gets Mixed Reviews  3. Housing Slump Takes a Toll on Illegal Immigrants  4. Baby on Board, and a Photography Business, Too  5. Stung by a Fraud Indictment, a Power Broker Punches Back  Links are at nytimes.com/business.</p>
+        <p>FIVE DAYS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

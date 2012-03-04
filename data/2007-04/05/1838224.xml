@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Impac Dublin Literary Award Finalists Announced</title>
+    <meta content="05impac" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="" name="print_section"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/05/books/05impac.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1838224"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070405T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F00E1DB173FF936A35757C0A9619C8B63" item-length="85" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Impac Dublin Literary Award Finalists Announced</hl1>
+        <hl2 class="online_headline">Impac Dublin Literary Award Finalists Announced</hl2>
+      </hedline>
+      <byline class="print_byline">By LAWRENCE VAN GELDER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Salman Rushdie of Britain, Cormac McCarthy and Jonathan Safran Foer of the United States and J. M. Coetzee of South Africa made it to the shortlist of eight contenders yesterday for the $135,500 International Impac Dublin Literary Award, billed as the world's richest prize for a single work of fiction, Reuters reported. Other finalists are Per Petterson of Norway, Peter Hobbs and Julian Barnes of Britain and Sebastian Barry of Ireland. The winner will be announced in Dublin on June 14.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Salman Rushdie, Cormac McCarthy, Jonathan Safran Foer and J. M. Coetzee made it to the shortlist of eight contenders for the $135,500 prize.</p>
+      </block>
+      <block class="full_text">
+        <p>Salman Rushdie of Britain, Cormac McCarthy and Jonathan Safran Foer of the United States and J. M. Coetzee of South Africa made it to the shortlist of eight contenders yesterday for the $135,500 International Impac Dublin Literary Award, billed as the world's richest prize for a single work of fiction, Reuters reported. Other finalists are Per Petterson of Norway, Peter Hobbs and Julian Barnes of Britain and Sebastian Barry of Ireland. The winner will be announced in Dublin on June 14.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

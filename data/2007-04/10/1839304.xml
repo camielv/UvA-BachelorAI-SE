@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A.M.D. Plans To Cut Back On Spending And Hiring</title>
+    <meta content="10chip" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/10/technology/10chip.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1839304"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Sales</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Chips</classifier>
+        <classifier class="indexing_service" type="descriptor">Labor</classifier>
+        <org class="indexing_service">Advanced Micro Devices</org>
+        <org class="indexing_service">Intel Corp</org>
+        <person class="indexing_service">Darlin, Damon</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Sales and Business Development</classifier>
+        <classifier class="online_producer" type="descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sales</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Chips</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+        <org class="online_producer">Advanced Micro Devices Inc</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070410T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9906E6DC153FF933A25757C0A9619C8B63" item-length="579" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A.M.D. Plans To Cut Back On Spending And Hiring</hl1>
+        <hl2 class="online_headline">A.M.D. Plans to Cut Back on Spending and Hiring</hl2>
+      </hedline>
+      <byline class="print_byline">By DAMON DARLIN</byline>
+      <byline class="normalized_byline">Darlin, Damon</byline>
+      <abstract>
+        <p>Advanced Micro Devices says sharp decline in revenue is prompting it to make cutbacks in hiring and spending in order to reduce operating costs; expects to report revenue in first quarter of $1.23 billion, far below what analysts had forecast; announcement raises questions of whether slowdown is result of AMD's battles for market share with industry leader Intel or whether it is early signal of slowdown of sales of Pcs and servers for corporate data centers (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Advanced Micro Devices, which makes computer processors, said yesterday that a sharp decline in revenue was prompting it to make cutbacks in hiring and spending in order to reduce operating costs.</p>
+        <p>A.M.D. surprised Wall Street analysts yesterday by announcing that it expected to report revenue in the first quarter of $1.23 billion, far below what analysts had forecast. In making the revision, A.M.D. cited lower selling prices for its computer processors and ''significantly lower unit sales.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The chipmaker, whose forecast was well below Wall Street’s expectations, announced a restructuring to lower costs.</p>
+      </block>
+      <block class="full_text">
+        <p>Advanced Micro Devices, which makes computer processors, said yesterday that a sharp decline in revenue was prompting it to make cutbacks in hiring and spending in order to reduce operating costs.</p>
+        <p>A.M.D. surprised Wall Street analysts yesterday by announcing that it expected to report revenue in the first quarter of $1.23 billion, far below what analysts had forecast. In making the revision, A.M.D. cited lower selling prices for its computer processors and ''significantly lower unit sales.''</p>
+        <p>The announcement raised questions of whether the slowdown was a result of A.M.D.'s battles for market share with the industry leader, Intel, or whether it was an early signal of a slowdown of sales of PCs and servers for corporate data centers.</p>
+        <p>A.M.D. had said in January that it expected to report revenue of about $1.67 billion in the first quarter, but in March it warned analysts that revenue would be lower. The consensus among Wall Street analysts was $1.53 billion. The company's latest projection is 20 percent below that.</p>
+        <p>''It's a big drop,'' an analyst with A. G. Edwards, David Wong, said, ''But I don't think it necessarily reflects on the end market.''</p>
+        <p>Other analysts also saw no unexpected slowdown in consumer PCs sales, although sales of computer equipment to corporations have continued to be weak.</p>
+        <p>It might suggest, Mr. Wong said, that A.M.D. was losing market share to Intel.</p>
+        <p>A.M.D. had gained market share last year, garnering as much as 25 percent at the end of 2006. But as it was doing so, its average selling price fell to $75 at the end of the year from $99 at the beginning. Intel's average selling price fell, but at a far lower rate, to $130 from $137.</p>
+        <p>Intel revamped its product line in 2006 and sold more of its higher-priced chips to makers of servers. Intel has not cut its list prices, analysts said, while A.M.D. has cut its list prices several times in the last 12 months.</p>
+        <p>Dean McCarron, who tracks the PC semiconductor market for Mercury Research of Cave Creek, Ariz., said that A.M.D.'s problem might stem from the way it shifted much of its production to large PC makers like Dell in 2006. Demand slowed from the big makers, he said, and as A.M.D. tried to move the excess inventory to other smaller makers, it discovered those customers were buying from Intel.</p>
+        <p>''Demand that existed at the beginning of the first quarter didn't exist at the end,'' Mr. McCarron said. The shift in consumer preference to notebook PCs from desktop models may have also played a role -- A.M.D. is not as strong in products made for notebooks.</p>
+        <p>A.M.D.'s plans to reduce its costs suggested to analysts that the company was acknowledging that the sharp decline in prices was going to continue. A.M.D. said it would reduce 2007 capital spending by about $500 million from $2.5 billion. It said the cutback would not affect its production plans for 2007.</p>
+        <p>News of the overhaul sent A.M.D. stock up 49 cents, or 3.8 percent, to $13.35. Intel shares rose 52 cents, or 2.7 percent, to $20.10.</p>
+        <p>The revenue shortfall also had Wall Street analysts adjusting their estimates of the company's first-quarter loss.</p>
+        <p>Mr. Wong, for example, said that the company would report a loss of about $400 million, or 77 cents a share, including an adjustment for a merger-related charge.</p>
+        <p>The company plans to announce its first-quarter financial results on April 19. Intel will announce its results next Tuesday.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>All Subtlety Is Lost</title>
+    <meta content="08jewelry" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838759"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="PULSE"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="general_descriptor">Jewels and Jewelry</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070408T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F07EFDB173FF93BA35757C0A9619C8B63" item-length="126" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>All Subtlety Is Lost</hl1>
+      </hedline>
+      <byline class="print_byline">By LOLA OGUNNAIKE</byline>
+      <byline class="normalized_byline">Ogunnaike, Lola</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Those looking for understated baubles will do better passing on the jewelry company Lia Sophia's latest collection, Rue Royale. With its giant dome rings, cabochon necklaces and cuff bracelets adorned with colored crystals, the line was designed with one purpose in mind: to make a statement. ''The goal is to be noticed, to have people come up to you and talk about the jewelry,'' said the line's designer, Dani Stahl, who is also the accessories director at Nylon magazine. ''It's not for the shy.'' Extroverts like Sienna Miller, Teri Hatcher and Kate Hudson have been seen in the Art Deco-inspired pieces in the line, which range in price from $150 cocktail rings to $1,200 medallion necklaces, and can be purchased at liasophia.com.</p>
+        <p>LOLA OGUNNAIKE</p>
+      </block>
+      <block class="full_text">
+        <p>Those looking for understated baubles will do better passing on the jewelry company Lia Sophia's latest collection, Rue Royale. With its giant dome rings, cabochon necklaces and cuff bracelets adorned with colored crystals, the line was designed with one purpose in mind: to make a statement. ''The goal is to be noticed, to have people come up to you and talk about the jewelry,'' said the line's designer, Dani Stahl, who is also the accessories director at Nylon magazine. ''It's not for the shy.'' Extroverts like Sienna Miller, Teri Hatcher and Kate Hudson have been seen in the Art Deco-inspired pieces in the line, which range in price from $150 cocktail rings to $1,200 medallion necklaces, and can be purchased at liasophia.com.</p>
+        <p>LOLA OGUNNAIKE  PULSE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

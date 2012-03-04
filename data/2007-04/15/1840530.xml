@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Start-Ups and Catch-Ups</title>
+    <meta content="15boss" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/15/business/yourmoney/15boss.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840530"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="OFFICE SPACE: THE BOSS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/The Boss</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Careers</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Human Resources</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Management</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Startup</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Biking</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bicycles and Bicycling</classifier>
+        <org class="online_producer">Symantec Corp</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B02E6D6133FF936A25757C0A9619C8B63" item-length="793" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Start-Ups and Catch-Ups</hl1>
+        <hl2 class="online_headline">Start-Ups and Catch-Ups</hl2>
+      </hedline>
+      <byline class="print_byline">By ENRIQUE T. SALEM; As told to Amy Zipkin.</byline>
+      <byline class="normalized_byline">Zipkin, Amy; Salem, Enrique T</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>I ATTENDED Culver City High School in greater Los Angeles and played high school football. I played offensive guard, defensive tackle and was also a long snapper. I worked out year-round. I was a good student, my class valedictorian, but I was not big enough to play Division 1.</p>
+        <p>I was recruited by the Ivy League and got accepted to Harvard, Yale, Princeton, Columbia and Dartmouth.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>“Everyone wanted us to be successful in fighting spam,” said Enrique T. Salem, group president, worldwide sales and marketing, Symantec.</p>
+      </block>
+      <block class="full_text">
+        <p>I ATTENDED Culver City High School in greater Los Angeles and played high school football. I played offensive guard, defensive tackle and was also a long snapper. I worked out year-round. I was a good student, my class valedictorian, but I was not big enough to play Division 1.</p>
+        <p>I was recruited by the Ivy League and got accepted to Harvard, Yale, Princeton, Columbia and Dartmouth.</p>
+        <p>Harvard flew me out to Cambridge on a Friday and assigned someone to be my host. I spent part of the weekend on campus meeting professors. Sunday morning I was talking to my host as I was leaving. I said, ''I've got a decision to make.'' He said: ''You'll make it. Just don't make the decision based on a name.''</p>
+        <p>Then I went up to Hanover, N.H. Hanover was really beautiful. Dartmouth had the most Ivy League titles in football and a great computer science department. I said, ''Where do I want to spend four years of my life?''</p>
+        <p>The cold in Hanover was incredible. I did adapt. The first year I went home for the holidays. I left Los Angeles to come back to school on Jan. 1 since classes started on Jan. 2. The Rose Bowl was being played in Los Angeles, and temperatures were in the 70s. When I arrived in Hanover it was 14 below zero. I said: ''What have I done? This is nuts.'' I thought about coming home. I'd get around campus by going through buildings and sprinting across open spaces with my head down.</p>
+        <p>After I graduated I went right back to Los Angeles and got an entry-level job as a programmer analyst at Security Pacific Bank. I'd arrive at 6 a.m. and work until 8 p.m. It was pretty much head down for a year and a half.</p>
+        <p>Then I went to work at a start-up of six people, and when it reached 10 people, it was acquired by VM Software. In all, I've worked for six start-ups and all have been acquired.</p>
+        <p>So I went back to the bank. And then I met Peter Norton, went to work for him, and Norton Computing was acquired by Symantec.</p>
+        <p>By 1999 I was running a division of Symantec, traveling a tremendous amount and chasing the Internet dream. I left Symantec for Ask Jeeves. We were going through the Internet bubble. The company had $6 million in revenue and a market capitalization of $7 billion.</p>
+        <p>I then spent 13 months at another start-up and was recruited to be the C.E.O. of Brightmail, in which Symantec had a 12 percent stake. It had been founded during the bubble to solve the problem of spam and had lost its way.</p>
+        <p>In April 2002, about two months after I got there, PC Magazine had a review of products that were able to fight spam. In effectiveness, we came in dead last. I'd go to parent meetings at my daughter's school and people would ask what I was doing. When I told them they would say: ''God bless you. We hope you win.'' Everyone wanted us to be successful in fighting spam.</p>
+        <p>I recruited a new head of sales, Mike Conner, and a new head of engineering, Brad Kingsbury. Four months after the first rating, I found out the magazine was going to do another review in the November issue. PC Magazine said they needed our software by Sept. 1. For the next weeks, it was lots of coffee and lots of pizza. By the time the issue came out, we had gone from last to first.</p>
+        <p>I have a 20-gear bike and I ride it all the time. When I got back from college, I did rides around Los Angeles and then didn't do them for eight or nine years.</p>
+        <p>Last year I did a ride with a group from my daughter's school. We took our bikes on BART to the Embarcadero in San Francisco. We rode over the Golden Gate Bridge through Sausalito to Point Reyes, past Stinson Beach and then took the ferry across the San Francisco Bay. The ride was approximately 75 miles.</p>
+        <p>I've competed in a 100-mile bike race from Carmel to Big Sur. When I participate in a biking event, the goal is to finish. Often, people will ask how I did in a particular ride of any significant distance and I will usually respond with, ''I survived.''</p>
+        <p>ENRIQUE T. SALEM  Group president, worldwide sales and marketing, Symantec</p>
+        <p>BIRTH DATE  Nov. 2, 1965</p>
+        <p>BIRTHPLACE  Barranquilla, Colombia</p>
+        <p>RECENTLY READ  ''Dads and Daughters,'' by Joe Kelly</p>
+        <p>FAVORITE QUOTATION  ''Our doubts are traitors and make us lose the good we oft might win by fearing to attempt.'' -- Shakespeare</p>
+        <p>OFFICE SPACE: THE BOSS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

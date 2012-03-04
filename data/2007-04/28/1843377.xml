@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Obama at Home</title>
+    <meta content="l28dowd" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1843377"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Presidential Election of 2008</classifier>
+        <person class="indexing_service">Koskoff, Josh</person>
+        <person class="indexing_service">Dowd, Maureen</person>
+        <person class="indexing_service">Obama, Michelle</person>
+        <person class="indexing_service">Obama, Barack (Sen)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008/Candidates</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070428T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE2D9123EF93BA15757C0A9619C8B63" item-length="160" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Obama at Home</hl1>
+      </hedline>
+      <abstract>
+        <p>Josh Koskoff letter disagrees with Maureen Dowd's take on Michelle Obama's public airing of Barack Obama's domestic dirty laundry (April 25 Op-Ed)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>I disagree with Maureen Dowd's take on Michelle Obama's public airing of Barack Obama's domestic dirty laundry (''She's Not Buttering Him Up,'' column, April 25). I think that it is politically brilliant for three reasons:</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>I disagree with Maureen Dowd's take on Michelle Obama's public airing of Barack Obama's domestic dirty laundry (''She's Not Buttering Him Up,'' column, April 25). I think that it is politically brilliant for three reasons:</p>
+        <p>First, the glimpse into their daily life projects a marital and familial warmth that categorically and favorably distinguishes him from his main opponent for the Democratic nomination.</p>
+        <p>Second, this side of Barack Obama appeals to the ''silent majority'' of married men like me who are equally deficient in the art of bed- and toast-making (and I suspect also to the women who put up with us, although I don't dare ask my wife).</p>
+        <p>Third, after six-plus years of a delusional president enabled by a first lady with a painful, stand-by-your-man grin, I find the prospect of a first lady who occasionally ranks on the president to keep his ego in check utterly refreshing.</p>
+        <p>Josh Koskoff  Westport, Conn., April 25, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

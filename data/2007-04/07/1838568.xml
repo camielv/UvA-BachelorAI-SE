@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>PAPER DEAL</title>
+    <meta content="07five-2" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838568"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="FIVE DAYS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <org class="indexing_service">Tribune Co</org>
+        <person class="indexing_service">Zell, Samuel</person>
+        <person class="indexing_service">Seelye, Katharine Q</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070407T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B03E3DF143FF934A35757C0A9619C8B63" item-length="267" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>PAPER DEAL</hl1>
+      </hedline>
+      <byline class="print_byline">By KATHARINE Q. SEELYE</byline>
+      <byline class="normalized_byline">Seelye, Katharine Q</byline>
+      <abstract>
+        <p>Five Days column; Chicago real estate mogul Samuel Zell managed to win control of Tribune Co this week in $8.2 billion deal in which he is to invest only $315 million; deal left loophole for others to offer more money than Zell (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Mr. Zell, the Chicago real estate mogul, managed to win control of the Tribune Company this week in an $8.2 billion deal in which he is to invest only $315 million.</p>
+        <p>The deal, which carries a debt of almost $13 billion, seems far from concluded, however. It left a loophole for others to offer more money than Mr. Zell's $34 a share. Breaking the deal with Mr. Zell would cost a relatively low $25 million.</p>
+      </block>
+      <block class="full_text">
+        <p>Mr. Zell, the Chicago real estate mogul, managed to win control of the Tribune Company this week in an $8.2 billion deal in which he is to invest only $315 million.</p>
+        <p>The deal, which carries a debt of almost $13 billion, seems far from concluded, however. It left a loophole for others to offer more money than Mr. Zell's $34 a share. Breaking the deal with Mr. Zell would cost a relatively low $25 million.</p>
+        <p>Many others remain interested in Tribune and its various properties. Eli Broad and Ronald W. Burkle, two Los Angeles billionaires, are considering a new bid for the whole company. They also would like to own just The Los Angeles Times, the biggest Tribune paper, as would a major rival, David Geffen, who appears to have an edge with Mr. Zell.</p>
+        <p>The centerpiece of the Zell transaction is an employee stock ownership plan, which is so complex that employees are still trying to figure it out. It appears the company would no longer contribute to their 401(k) retirement plans. While Mr. Zell would control only a minority of a reconstituted Tribune board, he could veto major transactions.</p>
+        <p>A government filing by the company said that 38 ''key employees'' would be eligible for bonuses from a $6.5 million pool if the Zell deal goes through. A shareholder, Reed Simpson, filed a lawsuit to block the deal. He claimed Tribune's board ''stood on both sides of the transaction and engaged in self-dealing and obtained for themselves personal benefits, including personal financial benefits, not shared equally'' by other stockholders.</p>
+        <p>KATHARINE Q. SEELYE</p>
+        <p>FIVE DAYS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

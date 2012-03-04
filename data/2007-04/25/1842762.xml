@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Officials Quell An Uprising At a Prison In Indiana</title>
+    <meta content="25prison" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/25/us/25prison.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842762"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Prisons and Prisoners</classifier>
+        <classifier class="indexing_service" type="descriptor">Demonstrations and Riots</classifier>
+        <location class="indexing_service">New Castle (Ind)</location>
+        <org class="indexing_service">New Castle Correctional Facility (Ind)</org>
+        <person class="indexing_service">Driehaus, Bob</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Indiana</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Midwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Indiana</classifier>
+        <classifier class="online_producer" type="descriptor">Prisons and Prisoners</classifier>
+        <classifier class="online_producer" type="descriptor">Demonstrations and Riots</classifier>
+        <classifier class="online_producer" type="descriptor">Guards</classifier>
+        <classifier class="online_producer" type="general_descriptor">Guards</classifier>
+        <classifier class="online_producer" type="general_descriptor">Demonstrations and Riots</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prisons and Prisoners</classifier>
+        <location class="online_producer">Indiana</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070425T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9503E5DA143EF936A15757C0A9619C8B63" item-length="314" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Officials Quell An Uprising At a Prison In Indiana</hl1>
+        <hl2 class="online_headline">Officials Quell an Uprising at a Prison in Indiana</hl2>
+      </hedline>
+      <byline class="print_byline">By BOB DRIEHAUS</byline>
+      <byline class="normalized_byline">Driehaus, Bob</byline>
+      <dateline>NEW CASTLE, Ind., April 24</dateline>
+      <abstract>
+        <p>Male inmates at medium-security state prison in New Castle, Ind, riot, injuring two guards and several inmates before being quelled; officers are locked in bathrooms before being released by inmates at New Castle Correctional Facility; about 500 of prison's 1,668 inmates are involved (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Inmates at a medium-security state prison here rioted Tuesday, injuring two guards and several inmates.</p>
+        <p>Officers employed by the G.E.O. Group of Boca Raton, Fla., which runs the prison, were locked in bathrooms before being released by inmates at New Castle Correctional Facility, a men's prison about 40 miles east of Indianapolis.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Officials said the riot began after a group of prisoners took off their shirts in the recreation area to show staff that they would not comply with orders to keep them on.</p>
+      </block>
+      <block class="full_text">
+        <p>Inmates at a medium-security state prison here rioted Tuesday, injuring two guards and several inmates.</p>
+        <p>Officers employed by the G.E.O. Group of Boca Raton, Fla., which runs the prison, were locked in bathrooms before being released by inmates at New Castle Correctional Facility, a men's prison about 40 miles east of Indianapolis.</p>
+        <p>The fighting began at 2 p.m. and was contained by 4:30 p.m., but some inmates were not back in their cells as of 7 p.m., when guards used percussion grenades to subdue some inmates who were still in a common area, said J. David Donahue, the Indiana correction commissioner.</p>
+        <p>The inmates in the courtyard were in handcuffs and were being processed back into their cells, Mr. Donahue said. One of the guards remained hospitalized. The other injuries were not serious.</p>
+        <p>Officials said that about 500 of the prison's 1,668 inmates were involved.</p>
+        <p>The officials said the riot began after a group of prisoners who had been transferred from Arizona took off their shirts in the recreation area to show staff that they would not comply with orders to keep them on.</p>
+        <p>''It went from recreation to a riot in a minute,'' said a 21-year-old corrections officer who insisted on anonymity for fear of not getting a new job after quitting on Tuesday. She said she had hidden in a bathroom before being escorted out of the inner yard by inmates at about 4 p.m.</p>
+        <p>The Arizona inmates, who began being housed here in January, crossed from their section of the facility into the Indiana inmates' section and attacked prison guards, she said. Inmates commandeered radios and key controls that open doors and fences but never broke through the outer fence. Fires were set in the courtyard.</p>
+        <p>''The point is, the system worked,'' said Kit Crane, the Henry County prosecutor. ''No one got through to the outside of the facility.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

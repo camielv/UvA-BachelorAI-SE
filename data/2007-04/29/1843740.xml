@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Catherine Becker, Harry Norman Jr.</title>
+    <meta content="29becker" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/29/fashion/weddings/29becker.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1843740"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Becker, Catherine Anne</person>
+        <person class="indexing_service">Jr., Harry Richard Norman</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D07EFDD123EF93AA15757C0A9619C8B63" item-length="209" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Catherine Becker, Harry Norman Jr.</hl1>
+        <hl2 class="online_headline">Catherine Becker, Harry Norman Jr.</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Catherine Anne Becker and Harry Richard Norman Jr. were married yesterday on the island of Virgin Gorda. The Rev. Lester G. Bowers, a Methodist minister, officiated at the nondenominational ceremony at Little Dix Bay, a resort near Spanish Town in the British Virgin Islands.</p>
+        <p>Ms. Becker, 34, is keeping her name. She works in New York as the producer of medical segments for ''Good Morning America'' on ABC-TV. She graduated from Northwestern and received a master's degree in public health from Columbia.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Catherine Anne Becker and Harry Richard Norman Jr. were married yesterday on the island of Virgin Gorda. The Rev. Lester G. Bowers, a Methodist minister, officiated at the nondenominational ceremony at Little Dix Bay, a resort near Spanish Town in the British Virgin Islands.</p>
+      </block>
+      <block class="full_text">
+        <p>Catherine Anne Becker and Harry Richard Norman Jr. were married yesterday on the island of Virgin Gorda. The Rev. Lester G. Bowers, a Methodist minister, officiated at the nondenominational ceremony at Little Dix Bay, a resort near Spanish Town in the British Virgin Islands.</p>
+        <p>Ms. Becker, 34, is keeping her name. She works in New York as the producer of medical segments for ''Good Morning America'' on ABC-TV. She graduated from Northwestern and received a master's degree in public health from Columbia.</p>
+        <p>She is the daughter of Maureen and William L. Becker of Glen Ellyn, Ill. The bride's father is the general counsel at Harpo Inc., in Chicago. Her mother retired as a coordinator of computer training at the College of DuPage Business and Professional Institute, in Glen Ellyn.</p>
+        <p>Mr. Norman, 40, works in New York as a development executive with Buena Vista Productions, a television production unit of the Walt Disney Company; he works with writers, directors and producers to come up with new television shows. He graduated from West Chester University in Pennsylvania.</p>
+        <p>He is a son of Barbara and H. Richard Norman of Greensboro, Md. The bridegroom's father is a claims adjuster and an inspector for Bartlett, Griffin &amp; Vermilye, an insurance agency in Easton, Md.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

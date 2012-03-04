@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>THE WEEK AHEAD</title>
+    <meta content="02ahead" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837496"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070402T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9900E0D91E30F931A35757C0A9619C8B63" item-length="204" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>THE WEEK AHEAD</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ECONOMIC REPORTS -- The main news of the week will be the unemployment report for March (Friday). Other reports will include the Institute for Supply Management's manufacturing index for March (Monday), the institute's service index for March and factory orders for February (Wednesday), and wholesale trade for February and consumer credit for February (Friday).</p>
+        <p>DISPUTE SETTLEMENT -- Shareholders of the News Corporation are expected to approve an $11 billion asset swap with Liberty Media, which would resolve a dispute between Rupert Murdoch, above, and John C. Malone (Tuesday).</p>
+        <p>SPOTLIGHT ON AUTOS -- The DaimlerChrysler shareholder meeting in Berlin on Wednesday will get a lot of attention after the company's chairman, Dieter Zetsche, said in February that all options were open for the company's Chrysler division, including a possible sale or spinoff. Also, automakers will report their sales for March (Tuesday), and the International Automobile Show in New York will open to the public (Friday).</p>
+        <p>QUARTERLY EARNINGS -- The electronics retailers Best Buy and Circuit City will report quarterly results (Wednesday). Monsanto will also release its results (Wednesday).</p>
+        <p>HOLIDAY WEEKEND -- Stock markets will be closed on Friday and the bond market will close early in observance of Good Friday.</p>
+      </block>
+      <block class="full_text">
+        <p>ECONOMIC REPORTS -- The main news of the week will be the unemployment report for March (Friday). Other reports will include the Institute for Supply Management's manufacturing index for March (Monday), the institute's service index for March and factory orders for February (Wednesday), and wholesale trade for February and consumer credit for February (Friday).</p>
+        <p>DISPUTE SETTLEMENT -- Shareholders of the News Corporation are expected to approve an $11 billion asset swap with Liberty Media, which would resolve a dispute between Rupert Murdoch, above, and John C. Malone (Tuesday).</p>
+        <p>SPOTLIGHT ON AUTOS -- The DaimlerChrysler shareholder meeting in Berlin on Wednesday will get a lot of attention after the company's chairman, Dieter Zetsche, said in February that all options were open for the company's Chrysler division, including a possible sale or spinoff. Also, automakers will report their sales for March (Tuesday), and the International Automobile Show in New York will open to the public (Friday).</p>
+        <p>QUARTERLY EARNINGS -- The electronics retailers Best Buy and Circuit City will report quarterly results (Wednesday). Monsanto will also release its results (Wednesday).</p>
+        <p>HOLIDAY WEEKEND -- Stock markets will be closed on Friday and the bond market will close early in observance of Good Friday.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

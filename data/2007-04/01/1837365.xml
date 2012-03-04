@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Biomechanical Wonder, 100 Times a Game</title>
+    <meta content="01arm" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health; Week in Review" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837365"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="IDEAS &amp; TRENDS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B03E6D71130F932A35757C0A9619C8B63" item-length="541" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Biomechanical Wonder, 100 Times a Game</hl1>
+      </hedline>
+      <byline class="print_byline">By ALAN SCHWARZ and GINA KOLATA</byline>
+      <byline class="normalized_byline">Schwarz, Alan; Kolata, Gina</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE long spring windup is over.</p>
+        <p>Major League Baseball begins its 2007 season tonight, and for the league's 360 pitchers, the challenge not only will be to win, but to stay out of the doctor's office over the course of the 162-game regular season.</p>
+      </block>
+      <block class="full_text">
+        <p>THE long spring windup is over.</p>
+        <p>Major League Baseball begins its 2007 season tonight, and for the league's 360 pitchers, the challenge not only will be to win, but to stay out of the doctor's office over the course of the 162-game regular season.</p>
+        <p>Using your arm to throw a baseball 95 miles an hour or more has long been considered about as natural an act for a human as flapping them while jumping off a cliff. Almost every pitcher in the major leagues undergoes surgery at some point in his career -- often several times. Many sport six-inch scars running up their elbows and shoulders like luggage zippers, where ligaments and tendons have been relocated from remote bodily locales.</p>
+        <p>Pitching is a biomechanical wonder, says Dr. Vonda Wright, an orthopedic surgeon at the University of Pittsburgh Medical Center. A ball thrown by a professional takes less than a half-second from the time of release until it slams into the catcher's mitt some 60 feet away.</p>
+        <p>Accelerating the ball from zero to more than 90 miles an hour is a task so demanding, Dr. Wright says, that a pitcher's shoulder and elbow experience near-failure forces with every pitch. And, Dr. Wright says, ''a pitcher has to recreate that amazing force 100 times a game.'' It's no wonder, then, that pitchers usually have to rest four days after every game.</p>
+        <p>The seeming inevitability of pitching injuries has led some baseball experts to handicap a team's pennant chances not by its ability to sidestep defeats, but to sidestep orthopedists. The cliché has evolved from ''Pitching wins championships'' to ''You can't have enough pitching'' to ''Whoever's pitchers stay healthiest will win.''</p>
+        <p>To put it another way, as the Boston Red Sox ace Curt Schilling often does, ''The team whose No. 1 through 5 starters make the most starts will win the division.''</p>
+        <p>Teams have grown more protective of their pitchers over the past 20 years -- thanks largely to guaranteed contracts, which discourage teams from burning out arms -- and have embraced the use of pitch limits. Whereas Nolan Ryan would often throw 150 pitches in a game, few pitchers today reach 120 or even 110 without extreme scrutiny from the team's front office and the talk-radio firing squad.</p>
+        <p>Debates rage over how 90 pitches can be far more strenuous for a pitcher than 120 depending on the types of pitches and the tightness of the game. But the click-counter has joined chewing tobacco and a strong rump-slap among pitching-coach essentials.</p>
+        <p>''I think that you don't have a set, fast rule, but you pay close attention when that pitcher gets up around 100 pitches,'' the St. Louis Cardinals pitching coach, Dave Duncan, says. ''You do all of the things that you can to give him the best chance to be at his best during the course of the season. Part of that is to not run him into the ground at any particular point in time.''</p>
+        <p>Starting this spring, Little League Baseball, which has 2.3 million players worldwide, will use total pitches (as opposed to innings thrown) to determine when a pitcher must leave the game.</p>
+        <p>So Play Ball! At least until the clicker says you can't.</p>
+        <p>ALAN SCHWARZ and GINA KOLATA</p>
+        <p>IDEAS &amp; TRENDS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

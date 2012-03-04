@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; ABC Has a Nice Night</title>
+    <meta content="17arts-2" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1841054"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ratings and Rating Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070417T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B03E0D7113FF934A25757C0A9619C8B63" item-length="157" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; ABC Has a Nice Night</hl1>
+      </hedline>
+      <byline class="print_byline">By BENJAMIN TOFF; Compiled by Lawrence Van Gelder</byline>
+      <byline class="normalized_byline">Toff, Benjamin</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ABC posted a considerable lead in the ratings Sunday, significantly overshadowing Fox's two-hour premiere of ''Drive'' and winning every hour of the night in the important demographic of adults 18 to 49. According to Nielsen's estimates, ABC's ''Desperate Housewives'' garnered the night's highest ratings, earning 16.1 million viewers at 9 p.m. It followed new episodes of ''America's Funniest Home Videos'' at 7 (8.6 million) and ''Extreme Makeover: Home Edition'' at 8 (10.2 million). During the 10 p.m. hour, ABC's ''Brothers &amp; Sisters'' (11.5 million) remained on top among adults 18 to 49, but CBS's ''Without a Trace'' led the hour in total viewers (14.3 million). For the night, CBS actually had slightly more total viewers over all, despite ABC's advantage in the 18-to-49 demographic. Meanwhile, ''Drive'' drew just 6 million viewers from 8 to 10. Fox ranked third for the night in the 18-to-49 demographic, ahead of NBC.</p>
+        <p>BENJAMIN TOFF</p>
+      </block>
+      <block class="full_text">
+        <p>ABC posted a considerable lead in the ratings Sunday, significantly overshadowing Fox's two-hour premiere of ''Drive'' and winning every hour of the night in the important demographic of adults 18 to 49. According to Nielsen's estimates, ABC's ''Desperate Housewives'' garnered the night's highest ratings, earning 16.1 million viewers at 9 p.m. It followed new episodes of ''America's Funniest Home Videos'' at 7 (8.6 million) and ''Extreme Makeover: Home Edition'' at 8 (10.2 million). During the 10 p.m. hour, ABC's ''Brothers &amp; Sisters'' (11.5 million) remained on top among adults 18 to 49, but CBS's ''Without a Trace'' led the hour in total viewers (14.3 million). For the night, CBS actually had slightly more total viewers over all, despite ABC's advantage in the 18-to-49 demographic. Meanwhile, ''Drive'' drew just 6 million viewers from 8 to 10. Fox ranked third for the night in the 18-to-49 demographic, ahead of NBC.</p>
+        <p>BENJAMIN TOFF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

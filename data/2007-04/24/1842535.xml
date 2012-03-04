@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Predicting Heart Disease Among the 20-Somethings</title>
+    <meta content="24hear" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Health&amp;Fitness" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1842535"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="VITAL SIGNS: PROGNOSIS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Columns/Vital Signs</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Heart Disease</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Cholesterol</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Blood Pressure</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cholesterol</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blood</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blood Pressure</classifier>
+        <classifier class="online_producer" type="general_descriptor">Anatomy and Physiology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Age, Chronological</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070424T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E2D6173EF937A15757C0A9619C8B63" item-length="272" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Predicting Heart Disease Among the 20-Somethings</hl1>
+      </hedline>
+      <byline class="print_byline">By Nicholas Bakalar</byline>
+      <byline class="normalized_byline">Bakalar, Nicholas</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Apparently, it is never too soon to think about the risk of cardiac disease. A study published today has found that mildly elevated levels of cholesterol or slightly above normal blood pressure from ages 18 to 30 are strong predictors of having coronary artery calcium at ages 30 to 35. Coronary artery calcium, a form of arterial plaque, is a predictor of later heart disease.</p>
+        <p>Researchers recruited 5,115 people from 18 to 30 in 1985 and 1986 and followed them with physical examinations 2, 5, 7, 10 and 15 years later. The scientists tested blood pressure, cholesterol and serum glucose levels and recorded body mass index. The study appears in The Journal of the American College of Cardiology.</p>
+      </block>
+      <block class="full_text">
+        <p>Apparently, it is never too soon to think about the risk of cardiac disease. A study published today has found that mildly elevated levels of cholesterol or slightly above normal blood pressure from ages 18 to 30 are strong predictors of having coronary artery calcium at ages 30 to 35. Coronary artery calcium, a form of arterial plaque, is a predictor of later heart disease.</p>
+        <p>Researchers recruited 5,115 people from 18 to 30 in 1985 and 1986 and followed them with physical examinations 2, 5, 7, 10 and 15 years later. The scientists tested blood pressure, cholesterol and serum glucose levels and recorded body mass index. The study appears in The Journal of the American College of Cardiology.</p>
+        <p>At the year-15 examination, 10 percent had coronary artery calcium detectable on a CT scan. Compared with young adults who had below-optimal levels of the risk factors at the start of the study, those with above-optimal levels were one and a half to three times as likely to have coronary artery calcium 15 years later.</p>
+        <p>Catherine Loria, the lead author and an epidemiologist at the National Heart, Lung and Blood Institute, said even young people should be screened. ''If they do have above-optimal levels, even slightly,'' she added, ''they might want to make lifestyle changes to reduce their risk.''</p>
+        <p>At the start of the study, 20 percent had high levels of LDL, the so-called bad cholesterol, and a third were overweight. Twenty-five percent smoked cigarettes. By the 15th year, fewer smoked, but 30 percent had above-normal LDL, 35 percent had elevated blood pressure, and more than two-thirds were overweight or obese.</p>
+        <p>VITAL SIGNS: PROGNOSIS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

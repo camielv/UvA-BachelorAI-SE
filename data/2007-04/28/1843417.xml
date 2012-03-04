@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; Deidre's Tour Detour</title>
+    <meta content="28arts-3" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1843417"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blacks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Radio</classifier>
+        <classifier class="online_producer" type="general_descriptor">Basketball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070428T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01EFD8123EF93BA15757C0A9619C8B63" item-length="268" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; Deidre's Tour Detour</hl1>
+      </hedline>
+      <byline class="print_byline">By MOTOKO RICH; Compiled by Peter Edidin</byline>
+      <byline class="normalized_byline">Rich, Motoko</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Just two weeks after Simon &amp; Schuster indefinitely postponed a book tour for Deidre Imus, the wife of the talk show host Don Imus, the publisher has quietly reinstated two appearances -- with Mr. Imus possibly along for the ride. The couple will be at R. J. Julia, a bookstore in Madison, Conn., on May 9 and at the public library in Westport, Conn., on May 22 to promote ''Green This! Volume 1: Greening Your Cleaning,'' a paperback guide to environmentally friendly house cleaning. ''There are many booksellers who wanted her to appear and still do,'' David Rosenthal, publisher of Simon &amp; Schuster, said. Mr. Imus, he added, had offered to join his wife, but the details have not yet been worked out. The book was published April 10, just days before CBS Radio canceled ''Imus in the Morning'' after he made racially and sexually derogatory remarks about the Rutgers University women's basketball team. A day after the cancellation, Simon &amp; Schuster postponed Ms. Imus's tour, citing the ''enormous pressure that Deirdre and her family are under.'' That tour was also to have included numerous television appearances, with Mr. Imus included on two of them: ''Larry King Live'' on CNN and ''The Tim Russert Show'' on CNBC. Victoria Meyer, a spokeswoman for Simon &amp; Schuster, said that television appearances were again under discussion but that nothing had been scheduled. Ms. Imus is donating all the profits from the book -- including her seven-figure advance for the current book and four others -- to the couple's ranch for children with cancer in New Mexico.</p>
+        <p>MOTOKO RICH</p>
+      </block>
+      <block class="full_text">
+        <p>Just two weeks after Simon &amp; Schuster indefinitely postponed a book tour for Deidre Imus, the wife of the talk show host Don Imus, the publisher has quietly reinstated two appearances -- with Mr. Imus possibly along for the ride. The couple will be at R. J. Julia, a bookstore in Madison, Conn., on May 9 and at the public library in Westport, Conn., on May 22 to promote ''Green This! Volume 1: Greening Your Cleaning,'' a paperback guide to environmentally friendly house cleaning. ''There are many booksellers who wanted her to appear and still do,'' David Rosenthal, publisher of Simon &amp; Schuster, said. Mr. Imus, he added, had offered to join his wife, but the details have not yet been worked out. The book was published April 10, just days before CBS Radio canceled ''Imus in the Morning'' after he made racially and sexually derogatory remarks about the Rutgers University women's basketball team. A day after the cancellation, Simon &amp; Schuster postponed Ms. Imus's tour, citing the ''enormous pressure that Deirdre and her family are under.'' That tour was also to have included numerous television appearances, with Mr. Imus included on two of them: ''Larry King Live'' on CNN and ''The Tim Russert Show'' on CNBC. Victoria Meyer, a spokeswoman for Simon &amp; Schuster, said that television appearances were again under discussion but that nothing had been scheduled. Ms. Imus is donating all the profits from the book -- including her seven-figure advance for the current book and four others -- to the couple's ranch for children with cancer in New Mexico.</p>
+        <p>MOTOKO RICH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

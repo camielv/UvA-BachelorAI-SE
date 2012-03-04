@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Art in Review; Althea Thauberger</title>
+    <meta content="20gall-2" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="32" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20070427T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1841628"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070420T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CEFD71F3FF933A15757C0A9619C8B63" item-length="261" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Art in Review; Althea Thauberger</hl1>
+      </hedline>
+      <byline class="print_byline">By ROBERTA SMITH</byline>
+      <byline class="normalized_byline">Smith, Roberta</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Social Service =/ Art Project  John Connelly Presents  625 West 27th Street, Chelsea  Through tomorrow</p>
+        <p>The centerpiece of the debut exhibition of Althea Thauberger, a young German artist, is a 20-minute DVD of eight young men in casual contemporary dress whose carefully choreographed actions convey the virtuous themes, austerity and comical earnestness of a history painting brought to life. Free of dialogue and punctuated with title cards explaining the action, it tells an ennobling, abstract tale of entrapment, unity, deprivation, division and uneasy resolution in the face, it seems, of a common foe.</p>
+      </block>
+      <block class="full_text">
+        <p>Social Service =/ Art Project  John Connelly Presents  625 West 27th Street, Chelsea  Through tomorrow</p>
+        <p>The centerpiece of the debut exhibition of Althea Thauberger, a young German artist, is a 20-minute DVD of eight young men in casual contemporary dress whose carefully choreographed actions convey the virtuous themes, austerity and comical earnestness of a history painting brought to life. Free of dialogue and punctuated with title cards explaining the action, it tells an ennobling, abstract tale of entrapment, unity, deprivation, division and uneasy resolution in the face, it seems, of a common foe.</p>
+        <p>The drama unfolds on a large, two-level scaffolding that rattles appropriately, implying the din of battle as the young men charge about, strike overwrought poses and mirror the narrative. It is ''The Oath of the Horatii'' meets ''West Side Story.''</p>
+        <p>It helps you get the point that the scaffolding is surrounded by the white, appropriately neo-Classical columns and arches of a 19th-century building in Berlin (a former hospital that is now an art space). The final twist, as implied by the title, is that the young men have opted to avoid traditional paths of glory: They are contributing nine months of social service in lieu of seven months of military service, and their participation in Ms. Thauberger's piece is not part of that service.</p>
+        <p>The work is overly cerebral, but it makes most of its points on its own and has the added charm of resembling an early dance or film by Yvonne Rainer forced through the sieve of academy painting around 1805.</p>
+        <p>ROBERTA SMITH</p>
+        <p>Correction:  April 27, 2007, Friday  A brief art review in Weekend last Friday about an exhibition by Althea Thauberger, at John Connelly Presents in Chelsea, misidentified Ms. Thauberger's nationality. She is Canadian, not German. The review also referred incorrectly to the participation of eight young German men in a DVD that is the exhibition's centerpiece. The participation by the men, who are contributing social service in lieu of military service, does in fact count as part of that social service. The review also misstated the length of the military service that is being replaced with social service. It is nine months, not seven months.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: April 27, 2007, Friday</p>
+        <p>A brief art review in Weekend last Friday about an exhibition by Althea Thauberger, at John Connelly Presents in Chelsea, misidentified Ms. Thauberger's nationality. She is Canadian, not German. The review also referred incorrectly to the participation of eight young German men in a DVD that is the exhibition's centerpiece. The participation by the men, who are contributing social service in lieu of military service, does in fact count as part of that social service. The review also misstated the length of the military service that is being replaced with social service. It is nine months, not seven months.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

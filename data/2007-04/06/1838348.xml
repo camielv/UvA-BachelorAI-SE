@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="06britan--policy--refer" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838348"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070406T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07E6DC173FF935A35757C0A9619C8B63" item-length="229" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Ex-Captives Are Home; U.S. Sees No Openings  The 15 Britons held captive in Iran arrived home to feelings of relief and questions about how they behaved. Toughening, Prime Minister Tony Blair spoke of possible links between Iran and terrorism in Iraq. Washington said it saw no new openings in dealing with Tehran.</p>
+        <p>PAGE A10</p>
+        <p>$4.5 Billion Bid for Chrysler  Kirk Kerkorian, the billionaire investor, just can't break his Chrysler habit. After failing in one takeover in the 1990s, he has returned with a $4.5 billion bid for the struggling automaker.</p>
+        <p>BUSINESS DAY, PAGE C1</p>
+        <p>A Battle Between Sweeteners  Fighting for market dominance, two makers of artificial sweeteners, Equal and Splenda, go to court over the meaning of the phrase ''made from sugar.''</p>
+        <p>BUSINESS DAY, PAGE C1</p>
+        <p>Spending Money to Make It  Instead of tapping his own money directly, Mitt Romney has embarked on an effort to leverage his personal fortune into donations to his Republican primary campaign.</p>
+        <p>PAGE A17</p>
+        <p>Dazzling Debut for Pitcher  The Japanese star Daisuke Matsuzaka struck out 10 in his first major league start as Boston defeated Kansas City, 4-1.</p>
+        <p>SPORTSFRIDAY, PAGE D1</p>
+        <p>Go Ahead, Make It a Double  ''Grindhouse, '' made up of a film by Robert Rodriguez and one by Quentin Tarantino, is a tribute to the spirit of trash cinema. A review by A. O. Scott.</p>
+        <p>WEEKEND, PAGE E1</p>
+      </block>
+      <block class="full_text">
+        <p>Ex-Captives Are Home; U.S. Sees No Openings  The 15 Britons held captive in Iran arrived home to feelings of relief and questions about how they behaved. Toughening, Prime Minister Tony Blair spoke of possible links between Iran and terrorism in Iraq. Washington said it saw no new openings in dealing with Tehran.</p>
+        <p>PAGE A10</p>
+        <p>$4.5 Billion Bid for Chrysler  Kirk Kerkorian, the billionaire investor, just can't break his Chrysler habit. After failing in one takeover in the 1990s, he has returned with a $4.5 billion bid for the struggling automaker.</p>
+        <p>BUSINESS DAY, PAGE C1</p>
+        <p>A Battle Between Sweeteners  Fighting for market dominance, two makers of artificial sweeteners, Equal and Splenda, go to court over the meaning of the phrase ''made from sugar.''</p>
+        <p>BUSINESS DAY, PAGE C1</p>
+        <p>Spending Money to Make It  Instead of tapping his own money directly, Mitt Romney has embarked on an effort to leverage his personal fortune into donations to his Republican primary campaign.</p>
+        <p>PAGE A17</p>
+        <p>Dazzling Debut for Pitcher  The Japanese star Daisuke Matsuzaka struck out 10 in his first major league start as Boston defeated Kansas City, 4-1.</p>
+        <p>SPORTSFRIDAY, PAGE D1</p>
+        <p>Go Ahead, Make It a Double  ''Grindhouse, '' made up of a film by Robert Rodriguez and one by Quentin Tarantino, is a tribute to the spirit of trash cinema. A review by A. O. Scott.</p>
+        <p>WEEKEND, PAGE E1</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

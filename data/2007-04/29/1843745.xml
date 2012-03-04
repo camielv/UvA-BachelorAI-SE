@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Mary Louise Napier, Daniel Zuzunaga</title>
+    <meta content="29NAPIER" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/29/fashion/weddings/29NAPIER.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1843745"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Napier, Mary Louise (Mary Louise Zuzunaga)</person>
+        <person class="indexing_service">Zuzunaga, Daniel Paul</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E02EFDD123EF93AA15757C0A9619C8B63" item-length="207" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Mary Louise Napier, Daniel Zuzunaga</hl1>
+        <hl2 class="online_headline">Mary Louise Napier, Daniel Zuzunaga</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Mary Louise Napier was married in New York yesterday to Daniel Paul Zuzunaga. The Rev. Joseph A. Hart, a Roman Catholic priest, performed the ceremony at St. Paul's Chapel at Columbia University.</p>
+        <p>Mrs. Zuzunaga, 38, was until August 2006 the deputy chief of staff at the Guggenheim Foundation, the organization that oversees the museums. She graduated from Gettysburg College.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Mary Louise Napier was married in New York yesterday to Daniel Paul Zuzunaga. The Rev. Joseph A. Hart, a Roman Catholic priest, performed the ceremony at St. Paul’s Chapel at Columbia University.</p>
+      </block>
+      <block class="full_text">
+        <p>Mary Louise Napier was married in New York yesterday to Daniel Paul Zuzunaga. The Rev. Joseph A. Hart, a Roman Catholic priest, performed the ceremony at St. Paul's Chapel at Columbia University.</p>
+        <p>Mrs. Zuzunaga, 38, was until August 2006 the deputy chief of staff at the Guggenheim Foundation, the organization that oversees the museums. She graduated from Gettysburg College.</p>
+        <p>She is the daughter of Jane F. Napier of Jupiter, Fla., and the late William J. Napier. Her father was a founder of Manning &amp; Napier, an investment advisory business in Rochester. Her mother is a trustee of Hobart and William Smith Colleges in Geneva, N.Y.</p>
+        <p>Mr. Zuzunaga, 36, is a senior design strategist at the Arnell Group, an advertising and marketing concern in New York. He graduated from the University of Wisconsin and has a master's degree in architecture from Columbia.</p>
+        <p>He is a son of Betty J. Petersen and Luis E. Zuzunaga, both of Lodi, Wis., and a stepson of Carol Zuzunaga and of Lars Petersen. The bridegroom's mother, a registered nurse, teaches at the University of Wisconsin School of Nursing in Madison under a contract with her employer, Home Health United, a nonprofit agency. His father retired as a Spanish teacher at Lodi High School.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

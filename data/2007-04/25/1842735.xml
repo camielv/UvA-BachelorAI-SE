@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Exploring a Unified Theory Of Beethoven's 'Grosse Fuge'</title>
+    <meta content="25krem" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/25/arts/music/25krem.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842735"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MUSIC REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews/Classical</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="descriptor">Classical Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Classical Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <org class="online_producer">Kremerata Baltica</org>
+        <person class="online_producer">Kremer, Gidon</person>
+        <person class="online_producer">Beethoven, Ludwig van</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070425T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E7DB143EF936A15757C0A9619C8B63" item-length="366" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Exploring a Unified Theory Of Beethoven's 'Grosse Fuge'</hl1>
+        <hl2 class="online_headline">Exploring a Unified Theory of Beethoven’s ‘Grosse Fuge’</hl2>
+      </hedline>
+      <byline class="print_byline">By ALLAN KOZINN</byline>
+      <byline class="normalized_byline">Kozinn, Allan</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>With Gidon Kremer presiding, sometimes onstage with his violin and sometimes merely in theory, the Kremerata Baltica played a program devoted mainly to transcriptions at Carnegie Hall on Monday evening. The musicians began with a favorite of string orchestras, though one approached gingerly: an expansion of Beethoven's ''Grosse Fuge,'' originally for string quartet.</p>
+        <p>The rationale typically given for a string orchestra version -- apart from wanting to play this amazing piece, which seems reason enough -- is that the work as Beethoven wrote it invariably strains a quartet's resources and stamina. But that's part of the point. Without that strain, the work would be merely about the fugue's formality; it wouldn't tear at the listener so ferociously. Having argued against the high tension of a quartet reading, an orchestra has to try to capture exactly that.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>With Gidon Kremer presiding, the Kremerata Baltica played a nuanced and often electrifying version of this favorite of string orchestras.</p>
+      </block>
+      <block class="full_text">
+        <p>With Gidon Kremer presiding, sometimes onstage with his violin and sometimes merely in theory, the Kremerata Baltica played a program devoted mainly to transcriptions at Carnegie Hall on Monday evening. The musicians began with a favorite of string orchestras, though one approached gingerly: an expansion of Beethoven's ''Grosse Fuge,'' originally for string quartet.</p>
+        <p>The rationale typically given for a string orchestra version -- apart from wanting to play this amazing piece, which seems reason enough -- is that the work as Beethoven wrote it invariably strains a quartet's resources and stamina. But that's part of the point. Without that strain, the work would be merely about the fugue's formality; it wouldn't tear at the listener so ferociously. Having argued against the high tension of a quartet reading, an orchestra has to try to capture exactly that.</p>
+        <p>Mr. Kremer's young ensemble -- 23 strings, including two double basses -- largely succeeded. At their best, in the first half of the piece, these musicians played with a startling unity, giving a reading that was a magnification of the quartet texture, rather than merely a multiplication. That didn't last. The strains of Beethoven's structure work a different sort of mischief on larger ensembles. Even so, the performance, played without a conductor, was nuanced and often electrifying.</p>
+        <p>Mr. Kremer joined the group to play an arrangement, for violin, of Schumann's Cello Concerto. It's not unheard of: 90 years ago Mischa Elman played a movement from it in the same hall. Mr. Kremer played it lovingly and with the zeal of someone who has been dying to get his fingers on this work, having exhausted the possibilities of Schumann's slighter Violin Concerto. But it was hard to warm to this version. Imagine a Popeye cartoon in which whenever Bluto speaks, you hear Olive Oyl's voice.</p>
+        <p>After the intermission the orchestra gave a robust reading of Korngold's Symphonic Serenade, an unabashedly Tchaikovskian score from 1948. And Mr. Kremer returned to play a lyrical performance of Piazzolla's ''Four Seasons of Buenos Aires.'' The orchestral version, if less colorful than the original quintet scoring (for violin, electric guitar, piano, bass and bandoneón), is appealing on its own terms as a virtuoso concerto with tango roots.</p>
+        <p>MUSIC REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

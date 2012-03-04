@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>No Headline</title>
+    <meta content="ArtBlurb.t" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <docdata>
+      <doc-id id-string="1841908"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Caption</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F01E7D7123FF931A15757C0A9619C8B63" item-length="89" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>No Headline</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A NEW WORLD: England's First View of America, by Kim Sloan. (University of North Carolina, cloth, $60; paper, $29.95.) In 1585 the British artist John White accompanied a group of colonists to the North Carolina coast with instructions to ''drawe to liefe all strange birdes, beastes, fishes, plantes.'' The resulting images, collected here, are like a slide show of the wonders they found: flying fish, colorful butterflies and a variety of Native American tribes. White probably saw the flamingo when he passed through the Bahamas or the West Indies.</p>
+      </block>
+      <block class="full_text">
+        <p>A NEW WORLD: England's First View of America, by Kim Sloan. (University of North Carolina, cloth, $60; paper, $29.95.) In 1585 the British artist John White accompanied a group of colonists to the North Carolina coast with instructions to ''drawe to liefe all strange birdes, beastes, fishes, plantes.'' The resulting images, collected here, are like a slide show of the wonders they found: flying fish, colorful butterflies and a variety of Native American tribes. White probably saw the flamingo when he passed through the Bahamas or the West Indies.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

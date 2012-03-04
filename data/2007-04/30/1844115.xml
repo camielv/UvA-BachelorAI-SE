@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Fifth Down; Winners and Losers</title>
+    <meta content="30fifth-1" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1844115"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football</classifier>
+        <classifier class="online_producer" type="general_descriptor">Draft and Recruitment (Sports)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070430T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9803E1DA133EF933A05757C0A9619C8B63" item-length="207" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Fifth Down; Winners and Losers</hl1>
+      </hedline>
+      <byline class="print_byline">By JUDY BATTISTA</byline>
+      <byline class="normalized_byline">Battista, Judy</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The three most aggressive teams at this year's draft:</p>
+        <p>1. Cleveland Browns: Took left tackle Joe Thomas with the third overall pick, then made a trade and claimed Brady Quinn later in the first round. In the second round, took cornerback Eric Wright, a first-round talent whose stock declined because of character issues.</p>
+        <p>2. New England Patriots: Acquired an immediate starter in safety Brandon Meriweather, then made the biggest steal of the draft, acquiring Randy Moss for a fourth-round pick.</p>
+        <p>3. Oakland Raiders: Remade the franchise by acquiring quarterbacks Josh McCown and JaMarcus Russell and finally getting rid of Moss.</p>
+        <p>The least aggressive:</p>
+        <p>1. Miami Dolphins: Inexplicably passed on Quinn to take Ted Ginn Jr. Still have not completed proposed trade for quarterback Trent Green.</p>
+        <p>2. Giants: Needed a cornerback, but instead of moving up for a better one, settled for Aaron Ross. Took Steve Smith, a receiver they will not need for a year.</p>
+        <p>3. Chicago Bears: Stayed put to select tight end Greg OlsEn with the 31st pick, but their next three picks on the first day raised eyebrows. The Lance Briggs standoff is still not resolved.</p>
+        <p>JUDY BATTISTA</p>
+      </block>
+      <block class="full_text">
+        <p>The three most aggressive teams at this year's draft:</p>
+        <p>1. Cleveland Browns: Took left tackle Joe Thomas with the third overall pick, then made a trade and claimed Brady Quinn later in the first round. In the second round, took cornerback Eric Wright, a first-round talent whose stock declined because of character issues.</p>
+        <p>2. New England Patriots: Acquired an immediate starter in safety Brandon Meriweather, then made the biggest steal of the draft, acquiring Randy Moss for a fourth-round pick.</p>
+        <p>3. Oakland Raiders: Remade the franchise by acquiring quarterbacks Josh McCown and JaMarcus Russell and finally getting rid of Moss.</p>
+        <p>The least aggressive:</p>
+        <p>1. Miami Dolphins: Inexplicably passed on Quinn to take Ted Ginn Jr. Still have not completed proposed trade for quarterback Trent Green.</p>
+        <p>2. Giants: Needed a cornerback, but instead of moving up for a better one, settled for Aaron Ross. Took Steve Smith, a receiver they will not need for a year.</p>
+        <p>3. Chicago Bears: Stayed put to select tight end Greg OlsEn with the 31st pick, but their next three picks on the first day raised eyebrows. The Lance Briggs standoff is still not resolved.</p>
+        <p>JUDY BATTISTA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

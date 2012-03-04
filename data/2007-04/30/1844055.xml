@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bundling in the Capitol</title>
+    <meta content="30mon4" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/30/opinion/30mon4.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1844055"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Elections</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Lobbying and Lobbyists</classifier>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <classifier class="indexing_service" type="descriptor">Law and Legislation</classifier>
+        <location class="indexing_service">United States</location>
+        <location class="indexing_service">United States</location>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="descriptor">Lobbying and Lobbyists</classifier>
+        <classifier class="online_producer" type="general_descriptor">Lobbying and Lobbyists</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070430T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E2DB133EF933A05757C0A9619C8B63" item-length="316" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bundling in the Capitol</hl1>
+        <hl2 class="online_headline">Bundling in the Capitol</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial approves of Senate measure on notorious 'bundling' of contributions by powerhouse lobbyists who become money harvesters at campaign time; notes remedy would require detailed disclosure of packaged donations and who is giving, bundling and taking</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Congress is still haunted by the black hat and easy-money grin of Jack Abramoff, the über-lobbyist who is in jail now but reportedly talking freely to investigators. The Abramoff specter should be a warning as the Democratic House confronts its election promise to crack down on the sordid giving and taking of outsized chunks of special-interest lobbying money.</p>
+        <p>The House would be wise to follow the Senate's lead in shining sunlight on the notorious ''bundling'' of contributions by powerhouse lobbyists who become money harvesters at campaign time. They call in numerous individual donations from their various clients, then personally deliver mega-bales of the lucre to lawmakers left warm with gratitude.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Abramoff specter should be a warning as the Democratic House confronts its election promise to crack down on the sordid giving and taking of outsized chunks of special-interest lobbying money.</p>
+      </block>
+      <block class="full_text">
+        <p>Congress is still haunted by the black hat and easy-money grin of Jack Abramoff, the über-lobbyist who is in jail now but reportedly talking freely to investigators. The Abramoff specter should be a warning as the Democratic House confronts its election promise to crack down on the sordid giving and taking of outsized chunks of special-interest lobbying money.</p>
+        <p>The House would be wise to follow the Senate's lead in shining sunlight on the notorious ''bundling'' of contributions by powerhouse lobbyists who become money harvesters at campaign time. They call in numerous individual donations from their various clients, then personally deliver mega-bales of the lucre to lawmakers left warm with gratitude.</p>
+        <p>The Senate's remedy -- which House members are reported to be resisting -- would not ban bundling but require detailed disclosure of packaged donations and who is giving, bundling and taking.</p>
+        <p>Bundling is making a quid-pro-quo trading floor of the hustings. Disclosure by no means interferes with free speech, as opponents complain. Nor is the right to petition government sullied by another proposed requirement to disclose who is really paying for phony ''grass roots'' issue campaigns. These are ad splurges ginned up by lobbyists in Washington and planted as ersatz vox pop in the districts of targeted lawmakers. Spelling out their provenance is a boon, not a hindrance, to well-informed voting.</p>
+        <p>The Senate already has seen to a third ingredient of reform -- doubling the present one-year waiting period before Congressional alumni can hang their lobbyist shingles. The House should endorse this slowing of the revolving door to K Street riches.</p>
+        <p>If the Abramoff ghost is not enough of a prod to clean up the Capitol, members need only check out their current ranks. Two House Republicans have recently been forced to step down from committee assignments because of ongoing criminal investigations of suspected special-interest machinations. Last November's voters are still watching for something better than business as usual.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>For the Dow, Three Record Highs in Five Days</title>
+    <meta content="22data" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/22/business/yourmoney/22data.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842204"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="DataBank"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="descriptor">Dow Jones Stock Average</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dow Jones Stock Average</classifier>
+        <classifier class="online_producer" type="general_descriptor">Nasdaq Composite Index</classifier>
+        <classifier class="online_producer" type="general_descriptor">Government Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E1DC163EF931A15757C0A9619C8B63" item-length="203" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>For the Dow, Three Record Highs in Five Days</hl1>
+        <hl2 class="online_headline">For the Dow, Three Record Highs in Five Days</hl2>
+      </hedline>
+      <byline class="print_byline">By JEFF SOMMER</byline>
+      <byline class="normalized_byline">Sommer, Jeff</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The stock market soared last week, propelling the Dow Jones industrial average to a record close on three successive days and ending the week at a new high.</p>
+        <p>A series of corporate earnings reports that exceeded Wall Street's expectations appeared to be the principal reason for the market's buoyancy, but there was strong economic data as well.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The stock market soared last week, propelling the Dow Jones industrial average to a record close on three successive days and ending the week at a new high.</p>
+      </block>
+      <block class="full_text">
+        <p>The stock market soared last week, propelling the Dow Jones industrial average to a record close on three successive days and ending the week at a new high.</p>
+        <p>A series of corporate earnings reports that exceeded Wall Street's expectations appeared to be the principal reason for the market's buoyancy, but there was strong economic data as well.</p>
+        <p>In a report on inflation on Tuesday, the Bureau of Labor Statistics said the core Consumer Price Index, which excludes food and energy, was running at a 2.5 percent annual rate through March -- lower than had been anticipated on Wall Street, and 0.2 percentage point below the annual rate through February.</p>
+        <p>Honeywell shares rose 9.3 percent for the week, the best showing among the Dow Jones industrials. The company reported a 21 percent gain in first-quarter earnings.</p>
+        <p>For the week, the Dow Jones industrial average climbed 349.85 points, or 2.8 percent, to close at 12,961.98. The Standard &amp; Poor's 500-stock index jumped 31.50 points, or 2.2 percent, to close at 1,484.35. The Nasdaq composite index rose 34.45 points, or 1.4 percent, to close at 2,526.39. The yield on the 10-year Treasury note fell to 4.67 percent from 4.76 percent the previous week.</p>
+        <p>JEFF SOMMER</p>
+        <p>DataBank</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

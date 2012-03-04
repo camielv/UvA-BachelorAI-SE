@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Laugh Lines</title>
+    <meta content="01laugh" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Week in Review" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837336"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0CE3D81130F932A35757C0A9619C8B63" item-length="150" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Laugh Lines</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Jay Leno</p>
+        <p>Three bodyguards of the Iraqi deputy prime minister assisted a suicide bomber in last week's failed attempt to assassinate the deputy prime minister. That's when you know you're in trouble. When you have to hire bodyguards to protect you from your bodyguards.</p>
+        <p>In Florida a boatful of 100 Haitians has washed ashore ... and in their luggage 200 Cubans.</p>
+      </block>
+      <block class="full_text">
+        <p>Jay Leno</p>
+        <p>Three bodyguards of the Iraqi deputy prime minister assisted a suicide bomber in last week's failed attempt to assassinate the deputy prime minister. That's when you know you're in trouble. When you have to hire bodyguards to protect you from your bodyguards.</p>
+        <p>In Florida a boatful of 100 Haitians has washed ashore ... and in their luggage 200 Cubans.</p>
+        <p>We're now finding out where all the candidates met their spouses. Barack Obama met his wife at a law firm. John McCain met his wife at a Naval officers' dance. And Rudy Giuliani met his third wife when he was cheating on his first wife with his second wife.</p>
+        <p>It was this week in 1867, that the country of Canada was founded. Prior to this, American pioneers had no access to cheap prescription drugs.</p>
+        <p>David Letterman</p>
+        <p>You know, while you folks were applauding, Mrs. Giuliani remembered another marriage.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

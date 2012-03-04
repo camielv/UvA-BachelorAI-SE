@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Audit Finds Many Faults In Cleveland's '06 Voting</title>
+    <meta content="20ohio" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/20/us/20ohio.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1841594"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Elections</classifier>
+        <classifier class="indexing_service" type="descriptor">Software</classifier>
+        <classifier class="indexing_service" type="descriptor">Voting Machines</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <location class="indexing_service">Cleveland (Ohio)</location>
+        <person class="indexing_service">Driehaus, Bob</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Ohio</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Midwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/States/Ohio</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Ohio/Cleveland</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Ohio</classifier>
+        <classifier class="online_producer" type="descriptor">Elections</classifier>
+        <classifier class="online_producer" type="descriptor">Voting Machines</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">Ohio</location>
+        <org class="online_producer">League of Women Voters</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070420T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F04E6D71F3FF933A15757C0A9619C8B63" item-length="607" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Audit Finds Many Faults In Cleveland's '06 Voting</hl1>
+        <hl2 class="online_headline">Audit Finds Many Faults in Cleveland’s ’06 Voting</hl2>
+      </hedline>
+      <byline class="print_byline">By BOB DRIEHAUS</byline>
+      <byline class="normalized_byline">Driehaus, Bob</byline>
+      <dateline>CINCINNATI, April 19</dateline>
+      <abstract>
+        <p>Audit of Nov 2006 general election in Cleveland area finds that hundreds of votes were lost, others were recorded twice and software used to count ballots was vulnerable to data problems (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An audit of last November's general election in the Cleveland area has found that hundreds of votes were lost, that others were recorded twice and that software used to count the ballots was vulnerable to data problems.</p>
+        <p>In a state that was pivotal to President Bush's election and re-election, Cuyahoga County, which includes Cleveland, has seen more than its share of recent election troubles. Lines at polls there were hours long in the 2004 general election. And in the primaries last May, the county's first experience with electronic voting, poll workers were absent or poorly trained, computer cards on which votes had been recorded were lost, and one polling place opened hours late.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>An audit of last November’s general election in the Cleveland area has found a number of problems, including lost votes and double counts.</p>
+      </block>
+      <block class="full_text">
+        <p>An audit of last November's general election in the Cleveland area has found that hundreds of votes were lost, that others were recorded twice and that software used to count the ballots was vulnerable to data problems.</p>
+        <p>In a state that was pivotal to President Bush's election and re-election, Cuyahoga County, which includes Cleveland, has seen more than its share of recent election troubles. Lines at polls there were hours long in the 2004 general election. And in the primaries last May, the county's first experience with electronic voting, poll workers were absent or poorly trained, computer cards on which votes had been recorded were lost, and one polling place opened hours late.</p>
+        <p>Citing problems like those, Ohio's newly elected secretary of state ousted the county's entire four-member Board of Elections a months ago.</p>
+        <p>The five-month audit, which the board had commissioned, was conducted by an independent committee made up of representatives from the county's Democratic and Republican Parties, the League of Women Voters and two other citizen groups.</p>
+        <p>The audit found that some batches of ballots registered in optical scan machines had been scanned twice, producing a double count of those ballots.</p>
+        <p>Other ballots were deleted because of flawed data and, owing to human error, were not rescanned, the committee found.</p>
+        <p>The optical scan and touch-screen machines used in the county were made by Diebold Election Systems Inc. The audit committee said Microsoft's JET file-sharing database system, which Diebold used, was known to have previously had problems that could result in corruption of the database.</p>
+        <p>Scott Massey, a Microsoft spokesman, said any file-based database was subject to corruption if a connection was lost while a transfer was in progress. He confirmed the committee's finding that Microsoft recommended a different system for operations as large as Cuyahoga County's.</p>
+        <p>The audit committee was allowed only a limited review of the data collected by Diebold. The panel tried to gain access to the raw data, but Diebold claimed that the information was proprietary.</p>
+        <p>Mark Radke, a spokesman for the company, said that he had not read the report thoroughly but that whatever problems there were with the system had been corrected. In some instances, he said, there were no problems at all: the committee had simply misunderstood the system.</p>
+        <p>Barbara Simons, a former I.B.M. researcher and past president of the Association for Computing Machinery, said: ''There is no excuse for Diebold's having used such an insecure and unreliable database. There were far more reliable databases available over 20 years ago.''</p>
+        <p>The committee called for extensive changes to ensure the integrity of future elections, among them streamlining the process by eliminating either optical scanner or touch-screen machines, both of which are currently used in the county.</p>
+        <p>''Part of the message is that for elections to be accurate, there must be careful attention to minute details at every step, and sloppiness at any point will affect the accuracy of tabulations,'' said the audit committee's coordinator, S. Candice Hoke, director of the Center for Election Integrity at Cleveland State University.</p>
+        <p>The committee said its audit was based on unofficial results, because it had not been authorized to audit the official results, which added provisional, overseas and paper ballots. But Dr. Hoke said, ''We have no indicators that the problems we found in the unofficial count were corrected in the official count.''</p>
+        <p>Jennifer L. Brunner, Ohio's secretary of state, praised the audit as an important step in fixing problems in the county as well as establishing standards to be used elsewhere in the state. Ms. Brunner is considering issuing a directive to all counties to undertake routine audits of elections.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

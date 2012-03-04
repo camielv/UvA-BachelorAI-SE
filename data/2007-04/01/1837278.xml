@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Alissa Smith, Derek Schaible</title>
+    <meta content="01smith" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/01/fashion/weddings/01smith.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837278"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Smith, Alissa Gery (Alissa Gery Schaible)</person>
+        <person class="indexing_service">Schaible, Derek Justin</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E6DB1130F932A35757C0A9619C8B63" item-length="166" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Alissa Smith, Derek Schaible</hl1>
+        <hl2 class="online_headline">Alissa Smith, Derek Schaible</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Alissa Gery Smith, a daughter of Mary-Jo Smith and Ford Smith of Fairfield, Conn., was married yesterday to Derek Justin Schaible, a son of Marcie Schaible of Waukesha, Wis., and Arlyn Schaible of Lakeville, Minn. The Rev. Harry J. Erdlen, a Roman Catholic priest, performed the ceremony in St. Paul's Chapel at Columbia University in New York.</p>
+        <p>Mrs. Schaible, 25, is a mortgage analyst in the investment banking group at JPMorgan in New York. She graduated from Columbia.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Alissa Gery Smith, a daughter of Mary-Jo Smith and Ford Smith of Fairfield, Conn., was married yesterday to Derek Justin Schaible, a son of Marcie Schaible of Waukesha, Wis., and Arlyn Schaible of Lakeville, Minn. The Rev. Harry J. Erdlen, a Roman Catholic priest, performed the ceremony in St. Paul’s Chapel at Columbia University in New York.</p>
+      </block>
+      <block class="full_text">
+        <p>Alissa Gery Smith, a daughter of Mary-Jo Smith and Ford Smith of Fairfield, Conn., was married yesterday to Derek Justin Schaible, a son of Marcie Schaible of Waukesha, Wis., and Arlyn Schaible of Lakeville, Minn. The Rev. Harry J. Erdlen, a Roman Catholic priest, performed the ceremony in St. Paul's Chapel at Columbia University in New York.</p>
+        <p>Mrs. Schaible, 25, is a mortgage analyst in the investment banking group at JPMorgan in New York. She graduated from Columbia.</p>
+        <p>Her father is a bond portfolio manager at the North American investment subsidiary of Munich Reinsurance Group. Her mother, a registered nurse, works in the emergency department at Yale-New Haven Children's Hospital.</p>
+        <p>Mr. Schaible, also 25, is a mortgage analyst at Bear Stearns &amp; Company, the New York investment bank. He graduated from Arizona State.</p>
+        <p>His mother, a medical technologist, works at Medical Associates in Menomonee Falls, Wis. His father is a software technology manager at Wells Fargo in Minneapolis. The bridegroom is a stepson of Sherri Schaible.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Heather Boushey, Todd Tucker</title>
+    <meta content="01boushey" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837251"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Boushey, Heather Marie</person>
+        <person class="indexing_service">Tucker, Todd Nathaniel</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9801EEDE1130F932A35757C0A9619C8B63" item-length="198" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Heather Boushey, Todd Tucker</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Heather Marie Boushey and Todd Nathaniel Tucker were married yesterday. The bridegroom's father, the Rev. Dr. Robert Dale Tucker, a Southern Baptist minister, officiated in a nondenominational ceremony at Cafe Flora in Seattle.</p>
+        <p>The bride, 37, is keeping her name. She is a senior economist at the Center for Economic and Policy Research in Washington, a nonpartisan institute. She graduated from Hampshire College and received a doctorate in economics from the New School for Social Research.</p>
+      </block>
+      <block class="full_text">
+        <p>Heather Marie Boushey and Todd Nathaniel Tucker were married yesterday. The bridegroom's father, the Rev. Dr. Robert Dale Tucker, a Southern Baptist minister, officiated in a nondenominational ceremony at Cafe Flora in Seattle.</p>
+        <p>The bride, 37, is keeping her name. She is a senior economist at the Center for Economic and Policy Research in Washington, a nonpartisan institute. She graduated from Hampshire College and received a doctorate in economics from the New School for Social Research.</p>
+        <p>She is a daughter of Bobbi and Michael G. Boushey of Woodinville, Wash. Her father retired as a machinist at Boeing in Everett, Wash. Her mother is a bookkeeper in Lynnwood, Wash.</p>
+        <p>The bridegroom, 28, is the research director of the global trade watch division of Public Citizen, specializing in the legal, economic and political consequences of trade agreements, including Nafta. He graduated from George Washington University and received a master's in development studies from Cambridge University in England.</p>
+        <p>He is a son of Gail Atchison Tucker and Mr. Tucker of Louisville, Ky. His mother is a freelance writer. His father is a state program specialist there at the Corporation for National and Community Service, which operates AmeriCorps and other service programs.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Art in Review; J H Engstrom, Leigh Ledare, Ari Marcopoulos</title>
+    <meta content="20gall-4" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="32" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20070427T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1841630"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Photography</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070420T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D04EED71F3FF933A15757C0A9619C8B63" item-length="271" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Art in Review; J H Engstrom, Leigh Ledare, Ari Marcopoulos</hl1>
+      </hedline>
+      <byline class="print_byline">By BRIDGET L. GOODBODY</byline>
+      <byline class="normalized_byline">Goodbody, Bridget L</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Cohan and Leslie  138 10th Avenue, at 18th Street, Chelsea  Through May 5</p>
+        <p>This show of photographs -- depicting the family and friends of Leigh Ledare, J H Engstrom and Ari Marcopolous -- uses autobiography as its departure point. The goal, according to Arnd Seibert in his curatorial statement, is to demonstrate how such photography constructs fictional accounts of a life.</p>
+      </block>
+      <block class="full_text">
+        <p>Cohan and Leslie  138 10th Avenue, at 18th Street, Chelsea  Through May 5</p>
+        <p>This show of photographs -- depicting the family and friends of Leigh Ledare, J H Engstrom and Ari Marcopolous -- uses autobiography as its departure point. The goal, according to Arnd Seibert in his curatorial statement, is to demonstrate how such photography constructs fictional accounts of a life.</p>
+        <p>Mr. Ledare portrays his mother posing as a star in soft pornography, rolling in bed with young boyfriends, wearing nothing but a neck brace, or stripping out of her black lingerie. Once you get past the initial ''is this for real?'' moment, however, the images read as a myspace.com-style confessional gone astray.</p>
+        <p>A similar overemphasis on dissolution characterizes Mr. Engstrom's images from his photographic diary ''Trying to Dance.'' You'll see a group of drunken friends in werewolflike masks around a dinner table; a naked, aroused man chugging beer; and a couple having sex. Such pornographic elements, unfortunately, distract from the magical mystery tour elegance of his other series, ''Haunt.''</p>
+        <p>Mr. Marcopolous's chronicle of a day in the life of his family demonstrates exciting self-awareness. He's arranged his photographs in a diamond pattern, so that there is an obvious beginning and end. The images show his sons skateboarding (note his close-ups of their bumps and bruises), a garage turned into a recording studio, silvery beach sunsets and newspaper headlines the day after Saddam Hussein's execution.</p>
+        <p>Maybe the series doesn't fully represent the Marcopolous family, but it tricks you, without dramatic gimmicks, into thinking you know them, which strikes me as the goal of anything autobiographical.</p>
+        <p>BRIDGET L. GOODBODY</p>
+        <p>Correction:  April 27, 2007, Friday  A brief art review in Weekend last Friday about an exhibition of photographs at the Cohan and Leslie gallery in Chelsea misspelled the surname of a photographer. He is Ari Marcopoulos, not Marcopolous. The article also referred incorrectly to newspaper headlines shown in one of his photographs. They were headlines the day after the death of Abu Musab al-Zarqawi, the leader of Al Qaeda in Iraq, not headlines the day after Saddam Hussein's execution.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: April 27, 2007, Friday</p>
+        <p>A brief art review in Weekend last Friday about an exhibition of photographs at the Cohan and Leslie gallery in Chelsea misspelled the surname of a photographer. He is Ari Marcopoulos, not Marcopolous. The article also referred incorrectly to newspaper headlines shown in one of his photographs. They were headlines the day after the death of Abu Musab al-Zarqawi, the leader of Al Qaeda in Iraq, not headlines the day after Saddam Hussein's execution.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

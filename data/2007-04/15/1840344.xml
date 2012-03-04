@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Baby Album: The Preface</title>
+    <meta content="05remix.spa.vancleef.t-2" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="T: Beauty" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/15/style/tmagazine/15tbaby.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840344"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE REMIX"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/T: Style Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Fashion, Beauty and Fitness</classifier>
+        <classifier class="online_producer" type="descriptor">Nudism and Nudity</classifier>
+        <classifier class="online_producer" type="descriptor">Pregnancy and Obstetrics</classifier>
+        <classifier class="online_producer" type="descriptor">Beauty</classifier>
+        <classifier class="online_producer" type="general_descriptor">Nudism and Nudity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Beauty</classifier>
+        <classifier class="online_producer" type="general_descriptor">Pregnancy and Obstetrics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B06E7DD123FF936A25757C0A9619C8B63" item-length="124" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Baby Album: The Preface</hl1>
+        <hl2 class="online_headline">Baby Album: The Preface</hl2>
+      </hedline>
+      <byline class="print_byline">By MARISA MELTZER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>When they're not blogging incessantly about their expanding bump on MommyBuzz.com, they're exposing it for all the world to see. The bovinely pregnant are now demanding the full Demi Moore treatment, in what is quickly becoming a seventh-month rite of passage. Usually shot in black and white and occasionally joined by partners, pets and even surrogates, the pregnant nude is keeping studio photographers busy on both coasts. The photographer Rachel Jeraffi in Los Angeles charges upward of $675 a session, and Jennifer Loomis, who operates out of New York, Seattle, San Francisco and Atlanta, reports a huge ''bump'' in business. What's next? The miracle of birth on YouTube? Jennifer Loomis is at www.jenniferloomis.com, and Rachel Jeraffi is at www.pregnancyportraits.net.</p>
+        <p>MARISA MELTZER</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>When the bovinely pregnant are not blogging incessantly about their expanding bump on MommyBuzz.com, they’re exposing it for all the world to see.</p>
+      </block>
+      <block class="full_text">
+        <p>When they're not blogging incessantly about their expanding bump on MommyBuzz.com, they're exposing it for all the world to see. The bovinely pregnant are now demanding the full Demi Moore treatment, in what is quickly becoming a seventh-month rite of passage. Usually shot in black and white and occasionally joined by partners, pets and even surrogates, the pregnant nude is keeping studio photographers busy on both coasts. The photographer Rachel Jeraffi in Los Angeles charges upward of $675 a session, and Jennifer Loomis, who operates out of New York, Seattle, San Francisco and Atlanta, reports a huge ''bump'' in business. What's next? The miracle of birth on YouTube? Jennifer Loomis is at www.jenniferloomis.com, and Rachel Jeraffi is at www.pregnancyportraits.net.</p>
+        <p>MARISA MELTZER</p>
+        <p>THE REMIX</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

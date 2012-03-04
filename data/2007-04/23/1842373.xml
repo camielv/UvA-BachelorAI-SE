@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Digital Subscribers Like Free Radio, Too</title>
+    <meta content="23drill" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/23/technology/23drill.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842373"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="DRILLING DOWN"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Radio</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Consumer Behavior</classifier>
+        <classifier class="online_producer" type="general_descriptor">Satellites</classifier>
+        <classifier class="online_producer" type="general_descriptor">Radio</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070423T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9801E4DA173EF930A15757C0A9619C8B63" item-length="169" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Digital Subscribers Like Free Radio, Too</hl1>
+        <hl2 class="online_headline">Digital Subscribers Like Free Radio, Too</hl2>
+      </hedline>
+      <byline class="print_byline">By ALEX MINDLIN</byline>
+      <byline class="normalized_byline">Mindlin, Alex</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>As a group, fans of digital radio do not listen to traditional radio less than everyone else. In fact, they listen to slightly more, according to a study recently released by Arbitron and Edison Media Research.</p>
+        <p>The study was conducted through random telephone interviews with 1,925 Arbitron diary keepers, and it lumped together satellite subscribers, recent Internet-radio listeners and anyone who had ever downloaded a podcast.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Fans of digital radio are seeking to supplement, not replace, traditional radio.</p>
+      </block>
+      <block class="full_text">
+        <p>As a group, fans of digital radio do not listen to traditional radio less than everyone else. In fact, they listen to slightly more, according to a study recently released by Arbitron and Edison Media Research.</p>
+        <p>The study was conducted through random telephone interviews with 1,925 Arbitron diary keepers, and it lumped together satellite subscribers, recent Internet-radio listeners and anyone who had ever downloaded a podcast.</p>
+        <p>The data suggest that, generally speaking, fans of digital radio are seeking to supplement, not replace, traditional radio. ''Heavy users of digital media don't think, 'If I'm doing this more, I'm doing the other thing less,' '' said Bill Rose, an executive with Arbitron.</p>
+        <p>Another study released by Arbitron in February showed that the average satellite radio subscriber listened to less AM/FM radio than the average consumer. But traditional radio was still the largest single component in such people's auditory diet, edging out satellite radio (one and a half hours daily) or Internet radio (an hour and 10 minutes).</p>
+        <p>ALEX MINDLIN</p>
+        <p>DRILLING DOWN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

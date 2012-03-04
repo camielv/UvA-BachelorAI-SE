@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   DOHERTY, THOMAS</title>
+    <meta content="dn041207.1" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1839603"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">DOHERTY, THOMAS</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070412T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9803E6DD123AF931A25757C0A9619C8B63" item-length="117" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   DOHERTY, THOMAS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>DOHERTY--Thomas. Sister Elizabeth A. Hill, President, the Board of Trustees, and the entire St. Joseph's College community would like to express their deepest condolences to the family of Thomas Doherty. As a member of the College's Board of Trustees for 21 years and as Chairman of the Board from 1992 to 1996, Tom was a dedicated supporter of St. Joseph's. His wisdom and counsel was an integral part of our success and growth as an institution. Tom was a gentleman in every sense of the word, and his kindness and generosity served as a living testament of our mission. We are truly saddened by his passing, and his loved ones are in our thoughts and prayers.</p>
+      </block>
+      <block class="full_text">
+        <p>DOHERTY--Thomas. Sister Elizabeth A. Hill, President, the Board of Trustees, and the entire St. Joseph's College community would like to express their deepest condolences to the family of Thomas Doherty. As a member of the College's Board of Trustees for 21 years and as Chairman of the Board from 1992 to 1996, Tom was a dedicated supporter of St. Joseph's. His wisdom and counsel was an integral part of our success and growth as an institution. Tom was a gentleman in every sense of the word, and his kindness and generosity served as a living testament of our mission. We are truly saddened by his passing, and his loved ones are in our thoughts and prayers.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

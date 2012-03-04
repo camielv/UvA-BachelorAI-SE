@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Year After Smoking Ban, Many Cheers, Some Doubts</title>
+    <meta content="15njweekNJ-1" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1840620"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE WEEK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Smoking and Tobacco</classifier>
+        <classifier class="indexing_service" type="descriptor">Law and Legislation</classifier>
+        <classifier class="indexing_service" type="descriptor">Office Buildings and Commercial Properties</classifier>
+        <classifier class="indexing_service" type="descriptor">Restaurants</classifier>
+        <location class="indexing_service">New Jersey</location>
+        <org class="indexing_service">New Jersey Restaurant Assn</org>
+        <person class="indexing_service">Holl, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Legal</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Smoking and Tobacco</classifier>
+        <classifier class="online_producer" type="general_descriptor">Office Buildings and Commercial Properties</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402E4D9103FF936A25757C0A9619C8B63" item-length="248" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Year After Smoking Ban, Many Cheers, Some Doubts</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN HOLL</byline>
+      <byline class="normalized_byline">Holl, John</byline>
+      <abstract>
+        <p>Health officials say air quality has improved greatly in restaurants and office buildings in year since New Jersey's smoke-free-air act took effect; New Jersey Restaurant Assn says results have been mixed for its members (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Since New Jersey's smoke-free-air act went into effect a year ago, air quality in restaurants and office buildings has improved greatly, health officials said last week. But a state group that represents bars and restaurants still has misgivings.</p>
+        <p>Fred M. Jacobs, commissioner of the State Department of Health and Senior Services, called the ban, which began a year ago today, ''a giant step forward in public health prevention.''</p>
+      </block>
+      <block class="full_text">
+        <p>Since New Jersey's smoke-free-air act went into effect a year ago, air quality in restaurants and office buildings has improved greatly, health officials said last week. But a state group that represents bars and restaurants still has misgivings.</p>
+        <p>Fred M. Jacobs, commissioner of the State Department of Health and Senior Services, called the ban, which began a year ago today, ''a giant step forward in public health prevention.''</p>
+        <p>The state has relied on local municipalities to enforce the law. Fines are $250 for a first offense and $500 for a second.</p>
+        <p>''The dramatic improvement in air quality demonstrates the importance of the act for the families and workers of the Garden State,'' Dr. Jacobs said. ''New Jerseyans with asthma or allergies, families with young children, or people seeking employment who previously stayed away from restaurants and indoor recreational facilities are no longer limited by worries about the negative effects of secondhand smoke.''</p>
+        <p>But the New Jersey Restaurant Association said results had been mixed for its members. The group found ''some bars and bowling centers struggling to make payroll,'' said Deborah Dowdell, the association president. It also said restaurants that traditionally converted to a bar scene at night had seen reduced patronage because of the ban.</p>
+        <p>There have been gains, however. As the smell of tobacco fades from walls and booths, new customers who might have avoided smoke-filled dining establishments had led to an increase in food sales, Ms. Dowdell said in a statement.</p>
+        <p>JOHN HOLL</p>
+        <p>THE WEEK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

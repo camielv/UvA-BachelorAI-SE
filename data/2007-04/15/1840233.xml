@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Children's Books</title>
+    <meta content="Conniff.t" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/15/books/review/Conniff.t.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840233"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Columns/Children's Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="descriptor">Books and Literature</classifier>
+        <classifier class="online_producer" type="descriptor">Children and Youth</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+        <person class="online_producer">Haas, Jessie</person>
+        <object.title class="online_producer">Chase (Book)</object.title>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D02E4D8163FF936A25757C0A9619C8B63" item-length="550" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Children's Books</hl1>
+        <hl2 class="online_headline">Children’s Books</hl2>
+      </hedline>
+      <byline class="print_byline">By RUTH CONNIFF</byline>
+      <byline class="normalized_byline">Conniff, Ruth</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>CHASE</p>
+        <p>By Jessie Haas.</p>
+        <p>250 pp. Greenwillow Books/HarperCollins</p>
+        <p>Publishers. $16.99. (Ages 10 to 14)</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>CHASE.</p>
+      </block>
+      <block class="full_text">
+        <p>CHASE</p>
+        <p>By Jessie Haas.</p>
+        <p>250 pp. Greenwillow Books/HarperCollins</p>
+        <p>Publishers. $16.99. (Ages 10 to 14)</p>
+        <p>Irish mobsters, once a pulp fiction staple, have made a comeback this season with the new NBC drama ''The Black Donnellys.'' Now Jessie Haas, who has written several highly regarded novels involving horses, explores the historical roots with ''Chase.'' It's a page turner about the Molly Maguires, or Sleepers -- the secret brotherhood of Irish miners who were legendary in the coal country of 19th-century America. When Phin Chase, an orphan growing up in a Pennsylvania coal town, witnesses the murder of a mine boss by the gang, he is forced to flee, pursued by both the real murderer and a mysterious stranger riding a horse that seems to have the uncanny ability to track Phin like a bloodhound.</p>
+        <p>There's not a lot of time for psychological study in this breathless plot. The book's strength is its intriguing setting, and Haas sprinkles the story with vivid historical details. She writes evocatively about the post-Civil-War landscape, studded with fresh tombstones, and the mining shanties and places like Murray's Tavern, where Sleepers conduct their business in lowered voices. ''Phin knew about the secret passwords and handshakes; about the coffin notices, threats with black coffins drawn on them to scare off oppressive bosses. ... He'd known everything, and nothing; certainly nothing worth dying for, until now.''</p>
+        <p>The literature of the era plays a key role. Determined to keep him out of the mines, Phin's mother had him read to her while she worked at her washtub in the tavern. After her death, Phin discovers a trove of books at the local mine boss's house, which the gruff, hard-driving boss lets him read. Phin is reading Walt Whitman when the murderers arrive. Toward the end of the book, his ability to quote Emerson saves him. Haas invokes the American transcendentalists to help carry her theme of a young man learning self-reliance to escape the degrading life of the mines.</p>
+        <p>The crisis of the 1870s is the perfect backdrop for the story. As Haas writes in an end note, labor unrest had erupted in a series of murders and brutal retaliations. Mine owners hired the Pinkerton detective agency to infiltrate the unions, and a series of show trials pinned everything on the Molly Maguires. Because it was a secret society, there is little record of who the members were and what they really did, but the Pinkertons and the prosecutors drew on popular stereotypes to promote the myth of a menacing international Irish conspiracy.</p>
+        <p>Haas is writing in a literary tradition spawned by the trials. Detective novels, beginning with Allan Pinkerton's own semi-fictional account, ''The Molly Maguires and the Detectives,'' emphasized Irish depravity. So did Sir Arthur Conan Doyle's 1915 Sherlock Holmes novel ''The Valley of Fear.'' But some historians, novelists and filmmakers later portrayed the Molly Maguires largely as victims of xenophobia and anti-unionism. In ''Chase,'' Haas strikes a balance between evoking the brutal lives of the exploited mineworkers and acknowledging the murderousness of some of their deeds. In the end Phin makes a surprising decision about where his own allegiance lies. ''Justice was never perfect. The innocent suffered with the guilty -- and not all those Phin loved were good.''</p>
+        <p>Whatever the final judgment, it's a thrilling ride.</p>
+        <p>Ruth Conniff is the political editor of The Progressive magazine.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Ruth Conniff is the political editor of The Progressive magazine.</tagline>
+    </body.end>
+  </body>
+</nitf>

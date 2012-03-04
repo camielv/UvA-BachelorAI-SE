@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Magazine Says 'Toxic Bachelors' Article Was Stolen</title>
+    <meta content="30radar" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/30/business/media/30radar.html" name="alternate_url"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20070501T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1844021"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MEDIA TALK"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">Magazines</classifier>
+        <classifier class="online_producer" type="descriptor">Plagiarism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Magazines</classifier>
+        <classifier class="online_producer" type="general_descriptor">Celebrities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Plagiarism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Writing and Writers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+        <org class="online_producer">Radar</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070430T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE3DC133EF933A05757C0A9619C8B63" item-length="342" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Magazine Says 'Toxic Bachelors' Article Was Stolen</hl1>
+        <hl2 class="online_headline">Magazine Says ‘Toxic Bachelors’ Article Was Stolen</hl2>
+      </hedline>
+      <byline class="print_byline">By ANDREW ADAM NEWMAN</byline>
+      <byline class="normalized_byline">Newman, Andrew Adam</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The pop culture magazine Radar has accused a Chilean magazine of plagiarizing its article ''Toxic Bachelors,'' which depicted celebrities like Colin Farrell and Matt Dillon as cads.</p>
+        <p>Then again, Radar, which has been published on and off over the last few years, freely concedes that it borrowed the ''toxic bachelors'' concept from other sources, like a book by Danielle Steele and the ''Sex and the City'' TV series.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The pop culture magazine Radar has accused a Chilean magazine of plagiarizing its article “Toxic Bachelors,” and would like to see some compensation.</p>
+      </block>
+      <block class="full_text">
+        <p>The pop culture magazine Radar has accused a Chilean magazine of plagiarizing its article ''Toxic Bachelors,'' which depicted celebrities like Colin Farrell and Matt Dillon as cads.</p>
+        <p>Then again, Radar, which has been published on and off over the last few years, freely concedes that it borrowed the ''toxic bachelors'' concept from other sources, like a book by Danielle Steele and the ''Sex and the City'' TV series.</p>
+        <p>And Radar says that an Australian magazine, NW, paid to reprint a version of ''Toxic Bachelors,'' which ran in Radar's March/April issue.</p>
+        <p>Now Radar would like to see some compensation from the Chilean magazine, Cosas, which also apparently tried to sell magazines by printing pictures of single men alongside articles describing them as bad boys.</p>
+        <p>The article, ''Solteros Tóxicos,'' ''imitates the tone, character, feel, concept, format and storyline of the 'Toxic Bachelors' article to a high degree,'' wrote Scott P. McBride, a lawyer with the Chicago firm of McAndrews Held &amp; Malloy, in a letter April 27 to Cosas. The letter demands that Cosas pull the issue from newsstands and compensate Radar an unspecified amount.</p>
+        <p>After reviewing the English and Spanish articles for The New York Times, Laura Turégano, associate director of the King Juan Carlos I of Spain Center at New York University, wrote in an e-mail message, ''The Chilean article is a copy of the Radar article,'' adding that the descriptions of each bachelor ''contain both exact translations of the Radar article and slight adaptations.''</p>
+        <p>Cosas, which publishes editions in Chile, Peru, Ecuador and Bolivia, did not respond to e-mail requests for comment. Manuel Santelices, whose byline is on the Cosas story, is listed as a member of the magazine's New York bureau but does not have a published number.</p>
+        <p>Maer Roshan, the editor of Radar, said by telephone that he was amused that Cosas ''had the chutzpah to put a byline on the story.'' A snide item on Radar's Web site said, ''How do you say, 'We will soon own your entire magazine' in Spanish?''</p>
+        <p>ANDREW ADAM NEWMAN</p>
+        <p>MEDIA TALK</p>
+        <p>Correction:  May 1, 2007, Tuesday  Because of an editing error, a Media Talk report in Business Day yesterday, about an accusation by the magazine Radar that a Chilean publication had plagiarized its article ''Toxic Bachelors,'' misspelled the surname of a book author who had previously used the title phrase. She is Danielle Steel, not Steele.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: May 1, 2007, Tuesday</p>
+        <p>Because of an editing error, a Media Talk report in Business Day yesterday, about an accusation by the magazine Radar that a Chilean publication had plagiarized its article ''Toxic Bachelors,'' misspelled the surname of a book author who had previously used the title phrase. She is Danielle Steel, not Steele.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

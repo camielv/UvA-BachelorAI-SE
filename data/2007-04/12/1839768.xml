@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Massachusetts Agency Proposes Health Coverage That Most Can Afford</title>
+    <meta content="12mass" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health; U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/12/us/12mass.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1839768"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <classifier class="indexing_service" type="descriptor">Health Insurance and Managed Care</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="indexing_service" type="descriptor">Law and Legislation</classifier>
+        <classifier class="indexing_service" type="descriptor">Regulation and Deregulation of Industry</classifier>
+        <classifier class="indexing_service" type="descriptor">Income</classifier>
+        <location class="indexing_service">Massachusetts</location>
+        <person class="indexing_service">Belluck, Pam</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Massachusetts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./New England</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Health Care Policy</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Legal</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Health Insurance and Managed Care</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Massachusetts</classifier>
+        <classifier class="online_producer" type="descriptor">Health Insurance and Managed Care</classifier>
+        <classifier class="online_producer" type="general_descriptor">Income</classifier>
+        <classifier class="online_producer" type="general_descriptor">Health Insurance and Managed Care</classifier>
+        <classifier class="online_producer" type="general_descriptor">Regulation and Deregulation of Industry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <location class="online_producer">Massachusetts</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070412T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F05E3D8123FF931A25757C0A9619C8B63" item-length="976" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Massachusetts Agency Proposes Health Coverage That Most Can Afford</hl1>
+        <hl2 class="online_headline">Massachusetts Offers Details on Health Coverage</hl2>
+      </hedline>
+      <byline class="print_byline">By PAM BELLUCK</byline>
+      <byline class="normalized_byline">Belluck, Pam</byline>
+      <dateline>BOSTON, April 11</dateline>
+      <abstract>
+        <p>Massachusetts proposes ambitious health plan that will make it possible for 99 percent of its adults to be covered by health insurance; sets sliding scale of affordability standards depending on resident's income; plan is expected to be approved by Commonwealth Health Insurance Connector Authority, which will administer it; people who claim they cannot afford coverage under new system can apply for waiver; chart (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Massachusetts is poised to become the first state to make it possible for 99 percent of its adults to be covered by health insurance, with an ambitious plan that sets limits for the premiums people would be expected to pay.</p>
+        <p>State officials said that under the plan, they expected that all but about 65,000 of the 328,000 adults who are currently uninsured would be able to get affordable coverage.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The proposal sets a sliding scale of affordability standards for health insurance premiums based on income.</p>
+      </block>
+      <block class="full_text">
+        <p>Massachusetts is poised to become the first state to make it possible for 99 percent of its adults to be covered by health insurance, with an ambitious plan that sets limits for the premiums people would be expected to pay.</p>
+        <p>State officials said that under the plan, they expected that all but about 65,000 of the 328,000 adults who are currently uninsured would be able to get affordable coverage.</p>
+        <p>The proposal sets a sliding scale of affordability standards in which, for example, a single person earning $40,001 a year would be expected to pay no more than 9 percent of income, or about $300 a month, for health insurance; a single person earning $25,000 a year would be expected to pay a much smaller percentage, about 3.3 percent of income, or $70 a month.</p>
+        <p>The plan is expected to be approved by the Commonwealth Health Insurance Connector Authority on Thursday.</p>
+        <p>Jon Kingsdale, the executive director of the authority, the agency set up to administer the plan, said setting the affordability standards ''was always the most difficult and innovative element'' of the state's groundbreaking health care law, passed a year ago.</p>
+        <p>The law required all residents to get health insurance or face a fine or tax penalty. But from the beginning, there was concern that available health plans might be too expensive for some people, or, that some affordable plans might provide skimpy coverage. Last month, the authority voted to require all plans to have substantial coverage, including prescription drug benefits, which raised further questions about how expensive the insurance would be.</p>
+        <p>''To do this right means we're walking a tight rope,'' Mr. Kingsdale said. ''We don't want to be too punitive, we don't want to put too high a standard of affordability, but we don't want to let too many people out of a universal requirement. We've been putting a lot of stakes in the ground, but this is the center pole that will allow us to put up the tent and get everybody covered.''</p>
+        <p>The plan, if approved Thursday, would still need to be presented at public hearings across the state and face a final vote in June. The proposal would cost the state $13 million more than the $200 million it was planning to spend.</p>
+        <p>This proposal changes premiums and subsidy rates that were established earlier. It would allow about 52,000 more low-income people to qualify for free or cheaper coverage. A person earning up to $15,315, one and half times the federal poverty level, would not have to pay anything under this proposal.</p>
+        <p>Individuals earning $30,630 to $50,001 would not be eligible for state subsidies, but they would not be penalized if they could not find health insurance priced at $150 to $300 a month. People who earn more than $50,001 would not be given a cap on insurance costs.</p>
+        <p>People who claim they cannot afford coverage under the new system could apply for a waiver.</p>
+        <p>The proposal represents a carefully hammered-out compromise. Business groups wanted to make sure that premiums for state-sponsored insurance would not be too much less than the employee contributions to an employer's plan because they fear that people would flock to the government-sponsored plans, driving up the cost to the state. Advocates for poor people had wanted lower costs for more residents.</p>
+        <p>''It doesn't go the whole way, but it's good enough for today,'' said John McDonough, executive director of Health Care for All, an advocacy group. ''I know there's a lot of trash talk around the country about, 'Oh it's falling apart in Massachusetts.' It ain't true. We are going to be far and away the state with the lowest number of uninsured by a country mile.''</p>
+        <p>Leslie A. Kirwan, the Massachusetts secretary of administration and finance, who is chairwoman of the authority's board, said the support of advocates like Mr. McDonough was earned in part by action by Gov. Deval L. Patrick, who agreed to waive fees that more than 10,000 poor families were paying for their children to be covered by Medicaid.</p>
+        <p>''There were real doubts about whether we could forge a compromise that the advocates could embrace and also make sure that the business community embraced it,'' Ms. Kirwan said.</p>
+        <p>An employers' group gave the plan cautious support on Wednesday.</p>
+        <p>''It does seem that what the Connector is putting forth is reasonable, but I haven't looked at all the details,'' said Eileen P. McAnneny, vice president of government affairs for Associated Industries of Massachusetts, which represents 7,500 employers. ''You have to be very careful -- if you set up subsidies that are more generous than employer plans, that encourages employers to drop coverage. Health care costs are expensive for employers, too.''</p>
+        <p>Jonathan Gruber, an authority board member and economics professor at the Massachusetts Institute of Technology, had argued against expanded subsidies, saying they were unnecessary and costly to the state. Still, he said Wednesday that he would vote for the plan.</p>
+        <p>''If they're going to throw money at an issue, they threw it in the right place,'' he said. ''That said, it is a lot of money, and going forward we're going to have to be careful not to address all the problems by putting more money into it.''</p>
+        <p>For Andrea Peña, a single mother of three, the proposal would make possible better and more secure health care coverage. Ms. Peña, a 39-year-old dental assistant who lives in public housing in South Boston, has been receiving Medicaid, but the income from her two part-time jobs recently increased to above $20,000, threatening to disqualify her from state aid. Under the new plan, Ms. Peña would be eligible for free state-sponsored insurance that would provide better dental and vision coverage.</p>
+        <p>''Just imagine if something were to happen to me,'' Ms. Peña said. ''Thanks to this I don't have to worry about that any more.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>After Couric Incident, CBS News To Scrutinize Its Web Content</title>
+    <meta content="12cbs" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/12/arts/television/12cbs.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1839654"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="descriptor">Television</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Plagiarism</classifier>
+        <classifier class="online_producer" type="descriptor">News and News Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Plagiarism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Writing and Writers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+        <org class="online_producer">CBS News</org>
+        <org class="online_producer">CBS Corp</org>
+        <person class="online_producer">Couric, Katie</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070412T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E2DB123FF931A25757C0A9619C8B63" item-length="434" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>After Couric Incident, CBS News To Scrutinize Its Web Content</hl1>
+        <hl2 class="online_headline">After Couric Incident, CBS News to Scrutinize Its Web Content</hl2>
+      </hedline>
+      <byline class="print_byline">By BILL CARTER</byline>
+      <byline class="normalized_byline">Carter, Bill</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>CBS News said yesterday it planned to install a new level of editorial oversight to its Web site since revelations that the CBS anchor Katie Couric read a plagiarized commentary on the site last week.</p>
+        <p>CBS has fired the producer who wrote the piece for Ms. Couric, and said yesterday it was investigating to see if the producer, whose name CBS has not disclosed, had written any previous commentaries for Ms. Couric that had been plagiarized.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>CBS News said it planned to install a new level of editorial oversight to its Web site since revelations that the CBS anchor Katie Couric read a plagiarized commentary on the site last week.</p>
+      </block>
+      <block class="full_text">
+        <p>CBS News said yesterday it planned to install a new level of editorial oversight to its Web site since revelations that the CBS anchor Katie Couric read a plagiarized commentary on the site last week.</p>
+        <p>CBS has fired the producer who wrote the piece for Ms. Couric, and said yesterday it was investigating to see if the producer, whose name CBS has not disclosed, had written any previous commentaries for Ms. Couric that had been plagiarized.</p>
+        <p>The commentary, about how children use libraries in a world increasingly dominated by the Internet, was clearly inspired by a piece written the previous month in The Wall Street Journal. A Journal editor called the similarities to the attention of CBS News on Monday, and executives there, reading the two pieces, immediately concluded that they were basically identical.</p>
+        <p>CBS News executives said they were stunned that anyone would so blatantly copy someone else's work. The incident is an embarrassment for the news division, and comes at a time of continuing struggle for Ms. Couric's newscast to be competitive with NBC and ABC in the evening-news ratings.</p>
+        <p>The videotaped commentary, which was used in a section of the CBS News Web site called ''Katie Couric's Notebook,'' but which also was sent out for use by CBS television and radio stations, was removed from the CBS site, and the network issued what it called a correction, saying it should have noted that ''much of the material'' had come from the newspaper.</p>
+        <p>As described by Sandy Genelius, the spokeswoman for CBS News, the process of creating the 55-second essays that were included in the ''Notebook'' feature involved a meeting between Ms. Couric and a group of producers from the Web site and her going over dozens of suggested topics for the daily commentary.</p>
+        <p>Asked whether Ms. Couric had read the article in The Wall Street Journal, Ms. Genelius said, ''I believe she did not.'' Ms. Couric was not available for comment.</p>
+        <p>All television news anchors read scripts for their newscasts that are prepared by staff members, but the anchors almost always rewrite these themselves.</p>
+        <p>A spokesman for ABC News, Jeffrey W. Schneider, said that on ABC's Web site commentaries were written only by the contributor whose name was on that commentary.</p>
+        <p>Allison Gollust of NBC News said she was not aware of any NBC Web contributions that were written by anyone other than the person whose name was attached to it. ''We certainly do not have anyone on the staff whose job it is to write something like that for one of our anchors or correspondents,'' she said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   WILSON, JOHN E.</title>
+    <meta content="dn040207" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837486"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">WILSON, JOHN E.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070402T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E0D9153AF931A35757C0A9619C8B63" item-length="76" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   WILSON, JOHN E.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WILSON--John E. on April 1, 2007 of Manhasset. Beloved husband of Cathleen. Loving father of Jennifer and John, John and Pam, Patricia, Ryan and Shannon. Cherished grandfather of eight. Brother of Jimmy and Min. In repose at the Fairchild Funeral Chapel, 1570 Northern Blvd., Manhasset, Tuesday 3-5 and 79pm. Funeral Mass, Wednesday 10am, St. Mary's R.C. Church, Manhasset. In lieu of flowers, donations may be made in his memory to St. Mary's School Scholarship Fund.</p>
+      </block>
+      <block class="full_text">
+        <p>WILSON--John E. on April 1, 2007 of Manhasset. Beloved husband of Cathleen. Loving father of Jennifer and John, John and Pam, Patricia, Ryan and Shannon. Cherished grandfather of eight. Brother of Jimmy and Min. In repose at the Fairchild Funeral Chapel, 1570 Northern Blvd., Manhasset, Tuesday 3-5 and 79pm. Funeral Mass, Wednesday 10am, St. Mary's R.C. Church, Manhasset. In lieu of flowers, donations may be made in his memory to St. Mary's School Scholarship Fund.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

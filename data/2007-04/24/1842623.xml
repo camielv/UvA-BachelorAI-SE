@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Border Patrol Agent Charged With Murder</title>
+    <meta content="24border" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/24/us/24border.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842623"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Immigration and Refugees</classifier>
+        <classifier class="indexing_service" type="descriptor">Police Brutality and Misconduct</classifier>
+        <classifier class="indexing_service" type="descriptor">Illegal Immigrants</classifier>
+        <location class="indexing_service">Arizona</location>
+        <location class="indexing_service">Mexico</location>
+        <org class="indexing_service">Border Patrol (US)</org>
+        <person class="indexing_service">Dominguez Rivera, Francisco Javier</person>
+        <person class="indexing_service">corbett, nicholas</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Mexico</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Arizona</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Southwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Americas</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Law Enforcement and Security</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Arizona</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/Mexico</classifier>
+        <classifier class="online_producer" type="descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="online_producer" type="descriptor">Immigration and Refugees</classifier>
+        <classifier class="online_producer" type="general_descriptor">Police Brutality and Misconduct</classifier>
+        <classifier class="online_producer" type="general_descriptor">Illegal Aliens</classifier>
+        <classifier class="online_producer" type="general_descriptor">Immigration and Refugees</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Police</classifier>
+        <location class="online_producer">Arizona</location>
+        <org class="online_producer">Border Patrol</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070424T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D04E6DD143EF937A15757C0A9619C8B63" item-length="188" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Border Patrol Agent Charged With Murder</hl1>
+        <hl2 class="online_headline">Border Patrol Agent Charged With Murder</hl2>
+      </hedline>
+      <dateline>BISBEE, Ariz., April 23</dateline>
+      <abstract>
+        <p>Border Patrol agent Nicholas Corbett, who shot and killed Mexican immigrant Francisco Javier Dominguez Rivera along Arizona-Mexico border, is charged with first-degree murder and three related offenses (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A Border Patrol agent who shot and killed a Mexican immigrant along the Arizona-Mexico border in January was charged Monday with first-degree murder and three related offenses.</p>
+        <p>The agent, 39-year-old Nicholas Corbett of Sierra Vista, Ariz., shot Francisco Javier Dominguez Rivera, 22, while taking him into custody on Jan. 12, shortly after Mr. Dominguez Rivera and three family members crossed illegally into Cochise County in southeastern Arizona.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>An agent who shot and killed a Mexican immigrant along the Arizona-Mexico border in January was charged Monday with first-degree murder.</p>
+      </block>
+      <block class="full_text">
+        <p>A Border Patrol agent who shot and killed a Mexican immigrant along the Arizona-Mexico border in January was charged Monday with first-degree murder and three related offenses.</p>
+        <p>The agent, 39-year-old Nicholas Corbett of Sierra Vista, Ariz., shot Francisco Javier Dominguez Rivera, 22, while taking him into custody on Jan. 12, shortly after Mr. Dominguez Rivera and three family members crossed illegally into Cochise County in southeastern Arizona.</p>
+        <p>Mr. Corbett declined to be interviewed by investigators from the Cochise County Sheriff's Department but told supervisors at the Naco Border Patrol station that Mr. Dominguez Rivera had threatened him from across his truck with a rock, according to evidence released by the Cochise County attorney, Ed Rheinheimer, on March 26 after a public records request by local news organizations.</p>
+        <p>Mr. Rheinheimer said Monday that physical evidence and statements from other witnesses failed to support Mr. Corbett's account.</p>
+        <p>Mr. Rheinheimer also charged Mr. Corbett with the lesser offenses of second-degree murder, manslaughter and negligent homicide. Whether probable cause exists for the charges will be determined by a justice of the peace at a preliminary hearing that has not yet been set.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

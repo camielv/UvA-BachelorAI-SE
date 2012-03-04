@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   DINATALE, ANN</title>
+    <meta content="dn041507.3" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="27" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1840187"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">DINATALE, ANN</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9505EEDC123AF936A25757C0A9619C8B63" item-length="83" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   DINATALE, ANN</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>DiNATALE--Ann. The entire Long Island College Hospital of Brooklyn family acknowledges with sadness the passing of Ann DiNatale, beloved mother of our dear friend and colleague, Diana Sullivan, Vice President of Operations. She will be greatly missed by all who knew her. To Diana, her sisters, son-in-law Danny Sullivan and the entire DiNatale and Sullivan families, we extend heartfelt condolences. Rita M. Battles, President &amp; CEO John Byrne, Executive V.P. and Chief Operating Officer Edmund Giegerich, M.D., Executive V.P. for Medical Affairs</p>
+      </block>
+      <block class="full_text">
+        <p>DiNATALE--Ann. The entire Long Island College Hospital of Brooklyn family acknowledges with sadness the passing of Ann DiNatale, beloved mother of our dear friend and colleague, Diana Sullivan, Vice President of Operations. She will be greatly missed by all who knew her. To Diana, her sisters, son-in-law Danny Sullivan and the entire DiNatale and Sullivan families, we extend heartfelt condolences. Rita M. Battles, President &amp; CEO John Byrne, Executive V.P. and Chief Operating Officer Edmund Giegerich, M.D., Executive V.P. for Medical Affairs</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

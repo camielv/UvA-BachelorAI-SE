@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Home Shopping</title>
+    <meta content="04remix.and.dries.t" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="T: Design Magazine" name="dsk"/>
+    <meta content="46" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Style; Magazine" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/01/style/tmagazine/04remix.and.dries.t.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837059"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="The Remix"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/T: Style Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Fashion, Beauty and Fitness</classifier>
+        <classifier class="online_producer" type="descriptor">Home Furnishings</classifier>
+        <classifier class="online_producer" type="descriptor">Apparel</classifier>
+        <classifier class="online_producer" type="general_descriptor">Home Furnishings</classifier>
+        <classifier class="online_producer" type="general_descriptor">Apparel</classifier>
+        <person class="online_producer">van Noten, Dries</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9903E0DA1230F932A35757C0A9619C8B63" item-length="93" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Home Shopping</hl1>
+        <hl2 class="online_headline">Home Shopping</hl2>
+      </hedline>
+      <byline class="print_byline">By Alix Browne</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The fashion designer Dries Van Noten and his partner, Patrick Vangheluwe, spent much of last year scouring antique stores and flea markets to fill a pied-à-terre: a 1920s Venetian chandelier, a bridge table from the collection of Charles de Bestegui, a tufted sofa from the '50s covered in pale-blue Prelle silk. Their new Paris ''home,'' however, is in fact a boutique. Set up as a series of intimate rooms, the place feels like a well-appointed apartment -- right down to the river views. Alas, only the clothes are for sale.</p>
+        <p>Alix Browne</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The fashion designer Dries Van Noten and his partner, Patrick Vangheluwe, spent much of last year scouring antique stores and flea markets to fill a pied-à-terre.</p>
+      </block>
+      <block class="full_text">
+        <p>The fashion designer Dries Van Noten and his partner, Patrick Vangheluwe, spent much of last year scouring antique stores and flea markets to fill a pied-à-terre: a 1920s Venetian chandelier, a bridge table from the collection of Charles de Bestegui, a tufted sofa from the '50s covered in pale-blue Prelle silk. Their new Paris ''home,'' however, is in fact a boutique. Set up as a series of intimate rooms, the place feels like a well-appointed apartment -- right down to the river views. Alas, only the clothes are for sale.</p>
+        <p>Alix Browne  The Remix</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

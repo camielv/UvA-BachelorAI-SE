@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Tools For Staying In Control</title>
+    <meta content="16tools" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business Travel" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="H" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/16/business/businessspecial3/16tools.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840807"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="DEVICES"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="descriptor">Travel and Vacations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070416T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950CE2DD113FF935A25757C0A9619C8B63" item-length="846" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Tools For Staying In Control</hl1>
+        <hl2 class="online_headline">Tools for Staying in Control While Traveling</hl2>
+      </hedline>
+      <byline class="print_byline">By DAVID A. KELLY</byline>
+      <byline class="normalized_byline">Kelly, David</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>JUST because you are on a business trip does not mean you can't keep up with your expense reports, check your voice mail without racking up roaming cellphone charges or even watch TiVo episodes in your hotel room. Here are some helpful services and products that can make a positive difference without weighing you or your luggage down.</p>
+        <p>KEEPING TRACK OF PAPER -- It's hard to travel without accumulating paperwork -- receipts for coffee, lunches, hotels and cabs. Keeping track of them can be a pain. The Scanalizer, from the company NeatReceipts (neatreceipts.com, $229.95), is a slim scanning unit. It's about as long as a ruler, weighs 10 ounces and makes it easy to scan, store, organize and add up receipts. It automatically sizes and crops the scans and displays them upright. Once scanned, receipts can be categorized on a spreadsheet or popular accounting program. It can also read and analyze business cards, so that you can scan a batch after a trade show and easily create follow-up e-mail messages.</p>
+        <p>BACKUP ON THE FLY -- Missed flights, missing luggage and language barriers are not the only problems that can occur while traveling, especially if you take a computer. As many travelers have learned, computerized material can evaporate all too easily, whether through the loss, theft or dropping of a laptop. That is why it is important to back up your files while traveling. And now that most hotels offer wireless Internet access, new on-the-fly backup software like Carbonite or I.B.M.'s Tivoli Continuous Data Protection for Files provide a feasible safety net for travelers.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>There are services that can assist with everything from cheaply checking voice mail to watching TiVo episodes in your hotel room.</p>
+      </block>
+      <block class="full_text">
+        <p>JUST because you are on a business trip does not mean you can't keep up with your expense reports, check your voice mail without racking up roaming cellphone charges or even watch TiVo episodes in your hotel room. Here are some helpful services and products that can make a positive difference without weighing you or your luggage down.</p>
+        <p>KEEPING TRACK OF PAPER -- It's hard to travel without accumulating paperwork -- receipts for coffee, lunches, hotels and cabs. Keeping track of them can be a pain. The Scanalizer, from the company NeatReceipts (neatreceipts.com, $229.95), is a slim scanning unit. It's about as long as a ruler, weighs 10 ounces and makes it easy to scan, store, organize and add up receipts. It automatically sizes and crops the scans and displays them upright. Once scanned, receipts can be categorized on a spreadsheet or popular accounting program. It can also read and analyze business cards, so that you can scan a batch after a trade show and easily create follow-up e-mail messages.</p>
+        <p>BACKUP ON THE FLY -- Missed flights, missing luggage and language barriers are not the only problems that can occur while traveling, especially if you take a computer. As many travelers have learned, computerized material can evaporate all too easily, whether through the loss, theft or dropping of a laptop. That is why it is important to back up your files while traveling. And now that most hotels offer wireless Internet access, new on-the-fly backup software like Carbonite or I.B.M.'s Tivoli Continuous Data Protection for Files provide a feasible safety net for travelers.</p>
+        <p>Carbonite (carbonite.com, $49.95 a year) is easy-to-use software that automatically backs up your files to secure servers maintained by Carbonite. It works in the background, so once you set it up you don't have to worry about it. Carbonite allows for an unlimited amount of data, and your data is encrypted before it leaves your computer, so your files are secure. In addition, it's easy to access a backup file while traveling, should something happen to your laptop. Simply go to a computer in a hotel, Internet cafe or airport lounge, log in and go to the Carbonite Web site.</p>
+        <p>Tivoli Continuous Data Protection for Files (306.ibm.com, $35), is a computer service that will automatically back up changed files, as well as send them to a U.S.B. drive or a remote server at your home or business headquarters.</p>
+        <p>GETTING THE MESSAGE -- Back when most people had only one phone, it was relatively simple to get your messages by accessing your answering machine. Now, many travelers have so many voice mail message boxes to check -- work, home, cellphone, their spouses' and maybe even their children's -- that it can be a time-consuming task. You may also run up wireless roaming charges when traveling internationally. GotVoice (gotvoice.com) is a Web-based service that automatically retrieves messages from all your voice mailboxes, both landline and wireless, and forwards them to your computer as an MP3 attachment. You can also check your messages on the service's Web site. In addition, GotVoice will automatically archive your messages and make room for new ones -- a feature that's especially important for travelers who receive a lot of voice mail messages or who aren't able to check their messages for a long while. You don't need a new phone number to use GotVoice. Just set up an account via its Web site and enter the phone numbers and PINs for your voice mail services. Accounts are free for up to three voice mail retrievals a day, and $9.95 a month for up to 24.</p>
+        <p>MANAGING YOUR PODCASTS -- With companies from I.B.M. to G.M. jumping on the podcasting bandwagon, there's a good possibility that business travelers will either be listening to podcasts or even creating some themselves. That's where the new Olympus DS series of digital voice recorders matters. It allows a business user to capture audio while on the go and convert the audio files into podcasts. Business travelers can use the voice recorders to record meetings or interviews. For downtime, the recorders also play music and audiobooks. The DS-40 provides up to 134 hours of recording time, has a detachable microphone (so you can discreetly clip it under your jacket or on your blouse), and software that can edit and process your recordings (olympus.com, $149.99 from Amazon.com).</p>
+        <p>CATCHING UP ON ''THE OFFICE'' -- Technologies like Slingbox AV from Sling Media (slingmedia.com, $179.99) allow travelers to control their home cable TV, DVR or satellite box and watch TV or record shows with a laptop or hand-held device. You can watch your local news, programs or movies on your satellite box or TiVo episodes via a PC in your hotel room or through a Windows Mobile-based phone (like the Motorola Q or Samsung BlackJack) or Windows Mobile- or Palm-based device. With a broadband connection for your computer or an unlimited-type Internet plan for your phone or palmtop device, you can watch your home TV, but you can't raid the fridge.</p>
+        <p>DEVICES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

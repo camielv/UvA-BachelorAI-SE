@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A New Luxury Train On Trans-Siberian Route</title>
+    <meta content="29transtrain" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Travel" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/29/travel/29transtrain.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1843576"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="IN TRANSIT"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Railroads</classifier>
+        <location class="indexing_service">Moscow (Russia)</location>
+        <location class="indexing_service">Russia</location>
+        <location class="indexing_service">Vladivostok (Russia)</location>
+        <org class="indexing_service">Trans-Siberian Railroad</org>
+        <person class="indexing_service">Conlin, Jennifer</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Industry News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Russia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Russia/Siberia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Russia/Moscow</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Russia/Siberia/Vladivostok</classifier>
+        <classifier class="online_producer" type="descriptor">Travel and Vacations</classifier>
+        <classifier class="online_producer" type="descriptor">Railroads</classifier>
+        <classifier class="online_producer" type="general_descriptor">Railroads</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+        <location class="online_producer">Siberia</location>
+        <location class="online_producer">Moscow (Russia)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F02E0D6173EF93AA15757C0A9619C8B63" item-length="156" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A New Luxury Train On Trans-Siberian Route</hl1>
+        <hl2 class="online_headline">A New Luxury Train on Trans-Siberian Route</hl2>
+      </hedline>
+      <byline class="print_byline">By JENNIFER CONLIN</byline>
+      <byline class="normalized_byline">Conlin, Jennifer</byline>
+      <abstract>
+        <p>Golden Eagle, luxury private train with 21 carriages, will make its inaugural 14-night journey on Trans-Siberian Railway from Moscow to Vladivostok on May 6; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The 5,800-mile Trans-Siberian Railway, from Moscow to Vladivostok, is about to have a new train on its tracks. On May 6, the Golden Eagle, a luxury private train with 21 carriages, including two restaurants and a bar car (above), will make its inaugural 14-night journey on that route, which has been in service since 1916.</p>
+        <p>The train's gold-class passengers will stay in 77-square-foot rooms with flat-screen TVs, DVD and CD players, air-conditioning and bathrooms. Silver-class berths, 60 square feet, are similarly appointed.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The 5,800-mile Trans-Siberian Railway, from Moscow to Vladivostok, is about to have a new train on its tracks.</p>
+      </block>
+      <block class="full_text">
+        <p>The 5,800-mile Trans-Siberian Railway, from Moscow to Vladivostok, is about to have a new train on its tracks. On May 6, the Golden Eagle, a luxury private train with 21 carriages, including two restaurants and a bar car (above), will make its inaugural 14-night journey on that route, which has been in service since 1916.</p>
+        <p>The train's gold-class passengers will stay in 77-square-foot rooms with flat-screen TVs, DVD and CD players, air-conditioning and bathrooms. Silver-class berths, 60 square feet, are similarly appointed.</p>
+        <p>An English company, GW Travel (www.gwtravel.co.uk), plans to run two trains on the line from May to November. The other train, the Siberian Tiger, features more-traditional Russian cars, with side-by-side beds.</p>
+        <p>The gold-class fare on the Golden Eagle is $11,995 a person, double occupancy, each way, while silver class is $9,995 a person, double. Fares include meals on board and excursions in Kazan, Irkutsk, Lake Baikal and Khabarovsk, among other stops.</p>
+        <p>IN TRANSIT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

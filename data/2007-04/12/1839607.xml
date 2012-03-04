@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   LEVENBROWN, NAOMI</title>
+    <meta content="dn041207.1" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1839607"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">LEVENBROWN, NAOMI</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070412T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05E5DD123AF931A25757C0A9619C8B63" item-length="122" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   LEVENBROWN, NAOMI</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEVENBROWN--Naomi. The Hebrew Academy of The Five Towns, and Rockaway, mourn the passing of our beloved Associate Principle, Mrs. Naomi Levenbrown. Naomi was a consummate professional, teacher, role model and cherished friend. She was the heart and soul of our institution, caring for the thousands of students she shepherded over her 25 years at HAFTR as if they were her own children. Her dedication knew no bounds and despite recent illness, she had an unwavering commitment to allowing each student to realize his/her potential. The officers, trustees, administrators, teachers and students join her husband, the honorable Dr. Jack Levenbrown, their daughter Andrea, and the entire Levenbrown family in mourning. May we all find comfort among the mourners of Zion and Jerusalem.</p>
+      </block>
+      <block class="full_text">
+        <p>LEVENBROWN--Naomi. The Hebrew Academy of The Five Towns, and Rockaway, mourn the passing of our beloved Associate Principle, Mrs. Naomi Levenbrown. Naomi was a consummate professional, teacher, role model and cherished friend. She was the heart and soul of our institution, caring for the thousands of students she shepherded over her 25 years at HAFTR as if they were her own children. Her dedication knew no bounds and despite recent illness, she had an unwavering commitment to allowing each student to realize his/her potential. The officers, trustees, administrators, teachers and students join her husband, the honorable Dr. Jack Levenbrown, their daughter Andrea, and the entire Levenbrown family in mourning. May we all find comfort among the mourners of Zion and Jerusalem.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

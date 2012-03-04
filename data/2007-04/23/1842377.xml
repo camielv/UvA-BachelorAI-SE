@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Treasury Bills Scheduled for This Week</title>
+    <meta content="23bonds" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1842377"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070423T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE4DA173EF930A15757C0A9619C8B63" item-length="411" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Treasury Bills Scheduled for This Week</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Treasury's schedule of financing this week includes today's regular weekly auction of new three- and six-month bills and an auction of four-week bills tomorrow.</p>
+        <p>At the close of the New York cash market on Friday, the rate on the outstanding three-month bill was 4.97 percent. The rate on the six-month issue was 5.03 percent, and the rate on the four-week issue was 4.89 percent.</p>
+      </block>
+      <block class="full_text">
+        <p>The Treasury's schedule of financing this week includes today's regular weekly auction of new three- and six-month bills and an auction of four-week bills tomorrow.</p>
+        <p>At the close of the New York cash market on Friday, the rate on the outstanding three-month bill was 4.97 percent. The rate on the six-month issue was 5.03 percent, and the rate on the four-week issue was 4.89 percent.</p>
+        <p>The following tax-exempt fixed-income issues are scheduled for pricing this week:</p>
+        <p>TAX EXEMPT</p>
+        <p>WEDNESDAY</p>
+        <p>University of Maryland, $75.5 million of revenue bonds. Competitive.</p>
+        <p>ONE DAY DURING THE WEEK  Bay Area Toll Authority, Oakland, Calif., $309 million of debt securities. Citigroup.</p>
+        <p>California Health Facilities Financing Authority, $775 million of financing authority revenue bonds, series 2007A for Sutter Health. Morgan Stanley.</p>
+        <p>California Housing Finance Agency, $270 million of home mortgage revenue bonds, series 2007D and E. Goldman Sachs.</p>
+        <p>Connecticut, $400 million of general obligation bonds. Merrill Lynch.</p>
+        <p>Denton, Tex., Independent School District, $79.1 million of unlimited tax school building debt securities. Bank of America.</p>
+        <p>Fontana Unified School District, Fontana, Calif., $50 million of certificates of participation debt securities. RBC Capital Markets.</p>
+        <p>Geisinger Authority, Danville, Pa., $120 million of debt securities. JPMorgan.</p>
+        <p>Pasadena, Tex., Independent School District, $71 million of debt securities. Bear Stearns.</p>
+        <p>Kentucky Housing Corporation, $75 million of debt securities. Merrill Lynch.</p>
+        <p>Little Rock, Ark., $64.9 million of sewer construction revenue bonds. Morgan Keegan.</p>
+        <p>Loudoun County, Va., Sanitation Authority, $75 million of debt securities. Merrill Lynch.</p>
+        <p>Maine Municipal Bond Bank, $111.2 million of debt securities. UBS.</p>
+        <p>Miami-Dade County, Fla., Public Schools, $330 million of certificates of participation debt securities. Citigroup.</p>
+        <p>Missouri Housing Development Commission, $100 million of single family mortgage revenue bonds. George K. Baum.</p>
+        <p>Montana Board of Housing, $83.1 million of single family mortgage revenue bonds. UBS.</p>
+        <p>Osceola County, Fla., School District, $60 million of certificates of participation debt securities. Citigroup.</p>
+        <p>Paulding County, Ga., $65 million of debt securities for the courthouse and government complex. Morgan Keegan.</p>
+        <p>Philadelphia, $244.6 million of gas works revenue bonds. Goldman Sachs.</p>
+        <p>Philadelphia School District, $150 million of debt securities. Siebert Brandford Shank.</p>
+        <p>Sacramento County, Calif., Water Agency, $400 million of debt securities. Bear Stearns.Seneca Nation of Indians, $160 million of debt securities. Merrill Lynch.</p>
+        <p>Tarrant County, Tex., Cultural Education Facilities Finance Corporation, $595.6 million of system refunding revenue bonds, series 2007A. Morgan Stanley.</p>
+        <p>Tyler, Tex., Health Facilities Development Authority, $85 million of debt securities. Merrill Lynch.</p>
+        <p>Virginia Tobacco Settlement Foundation, $1.2 billion in debt securities. Bear Stearns.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

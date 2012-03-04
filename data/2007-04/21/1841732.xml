@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Masterly Playing From a Master of the Game</title>
+    <meta content="21card" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/21/crosswords/bridge/21card.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1841732"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Bridge"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Crossword and Games/Bridge</classifier>
+        <classifier class="online_producer" type="descriptor">Cards and Card Games</classifier>
+        <classifier class="online_producer" type="descriptor">Bridge (Card Game)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cards and Card Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bridge (Card Game)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070421T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07EFDC163EF932A15757C0A9619C8B63" item-length="581" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Masterly Playing From a Master of the Game</hl1>
+        <hl2 class="online_headline">Masterly Playing From a Master of the Game</hl2>
+      </hedline>
+      <byline class="print_byline">By Phillip Alder</byline>
+      <byline class="normalized_byline">Alder, Phillip</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Some years ago I asked Edgar Kaplan whom he rated as the best bridge player of all time. He replied that the most talented was Alvin Roth, who died on Wednesday at 92.</p>
+        <p>Roth could be an irascible partner and opponent, but no one doubted his genius for the game and his warmth away from the table.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Some years ago I asked Edgar Kaplan whom he rated as the best bridge player of all time. He replied that the most talented was Alvin Roth, who died on Wednesday at 92.</p>
+      </block>
+      <block class="full_text">
+        <p>Some years ago I asked Edgar Kaplan whom he rated as the best bridge player of all time. He replied that the most talented was Alvin Roth, who died on Wednesday at 92.</p>
+        <p>Roth could be an irascible partner and opponent, but no one doubted his genius for the game and his warmth away from the table.</p>
+        <p>He won 26 national championships with 11 different partners and is a member of the American Contract Bridge League's Hall of Fame.</p>
+        <p>Roth collected four silver medals in world championships, and during the 1955 Bermuda Bowl there was an intriguing incident. He was declaring a two-spade contract and felt that he had played the deal before -- but as a defender. He called over Al Sobel, the chief tournament director, who did not believe Roth because the cards had been dealt at the table. But when Roth announced each player's hand, down to the spot-cards, Sobel had to throw out the board. No one discovered how that had happened.</p>
+        <p>Roth formed a famous partnership with Tobias Stone. Their most unusual game was in Europe during World War II. It included Gen. Dwight D. Eisenhower, and afterward Roth was returned to active service at the front.</p>
+        <p>Back in the United States, he and Stone devised the Roth-Stone system, which featured very sound opening bids at the one-level in the first and second positions. Also, a single raise of a one-heart or one-spade opening showed 10-12 points and was forcing if made opposite a first- or second-seat opening.</p>
+        <p>Those two theories have been rejected by present-day experts, but other ideas of Roth's have been adopted, like five-card majors, a one-no-trump response that is forcing opposite a one-of-a-major opening, and the Unusual No-Trump. Roth did not use the 4-3-2-1 high-card point count. Instead he employed the more accurate 3-2-1-1/2, which gives added weight to aces and reduces the value of jacks.</p>
+        <p>Playing sound opening bids resulted in many light third- and fourth-chair opening bids and some hair-raising reopening calls, but both Roth and Stone had such well-tuned antennae that they usually made the winning decisions. The diagramed deal gives an excellent insight into Roth's table presence. He was playing high-stake rubber bridge with Dorothy Hayden, who later married Alan Truscott, for many years the contract bridge columnist for The New York Times.</p>
+        <p>Roth's opponents did not sound optimistic as they crawled into three no-trump. So he doubled the final contract, a call that would not have occurred to many players. He followed that up by finding the killing lead: a spade.</p>
+        <p>Maybe South should have accepted his fate, playing low from the board. Then he could have escaped for down two, losing three spades and three diamonds. But hoping not to receive a diamond shift from East, declarer called for dummy's spade queen. East won with her king, giving South another problem: what to discard. Refusing to part with a winning heart or club, he unwisely pitched a diamond.</p>
+        <p>East shifted to her higher diamond, West winning the trick with his jack. Now Roth carefully cashed the spade jack, deliberately blocking the suit, and continued with another spade. East won with her ace and returned her remaining diamond. When the smoke had cleared, the defenders had taken four spades and five diamonds for down five, plus 1,400.</p>
+        <p>The Bob Katz Spring Sectional will take place Friday to April 29 at the Westchester County Center, 198 Central Avenue, White Plains. Details can be found at web2.acbl.org/tournaments/Ads/2007/04/0704023.pdf.</p>
+        <p>Bridge</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

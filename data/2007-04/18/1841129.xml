@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Roy Moyer, 85, a Painter and Curator</title>
+    <meta content="18moyer" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts; Obituaries" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/18/arts/design/18moyer.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1841129"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="biographical_categories">Art</classifier>
+        <classifier class="indexing_service" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <classifier class="indexing_service" type="names">Roy Moyer</classifier>
+        <person class="indexing_service">Moyer, Roy</person>
+        <person class="indexing_service">Lavietes, Stuart</person>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="descriptor">Art</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070418T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9907E5DD1E3FF93BA25757C0A9619C8B63" item-length="333" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Roy Moyer, 85, a Painter and Curator</hl1>
+        <hl2 class="online_headline">Roy Moyer, 85, a Painter and Curator, Dies</hl2>
+      </hedline>
+      <byline class="print_byline">By STUART LAVIETES</byline>
+      <byline class="normalized_byline">Lavietes, Stuart</byline>
+      <abstract>
+        <p>Roy Moyer, painter who helped bring works by other artists to museums across US, dies at age 85 (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Roy Moyer, a painter who helped bring works by other artists to museums across the United States, died on April 6 at his home in Manhattan. He was 85.</p>
+        <p>The cause was a heart attack, said his partner, Karl Lunde.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Roy Moyer was a painter who helped bring works by other artists to museums across the United States.</p>
+      </block>
+      <block class="full_text">
+        <p>Roy Moyer, a painter who helped bring works by other artists to museums across the United States, died on April 6 at his home in Manhattan. He was 85.</p>
+        <p>The cause was a heart attack, said his partner, Karl Lunde.</p>
+        <p>Trained as an art historian and concert pianist and self-taught as a painter, Mr. Moyer was a longtime administrator at the American Federation of Arts, which organizes exhibitions for travel across America.</p>
+        <p>Among the shows he helped create was ''Art and the Found Object,'' which included works by Robert Rauschenberg, Marcel Duchamp and Joseph Cornell. Opening in 1960, it was one of the first shows to take this art to a wider public.</p>
+        <p>After becoming director of the federation in 1963, he oversaw a 50th anniversary re-creation of the ground-breaking 1913 Armory Show and worked with the psychologist and art theorist Rudolf Arnheim on a series of 19 films on visual perception.</p>
+        <p>As an artist, Mr. Moyer is known for landscapes, still lifes and genre paintings. His works are in the collections of the Smithsonian American Art Museum, the Rose Art Museum of Brandeis University and other museums.</p>
+        <p>''His sensitivity as an artist made him an excellent curator,'' said Virginia M. Mecklenburg, a senior curator at the Smithsonian American Art Museum.</p>
+        <p>Leaving the American Federation of Arts in 1971, he was the chief of art and design at Unicef until his retirement in 1986. He also served on the executive committee of the National Council on the Arts and Government, as vice president of the Architectural League of New York, and as president of the American Society of Contemporary Painters.</p>
+        <p>Roy</p>
+        <p>Moyer was born in 1921 in Allentown, Pa. He graduated from Columbia University, then served in the United States Army infantry, fighting in North Africa and Italy. Returning to Columbia, he earned a master's in English literature and did graduate work in art history.</p>
+        <p>In addition to Mr. Lunde, he is survived by a brother, Harold, of Slatington, Pa.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

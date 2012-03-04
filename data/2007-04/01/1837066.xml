@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Shop | Someplace Like Home</title>
+    <meta content="04remix.gla.boffi.t" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="T: Design Magazine" name="dsk"/>
+    <meta content="48" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Style; Magazine" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/01/style/tmagazine/04remix.gla.boffi.t.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837066"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="The Remix"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/T: Style Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">Home Furnishings</classifier>
+        <classifier class="online_producer" type="descriptor">Antiques</classifier>
+        <classifier class="online_producer" type="general_descriptor">Home Furnishings</classifier>
+        <classifier class="online_producer" type="general_descriptor">Antiques</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9406EFDA1230F932A35757C0A9619C8B63" item-length="118" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Shop | Someplace Like Home</hl1>
+        <hl2 class="online_headline">Shop | Someplace Like Home</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Mixing commerce with domesticity, three Italian companies -- Boffi (kitchens and baths), Porro (tables, chairs and case goods) and Living Divani (mostly upholstered furniture) -- have joined forces in By, a newly opened retail space at 142 Greene Street that looks less like a showroom than a sophisticated loft. ''I didn't want to sell a catalog image,'' explains Piero Lissoni, the prolific Milan designer who is also the art director for all three companies. To that end, Lissoni mixed antiques and art with the companies' products, and used glass partitions instead of walls to maximize light and space, which he calls ''the real qualities of luxury.'' Too bad the kitchen and bathroom don't actually function, or we'd move right in.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Mixing commerce with domesticity, three Italian companies  Boffi (kitchens and baths), Porro (tables, chairs and case goods) and Living Divani (mostly upholstered furniture)  have joined forces in By, a newly opened retail space at 142 Greene Street that looks less like a showroom than a sophisticated loft. “I didn’t want to sell a catalog image,” explains Piero Lissoni, the prolific Milan designer who is also the art director for all three companies. To that end, Lissoni mixed antiques and art with the companies’ products, and used glass partitions instead of walls to maximize light and space, which he calls “the real qualities of luxury.” Too bad the kitchen and bathroom don’t actually function, or we’d move right in.</p>
+      </block>
+      <block class="full_text">
+        <p>Mixing commerce with domesticity, three Italian companies -- Boffi (kitchens and baths), Porro (tables, chairs and case goods) and Living Divani (mostly upholstered furniture) -- have joined forces in By, a newly opened retail space at 142 Greene Street that looks less like a showroom than a sophisticated loft. ''I didn't want to sell a catalog image,'' explains Piero Lissoni, the prolific Milan designer who is also the art director for all three companies. To that end, Lissoni mixed antiques and art with the companies' products, and used glass partitions instead of walls to maximize light and space, which he calls ''the real qualities of luxury.'' Too bad the kitchen and bathroom don't actually function, or we'd move right in.  The Remix</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

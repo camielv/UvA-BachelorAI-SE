@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>LENDER WOES</title>
+    <meta content="14five-3" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Education; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1840142"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="FIVE DAYS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="indexing_service" type="descriptor">Student Loans</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <classifier class="indexing_service" type="descriptor">Student Loans</classifier>
+        <org class="indexing_service">Cit Group Inc</org>
+        <org class="indexing_service">Education Department</org>
+        <org class="indexing_service">Student Loan Xpress</org>
+        <person class="indexing_service">Glater, Jonathan D</person>
+        <person class="indexing_service">Balestri, Fabrizio</person>
+        <person class="indexing_service">Derose, Robert</person>
+        <person class="indexing_service">Shaut, Michael H</person>
+        <person class="indexing_service">Fontana, Matteo</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070414T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B06E3DD103FF937A25757C0A9619C8B63" item-length="338" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>LENDER WOES</hl1>
+      </hedline>
+      <byline class="print_byline">By JONATHAN D. GLATER</byline>
+      <byline class="normalized_byline">Glater, Jonathan D</byline>
+      <abstract>
+        <p>CIT Group put three top executives of Student Loan Xpress, student loan company it acquired in 2005, on leave after learning that financial aid directors at three universities and federal Education Department official held stock in company; CIT turned over documents to Senate staff members looking into matter, showing that Student Loan Xpress executive Fabrizio Balestri gave shares in former parent of loan company to university aid administrators and to Education Department official Matteo Fontana (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE flameout of the radio host Don Imus dominated the discourse this week, but there was other intrigue, including what Dow Chemical said were unauthorized merger talks held by two of its officials and the continuing investigation into the practices of student loan companies.</p>
+        <p>The CIT Group put three top executives of Student Loan Xpress, a student loan company that it acquired in 2005, on leave this week after learning that financial aid directors at three universities and a federal Education Department official held stock in the company.</p>
+      </block>
+      <block class="full_text">
+        <p>THE flameout of the radio host Don Imus dominated the discourse this week, but there was other intrigue, including what Dow Chemical said were unauthorized merger talks held by two of its officials and the continuing investigation into the practices of student loan companies.</p>
+        <p>The CIT Group put three top executives of Student Loan Xpress, a student loan company that it acquired in 2005, on leave this week after learning that financial aid directors at three universities and a federal Education Department official held stock in the company.</p>
+        <p>The personnel moves were only the latest fallout of investigations of the student loan industry. The New York attorney general, Andrew M. Cuomo, has raised concerns that close ties between student loan companies and colleges and universities create a conflict of interest for the officials that student borrowers rely on for advice.</p>
+        <p>CIT also turned over documents to Senate staff members looking into the matter, showing that one Student Loan Xpress executive, Fabrizio Balestri, gave shares in the former parent of the loan company to the university aid administrators and to the Education Department official, Matteo Fontana. The financial aid administrators and the government official have all been put on leave, too.</p>
+        <p>The biggest provider of student loans, Sallie Mae, meanwhile, is said to be in talks to be bought by private equity firms in what could be a deal for more than $20 billion, people briefed on the negotiations said. The discussions are taking place as the company agreed to pay $2 million and to change its business practices to settle a New York investigation.</p>
+        <p>JONATHAN D. GLATER</p>
+        <p>MOST POPULAR -- Following are the most-popular business news articles on nytimes.com from April 7 through April 13:  1. A Word of Advice During a Housing Slump: Rent  2. Imus Struggling to Retain Sway as a Franchise  3. Democrats Seek to Lead the Way in Tax Overhaul  4. Sifting Data to Uncover Travel Deals  5. High Stakes: Chávez Plays the Oil Card  Links are at nytimes.com/business.</p>
+        <p>FIVE DAYS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

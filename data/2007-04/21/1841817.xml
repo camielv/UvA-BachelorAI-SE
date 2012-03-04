@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Randolph Honored to Wear No. 42</title>
+    <meta content="21shea" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/21/sports/baseball/21shea.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1841817"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="BASEBALL"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Mets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="descriptor">Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Uniforms</classifier>
+        <classifier class="online_producer" type="general_descriptor">Coaches and Managers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Apparel</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+        <org class="online_producer">New York Mets</org>
+        <person class="online_producer">Randolph, Willie</person>
+        <person class="online_producer">Robinson, Jackie</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070421T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402E7D9163EF932A15757C0A9619C8B63" item-length="328" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Randolph Honored to Wear No. 42</hl1>
+        <hl2 class="online_headline">Randolph Honored to Wear No. 42</hl2>
+      </hedline>
+      <byline class="print_byline">By BEN SHPIGEL</byline>
+      <byline class="normalized_byline">Shpigel, Ben</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>While most teams honored Jackie Robinson's memory by wearing his No. 42 jersey last Sunday, on the 60th anniversary of him breaking baseball's color barrier, Willie Randolph could only watch and wait. The Mets' Jackie Robinson Day festivities, postponed because of rain, were rescheduled for last night, and Randolph finally wore No. 42. Five days later, it was sweeter than he had imagined.</p>
+        <p>''It looks good, feels good,'' Randolph said. ''Forty-two is a number synonymous with greatness to me, and I'm honored to be wearing it.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Mets’ Jackie Robinson Day festivities, postponed because of rain, were rescheduled for Friday night, and Willie Randolph finally wore No. 42.</p>
+      </block>
+      <block class="full_text">
+        <p>While most teams honored Jackie Robinson's memory by wearing his No. 42 jersey last Sunday, on the 60th anniversary of him breaking baseball's color barrier, Willie Randolph could only watch and wait. The Mets' Jackie Robinson Day festivities, postponed because of rain, were rescheduled for last night, and Randolph finally wore No. 42. Five days later, it was sweeter than he had imagined.</p>
+        <p>''It looks good, feels good,'' Randolph said. ''Forty-two is a number synonymous with greatness to me, and I'm honored to be wearing it.''</p>
+        <p>On a crisp, cloudless night, Randolph and the Mets paid tribute to Robinson with a lively 30-minute ceremony before their game against the Atlanta Braves. It culminated in a passionate speech by Robinson's son David, a coffee farmer living in Tanzania, who flew in for the occasion. In thanking Randolph for perpetuating Robinson's legacy, David Robinson recalled his father's final public appearance, on Oct. 14, 1972. Speaking before Game 2 of the World Series in Cincinnati, Jackie Robinson said that he would not be content until he saw black managers in baseball.</p>
+        <p>''I want to thank you for turning my father's aspirations into reality,'' David Robinson said to Randolph, the first black manager in New York major league baseball history.</p>
+        <p>The ceremony included performances by local choirs, video montages commemorating Robinson's life and appearances by former Negro leaguers and Robinson's former Brooklyn Dodgers teammate Ralph Branca. Randolph stood on the top step of the dugout watching every moment until it was time to escort Robinson's widow, Rachel Robinson, to a podium set up in front of home plate. Rachel Robinson spent last Sunday's festivities at Dodger Stadium in Los Angeles, but as soon as she learned that the Mets' tribute would be rescheduled, she made sure that she would be in attendance.</p>
+        <p>''I'm so glad the Lord arranged the weather in both places,'' Rachel Robinson said. ''I didn't want to miss the Mets game, but the Dodgers were first.''</p>
+        <p>BASEBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

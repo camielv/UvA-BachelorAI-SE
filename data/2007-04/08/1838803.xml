@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>How to Find Profit Away From the Herd</title>
+    <meta content="08stra" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="30" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/08/business/mutfund/08stra.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1838803"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MUTUAL FUNDS REPORT: STRATEGIES"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Strategies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Markets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="descriptor">Mutual Funds</classifier>
+        <classifier class="online_producer" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mutual Funds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070408T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE4D8173FF93BA35757C0A9619C8B63" item-length="996" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>How to Find Profit Away From the Herd</hl1>
+        <hl2 class="online_headline">How to Find Profit Away From the Herd</hl2>
+      </hedline>
+      <byline class="print_byline">By MARK HULBERT</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>MUTUAL funds are a destabilizing force in the stock market. That's the finding of a recent study, which suggests that fund-induced volatility creates profit opportunities for investors who are willing to buy a stock after most funds have sold it, and to sell after most funds have bought.</p>
+        <p>The study looked at the idea of ''mutual fund herding'' -- meaning an abnormally high level of mutual fund purchases or sales -- involving particular stocks in a quarter. The research found that, though prices of typical stocks bought by herds of funds shot up immediately, these stocks were barely able to beat the return of the overall market over the next year. By contrast, the price of the average stock dumped by fund herds was beaten down severely, then bounced back.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A recent study suggests that fund-induced volatility creates profit opportunities for investors who are willing to buy a stock after most funds have sold it.</p>
+      </block>
+      <block class="full_text">
+        <p>MUTUAL funds are a destabilizing force in the stock market. That's the finding of a recent study, which suggests that fund-induced volatility creates profit opportunities for investors who are willing to buy a stock after most funds have sold it, and to sell after most funds have bought.</p>
+        <p>The study looked at the idea of ''mutual fund herding'' -- meaning an abnormally high level of mutual fund purchases or sales -- involving particular stocks in a quarter. The research found that, though prices of typical stocks bought by herds of funds shot up immediately, these stocks were barely able to beat the return of the overall market over the next year. By contrast, the price of the average stock dumped by fund herds was beaten down severely, then bounced back.</p>
+        <p>The study, ''Analyst Recommendations, Mutual Fund Herding and Overreaction in Stock Prices,'' has circulated since late last year in academic circles. Its authors are Nerissa C. Brown, an assistant professor of accounting at the University of Southern California; Kelsey D. Wei, an assistant professor of finance at the University of Texas at Dallas; and Russell R. Wermers, an associate professor of finance at the University of Maryland. A version is at //papers.ssrn.com/sol3/papers.cfm?abstract-id=972731.</p>
+        <p>To determine whether herding occurred for a particular stock in a calendar quarter, the professors first calculated the percentage of fund transactions involving the stock that were purchases. They compared that percentage to similarly calculated averages for all stocks that mutual funds bought or sold in that quarter. Herding was said to occur when a stock's proportion deviated significantly from that overall average.</p>
+        <p>Consider Motorola stock in the second quarter of 1997 According to the professors, 76 percent of mutual fund transactions in that stock were purchases during that quarter -- far higher than the 55 percent average for all stocks bought or sold by funds. Not surprisingly, Motorola shares soared during the quarter, gaining 26 percent -- equivalent to more than 150 percent, annualized. Over the next four quarters, however, the stock lost more than 30 percent.</p>
+        <p>As an example of a stock dumped by a fund herd, the professors offer Ascend Communications in the fourth quarter of 1997. More than 82 percent of all mutual fund transactions involving Ascend in that quarter were sales, versus an average of 43 percent for all stocks that funds bought or sold. The stock plunged 24 percent during that quarter, but recovered smartly over the next year, gaining more than 160 percent.</p>
+        <p>It was beyond the scope of the study to explore all reasons that fund managers would join a herd in buying or selling a stock. But one clue lies in the finding that the behavior was particularly pronounced among managers of funds whose recent performance was quite poor.</p>
+        <p>These managers are presumably those most worried about keeping their jobs, Professor Wermers said in an interview, so they aren't inclined to go out on a limb and buy when everyone else is selling, or vice versa. Indeed, he added, herding by poorly performing funds seems a wonderful illustration of John Maynard Keynes's view that ''it is better for reputation to fail conventionally than succeed unconventionally.''</p>
+        <p>Though the professors suspect that herding occurs on many different occasions, they focused on funds' reactions to changes in Wall Street analysts' consensus ratings of stocks.</p>
+        <p>An example is found in funds' reactions from mid-1994 to 2003 to analysts' consensus upgrades of small stocks -- defined by the professors as the 20 percent of stocks followed by Wall Street analysts that had the smallest market capitalizations. Mutual funds bought 3.4 percent more shares of stocks with such upgrades, compared with the average stock that they traded during the same quarter. The herding was even more pronounced on the sell side after downgrades of stocks, with funds selling 8 percent more shares than the quarterly average.</p>
+        <p>Herding had a marked effect on the prices of the stocks. Consider two hypothetical portfolios built by the professors -- the first containing the stocks that were most heavily bought by fund herds, and the second owning those that were most heavily sold.</p>
+        <p>First, the professors calculated the portfolios' returns for the quarter when the herding occurred. On average over the nine and a half years through 2003, they found that the portfolio of stocks bought by herds beat the second portfolio by an astounding 117 percent, annualized.</p>
+        <p>UNFORTUNATELY, the professors hasten to add, an investor would have no way to capture this huge return regularly. That's because mutual funds must divulge their holdings only quarterly, and even then with a several-week delay. As a result, we can't be immediately sure that herding has occurred.</p>
+        <p>But that's not all. Once the quarter has ended, the professors found, the two portfolios took much different paths. Over the next 12 months, the portfolio of the heavily sold stocks outperformed the overall market by 4.5 percent, on average. It also fared markedly better than the portfolio of heavily bought stocks, which beat the market by just 0.5 percent, on average, in the year after the quarter when herding occurred.</p>
+        <p>Individual investors could capture that 4.5 percent, since the strategy relies on publicly available information. It would be hard to reproduce the professors' approach since it involves applying complex econometric models to a database of all mutual fund holdings and transactions.</p>
+        <p>But a simpler strategy might work. You could focus on stocks whose prices have been bid up the most after upgrades from Wall Street analysts, as well as those punished the most severely after downgrades. Though there is no guarantee that mutual fund herding was the main cause of these moves, it is a fairly safe bet that herding played a role, Professor Wei said. If you own any of the stocks that have been bid up the most, you may want to sell them, because it is unlikely that they will keep beating the market. And you may consider buying the most beaten-down shares, betting that they will soon recover.</p>
+        <p>MUTUAL FUNDS REPORT: STRATEGIES Mark Hulbert is editor of The Hulbert Financial Digest, a service of MarketWatch. E-mail: strategy@nytimes.com.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Mark Hulbert is editor of The Hulbert Financial Digest, a service of MarketWatch. E-mail: strategy@nytimes.com.</tagline>
+    </body.end>
+  </body>
+</nitf>

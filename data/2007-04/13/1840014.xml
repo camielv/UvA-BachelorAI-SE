@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Manhattan: Whistle-Blower Bill Passed</title>
+    <meta content="13mbrfs-4" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Education; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1840014"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Legal</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Government Employees</classifier>
+        <classifier class="online_producer" type="general_descriptor">Teachers and School Employees</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070413T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE3D9133FF930A25757C0A9619C8B63" item-length="146" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Manhattan: Whistle-Blower Bill Passed</hl1>
+      </hedline>
+      <byline class="print_byline">By RAY RIVERA; Compiled by John Sullivan</byline>
+      <byline class="normalized_byline">Rivera, Ray</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The New York City Council passed a bill yesterday enhancing whistle-blower laws to protect city employees who report conduct that is harmful to the health, safety or educational welfare of a child. Councilman Robert Jackson said the bill was aimed at protecting teachers from coercion to inflate test scores and those who report the failure of a school to follow through on federally mandated individual education plans for students with special needs. But some critics, including the mayor, say the bill would provide teachers facing poor performance reviews a tool to use against superiors. City Council Speaker Christine C. Quinn rejected that notion yesterday, saying it would not hamper efforts to bring more accountability to schools. The Departments of Education and Investigation oppose the bill, and Mayor Michael R. Bloomberg has signaled that he would veto it.</p>
+        <p>RAY RIVERA</p>
+      </block>
+      <block class="full_text">
+        <p>The New York City Council passed a bill yesterday enhancing whistle-blower laws to protect city employees who report conduct that is harmful to the health, safety or educational welfare of a child. Councilman Robert Jackson said the bill was aimed at protecting teachers from coercion to inflate test scores and those who report the failure of a school to follow through on federally mandated individual education plans for students with special needs. But some critics, including the mayor, say the bill would provide teachers facing poor performance reviews a tool to use against superiors. City Council Speaker Christine C. Quinn rejected that notion yesterday, saying it would not hamper efforts to bring more accountability to schools. The Departments of Education and Investigation oppose the bill, and Mayor Michael R. Bloomberg has signaled that he would veto it.</p>
+        <p>RAY RIVERA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Fresh Direct</title>
+    <meta content="04get.musthaves.index-2" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="T: Design Magazine" name="dsk"/>
+    <meta content="104" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts; Style; Magazine" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/01/style/tmagazine/04get.musthaves.index-2.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837133"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Scent Notes"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/T: Style Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07EFDD1330F932A35757C0A9619C8B63" item-length="509" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Fresh Direct</hl1>
+        <hl2 class="online_headline">Fresh Direct</hl2>
+      </hedline>
+      <byline class="print_byline">By Chandler Burr</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The olfactory idea of ''fresh'' is a strange one. This is not because we have no referents for the smell of freshness in the natural world; we do. As T. S. Eliot wrote, ' 'April is the cruelest month, breeding / Lilacs out of the dead land, mixing / Memory and desire, stirring / Dull roots with spring rain.'' What's strange about ''freshness'' are the interpretations that have sprung from it; few are representative of real things, and some are beautiful and some are not.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The olfactory idea of “fresh” is a strange one. This is not because we have no referents for the smell of freshness in the natural world; we do. As T. S. Eliot wrote, ‘ ‘April is the cruelest month, breeding / Lilacs out of the dead land, mixing / Memory and desire, stirring / Dull roots with spring rain.” What’s strange about “freshness” are the interpretations that have sprung from it; few are representative of real things, and some are beautiful and some are not.</p>
+      </block>
+      <block class="full_text">
+        <p>The olfactory idea of ''fresh'' is a strange one. This is not because we have no referents for the smell of freshness in the natural world; we do. As T. S. Eliot wrote, ' 'April is the cruelest month, breeding / Lilacs out of the dead land, mixing / Memory and desire, stirring / Dull roots with spring rain.'' What's strange about ''freshness'' are the interpretations that have sprung from it; few are representative of real things, and some are beautiful and some are not.</p>
+        <p>Marc Jacobs recently put out a line of scents, most of which interpret fresh: Ivy, for example, is a lovely piece of olfactory sculpture by Richard Herpin that has the slightly alarming, mossy, humid, almost poisonous green odor of a hyperrealist photo by Mapplethorpe. Then there's Marc Jacobs Rain, which could, in theory, evoke the scent of static electricity from the lightning and silicate dust that a storm kicks up on the prairie, or even the smell of tropical rain on hot, green rot. Sadly, this fragrance is neither. This is a Calgon concept of rain, basically a kind of Febreze for humans. It is a classic example of what is known in the industry as trickle-up from functional scents or what Americans have been taught to read as ''rain fresh'' in the cleaning-product aisle. In 1994, a perfume by Alberto Morillas and Harry Frémont under the creative direction of Ann Gottlieb came on the market. It was a revolution in its day and remains a historical benchmark for the olfactory concept of fresh . Try CK One again, and you'll rediscover what another generation defined as clean and fresh. CK One, however, was always completely removed from the natural world. These are virtual roots and a film-set version of spring rain. It's the freshness of laundry washed in the artificial gravity of a space colony, molecules whose scent we have been conditioned to associate with clean because CK One's raw materials are the same as those used in Tide, Cheer and Wisk. Nothing wrong with that per se. It simply means this scent mixes memory very powerfully with desire. How's CK One as a perfume? Inoffensive and nice, if not a little artificial.</p>
+        <p>Sophia Grojsman is a sort of Meryl Streep of scent. She is the talent behind Beautiful, Eternity, Paris and the lesser-known White Linen, which is arguably one of her best. Prescriptives launched her perfume Calyx in 1986. It is a masterful scent, perfect in every technical measure -- diffusion, life span, sillage (the perfume's wake in the air) -- but where Calyx is truly slamming is in its aesthetics. It's a green freshness that is viscerally alive, raw, supersaturated, vivid as a young tree ripped in half by a storm. You smell the fresh, shredded plant cells in the wet wind. This is an HDTV perfume. Not a color photocopy of someone's idea of freshness. It is a weird, wonderful, fresh thing.</p>
+        <p>(0) Do not inhale; (*) Inoffensive; (**) Eminently sniffable; (***) Breathtaking; (****) Total nose job; (*****) Transcendent</p>
+        <p>Scent Notes</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

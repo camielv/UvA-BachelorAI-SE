@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Deadly Asteroids: Let's Be Prepared!</title>
+    <meta content="l06asteroid" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838305"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Asteroids</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070406T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980CE0DE173FF935A35757C0A9619C8B63" item-length="284" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Deadly Asteroids: Let's Be Prepared!</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Finding Doomsday Asteroids'' (editorial, April 3):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Finding Doomsday Asteroids'' (editorial, April 3):</p>
+        <p>You conclude, ''Before plunging ahead with an asteroid-deflector, let's wait to see whether a real threat even exists.'' I disagree. To wait until a threat is identified and certain is foolish, perhaps even suicidal.</p>
+        <p>These events have happened and will continue to occur. An immediate effort to develop a way to deflect such objects must be undertaken.</p>
+        <p>I believe that using a nuclear bomb would be foolish, although possibly effective. And the use of a nearby spacecraft for gravitation deflection would be too unsure.</p>
+        <p>A more certain method would be to send a set of solid-fuel rocket motor devices, perhaps in a small ''fleet,'' and ''land'' them on the object. Once properly positioned, they could be ignited in a controlled manner to provide a consistent and constant ''push'' to alter the object's path. Some scientists believe that this technology is already at hand.</p>
+        <p>By having such devices ready, when an object is identified, we can act, and not lament. We can have the assurance of a future, rather than huddle helplessly in the face of doom.</p>
+        <p>Joseph Acquisto  Stone Ridge, N.Y., April 3, 2007</p>
+        <p>To the Editor:</p>
+        <p>You say that Congress should add funds to the budget of the National Aeronautics and Space Administration for the asteroid hunt or that NASA should divert funds from less important projects.</p>
+        <p>Why not bring this program under the United Nations banner so that the cost would be shared and the skills of scientists from every country could be used? It's the world that's at risk, not just the United States.</p>
+        <p>Jerome B. Bonat  Boca Raton, Fla., April 3, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

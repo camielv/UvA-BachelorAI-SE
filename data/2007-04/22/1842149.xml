@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Celeste Sharpe, Peter Brown</title>
+    <meta content="22Sharpe" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/22/fashion/weddings/22Sharpe.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842149"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Sharpe, Celeste Andrea (Celeste Andrea Brown)</person>
+        <person class="indexing_service">Brown, Peter</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E03E0DF163EF931A15757C0A9619C8B63" item-length="246" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Celeste Sharpe, Peter Brown</hl1>
+        <hl2 class="online_headline">Celeste Sharpe, Peter Brown</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Celeste Andrea Sharpe and Peter Brown are to be married this evening at the Don CeSar Beach Resort in St. Pete Beach, Fla. Judge Robert A. Foster Jr., of the Hillsborough County Circuit Court in Tampa is to officiate.</p>
+        <p>Until last Monday the bride, 43, was an associate at Rahdert, Steele, Bole &amp; Reynolds, a law firm in St. Petersburg. She graduated from Florida State University and received her law degree from Stetson College and a Master of Laws in taxation from Boston University. While in law school, she was a cheerleader for the Tampa Bay Buccaneers of the National Football League.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Celeste Andrea Sharpe and Peter Brown are to be married this evening at the Don CeSar Beach Resort in St. Pete Beach, Fla. Judge Robert A. Foster Jr., of the Hillsborough County Circuit Court in Tampa is to officiate.</p>
+      </block>
+      <block class="full_text">
+        <p>Celeste Andrea Sharpe and Peter Brown are to be married this evening at the Don CeSar Beach Resort in St. Pete Beach, Fla. Judge Robert A. Foster Jr., of the Hillsborough County Circuit Court in Tampa is to officiate.</p>
+        <p>Until last Monday the bride, 43, was an associate at Rahdert, Steele, Bole &amp; Reynolds, a law firm in St. Petersburg. She graduated from Florida State University and received her law degree from Stetson College and a Master of Laws in taxation from Boston University. While in law school, she was a cheerleader for the Tampa Bay Buccaneers of the National Football League.</p>
+        <p>She is the daughter of Mary Roubos Sharpe of Tampa and the late Chief Master Sgt. W. Dean Sharpe, who was an air traffic controller at MacDill Air Force base in Tampa. He later became an air traffic controller at Tampa International Airport. Her mother is a receptionist with the Tampa Bay Lightning of the National Hockey League.</p>
+        <p>Mr. Brown, 60, is a partner specializing in information technology law in the New York office of Thelen Reid Brown Raysman &amp; Steiner, a law firm. He graduated from Dartmouth and received a law degree from Columbia.</p>
+        <p>He is the son of Bianca Steiner Brown of Great Neck, N .Y. and the late George C. Brown. His father was an electrical engineer and international sales director with Miltope, a manufacturer of electronic hardware for the military in Farmingdale, N.Y. Mr. Brown's first marriage ended in divorce.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

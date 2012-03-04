@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Don't Forget the Astrolabe</title>
+    <meta content="03rothman" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="21" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/03/opinion/03rothman.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837706"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Op-Ed Contributor"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Navigation</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Positioning System</classifier>
+        <location class="indexing_service">Iran</location>
+        <location class="indexing_service">Great Britain</location>
+        <person class="indexing_service">Rothman, Wilson</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/United Kingdom</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Iran</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Great Britain</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Contributors</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Britain</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Iran</classifier>
+        <classifier class="online_producer" type="descriptor">Global Positioning System</classifier>
+        <classifier class="online_producer" type="descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Positioning System</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Navigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070403T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE5DD1F30F930A35757C0A9619C8B63" item-length="801" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Don't Forget the Astrolabe</hl1>
+        <hl2 class="online_headline">Don’t Forget the Astrolabe</hl2>
+      </hedline>
+      <byline class="print_byline">By Wilson Rothman</byline>
+      <byline class="normalized_byline">Rothman, Wilson</byline>
+      <dateline>Mount Kisco, N.Y.</dateline>
+      <abstract>
+        <p>Op-Ed article by Wilson Rothman says current crisis between Iran and Great Britain over British sailors' alleged trespassing into Iranian waters should serve as reminder that Global Positioning System is accurate but not perfect; cites possibility of failure, whether as result of electrical problems or drained battery or old fashioned human error; says real lesson is that, by itself, accurate GPS may not prevent international diplomatic crisis; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WHEN 15 British sailors and marines were captured by Iranian forces and accused of trespassing into Iranian waters, the commander of their ship, the Cornwall, wishfully referred to the run-in as ''a simple misunderstanding.''</p>
+        <p>After all, Global Positioning System receivers aboard the inflatable British patrol boats and the merchant vessel they were investigating clearly showed that they were in Iraqi, not Iranian, territorial waters. Surely, once Iran was made aware of the mix-up the situation could be cleared up and the prisoners would be returned. After all, military-grade G.P.S. does not lie.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Global Positioning System  the ability to know exactly where you are  has the potential to provide a false sense of security.</p>
+      </block>
+      <block class="full_text">
+        <p>WHEN 15 British sailors and marines were captured by Iranian forces and accused of trespassing into Iranian waters, the commander of their ship, the Cornwall, wishfully referred to the run-in as ''a simple misunderstanding.''</p>
+        <p>After all, Global Positioning System receivers aboard the inflatable British patrol boats and the merchant vessel they were investigating clearly showed that they were in Iraqi, not Iranian, territorial waters. Surely, once Iran was made aware of the mix-up the situation could be cleared up and the prisoners would be returned. After all, military-grade G.P.S. does not lie.</p>
+        <p>But nothing involving global positioning technology is quite so simple. First, Iranian officials produced map coordinates that placed the sailors in Iraqi waters, though not where the British government had located them. Then, when it was pointed out to the Iranians that this didn't constitute an offense, they produced a second, more damning set of coordinates. Not that it mattered. Regardless of how dubious the maps were, Iran still holds the prisoners. Regardless of how accurate the G.P.S. reading was, it was not, in itself, a resolution.</p>
+        <p>G.P.S. has become a remarkable tool, solving problems for farmers, prison wardens, broadcasters and concerned parents, not to mention drivers, pilots and ship captains. But, as this incident serves to remind us, it is not a panacea: relying too heavily on it can be dangerous. G.P.S. -- the ability to know exactly where you are -- has the potential to provide a false sense of security.</p>
+        <p>By a strange coincidence, it was a crisis similar to this one that caused the United States government to declassify G.P.S. in the first place.</p>
+        <p>On Sept. 1, 1983, a Korean Air Lines passenger jet on its way from New York to Seoul strayed north of Japan into Soviet airspace. On the assumption that the unidentified 747's radar blip indicated some sort of spy plane, Soviet air command scrambled MiG and Sukhoi fighters. One of the Sukhois made visual contact with the jet, fired warning shots, and then knocked it out of the sky, killing all 269 passengers and crew.</p>
+        <p>The Reagan administration decided that the best move was not military retaliation, but to make the fledgling global positioning system, a joint program between the Air Force and Navy, available free of charge to airlines and shipping companies around the world as soon as it became fully operational. G.P.S. tells you where you are, period. With that kind of godlike navigating power, the thinking went, the 747 never would have lost its way.</p>
+        <p>Almost a quarter-century later, G.P.S. has become a household technology, one that some enthusiasts refer to as the ''fifth utility'' -- after water, gas, electricity and telecommunications. Receivers are now found in phones, cameras and even shoes. They help provide turn-by-turn directions to drivers, steer tractors through crops, and notify corrections officers when a parolee is wandering off.</p>
+        <p>For its original customer, the military, G.P.S. provides navigational support for air, sea and land vehicles and troops. As the guidance system behind ''smart bombs,'' it has also improved the accuracy of strikes, which saves money, effort and innocent lives.</p>
+        <p>Yet, as we have seen in Afghanistan and Iraq, the overall decrease in ''collateral damage'' makes mistakes caused by programming errors seem all the more tragically avoidable.</p>
+        <p>In October 2001, a Navy F/A-18 Hornet dropped a 2,000-pound bomb on the wrong target in Kabul, Afghanistan, killing four people. The next month, a number of United States and allied troops were wounded in a similar incident after an American changed the batteries in his G.P.S. locator, causing it to reset the coordinates at which the bomb was supposed to strike. In January 2005, an American F-16 dropped a 500-pound bomb on a house in Mosul, Iraq, that was about to be searched, killing five. In each case, there was nothing wrong with the bombs or the G.P.S. units; they had simply received inaccurate instructions.</p>
+        <p>Nor is the British-sailor incident the first tense moment in diplomacy involving positioning technology. On May 7, 1999, an American-led NATO bombing raid in Belgrade, Yugoslavia, accidentally hit the Chinese Embassy, killing three people and injuring some 20 others. The United States immediately made it clear that it had not intended to hit the building, and the C.I.A. director, George Tenet, later said the error was not because of G.P.S. failure but faulty maps resulting in improper coordinates.</p>
+        <p>An old sailor's rule of thumb warns against depending on a sole means of navigation; just because you have G.P.S. does not mean you should leave your compass and sextant on dry land. Failure, whether due to an electrical problems or a drained battery or old fashioned human error, can be devastating. The real lesson here is that, by itself, accurate G.P.S. will not save you from rough seas -- or an international diplomatic crisis.</p>
+        <p>Op-Ed Contributor Wilson Rothman is writing a book on the history of the Global Positioning System.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Wilson Rothman is writing a book on the history of the Global Positioning System.</tagline>
+    </body.end>
+  </body>
+</nitf>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>World Briefing | Europe: Russia: Sensor Disabled Before Mine Blast</title>
+    <meta content="18briefs-3" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1841248"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070418T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E7DA1E3FF93BA25757C0A9619C8B63" item-length="84" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>World Briefing | Europe: Russia: Sensor Disabled Before Mine Blast</hl1>
+      </hedline>
+      <byline class="print_byline">By MICHAEL SCHWIRTZ</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A disregard for safety in the interest of profit very likely caused the explosion in a Siberian mine last month that killed 108 people, the biggest mine disaster in Russia's recent history, officials said. They said that the mine's management deliberately disabled a methane detector, among other safety violations. A buildup of methane, sparked by a short circuit, caused the blast. The governor of the Kemerovo region, Aman-Geldi M. Tuleyev, said the managers defied safety regulations to increase production.</p>
+        <p>MICHAEL SCHWIRTZ</p>
+      </block>
+      <block class="full_text">
+        <p>A disregard for safety in the interest of profit very likely caused the explosion in a Siberian mine last month that killed 108 people, the biggest mine disaster in Russia's recent history, officials said. They said that the mine's management deliberately disabled a methane detector, among other safety violations. A buildup of methane, sparked by a short circuit, caused the blast. The governor of the Kemerovo region, Aman-Geldi M. Tuleyev, said the managers defied safety regulations to increase production.</p>
+        <p>MICHAEL SCHWIRTZ</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

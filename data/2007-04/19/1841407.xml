@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="19drug--refer" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1841407"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070419T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DEED81E3FF93AA25757C0A9619C8B63" item-length="141" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Talks on Drug Costs Blocked  A pillar of the Democrats' program tumbled when the Senate blocked a proposal to let Medicare negotiate lower drug prices for millions of older Americans.</p>
+        <p>PAGE A20</p>
+        <p>A Day Without a Lifeline  Five million BlackBerry users found themselves without service for 10 hours. And with their electronic lifelines down, some users were left adrift.</p>
+        <p>PAGE C1</p>
+        <p>Kitty Carlisle Hart Is Dead  A doyenne of New York culture and society and a perennial entertainer who appeared on Broadway and in films and was still singing on the stage as recently as last fall, Miss Carlyle, shown at a cabaret performance in 2004, was 96.</p>
+        <p>PAGE C13</p>
+        <p>Rangers Roll to Next Round  The Rangers defeated Atlanta, 4-2, to win a National Hockey League playoff series for the first time since 1997.</p>
+        <p>SPORTSTHURSDAY, PAGE D1</p>
+      </block>
+      <block class="full_text">
+        <p>Talks on Drug Costs Blocked  A pillar of the Democrats' program tumbled when the Senate blocked a proposal to let Medicare negotiate lower drug prices for millions of older Americans.</p>
+        <p>PAGE A20</p>
+        <p>A Day Without a Lifeline  Five million BlackBerry users found themselves without service for 10 hours. And with their electronic lifelines down, some users were left adrift.</p>
+        <p>PAGE C1</p>
+        <p>Kitty Carlisle Hart Is Dead  A doyenne of New York culture and society and a perennial entertainer who appeared on Broadway and in films and was still singing on the stage as recently as last fall, Miss Carlyle, shown at a cabaret performance in 2004, was 96.</p>
+        <p>PAGE C13</p>
+        <p>Rangers Roll to Next Round  The Rangers defeated Atlanta, 4-2, to win a National Hockey League playoff series for the first time since 1997.</p>
+        <p>SPORTSTHURSDAY, PAGE D1</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

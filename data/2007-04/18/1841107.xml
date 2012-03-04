@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Little Fish, Big Taste</title>
+    <meta content="18mini" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining, Dining Out/Cultural Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Dining and Wine" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1841107"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE MINIMALIST"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Columns/The Minimalist</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Pasta</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cooking and Cookbooks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070418T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B02E4DE1E3FF93BA25757C0A9619C8B63" item-length="463" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Little Fish, Big Taste</hl1>
+      </hedline>
+      <byline class="print_byline">By Mark Bittman</byline>
+      <byline class="normalized_byline">Bittman, Mark</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THERE are places in the world where anchovies are revered, the Mediterranean chief among them. The little fish, usually salted and preserved in oil, is enormously popular on every continent except our own.</p>
+        <p>There are two reasons so many Americans aren't wild about anchovies. One is that we typically buy those of inferior quality. The other is that anchovies are strong flavored and undeniably fishy.</p>
+      </block>
+      <block class="full_text">
+        <p>THERE are places in the world where anchovies are revered, the Mediterranean chief among them. The little fish, usually salted and preserved in oil, is enormously popular on every continent except our own.</p>
+        <p>There are two reasons so many Americans aren't wild about anchovies. One is that we typically buy those of inferior quality. The other is that anchovies are strong flavored and undeniably fishy.</p>
+        <p>Those of us who can't get enough of them see these characteristics as assets. You probably will, too, if you buy the right anchovies and cook them in this familiar pasta sauce whose other main ingredients are garlic, chilies and tomatoes.</p>
+        <p>What are the wrong anchovies to buy? The ones that come in two-ounce tins, usually packed in oil that is not olive oil. The right ones are packed in jars, in olive oil from Spain or Italy, or packed in salt.</p>
+        <p>The ones packed in salt require rinsing, de-boning and, preferably, a bit of marinating in olive oil before use. They're really good but obviously far more work.</p>
+        <p>Once you've found the anchovies, this pasta sauce can be made in the time it takes to bring the cooking water to a boil. Garlic, chilies and anchovies are brought to a simmer in olive oil; a bit of the anchovy oil is good added here. (Top off the jar with fresh olive oil before closing.) When the anchovies fall apart, add tomatoes and cook a bit longer. That's pretty much it.</p>
+        <p>I call for 20 anchovy fillets here, which might sound like a lot, but not for those of us who love them. Newcomers might start with three or four, and work their way up.</p>
+        <p>PASTA WITH GARLIC, ANCHOVIES AND TOMATOES  Time: 20 minutes</p>
+        <p>Salt  1/4 cup extra virgin olive oil  10 garlic cloves, peeled  2 or 3 dried chilies, optional  20 anchovy fillets, more or less  2 cups halved cherry tomatoes  Freshly ground black pepper  1 pound cut pasta, like penne  Chopped fresh parsley leaves for garnish.</p>
+        <p>1. Bring a large pot of water to a boil and salt it. Put olive oil in a medium skillet over medium heat; a minute later, add garlic and chilies, if using. Cook garlic so it bubbles gently. When it is lightly browned all over, add anchovies. Cook, stirring occasionally, for about a minute, until anchovies begin to fall apart, then add tomatoes. Adjust heat so tomatoes bubble nicely, and cook until mixture becomes saucy, about 5 minutes. Taste and add salt and pepper as necessary.  2. Meanwhile, cook pasta until tender but not mushy. When it is done, drain it, reserving a little cooking water to thin sauce if necessary. Serve pasta with sauce and parsley.  Yield: 3 to 6 servings.</p>
+        <p>THE MINIMALIST</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

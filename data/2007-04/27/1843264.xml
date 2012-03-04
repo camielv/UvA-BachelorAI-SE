@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Film in Review; The Short Life of José Antonio Gutiérrez</title>
+    <meta content="27roun-4" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1843264"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Seitz, Matt Zoller</person>
+        <person class="indexing_service">Specogna, Heidi</person>
+        <person class="indexing_service">Gutierrez, Jose Antonio</person>
+        <object.title class="indexing_service">Short Life of Jose Antonio Gutierrez, The (Movie)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/Reviews</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070427T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B00EEDE123EF934A15757C0A9619C8B63" item-length="245" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Film in Review; The Short Life of José Antonio Gutiérrez</hl1>
+      </hedline>
+      <byline class="print_byline">By MATT ZOLLER SEITZ</byline>
+      <byline class="normalized_byline">Seitz, Matt Zoller</byline>
+      <abstract>
+        <p>Matt Zoller Seitz reviews Heidi Specogna documentary film The Short Life of Jose Antonio Gutierrez; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Opens today in Manhattan  Directed by Heidi Specogna  In Spanish, English and German, with English subtitles  Not rated; 89 minutes</p>
+        <p>Lance Cpl. José Antonio Gutiérrez, the subject of this nonfiction film, was a Guatemalan immigrant who became the first American soldier killed in the invasion of Iraq. Official accounts presented a classic tale of an up-by-your-bootstraps immigrant -- a young man who fled poverty and violence in his native land, then enlisted in the Marines in hopes of earning his green card more quickly.</p>
+      </block>
+      <block class="full_text">
+        <p>Opens today in Manhattan  Directed by Heidi Specogna  In Spanish, English and German, with English subtitles  Not rated; 89 minutes</p>
+        <p>Lance Cpl. José Antonio Gutiérrez, the subject of this nonfiction film, was a Guatemalan immigrant who became the first American soldier killed in the invasion of Iraq. Official accounts presented a classic tale of an up-by-your-bootstraps immigrant -- a young man who fled poverty and violence in his native land, then enlisted in the Marines in hopes of earning his green card more quickly.</p>
+        <p>That description was correct, but only to a point. Directed by Heidi Specogna, ''The Short Life of José Antonio Gutiérrez'' bypasses the official narrative and builds a new one that's more complex and less flattering to America's self-creation myths. The chaos that displaced the Gutiérrez family and eventually set him on a path through Mexico and the United States was itself a byproduct of American intervention in Guatemalan politics. The Lance Corporal Gutiérrez depicted by Ms. Specogna was a troubled young man who hid his sensitivity behind a street hustler's stony facade, and his death was probably the result of friendly fire.</p>
+        <p>Although Ms. Specogna's film fleshes out his life to the extent that it can -- leaning heavily on still photographs and interviewing loved ones, social workers and fellow Marines -- the portrait remains frustratingly incomplete. But given its larger subject -- a young life trampled beneath history's forward march -- this seems entirely fitting.</p>
+        <p>MATT ZOLLER SEITZ</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

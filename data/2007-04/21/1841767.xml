@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New York Post to Double Newsstand Price</title>
+    <meta content="21post" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/21/business/media/21post.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1841767"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Newspapers</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <org class="indexing_service">New York Post</org>
+        <person class="indexing_service">Seelye, Katharine Q</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="descriptor">Newspapers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Newspapers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+        <org class="online_producer">New York Post</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070421T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DEEDB163EF932A15757C0A9619C8B63" item-length="483" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New York Post to Double Newsstand Price</hl1>
+        <hl2 class="online_headline">New York Post to Double Newsstand Price</hl2>
+      </hedline>
+      <byline class="print_byline">By KATHARINE Q. SEELYE</byline>
+      <byline class="normalized_byline">Seelye, Katharine Q</byline>
+      <abstract>
+        <p>New York Post is doubling its street sale price, to 50 cents from 25 cents; raising newsstand price might help stem paper's losses, estimated to be about $70 million per year (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The New York Post is doubling its street sale price, to 50 cents from 25 cents.</p>
+        <p>In a statement yesterday, the publisher of The Post, Paul Carlucci, explained the move this way: ''We have had tremendous growth and success in our circulation and advertising, and this move is part of the process to make our entire business a success.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The paper is doubling its street sale price to 50 cents to help stem losses, estimated to be about $70 million a year.</p>
+      </block>
+      <block class="full_text">
+        <p>The New York Post is doubling its street sale price, to 50 cents from 25 cents.</p>
+        <p>In a statement yesterday, the publisher of The Post, Paul Carlucci, explained the move this way: ''We have had tremendous growth and success in our circulation and advertising, and this move is part of the process to make our entire business a success.''</p>
+        <p>In other words, raising the newsstand price might help stem the paper's losses, estimated to be about $70 million a year.</p>
+        <p>The Post's costs have increased recently as it has started to print editions outside of New York in Boston, Chicago, California and Florida. It recently ran a promotion in which it offered home delivery for $13 a year, or about 5 cents a day. And the paper is given away at many busy locales in Manhattan.</p>
+        <p>Rupert Murdoch, whose company, the News Corporation, owns The Post, has said publicly that he keeps the paper despite its losses because he believes it can become financially successful. But it is also clear that he enjoys the political influence and the ability to zing his rivals that ownership of the irreverent New York tabloid affords.</p>
+        <p>Increases in newspaper prices usually lead to a decrease in circulation. The Post declined to comment on how much circulation it expected to lose with the price increase and what the trade-off might be between increased revenue and any decline in readership.</p>
+        <p>It is also not clear how advertising will be affected by any circulation decline, but presumably the paper hopes its net losses will be less, not more.</p>
+        <p>The Post has been offering its advertisers substantial display opportunities, including supplements that wrap around the paper as well as giving them the entire front page.</p>
+        <p>The price will double to 50 cents during the week. The Post already costs 50 cents on Saturday and 75 cents on Sunday. It reduced its price to 25 cents from 50 cents in 2000. The next year, it raised the price of the Saturday paper to 50 cents.</p>
+        <p>The increase is to go into effect on April 30 -- just as newspaper circulation numbers for the last six-month period will be available from the Audit Bureau of Circulations. In his statement, Mr. Carlucci predicted that the paper would report ''substantial circulation gains.''</p>
+        <p>The Post has long been locked in a ferocious circulation war with The New York Daily News and said earlier this year that it had reached a circulation of 704,000 and had surpassed The Daily News to become the nation's fifth-largest newspaper.</p>
+        <p>The Daily News costs 50 cents on weekdays and $1 on Sunday. The Daily News declined to comment on The Post increase.</p>
+        <p>The News Corporation said recently that it continued to be interested in a cooperative venture with Newsday, which is owned by the Tribune Company, to try to save money by combining some printing and delivery operations.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

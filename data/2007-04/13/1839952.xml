@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Film in Review; Everything's Gone Green</title>
+    <meta content="13roun-4" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1839952"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Seitz, Matt Zoller</person>
+        <person class="indexing_service">Fox, Paul</person>
+        <person class="indexing_service">Costanzo, Paulo</person>
+        <person class="indexing_service">Song, Steph</person>
+        <object.title class="indexing_service">Everything's Gone Green (Movie)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/Reviews</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070413T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE4DA133FF930A25757C0A9619C8B63" item-length="229" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Film in Review; Everything's Gone Green</hl1>
+      </hedline>
+      <byline class="print_byline">By MATT ZOLLER SEITZ</byline>
+      <byline class="normalized_byline">Seitz, Matt Zoller</byline>
+      <abstract>
+        <p>Matt Zoller Seitz reviews film Everything's Gone Green, directed by Paul Fox; Paulo Costanzo and Steph Song star; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Opens today in Manhattan.  Directed by Paul Fox  Not rated; 95 minutes</p>
+        <p>In cloudy, gorgeous Vancouver, a disgruntled young man named Ryan (Paulo Costanzo) is fired from his tedious white-collar job on the same day that his girlfriend (Katharine Isabelle) breaks up with him. The hero then chances into a job with the local lottery, profiling winners for its public relations magazine while courting a set dresser (Steph Song) and getting pulled into a money-laundering scheme with her ex-boyfriend (J R Bourne) that affords Ryan fancy clothes, a shiny sports car and moral qualms.</p>
+      </block>
+      <block class="full_text">
+        <p>Opens today in Manhattan.  Directed by Paul Fox  Not rated; 95 minutes</p>
+        <p>In cloudy, gorgeous Vancouver, a disgruntled young man named Ryan (Paulo Costanzo) is fired from his tedious white-collar job on the same day that his girlfriend (Katharine Isabelle) breaks up with him. The hero then chances into a job with the local lottery, profiling winners for its public relations magazine while courting a set dresser (Steph Song) and getting pulled into a money-laundering scheme with her ex-boyfriend (J R Bourne) that affords Ryan fancy clothes, a shiny sports car and moral qualms.</p>
+        <p>Directed by the first-time feature filmmaker Paul Fox, ''Green'' was written by the novelist Douglas Coupland (''Generation X''). Much of it plays like a Don DeLillo novel by way of a sitcom, with good-looking 20-somethings fretting about consumerism and the yuppie mentality and cracking wise about existential predicaments. (Ryan says his original job required him to ''push electrons around with a stick,'' and his ex-girlfriend's gym-chiseled brother brags that he ate only 10 grams of fat last week.)</p>
+        <p>Mr. Costanzo, of the sitcom ''Joey,'' is an appealing lead, with Richard Dreyfuss's edgy wit; he and Ms. Song make a sweet screen couple, although their charm is dwarfed by that of Vancouver itself, which is photographed as if it were New York in Woody Allen's ''Manhattan.''</p>
+        <p>MATT ZOLLER SEITZ</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

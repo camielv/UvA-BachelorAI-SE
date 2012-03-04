@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Unsettled Day On Campuses Around U.S.</title>
+    <meta content="18campus" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1841178"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MASSACRE IN VIRGINIA"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070418T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE1DC1E3FF93BA25757C0A9619C8B63" item-length="541" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Unsettled Day On Campuses Around U.S.</hl1>
+      </hedline>
+      <byline class="print_byline">By TAMAR LEWIN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Universities in Oklahoma, Tennessee and Texas canceled classes yesterday, searched campuses or evacuated buildings in response to threats, and a Louisiana public school district locked down its middle school and high school.</p>
+        <p>After the shootings at Virginia Tech on Monday, nerves were on edge at universities nationwide, as security officials worried about copycat incidents, even as they acknowledged it was almost impossible to prevent shootings by a deranged student. Universities also reviewed their emergency preparedness plans, considering new technologies to reach students and faculty members in case of danger.</p>
+      </block>
+      <block class="full_text">
+        <p>Universities in Oklahoma, Tennessee and Texas canceled classes yesterday, searched campuses or evacuated buildings in response to threats, and a Louisiana public school district locked down its middle school and high school.</p>
+        <p>After the shootings at Virginia Tech on Monday, nerves were on edge at universities nationwide, as security officials worried about copycat incidents, even as they acknowledged it was almost impossible to prevent shootings by a deranged student. Universities also reviewed their emergency preparedness plans, considering new technologies to reach students and faculty members in case of danger.</p>
+        <p>''We have a full-fledged police force with 74 sworn officers; we have a SWAT team; we have bomb dogs,'' said Chief Jimmy Williamson, of the University of Georgia Police. ''But there's no way to prevent shootings by a crazed person with a gun. With a tornado in the middle of the night, at least you have a Doppler system.''</p>
+        <p>The high school and middle school in Bogalusa, La., were locked down after rumors spread about a note threatening mass killing and alluding to the Virginia Tech shootings. The note was given to a private-school student, who gave it to his bus driver, who gave it to the principal, who passed it on to the police. So many parents arrived to pull their children out that school officials ordered the lockdown.</p>
+        <p>''We have arrested the person who wrote the note,'' said Chief Jerry Agnew of the Bogalusa Police Department. ''The school went into lockdown mode because of a roller-coaster dynamic, with rumors circulating by e-mail and cellphones and parents coming to school to get their kids. It all generated itself.''</p>
+        <p>Most of the worries yesterday were baseless. At the University of Oklahoma, the police responded to reports of a suspicious person with a weapon. Officials first issued a statement saying the person was ''possibly carrying a yoga mat, which was mistaken for a weapon,'' but ultimately concluded that the person was carrying an umbrella.</p>
+        <p>At the University of Tennessee at Chattanooga, officials evacuated three buildings for two hours yesterday morning after receiving a telephoned bomb threat. ''I have to admit we were erring on the side of caution in light of the tragedy in Virginia,'' said Chuck Cantrell, a university spokesman.</p>
+        <p>In Austin, Tex., where 40 years ago a gunman shooting from a tower on the University of Texas campus killed 14 people, St. Edward's University, a private Roman Catholic university, evacuated buildings and canceled classes in response to a threatening note.</p>
+        <p>''It was a nonspecific bomb threat, which is why all the buildings had to be evacuated,'' said Mischelle Amador, director of communications at St. Edward's.</p>
+        <p>Although the Virginia Tech shootings brought emergency preparedness into the spotlight yesterday, at many universities these concerns -- prompted by school shootings, the Sept. 11 attacks, hurricanes and talk of a possible flu pandemic -- had already led to more rigorous planning. ''Since right after Columbine, all our people are trained in active shooter response,'' said Jeff McCracken, interim director of public safety at the University of North Carolina.</p>
+        <p>At the University of Florida, emergency communications planning has been substantially upgraded in the last two years, with a new blast e-mail system, electronic signs on campus and a text-messaging service for those who sign up.</p>
+        <p>MASSACRE IN VIRGINIA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

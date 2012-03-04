@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Dancing in the Dark</title>
+    <meta content="03q&amp;a" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837650"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Q + A"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Sleepwalking</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Sleep</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sleep</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070403T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E00E0DF1F30F930A35757C0A9619C8B63" item-length="237" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Dancing in the Dark</hl1>
+      </hedline>
+      <byline class="print_byline">By C. CLAIBORNE RAY</byline>
+      <byline class="normalized_byline">Ray, C Claiborne</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Q. Is it dangerous if you accidentally wake a sleepwalker?</p>
+        <p>A. ''The short answer is no,'' said Dr. Charles Pollack, director of the Center for Sleep Medicine at NewYork-Presbyterian/Weill Cornell, but it depends on circumstances.</p>
+        <p>''Is it a child or an adult?'' Dr. Pollack asked. ''It is not especially dangerous to wake a sleepwalker, except that in the throes of sleep, a person is groggy and risks a fall. Be sure to supervise him until he returns to quiet sleep.''</p>
+      </block>
+      <block class="full_text">
+        <p>Q. Is it dangerous if you accidentally wake a sleepwalker?</p>
+        <p>A. ''The short answer is no,'' said Dr. Charles Pollack, director of the Center for Sleep Medicine at NewYork-Presbyterian/Weill Cornell, but it depends on circumstances.</p>
+        <p>''Is it a child or an adult?'' Dr. Pollack asked. ''It is not especially dangerous to wake a sleepwalker, except that in the throes of sleep, a person is groggy and risks a fall. Be sure to supervise him until he returns to quiet sleep.''</p>
+        <p>Awareness of surroundings varies, Dr. Pollack said, but some sleepwalkers can perform fairly complex acts like turning door handles and unlatching locks. Some can pick their way over objects strewn on the floor.</p>
+        <p>''In studies where brain waves are recorded during sleepwalking, there is some degree of the persistence of sleep during the act,'' he said. ''They are not fully aware, and there is impairment of perception, judgment and certainly of recall. They don't recall what happened while sleepwalking.''</p>
+        <p>As for risks from, rather than to, a sleepwalker, there are none in particular, Dr. Pollack said. He emphasized that the actions of sleepwalkers were not known to be out of character with what they would do if they were awake.</p>
+        <p>''The personality persists,'' he said. ''The person is still himself, but has lost critical awareness, the ability to make judgments and, perhaps, inhibit actions, as if intoxicated.''</p>
+        <p>C. CLAIBORNE RAY</p>
+        <p>Q + A</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

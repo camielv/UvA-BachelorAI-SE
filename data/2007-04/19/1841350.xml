@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Global Effort to Save Endangered Crops Gets $37.5 Million Infusion</title>
+    <meta content="19farm" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/19/science/earth/19farm.ready.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1841350"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="descriptor">Grain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Grain</classifier>
+        <org class="online_producer">Gates, Bill and Melinda, Foundation</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070419T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9505E3D91E3FF93AA25757C0A9619C8B63" item-length="356" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Global Effort to Save Endangered Crops Gets $37.5 Million Infusion</hl1>
+        <hl2 class="online_headline">Global Effort to Save Endangered Crops Gets $37.5 Million Infusion</hl2>
+      </hedline>
+      <byline class="print_byline">By ANDREW C. REVKIN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Scattered around the world in jars, fields, freezers and vaults are tens of thousands of endangered varieties of wheat, yams and 19 other crops that underpin the global food supply.</p>
+        <p>With disturbing regularity, experts say, this agricultural bounty is eroding as war, storms, scant money or bad management, particularly in the world's poorest places, cause unique seed varieties to deteriorate or disappear.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Repositories of endangered crops are eroding, as war, storms or bad management cause unique seed stores to deteriorate.</p>
+      </block>
+      <block class="full_text">
+        <p>Scattered around the world in jars, fields, freezers and vaults are tens of thousands of endangered varieties of wheat, yams and 19 other crops that underpin the global food supply.</p>
+        <p>With disturbing regularity, experts say, this agricultural bounty is eroding as war, storms, scant money or bad management, particularly in the world's poorest places, cause unique seed varieties to deteriorate or disappear.</p>
+        <p>Iraq's bank of ancient wheat, barley and other crop strains in the town of Abu Ghraib was looted during the war. An international rice repository in the Philippines was shredded by a typhoon last year.</p>
+        <p>Now, the first international effort to restore, organize and safeguard scattered seed banks holding some 165,000 varieties of the 21 crop plants will receive a $37.5 million infusion, people involved in the project said yesterday: a $30 million grant from the Bill and Melinda Gates Foundation and $7.5 million from Norway.</p>
+        <p>The project, undertaken by the Global Crop Diversity Trust  and the United Nations Foundation, will focus particular attention on ''orphan'' crops -- like cassava, coconut and taro -- that are staples in poor countries but have not been the focus of commercial plant breeders.</p>
+        <p>''Many countries today are sitting there watching these seed collections die,'' said Cary Fowler, the executive director of the crop trust, based in Rome. ''We offer the chance to refresh and regenerate those varieties and safely store backup supplies in another location.''</p>
+        <p>The most important activity, Mr. Fowler said, will be working to salvage aging or poorly preserved seed and plant varieties, growing new seed and storing it properly.</p>
+        <p>Some of the most important food plants are particularly hard to preserve because they do not grow from seeds, he said, so the project will include an effort to develop new methods for long-term storage of samples.</p>
+        <p>Backup supplies of the rare seeds and cuttings will be stashed in bunkers being dug this year in permafrost on the Arctic island of Spitsbergen under a separate initiative of the crop trust and Norway. The complex is intended to safeguard the global food supply in the event of a global catastrophe like an asteroid collision.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

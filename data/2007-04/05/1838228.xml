@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Genesis: Hyundai's Blue Light Special?</title>
+    <meta content="NUGGETHyundaiGenesis" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Automobiles" name="dsk"/>
+    <meta content="" name="print_section"/>
+    <meta content="Automobiles" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838228"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070405T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07E0DB173FF936A35757C0A9619C8B63" item-length="234" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Genesis: Hyundai's Blue Light Special?</hl1>
+      </hedline>
+      <byline class="print_byline">By JERRY GARRETT</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Introduced on Wednesday: Hyundai Genesis concept</p>
+        <p>Is it real? Though it is technically a design study, Concept Genesis, as Hyundai calls its looks "very much like the production version" that is on the way.</p>
+      </block>
+      <block class="full_text">
+        <p>Introduced on Wednesday: Hyundai Genesis concept</p>
+        <p>Is it real? Though it is technically a design study, Concept Genesis, as Hyundai calls its looks "very much like the production version" that is on the way.</p>
+        <p>What's the point? Hyundai has been flirting with the idea of offering premium models for some time. The Genesis would be the Lexus level of Hyundai's lineup.</p>
+        <p>What they said: "This is not just a concept car," said Steve Wilhite, chief operating officer of Hyundai Motor America. "It's really a fast-forward journey into the future of the Hyundai brand."</p>
+        <p>What they didn't say: The first Lexus LS was a screaming bargain that trumped everything else in the premium segment on price and features. A Lexus is no longer such a bargain, but the Genesis would be a Lexuslike bargain with a wide array of standard features, if Hyundai sticks to the promises made here in terms of performance and price.</p>
+        <p>What makes it tick? Genesis, a rear-wheel-drive sedan, will feature Hyundai's first V-8 engine; horsepower output is promised to be "well over 300."</p>
+        <p>How much, how soon? Second half of 2008, with a promised price "well under $30,000." Well, well.</p>
+        <p>How's it look? Bigger than the Lexus GS, smaller than the LS, the photogenic Genesis in person looks more like the current Toyota Camry from the front, a Nissan Maxima from the side a Buick from behind.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

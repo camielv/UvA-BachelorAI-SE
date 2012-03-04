@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Newark Shootings Kill 2 and Injure 7</title>
+    <meta content="04shoot" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/04/nyregion/04shoot.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1838013"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Murders and Attempted Murders</classifier>
+        <location class="indexing_service">Newark (NJ)</location>
+        <person class="indexing_service">Holl, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Law Enforcement and Security</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="online_producer" type="descriptor">Police</classifier>
+        <classifier class="online_producer" type="descriptor">Crime and Criminals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Police</classifier>
+        <person class="online_producer">McCarthy, Garry F</person>
+        <person class="online_producer">Booker, Cory A</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070404T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07E4D61F30F937A35757C0A9619C8B63" item-length="348" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Newark Shootings Kill 2 and Injure 7</hl1>
+        <hl2 class="online_headline">Newark Shootings Kill 2 and Injure 7</hl2>
+      </hedline>
+      <byline class="print_byline">By JOHN HOLL</byline>
+      <byline class="normalized_byline">Holl, John</byline>
+      <dateline>NEWARK, April 3</dateline>
+      <abstract>
+        <p>Two people are killed and seven wounded in six shootings in Newark in one day (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Two people were killed and seven were wounded in six shootings here on Tuesday that the authorities said did not appear to be related.</p>
+        <p>The deadliest shooting occurred just after 1 a.m. during a robbery outside a housing complex on Foster Street, said Garry F. McCarthy, the city's police director. Ray J. Patterson, 18, was pronounced dead at the scene. Two men wounded in that shooting were taken to University Hospital, where one was taken off life support and died on Tuesday evening. The other was listed in fair condition, the police said. Their names were not released, and the police had no details about the robbery.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The authorities said that the shootings did not appear to be related.</p>
+      </block>
+      <block class="full_text">
+        <p>Two people were killed and seven were wounded in six shootings here on Tuesday that the authorities said did not appear to be related.</p>
+        <p>The deadliest shooting occurred just after 1 a.m. during a robbery outside a housing complex on Foster Street, said Garry F. McCarthy, the city's police director. Ray J. Patterson, 18, was pronounced dead at the scene. Two men wounded in that shooting were taken to University Hospital, where one was taken off life support and died on Tuesday evening. The other was listed in fair condition, the police said. Their names were not released, and the police had no details about the robbery.</p>
+        <p>The first shooting of the day occurred just after midnight on North Fourth Street, where a man was shot once in the shoulder, the police said. Around 3 a.m., officers responded to a shooting on South 19th Street, where a man was wounded in the torso and leg. The victims in both of those shootings, whose names were not released, were listed in critical condition yesterday at University Hospital, said Todd McClendon, a police spokesman.</p>
+        <p>Though violent crime has declined in Newark this year over all, the number of homicides has gone up slightly. The city has recorded 27 homicides this year, including the two men who were killed on Tuesday, compared with 24 at this time in 2006.</p>
+        <p>Mayor Cory A. Booker said at a news conference yesterday that he was ''not content with the murder rate being what it is.'' He and Mr. McCarthy also urged residents to call tip lines with information about the latest shootings.</p>
+        <p>Three more shootings were reported in the hours after the mayor's news conference. A man was shot in the legs about 3:15 p.m. on Ridgewood Avenue, followed by a 4 p.m. shooting in which two men were injured on South Eighth Street, near South Orange Avenue. They were listed in fair condition at University Hospital.</p>
+        <p>The sixth shooting occurred about 5 p.m., when a man was shot in the calf on Goodwin Avenue, said Lupe Todd, a city spokeswoman.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

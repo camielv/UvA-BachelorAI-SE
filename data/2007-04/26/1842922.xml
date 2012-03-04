@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Lifting The Veil On Seventh</title>
+    <meta content="26ROW" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Thursday Styles" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/26/fashion/26ROW.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842922"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="FRONT ROW"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Thursday Styles</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Fashion, Beauty and Fitness</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Massachusetts/Boston</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Massachusetts</classifier>
+        <classifier class="online_producer" type="descriptor">Apparel</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Apparel</classifier>
+        <location class="online_producer">Boston (Mass)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070426T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F03E1D6143EF935A15757C0A9619C8B63" item-length="304" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Lifting The Veil On Seventh</hl1>
+        <hl2 class="online_headline">Lifting the Veil on Seventh</hl2>
+      </hedline>
+      <byline class="print_byline">By Eric Wilson</byline>
+      <byline class="normalized_byline">Wilson, Eric</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>IN the parlance of wedding gown designers, a ''buildup'' is the art of transforming a strapless dress by adding a neckline and long sleeves for a more conservative bride. But the term could also be used to describe the changes taking place at Priscilla of Boston, the venerable bridal house that has outfitted the wedding parties of Nixons, Johnsons and Grace Kelly.</p>
+        <p>Since the company, founded in 1948 by Priscilla Comins Kidder, was sold last year to Leonard Green &amp; Partners of Los Angeles, Priscilla of Boston has added new lines and new designers, and today it will open its first salon in Manhattan, in the unlikely dark canyons of the garment district. The dove gray walls and plush carpets, white moldings and crystal chandeliers outfitting the second-floor space (the company calls it an atelier) are evocative of the couture halls of Christian Dior. The three dressing rooms are each about 300 square feet, able to accommodate a small family.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Priscilla of Boston has added new lines and new designers, and it will open its first salon in Manhattan on Thursday.</p>
+      </block>
+      <block class="full_text">
+        <p>IN the parlance of wedding gown designers, a ''buildup'' is the art of transforming a strapless dress by adding a neckline and long sleeves for a more conservative bride. But the term could also be used to describe the changes taking place at Priscilla of Boston, the venerable bridal house that has outfitted the wedding parties of Nixons, Johnsons and Grace Kelly.</p>
+        <p>Since the company, founded in 1948 by Priscilla Comins Kidder, was sold last year to Leonard Green &amp; Partners of Los Angeles, Priscilla of Boston has added new lines and new designers, and today it will open its first salon in Manhattan, in the unlikely dark canyons of the garment district. The dove gray walls and plush carpets, white moldings and crystal chandeliers outfitting the second-floor space (the company calls it an atelier) are evocative of the couture halls of Christian Dior. The three dressing rooms are each about 300 square feet, able to accommodate a small family.</p>
+        <p>''You see the medallions of famous fashion designers along the sidewalk of Seventh Avenue,'' said Gary Schwartz, the company president. ''There is sense of a history there. We wanted to elaborate on the history of our designers.''</p>
+        <p>Brides will be able to work directly with the designers, including Melissa Sweet and Kenneth Pool, who began designing Priscilla's Platinum collection last year. (Bridal trivia: after Mr. Pool left his former backer, gowns sold under the Kenneth Pool label are now designed by his successor, ''Project Runway'' alum Austin Scarlett.) Mr. Schwartz said he believes brides will consider the salon a destination for custom service of the old-school Seventh Avenue variety.</p>
+        <p>Even though times have changed since Mrs. Kidder's death in 2003, some things in the bridal business have not.</p>
+        <p>Speaking of buildups, Mr. Pool said, ''The brides still want lots of beads.''</p>
+        <p>FRONT ROW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>World Briefing | Americas: Colombia: National Blackout</title>
+    <meta content="27briefs-6" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1843285"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070427T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E5DD123EF934A15757C0A9619C8B63" item-length="78" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>World Briefing | Americas: Colombia: National Blackout</hl1>
+      </hedline>
+      <byline class="print_byline">By SIMON ROMERO</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A blackout hit much of Colombia, trapping commuters in subways and traffic jams and temporarily halting commerce in some of the largest cities. Internet and cellphone services were also interrupted before electricity was partly restored in some regions by late afternoon. Senior government officials quickly ruled out the possibility of an attack on the electrical grid by guerrilla groups, contending that the power collapse was caused by a glitch at a substation in Bogotá.</p>
+        <p>SIMON ROMERO</p>
+      </block>
+      <block class="full_text">
+        <p>A blackout hit much of Colombia, trapping commuters in subways and traffic jams and temporarily halting commerce in some of the largest cities. Internet and cellphone services were also interrupted before electricity was partly restored in some regions by late afternoon. Senior government officials quickly ruled out the possibility of an attack on the electrical grid by guerrilla groups, contending that the power collapse was caused by a glitch at a substation in Bogotá.</p>
+        <p>SIMON ROMERO</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

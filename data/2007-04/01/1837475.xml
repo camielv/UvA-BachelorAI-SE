@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Cost of Living In Connecticut</title>
+    <meta content="l01conn-1" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Connecticut Weekly Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="14CN" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Education; New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837475"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Education and Schools</classifier>
+        <classifier class="indexing_service" type="descriptor">Labor</classifier>
+        <classifier class="indexing_service" type="descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <classifier class="indexing_service" type="descriptor">Health Insurance and Managed Care</classifier>
+        <location class="indexing_service">Connecticut</location>
+        <person class="indexing_service">Bader, Lars</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Connecticut</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Connecticut</classifier>
+        <classifier class="online_producer" type="general_descriptor">Health Insurance and Managed Care</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F01E2DC1E30F932A35757C0A9619C8B63" item-length="223" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Cost of Living In Connecticut</hl1>
+      </hedline>
+      <abstract>
+        <p>Lars Bader letter on March 25 editorial holds high cost of living and working in Connecticut, rather than poor education or lack of universal health care, is what is driving out both residents and jobs</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Ruffled Feathers'' (editorial, March 25):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Ruffled Feathers'' (editorial, March 25):</p>
+        <p>Gov. M. Jodi Rell may think Connecticut's most pressing problem is poor education, and the Democrats who control the Legislature may think it is lack of universal health care. But the main problem is the high cost of living and working in Connecticut, which is driving out both residents and jobs.</p>
+        <p>Connecticut's education spending per student is among the highest in the country, and Connecticut students outperform the national average. The percentage of Connecticut residents without health care is below the national average. Despite these factors, Connecticut has one of the slowest-growing populations in the country, and has been rapidly bleeding industrial jobs.</p>
+        <p>Will more education spending help? Ohio increased education spending and tax rates massively in the last decade in response to a court order. The increase in tax rates contributed to an economic slowdown. Massachusetts is struggling with significant cost overruns in its new universal health care scheme, with young and healthy people with moderate incomes being pressured to leave the state by mandatory insurance policy costs that are as much as twice what was promised by the Legislature.</p>
+        <p>The governor and the Legislature should avoid tax increases that could reduce the state's economic competitiveness, and work to reform existing spending before seeking to spend more money.</p>
+        <p>Lars Bader  Greenwich</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

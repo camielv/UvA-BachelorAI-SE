@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   GORDON, MONTE J.</title>
+    <meta content="dn040207" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837482"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">GORDON, MONTE J.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070402T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F07E0D9153AF931A35757C0A9619C8B63" item-length="79" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   GORDON, MONTE J.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>GORDON--Monte J., formerly of NYC, and of Henderson, NV, on Friday, March 30, 2007 at age 83. A retired Research Director of Financial Securities and a U.S. Air Force WWII veteran. Funeral services are pending in San Diego, CA. Survivors include his wife of 61 years, Arline Gordon, devoted father of Dale Gordon and Margery (Richard) Winters and loving grandfather of Joshua, Brandy and Jeffrey Bell and Andy Winters. Services are private. Contributions are to your favorite charity.</p>
+      </block>
+      <block class="full_text">
+        <p>GORDON--Monte J., formerly of NYC, and of Henderson, NV, on Friday, March 30, 2007 at age 83. A retired Research Director of Financial Securities and a U.S. Air Force WWII veteran. Funeral services are pending in San Diego, CA. Survivors include his wife of 61 years, Arline Gordon, devoted father of Dale Gordon and Margery (Richard) Winters and loving grandfather of Joshua, Brandy and Jeffrey Bell and Andy Winters. Services are private. Contributions are to your favorite charity.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

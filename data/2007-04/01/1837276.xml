@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Jessica Liberman, Keith Wilcox</title>
+    <meta content="01liberman" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837276"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Liberman, Jessica Brand (Jessica Brand Wilcox)</person>
+        <person class="indexing_service">Wilcox, Keith Todd</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F00E6DB1130F932A35757C0A9619C8B63" item-length="175" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Jessica Liberman, Keith Wilcox</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Jessica Brand Liberman and Keith Todd Wilcox were married yesterday evening at the Montauk Yacht Club in Montauk, N.Y. Judge Debra Freeman of Federal District Court in Manhattan officiated.</p>
+        <p>The bride and bridegroom, both 35, met in prekindergarten at Hunter College Elementary School in Manhattan.</p>
+      </block>
+      <block class="full_text">
+        <p>Jessica Brand Liberman and Keith Todd Wilcox were married yesterday evening at the Montauk Yacht Club in Montauk, N.Y. Judge Debra Freeman of Federal District Court in Manhattan officiated.</p>
+        <p>The bride and bridegroom, both 35, met in prekindergarten at Hunter College Elementary School in Manhattan.</p>
+        <p>The bride is a lawyer at Moody's Investors Service in Manhattan. She graduated from the University of Pennsylvania, where she also received her law degree cum laude.</p>
+        <p>She is a daughter of Micheline Blum of Manhattan and Donald B. Liberman of Garfield, N.J. Her father is a lawyer. Her mother is the president of Blum &amp; Weprin Associates, a public opinion research firm in Manhattan. The bride is the stepdaughter of Dr. Michael Jaker.</p>
+        <p>The bridegroom is a Ph.D. candidate in marketing at Baruch College, from which he graduated. He also received an M.B.A. from the University of California.</p>
+        <p>He is a son of Venoris M. Wilcox of Manhattan and the late Ronald M. Wilcox. His father was the chief of psychology at the Veterans Affairs Medical Center in Manhattan.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

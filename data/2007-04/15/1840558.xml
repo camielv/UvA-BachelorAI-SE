@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>GOOD AT STEERING</title>
+    <meta content="15suits-6" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1840558"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="OPENERS: SUITS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Suits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Pilots</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F01E1DE103FF936A25757C0A9619C8B63" item-length="85" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>GOOD AT STEERING</hl1>
+      </hedline>
+      <byline class="print_byline">By MICHELINE MAYNARD</byline>
+      <byline class="normalized_byline">Maynard, Micheline</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Along with being the first American named to Toyota's board, James E. Press is a licensed pilot. That means executives at or near the top of the three biggest car companies in the American car market could all fly themselves to their next appointment.</p>
+      </block>
+      <block class="full_text">
+        <p>Along with being the first American named to Toyota's board, James E. Press is a licensed pilot. That means executives at or near the top of the three biggest car companies in the American car market could all fly themselves to their next appointment.</p>
+        <p>Robert Lutz, vice chairman of General Motors, flies everything from fighter jets to helicopters, while Alan Mulally, the chief executive at Ford, knows everything there is to know about airplanes after his 37-year stint at Boeing.</p>
+        <p>MICHELINE MAYNARD</p>
+        <p>OPENERS: SUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

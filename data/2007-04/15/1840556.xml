@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>IT'S ON THE HOUSE</title>
+    <meta content="15suits-4" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1840556"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="OPENERS: SUITS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Suits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bonuses</classifier>
+        <classifier class="online_producer" type="general_descriptor">Renting and Leasing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B07E1DE103FF936A25757C0A9619C8B63" item-length="138" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>IT'S ON THE HOUSE</hl1>
+      </hedline>
+      <byline class="print_byline">By PATRICK McGEEHAN</byline>
+      <byline class="normalized_byline">Mcgeehan, Patrick</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Wouldn't an executive earning more than $2 million a year be expected to pay at least part of the rent on his primary residence? At Hertz Global Holdings, not exactly. The car-rental company spent £2.4 million ($4.7 million) on a home in London for its top executive in Europe, Michel Taride. Mr. Taride does not have to pay to live there through June 2011, and he also does not have to pay any taxes on that benefit.</p>
+      </block>
+      <block class="full_text">
+        <p>Wouldn't an executive earning more than $2 million a year be expected to pay at least part of the rent on his primary residence? At Hertz Global Holdings, not exactly. The car-rental company spent £2.4 million ($4.7 million) on a home in London for its top executive in Europe, Michel Taride. Mr. Taride does not have to pay to live there through June 2011, and he also does not have to pay any taxes on that benefit.</p>
+        <p>But he has the option of buying the home from Hertz, though not exactly at its market value. Hertz would charge him its original purchase price plus only two-thirds of any appreciation in its value while he has lived in it, according to the company's 2007 proxy statement filed last week with the Securities and Exchange Commission.</p>
+        <p>PATRICK McGEEHAN</p>
+        <p>OPENERS: SUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>National Briefing | Northeast: New York: Mayors Show Gun-Control Advertisement</title>
+    <meta content="19brfs-3" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/19/us/19brfs-MAYORSSHOWGU_BRF.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1841458"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="descriptor">Firearms</classifier>
+        <classifier class="online_producer" type="descriptor">Mayors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Firearms</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mayors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <person class="online_producer">Bloomberg, Michael R</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070419T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B04E7D61E3FF93AA25757C0A9619C8B63" item-length="163" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>National Briefing | Northeast: New York: Mayors Show Gun-Control Advertisement</hl1>
+        <hl2 class="online_headline">New York: Mayors Show Gun-Control Advertisement</hl2>
+      </hedline>
+      <byline class="print_byline">By DIANE CARDWELL</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Mayor Michael R. Bloomberg of New York and other members of the national coalition Mayors Against Illegal Guns unveiled a 30-second television advertisement intended to pressure Congress to rescind the so-called Tiahrt amendment, a measure attached to spending bills each year since 2003 that bans the Bureau of Alcohol, Tobacco, Firearms and Explosives from releasing gun-trace data, except to police officials and prosecutors working on a particular crime. The advertisement is to be broadcast in Washington, D.C., as well as in the districts of two members of a House subcommittee that is weighing the measure, Representatives Rodney Frelinghuysen, Republican of New Jersey and the ranking minority member, and Alan B. Mollohan, Democrat of West Virginia and the panel chairman. The advertisement will also be broadcast in the district of Representative Todd Tiahrt, the Kansas Republican who wrote the amendment. Mr. Bloomberg also announced the addition of 27 New Jersey mayors to the group, bringing the total to 214.</p>
+        <p>DIANE CARDWELL</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The national coalition Mayors Against Illegal Guns unveiled a 30-second television advertisement intended to pressure Congress to rescind the so-called Tiahrt amendment.</p>
+      </block>
+      <block class="full_text">
+        <p>Mayor Michael R. Bloomberg of New York and other members of the national coalition Mayors Against Illegal Guns unveiled a 30-second television advertisement intended to pressure Congress to rescind the so-called Tiahrt amendment, a measure attached to spending bills each year since 2003 that bans the Bureau of Alcohol, Tobacco, Firearms and Explosives from releasing gun-trace data, except to police officials and prosecutors working on a particular crime. The advertisement is to be broadcast in Washington, D.C., as well as in the districts of two members of a House subcommittee that is weighing the measure, Representatives Rodney Frelinghuysen, Republican of New Jersey and the ranking minority member, and Alan B. Mollohan, Democrat of West Virginia and the panel chairman. The advertisement will also be broadcast in the district of Representative Todd Tiahrt, the Kansas Republican who wrote the amendment. Mr. Bloomberg also announced the addition of 27 New Jersey mayors to the group, bringing the total to 214.</p>
+        <p>DIANE CARDWELL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

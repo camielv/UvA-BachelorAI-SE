@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Jennifer Lindbom, Majid Yavary</title>
+    <meta content="08lindbom" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/08/fashion/weddings/08lindbom.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1838768"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Lindbom, Jennifer Kristin</person>
+        <person class="indexing_service">Yavary, Majid</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070408T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9506EEDB173FF93BA35757C0A9619C8B63" item-length="166" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Jennifer Lindbom, Majid Yavary</hl1>
+        <hl2 class="online_headline">Jennifer Lindbom, Majid Yavary</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Jennifer Kristin Lindbom and Majid Yavary were married yesterday at Westbury Manor in Westbury, N.Y. Ahmad Pakzad, a Muslim minister, performed the ceremony.</p>
+        <p>The bride, 34, is keeping her name. She is an associate at ACP-Visioning and Planning, an urban planning firm in New York. She was a Peace Corps volunteer in the Philippine province of Leyte from 1997 to 1999. She graduated cum laude from New York University, where she also received a master's in urban planning.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Jennifer Kristin Lindbom and Majid Yavary were married yesterday at Westbury Manor in Westbury, N.Y. Ahmad Pakzad, a Muslim minister, performed the ceremony.</p>
+      </block>
+      <block class="full_text">
+        <p>Jennifer Kristin Lindbom and Majid Yavary were married yesterday at Westbury Manor in Westbury, N.Y. Ahmad Pakzad, a Muslim minister, performed the ceremony.</p>
+        <p>The bride, 34, is keeping her name. She is an associate at ACP-Visioning and Planning, an urban planning firm in New York. She was a Peace Corps volunteer in the Philippine province of Leyte from 1997 to 1999. She graduated cum laude from New York University, where she also received a master's in urban planning.</p>
+        <p>She is the daughter of Carolyn and Roy Lindbom of Fort Myers, Fla.</p>
+        <p>The bridegroom, 35, is a senior project manager in New York at Moffatt &amp; Nichol, a Long Beach, Calif., engineering firm, managing marine infrastructure projects. He is also a doctoral candidate in coastal engineering at Stevens Institute of Technology in Hoboken, N.J. He graduated from the University of Ottawa and received a master's in coastal engineering from Queen's University in Kingston, Ontario.</p>
+        <p>He is the son of Kobra and Eskandar Yavary of La Jolla, Calif.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

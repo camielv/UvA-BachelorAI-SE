@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Crime Rate And Birth Control</title>
+    <meta content="l15city-2" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="14" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1840587"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Crime and Criminals</classifier>
+        <classifier class="indexing_service" type="descriptor">Birth Control and Family Planning</classifier>
+        <classifier class="indexing_service" type="descriptor">Abortion</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Kass, Judith</person>
+        <person class="indexing_service">Zimring, Franklin E (Prof)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Birth Control and Family Planning</classifier>
+        <classifier class="online_producer" type="general_descriptor">Abortion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940CE0DD103FF936A25757C0A9619C8B63" item-length="161" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Crime Rate And Birth Control</hl1>
+      </hedline>
+      <abstract>
+        <p>Judith M Kass letter on Franklin Zimring's April 8 Op-Ed article holds additional reasons for drop in crime in New York City are better access to birth control and availability of abortion</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>One reason for the drop in crime in the city that Franklin E. Zimring (''Little Changes, Big Results,'' Op-Ed, April 8) doesn't address is twofold: better access to birth control and the availability of abortion.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>One reason for the drop in crime in the city that Franklin E. Zimring (''Little Changes, Big Results,'' Op-Ed, April 8) doesn't address is twofold: better access to birth control and the availability of abortion.</p>
+        <p>In the past, the socioeconomic groups usually most in need of solutions to teenage pregnancy were disenfranchised by reason of education and availability. Today, despite efforts by various groups, we enjoy a culture that shows teenagers how to avoid pregnancy, and provides the means to do it (think subway condoms). A citywide culture that does not condemn abortion comes into play when the parents of the unborn child need it.</p>
+        <p>Put most plainly, the criminals of tomorrow are being born at lower rates. And when born, have more social services available. If we have to pay higher taxes to pay for these services, it's clear that they pay off and are well worth the cost.</p>
+        <p>Judith M. Kass  Upper West Side</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

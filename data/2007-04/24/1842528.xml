@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Body In Motion Tends to Stay In Motion</title>
+    <meta content="24joyc" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/24/arts/dance/24joyc.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842528"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="DANCE REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance</classifier>
+        <classifier class="online_producer" type="descriptor">Dancing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dancing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070424T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B01E3D6173EF937A15757C0A9619C8B63" item-length="365" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Body In Motion Tends to Stay In Motion</hl1>
+        <hl2 class="online_headline">A Body in Motion Tends to Stay in Motion</hl2>
+      </hedline>
+      <byline class="print_byline">By ROSLYN SULCAS</byline>
+      <byline class="normalized_byline">Sulcas, Roslyn</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Peter Kyle danced with Alwin Nikolais and Murray Louis Dance and with the Mark Morris Dance Group before forming his own company in 2005, and his long apprenticeship with master choreographers shows in his work. At the Joyce SoHo on Friday night, Peter Kyle Dance presented three well-made new works, and while none of them are likely to change the face of the art, they constituted an enjoyable evening.</p>
+        <p>In the program notes Mr. Kyle makes the obligatory nod to interdisciplinary collaboration. (What choreographer these days isn't officially dedicated to interdisciplinary collaboration?) But his work has a focus on the body and the way it can shift between different kinds of movements; that isn't currently a downtown fashion.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>At the Joyce SoHo on Friday, the troupe presented three well-made new works, and while none of them are likely to change the face of the art, they constituted an enjoyable evening.</p>
+      </block>
+      <block class="full_text">
+        <p>Peter Kyle danced with Alwin Nikolais and Murray Louis Dance and with the Mark Morris Dance Group before forming his own company in 2005, and his long apprenticeship with master choreographers shows in his work. At the Joyce SoHo on Friday night, Peter Kyle Dance presented three well-made new works, and while none of them are likely to change the face of the art, they constituted an enjoyable evening.</p>
+        <p>In the program notes Mr. Kyle makes the obligatory nod to interdisciplinary collaboration. (What choreographer these days isn't officially dedicated to interdisciplinary collaboration?) But his work has a focus on the body and the way it can shift between different kinds of movements; that isn't currently a downtown fashion.</p>
+        <p>In ''Fallow Bogs'' Mr. Kyle dances alone to the low, growly sounds of a tuba, music composed and played by Marcus Rojas. Wearing black tie (without the tie), he begins with low, rocking lunges, gradually expanding his range of movements until he is jumping and swirling, occasionally falling flat to the floor in a push-up position.</p>
+        <p>Mr. Kyle sometimes has the air of a prestidigitator here; orange balloons suddenly blossom from his mouth midway through the solo, and he often seems to move straight from low, crouching positions into vertical levitation. By the end he has somehow conveyed the impression that we have had a momentary glimpse into his mind.</p>
+        <p>''Four Solos on the Divide'' is less successful at conveying an interior state, although much seems to be going on in this dance for two men (Mr. Kyle and Dylan Crossman) and two women (Christina Amendolia and Sumi Clements), who mostly work in same-sex pairs.</p>
+        <p>''Nearer,'' for the same group of dancers and set to a vigorous score for drums, percussion and electronic keyboard by Brad Wentworth, works far better. It opens with a long solo for Mr. Crossman that mixes smooth, sinuous movement with sudden vertical propulsion and staccato upper-body contractions.</p>
+        <p>By the end (a woman caught in a flying horizontal jump), the four dancers' physical awareness of one another appears to be heightened in a way that nicely illustrates the E. E. Cummings quotation in the program: ''Muscles better and nerves more.''</p>
+        <p>DANCE REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

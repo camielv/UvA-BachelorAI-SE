@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Broadwater's Plan For Long Island Sound</title>
+    <meta content="l29west-2" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Westchester Weekly Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="14WC" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1843936"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Gas (Fuel)</classifier>
+        <classifier class="indexing_service" type="descriptor">Liquefied Natural Gas</classifier>
+        <location class="indexing_service">Long Island (NY)</location>
+        <location class="indexing_service">Long Island Sound</location>
+        <org class="indexing_service">Broadwater Energy Corp</org>
+        <person class="indexing_service">Ross, Warren</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Westchester</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/Long Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gas (Fuel)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE6DD133EF93AA15757C0A9619C8B63" item-length="178" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Broadwater's Plan For Long Island Sound</hl1>
+      </hedline>
+      <abstract>
+        <p>Long Island Sound Study Citizens Advisory Committee member Warren Ross opposes Broadwater's plan to build liquefied natural gas plant in Sound</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re the encouraging renewal of Long Island Sound (''Renewal in the Sound,'' editorial, April 22), two points, one hopeful, the other scary, need to be added. The first is to give due credit for the progress you cite to the Long Island Sound Study, the partnership that has been implementing the 1998 cleanup agreement you refer to. The other can be summed up in a word: Broadwater.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re the encouraging renewal of Long Island Sound (''Renewal in the Sound,'' editorial, April 22), two points, one hopeful, the other scary, need to be added. The first is to give due credit for the progress you cite to the Long Island Sound Study, the partnership that has been implementing the 1998 cleanup agreement you refer to. The other can be summed up in a word: Broadwater.</p>
+        <p>Broadwater is the liquefied natural gas plant planned for the west end of the sound. It will be 1,200 feet long and 80 feet high, surrounded by a security zone of close to seven-tenths of a mile. The plant will be brought in by ocean-going tankers and transmitted to the mainland by a new underwater pipeline.</p>
+        <p>As a member of the Long Island Sound Study Citizens Advisory Committee (representing Federated Conservationists of Westchester), I have listened to eloquent debates as to just how much environmental damage this industrial facility might do. But one thing is certain: the sound will never be the same.</p>
+        <p>Warren Ross  Rye</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

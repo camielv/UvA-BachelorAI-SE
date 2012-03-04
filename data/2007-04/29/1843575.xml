@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Museum Sheds Light On Fakes and Imitations</title>
+    <meta content="29transmuseum--in--tra--13--47" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Travel" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/29/travel/29transmuseumintra1347.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1843575"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="IN TRANSIT"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Plagiarism</classifier>
+        <org class="indexing_service">Plagiarius Museum (Solingen, Germany)</org>
+        <person class="indexing_service">Busse, Rido (Prof)</person>
+        <person class="indexing_service">Conlin, Jennifer</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Germany/The Rhineland</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Germany/The Rhineland/Cologne</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Germany</classifier>
+        <classifier class="online_producer" type="descriptor">Travel and Vacations</classifier>
+        <classifier class="online_producer" type="descriptor">Museums</classifier>
+        <classifier class="online_producer" type="general_descriptor">Museums</classifier>
+        <classifier class="online_producer" type="general_descriptor">Plagiarism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Writing and Writers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+        <location class="online_producer">Cologne (Germany)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9903E0D6173EF93AA15757C0A9619C8B63" item-length="188" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Museum Sheds Light On Fakes and Imitations</hl1>
+        <hl2 class="online_headline">Museum Sheds Light on Fakes and Imitations</hl2>
+      </hedline>
+      <byline class="print_byline">By JENNIFER CONLIN</byline>
+      <byline class="normalized_byline">Conlin, Jennifer</byline>
+      <abstract>
+        <p>Plagiarius Museum, founded by design Prof Rido Busse and devoted entirely to subject of plagiarism, has opened in Solingen, Germany; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Did you know that 10 percent of the world's products are fakes and cheap imitations -- going way beyond the purses, jeans and watches you see on the street? Earlier this month, a museum devoted entirely to the subject of plagiarism opened in Solingen, Germany, near Cologne.</p>
+        <p>Founded by a design professor, Rido Busse, who in 1977 began awarding companies who stole ideas from smaller companies the Plagiarius ''award'' (a black gnome with a gold nose to signify ''illicit earnings from product imitation''), the Plagiarius Museum (www.plagiarius.com), above right , seeks to highlight what it says is an annual loss of $275 billion to $415 billion caused by those who profit from others' work. Mr. Busse should know. A set of scales he developed for a German company was copied by a Chinese company.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Earlier this month, a museum devoted entirely to the subject of plagiarism opened in Solingen, Germany, near Cologne.</p>
+      </block>
+      <block class="full_text">
+        <p>Did you know that 10 percent of the world's products are fakes and cheap imitations -- going way beyond the purses, jeans and watches you see on the street? Earlier this month, a museum devoted entirely to the subject of plagiarism opened in Solingen, Germany, near Cologne.</p>
+        <p>Founded by a design professor, Rido Busse, who in 1977 began awarding companies who stole ideas from smaller companies the Plagiarius ''award'' (a black gnome with a gold nose to signify ''illicit earnings from product imitation''), the Plagiarius Museum (www.plagiarius.com), above right , seeks to highlight what it says is an annual loss of $275 billion to $415 billion caused by those who profit from others' work. Mr. Busse should know. A set of scales he developed for a German company was copied by a Chinese company.</p>
+        <p>Unlike the Musée de Contrefaçon in Paris, which showcases copies of products from big companies, this museum focuses on fakes stolen from small designers. The most recent Plagiarius awards went to companies that copied such products as a Moleskine notebook, a love seat, salt and pepper shakers and even a urology set.</p>
+        <p>IN TRANSIT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

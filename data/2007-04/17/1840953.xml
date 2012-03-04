@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>$5.4 Million Paid To Airline's Chief</title>
+    <meta content="17air" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/17/business/businessspecial/17air.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840953"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <classifier class="indexing_service" type="descriptor">Wages and Salaries</classifier>
+        <classifier class="indexing_service" type="descriptor">Bonuses</classifier>
+        <classifier class="indexing_service" type="descriptor">Stock Options and Purchase Plans</classifier>
+        <org class="indexing_service">US Airways</org>
+        <person class="indexing_service">Parker, W Douglas</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">Wages and Salaries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stock Options and Purchase Plans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bonuses</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wages and Salaries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <org class="online_producer">US Airways</org>
+        <person class="online_producer">Parker, W Douglas</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070417T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A02E5D9113FF934A25757C0A9619C8B63" item-length="181" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>$5.4 Million Paid To Airline's Chief</hl1>
+        <hl2 class="online_headline">$5.4 Million for US Airways’ Chief</hl2>
+      </hedline>
+      <abstract>
+        <p>US Airways chief executive W Douglas Parker received salary and bonuses of $5.4 million last year, chalked up gains of $9 million by exercising stock options and still holds options and other stock holdings that are currently valued at about $30 million (S)0</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The chief executive of US Airways, W. Douglas Parker, received salary and bonuses of $5.4 million last year, chalked up gains of $9 million by exercising stock options and still holds options and other stock holdings that are currently valued at roughly $30 million.</p>
+        <p>The pay package, disclosed in a filing with the Securities and Exchange Commission yesterday, had been widely anticipated by some US Airways workers who are trying to negotiate new contracts for higher pay.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Executives are reaping the benefits of an industry turnaround, angering airline workers.</p>
+      </block>
+      <block class="full_text">
+        <p>The chief executive of US Airways, W. Douglas Parker, received salary and bonuses of $5.4 million last year, chalked up gains of $9 million by exercising stock options and still holds options and other stock holdings that are currently valued at roughly $30 million.</p>
+        <p>The pay package, disclosed in a filing with the Securities and Exchange Commission yesterday, had been widely anticipated by some US Airways workers who are trying to negotiate new contracts for higher pay.</p>
+        <p>Across the airline industry, executives are reaping the benefits of a nascent turnaround in fortunes as investors bid up airline stocks; most executive pay is tied to stock price. But workers are still largely lagging under concessionary contracts, and anger is rising.</p>
+        <p>The stock price of US Airways has tripled since its 2005 merger with America West Airlines. The shares were quoted at $45.34 in late New York Stock Exchange trading yesterday.</p>
+        <p>Mr. Parker, 45, received a large package of options and stock grants in the merger; much of the roughly $30 million value is from stock or options that have not yet vested.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

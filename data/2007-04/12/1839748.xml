@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Better Wi-Fi Not Quite Up To Its Promises</title>
+    <meta content="12pogue" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/12/technology/12pogue.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1839748"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="STATE OF THE ART"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <person class="indexing_service">Pogue, David</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Innovation</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Operations</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/David Pogue</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Wireless Communications</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+        <org class="online_producer">Apple Inc</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070412T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A01EED9123FF931A25757C0A9619C8B63" item-length="1387" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Better Wi-Fi Not Quite Up To Its Promises</hl1>
+        <hl2 class="online_headline">A Faster Wi-Fi World Is Coming</hl2>
+      </hedline>
+      <byline class="print_byline">By DAVID POGUE</byline>
+      <byline class="normalized_byline">Pogue, David</byline>
+      <abstract>
+        <p>David Pogue State of the Art column discusses advances in wireless Internet technology; tests new equipment for latest 802.11n standard; determines speed and power advantages are not as impressive as technology companies would like consumer to believe; product offerings from various companies are reviewed; photo; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>''When I was your age,'' we'll someday tell our awe-struck grandchildren, ''wireless Internet was available only in isolated hot spots 100 feet across!''</p>
+        <p>That is, if everything works out the way the electronics industry hopes. Every couple of years, it rolls out another flavor of faster, better Wi-Fi equipment, bearing such uninspired names as 802.11b and 802.11g.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Makers of Wi-Fi routers boast of 5 times the speed and 15 times the range, but be sure to read the footnotes.</p>
+      </block>
+      <block class="full_text">
+        <p>''When I was your age,'' we'll someday tell our awe-struck grandchildren, ''wireless Internet was available only in isolated hot spots 100 feet across!''</p>
+        <p>That is, if everything works out the way the electronics industry hopes. Every couple of years, it rolls out another flavor of faster, better Wi-Fi equipment, bearing such uninspired names as 802.11b and 802.11g.</p>
+        <p>This year's edition is 802.11n, which is supposed to offer two huge advantages over the popular ''b'' and ''g'' types: 5 times the speed and 15 times the range.</p>
+        <p>That would be a big deal, if it were true. It would mean, for example, that the signal from just one transmitter -- one wireless router, to use the technical term -- could fill every room in your house with glorious waves of data.</p>
+        <p>I sampled ''n'' routers from Apple, Belkin, Linksys and Netgear, plus an old ''g'' model for comparison. For each test, I installed the router in the basement, and then measured signal strength and range in six locations: two spots each in the basement and on the first floor, second floor and attic. By the end, I had traversed 120 flights of stairs. Anyone want to sponsor me for a charity?</p>
+        <p>It turns out that ''n'' does offer better speed and range -- nowhere near 15 times better, but generally at least 2 times. One ''n'' router should be enough to fill even a McMansion.</p>
+        <p>The latest ''n'' equipment is interoperable, too; a Belkin laptop card works with Apple's router, and so on, although not at full speed. Better yet, the old ''b'' and ''g'' laptops can still enjoy the improved range of the ''n'' routers, although at ''b'' and ''g'' speeds.</p>
+        <p>And now, the bad news.</p>
+        <p>Footnote 1: To savor the full magnificence of ''n'' networking, you need more than just the ''n'' router; each computer also needs an ''n'' receiver. These usually take the form of PC cards for laptops, or external U.S.B. antennas for desktop computers. Alas, ''n'' gear costs more; for example, Netgear's ''n'' router costs $125; its older ''g'' router is $80.</p>
+        <p>Footnote 2: The industry alliance that sets these technical standards hasn't yet finalized the specs for ''n.'' Today's routers are much better than last year's crude attempts, but they're still based only on a semifinal draft of the ''n'' specs. Apple, Belkin and Netgear (though not Linksys) promise software updaters that will bring this ''draft n'' gear into ''final n'' compliance this summer.</p>
+        <p>Footnote 3: If you're hoping for faster Internet speeds, forget it.</p>
+        <p>A typical cable modem delivers the Internet at 5 Mbps (megabits per second). You can translate those user-hostile units into the more familiar megabytes, if you like -- divide by 8 -- or you can just accept that more Mbps is better.</p>
+        <p>Even the older Wi-Fi networks transmit data many times as fast as that: 20 to 30 Mbps, for example. The bottleneck is your Internet connection, not the home network. Upgrading to ''n'' equipment does absolutely nothing for Internet speed.</p>
+        <p>You'll feel the speed primarily when copying stuff between computers -- moving big files, say, or streaming video from one PC to another.</p>
+        <p>So how much speed will you get? The ''up to 300 Mbps'' you see in the ads is among the most preposterous exaggerations in all of techdom. In the real world, you can expect 50 to 100 Mbps -- still a lot better than ''g.''</p>
+        <p>In fact, my Linksys, Belkin and Netgear routers never managed anything higher than 49 Mbps, even after days of experiments and consultation with the manufacturers' top geeks. I must live near a warp in the space-time continuum or something, because ''n'' router tests in the computer magazines routinely produce speeds in the high 90s. That's also what I got from Apple's router.</p>
+        <p>Footnote 4: Any manufacturer that describes its router's range as ''up to 1,400 feet'' must have done its testing on the moon.</p>
+        <p>Here on earth, signal strength is affected by pesky things like air, furniture, walls, floors, wiring, phone interference and antenna angle.</p>
+        <p>Speed and signal strength diminish proportionally as you move away from the router. Only the Apple and Netgear routers reached every floor of the house from the basement -- and just barely.</p>
+        <p>All four routers, however, easily flooded all rooms of the house when moved to the first or second floor.</p>
+        <p>And the neighbors' houses, too, by the way. That's a good argument for turning on your router's password protection --unless, of course, you love your neighbors enough to share your Internet account.</p>
+        <p>Here's what differentiates the individual routers.</p>
+        <p>APPLE AIRPORT EXTREME -- This router earns five superlatives: smallest, best-looking, fastest, strongest signal -- and most expensive ($180).</p>
+        <p>Then again, Apple fans save money at the other end. Since the fall of 2006, Apple has secretly built ''n'' receivers into most Mac laptops and desktops. In other words, you don't need to buy cards for Macs -- you need only a software ''enabler'' that unlocks the ''n'' features. It comes with Apple's router, or you can buy it for $2 at www.apple.com.</p>
+        <p>The setup program, identical for Mac and Windows, is light-years more polished and accessible than its rivals. You can attach a printer or hard drive to the router's U.S.B. jack, and presto: it's accessible by all the computers on the network. Very cool.</p>
+        <p>Most ''n'' routers operate in the same frequency range (around 2.4 gigahertz) as cordless phones, microwaves, Bluetooth gadgets and older Wi-Fi networks. Apple's router, however, is among the first to offer an alternative, much-less-crowded frequency band -- 5 gigahertz -- that doesn't ruin your cordless-phone calls and trample neighbors' networks. Linksys, Belkin and Netgear plan similar ''dual band'' cards and routers later this year.</p>
+        <p>The biggest disappointment: All four routers have Ethernet jacks on the back to accommodate nonwireless computers, but bizarrely, Apple's are old, slow 100-Mbps jacks. That is weird considering that Apple's own computers come with gigabit jacks (1,000 Mbps). The jacks on the Linksys and Netgear routers offer full gigabit speed.</p>
+        <p>BELKIN N1 WIRELESS ROUTER -- This is the least expensive ''n'' gear: $110 for the router, $70 for the laptop card.</p>
+        <p>And, man, you have never seen a company try so hard to make networking easy. The jacks on the router are color-coded; the parts and cables bear huge numbered stickers that correspond to the instructions.</p>
+        <p>And on the router itself, labeled icons for each network link -- Computer, Router, Modem, Internet -- light up in blue when they're working, in flashing amber when there's trouble. This brilliant little map is hugely helpful in pinpointing where a problem lies.</p>
+        <p>Finally, Belkin's tech-support phone number appears prominently on every single sheet of paper in the box. Incredible.</p>
+        <p>LINKSYS WRT350N -- This box ($155 for the router, a pricey $100 for the card) bristles with antennas in various shapes.</p>
+        <p>Installation is a nightmare, filled with dire warnings like ''This product doesn't support Windows 98SE'' (who asked?) and ''Unsigned software may harm your computer or steal information'' (yikes!). And the phone number appears only on the back of the CD envelope -- in six-point type: white lettering on powder blue.</p>
+        <p>On the plus side, you can plug in either a U.S.B. hard drive or a U.S.B. flash drive to share across the whole network.</p>
+        <p>NETGEAR WNR854T -- Like Apple, Netgear managed to design a sleek white case with no protruding antennas. The router is $125; the card is $80.</p>
+        <p>But unlike Apple's, Netgear's gear is still best suited to network geeks. Getting my router working took seven hours, the lowlight of which was being told by a testy Indian tech-support rep that the installation required the ancient Internet Explorer 6. (A product manager later told me that information was wrong.)</p>
+        <p>If you have Windows Vista, you have to download and burn your own Netgear installation CD. Even then, the Internet setup software bombs out with a bizarre error message: ''Internet Connection Not Available.'' Well, duh.</p>
+        <p>So what's the verdict? The ''n'' is near. If you're in the market for new wireless gear and can't wait a few more months for the ''n'' committee to finish the spec, buy the polished, upgradeable gear from Apple or Belkin.</p>
+        <p>They hint at the joys of a more distant future, when a single 802.11z router, strategically parked somewhere in Nebraska, will provide high-speed wireless Internet from coast to coast.</p>
+        <p>STATE OF THE ART E-mail: Pogue@nytimes.com</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">E-mail: Pogue@nytimes.com</tagline>
+    </body.end>
+  </body>
+</nitf>

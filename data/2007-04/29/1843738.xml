@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Robyn Juskiewicz, Joseph D'Onofrio</title>
+    <meta content="29JUSKIEWICZ" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/29/fashion/weddings/29JUSKIEWICZ.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1843738"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Juskiewicz, Robyn Dawn (Robyn Dawn D'Onofrio)</person>
+        <person class="indexing_service">Jr., D'Onofrio Joseph John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9905EFDD123EF93AA15757C0A9619C8B63" item-length="170" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Robyn Juskiewicz, Joseph D'Onofrio</hl1>
+        <hl2 class="online_headline">Robyn Juskiewicz, Joseph D’Onofrio</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Robyn Dawn Juskiewicz, the daughter of Dolores M. Juskiewicz of Burlington, N.C., and Thomas F. Juskiewicz of White Stone, Va., was married yesterday to Joseph John D'Onofrio Jr., a son of Dr. and Mrs. Joseph J. D'Onofrio of Sparta, N.J. Msgr. Kieran McHugh officiated at St. Francis de Sales Roman Catholic Church in Kilmarnock, Va.</p>
+        <p>The bride and bridegroom work in the Morris County prosecutor's office in Morristown, N.J. She is a law clerk, conducting legal research, drafting briefs and providing other supportive legal services, and he is an assistant prosecutor and a team leader in the trial division.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Robyn Dawn Juskiewicz, the daughter of Dolores M. Juskiewicz of Burlington, N.C., and Thomas F. Juskiewicz of White Stone, Va., was married yesterday to Joseph John D’Onofrio Jr., a son of Dr. and Mrs. Joseph J. D’Onofrio of Sparta, N.J. Msgr. Kieran McHugh officiated at St. Francis de Sales Roman Catholic Church in Kilmarnock, Va.</p>
+      </block>
+      <block class="full_text">
+        <p>Robyn Dawn Juskiewicz, the daughter of Dolores M. Juskiewicz of Burlington, N.C., and Thomas F. Juskiewicz of White Stone, Va., was married yesterday to Joseph John D'Onofrio Jr., a son of Dr. and Mrs. Joseph J. D'Onofrio of Sparta, N.J. Msgr. Kieran McHugh officiated at St. Francis de Sales Roman Catholic Church in Kilmarnock, Va.</p>
+        <p>The bride and bridegroom work in the Morris County prosecutor's office in Morristown, N.J. She is a law clerk, conducting legal research, drafting briefs and providing other supportive legal services, and he is an assistant prosecutor and a team leader in the trial division.</p>
+        <p>Mrs. D'Onofrio, 27, is also the coach of the junior varsity girls lacrosse team at Pope John XXIII High School, from which she graduated and where the wedding officiant, Monsignor McHugh, is the principal. She received both a bachelor's degree and an M.B.A. from Norwich University in Northfield, Vt., and received her law degree from Syracuse University.</p>
+        <p>Mr. D'Onofrio, 39, graduated from Villanova and received his law degree from Widener University.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

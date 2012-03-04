@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>OBSERVATORY</title>
+    <meta content="03obse1" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/03/science/03observ.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837677"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Observatory"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Peru</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Observatory</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Americas</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Fitness and Nutrition</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Archeology and Anthropology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Pharmaceutical, Biotechnology and Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Central and South America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Central and South America/Peru</classifier>
+        <classifier class="online_producer" type="descriptor">Sugar</classifier>
+        <classifier class="online_producer" type="descriptor">Archaeology and Anthropology</classifier>
+        <classifier class="online_producer" type="descriptor">Snakes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Reptiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oils and Fats</classifier>
+        <classifier class="online_producer" type="general_descriptor">Incas</classifier>
+        <classifier class="online_producer" type="general_descriptor">Paleontology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insects</classifier>
+        <classifier class="online_producer" type="general_descriptor">Glass</classifier>
+        <classifier class="online_producer" type="general_descriptor">Archaeology and Anthropology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Indians, American</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Culture</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070403T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE5DE1F30F930A35757C0A9619C8B63" item-length="757" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>OBSERVATORY</hl1>
+        <hl2 class="online_headline">Making Glass From Sugar (but Hold the Sand)</hl2>
+      </hedline>
+      <byline class="print_byline">By Henry Fountain</byline>
+      <byline class="normalized_byline">Fountain, Henry</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Making Glass From Sugar (But Hold the Sand)</p>
+        <p>Here's one way to make glass: Mix silica sand, soda ash and limestone, heat to about 2,000 degrees Fahrenheit and let cool.</p>
+        <p>Here's another way, as described by Carlos Co of the University of Cincinnati and colleagues in the journal Nature Materials: shake up some sugar, oil and a surfactant that attracts both materials, heat it to about 250 degrees without further mixing, and allow to dry out while cooling.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A new way to make glass, the tale of the Incas told by dung-eating mites and on the road from lizard to snake.</p>
+      </block>
+      <block class="full_text">
+        <p>Making Glass From Sugar (But Hold the Sand)</p>
+        <p>Here's one way to make glass: Mix silica sand, soda ash and limestone, heat to about 2,000 degrees Fahrenheit and let cool.</p>
+        <p>Here's another way, as described by Carlos Co of the University of Cincinnati and colleagues in the journal Nature Materials: shake up some sugar, oil and a surfactant that attracts both materials, heat it to about 250 degrees without further mixing, and allow to dry out while cooling.</p>
+        <p>The new form of glass that results, the researchers report, is an emulsion -- like mayonnaise or salad dressing, in a way. But because it contains sugar instead of water, it is solid and hard like candy, and remarkably clear. And it still contains more than 50 percent liquid oil, which can diffuse through it. It's somewhat like a sponge, Dr. Co said, with continuous solid areas and continuous liquid ones.</p>
+        <p>The researchers say such sugar-oil glass might have applications in optical or sensing devices. Since it can be made with food-grade materials (the oil used was limonene, or orange oil), it might be useful in the food and pharmaceutical industries.</p>
+        <p>Dr. Co said it might also someday be used to fabricate nanoscale materials, by using a polymerizable compound in place of the oil. In this case the glass would act as a template, holding the compound in the sugar structure. After the compound was polymerized, the sugar could be simply dissolved away.</p>
+        <p>Archaeologists Read The Tale of the Incas In Dung-Eating Mites</p>
+        <p>When archaeologists try to understand ancient civilizations, they look for the smallest of clues. Residues scraped from cooking vessels offer hints about diet; bits of charcoal speak of the role of fire; even pollen grains can give an idea of how the land was used.</p>
+        <p>Researchers now have another tiny tool in their arsenal: millimeter-long, dung-eating mites. Alex Chepstow-Lusty of the University of Montpellier in France and colleagues report  in The Journal of Archaeological Science that by counting mites in sediment cores in a lake in the Peruvian Andes, they have been able to track socioeconomic changes in the Inca civilization over centuries.</p>
+        <p>The lake, which has a small pasture next to it, is only a few hundred feet from an Inca road that was a major trading route to and from Cuzco. It would have been a natural watering spot for long caravans of llamas. All those animals would have left behind a lot of dung, which would have been eaten by the mites. And rain and snow melt would have washed some of those mites into the lake.</p>
+        <p>Dr. Chepstow-Lusty, who has studied the lake sediments for years, was going through a core sample one day looking for pollen grains or other clues. ''Then suddenly these little animals, these mites, started falling out of the sediment,'' he said. ''No one had used them before.'' He thought they might indicate the amount of traffic along the Inca road, and by extension the rise and fall of Inca fortunes. He and his colleagues compared mite counts from dated sections of the core with known phases of Inca history. They found large numbers of mites in the late 1400s and early 1500s, when the Incas were flourishing. Mite numbers crashed in sediments from the mid-1500s, when the Incas were nearly wiped out by diseases introduced by the Spanish conquerors. They also found spikes in mite numbers in the 1100s, a period of natural climate warming when activity around the lake might have increased as Incas moved to higher elevations.</p>
+        <p>Dr. Chepstow-Lusty said the technique might prove useful in studying other civilizations. ''We have a new tool to play with,'' he said. ''One that links directly to domesticated animals used in trade.''</p>
+        <p>On the Road From Lizard To Snake, Losing Limbs Along the Way</p>
+        <p>For a lizard to become a snake, evolutionarily speaking, limbs must go. Among the lines of lizards most closely related to snakes, just when the limbs were lost has been a mystery. A newly described fossil sheds some light.</p>
+        <p>The fossil, of a foot-long, 95 million-year-old aquatic lizard, Adriosaurus microbrachis, has vestigial forelimbs. It's by far the earliest record of limb loss in a lizard, and it's the first time the loss has been seen in an aquatic one.</p>
+        <p>The fossil, found in Slovenia a century ago, is described in The Journal of Vertebrate Paelontology by Alessandro Palci of the University of Modena and Reggio Emilia in Italy and Michael W. Caldwell of the University of Alberta in Canada.</p>
+        <p>Observatory</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

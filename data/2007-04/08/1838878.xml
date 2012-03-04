@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>OUT-BOX</title>
+    <meta content="08outbx" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838878"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070408T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9401E7DE143FF93BA35757C0A9619C8B63" item-length="128" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>OUT-BOX</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The five most e-mailed articles from nytimes.com/sports for March 31 to April 6.</p>
+        <p>1. AS CHEERLEADERS SOAR HIGHER, SO DOES THE DANGER -- More acrobatic maneuvers in high school and college result in more catastrophic injuries. (Published March 31)</p>
+        <p>2. GEORGETOWN PLAYER'S IGNOMINIOUS MARK -- Marc Egerson's questionable high school academic background. (March 30)</p>
+        <p>3. ABE COLEMAN, WRESTLER KNOWN AS HEBREW HERCULES, DIES AT 101 -- Obituary. (April 2)</p>
+        <p>4. DUBAI MELDS TRADITION AND MODERNITY IN WORLD'S RICHEST HORSE RACE -- Horsemen and business magnates from Europe, the United States and Asia gather in a desert sheikdom. (March 31)</p>
+        <p>5. OHIO STATE VS. FLORIDA, A NEW RIVALRY -- The two universities played for football and basketball championships in the same year. (April 2)</p>
+      </block>
+      <block class="full_text">
+        <p>The five most e-mailed articles from nytimes.com/sports for March 31 to April 6.</p>
+        <p>1. AS CHEERLEADERS SOAR HIGHER, SO DOES THE DANGER -- More acrobatic maneuvers in high school and college result in more catastrophic injuries. (Published March 31)</p>
+        <p>2. GEORGETOWN PLAYER'S IGNOMINIOUS MARK -- Marc Egerson's questionable high school academic background. (March 30)</p>
+        <p>3. ABE COLEMAN, WRESTLER KNOWN AS HEBREW HERCULES, DIES AT 101 -- Obituary. (April 2)</p>
+        <p>4. DUBAI MELDS TRADITION AND MODERNITY IN WORLD'S RICHEST HORSE RACE -- Horsemen and business magnates from Europe, the United States and Asia gather in a desert sheikdom. (March 31)</p>
+        <p>5. OHIO STATE VS. FLORIDA, A NEW RIVALRY -- The two universities played for football and basketball championships in the same year. (April 2)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

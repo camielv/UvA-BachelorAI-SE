@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="02mets--refer" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837586"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070402T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B01EFD71E30F931A35757C0A9619C8B63" item-length="207" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It's Not Game 7, but It'll Have to Do  José Reyes and the Mets battered the St. Louis Cardinals, the defending World Series champions, 6-1, in the season opener.</p>
+        <p>SPORTSMONDAY, PAGE D1</p>
+        <p>4 G.I.'s Among Dead in Iraq  Attacks in Iraq killed at least two dozen people, including four American soldiers who were responding to an earlier bombing that killed two other American soldiers late Saturday. In Baghdad, Senator John McCain said the security plan was ''making progress.''</p>
+        <p>PAGE A11</p>
+        <p>Bid for Credit-Card Processor  First Data, one of the nation's largest credit-card processors, is near a deal to be sold for nearly $27 billion to the private equity firm Kohlberg Kravis Roberts.</p>
+        <p>PAGE A21</p>
+        <p>Banning Investment in Iran  A bill in the California Legislature would force two of the nation's largest pension funds to remove their money from foreign companies doing business in Iran.</p>
+        <p>PAGE A14</p>
+        <p>Clinton Fund-Raising Edge  Senator Hillary Rodham Clinton's campaign said it had raised $26 million in the first quarter, three times as much as the previous record at this stage of the race.</p>
+        <p>PAGE A18</p>
+        <p>Rutgers Will Play for Title  Rutgers routed L.S.U. to earn a spot in the women's N.C.A.A. championship game against Tennessee, which defeated North Carolina.</p>
+        <p>SPORTSMONDAY, PAGE D1</p>
+      </block>
+      <block class="full_text">
+        <p>It's Not Game 7, but It'll Have to Do  José Reyes and the Mets battered the St. Louis Cardinals, the defending World Series champions, 6-1, in the season opener.</p>
+        <p>SPORTSMONDAY, PAGE D1</p>
+        <p>4 G.I.'s Among Dead in Iraq  Attacks in Iraq killed at least two dozen people, including four American soldiers who were responding to an earlier bombing that killed two other American soldiers late Saturday. In Baghdad, Senator John McCain said the security plan was ''making progress.''</p>
+        <p>PAGE A11</p>
+        <p>Bid for Credit-Card Processor  First Data, one of the nation's largest credit-card processors, is near a deal to be sold for nearly $27 billion to the private equity firm Kohlberg Kravis Roberts.</p>
+        <p>PAGE A21</p>
+        <p>Banning Investment in Iran  A bill in the California Legislature would force two of the nation's largest pension funds to remove their money from foreign companies doing business in Iran.</p>
+        <p>PAGE A14</p>
+        <p>Clinton Fund-Raising Edge  Senator Hillary Rodham Clinton's campaign said it had raised $26 million in the first quarter, three times as much as the previous record at this stage of the race.</p>
+        <p>PAGE A18</p>
+        <p>Rutgers Will Play for Title  Rutgers routed L.S.U. to earn a spot in the women's N.C.A.A. championship game against Tennessee, which defeated North Carolina.</p>
+        <p>SPORTSMONDAY, PAGE D1</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Kurt Vonnegut</title>
+    <meta content="13fri4" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/13/opinion/13fri4.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1839898"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="APPRECIATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Deaths (Obituaries)</classifier>
+        <person class="indexing_service">Klinkenborg, Verlyn</person>
+        <person class="indexing_service">Vonnegut, Kurt</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="descriptor">Books and Literature</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+        <person class="online_producer">Vonnegut, Kurt</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070413T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E02E5DB133FF930A25757C0A9619C8B63" item-length="377" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Kurt Vonnegut</hl1>
+        <hl2 class="online_headline">Kurt Vonnegut</hl2>
+      </hedline>
+      <byline class="print_byline">By VERLYN KLINKENBORG</byline>
+      <byline class="normalized_byline">Klinkenborg, Verlyn</byline>
+      <abstract>
+        <p>Verlyn Klinkenborg Appreciation column on Kurt Vonnegut; says no one nourished skepticism of young like Vonnegut; calls his writing indispensable footnote to everything elders are trying to teach young (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>If you read Kurt Vonnegut when you were young -- read all there was of him, book after book as fast as you could the way so many of us did -- you probably set him aside long ago. That's the way it goes with writers we love when we're young. It's almost as though their books absorbed some part of our DNA while we were reading them, and rereading them means revisiting a version of ourselves we may no longer remember or trust.</p>
+        <p>Not that Vonnegut is mainly for the young. I'm sure there are plenty of people who think he is entirely unsuitable for readers under the age of disillusionment. But the time to read Vonnegut is just when you begin to suspect that the world is not what it appears to be. He is the indispensable footnote to everything everyone is trying to teach you, the footnote that pulls the rug out from under the established truths being so firmly avowed in the body of the text.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The time to read Vonnegut is just when you begin to suspect that the world is not what it appears to be.</p>
+      </block>
+      <block class="full_text">
+        <p>If you read Kurt Vonnegut when you were young -- read all there was of him, book after book as fast as you could the way so many of us did -- you probably set him aside long ago. That's the way it goes with writers we love when we're young. It's almost as though their books absorbed some part of our DNA while we were reading them, and rereading them means revisiting a version of ourselves we may no longer remember or trust.</p>
+        <p>Not that Vonnegut is mainly for the young. I'm sure there are plenty of people who think he is entirely unsuitable for readers under the age of disillusionment. But the time to read Vonnegut is just when you begin to suspect that the world is not what it appears to be. He is the indispensable footnote to everything everyone is trying to teach you, the footnote that pulls the rug out from under the established truths being so firmly avowed in the body of the text.</p>
+        <p>He is not only entertaining, he is electrocuting. You read him with enormous pleasure because he makes your hair stand on end. He says not only what no one is saying, but also what -- as a mild young person -- you know it is forbidden to say. No one nourishes the skepticism of the young like Vonnegut. In his world, decency is likelier to be rooted in skepticism than it is in the ardor of faith.</p>
+        <p>So you get older, and it's been 20 or 30 years since you last read ''Player Piano'' or ''Cat's Cradle'' or ''Slaughterhouse-Five.'' Vonnegut is not, now, somehow serious enough. You've entered that time of life when every hard truth has to be qualified by the sense of what you stand to lose. ''It's not that simple,'' you find yourself saying a lot, and the train of thought that unfolds in your mind as you speak those words reeks of desperation.</p>
+        <p>And yet, somehow, the world seems more and more to have been written by Vonnegut and your life is now the footnote. Perhaps it is time to go back and revisit that earlier self, the one who seemed, for a while, so interwoven in the pages of those old paperbacks.</p>
+        <p>VERLYN KLINKENBORG</p>
+        <p>APPRECIATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

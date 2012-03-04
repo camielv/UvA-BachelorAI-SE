@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Legislators in Trouble</title>
+    <meta content="30empire-1" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1844104"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE EMPIRE ZONE"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/Albany</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Speed Limits and Speeding</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drunken and Reckless Driving</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemicals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Alcohol Abuse</classifier>
+        <classifier class="online_producer" type="general_descriptor">Legislatures and Parliaments</classifier>
+        <classifier class="online_producer" type="general_descriptor">Roads and Traffic</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070430T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A04E2DA133EF933A05757C0A9619C8B63" item-length="356" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Legislators in Trouble</hl1>
+      </hedline>
+      <byline class="print_byline">By DANNY HAKIM and DAVID STABA</byline>
+      <byline class="normalized_byline">Hakim, Danny; Staba, David</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>And now, more entries from the legislative bad behavior blotter.</p>
+        <p>For starters, there was Assemblyman Mike Cole's admission last week that, after a night of drinking last month, he had slept on the floor of an Albany apartment where a 21-year-old female intern lived. The incident got the intern fired and landed Mr. Cole, 35, a Republican who represents parts of Erie and Niagara Counties, in front of the Assembly's ethics committee.</p>
+      </block>
+      <block class="full_text">
+        <p>And now, more entries from the legislative bad behavior blotter.</p>
+        <p>For starters, there was Assemblyman Mike Cole's admission last week that, after a night of drinking last month, he had slept on the floor of an Albany apartment where a 21-year-old female intern lived. The incident got the intern fired and landed Mr. Cole, 35, a Republican who represents parts of Erie and Niagara Counties, in front of the Assembly's ethics committee.</p>
+        <p>Mr. Cole said in the statement that he walked the woman home after a party on April 16 at an Albany sports bar. (The party was held by Assemblyman Sam Hoyt, a Democrat from Buffalo, in honor of Game 3 of the National Hockey League playoff series between the Buffalo Sabres and the New York Islanders.)</p>
+        <p>''I ended up spending the night on her floor,'' Mr. Cole said. ''As wrong as it sounds now, at the time I didn't think it was such a bad decision to sleep there, being that I was incapable of driving. But it was. I should have taken a cab home.''</p>
+        <p>There are a number of well-documented incidents of improper behavior involving lawmakers and interns, and the Assembly now has policies restricting their social contact.</p>
+        <p>''At no point in time did anything inappropriate occur, nor has anything been alleged,'' said Mr. Cole, who appeared before the committee on Wednesday.</p>
+        <p>The panel has not announced whether it will impose sanctions against Mr. Cole.</p>
+        <p>Mr. Cole, who is married and has two daughters, is serving his first full term in the Assembly.</p>
+        <p>Then there was Assemblyman Karim Camara, a Democrat from Brooklyn, who was stopped last week for driving 65 miles per hour in a 30 m.p.h. zone in Albany. He ''was observed to have glassy/bloodshot eyes, slurred speech'' and ''a strong odor of alcoholic beverage on his breath,'' according to a police report. Mr. Camara failed several field sobriety tests, but he refused a Breathalyzer test, the report said. He was charged with a speeding violation, operating a motor vehicle while intoxicated and refusing to take a breath test.</p>
+        <p>DANNY HAKIM and DAVID STABA</p>
+        <p>THE EMPIRE ZONE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

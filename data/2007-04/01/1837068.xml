@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Remix; Glass Act</title>
+    <meta content="04remix.glasshouse.t" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="T: Design Magazine" name="dsk"/>
+    <meta content="48" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts; Style; Magazine" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837068"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/T: Style Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9800EFDA1230F932A35757C0A9619C8B63" item-length="122" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Remix; Glass Act</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It used to be that the only way you could see Philip Johnson's Glass House was to make his acquaintance. Now all you have to do is make a reservation. The legendary Modernist architect, who died in 2005, donated his New Canaan, Conn., country retreat -- which includes three vernacular buildings and 10 structures designed by Johnson in addition to the glass-and-steel pavilion that made him famous -- to the National Trust for Historic Preservation, which will open the 47-acre site to the public (by appointment only) in June. The site's mission is to become a model for the preservation of Modernism and a laboratory for new talent, inspired by the example of Johnson and his companion, the curator David Whitney. Go to www.philipjohnsonglasshouse.org.</p>
+      </block>
+      <block class="full_text">
+        <p>It used to be that the only way you could see Philip Johnson's Glass House was to make his acquaintance. Now all you have to do is make a reservation. The legendary Modernist architect, who died in 2005, donated his New Canaan, Conn., country retreat -- which includes three vernacular buildings and 10 structures designed by Johnson in addition to the glass-and-steel pavilion that made him famous -- to the National Trust for Historic Preservation, which will open the 47-acre site to the public (by appointment only) in June. The site's mission is to become a model for the preservation of Modernism and a laboratory for new talent, inspired by the example of Johnson and his companion, the curator David Whitney. Go to www.philipjohnsonglasshouse.org.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

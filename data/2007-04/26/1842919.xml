@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   CHILEWICH, SIMON</title>
+    <meta content="dn042607.1" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1842919"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">CHILEWICH, SIMON</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070426T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9502EFDE163AF935A15757C0A9619C8B63" item-length="84" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   CHILEWICH, SIMON</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>CHILEWICH--Simon. The officers, Board of Directors, and staff of UJA-Federation of New York mourn the passing of Simon Chilewich, a prominent figure of the Jewish community whose commitment and generosity profoundly impacted the most vulnerable, and strengthened Jewish life and learning in New York, in Israel, and worldwide. We extend our deepest sympathies to Simon's children; Melvin, Martin, and Sandra; and to the entire family. Morris W. Offit, President Susan K. Stern, Chair of the Board John S. Ruskay, Exec. V.P. &amp; C.E.O.</p>
+      </block>
+      <block class="full_text">
+        <p>CHILEWICH--Simon. The officers, Board of Directors, and staff of UJA-Federation of New York mourn the passing of Simon Chilewich, a prominent figure of the Jewish community whose commitment and generosity profoundly impacted the most vulnerable, and strengthened Jewish life and learning in New York, in Israel, and worldwide. We extend our deepest sympathies to Simon's children; Melvin, Martin, and Sandra; and to the entire family. Morris W. Offit, President Susan K. Stern, Chair of the Board John S. Ruskay, Exec. V.P. &amp; C.E.O.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

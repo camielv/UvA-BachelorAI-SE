@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Heilman Thinks His Way Out of a Tough Spot</title>
+    <meta content="04cards" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/04/sports/baseball/04cards.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837906"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="BASEBALL"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Mets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/St Louis Cardinals</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="descriptor">Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+        <org class="online_producer">New York Mets</org>
+        <org class="online_producer">St Louis Cardinals</org>
+        <person class="online_producer">Heilman, Aaron</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070404T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9900E7DE163FF937A35757C0A9619C8B63" item-length="308" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Heilman Thinks His Way Out of a Tough Spot</hl1>
+        <hl2 class="online_headline">Heilman Thinks His Way Out of a Tough Spot</hl2>
+      </hedline>
+      <byline class="print_byline">By PAT BORZI</byline>
+      <byline class="normalized_byline">Borzi, Pat</byline>
+      <dateline>ST. LOUIS, April 3</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In the eighth inning Tuesday night, Mets reliever Aaron Heilman found an answer to an unanswerable question: How do you get one of the most balanced hitters in baseball off balance?</p>
+        <p>Sometimes, you notice something and guess right. Heilman, brought in to face the Cardinals slugger Albert Pujols with two men on and the Mets leading by three runs, said Pujols's stance and approach suggested he was looking for a changeup. So on a 2-1 count, Heilman fired an up-and-in fastball and Pujols swung and missed. Pujols then flied out meekly to center on a full count to end the inning, a key out in the Mets' 4-1 win.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>In the eighth inning Tuesday night, Mets reliever Aaron Heilman found an answer to an unanswerable question: How do you get Albert Pujols off balance?</p>
+      </block>
+      <block class="full_text">
+        <p>In the eighth inning Tuesday night, Mets reliever Aaron Heilman found an answer to an unanswerable question: How do you get one of the most balanced hitters in baseball off balance?</p>
+        <p>Sometimes, you notice something and guess right. Heilman, brought in to face the Cardinals slugger Albert Pujols with two men on and the Mets leading by three runs, said Pujols's stance and approach suggested he was looking for a changeup. So on a 2-1 count, Heilman fired an up-and-in fastball and Pujols swung and missed. Pujols then flied out meekly to center on a full count to end the inning, a key out in the Mets' 4-1 win.</p>
+        <p>''That's his job,'' Mets Manager Willie Randolph said of Heilman. ''That's what he's got to do.''</p>
+        <p>For the second time in two games, Heilman came on in the middle of an inning with the potential tying run at the plate. Each time he faced an exceptional hitter, and each time he got out of it. He needed a little help in Sunday's season opener, when second baseman Jose Valentín's diving stop turned a Scott Rolen smash into an inning-ending double play.</p>
+        <p>Both games ended much better that Heilman's last appearance against the Cardinals in 2006, when he gave up Yadier Molina's ninth-inning home run in Game 7 of the National League Division Series.</p>
+        <p>Facing Pujols on Tuesday, Heilman mixed fastballs and splitters in an attempt to prevent him from driving the ball.</p>
+        <p>Heilman said he overthrew the first pitch, a fastball low, before calming himself and creasing the outside corner with another fastball.</p>
+        <p>''You always have a game plan and know what you want to do,'' Heilman said. ''Sometimes you stick with the plan, and sometimes you adapt a little bit. You just hope you pick up what he's doing before he picks up the pattern.''</p>
+        <p>BASEBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

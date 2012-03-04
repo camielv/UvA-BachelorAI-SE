@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Niacin to Pass a Drug Test Can Have Dangerous Results</title>
+    <meta content="17haza" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Health&amp;Fitness" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/17/health/17haza.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840900"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="VITAL SIGNS: HAZARDS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Columns/Vital Signs</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Doctors</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Vitamins</classifier>
+        <classifier class="online_producer" type="descriptor">Drug Abuse and Traffic</classifier>
+        <classifier class="online_producer" type="descriptor">National Invitation Tournament</classifier>
+        <classifier class="online_producer" type="descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Doctors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Vitamins</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">National Invitation Tournament</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drug Abuse and Traffic</classifier>
+        <classifier class="online_producer" type="general_descriptor">Basketball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070417T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9401E6DA113FF934A25757C0A9619C8B63" item-length="220" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Niacin to Pass a Drug Test Can Have Dangerous Results</hl1>
+        <hl2 class="online_headline">Hazards: Niacin to Pass a Drug Test Can Have Dangerous Results</hl2>
+      </hedline>
+      <byline class="print_byline">By Eric Nagourney</byline>
+      <byline class="normalized_byline">Nagourney, Eric</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Heard the one about how taking a lot of vitamin B3 can help you pass a drug test, even if you have been using marijuana or cocaine?</p>
+        <p>It doesn't. But it might send you to the emergency room.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Taking lots of vitamin B3 can’t help you pass a drug test and instead might send you to the ER.</p>
+      </block>
+      <block class="full_text">
+        <p>Heard the one about how taking a lot of vitamin B3 can help you pass a drug test, even if you have been using marijuana or cocaine?</p>
+        <p>It doesn't. But it might send you to the emergency room.</p>
+        <p>The Annals of Emergency Medicine reports  in its online edition on several cases in which patients arrived at a hospital suffering ill effects from the vitamin, also known as niacin. The lead author is Dr. Manoj K. Mittal of the Children's Hospital of Pennsylvania.</p>
+        <p>The recommended daily intake of niacin is 14 to 16 milligrams, although doctors prescribe it for some medical conditions in dosages up to 5 grams a day. At those levels, it commonly causes side effects, including skin and liver problems.</p>
+        <p>The study details visits by two patients who suffered life-threatening problems.</p>
+        <p>One, a 14-year-old boy, went to the emergency room after suffering vomiting, upper abdominal pain and dizziness. He told doctors that he smoked marijuana and that he had taken 11 500-milligram niacin tablets over a 36-hour period.</p>
+        <p>The other patient, a 17-year-old girl, also suffered from vomiting and dizziness and was unresponsive for several minutes before emergency services were called. She said she had taken five 500-milligram tablets over two days.</p>
+        <p>The authors said emergency room doctors needed to be aware of the practice.</p>
+        <p>VITAL SIGNS: HAZARDS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

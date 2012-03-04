@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Q &amp; A</title>
+    <meta content="05askk" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/05/technology/05askk.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1838118"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Q &amp; A"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Recordings and Downloads (Video)</classifier>
+        <classifier class="online_producer" type="descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070405T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D07E4DB163FF936A35757C0A9619C8B63" item-length="720" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Q &amp; A</hl1>
+        <hl2 class="online_headline">Moviemaking With VCD</hl2>
+      </hedline>
+      <byline class="print_byline">By J. D. BIERSDORFER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Moviemaking With VCD</p>
+        <p>Q. How do I copy short videos taken with a digital camera to a CD-R that can be played on a CD/DVD player? The videos have been stored in my PC, which is equipped with a recordable CD drive.</p>
+        <p>A. If your computer does not have a drive that can record DVDs, you can probably burn your digital camera's clips to a video compact disc, also known as a VCD.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>How do I copy short videos taken with a digital camera to a CD-R that can be played on a CD/DVD player?</p>
+      </block>
+      <block class="full_text">
+        <p>Moviemaking With VCD</p>
+        <p>Q. How do I copy short videos taken with a digital camera to a CD-R that can be played on a CD/DVD player? The videos have been stored in my PC, which is equipped with a recordable CD drive.</p>
+        <p>A. If your computer does not have a drive that can record DVDs, you can probably burn your digital camera's clips to a video compact disc, also known as a VCD.</p>
+        <p>A video compact disc is a CD that can play moving pictures and audio in the MPEG-1 format. Many (but not all) DVD players can play video compact discs. With the right software, you can also play a VCD in a computer's CD drive.</p>
+        <p>At the most, a VCD can hold about 80 minutes of video, and the picture quality is typically not as sharp as a movie encoded for DVD; many have compared the picture to that of a movie on VHS tape. Another format, Super Video CD (SVCD), offers better picture quality but doesn't hold as much video.</p>
+        <p>If your PC did not come with software that can convert video to MPEG-1 and create video compact discs, other commercial video-editing programs are available. Many programs for creating DVDs also give you an option to make a VCD.</p>
+        <p>There are specialized programs like VCD Easy (www.vcdeasy.org; a free trial download is available) for creating these discs. The VideoHelp site (www.videohelp.com) is one place for further reading on the topic, with information, forums and tutorials on making your own VCD and SVCD movies.</p>
+        <p>When DLL Errors Cause Crashes</p>
+        <p>Q. I have been getting an error message that says ''The Procedure entry point GetProcessImageFileNameW could not be located in the dynamic link library PSAPI.DLL.'' What does it mean and how can I get rid of it?</p>
+        <p>A. Within the Windows operating system, dynamic link library (DLL) files can contain code used by several different programs. Problems can arise, however, if a DLL file is damaged or a particular program installs an incompatible version of a DLL file on your system.</p>
+        <p>If you are getting error messages, odds are there are multiple versions of the PSAPI.DLL file on your computer. According to Microsoft, you should have only one copy of this file on your PC and it should be in the Windows or WindowsSystem 32 folder.</p>
+        <p>Having other versions of the PSAPI.DLL file around can cause Internet Explorer 7 to crash when you start it up, as well as any other Windows programs that interact with Internet Explorer to browse sites, folders and documents.</p>
+        <p>The SmartBridge software and some Verizon DSL files in combination with some versions of Internet Explorer 7 have been known to generate error messages about the PSAPI.DLL file.</p>
+        <p>Microsoft suggests that you search your PC or check the program folder of the application that crashes for a PSAPI.DLL file. Don't do anything with the copy in your Windows or WindowsSystem 32 folder, but rename the extra copies from other programs to something like PSAPI.OLD so that they don't conflict with the file in your Windows system folder.</p>
+        <p>From Palm Desktop To Apple's iCal</p>
+        <p>Q. Is there any way to move all of my appointments from the Palm Desktop Date Book into iCal in Mac OS X?</p>
+        <p>A. Apple's iCal calendar program, included with Mac OS X, can import data from other scheduling programs. First, though, you have to export your data from the Palm Desktop program.</p>
+        <p>In Palm Desktop 4.0 or later, go to the File menu and choose Export. Give the file a name, choose ''Date Book'' from the Module pop-up menu and also choose ''All Date Book Items.'' Choose ''vCal'' as the file's format and click on the Export button to save a copy of your Date Book schedule on your computer.</p>
+        <p>Next, open the iCal program, go to the File menu and choose Import. Click on the button to ''Import a vCal file'' and click Import. Locate the vCal file you just saved from the Palm program and select it to import into iCal.</p>
+        <p>Apple's technical support site for iCal (www.apple.com/support/ical) has several articles on working with the program, including using it with a Palm organizer or iPod, or publishing your calendar to the Web.</p>
+        <p>J. D. BIERSDORFER</p>
+        <p>Q &amp; A</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Big Auto Shows Scramble for Bragging Rights</title>
+    <meta content="08BIGGER" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Automobiles" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="12" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Automobiles" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/08/automobiles/autoshow/08BIGGER.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1838747"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="descriptor">Trade Shows and Fairs</classifier>
+        <classifier class="online_producer" type="descriptor">Javits, Jacob K, Convention Center (NYC)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Javits, Jacob K, Convention Center (NYC)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Buildings (Structures)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Trade Shows and Fairs</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070408T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0DE6DE173FF93BA35757C0A9619C8B63" item-length="337" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Big Auto Shows Scramble for Bragging Rights</hl1>
+        <hl2 class="online_headline">Big Auto Shows Scramble for Bragging Rights</hl2>
+      </hedline>
+      <byline class="print_byline">By JEREMY W. PETERS</byline>
+      <byline class="normalized_byline">Peters, Jeremy W</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>DETERMINING which auto show can most accurately claim to be America's biggest is like measuring tall buildings. There are many ways to count and little agreement on which figures are best.</p>
+        <p>Before each of the big American auto shows, publicists send out a flurry of statistics about the number of trailers required to haul in the cars, the miles of lighting in the exhibit hall or the battalions of Teamsters who set everything up.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Determining which show is truly America’s biggest is like measuring tall buildings. There are many ways to count and little agreement on which figures are best.</p>
+      </block>
+      <block class="full_text">
+        <p>DETERMINING which auto show can most accurately claim to be America's biggest is like measuring tall buildings. There are many ways to count and little agreement on which figures are best.</p>
+        <p>Before each of the big American auto shows, publicists send out a flurry of statistics about the number of trailers required to haul in the cars, the miles of lighting in the exhibit hall or the battalions of Teamsters who set everything up.</p>
+        <p>The New York International Auto Show, which opened on Friday at the Jacob K. Javits Convention Center in Manhattan, calls itself the largest. But doesn't that title belong to the Motor City, which each year is host of the North American International Auto Show? Then again, the Chicago Auto Show also proudly trumpets itself as the biggest.</p>
+        <p>The New York auto show says it is the most-visited, with a claimed attendance of more than 1.2 million visitors in recent years, compared with a little more than 700,000 in Detroit. But the huge attendance number has raised some eyebrows: it means that an average of 120,000 people attend the show each of the 10 days it is open to the public. That's 10,435 visitors an hour, or 174 a minute. The promoters say the figure includes about 17,000 exhibitors and members of the press, and the rest are people who have either bought tickets or received them in a promotion.</p>
+        <p>The Detroit show is certainly the most closely watched. More than 6,700 journalists received credentials this year, getting far more attention in the global press than any competitor. A two-hour show on the show broadcast nationally by NBC attracted 6.5 million viewers this year.</p>
+        <p>Chicago claims its show is the biggest because it covers the most floor space -- some 1.3 million square feet. The exhibit hall in Detroit, Cobo Center, is only 700,000 square feet; the New York show takes up about 846,000 square feet, though plans to expand the Javits Center will presumably create much more floor space eventually.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

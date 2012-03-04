@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Usual DVR Fare Is Not News and Sports</title>
+    <meta content="30drill" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/30/technology/30drill.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1844003"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="DRILLING DOWN"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="descriptor">Television</classifier>
+        <classifier class="online_producer" type="descriptor">Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Consumer Behavior</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electronics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070430T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E5DC133EF933A05757C0A9619C8B63" item-length="213" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Usual DVR Fare Is Not News and Sports</hl1>
+        <hl2 class="online_headline">Usual DVR Fare Is Not News and Sports</hl2>
+      </hedline>
+      <byline class="print_byline">By ALEX MINDLIN</byline>
+      <byline class="normalized_byline">Mindlin, Alex</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>On April 4, the ABC series ''Lost'' had 10.8 million viewers -- less than half the audience that ''American Idol'' attracted an hour earlier on Fox. But among people using digital video recorders to defer watching TV, ''Lost'' was almost twice as popular as ''American Idol.'' Why?</p>
+        <p>Shows with content that can be quickly eclipsed by the news, broadly speaking, do not do well in DVR playback. Sports and news, for example, have almost no deferred viewing. That goes for contest shows, too.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Shows with content that can be quickly eclipsed by the news, broadly speaking, do not do well in DVR playback.</p>
+      </block>
+      <block class="full_text">
+        <p>On April 4, the ABC series ''Lost'' had 10.8 million viewers -- less than half the audience that ''American Idol'' attracted an hour earlier on Fox. But among people using digital video recorders to defer watching TV, ''Lost'' was almost twice as popular as ''American Idol.'' Why?</p>
+        <p>Shows with content that can be quickly eclipsed by the news, broadly speaking, do not do well in DVR playback. Sports and news, for example, have almost no deferred viewing. That goes for contest shows, too.</p>
+        <p>''People know the next day that Sanjaya's been voted out,'' said Brad Adgate, senior vice president for research at Horizon Media, an ad-buying agency. ''So there's an immediacy to watching it live, or as close to live as you can.''</p>
+        <p>By contrast, dramatic series like ''Lost,'' in which each episode fits into an unfolding narrative, have far more DVR viewers.</p>
+        <p>Shows geared for younger audiences are also more likely to draw in DVR users. According to figures released by Nielsen last week, DVR viewership of ''The Office'' equaled 31 percent of the show's live viewership in the first week of April, while ''Desperate Housewives'' picked up only 10.8 percent more viewers.</p>
+        <p>The ''Housewives'' viewer is, on average, eight years older than the typical viewer of ''The Office.''</p>
+        <p>ALEX MINDLIN</p>
+        <p>DRILLING DOWN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

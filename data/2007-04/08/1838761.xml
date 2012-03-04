@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Editor at Large</title>
+    <meta content="08wiwn" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838761"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="PULSE: WHAT I'M WEARING NOW"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Fashion, Beauty and Fitness</classifier>
+        <classifier class="online_producer" type="general_descriptor">Apparel</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070408T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01EFDB173FF93BA35757C0A9619C8B63" item-length="265" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Editor at Large</hl1>
+      </hedline>
+      <byline class="print_byline">By JENNIFER TUNG</byline>
+      <byline class="normalized_byline">Tung, Jennifer</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Tom Delavan, editor at large at Domino magazine, describes his personal style as a gradual regression. ''In my 20s I was working at Goldman Sachs and wearing bespoke suits,'' he said. ''In my 40s, it's all about jeans and army jackets. Now I can actually wear clothes that I want to wear because I'm actually doing something that I want to be doing.''</p>
+        <p>Mr. Delavan, 43, who produces photo shoots for Domino, strives to achieve the kind of balance in his wardrobe that he does in the rooms he styles. ''We want our pages to look polished but relaxed -- if a room looks too perfect, we'll mess up the bed a little. It's the same with my clothes. To me, a Thom Browne shirt has the right balance, because it's unironed yet custom-made.'' Too, he has replaced his bench-made shoes with Adidas out of sheer necessity. ''I spend half my day riding my motorcycle to appointments all over the city,'' he explained. ''The rest of the time I'm on shoots, moving couches and hanging paintings.''</p>
+      </block>
+      <block class="full_text">
+        <p>Tom Delavan, editor at large at Domino magazine, describes his personal style as a gradual regression. ''In my 20s I was working at Goldman Sachs and wearing bespoke suits,'' he said. ''In my 40s, it's all about jeans and army jackets. Now I can actually wear clothes that I want to wear because I'm actually doing something that I want to be doing.''</p>
+        <p>Mr. Delavan, 43, who produces photo shoots for Domino, strives to achieve the kind of balance in his wardrobe that he does in the rooms he styles. ''We want our pages to look polished but relaxed -- if a room looks too perfect, we'll mess up the bed a little. It's the same with my clothes. To me, a Thom Browne shirt has the right balance, because it's unironed yet custom-made.'' Too, he has replaced his bench-made shoes with Adidas out of sheer necessity. ''I spend half my day riding my motorcycle to appointments all over the city,'' he explained. ''The rest of the time I'm on shoots, moving couches and hanging paintings.''</p>
+        <p>Still, Mr. Delavan's work clothes aren't all utility. Here, he wears a Thom Browne shirt over a T-shirt by the New York graphic design firm Helicopter, which prints new images on vintage shirts. His jacket, which shimmers with a skull of Swarovski crystals, is by Libertine. ''I have one basic shopping rule,'' Mr. Delavan said. ''If you have the opportunity to buy something, whether it's for your home or yourself, that really makes you happy, then you should do it. This jacket really makes me happy.''</p>
+        <p>JENNIFER TUNG</p>
+        <p>PULSE: WHAT I'M WEARING NOW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

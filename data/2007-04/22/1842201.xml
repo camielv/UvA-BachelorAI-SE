@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Mortgages' Mystery: The Losses</title>
+    <meta content="22gret" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/22/business/yourmoney/22gret.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842201"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="FAIR GAME"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Management</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Markets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Subprime Lending</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="descriptor">Mortgages</classifier>
+        <classifier class="online_producer" type="descriptor">Foreclosures</classifier>
+        <classifier class="online_producer" type="descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Foreclosures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Interest Rates</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mortgages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE2DC163EF931A15757C0A9619C8B63" item-length="1054" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Mortgages' Mystery: The Losses</hl1>
+        <hl2 class="online_headline">Mortgages’ Mystery: The Losses</hl2>
+      </hedline>
+      <byline class="print_byline">By GRETCHEN MORGENSON</byline>
+      <byline class="normalized_byline">Morgenson, Gretchen</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>HAVE you noticed how quickly financial market crises come and go nowadays? Refco, the venerable commodities firm, disintegrated in a week in 2005 and last year's demise of Amaranth, a $6 billion hedge fund, took about the same amount of time. It is a measure of how deep and wide the money pools are today that the billions lost at these institutions amounted to no more than a blip on a screen.</p>
+        <p>The mortgage mess, however, has a different look and feel. As much as investors, lenders and home sellers want it to be over, it is likely to drag on.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The losses on subprime loans are there, but are unrecorded.</p>
+      </block>
+      <block class="full_text">
+        <p>HAVE you noticed how quickly financial market crises come and go nowadays? Refco, the venerable commodities firm, disintegrated in a week in 2005 and last year's demise of Amaranth, a $6 billion hedge fund, took about the same amount of time. It is a measure of how deep and wide the money pools are today that the billions lost at these institutions amounted to no more than a blip on a screen.</p>
+        <p>The mortgage mess, however, has a different look and feel. As much as investors, lenders and home sellers want it to be over, it is likely to drag on.</p>
+        <p>There are several reasons for this. Working out troubled loans one by one takes time. So does selling tracts of empty homes.</p>
+        <p>But there is also this: Because of the way mortgages are packaged into pools and sold to investors, it is still not clear who owns the faltering loans and how much money has been lost.</p>
+        <p>This episode seems to be unfolding in slow motion.</p>
+        <p>Certainly, the bad news keeps coming. Last week, we learned that foreclosure rates soared 47 percent in March over the same period in 2006.</p>
+        <p>RealtyTrac, a keeper of a database of properties in foreclosure or about to be, reported that California had 31,434 foreclosures in March, nearly triple the figure from the same period last year. Foreclosure rates in Nevada and Colorado also surged.</p>
+        <p>Fears are rising among builders as well. The National Association of Home Builders/Wells Fargo Home Price Index, a measure of builder confidence, fell to 33 in April. Last year at this time, the index stood at 51.</p>
+        <p>''The tightening of mortgage lending standards in connection with the subprime crisis has shaken the confidence of both consumers and builders,'' said David F. Seiders, the chief economist at the home builders association.</p>
+        <p>Mr. Seiders did not mention investors, but they can't be happy, either. A report from asset-backed-securities analysts at Lehman Brothers last week estimated that some $19 billion in losses are sitting in loan pools assembled in 2005, 2006 and early 2007. Most of these losses are in collateralized debt obligations, securities that invested aggressively in mortgages in recent years and that pension funds, insurance companies and hedge funds all hold.</p>
+        <p>Lehman estimates losses of $1.5 billion on 2005 issues, $11.4 billion on those from 2006 and an additional $5.9 billion from the 2007 vintage, including those still in the pipeline. Sound like a lot of money? It is: the $18.8 billion accounts for about 5.5 percent of all mortgages issued and outstanding in the period.</p>
+        <p>These figures are estimates, not actual losses, because accounting rules allow pension funds and insurance companies that hold these securities to mark their stakes at the prices they paid for them, not at the current market levels. The losses are there, but they remain unrecorded.</p>
+        <p>Only when these investors sell their holdings do they have to book the loss they incur. That's no fun, so investors are likely to hang on to their holdings as long as they can. If they need liquidity, they could be pushed to sell, of course. Another thing that could force sales: a downgrade by Moody's, Standard &amp; Poor's or Fitch Ratings, the credit rating agencies. Most pension funds and insurance companies cannot hold securities that are rated below investment grade -- ''junk'' in industry parlance.</p>
+        <p>This has not yet happened, to the immense relief of investors, no doubt. Notwithstanding all the news about defaults, delinquencies and foreclosures, the rating agencies have not downgraded many mortgage loans because, they say, they do not expect their original assumptions regarding the loans' performance to change substantially.</p>
+        <p>As Susan Barnes, a managing director at S.&amp; P., told Congress last week, the firm had downgraded just 0.3 percent of the subprime issues it rated, as of April 12. ''While we do not expect there to be widespread downgrades,'' she explained, ''if the marketplace or economy as a whole experiences further financial distress, there could be a more prolonged period of negative performance, and S.&amp; P. may need to take further rating actions.''</p>
+        <p>WHILE investors have not had to face harsh market realities, homeowners looking to refinance their loans will not be as fortunate as lenders tighten their underwriting standards and home prices soften, according to Lehman. Lehman says it expects that 20 percent to 30 percent of borrowers who took out loans last year will be unable to refinance their mortgages when the terms of their loans reset. The firm said that it expects as many as 15 percent of borrowers who struck deals in 2005 to be shut out of the mortgage market when they try to refinance.</p>
+        <p>If true, this will increase defaults on these loans significantly. Lehman estimates cumulative losses of 11.4 percent on 2006 loans and almost 13 percent on 2007 loans.</p>
+        <p>These estimates may prove high, Lehman said, if mortgage lenders and servicers offer generous loan modifications to struggling borrowers.</p>
+        <p>And last week, investors were heartened by Freddie Mac's announcement that this summer it would begin offering $20 billion in loans to borrowers trying to refinance their mortgages. Fannie Mae, another big mortgage lender, has also agreed to put money into a refinancing pot.</p>
+        <p>That's great for borrowers, but not for investors in existing mortgage pools, said Thomas A. Lawler, founder of Lawler Economic and Housing Consulting. He noted last week that these initiatives would attract the better borrowers, those who could meet more stringent lending requirements, such as being able to muster a 20 percent down payment and document appropriate income levels.</p>
+        <p>But as these people pay off their existing loans, two problems arise for investors. The prepayment of the loan means expected income from it disappears, and it also leaves mortgage pool investors with a greater proportion of troubled borrowers.</p>
+        <p>''To the extent that the availability of these programs makes it possible for better subprime borrowers to refinance away from current lenders and into a better mortgage product,'' Mr. Lawler said, ''it's hard to see how that will be beneficial to the existing holders of subordinated subprime loans.''</p>
+        <p>Fannie and Freddie, in other words, are not putting out the welcome mat for mortgage loans that should never have been made. Those remain squarely in the hands of investors. We may not know who they are. But they do.</p>
+        <p>FAIR GAME</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

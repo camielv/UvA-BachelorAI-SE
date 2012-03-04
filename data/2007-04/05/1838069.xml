@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>ROOM TO IMPROVE</title>
+    <meta content="05room" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/05/garden/05room.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1838069"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="descriptor">Lighting</classifier>
+        <classifier class="online_producer" type="descriptor">Interior Design</classifier>
+        <classifier class="online_producer" type="descriptor">Home Furnishings</classifier>
+        <classifier class="online_producer" type="general_descriptor">Home Furnishings</classifier>
+        <classifier class="online_producer" type="general_descriptor">Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Interior Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Lighting</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070405T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9403E4DC163FF936A35757C0A9619C8B63" item-length="560" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>ROOM TO IMPROVE</hl1>
+        <hl2 class="online_headline">Room to Improve</hl2>
+      </hedline>
+      <byline class="print_byline">By Tim McKeough</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Q. How high over my dining table should I hang the light fixture?</p>
+        <p>A. A pendant lamp or chandelier suspended above a dining table can provide both illumination and a sense of intimacy for people sitting down to a meal together, as long as it is hanging at the right height. Too high and you may need to turn up the light, which makes it difficult to create a cozy atmosphere; too low and you'll feel crowded.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>How high over my dining table should I hang the light fixture?</p>
+      </block>
+      <block class="full_text">
+        <p>Q. How high over my dining table should I hang the light fixture?</p>
+        <p>A. A pendant lamp or chandelier suspended above a dining table can provide both illumination and a sense of intimacy for people sitting down to a meal together, as long as it is hanging at the right height. Too high and you may need to turn up the light, which makes it difficult to create a cozy atmosphere; too low and you'll feel crowded.</p>
+        <p>Before you think about how to hang your fixture, make sure it can be controlled with a dimmer switch, so that you can change the mood of the room. Home Depot offers options under $25 that can replace a regular light switch.</p>
+        <p>When you are ready to install the light fixture, set up a stepladder or other safe platform and have someone dangle the lamp from above so you can check the height. ''The standard is generally around 30 inches from the top of the table'' to the bottom of a pendant lamp, regardless of ceiling height, said Danielle Galland, an interior design instructor at Parsons the New School for Design. But that distance can vary depending on the style of the fixture. ''You can sometimes go as high as 42 inches,'' said Ms. Galland (www.dgalland.com). ''When you sit down, you should not be looking into a bulb.''</p>
+        <p>Leave enough space between the bottom of the fixture and the top of the tallest of your candlesticks (with candles in them) and vases (with flowers). While your helper is holding the fixture in place, place those objects on the table and make sure they have at least a few inches of clearance.</p>
+        <p>A pendant light is not your only option. Elena Frampton, the co-owner of an interior design firm called Curated (www.curatedstudio.com), recently renovated an apartment in Harlem with a dining room that required a creative lighting solution.</p>
+        <p>''Here in New York, we're often presented with space limitations, such as creating a living and dining area in one room,'' Ms. Frampton said. In this case she had to find lighting that served both functions, and she also had another problem: the dining table was in front of a wall of windows, and the owners didn't want to block the view. Ms. Frampton installed a Flos Celestia light ($486.50 from the Lighting Center, 240 East 59th Street, lightingcenter-ny.com, 800-417-9860), which has a large cloud-like linen diffuser that attaches directly to the ceiling, delivering an ambient glow rather than lighting focused on the table.</p>
+        <p>If you want the fixture to hang closer to the table on some occasions and closer to the ceiling on others, you could consider an adjustable pendant. Marzais Créations, a French company, makes a large elliptical pendant on stainless steel cables, called Dune, that has a 43-inch-wide shade that can be retracted with a cord ($1,158 from Sipure Design in Miami, Fla.; 305-940-4655 or sipuredesign.com). For something a little smaller, consider YLighting's Pulley Pendant Light (now on sale for $300), which has a conical nickel shade 18 inches in diameter (866-428-9289 or ylighting.com).</p>
+        <p>Lighting a dining room is as much about creating an intimate atmosphere as it is about illuminating the food. Installing the right pendant lamp at the right height is the first step, but you should also try experimenting with candles, sconces and table lamps.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

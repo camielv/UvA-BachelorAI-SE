@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Massachusetts Will Register '04 Marriages</title>
+    <meta content="03marriage" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/03/us/03marriage.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837721"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Massachusetts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./New England</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Massachusetts</classifier>
+        <classifier class="online_producer" type="descriptor">Homosexuality</classifier>
+        <classifier class="online_producer" type="descriptor">Marriages</classifier>
+        <classifier class="online_producer" type="descriptor">States (US)</classifier>
+        <classifier class="online_producer" type="descriptor">Governors (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Governors (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">States (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Homosexuality</classifier>
+        <classifier class="online_producer" type="general_descriptor">Marriages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">Massachusetts</location>
+        <person class="online_producer">Patrick, Deval L</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070403T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9400E1DD1F30F930A35757C0A9619C8B63" item-length="358" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Massachusetts Will Register '04 Marriages</hl1>
+        <hl2 class="online_headline">Massachusetts Will Register ’04 Marriages</hl2>
+      </hedline>
+      <byline class="print_byline">By KATIE ZEZIMA</byline>
+      <byline class="normalized_byline">Zezima, Katie</byline>
+      <dateline>BOSTON, April 2</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Gov. Deval L. Patrick of Massachusetts has ordered the state Department of Public Health to register the marriages of 26 out-of-state same-sex couples whose licenses were kept from state records by the former governor.</p>
+        <p>The move is mostly symbolic, and means the certificates will be included in a bound index of marriage licenses issued in 2004. It does not change the marriages' legal status.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Gov. Deval L. Patrick has ordered the registration of 26 marriages of out-of-state same-sex couples whose licenses were kept from state records by the former governor.</p>
+      </block>
+      <block class="full_text">
+        <p>Gov. Deval L. Patrick of Massachusetts has ordered the state Department of Public Health to register the marriages of 26 out-of-state same-sex couples whose licenses were kept from state records by the former governor.</p>
+        <p>The move is mostly symbolic, and means the certificates will be included in a bound index of marriage licenses issued in 2004. It does not change the marriages' legal status.</p>
+        <p>The couples filled out marriage applications in the days following the start of same-sex marriages here on May 17, 2004. All of them were completed in four cities and towns whose clerks defied an order by Gov. Mitt Romney not to marry same-sex couples from outside Massachusetts who did not intend to move here.</p>
+        <p>A 1913 law, upheld by the state's highest court last year, forbids couples from marrying in the state if the union is not legal in their own state. Mr. Patrick said Monday that he would support repealing the law.</p>
+        <p>John Auerbach, commissioner for the health agency, which keeps marriage records, recently brought the matter to Mr. Patrick's attention.</p>
+        <p>Kyle Sullivan, a spokesman for Mr. Patrick, said: ''There was no legal basis for separating these certificates in the first place.''</p>
+        <p>Of the 26 couples, 2 were from Rhode Island, Mr. Sullivan said.</p>
+        <p>A Massachusetts superior court judge ruled in September that Rhode Island does not expressly prohibit same-sex marriages and that its residents can marry in Massachusetts. The Rhode Island attorney general, Patrick Lynch, has said his state should recognize the unions.</p>
+        <p>Eric Fehrnstrom, a Romney spokesman, said he was correct in asking that the licenses not be recorded. ''No one disputes that the law in Massachusetts does not recognize marriage between nonresident same-sex couples,'' he said.</p>
+        <p>Kris Mineau, a spokesman for the Massachusetts Family Institute, which opposes same-sex marriage, said Mr. Patrick was ''placing his personal preference above the law.''</p>
+        <p>Michelle Granda, a lawyer for Gay and Lesbian Advocates and Defenders, which filed a successful lawsuit to legalize same-sex marriage here, said, ''It's legally meaningless to some degree, but it's embracing that gay and lesbian couples can marry in Massachusetts and be treated equally under the law.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

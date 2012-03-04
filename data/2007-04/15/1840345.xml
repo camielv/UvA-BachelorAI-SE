@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Haute Rocks | You'll Always Have Paris</title>
+    <meta content="05remix.spa.vancleef.t-3" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="T: Beauty" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/15/style/tmagazine/15trocks.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840345"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE REMIX"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/T: Style Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Fashion, Beauty and Fitness</classifier>
+        <classifier class="online_producer" type="descriptor">Jewels and Jewelry</classifier>
+        <classifier class="online_producer" type="descriptor">Beauty</classifier>
+        <classifier class="online_producer" type="general_descriptor">Beauty</classifier>
+        <classifier class="online_producer" type="general_descriptor">Jewels and Jewelry</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9901E7DD123FF936A25757C0A9619C8B63" item-length="87" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Haute Rocks | You'll Always Have Paris</hl1>
+        <hl2 class="online_headline">Haute Rocks | You’ll Always Have Paris</hl2>
+      </hedline>
+      <byline class="print_byline">By CHRISTINE MUHLKE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Van Cleef &amp; Arpels is adding new facets to the City of Light with its Une Journée à Paris collection -- a day in Paris interpreted through jewels that take their inspiration from the city's best-loved landmarks, from Jardin des Tuileries to Tour Eiffel, from Avenue Montaigne to Place VendÃ$(4$)me. The line of the Pont des Arts, for example, ripples through a bracelet; the Opéra's red velvet curtain inspired a cascading ruby-and-diamond necklace. Those craving Ladurée macaroons will have to settle for baguettes.</p>
+        <p>CHRISTINE MUHLKE</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Van Cleef &amp; Arpels is adding new facets to the City of Light with its Une Journée à Paris collection.</p>
+      </block>
+      <block class="full_text">
+        <p>Van Cleef &amp; Arpels is adding new facets to the City of Light with its Une Journée à Paris collection -- a day in Paris interpreted through jewels that take their inspiration from the city's best-loved landmarks, from Jardin des Tuileries to Tour Eiffel, from Avenue Montaigne to Place VendÃ$(4$)me. The line of the Pont des Arts, for example, ripples through a bracelet; the Opéra's red velvet curtain inspired a cascading ruby-and-diamond necklace. Those craving Ladurée macaroons will have to settle for baguettes.</p>
+        <p>CHRISTINE MUHLKE</p>
+        <p>THE REMIX</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

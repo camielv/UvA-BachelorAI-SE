@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Accounts</title>
+    <meta content="16addes-1" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1840826"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="ADDENDA"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Addenda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070416T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E01E5DC113FF935A25757C0A9619C8B63" item-length="122" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Accounts</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>La-Z-Boy, Monroe, Mich., chose RPA, Santa Monica, Calif., to handle its account, which had been at Doner, Southfield, Mich., since 1994. Spending was estimated at $35 million.</p>
+        <p>Frito-Lay, Plano, Tex., part of PepsiCo, shifted the creative duties for Fritos and Tostitos snack chips to Element 79, Chicago, part of the Omnicom Group, from another Omnicom agency, GSD&amp;M, Austin, Tex. Spending was estimated at $35 million. Element 79 creates campaigns for other PepsiCo brands like Gatorade.</p>
+      </block>
+      <block class="full_text">
+        <p>La-Z-Boy, Monroe, Mich., chose RPA, Santa Monica, Calif., to handle its account, which had been at Doner, Southfield, Mich., since 1994. Spending was estimated at $35 million.</p>
+        <p>Frito-Lay, Plano, Tex., part of PepsiCo, shifted the creative duties for Fritos and Tostitos snack chips to Element 79, Chicago, part of the Omnicom Group, from another Omnicom agency, GSD&amp;M, Austin, Tex. Spending was estimated at $35 million. Element 79 creates campaigns for other PepsiCo brands like Gatorade.</p>
+        <p>Gemstar-TV Guide International, Los Angeles, hired Cramer-Krasselt, Chicago, to create campaigns for properties like TV Guide magazine, the TV Guide Channel cable network and TV Guide Online, which includes Web sites like tvguide.com and JumptheShark.com. There was no previous creative agency. Spending was estimated at $15 million.</p>
+        <p>ADDENDA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

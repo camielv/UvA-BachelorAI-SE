@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>THE COMPANY STORE</title>
+    <meta content="01suits-3" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837329"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="OPENERS: SUITS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Suits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0CEED91130F932A35757C0A9619C8B63" item-length="154" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>THE COMPANY STORE</hl1>
+      </hedline>
+      <byline class="print_byline">By MICHELLE LEDER</byline>
+      <byline class="normalized_byline">Leder, Michelle</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It is not uncommon for executives to receive discounts on their companies' products -- or even freebies. But at American Standard there is a bit of mystery surrounding exactly what two executives received.</p>
+        <p>In its proxy statement, the company disclosed that its chief executive, Frederic M. Poses, received a $7,800 tax gross-up to compensate him for the taxes he would have owed on free products. No description was provided of the products.</p>
+      </block>
+      <block class="full_text">
+        <p>It is not uncommon for executives to receive discounts on their companies' products -- or even freebies. But at American Standard there is a bit of mystery surrounding exactly what two executives received.</p>
+        <p>In its proxy statement, the company disclosed that its chief executive, Frederic M. Poses, received a $7,800 tax gross-up to compensate him for the taxes he would have owed on free products. No description was provided of the products.</p>
+        <p>James Dwyer, senior vice president, received $33,000 worth of company products and a $19,000 tax gross-up before he stepped down in September, according to the proxy. Again, the nature of these products was not specified. American Standard is one of the world's largest manufacturers of toilets. It also makes other products for the home, like sinks and bathtubs.</p>
+        <p>Skip Colcord, a company spokesman, would say only that the two men received ''residential air-conditioning and/or bath and kitchen products.''</p>
+        <p>MICHELLE LEDER</p>
+        <p>OPENERS: SUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

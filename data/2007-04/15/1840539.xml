@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Catching a Second Wind at Quarter's End</title>
+    <meta content="15stra" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/15/business/yourmoney/15stra.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840539"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="STRATEGIES"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Strategies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Markets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="descriptor">Mutual Funds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mutual Funds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE3D6133FF936A25757C0A9619C8B63" item-length="654" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Catching a Second Wind at Quarter's End</hl1>
+        <hl2 class="online_headline">Catching a Second Wind at Quarter’s End</hl2>
+      </hedline>
+      <byline class="print_byline">By MARK HULBERT</byline>
+      <byline class="normalized_byline">Hulbert, Mark</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE best-performing stocks of the recent past tend to keep beating the market -- just as past losers continue to lag behind. But why?</p>
+        <p>A new study finds a major cause of this so-called momentum effect in the moves made at the end of each calendar quarter by mutual funds, pension funds and other large institutions as they try to make themselves look more attractive to investors. The study, ''Causes and Seasonality of Momentum Profits,'' appears in the March-April issue of the Financial Analysts Journal. Its author is Richard Sias, a professor of finance at Washington State University.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The best-performing stocks of the recent past tend to keep beating the market  just as past losers continue to lag behind. But why?</p>
+      </block>
+      <block class="full_text">
+        <p>THE best-performing stocks of the recent past tend to keep beating the market -- just as past losers continue to lag behind. But why?</p>
+        <p>A new study finds a major cause of this so-called momentum effect in the moves made at the end of each calendar quarter by mutual funds, pension funds and other large institutions as they try to make themselves look more attractive to investors. The study, ''Causes and Seasonality of Momentum Profits,'' appears in the March-April issue of the Financial Analysts Journal. Its author is Richard Sias, a professor of finance at Washington State University.</p>
+        <p>Professor Sias found that the momentum effect was concentrated in just four months of the year: March, June, September and December. For each month from April 1984 through December 2004, he calculated the difference between the average performance of two groups of stocks: the 10 percent with the best returns over the previous six months, and the 10 percent with the worst. He defined the momentum effect as the difference between these two average returns.</p>
+        <p>In the average quarter-ending month over this two-decade period, Professor Sias found that the momentum effect averaged 3.1 percent. That's equal to nearly 44 percent, annualized.</p>
+        <p>But among all the other months of the year, on average, the relationship reversed, with the group of stocks containing the previous winners underperforming the group containing the previous losers.</p>
+        <p>This marked seasonality suggested to Professor Sias that institutional investors were playing a large role. At the end of each quarter, he pointed out in his study, such investors often sell stocks that have performed poorly and buy those that have done well -- in order to project a more favorable impression in their lists of holdings in end-of-quarter reports.</p>
+        <p>This window-dressing causes previous winners to keep performing better than they otherwise would, and causes previous losers to perform worse.</p>
+        <p>In an interview, Professor Sias said the seasonal fluctuations of the momentum effect could also be caused by something else that some mutual funds do at the end of a quarter. Known as ''marking the close,'' funds sometimes place buy orders in the last moments of a quarter on stocks they already own. This is done, he said, to push those stocks' prices higher, in turn bolstering the fund's quarterly or yearly ranking.</p>
+        <p>The momentum effect in the stock market has strengthened over the years, Professor Sias said. Consider what he found when comparing the effect's magnitude in two periods: the first from mid-1963 to March 1984 and the second from April 1984 to the end of 2004. The momentum effect was much stronger for quarter-ending months and weaker for other months during the later period.</p>
+        <p>This is exactly what we should expect, Professor Sias said, given the growth in the institutional share of stock ownership and trading.</p>
+        <p>In 1950, he said, institutions owned just 7 percent of the total market capitalization of stocks listed on the New York Stock Exchange. That figure grew to 28 percent by 1970 and is near 50 percent today. Institutions' share of trading volume has also grown, Professor Sias said; they now account for some 70 percent of all trades.</p>
+        <p>THE study suggests a strategy for investors who want to exploit the momentum effect. First, they ''should focus their efforts on quarter-ending months,'' Professor Sias said.</p>
+        <p>Whether that means they should stay out of the stock market during the other months of the year, holding only cash, depends on their particular circumstances -- tax considerations, for example, or the magnitude of the transaction costs they incur. But at a minimum, Professor Sias said, momentum investors ''should have lowered expectations in those other months.''</p>
+        <p>Second, they should concentrate on stocks ''with high levels of institutional trading,'' which are more likely to show a strong momentum pattern than stocks that big institutions don't own. Data on institutional ownership and trading of stocks are freely available at sites like MSN.com and Reuters.com.</p>
+        <p>STRATEGIES Mark Hulbert is editor of The Hulbert Financial Digest, a service of MarketWatch. E-mail: strategy@nytimes.com.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Mark Hulbert is editor of The Hulbert Financial Digest, a service of MarketWatch. E-mail: strategy@nytimes.com.</tagline>
+    </body.end>
+  </body>
+</nitf>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="CXN.t-2" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts; Corrections; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1839016"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070408T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE1D71130F93BA35757C0A9619C8B63" item-length="70" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A profile on March 25 about the rare-book and archives dealer Glenn Horowitz referred incompletely to M.G. Lord, his first wife. Her last work in the field of political cartooning was some 15 years ago; she is known today as a writer.</p>
+        <p>The profile also misstated the year that the University of Texas in Austin acquired the Watergate notebooks of Bob Woodward and Carl Bernstein. It was 2003, not 2004.</p>
+      </block>
+      <block class="full_text">
+        <p>A profile on March 25 about the rare-book and archives dealer Glenn Horowitz referred incompletely to M.G. Lord, his first wife. Her last work in the field of political cartooning was some 15 years ago; she is known today as a writer.</p>
+        <p>The profile also misstated the year that the University of Texas in Austin acquired the Watergate notebooks of Bob Woodward and Carl Bernstein. It was 2003, not 2004.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

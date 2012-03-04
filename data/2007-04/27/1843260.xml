@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>THE CHURN</title>
+    <meta content="27churn" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1843260"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Human Resources</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Management</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070427T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980DEFDE123EF934A15757C0A9619C8B63" item-length="297" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>THE CHURN</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>People</p>
+        <p>James W. Hirschmann III is stepping down as president and chief operating officer of Legg Mason. He will remain chief executive of the company's bond unit, the Western Asset Management Company. Raymond A. Mason, Legg Mason's chairman and chief executive, will serve as president.</p>
+      </block>
+      <block class="full_text">
+        <p>People</p>
+        <p>James W. Hirschmann III is stepping down as president and chief operating officer of Legg Mason. He will remain chief executive of the company's bond unit, the Western Asset Management Company. Raymond A. Mason, Legg Mason's chairman and chief executive, will serve as president.</p>
+        <p>JPMorgan Chase has hired Joe Jiampietro from UBS. Mr. Jiampietro will join JPMorgan in July as a managing director in its banks coverage team.</p>
+        <p>ICAP has appointed Hervé Geny as global head of risk. Mr. Geny was previously head of the global risk management specialists group at Moody's Investor Services in New York.</p>
+        <p>Eric Palley has joined BNP Paribas as co-head of its Americas pensions team in New York. He joins from Buck Consultants.</p>
+        <p>Lloyd N. Hand, chief of protocol under President Lyndon Johnson, and Dan Donovan, former senior investigative counsel for the Senate Finance Committee, have joined King &amp; Spalding's government advocacy and public policy practice group in Washington. Mr. Hand joins as senior counsel, and Mr. Donovan as counsel.</p>
+        <p>Debevoise &amp; Plimpton has named Naftali T. Leshkowitz counsel in its New York office and has named Eric Bérengier international counsel in its Paris office.</p>
+        <p>Mark E. Waddell, a patent litigator, has joined Loeb &amp; Loeb's New York office as a partner. He joins from Sonnenschein Nath &amp; Rosenthal.</p>
+        <p>The Jefferies Group has hired Justin van Wijngaarden, formerly of Lehman Brothers, as chief operating officer and chief financial officer of its Jefferies International subsidiary, based in London.</p>
+        <p>Carol Schafer and Darren Langis are joining Wachovia Securities as managing directors in the equity division in New York.</p>
+        <p>Third Avenue Management, an investment adviser to private and institutional clients, has promoted Yang Lie to director of research, a new position.</p>
+        <p>Aspen Insurance Holdings Ltd. has named Matthew Yeldham head of international insurance.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

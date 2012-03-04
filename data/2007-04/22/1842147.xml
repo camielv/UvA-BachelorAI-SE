@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Jessica Bailey, Brian Inglis</title>
+    <meta content="22Bailey" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/22/fashion/weddings/22Bailey.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842147"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Bailey, Jessica Elizabeth</person>
+        <person class="indexing_service">Inglis, Brian Thomas</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A01E0DF163EF931A15757C0A9619C8B63" item-length="232" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Jessica Bailey, Brian Inglis</hl1>
+        <hl2 class="online_headline">Jessica Bailey, Brian Inglis</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Jessica Elizabeth Bailey and Brian Thomas Inglis were married yesterday at Emmanuel Church in Newport, R.I. The Rev. Everett Greene, an Episcopal priest, officiated.</p>
+        <p>The bride, 30, will continue to use her name professionally. She is an eighth-grade special education teacher at the Fox Lane Middle School in Bedford, N.Y. She graduated from Franklin &amp; Marshall College and received a master's degree in special education from Bank Street College.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Jessica Elizabeth Bailey and Brian Thomas Inglis were married yesterday at Emmanuel Church in Newport, R.I. The Rev. Everett Greene, an Episcopal priest, officiated.</p>
+      </block>
+      <block class="full_text">
+        <p>Jessica Elizabeth Bailey and Brian Thomas Inglis were married yesterday at Emmanuel Church in Newport, R.I. The Rev. Everett Greene, an Episcopal priest, officiated.</p>
+        <p>The bride, 30, will continue to use her name professionally. She is an eighth-grade special education teacher at the Fox Lane Middle School in Bedford, N.Y. She graduated from Franklin &amp; Marshall College and received a master's degree in special education from Bank Street College.</p>
+        <p>She is the daughter of Elizabeth B. Bailey and Frederik L. Bailey of Bedford Hills, N.Y. Her father is the director of sales at Invision Communications, a New York firm that plans and produces meetings for large corporations. He is also an executive career coach. Her mother is the guidance counselor for Western Connecticut Regional Adult and Continuing Education, a program in Danbury Conn., that counsels dropouts and students who have been removed from regular school. She is also a councilwoman for the Town of Bedford.</p>
+        <p>The bridegroom, 29, is the chief executive and a founder of Elite-Recruiting.com of White Plains, an online consulting firm for high school athletes who are seeking college scholarships. He graduated from Cornell.</p>
+        <p>He is the son of Christine C. Inglis and W. Thomas Inglis Jr. of Huntington, N.Y. His mother is a guidance counselor at Half Hollow Hills High School East in Dix Hills, N.Y. His father is the manager of the Cornell Club in New York.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

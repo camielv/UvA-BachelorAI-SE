@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>National Briefing | South: Florida: Campuses Evacuated After Threat</title>
+    <meta content="28brfs-2" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Education; U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/28/us/28brfs-threat.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1843461"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="indexing_service" type="descriptor">Threats and Threatening Messages</classifier>
+        <location class="indexing_service">Florida</location>
+        <org class="indexing_service">Broward Community College</org>
+        <org class="indexing_service">Florida Atlantic University</org>
+        <org class="indexing_service">Virginia Polytechnic Institute and State University</org>
+        <person class="indexing_service">Aguayo, Terry</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Florida</classifier>
+        <classifier class="online_producer" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="descriptor">Threats and Threatening Messages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Threats and Threatening Messages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <location class="online_producer">Florida</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070428T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D04E4D6123EF93BA15757C0A9619C8B63" item-length="136" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>National Briefing | South: Florida: Campuses Evacuated After Threat</hl1>
+        <hl2 class="online_headline">Florida: Campuses Evacuated After Threat</hl2>
+      </hedline>
+      <byline class="print_byline">By TERRY AGUAYO</byline>
+      <byline class="normalized_byline">Aguayo, Terry</byline>
+      <abstract>
+        <p>Six campuses of Broward Community College and two campuses of Florida Atlantic University are evacuated and searched by police after note threatening attack similar to Virginia Tech killings was found (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>All six campuses of Broward Community College and two university campuses in South Florida were evacuated and searched by the police after a note threatening an attack was found. The note, mentioning the Virginia Tech killings and threatening a similar attack at the community college, was written on a poster board and found at a Hollywood construction site, said Capt. Tony Rode, a spokesman for the Hollywood police. Florida Atlantic University officials evacuated two campuses that share space with the community college. Earlier this week, the police arrested a man they say admitted writing a note threatening to bomb a Hollywood middle school and another one threatening to set fire to an apartment building. The man, Larry Boynton, 52, is considered a person of interest in the college threat, Captain Rode said.</p>
+        <p>TERRY AGUAYO</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>All six campuses of Broward Community College and two university campuses in South Florida were evacuated and searched by the police after a note threatening an attack was found. The note, mentioning the Virginia Tech killings and threatening a similar attack at the community college, was written on a poster board and found at a Hollywood construction site, said Capt. Tony Rode, a spokesman for the Hollywood police. Florida Atlantic University officials evacuated two campuses that share space with the community college. Earlier this week, the police arrested a man they say admitted writing a note threatening to bomb a Hollywood middle school and another one threatening to set fire to an apartment building. The man, Larry Boynton, 52, is considered a person of interest in the college threat, Captain Rode said.</p>
+      </block>
+      <block class="full_text">
+        <p>All six campuses of Broward Community College and two university campuses in South Florida were evacuated and searched by the police after a note threatening an attack was found. The note, mentioning the Virginia Tech killings and threatening a similar attack at the community college, was written on a poster board and found at a Hollywood construction site, said Capt. Tony Rode, a spokesman for the Hollywood police. Florida Atlantic University officials evacuated two campuses that share space with the community college. Earlier this week, the police arrested a man they say admitted writing a note threatening to bomb a Hollywood middle school and another one threatening to set fire to an apartment building. The man, Larry Boynton, 52, is considered a person of interest in the college threat, Captain Rode said.</p>
+        <p>TERRY AGUAYO</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Times Co., Gannett and Tribune Co. Report Declines</title>
+    <meta content="20paper" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/20/business/media/20paper.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1841582"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+        <org class="online_producer">Gannett Co</org>
+        <org class="online_producer">Tribune Company</org>
+        <org class="online_producer">New York Times</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070420T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9504E3D81F3FF933A15757C0A9619C8B63" item-length="604" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Times Co., Gannett and Tribune Co. Report Declines</hl1>
+        <hl2 class="online_headline">Times Co., Gannett and Tribune Co. Report Declines</hl2>
+      </hedline>
+      <byline class="print_byline">By LANDON THOMAS Jr.</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Buffeted by an ongoing advertising recession, The New York Times Company and the Gannett Company announced yesterday that their first-quarter profits declined while the Tribune Company reported a loss.</p>
+        <p>The disappointing results underscored the increasingly tough economic times faced by the industry as advertisers continued to shift their focus away from print to the Internet. In particular, areas like real estate and classified, previously rich revenue generators for newspapers, continued to be weak.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The industry continues to face tough times as advertisers shift their focus away from print to the Internet.</p>
+      </block>
+      <block class="full_text">
+        <p>Buffeted by an ongoing advertising recession, The New York Times Company and the Gannett Company announced yesterday that their first-quarter profits declined while the Tribune Company reported a loss.</p>
+        <p>The disappointing results underscored the increasingly tough economic times faced by the industry as advertisers continued to shift their focus away from print to the Internet. In particular, areas like real estate and classified, previously rich revenue generators for newspapers, continued to be weak.</p>
+        <p>The New York Times Company reported a 26 percent decline in its first-quarter profit. Earnings were $23.9 million, compared with $32.4 million last year. Stripping out special items like staff reduction costs, an accelerated depreciation charge and a tax adjustment, the company's earnings of 25 cents a share were the same as a year ago.</p>
+        <p>Within the Times Company's news media group, which includes The New York Times and The Boston Globe, overall advertising revenue decreased by 4.3 percent. Advertising revenue at The New York Times Media Group declined 3.5 percent, and it was down 4.2 percent at The New England Media Group.</p>
+        <p>While newspaper companies have been eager to highlight how fast their Internet advertising is growing, the Times Company decided to reduce its 2007 guidance for Internet revenue growth, suggesting that the transition from a print advertising model may be a long time coming.</p>
+        <p>''Clearly this is not going to be a bang-up year for the newspaper business,'' said John Morton, an independent newspaper analyst. ''There is stiff competition for Internet advertising, and the transition will take longer and may well be less profitable than was anticipated.''</p>
+        <p>In a statement, Janet L. Robinson, the chief executive of the Times Company, described the advertising environment as ''difficult.'' She also mentioned the recent 31 percent increase in the company's dividend and said that the company's dividend yield of 4 percent was above its peers.</p>
+        <p>The Times Company, which has its annual meeting next week, is facing investor criticism over its stock performance and its broader investment strategies.</p>
+        <p>She said that Internet revenue rose 22 percent and was now 10 percent of the company's total revenue. The company had originally forecast 2007 Internet revenue growth to be 30 percent.</p>
+        <p>Asked on a conference call what the company planned to do with the $575 million it had raised via the pending sale of its television stations, Ms. Robinson said that debt reduction was one possibility -- the Times Company currently has $1.4 billion in debt -- and that others included investments and acquisitions. She also said that ''we are looking at a repurchase of stock.''</p>
+        <p>The Tribune Company, which publishes The Chicago Tribune and The Los Angeles Times, reported a loss of $15.6 million after paying a series of nonoperating charges related to severance payments and making an adjustment in the value of a company investment.</p>
+        <p>Real estate advertising was down 15 percent and classified advertising was of 14 percent, underscoring the difficult advertising environment faced by publishers.</p>
+        <p>''The print advertising environment was challenging in the first quarter due to softness in classified categories,'' said Dennis J. FitzSimons, the chief of the Tribune Company, which last month agreed to a deal with the real estate investor Samuel Zell to be taken private.</p>
+        <p>Gannett, which publishes USA Today, reported a 10.5 percent decline in its first-quarter profit, as income fell from $235.3 million to $210.6 million. Earnings declined to 90 cents a share, from 99 cents.</p>
+        <p>Advertising revenue was 8 percent lower compared with the previous year, a downturn the company attributed to an advertising spike in 2005 related to the Olympic Games as well as the weak domestic real estate market.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

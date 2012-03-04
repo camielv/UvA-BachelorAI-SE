@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="23vatech--refer" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1842449"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070423T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0DE5D8173EF930A15757C0A9619C8B63" item-length="211" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Seeking a Return to Normal  At Virginia Tech, students and teachers prepared to return to class today. At Korean-American churches, congregants reflected on the fact that a Korean student had killed 32 people last week.</p>
+        <p>PAGE A14</p>
+        <p>Rethinking a Plea Deal  In 2002, John Walker Lindh, who served as a Taliban soldier, made a deal to serve 20 years in prison. Today, the deal does not look as good. ''Sidebar,'' by Adam Liptak.</p>
+        <p>PAGE A12</p>
+        <p>Halt Ordered to Baghdad Wall  After criticism from both Sunni Arab and Shiite parties, Prime Minister Nuri Kamal al-Maliki of Iraq ordered a halt to construction of a wall around a Sunni neighborhood in Baghdad, saying it reminded people of ''other walls.''</p>
+        <p>PAGE A6</p>
+        <p>Plan for a Greener New York  In a plan to create ''the first environmentally sustainable 21st-century city,'' Mayor Michael R. Bloomberg proposed 127 projects, regulations and innovations.</p>
+        <p>PAGE B1</p>
+        <p>Specter Critical of Gonzales  Senator Arlen Specter, top Republican on the Judiciary Committee, said Attorney General Alberto R. Gonzales's presence was ''bad for the Justice Department.''</p>
+        <p>PAGE A14</p>
+        <p>Push for Legal Gay Marriage  Gov. Eliot Spitzer is expected to introduce a bill to legalize same-sex marriage in New York, propelling the state to the forefront of a politically contentious issue.</p>
+        <p>PAGE B1</p>
+      </block>
+      <block class="full_text">
+        <p>Seeking a Return to Normal  At Virginia Tech, students and teachers prepared to return to class today. At Korean-American churches, congregants reflected on the fact that a Korean student had killed 32 people last week.</p>
+        <p>PAGE A14</p>
+        <p>Rethinking a Plea Deal  In 2002, John Walker Lindh, who served as a Taliban soldier, made a deal to serve 20 years in prison. Today, the deal does not look as good. ''Sidebar,'' by Adam Liptak.</p>
+        <p>PAGE A12</p>
+        <p>Halt Ordered to Baghdad Wall  After criticism from both Sunni Arab and Shiite parties, Prime Minister Nuri Kamal al-Maliki of Iraq ordered a halt to construction of a wall around a Sunni neighborhood in Baghdad, saying it reminded people of ''other walls.''</p>
+        <p>PAGE A6</p>
+        <p>Plan for a Greener New York  In a plan to create ''the first environmentally sustainable 21st-century city,'' Mayor Michael R. Bloomberg proposed 127 projects, regulations and innovations.</p>
+        <p>PAGE B1</p>
+        <p>Specter Critical of Gonzales  Senator Arlen Specter, top Republican on the Judiciary Committee, said Attorney General Alberto R. Gonzales's presence was ''bad for the Justice Department.''</p>
+        <p>PAGE A14</p>
+        <p>Push for Legal Gay Marriage  Gov. Eliot Spitzer is expected to introduce a bill to legalize same-sex marriage in New York, propelling the state to the forefront of a politically contentious issue.</p>
+        <p>PAGE B1</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

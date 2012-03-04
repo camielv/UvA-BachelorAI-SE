@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Mystery of Vanishing Bees</title>
+    <meta content="01lett-1" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1844318"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070501T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F01E1D6133EF932A35756C0A9619C8B63" item-length="153" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Mystery of Vanishing Bees</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Bees Vanish; Scientists Race for Reasons'' (April 24): As a child, I was fascinated by the honeybees in our backyard. I wondered how such tiny beings were able to visit hundreds of flowers each day and find their way back home.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Bees Vanish; Scientists Race for Reasons'' (April 24): As a child, I was fascinated by the honeybees in our backyard. I wondered how such tiny beings were able to visit hundreds of flowers each day and find their way back home.</p>
+        <p>The collapsing bee colonies in the United States are today's canaries in the coal mine. It is not surprising that bees which are transported by truck around the country and fed high-fructose corn syrup have compromised immune systems.</p>
+        <p>As human beings proliferate, modifying crops in an effort to get an ever higher yield, spraying toxic pesticides and transforming thousands of acres of natural land into suburbs and strip malls, we risk bringing folly upon ourselves and all other species. It is time we learn to live in balance with nature rather than attempting to manipulate it to serve only our ends.</p>
+        <p>Tim Boland  Lake Stevens, Wash.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

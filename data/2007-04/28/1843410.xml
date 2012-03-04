@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="28enron--refer" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1843410"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070428T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE2D8123EF93BA15757C0A9619C8B63" item-length="170" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Growth Slows in Quarter  Economic growth has slowed to its weakest pace in four years. Gross domestic product grew 1.3 percent in the first quarter, about half the rate of the previous quarter.</p>
+        <p>PAGE C1</p>
+        <p>Japan War Victims' Cases Fail  Japan's highest court denied compensation to wartime sex slaves and forced laborers from China but acknowledged the coercion.</p>
+        <p>PAGE A8</p>
+        <p>Under Fire, Actor Hits Back  Alec Baldwin, assailed after his tirade to his young daughter, goes on the offensive. The TV Watch by Alessandra Stanley.</p>
+        <p>PAGE B7</p>
+        <p>A New Perspective on Iraq  In ''At the Center of the Storm,'' George J. Tenet, the former C.I.A. director, says he doubts that weapons of mass destruction were the principal cause of the decision to go to war with Iraq. Michiko Kakutani's review.</p>
+        <p>THE ARTS, PAGE B7</p>
+        <p>THIS WEEKEND</p>
+        <p>Inner Journeys  A visit to the pyramids in Egypt is one of a growing number of New Age-style package trips to sacred sites around the world that focus on the spiritual.</p>
+        <p>TRAVEL</p>
+      </block>
+      <block class="full_text">
+        <p>Growth Slows in Quarter  Economic growth has slowed to its weakest pace in four years. Gross domestic product grew 1.3 percent in the first quarter, about half the rate of the previous quarter.</p>
+        <p>PAGE C1</p>
+        <p>Japan War Victims' Cases Fail  Japan's highest court denied compensation to wartime sex slaves and forced laborers from China but acknowledged the coercion.</p>
+        <p>PAGE A8</p>
+        <p>Under Fire, Actor Hits Back  Alec Baldwin, assailed after his tirade to his young daughter, goes on the offensive. The TV Watch by Alessandra Stanley.</p>
+        <p>PAGE B7</p>
+        <p>A New Perspective on Iraq  In ''At the Center of the Storm,'' George J. Tenet, the former C.I.A. director, says he doubts that weapons of mass destruction were the principal cause of the decision to go to war with Iraq. Michiko Kakutani's review.</p>
+        <p>THE ARTS, PAGE B7</p>
+        <p>THIS WEEKEND</p>
+        <p>Inner Journeys  A visit to the pyramids in Egypt is one of a growing number of New Age-style package trips to sacred sites around the world that focus on the spiritual.</p>
+        <p>TRAVEL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

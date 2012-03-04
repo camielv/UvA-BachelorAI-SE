@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New Call for Justice in Poison Case</title>
+    <meta content="04spy" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837976"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Polonium</classifier>
+        <classifier class="indexing_service" type="descriptor">Poisoning and Poisons</classifier>
+        <classifier class="indexing_service" type="descriptor">Radiation</classifier>
+        <location class="indexing_service">Russia</location>
+        <location class="indexing_service">Great Britain</location>
+        <person class="indexing_service">Litvinenko, Alexander V</person>
+        <person class="indexing_service">Litvinenko, Marina</person>
+        <person class="indexing_service">Cowell, Alan</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Russia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/United Kingdom</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Russia and the Former Soviet Union</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Great Britain</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Britain</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Russia</classifier>
+        <classifier class="online_producer" type="general_descriptor">Radiation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Poisoning and Poisons</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070404T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F05E4D71F30F937A35757C0A9619C8B63" item-length="360" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New Call for Justice in Poison Case</hl1>
+      </hedline>
+      <byline class="print_byline">By ALAN COWELL</byline>
+      <byline class="normalized_byline">Cowell, Alan</byline>
+      <dateline>LONDON, April 3</dateline>
+      <abstract>
+        <p>Wife and associates of Alexander V Litvinenko, former KGB agent who died in London in November after ingesting rare radioactive isotope, establish foundation to demand justice; express concern that Britain and Russia may allow Litvinenko's killers to avoid trial (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The widow and associates of Alexander V. Litvinenko, who was poisoned in London in November, said Tuesday that they had established a foundation to demand justice and expressed worries that Britain and Russia might allow his killers to avoid trial.</p>
+        <p>Mr. Litvinenko, 43, a former K.G.B. agent, died Nov. 23 after ingesting polonium 210, a rare radioactive isotope.</p>
+      </block>
+      <block class="full_text">
+        <p>The widow and associates of Alexander V. Litvinenko, who was poisoned in London in November, said Tuesday that they had established a foundation to demand justice and expressed worries that Britain and Russia might allow his killers to avoid trial.</p>
+        <p>Mr. Litvinenko, 43, a former K.G.B. agent, died Nov. 23 after ingesting polonium 210, a rare radioactive isotope.</p>
+        <p>''Until the method of this absolutely new type of killing involving a nuclear microbomb is uncovered, not a single person in the U.K. or elsewhere in the world can feel safe against a similar murder,'' said Boris A. Berezovsky, a self-exiled Russian tycoon who said he donated $1 million to the new organization, the Litvinenko Justice Foundation.</p>
+        <p>The other trustees are Marina Litvinenko, the former agent's widow, and Alex Goldfarb, an aide to Mr. Berezovsky. Mrs. Litvinenko is also being advised by a British human rights lawyer, Louise Christian, suggesting that supporters want to treat the case as a human rights issue.</p>
+        <p>Mr. Litvinenko worked for Mr. Berezovsky before and after each fled Russia in 2000. Like Mr. Litvinenko, Mr. Berezovsky has said he blames the Russian president, Vladimir V. Putin, for the poisoning, a charge the Kremlin has labeled nonsense.</p>
+        <p>The British government ''must uncover this crime or risk being seen as incapable of protecting the residents of this country,'' Mr. Berezovsky said at a news conference here to inaugurate the foundation.</p>
+        <p>The British police and the Russian prosecutor general have started inquiries, but the British inquiry has slowed while the Russian authorities have made clear they will not extradite Russians for trial in Britain.</p>
+        <p>''It would be unthinkable if there were to be immunity for such a dreadful crime committed on British soil,'' Ms. Christian said, reflecting concern that the inquiries might lead to a stalemate, with neither side able or willing to bring suspects to trial.</p>
+        <p>The Litvinenko Justice Foundation (www.litvinenko.org.uk) said it had sent a letter on Monday to senior British leaders, including Prime Minister Tony Blair, urging them to do ''everything possible to make sure that suspects will stand trial in the U.K. and will not be shielded from justice by the Russian state.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

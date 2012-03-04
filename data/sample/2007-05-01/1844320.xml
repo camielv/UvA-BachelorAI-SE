@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Adolescents and Medicine</title>
+    <meta content="01lett-3" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1844320"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070501T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E1D6133EF932A35756C0A9619C8B63" item-length="128" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Adolescents and Medicine</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Treating the Awkward Years'' (April 24): As a teenager and patient, I was interested to read the recent article on adolescent medicine. However, while the article suggested that adolescents need specially trained doctors who can discuss ''teenagers' issues,'' I find that the problem lies not in what doctors discuss with us but in how they discuss it.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Treating the Awkward Years'' (April 24): As a teenager and patient, I was interested to read the recent article on adolescent medicine. However, while the article suggested that adolescents need specially trained doctors who can discuss ''teenagers' issues,'' I find that the problem lies not in what doctors discuss with us but in how they discuss it.</p>
+        <p>I don't expect my doctor to be my therapist, as this article seemed to suggest. I simply expect him to meet my eyes when he speaks to me, explain why I must take certain medications or have certain tests done, and to listen my concerns. All of this is well within the ability, indeed, the responsibility, of a pediatrician or family practitioner.</p>
+        <p>Francesca Schiavone  Brooklyn</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

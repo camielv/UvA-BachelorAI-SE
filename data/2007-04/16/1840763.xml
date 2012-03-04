@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Big Medical Step, Starting With the City's Poor</title>
+    <meta content="16info" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Health; New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/16/nyregion/16info.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840763"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./New England</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicaid</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Doctors</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Health Insurance and Managed Care</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="descriptor">Medicaid</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicaid</classifier>
+        <classifier class="online_producer" type="general_descriptor">Doctors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Health Insurance and Managed Care</classifier>
+        <classifier class="online_producer" type="general_descriptor">Archives and Records</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <location class="online_producer">New York City</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070416T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0DE5DE113FF935A25757C0A9619C8B63" item-length="571" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Big Medical Step, Starting With the City's Poor</hl1>
+        <hl2 class="online_headline">Big Medical Step, Starting With the City’s Poor</hl2>
+      </hedline>
+      <byline class="print_byline">By RICHARD P�REZ-PE�A</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>For years, policymakers have said that the next big step in American health care should be electronic records systems that remind doctors and patients about needed care, and make it easier for doctors to share information with one another.</p>
+        <p>New York City officials today are to announce what they hope is a leap in that direction, far beyond what any other part of the country has attempted, by providing free software to doctors who treat hundreds of thousands of people. And defying the usual pattern of wealthy patients benefiting first from technological advances, the city is starting with the poor.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>New York City officials are planning to introduce a software system that can alert doctors when patients are due for preventive care.</p>
+      </block>
+      <block class="full_text">
+        <p>For years, policymakers have said that the next big step in American health care should be electronic records systems that remind doctors and patients about needed care, and make it easier for doctors to share information with one another.</p>
+        <p>New York City officials today are to announce what they hope is a leap in that direction, far beyond what any other part of the country has attempted, by providing free software to doctors who treat hundreds of thousands of people. And defying the usual pattern of wealthy patients benefiting first from technological advances, the city is starting with the poor.</p>
+        <p>''We will cover half of all the high-volume Medicaid providers in the city, those where over 30 percent of their patient encounters are Medicaid or the uninsured,'' said Farzad Mostashari, an assistant city health commissioner overseeing the project.</p>
+        <p>Over the next two years, the city's Department of Health and Mental Hygiene will distribute the software to about 1,500 medical practices, from small neighborhood doctors' offices to large clinics, including the medical offices at the Rikers Island jail. City officials, and makers of patient records software, said they do not believe any state or large local government has tried such a thing.</p>
+        <p>The department spent months shopping for an electronic records system before awarding a $19.8 million contract to eClinicalWorks, a Massachusetts company that is a sales leader in the field. The medical practices will have to supply the computers. Some already have the equipment. Others that do not might qualify for a state program that awards grants to upgrade medical technology.</p>
+        <p>Many doctors' offices have computer systems for billing and scheduling, but most do not have software for patient care. The software the city is buying combines all those functions, Dr. Mostashari said.</p>
+        <p>The project is intended to address one of the biggest flaws in modern medicine, that even people who have regular doctors often do not get preventive care. For instance, every year, tens of millions of Americans fail to get recommended flu and pneumonia vaccines, and surveys have shown that many doctors fail to ask patients who smoke whether they want help quitting.</p>
+        <p>''As a doctor, I'm likely to pay attention to the patient's acute complaint, and not to notice, 'Oh, my goodness, she hasn't had a mammogram,' '' Dr. Mostashari said. ''The computer never forgets, and it will remind me.''</p>
+        <p>The system can alert doctors when patients are due for preventive care and then the doctor can advise the patient.</p>
+        <p>With an electronic records system, a doctor or nurse would, ideally, have a computer at hand when seeing a patient, and would record findings with a keyboard, not a pen. (There are even blood pressure cuffs and thermometers that automatically send their readings to computers, but the city will not pay for those.)</p>
+        <p>The Department of Health and Mental Hygiene plans to compile the information in the systems, and tell each practice how it is doing at making sure its patients are receiving routine care.</p>
+        <p>One of the biggest problems with electronic records has been that different software systems cannot communicate with one another -- so that, for example, an emergency room doctor might not be able to instantly call up records kept by a patient's cardiologist. Dr. Mostashari said that no program available commercially is trouble-free on that score, but that creating a network of so many doctors using the same system is a start.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

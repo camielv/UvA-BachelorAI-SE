@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Trio Celebrating Its 30th Anniversary</title>
+    <meta content="17trio" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/17/arts/music/17trio.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840921"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MUSIC REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews/Classical</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="descriptor">Classical Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Classical Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <org class="online_producer">Kalichstein-Laredo-Robinson Trio</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070417T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9802E3DA113FF934A25757C0A9619C8B63" item-length="412" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Trio Celebrating Its 30th Anniversary</hl1>
+        <hl2 class="online_headline">A Trio Celebrating Its 30th Anniversary</hl2>
+      </hedline>
+      <byline class="print_byline">By ALLAN KOZINN</byline>
+      <byline class="normalized_byline">Kozinn, Allan</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Kalichstein-Laredo-Robinson Trio began as a byproduct of Jaime Laredo's chamber music programming at the 92nd Street Y. That was in 1976, and the trio -- Mr. Laredo, the violinist; Joseph Kalichstein, the pianist; and Sharon Robinson, the cellist -- has been the core of the Y's chamber programming since.</p>
+        <p>But that may be a parochial, New York view of this ensemble, which also tours, makes recordings and has a life beyond the 92nd Street Y. As part of its 30th-anniversary celebration, the trio played a concert on Sunday afternoon at Carnegie Hall. For the most part, the concert was in the same spirit and format as those the group gives at the Y, in which guest players help the musicians reach beyond the trio repertory. But this time the performance was in an inappropriately vast space that made the ensemble's sound seem smaller and more distant.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The trio gave strong performances of Schubert’s “Trout” Quintet and Leon Kirchner’s Trio No. 2 on Sunday at Carnegie Hall.</p>
+      </block>
+      <block class="full_text">
+        <p>The Kalichstein-Laredo-Robinson Trio began as a byproduct of Jaime Laredo's chamber music programming at the 92nd Street Y. That was in 1976, and the trio -- Mr. Laredo, the violinist; Joseph Kalichstein, the pianist; and Sharon Robinson, the cellist -- has been the core of the Y's chamber programming since.</p>
+        <p>But that may be a parochial, New York view of this ensemble, which also tours, makes recordings and has a life beyond the 92nd Street Y. As part of its 30th-anniversary celebration, the trio played a concert on Sunday afternoon at Carnegie Hall. For the most part, the concert was in the same spirit and format as those the group gives at the Y, in which guest players help the musicians reach beyond the trio repertory. But this time the performance was in an inappropriately vast space that made the ensemble's sound seem smaller and more distant.</p>
+        <p>That was especially true in the opening work, Mozart's Piano Quartet in E flat (K. 493), in which Pinchas Zukerman played the viola line. As Mozart goes, this performance wasn't especially exciting, but it wasn't objectionable either. Its contours, weight, tempo and color were those that prevailed before the period instrument movement encroached on the Classical era.</p>
+        <p>If you crave the speediness, timbral brightness and transparent textures of the early-music approach, this wasn't for you. But it would be silly to complain. These approaches coexist these days, and this is the point on the interpretive continuum these players have chosen to uphold.</p>
+        <p>Schubert's ''Trout'' Quintet, for which the trio and Mr. Zukerman were joined by Harold Robinson, the principal bassist of the Philadelphia Orchestra, was notably more buoyant, and its best moments, the scherzo and the finale, were appealingly exuberant.</p>
+        <p>The ensemble also found a way around the applause that almost invariably erupts after the false ending. Instead of milking the finalelike cadence, the players moved through it matter-of-factly and then plunged into the next section. Getting an audience not to applaud there -- particularly one that applauded after the first movement of the Mozart -- is an accomplishment.</p>
+        <p>Between the Mozart and the Schubert, the trio gave an incisive account of a work composed for it, Leon Kirchner's Trio No. 2 (1993). The piece's strength lies in its structural clarity and the symmetry with which the three instruments are treated, and these players made the most of its constantly shifting internal dialogues and the sense of urgency that gradually but inexorably becomes its driving force.</p>
+        <p>MUSIC REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

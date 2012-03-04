@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Erin Tunstill, Jeffrey Lui</title>
+    <meta content="01tunstill" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/01/fashion/weddings/01tunstill.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837279"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Tunstill, Erin Elizabeth (Erin Elizabeth Lui)</person>
+        <person class="indexing_service">Lui, Jeffrey Pat</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE6DB1130F932A35757C0A9619C8B63" item-length="151" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Erin Tunstill, Jeffrey Lui</hl1>
+        <hl2 class="online_headline">Erin Tunstill, Jeffrey Lui</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Erin Elizabeth Tunstill, a daughter of Vicki and Dr. Stephen L. Tunstill of Jacksonville, Fla., was married yesterday to Jeffrey Pat Lui, the son of Stella and William Lui of Hackensack, N.J. Judge Robert M. Foster of Florida Circuit Court in Fernandina Beach officiated at the Timuquana Country Club there.</p>
+        <p>The bride, 26, and bridegroom, 27, are associates in the investment banking division of Merrill Lynch in New York. She specializes in raising money through public offerings, and he works with companies raising money from investors.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Erin Elizabeth Tunstill, a daughter of Vicki and Dr. Stephen L. Tunstill of Jacksonville, Fla., was married yesterday to Jeffrey Pat Lui, the son of Stella and William Lui of Hackensack, N.J. Judge Robert M. Foster of Florida Circuit Court in Fernandina Beach officiated at the Timuquana Country Club there.</p>
+      </block>
+      <block class="full_text">
+        <p>Erin Elizabeth Tunstill, a daughter of Vicki and Dr. Stephen L. Tunstill of Jacksonville, Fla., was married yesterday to Jeffrey Pat Lui, the son of Stella and William Lui of Hackensack, N.J. Judge Robert M. Foster of Florida Circuit Court in Fernandina Beach officiated at the Timuquana Country Club there.</p>
+        <p>The bride, 26, and bridegroom, 27, are associates in the investment banking division of Merrill Lynch in New York. She specializes in raising money through public offerings, and he works with companies raising money from investors.</p>
+        <p>Mrs. Lui graduated from Princeton. Her father, an anesthesiologist, is a partner in North Florida Anesthesia Consultants, a group practice in Jacksonville.</p>
+        <p>Mr. Lui graduated from New York University. His mother is a registered nurse at New Jersey Veterans Memorial Home in Paramus. His father is a senior vice president and a broker at Privett Special Risk Services, an insurance brokerage firm in New York.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

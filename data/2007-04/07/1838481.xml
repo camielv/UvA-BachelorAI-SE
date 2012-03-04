@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>I'm Rich. You're Not.</title>
+    <meta content="l07wealthy" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838481"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Millionaires and Billionaires</classifier>
+        <person class="indexing_service">Hill, Thomas</person>
+        <person class="indexing_service">Nicholson, Gus</person>
+        <person class="indexing_service">Tompkins, Ernest</person>
+        <person class="indexing_service">Conniff, Richard</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070407T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05E6D7173FF934A35757C0A9619C8B63" item-length="435" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>I'm Rich. You're Not.</hl1>
+      </hedline>
+      <abstract>
+        <p>Letters from Thomas Hill, Gus Nicholson and Ernest Tompkins respond to Richard Conniff April 4 Op-Ed contending that many rich and powerful people are oblivious to people around them</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''The Rich Are More Oblivious Than You and Me'' (Op-Ed, April 4):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''The Rich Are More Oblivious Than You and Me'' (Op-Ed, April 4):</p>
+        <p>Richard Conniff reports that researchers theorize that ''getting power causes people to focus so keenly on the potential rewards'' that they ''become oblivious to the people around them.''</p>
+        <p>But there may be a quite different explanation for the foolish, insensitive or rude behavior of the rich or powerful. Much research has shown that people derive satisfaction not so much from high income as such, but rather from income differential, that is, the mere knowledge that they earn more than someone else.</p>
+        <p>In a similar vein, the person ''in charge'' may take the extra cookie not so much because he wants it, but rather to show the rest of the team that he is their superior, is ''entitled'' to the extra cookie and can safely ignore another team member's craving the cookie.</p>
+        <p>This may be equally or even more true of rude behavior, like belching or picking one's ear wax in public. It's not so much that the offender is oblivious or can't control himself, but rather he wants to demonstrate (subconsciously) that his rank or power is such that he can break normal social rules that bind ''ordinary'' people, and no one can or will object.</p>
+        <p>Thomas Hill  Chicago, April 4, 2007</p>
+        <p>The writer is a visiting professor at Chicago-Kent College of Law.</p>
+        <p>To the Editor:</p>
+        <p>Richard Conniff strikes a funny note, but his contentions are not absolute. As an instructor at Vail and Beaver Creek Ski Schools in Eagle County, Colo., I have several very wealthy and very powerful clients.</p>
+        <p>While some think they can do whatever they want, whenever they want to, an overwhelming majority are thoughtful people who both take instruction well and direct their children to do so.</p>
+        <p>Perhaps it's the danger inherent in this sport that rivets their attention and their obedience. If so, that may suggest that not all the rich are oblivious.</p>
+        <p>Gus Nicholson  Denver, April 4, 2007</p>
+        <p>To the Editor:</p>
+        <p>Between ''It Didn't End Well Last Time,'' your April 4 editorial about income inequality, and Richard Conniff's Op-Ed article about the rich, I took away the general sense that more $1.5 million Ferraris may be at risk than ever before, and that I probably won't be in a position to crash one myself any time soon.</p>
+        <p>In 1939, Philip Barry could write in ''The Philadelphia Story,'' ''With the rich and mighty always a little patience.''</p>
+        <p>These days, that patience wears a trifle thin.</p>
+        <p>Ernest Tompkins  Palo Alto, Calif., April 4, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

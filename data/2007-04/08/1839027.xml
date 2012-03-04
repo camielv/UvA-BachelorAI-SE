@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Game-Time Decision</title>
+    <meta content="08WWLN--Ethicist.t" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Magazine" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/08/magazine/08WWLNEthicist.t.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1839027"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE WAY WE LIVE NOW: 4-08-07: THE ETHICIST"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Football</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <classifier class="indexing_service" type="descriptor">Physical Therapy</classifier>
+        <classifier class="indexing_service" type="descriptor">Influenza</classifier>
+        <classifier class="indexing_service" type="descriptor">Transit Systems</classifier>
+        <classifier class="indexing_service" type="descriptor">Metrocard</classifier>
+        <person class="indexing_service">Cohen, Randy</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine/Columns/The Ethicist</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Physical Therapy</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Influenza</classifier>
+        <classifier class="online_producer" type="descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Physical Therapy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Influenza</classifier>
+        <classifier class="online_producer" type="general_descriptor">Transit Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+        <classifier class="online_producer" type="general_descriptor">Therapy and Rehabilitation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070408T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E07EEDF1F30F93BA35757C0A9619C8B63" item-length="566" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Game-Time Decision</hl1>
+        <hl2 class="online_headline">Game-Time Decision</hl2>
+      </hedline>
+      <byline class="print_byline">By Randy Cohen</byline>
+      <byline class="normalized_byline">Cohen, Randy</byline>
+      <abstract>
+        <p>Randy Cohen Ethicist column comments on whether people who commit to attending football game with group of friends and then back out at last minute are entitled to money that organizer is able to get for their tickets at arena; comments on whether physical therapist was right to assign taxing exercise to patient who insisted on keeping appointment despite having flu systems so that she would soon feel exhausted, leave and not expose others to virus; comments on whether people who work for nonprofit agency that provides them with unlimited-use Metro cards for New York buses and subways may use them for personal as well as business trips (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>I organized a trip to a pro basketball game for 20 friends, purchasing tickets up front, then collecting the cash from each person. On game night, several did not show up, only some of whom alerted me in advance. I sold those tickets at face value at the arena. Who should get that money? Should it be refunded to the no-shows? Spread evenly among all?</p>
+        <p>P. J., Texas</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Dilemmas involving no-shows, showing up sick and showing them the card.</p>
+      </block>
+      <block class="full_text">
+        <p>I organized a trip to a pro basketball game for 20 friends, purchasing tickets up front, then collecting the cash from each person. On game night, several did not show up, only some of whom alerted me in advance. I sold those tickets at face value at the arena. Who should get that money? Should it be refunded to the no-shows? Spread evenly among all?</p>
+        <p>P. J., Texas</p>
+        <p>When any of your friends told you that they wouldn't make the game, that was your chance to get their O.K. for reselling their tickets. Consumed with shame for their no-show discourtesy, they should have offered you the proceeds as modest compensation, before they moved to another town and changed their names to live down the ignominy -- or simply sent you flowers. As for those churls who did not even bother to call, a tough guy could regard their tickets as abandoned property and keep the money.</p>
+        <p>But if you want to remain friends with all these folks, refund their money. You've already taken some pains on their behalf by arranging this outing. Why not go one step further and delight everyone?</p>
+        <p>If this was a Knicks game, however, you've committed a gross ethical transgression by subjecting your friends to so disheartening a spectacle, to suffering so grave that it hardly matters how you divvy up any extra cash.</p>
+        <p>UPDATE: It was a small amount of money, $50 total, so P.J. kept it, more a matter of convenience than profit-seeking. Nobody has objected.</p>
+        <p>I am an assistant physical therapist. A patient phoned to say that she was sick and might be late. My staff told her to stay home, get well and not expose others to her flulike symptoms. She insisted on coming in. I put her on a bicycle and without telling her set it at a higher level than previously, hoping she'd tire quickly and go home. In 10 minutes, she felt horrible and quit. Was it ethical to ''deceive'' her to safeguard others and herself?</p>
+        <p>Jon Wingate, Reading, PA.</p>
+        <p>It is wrong to deceive a patient. If patients can't trust you, how can they be partners in their own care? Beyond this pragmatic concern, to manipulate your patient in this way robs her of her dignity (if there can be dignity on an exercise bike) and treats her as less than an adult. And your lie -- sorry, ''lie'' -- was so unnecessary. Why not simply establish a policy barring patients who might endanger themselves or others?</p>
+        <p>On the upside, I admire your not setting the thermostat at 120 and slipping 50-pound weights on your patient's feet to tire her out quickly.</p>
+        <p>Our nonprofit agency provides monthly, unlimited-use Metro cards to certain staff members. Administrators want staff to use these cards for business trips only. Would it be ethical to use the cards for personal travel too?</p>
+        <p>name withheld, Bronx</p>
+        <p>It would. These are unlimited-use cards: using them for personal travel imposes no additional costs on your employer. It would be different if staff members were assigned agency cars, for example. Driving while off duty would increase wear and tear and perhaps raise insurance costs, thus boosting agency expenses. But padlocking the Metro cards benefits nobody. Aesop wrote about this sort of thing in his fable about the dog in the manger, although the dog did not actually take the subway. Neither did Aesop.</p>
+        <p>THE WAY WE LIVE NOW: 4-08-07: THE ETHICIST</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

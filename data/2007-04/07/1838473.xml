@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Breast Cancer Screening</title>
+    <meta content="07sat2" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health; Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/07/opinion/07sat2.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1838473"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Cancer</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Breast</classifier>
+        <classifier class="indexing_service" type="descriptor">Women</classifier>
+        <classifier class="indexing_service" type="descriptor">Mammography</classifier>
+        <classifier class="indexing_service" type="descriptor">Age, Chronological</classifier>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="descriptor">Mammography</classifier>
+        <classifier class="online_producer" type="descriptor">Cancer</classifier>
+        <classifier class="online_producer" type="descriptor">Breast</classifier>
+        <classifier class="online_producer" type="descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="descriptor">Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Breast</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cancer</classifier>
+        <classifier class="online_producer" type="general_descriptor">Age, Chronological</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mammography</classifier>
+        <classifier class="online_producer" type="general_descriptor">Women</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <org class="online_producer">American Cancer Society</org>
+        <org class="online_producer">American College of Physicians</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070407T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E7D7173FF934A35757C0A9619C8B63" item-length="382" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Breast Cancer Screening</hl1>
+        <hl2 class="online_headline">Breast Cancer Screening</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial contends that confusing issue of screening for breast cancer has gotten more confusing, but nothing in new material shakes longstanding recommendation that all women age 50 or older should get regular mammograms; maintains that women in their 40s will need to weigh pros and cons carefully</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The often confusing issue of screening for breast cancer just got more confusing. First, a major medical group disputed the need for regular mammograms for all women ages 40 to 49, as is currently recommended. Then a widely used computer system that was supposed to make mammograms more accurate was judged to make them less accurate. And guidelines just issued by the American Cancer Society recommend annual M.R.I. scans -- in addition to mammograms -- for all women at especially high risk of developing breast cancer, starting at age 30.</p>
+        <p>Nothing in the new material shakes the long-standing recommendation that all women age 50 or older should get regular mammograms. Women in their 40s, however, will need to weigh the pros and cons carefully. Most expert groups believe they should get mammograms every year or two. But clinical guidelines issued by the American College of Physicians take a more discriminating approach.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The often confusing issue of screening for breast cancer just got more confusing.</p>
+      </block>
+      <block class="full_text">
+        <p>The often confusing issue of screening for breast cancer just got more confusing. First, a major medical group disputed the need for regular mammograms for all women ages 40 to 49, as is currently recommended. Then a widely used computer system that was supposed to make mammograms more accurate was judged to make them less accurate. And guidelines just issued by the American Cancer Society recommend annual M.R.I. scans -- in addition to mammograms -- for all women at especially high risk of developing breast cancer, starting at age 30.</p>
+        <p>Nothing in the new material shakes the long-standing recommendation that all women age 50 or older should get regular mammograms. Women in their 40s, however, will need to weigh the pros and cons carefully. Most expert groups believe they should get mammograms every year or two. But clinical guidelines issued by the American College of Physicians take a more discriminating approach.</p>
+        <p>The guidelines acknowledge that regular mammograms for women in their 40s can reduce the risk of dying from breast cancer by a modest amount: for every 10,000 women screened, six might avoid death from breast cancer. But a very high percentage of the women screened, the college warns, will get false positive results that lead to unnecessary biopsies, increased costs and risk of injury. There is also a tiny risk that radiation from the screening might itself cause cancer. In the end, women deeply worried about breast cancer will want to get screened, while those who judge -- with the help of their doctors -- that they are at low risk may prefer to wait.</p>
+        <p>The latest verdicts on two advanced technologies were mixed. One new study found that M.R.I. scans could find tumors that mammograms had missed in a small percentage of women. The downside is that the costly scans are so sensitive they pick up lots of suspicious but harmless growths.</p>
+        <p>Another new study found that a costly computerized system to help radiologists read mammograms was no better at finding cancer than traditional mammography and led to many more false alarms that required needless biopsies. The computerized systems are used in some 30 percent of all mammography centers, where they are driving up costs for no clear medical benefit. Government and private insurers may need to reconsider whether the systems are worth covering.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Allergy Tests and Needles</title>
+    <meta content="10lett-5" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1839372"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blood</classifier>
+        <classifier class="online_producer" type="general_descriptor">Skin</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070410T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D04E6DA153FF933A25757C0A9619C8B63" item-length="153" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Allergy Tests and Needles</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''In Testing For Allergies, A Single Shot May Suffice'' (March 20): Allergy skin testing is neither painful nor dangerous as documented by several recently published studies. Indeed, a study of 16,204 people examined with a variety of medical procedures found a significantly greater number of adverse reactions due to blood drawing than allergy skin testing.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''In Testing For Allergies, A Single Shot May Suffice'' (March 20): Allergy skin testing is neither painful nor dangerous as documented by several recently published studies. Indeed, a study of 16,204 people examined with a variety of medical procedures found a significantly greater number of adverse reactions due to blood drawing than allergy skin testing.</p>
+        <p>Allergen immunotherapy by injection is very effective in allergic rhinitis, asthma and stinging insect allergy, and may prevent the progression from allergic rhinitis to asthma and the development of new allergies. Yes, allergists do get compensated for skin testing and immunotherapy, but optimally treating patients with proven methods is our goal.</p>
+        <p>Daniel Ein, M.D.  Washington</p>
+        <p>Thomas B. Casale, M.D.  Bennington, Neb.</p>
+        <p>Dr. Ein is the president of the American College of Allergy, Asthma and Immunology; Dr. Casale is the president of the American Academy of Allergy, Asthma and Immunology.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

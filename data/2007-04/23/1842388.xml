@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Read Fortune's 'Portfolio.' Or Portfolio's 'Fortune.'</title>
+    <meta content="23fortune" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/23/business/media/23fortune.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842388"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MEDIA TALK"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="descriptor">Trademarks and Trade Names</classifier>
+        <classifier class="online_producer" type="descriptor">Magazines</classifier>
+        <classifier class="online_producer" type="descriptor">News and News Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Magazines</classifier>
+        <classifier class="online_producer" type="general_descriptor">Trademarks and Trade Names</classifier>
+        <classifier class="online_producer" type="general_descriptor">Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+        <org class="online_producer">Fortune</org>
+        <org class="online_producer">Portfolio</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070423T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E2DA173EF930A15757C0A9619C8B63" item-length="234" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Read Fortune's 'Portfolio.' Or Portfolio's 'Fortune.'</hl1>
+        <hl2 class="online_headline">Read Fortune’s ‘Portfolio’ or Portfolio’s ‘Fortune’</hl2>
+      </hedline>
+      <byline class="print_byline">By PRADNYA JOSHI</byline>
+      <byline class="normalized_byline">Joshi, Pradnya</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Maintaining a brand name in the business world is not always easy, especially when the name is also a common word. Last week two rival business magazines -- Fortune and Portfolio -- saw their names bump up against each other a bit.</p>
+        <p>It was an important week for each of the magazines. Fortune, the long-established glossy that chronicles wealthy people and big businesses, released its annual Fortune 500 issue, listing the biggest companies in America by revenue (the winner: Wal-Mart Stores). And Portfolio, the brand-new glossy that chronicles wealthy people and big businesses, released its much-anticipated debut issue.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Last week two rival business magazines  Fortune and Portfolio  saw their names bump up against each other a bit.</p>
+      </block>
+      <block class="full_text">
+        <p>Maintaining a brand name in the business world is not always easy, especially when the name is also a common word. Last week two rival business magazines -- Fortune and Portfolio -- saw their names bump up against each other a bit.</p>
+        <p>It was an important week for each of the magazines. Fortune, the long-established glossy that chronicles wealthy people and big businesses, released its annual Fortune 500 issue, listing the biggest companies in America by revenue (the winner: Wal-Mart Stores). And Portfolio, the brand-new glossy that chronicles wealthy people and big businesses, released its much-anticipated debut issue.</p>
+        <p>As it happened, one of the featured articles in Portfolio on the investor T. Boone Pickens was headlined, ''Fortune Hunter.'' And Fortune, in the pages leading up to its highly popular corporate rankings, ran an eight-page photo spread called ''Portfolio.''</p>
+        <p>Nobody is saying there was anything at work except coincidence and, in the case of Fortune, precedent. But if there were accidental slips going on in the minds of the magazines' editors, it would have been understandable: the titles are competing for readers, writers and advertisers.</p>
+        <p>''We have been calling our photo essays 'Portfolio' since the magazine launched,'' said Danielle Perissi, vice president of communications for the business and finance magazines at Time Inc., which publishes Fortune. ''This is a common industry term.''</p>
+        <p>When reached on Friday, a spokeswoman for Portfolio declined to comment.</p>
+        <p>PRADNYA JOSHI</p>
+        <p>MEDIA TALK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

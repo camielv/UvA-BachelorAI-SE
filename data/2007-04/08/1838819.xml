@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Calculating The Pay Figures</title>
+    <meta content="08boiler" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/08/business/yourmoney/08boiler.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1838819"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="EXECUTIVE PAY"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Executive</classifier>
+        <classifier class="online_producer" type="general_descriptor">Executives and Management</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wages and Salaries</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070408T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9900E2D8173FF93BA35757C0A9619C8B63" item-length="717" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Calculating The Pay Figures</hl1>
+        <hl2 class="online_headline">Calculating the Pay Figures</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>TO measure executive compensation, Sunday Business studied 200 large public companies that filed proxies by March 31, 2007, for last year. Equilar Inc., an executive compensation research firm, compiled and analyzed the data from corporate filings.</p>
+        <p>The analysis for 2006 is divided into two tables. Table 1 covers executives at companies that filed compensation data under the new disclosure requirements of the Securities and Exchange Commission. Table 2 shows compensation data for executives at companies that filed proxies under the S.E.C.'s previous disclosure rules. The tables are on Pages 10 and 11.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>TO measure executive compensation, Sunday Business studied 200 large public companies that filed proxies by March 31, 2007, for last year. Equilar Inc., an executive compensation research firm, compiled and analyzed the data from corporate filings.</p>
+      </block>
+      <block class="full_text">
+        <p>TO measure executive compensation, Sunday Business studied 200 large public companies that filed proxies by March 31, 2007, for last year. Equilar Inc., an executive compensation research firm, compiled and analyzed the data from corporate filings.</p>
+        <p>The analysis for 2006 is divided into two tables. Table 1 covers executives at companies that filed compensation data under the new disclosure requirements of the Securities and Exchange Commission. Table 2 shows compensation data for executives at companies that filed proxies under the S.E.C.'s previous disclosure rules. The tables are on Pages 10 and 11.</p>
+        <p>The S.E.C.'s new rules are effective for companies with a fiscal year ending on or after Dec. 15, 2006.</p>
+        <p>The total compensation figures for executives in Tables 1 and 2 include the same core elements of compensation but are calculated differently.</p>
+        <p>In both tables, all values for cash compensation are reported on a payout basis and reflect actual compensation for 2006. Most values for equity compensation are reported on a grant basis and reflect the fair value of the award at the time of grant.</p>
+        <p>However, long-term equity incentive awards are reported as payouts for companies filing under the old S.E.C. rules; grant-date fair values are used for companies filing under the new S.E.C. rules.</p>
+        <p>Stock and option awards are calculated differently in the two tables. For companies filing under the new S.E.C. regulations, option and stock award values were compiled from the new stock-grant table as reported by the company in its proxy statement.</p>
+        <p>For companies filing under the S.E.C.'s old regulations, stock award values are taken, as reported, from the ''restricted stock award'' column of the summary compensation table in its proxy. Likewise, option award values are taken, as reported, from the proxy's option grants table when available. When not available, option award values are estimated by using the Black-Scholes formula. The total compensation figures for all executives exclude gains from stock options awarded in past years but exercised in 2006. Those gains appear in the columns labeled ''Stock Option Gains'' in Tables 1 and 2.</p>
+        <p>Companies filing under the S.E.C.'s new compensation disclosure regulations also disclose a value for stock award gains. These gains are excluded from total compensation figures and appear in the column labeled ''Stock Award Gains'' in Table 1.</p>
+        <p>THE study also tracks information on pension and nonqualified deferred-compensation plans for companies filing under the new S.E.C. regulations. This information, which appears in the ''Change in Pension &amp; Def. Comp.,'' ''Lump-Sum Pension'' and ''Deferred Comp. Balance'' categories in Table 1, is now provided by the recent disclosure requirements.</p>
+        <p>For chief executives who served only part of the fiscal year in that position, the study annualizes their salaries based on disclosed employment contract information or prorates their salaries based on their time as chief executive. All other compensation elements are not prorated.</p>
+        <p>Where averages and medians are used, they are calculated separately for companies listed in Tables 1 and 2.</p>
+        <p>The methods for calculating year-over-year change in pay are also different for each table. For companies filing under the old S.E.C. regulations (Table 2), the change-in-pay calculation is based on all pay elements listed in the table except ''Perks/Other.'' All values can be directly compared with the previous year.</p>
+        <p>For companies filing under the new S.E.C. regulations, change in pay is calculated by using data from both the new and old disclosure regimes. Therefore, not all elements of pay can be directly compared, and some elements of pay have been recalculated.</p>
+        <p>The annual change in pay value for executives in Table 1 is based on this calculation of total compensation: the sum of base salary, bonus (the sum of discretionary bonuses and short-term cash incentives for 2006), the estimated value of performance- and service-based stock option awards, restricted stock awards and the calculated target value of long-term cash and equity incentives.</p>
+        <p>While the method for calculating the change in pay in Table 1 is slightly different than the process for measuring total compensation in the table, the change-in-pay calculation allows for a consistent comparison across the two sets of S.E.C. compensation disclosure rules. The use of target values for long-term equity incentives and other assumptions used to value pay elements might understate or overstate the change in pay.</p>
+        <p>Definitions of terms used in the pay tables are online at nytimes.com/executivepay.</p>
+        <p>EXECUTIVE PAY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Behind the Wheels</title>
+    <meta content="08CIopart--intro" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="14" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/08/opinion/08CIopartintro.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1838788"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="OP-ART"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Automobiles</classifier>
+        <classifier class="indexing_service" type="descriptor">Trade Shows and Fairs</classifier>
+        <classifier class="indexing_service" type="descriptor">New York International Auto Show</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">Javits, Jacob K, Convention Center (NYC)</org>
+        <person class="indexing_service">Chiverton, Joan</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Contributors</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Trade Shows and Fairs</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070408T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A04E7D8173FF93BA35757C0A9619C8B63" item-length="158" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Behind the Wheels</hl1>
+        <hl2 class="online_headline">Behind the Wheels</hl2>
+      </hedline>
+      <byline class="print_byline">By Joan Chiverton</byline>
+      <byline class="normalized_byline">Chiverton, Joan</byline>
+      <abstract>
+        <p>Joan Chiverton Op-Art portrays scene as workers prepare Jacob K Javits Convention Center for New York International Auto Show; drawings</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE New York International Auto Show is under way at the Jacob K. Javits Convention Center in Manhattan. A week ago there was nothing but concrete floor and pillars, but between last Sunday and when the doors opened to the public on Friday, 667 trailers were unloaded, an elaborate ceiling lighting system was lowered and 800,000 square feet of carpeting was laid out.</p>
+        <p>About 50 vehicles are making their American or world premieres this week at the show. And while New Yorkers may claim that they have no need for a car in the city, they might want to check out the ''Taxi 07'' exhibition, which commemorates the centennial of the modern taxi in New York. The exhibition includes eight cars and features prototypes for taxis of the future. If that's not enough to grab a New Yorker's attention, Chevrolet is showcasing three concept minicars from South Korea -- perfect for parking in tight city spaces.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The New York International Auto Show is under way at the Jacob K. Javits Convention Center in Manhattan.</p>
+      </block>
+      <block class="full_text">
+        <p>THE New York International Auto Show is under way at the Jacob K. Javits Convention Center in Manhattan. A week ago there was nothing but concrete floor and pillars, but between last Sunday and when the doors opened to the public on Friday, 667 trailers were unloaded, an elaborate ceiling lighting system was lowered and 800,000 square feet of carpeting was laid out.</p>
+        <p>About 50 vehicles are making their American or world premieres this week at the show. And while New Yorkers may claim that they have no need for a car in the city, they might want to check out the ''Taxi 07'' exhibition, which commemorates the centennial of the modern taxi in New York. The exhibition includes eight cars and features prototypes for taxis of the future. If that's not enough to grab a New Yorker's attention, Chevrolet is showcasing three concept minicars from South Korea -- perfect for parking in tight city spaces.  OP-ART</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

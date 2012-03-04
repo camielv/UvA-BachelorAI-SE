@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Battle Over The Banlieues</title>
+    <meta content="15elections.t" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine" name="dsk"/>
+    <meta content="52" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Magazine" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1840284"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Immigration and Refugees</classifier>
+        <classifier class="indexing_service" type="descriptor">Elections</classifier>
+        <location class="indexing_service">France</location>
+        <location class="indexing_service">Paris (France)</location>
+        <person class="indexing_service">Bayrou, Francois</person>
+        <person class="indexing_service">Royal, Segolene</person>
+        <person class="indexing_service">Sarkozy, Nicolas</person>
+        <person class="indexing_service">Rieff, David</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/France</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/France</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/France/Paris</classifier>
+        <classifier class="online_producer" type="general_descriptor">Immigration and Refugees</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9902E1DF153FF936A25757C0A9619C8B63" item-length="4414" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Battle Over The Banlieues</hl1>
+      </hedline>
+      <byline class="print_byline">By David Rieff</byline>
+      <byline class="normalized_byline">Rieff, David</byline>
+      <abstract>
+        <p>David Rieff article on unrest in Paris suburbs, home of most of France's impoverished immigrants, and how it may affect coming presidential election, in which Nicolas Sarkozy has staked out hard-line stances on immigration, assimilation and national identity; photos (L)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>''If I could get my hands on Sarkozy, I'd kill him.'' I had asked Mamadou, a wiry young man wearing gray camouflage pants and a tank top, what he thought of France's former minister of the interior, who is also the right's standard-bearer in this spring's presidential elections. ''I'd kill him,'' he continued and then paused as if savoring the thought. ''Then I'd go to prison. And when I got out, I'd be a hero.''</p>
+      </block>
+      <block class="full_text">
+        <p>''If I could get my hands on Sarkozy, I'd kill him.'' I had asked Mamadou, a wiry young man wearing gray camouflage pants and a tank top, what he thought of France's former minister of the interior, who is also the right's standard-bearer in this spring's presidential elections. ''I'd kill him,'' he continued and then paused as if savoring the thought. ''Then I'd go to prison. And when I got out, I'd be a hero.''</p>
+        <p>We were in Les Bosquets, one of the impoverished housing projects that are scattered across the banlieues, the heavily immigrant working-class suburbs that surround Paris. I asked Mamadou's friend Ahmad if he felt the same way. He said he would not go that far. ''I wouldn't kill him, no,'' he said. ''But I hate him. We all hate him.''</p>
+        <p>A lot of this was bravado, of course, friends showing off for friends in the disaffected, hyperaggressive macho style that now predominates among France's disenfranchised suburban young. As a group, their unemployment rate stands at around 40 percent. Seen from the Paris familiar to most foreigners or, for that matter, to most native Parisians, Les Bosquets seems like another country. And yet it takes only about an hour to get there from the Place de la Concorde. Paris is ringed by hard-up towns like Clichy-sous-Bois and Montfermeil, each with its own version -- some far better, very few much worse -- of Les Bosquets. These cités, as the housing projects are known, suffer from much more than being simply ugly or neglected. Nor is their poverty what sets them apart; there is poverty in Paris itself, after all, and in the French countryside as well. Still less is it their immigrant character: the great French cities, like all major European cities these days, are filled with new immigrants, the majority of them Muslims. (A third of the Muslims in Europe now live in France.) And yet there is something particularly soulless and depressing about these suburbs. An increasing number of those who live in the cités have the sense that they are unwelcome in a France whose treatment of them, whether hostile or indifferent, utterly contradicts the claim the country makes for itself: that in France everyone is treated equally and that the Republic neither makes nor will accept any distinction between citizens on the basis of race, class or ethnic background.</p>
+        <p>The elections have pitted Nicolas Sarkozy against two main challengers, the Socialist Party's SégolÃ  David Rieff, a contributing writer, covered the recent elections in Bolivia and Mexico for the magazine.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">David Rieff, a contributing writer, covered the recent elections in Bolivia and Mexico for the magazine.</tagline>
+    </body.end>
+  </body>
+</nitf>

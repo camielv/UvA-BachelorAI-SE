@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>My Maserati Does 177.</title>
+    <meta content="NUGGETMaseratiGranTurismo" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Automobiles" name="dsk"/>
+    <meta content="" name="print_section"/>
+    <meta content="Automobiles" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838426"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070406T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0CE1DF143FF935A35757C0A9619C8B63" item-length="345" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>My Maserati Does 177.</hl1>
+      </hedline>
+      <byline class="print_byline">By EZRA DYER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Introduced on Thursday: Maserati GranTurismo</p>
+        <p>Is it real? As certain to go into production as Giada De Laurentiis is to pronounce GranTurismo with a sudden Italian accent.</p>
+      </block>
+      <block class="full_text">
+        <p>Introduced on Thursday: Maserati GranTurismo</p>
+        <p>Is it real? As certain to go into production as Giada De Laurentiis is to pronounce GranTurismo with a sudden Italian accent.</p>
+        <p>What's the point? The previous Maserati Coupe was the dowdy sibling of the comely Quattroporte, and there's something wrong when your sedan is hotter than your coupe. The GranTurismo restores the natural order of things with sinuous bodywork that does justice to the Maserati name.</p>
+        <p>What they said: According to James Selwa, president and chief executive of Maserati North America, the GranTurismo design is "powerful, elegant, understated and graceful -- a modern interpretation of timeless style."</p>
+        <p>What they didn't say: Maserati needs more volume, and it's betting on the GranTurismo to help deliver a sales upswing. It's interesting how the company phrases sales results in its literature, declaring that for 2006 "5,700 vehicles were delivered to the sales network." And how many of those 5,700 vehicles delivered to the sales network are still sitting in showrooms around the world?</p>
+        <p>What makes it tick? That sharklike hood hides a 405-horsepower Ferrari-built V-8 (key stat: the engine doesn't hit its horsepower peak until a screaming 7,100 r.p.m.). It also ditches the Coupe's balky sequential manual transmission in favor of a conventional six-speed automatic, a nod to the fact that this segment is more concerned with luxury and refinement than it is with outright racetrack speed. Top speed is 177 mph, and 0-60 takes 5.1 seconds. And though the BMW M6 might be faster, you can't get one with fitted Ferragamo luggage.</p>
+        <p>How much, how soon? Umm more than $100,000, but less than a Bentley? We'll know for sure when the GranTurismo, first shown at the Geneva auto show, arrives in the United States this fall.</p>
+        <p>How's it look? A million times better than the previous Maserati Coupe. All the curves of the old car are amped up here -- more arch in the fenders, more grace in the roofline. It's a design that says, "I bought a Maserati because of the way it looks, not in spite of it."</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New Program Aims to Help the Poor Juggle Education and Jobs</title>
+    <meta content="17mayor" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Education; New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/17/nyregion/17mayor.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840966"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="indexing_service" type="descriptor">Community Colleges</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">City University of New York (CUNY)</org>
+        <person class="indexing_service">Cardwell, Diane</person>
+        <person class="indexing_service">Bloomberg, Michael R (Mayor)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="descriptor">Education and Schools</classifier>
+        <classifier class="online_producer" type="descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <person class="online_producer">Bloomberg, Michael R</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070417T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950CE0D9113FF934A25757C0A9619C8B63" item-length="295" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New Program Aims to Help the Poor Juggle Education and Jobs</hl1>
+        <hl2 class="online_headline">New Program Aims to Help the Poor Juggle Education and Jobs</hl2>
+      </hedline>
+      <byline class="print_byline">By DIANE CARDWELL</byline>
+      <byline class="normalized_byline">Cardwell, Diane</byline>
+      <abstract>
+        <p>Mayor Michael R Bloomberg announces new pilot program intended to make it easier for poor New Yorkers to attend public community colleges while holding down jobs; Accelerated Study in Associates Programs will allow students to attend any of six community colleges of City University of New York, with all their classes and tutorials planned for time of day that best suits their work schedule; program is being offered to 1,000 qualifying students, and Bloomberg says he will make sure it continues if it succeeds in increasing percentage of those who graduate to 75 percent (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Moving to alleviate the city's high poverty rates, Mayor Michael R. Bloomberg yesterday announced a new program intended to make it easier for poor people to attend public community colleges while holding down jobs.</p>
+        <p>Under the program, called the Accelerated Study in Associate Programs, students will be able to attend any of the six community colleges of the City University of New York, with all of their classes and tutorials scheduled during the morning, afternoon or evening, whichever track more easily accommodates their work schedules, officials said.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Mayor Michael R. Bloomberg on Monday announced a new program intended to make it easier for poor people to attend public community colleges while working.</p>
+      </block>
+      <block class="full_text">
+        <p>Moving to alleviate the city's high poverty rates, Mayor Michael R. Bloomberg yesterday announced a new program intended to make it easier for poor people to attend public community colleges while holding down jobs.</p>
+        <p>Under the program, called the Accelerated Study in Associate Programs, students will be able to attend any of the six community colleges of the City University of New York, with all of their classes and tutorials scheduled during the morning, afternoon or evening, whichever track more easily accommodates their work schedules, officials said.</p>
+        <p>The program, which is being financed with $6.5 million from the city and will be offered to 1,000 qualified students, was developed as part of Mr. Bloomberg's broader assault on poverty, which he is making a focus of his second term.</p>
+        <p>Mr. Bloomberg said that if the pilot program, scheduled to begin in September, succeeds in increasing the percentage of those who graduate to 75 percent -- he cited statistics showing that the city's community college graduation rates are now roughly 21 percent -- he would make sure it got the money to continue.</p>
+        <p>CUNY officials said they were accepting applications for the program, which will operate at Borough of Manhattan, Bronx, Hostos, Kingsborough, La Guardia and Queensborough Community Colleges.</p>
+        <p>Aimed at high school students wavering between attending college and entering the work force and at working adults, the program requires that students be prepared for college-level classes. Students will be allowed a deficiency in either reading and writing or math, for which they would need to take a summer course before beginning.</p>
+        <p>The program will be offered free to those who qualify, with the cost of books covered by Barnes &amp; Noble, officials said. Income limits will parallel those for federal aid programs like Pell grants.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

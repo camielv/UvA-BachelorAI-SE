@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   HASHMALL, FRANK</title>
+    <meta content="dn042907.4" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="27" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1843494"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">HASHMALL, FRANK</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F01E4DC163AF93AA15757C0A9619C8B63" item-length="73" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   HASHMALL, FRANK</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>HASHMALL--Frank, 87. Born in Manhattan. City College graduate,1940. Pratt Institute graduate with Honors, 1962. President of L.M. Rabinowitz Company until retirement at 75. Married 65 years to Sylvia Deutsch who predeceased him in September 2005. Loved politics, history, classical music and progressive causes. Possessed great intelligence, sense of humor and warmth. Died peacefully at home on April 14, 2007. Lovingly remembered by two children, six grandchildren, one great-grandchild, extended family and friends.</p>
+      </block>
+      <block class="full_text">
+        <p>HASHMALL--Frank, 87. Born in Manhattan. City College graduate,1940. Pratt Institute graduate with Honors, 1962. President of L.M. Rabinowitz Company until retirement at 75. Married 65 years to Sylvia Deutsch who predeceased him in September 2005. Loved politics, history, classical music and progressive causes. Possessed great intelligence, sense of humor and warmth. Died peacefully at home on April 14, 2007. Lovingly remembered by two children, six grandchildren, one great-grandchild, extended family and friends.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

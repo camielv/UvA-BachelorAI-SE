@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Emily Thacher-Renshaw, Christian Pistilli</title>
+    <meta content="29thacher-renshaw" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/29/fashion/weddings/29thacher-renshaw.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1843778"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Thacher-Renshaw, Emily Elizabeth (Emily Elizabeth Pistilli)</person>
+        <person class="indexing_service">Pistilli, Christian James</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D00E5DA123EF93AA15757C0A9619C8B63" item-length="198" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Emily Thacher-Renshaw, Christian Pistilli</hl1>
+        <hl2 class="online_headline">Emily Thacher-Renshaw, Christian Pistilli</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Emily Elizabeth Thacher-Renshaw, the daughter of Ann K. Thacher and Clifford M. Renshaw III, both of Providence, R.I., was married yesterday to Christian James Pistilli, a son of Kathleen Pistilli and James M. Pistilli of Tottenville, Staten Island. The Rev. Mark Pruitt, an Episcopal priest, performed the ceremony at the chapel of St. George's School in Middletown, R.I.</p>
+        <p>The bride, 30, and bridegroom, 31, met at Harvard, where they received law degrees, she cum laude and he magna cum laude.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Emily Elizabeth Thacher-Renshaw, the daughter of Ann K. Thacher and Clifford M. Renshaw III, both of Providence, R.I., was married yesterday to Christian James Pistilli, a son of Kathleen Pistilli and James M. Pistilli of Tottenville, Staten Island. The Rev. Mark Pruitt, an Episcopal priest, performed the ceremony at the chapel of St. George’s School in Middletown, R.I.</p>
+      </block>
+      <block class="full_text">
+        <p>Emily Elizabeth Thacher-Renshaw, the daughter of Ann K. Thacher and Clifford M. Renshaw III, both of Providence, R.I., was married yesterday to Christian James Pistilli, a son of Kathleen Pistilli and James M. Pistilli of Tottenville, Staten Island. The Rev. Mark Pruitt, an Episcopal priest, performed the ceremony at the chapel of St. George's School in Middletown, R.I.</p>
+        <p>The bride, 30, and bridegroom, 31, met at Harvard, where they received law degrees, she cum laude and he magna cum laude.</p>
+        <p>Mrs. Pistilli is a law clerk for Judge Ellen Segal Huvelle of the United States District Court in Washington. She graduated magna cum laude from the University of Pennsylvania.</p>
+        <p>Her father is an architect in Providence. Her mother is the director of planning and evaluation for the New England division of the American Cancer Society in Warwick, R.I.</p>
+        <p>Mr. Pistilli is a litigation associate at Covington &amp; Burling, the Washington law firm. He graduated summa cum laude from Haverford College.</p>
+        <p>His mother is a dental assistant for an oral surgeon in West Brighton, Staten Island. His father, who is retired, was an associate executive director at the Neponset center of the New York City Health and Hospitals Corporation.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

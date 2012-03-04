@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Guns and the Workplace</title>
+    <meta content="l05guns" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838304"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Firearms</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gun Control</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070406T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0DE0DE173FF935A35757C0A9619C8B63" item-length="185" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Guns and the Workplace</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>A company's property rights must not trump an individual's right to life and self-defense. The bills you describe in ''Workers' Safety and the Gun Lobby'' (editorial, March 30) protect property owners and employers from liability, while giving employees a means for self-defense while in their employer's public-access parking lot.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>A company's property rights must not trump an individual's right to life and self-defense. The bills you describe in ''Workers' Safety and the Gun Lobby'' (editorial, March 30) protect property owners and employers from liability, while giving employees a means for self-defense while in their employer's public-access parking lot.</p>
+        <p>These bills do not allow employees to have firearms in their vehicles while in secured workplace parking lots or in a car owned or leased by their employer. Most important, they do not allow employees or anyone else to bring firearms into the workplace.</p>
+        <p>To suggest that the legislation will force companies to allow workers to carry guns in the office or keep guns in office drawers is wrong.</p>
+        <p>Daily commutes are getting longer. Some work the late shift and others incur multiple stops to run basic errands during all hours of the day. Employees should not have to give up their basic right of self-defense for a paycheck.</p>
+        <p>Chris W. Cox  Fairfax, Va., March 30, 2007</p>
+        <p>The writer is executive director, Institute for Legislative Action, National Rifle Association.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>VIEWS OF VICTORIA FALLS</title>
+    <meta content="01mail-1" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837138"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Travel and Vacations</classifier>
+        <classifier class="indexing_service" type="descriptor">Waterfalls</classifier>
+        <location class="indexing_service">Victoria Falls (Zimbabwe)</location>
+        <location class="indexing_service">Zimbabwe</location>
+        <person class="indexing_service">Gross, Michael</person>
+        <person class="indexing_service">Ubogy, George</person>
+        <person class="indexing_service">Chilufya, Sylvia</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa/Zimbabwe/Victoria Falls</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa/Zimbabwe</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E06E0D91330F932A35757C0A9619C8B63" item-length="226" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>VIEWS OF VICTORIA FALLS</hl1>
+      </hedline>
+      <abstract>
+        <p>George Ubogy and Sylvia Chilufya letters on Michael Gross's March 18 article on visit to Victoria Falls in Zimbabwe</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor: Michael Gross's ''Chasing the Ultimate Waterfall'' (March 18) and the accompanying photos of Victoria Falls capture well the area's history and poetry. When my wife and I walked from the Zambia side across a footbridge to a verdant mesa island not as tall as the falls, we were thoroughly watered by the mist and saw, for the only time in our lives, a 360-degree rainbow. It wasn't just extra-ordinary, it was extraordinary. Would that some of its beauty fall upon the suffering citizens of Zimbabwe these days.</p>
+        <p>George Ubogy  Greenwich, Conn.</p>
+        <p>To the Editor: As a Zambian, I was delighted to see Victoria Falls splashed across the front page of the Travel Section. Then I spied the dreaded ''d'' word: discovery. In 2007 can The New York Times still be using this word? It's quite ironic considering that the same article says ''Livingstone began hearing about Victoria Falls -- called Mosi-oa-Tunya, or 'the smoke that thunders,' by Africans.'' If the locals had a name for them then they existed before he saw them. Being the first European to see them is not the same as discovering them. Are things only valued if they are seen through Western eyes? If I had been the first Zambian to see Stonehenge would anyone believe I had discovered it?</p>
+        <p>Sylvia Chilufya  New York</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor: Michael Gross's ''Chasing the Ultimate Waterfall'' (March 18) and the accompanying photos of Victoria Falls capture well the area's history and poetry. When my wife and I walked from the Zambia side across a footbridge to a verdant mesa island not as tall as the falls, we were thoroughly watered by the mist and saw, for the only time in our lives, a 360-degree rainbow. It wasn't just extra-ordinary, it was extraordinary. Would that some of its beauty fall upon the suffering citizens of Zimbabwe these days.</p>
+        <p>George Ubogy  Greenwich, Conn.</p>
+        <p>To the Editor: As a Zambian, I was delighted to see Victoria Falls splashed across the front page of the Travel Section. Then I spied the dreaded ''d'' word: discovery. In 2007 can The New York Times still be using this word? It's quite ironic considering that the same article says ''Livingstone began hearing about Victoria Falls -- called Mosi-oa-Tunya, or 'the smoke that thunders,' by Africans.'' If the locals had a name for them then they existed before he saw them. Being the first European to see them is not the same as discovering them. Are things only valued if they are seen through Western eyes? If I had been the first Zambian to see Stonehenge would anyone believe I had discovered it?</p>
+        <p>Sylvia Chilufya  New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

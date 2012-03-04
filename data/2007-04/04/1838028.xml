@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Masters of the New Universe</title>
+    <meta content="04dealintro" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="DealBook" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="H" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="http://www.nytimes.com/2007/04/04/business/04dealintro.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1838028"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="M &amp; A"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="indexing_service" type="descriptor">Special Sections</classifier>
+        <person class="indexing_service">Sorkin, Andrew Ross</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Executive</classifier>
+        <classifier class="online_producer" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="descriptor">Executives and Management</classifier>
+        <classifier class="online_producer" type="general_descriptor">Executives and Management</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070404T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CEFD61F30F937A35757C0A9619C8B63" item-length="333" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Masters of the New Universe</hl1>
+        <hl2 class="online_headline">Masters of the New Universe</hl2>
+      </hedline>
+      <byline class="print_byline">By ANDREW ROSS SORKIN</byline>
+      <byline class="normalized_byline">Sorkin, Andrew Ross</byline>
+      <abstract>
+        <p>Many of marquee mergers and buyouts of recent years have been dominated by relatively short list of players, notably kingpins from private equity and some billionaire financiers, advised by investment bankers, lawyers and other professionals; chart shows most important deal makers of recent years, and some of deals they were connected with (special section, DealBook) (L)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE transactions are big, but Wall Street's top tier of deal making can seem like a small world.</p>
+        <p>Many of the marquee mergers and buyouts of recent years have been dominated by a relatively short list of players, notably kingpins from private equity and some billionaire financiers, advised by investment bankers, lawyers and other professionals.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Many of the marquee mergers and buyouts of recent years have been dominated by a relatively short list of players.</p>
+      </block>
+      <block class="full_text">
+        <p>THE transactions are big, but Wall Street's top tier of deal making can seem like a small world.</p>
+        <p>Many of the marquee mergers and buyouts of recent years have been dominated by a relatively short list of players, notably kingpins from private equity and some billionaire financiers, advised by investment bankers, lawyers and other professionals.</p>
+        <p>Their universe is one of shifting alliances and strange bedfellows, in which professionals on the same team in one deal may be on opposite sides of another fierce bidding war -- in a conference room across the hall.</p>
+        <p>The links have grown as takeover targets have gotten larger, often requiring buyers to band together. Consider last year's deal for Freescale Semiconductor, in which two consortiums -- each of which included four major private equity firms and an armada of advisers -- battled to acquire the chip company, which was eventually sold for $17.6 billion.</p>
+        <p>A result is a six-degrees-of-Henry-Kravis separation (or Stephen Schwarzman), in which much of the community is connected through a dozen or so high-profile deals.</p>
+        <p>Here is a snapshot of the current deal ecosystem: we played connect-the-dots with 100 deal makers on Wall Street.</p>
+        <p>Some caveats: Each deal includes many more advisers than are listed, and many significant deals of the last few years are not represented. As a result, many top bankers, lawyers and buyout professionals are not here.</p>
+        <p>The chart is also selective in the transactions, so that some executives who are connected to only one deal could be connected to more. Because the mergers and acquisitions game has been skewed so heavily toward private equity deals recently, executives like James B. Lee Jr. of JPMorgan Chase, who has advised and financed many of the biggest leveraged buyouts, is linked to eight deals; while Felix G. Rohatyn, who has acted as sage on many big mergers over his career, is linked to only one deal. As megadeals keep coming, the ecosystem will also change, creating new connections and power brokers.</p>
+        <p>ANDREW ROSS SORKIN</p>
+        <p>M &amp; A</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

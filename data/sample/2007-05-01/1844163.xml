@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Questions Over Routine Screening for a Leading Cause of Blindness</title>
+    <meta content="01eye" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="PersonalHealth" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="H" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/05/01/health/01eye.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1844163"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Glaucoma"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Blindness</classifier>
+        <classifier class="online_producer" type="descriptor">Eyes and Eyesight</classifier>
+        <classifier class="online_producer" type="descriptor">Blindness</classifier>
+        <classifier class="online_producer" type="descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blindness</classifier>
+        <classifier class="online_producer" type="general_descriptor">Eyes and Eyesight</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070501T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04E4DB1F3FF932A35756C0A9619C8B63" item-length="428" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Questions Over Routine Screening for a Leading Cause of Blindness</hl1>
+        <hl2 class="online_headline">Questions Over Routine Screening for a Leading Cause of Blindness</hl2>
+      </hedline>
+      <byline class="print_byline">By NICHOLAS BAKALAR</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>GLAUCOMA, a chronic condition characterized by damage to the optic nerve, is the second-leading cause of blindness in the United States, but routine screening for it is controversial.</p>
+        <p>Glaucoma is caused by various eye diseases and, sometimes, by genetic defects. Early on, it has no symptoms. There is no cure, but it can be diagnosed by an eye exam, and early treatment can stop its progression. Glaucoma affects about 2.5 million people in the United States, and 130,000 of them will become legally blind. Half the people who have the disorder do not know it.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A panel of experts reports that it is impossible to determine whether there is any advantage in screening the general population for glaucoma.</p>
+      </block>
+      <block class="full_text">
+        <p>GLAUCOMA, a chronic condition characterized by damage to the optic nerve, is the second-leading cause of blindness in the United States, but routine screening for it is controversial.</p>
+        <p>Glaucoma is caused by various eye diseases and, sometimes, by genetic defects. Early on, it has no symptoms. There is no cure, but it can be diagnosed by an eye exam, and early treatment can stop its progression. Glaucoma affects about 2.5 million people in the United States, and 130,000 of them will become legally blind. Half the people who have the disorder do not know it.</p>
+        <p>So screening everyone for primary open-angle glaucoma, the most common type, is a good idea, right? Maybe. The United States Preventive Services Task Force, a federally sponsored panel of experts in primary care and prevention, reports that there are no studies establishing the effectiveness of screening and that the uncertainty of the benefit and the known risks of early treatment make it impossible to determine whether there is any advantage in screening the general population.</p>
+        <p>But in January, Dr. H. Dunbar Hoskins Jr., the executive vice president of the American Academy of Ophthalmology, urged them to reconsider. He wrote a letter to the task force arguing that the evidence suggests that testing older people for glaucoma would result in major health and quality-of-life benefits. He added that waiting for patients to present themselves increases the incidence of vision loss that might have been prevented by periodic screening and that treatment of glaucoma in its early stages is highly cost effective.</p>
+        <p>The problem begins with the difficulty of diagnosing glaucoma. It was once thought that increased pressure in the eye, caused by poor drainage of circulating fluid, was a sure sign of glaucoma. But it is now known that many people with glaucoma do not have increased pressure and that many who do will never develop glaucoma.</p>
+        <p>These problems are what led the Preventive Services Task Force to refrain from recommending screening, said Dr. Ned Calonge, its chairman.</p>
+        <p>Still, for certain groups of people, screening may be useful. ''People who have a family history and people of African-American descent have an increased risk,'' Dr. Calonge said. Glaucoma is the leading cause of blindness in African-Americans, and about five times as common as among whites.</p>
+        <p>Ultimately, Dr. Calonge said, it's an individual decision. ''People should discuss these things with those who know them best, with their eye doctor or their primary care physician,'' he said. ''If you do that, you have a much better sense of what should and shouldn't be done.''</p>
+        <p>Glaucoma</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

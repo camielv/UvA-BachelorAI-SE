@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>AirTran Raises Midwest Bid Again</title>
+    <meta content="02air" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="21" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/02/business/02air.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837575"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <org class="indexing_service">Airtran Holdings Inc</org>
+        <org class="indexing_service">Midwest Air Group</org>
+        <person class="indexing_service">Sorkin, Andrew</person>
+        <person class="indexing_service">De La Merced, Michael J</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <org class="online_producer">AirTran Holdings</org>
+        <org class="online_producer">Midwest Air Group Incorporated</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070402T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E1D71E30F931A35757C0A9619C8B63" item-length="343" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>AirTran Raises Midwest Bid Again</hl1>
+        <hl2 class="online_headline">AirTran Raises Midwest Bid Again</hl2>
+      </hedline>
+      <byline class="print_byline">By ANDREW ROSS SORKIN and MICHAEL J. de la MERCED</byline>
+      <byline class="normalized_byline">Sorkin, Andrew; De La Merced, Michael J</byline>
+      <abstract>
+        <p>Discount airline company AirTran Holdings plans to raise its hostile bid for Midwest Air Group third time, to $15 per share (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>AirTran Holdings, the discount airline company, is planning to raise its hostile bid for the Midwest Air Group a third time, to $15 a share, people briefed on the offer said last night. The company plans to announce the new bid today, these people said.</p>
+        <p>The bid, consisting of $9 in cash and .582 shares of AirTran for every share of Midwest, is about a third higher than AirTran's first bid, made in December. Shares in Midwest closed on Friday at $13.51. AirTran's shares closed at $10.27 on Friday.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>AirTran Holdings is said to be planning to raise its hostile bid for the Midwest Air Group a third time, to $15 a share.</p>
+      </block>
+      <block class="full_text">
+        <p>AirTran Holdings, the discount airline company, is planning to raise its hostile bid for the Midwest Air Group a third time, to $15 a share, people briefed on the offer said last night. The company plans to announce the new bid today, these people said.</p>
+        <p>The bid, consisting of $9 in cash and .582 shares of AirTran for every share of Midwest, is about a third higher than AirTran's first bid, made in December. Shares in Midwest closed on Friday at $13.51. AirTran's shares closed at $10.27 on Friday.</p>
+        <p>AirTran is also trying to nominate three directors to Midwest's board, which elects directors on a staggered schedule. The new bid is being submitted a week before the shareholder record date, April 9, that Midwest has set for a vote. The new bid could provide an incentive for arbitrage investors to jump into the stock in hopes of voting on AirTran's proposed directors.</p>
+        <p>Midwest has declined AirTran's approaches twice before as opportunistic and undervalued, but has held out the potential that it would accept a raised bid. After AirTran's first approach, Midwest said that it would add new routes and update its fleet of planes. After AirTran raised its bid again in January, Midwest's board recommended that the company's shareholders not tender their shares.</p>
+        <p>''In light of Midwest's future prospects, the interests of the shareholders and other stakeholders will be best served by Midwest continuing to pursue its long-term strategic plan,'' the board said in a regulatory filing.</p>
+        <p>AirTran, based in Orlando, Fla., has persisted in pursuing Midwest, based in Oak Creek, Wis., because its chairman, Joseph B. Leonard, believes the airline industry is in need of consolidation. Mr. Leonard supported USAirways' hostile $10.2 billion offer for Delta Air Lines, arguing that mergers would improve profit in the industry.</p>
+        <p>But such efforts have been resisted by other airlines and by Congress, which have cited job losses and rising fares. USAirways dropped its bid on Jan. 31 after failing to get support from Delta's creditors.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

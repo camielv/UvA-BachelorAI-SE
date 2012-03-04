@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>U.S. Database Exposed Thousands of Social Security Numbers</title>
+    <meta content="21data" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/21/washington/21data.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1841787"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Social Security (US)</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Identity Fraud</classifier>
+        <classifier class="indexing_service" type="descriptor">Privacy</classifier>
+        <org class="indexing_service">Agriculture Department</org>
+        <org class="indexing_service">Census Bureau</org>
+        <person class="indexing_service">Nixon, Ron</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Midwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Social Security (US)</classifier>
+        <classifier class="online_producer" type="descriptor">Privacy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Social Security (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Privacy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Identity Fraud</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <org class="online_producer">Agriculture Department</org>
+        <org class="online_producer">Census Bureau</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070421T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A01E3DA163EF932A15757C0A9619C8B63" item-length="827" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>U.S. Database Exposed Thousands of Social Security Numbers</hl1>
+        <hl2 class="online_headline">U.S. Database Exposed Social Security Numbers</hl2>
+      </hedline>
+      <byline class="print_byline">By RON NIXON</byline>
+      <byline class="normalized_byline">Nixon, Ron</byline>
+      <dateline>WASHINGTON, April 20</dateline>
+      <abstract>
+        <p>Agriculture Dept for years publicly listed Social Security numbers of tens of thousands of people who received financial aid from two of its agencies, raising concerns about identity theft and other privacy violations; officials at department and Census Bureau, which maintains database where personal information was listed, were unaware that it contained Social Security numbers; problem was reported to government by farmer in Illinois who stumbled across data on Internet; officials at Agriculture Dept and Census Bureau have removed numbers from Web site (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Agriculture Department for years publicly listed Social Security numbers of tens of thousands of people who received financial aid from two of its agencies, raising concerns about identity theft and other privacy violations.</p>
+        <p>Officials at the department and at the Census Bureau, which maintains the database where the personal information was listed, were evidently unaware that it contained Social Security numbers. The problem was reported to the government last week by a farmer in Illinois who stumbled across the data on the Internet.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Social Security numbers of tens of thousands of people were disclosed for years in a publicly available database.</p>
+      </block>
+      <block class="full_text">
+        <p>The Agriculture Department for years publicly listed Social Security numbers of tens of thousands of people who received financial aid from two of its agencies, raising concerns about identity theft and other privacy violations.</p>
+        <p>Officials at the department and at the Census Bureau, which maintains the database where the personal information was listed, were evidently unaware that it contained Social Security numbers. The problem was reported to the government last week by a farmer in Illinois who stumbled across the data on the Internet.</p>
+        <p>''I was bored and typed the name of my farm into Google to see what was out there,'' said Marsha Bergmeier, president of Mohr Family Farms in Fairmount, Ill.</p>
+        <p>The first link in the results was to the Web site of Ms. Bergmeier's farm. The second was to a site that Ms. Bergmeier had not heard of, FedSpending.org, which has a searchable listing of federal government expenditures. It uses information from the government database.</p>
+        <p>Ms. Bergmeier said she was able to identify almost 30,000 records in the database that contained Social Security numbers.</p>
+        <p>''I was stunned,'' she said. ''The numbers were right there in plain view in this database that anyone can access.''</p>
+        <p>While there is no evidence that the information has been used improperly, officials at the Agriculture Department and the Census Bureau removed the numbers from the census Web site last week.</p>
+        <p>Officials said the Agriculture Department's use of Social Security numbers in a public database was common practice when the database was first created, before online identify theft was a well-known problem.</p>
+        <p>Department officials said that more recently when government agencies began reviewing public databases to remove personal information like Social Security numbers, they failed to notice the numbers' being published in this instance. Terri Teuber, a department spokeswoman, said the agency was notifying those whose Social Security numbers were on the site. She said the agency planned to contract with a company to monitor the credit reports of those whose numbers were disclosed.</p>
+        <p>''We took swift action when this was brought to our attention and took the information down,'' Ms. Teuber said. ''We want to make sure that it doesn't exist on any publicly available Web site.''</p>
+        <p>The department said its review of the database showed that 63,000 people could be at risk.</p>
+        <p>Officials at the White House Office of Management and Budget, which oversees the database, said they believed that the disclosure of the Social Security numbers was limited to the Agriculture Department information.</p>
+        <p>''We take the loss or exposure of personal identifiable information very serious,'' said Sean Kevelighan, a spokesman for the budget office, ''but we are confident that this is an isolated incident.''</p>
+        <p>Privacy advocates, however, say the actions by the agencies may not be enough. The database is more than two decades old and is used by federal and state agencies, researchers, journalists and private citizens to track government spending. Thousands of copies of the database exist.</p>
+        <p>Marc Rotenberg, executive director of the Electronic Privacy Information Center, a privacy rights group, said the improper disclosures might have violated the Federal Privacy Act, which restricts the release of such personal information. ''Federal agencies are under strict obligations to limit the use of Social Security numbers as an identifier,'' Mr. Rotenberg said. ''It doesn't look like that's what happened in this case.''</p>
+        <p>Officials from the budget office say they do not think disclosure of the numbers by the Agriculture Department violates the Privacy Act because the numbers were not displayed by themselves in the data, but as part of a larger number.</p>
+        <p>FedSpending.org is owned by the nonprofit OMB Watch, a group that monitors the Office of Management and Budget.</p>
+        <p>The group created the site last year to provide public access to government contracts and grants in a searchable database. Users can search by company or individual names to see who got federal money.</p>
+        <p>OMB Watch said it agreed to take down the data on its Web site for 30 days while the government fixed the problem. Gary Bass, executive director of OMB Watch, said the agency's use of Social Security numbers in the database was ''deplorable.''</p>
+        <p>''It is most unfortunate that at least one agency has been inserting personally identifiable information into this database for a number of years,'' Mr. Bass said.</p>
+        <p>He said the database was a valuable tool for government transparency and public disclosure and hoped that officials could design a system that provided useful information while protecting privacy.</p>
+        <p>The disclosure of Social Security numbers in the census database is the latest in a string of data breaches at federal agencies in the past few years. Last year, hackers accessed an Agriculture Department database containing the names, Social Security numbers and photos of current and former agency employees.</p>
+        <p>The Department of Energy, the Navy, the Department of Veterans Affairs, the Social Security Administration and the Internal Revenue Service also suffered data breaches last year where personal information was lost or stolen.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

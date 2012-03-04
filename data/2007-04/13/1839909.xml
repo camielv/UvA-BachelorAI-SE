@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>THE CHURN</title>
+    <meta content="13churn" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1839909"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="indexing_service" type="descriptor">Suits and Litigation</classifier>
+        <classifier class="indexing_service" type="descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Human Resources</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Management</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070413T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07E3DB133FF930A25757C0A9619C8B63" item-length="307" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>THE CHURN</hl1>
+      </hedline>
+      <abstract>
+        <p>The Churn column on litigation related to recent corporate mergers and company appointments (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>People</p>
+        <p>Michele Hirshman, first deputy attorney general of New York under Eliot Spitzer, is joining Paul, Weiss, Rifkind, Wharton &amp; Garrison as a partner. She will focus on internal investigations and white-collar defense.</p>
+        <p>Ptarmigan Capital, an asset management firm specializing in real estate-related investments, has named Arvind K. Bajaj, formerly of Credit Suisse, as a principal of the firm.</p>
+      </block>
+      <block class="full_text">
+        <p>People</p>
+        <p>Michele Hirshman, first deputy attorney general of New York under Eliot Spitzer, is joining Paul, Weiss, Rifkind, Wharton &amp; Garrison as a partner. She will focus on internal investigations and white-collar defense.</p>
+        <p>Ptarmigan Capital, an asset management firm specializing in real estate-related investments, has named Arvind K. Bajaj, formerly of Credit Suisse, as a principal of the firm.</p>
+        <p>Richard Pustorino has joined Credit Suisse as a director and senior United States consultant relationship manager in asset management. He was previously with DuPont Capital Management. John Ricketts, formerly of CDR Financial Products, has also joined as a director in asset management, and Rinku Gyani, formerly of Lazard Asset Management, has joined as a vice president.</p>
+        <p>Kim Waldman has joined BNP Paribas Securities in New York as a director in alternative investments fund services sales. Fabian Banchiero has joined as a vice president in sales and relationship management for global fund services.</p>
+        <p>Mark J. Botti, a former senior official in the antitrust division of the Justice Department, is joining Akin Gump Strauss Hauer &amp; Feld as a partner.</p>
+        <p>BMO Capital Markets has hired Scott R. Singer as a managing director in its media, communications and technology group. Mr. Singer was previously a partner at Deloitte Touche and head of its United States media and entertainment practice.</p>
+        <p>Adam Frieman, until recently the deputy head of United States equity capital markets at UBS, has joined Probitas Partners as a principal in its New York office. Based in San Francisco, Probitas provides services including placement of private equity funds.</p>
+        <p>Michael A. Battle, former director of the executive office for United States attorneys at the Justice Department, has joined Fulbright &amp; Jaworski's Washington office as a partner.</p>
+        <p>Edward J. Johnsen, a law partner Winston &amp; Strawn, has been elected chairman of the market operations review committee of the Nasdaq Stock Market.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

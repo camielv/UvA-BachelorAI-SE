@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   ARBESFELD, ARTHUR (ARTIE)</title>
+    <meta content="dn042307.2" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1842342"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">ARBESFELD, ARTHUR (ARTIE)</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070423T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E06EFD61F3AF930A15757C0A9619C8B63" item-length="60" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   ARBESFELD, ARTHUR (ARTIE)</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ARBESFELD--Arthur (Artie), beloved husband of Sylvia (Vapnek), devoted father of Gail May (Steve) and Mark (Nina), loving grandfather of Ryan, Jaime and Max, brother of Mel, Eileen Glick and the late Norman. Services Tuesday, 12:15pm, ''Sinai Chapels'' 162-05 Horace Harding Expressway, Fresh Meadows, NY. Interment Wellwood Cemetery, Farmingdale, NY. Donations may be made to a charity of your choice.</p>
+      </block>
+      <block class="full_text">
+        <p>ARBESFELD--Arthur (Artie), beloved husband of Sylvia (Vapnek), devoted father of Gail May (Steve) and Mark (Nina), loving grandfather of Ryan, Jaime and Max, brother of Mel, Eileen Glick and the late Norman. Services Tuesday, 12:15pm, ''Sinai Chapels'' 162-05 Horace Harding Expressway, Fresh Meadows, NY. Interment Wellwood Cemetery, Farmingdale, NY. Donations may be made to a charity of your choice.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

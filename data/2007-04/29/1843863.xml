@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Do You Hear What I Hear?</title>
+    <meta content="29letts-5" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1843863"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blacks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Radio</classifier>
+        <classifier class="online_producer" type="general_descriptor">Discrimination</classifier>
+        <classifier class="online_producer" type="general_descriptor">Basketball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Women</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F04E1D6123EF93AA15757C0A9619C8B63" item-length="187" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Do You Hear What I Hear?</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''When You Meet an Imus,'' by Bob Morris (Age of Dissonance, April 22):</p>
+        <p>As a criminal defense attorney, dealing with racial prejudice is important in jury selection. I was taught to ask a series of questions about prejudice and bias: Ever heard an ethnic joke? Ever told one, or have one told about your ''kind'' while you were present? The follow-up questions about what they might have thought about it and why they picked on a particular group, led to other questions: When you heard it, and didn't like it, did you say anything about it? When you said it, did anyone tell you it wasn't funny?</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''When You Meet an Imus,'' by Bob Morris (Age of Dissonance, April 22):</p>
+        <p>As a criminal defense attorney, dealing with racial prejudice is important in jury selection. I was taught to ask a series of questions about prejudice and bias: Ever heard an ethnic joke? Ever told one, or have one told about your ''kind'' while you were present? The follow-up questions about what they might have thought about it and why they picked on a particular group, led to other questions: When you heard it, and didn't like it, did you say anything about it? When you said it, did anyone tell you it wasn't funny?</p>
+        <p>The answers I got from the overwhelmingly white, older jury -- this was in an upstate rural county, and cases involved black state-prison inmates mostly from New York City -- provoked much discussion and, I believe, opened the eyes of potential jurors to the insidious nature of how prejudice can infect our lives. And by being a little more aware, I think we were able to select fairer and less-biased jurors.</p>
+        <p>Greg D. Lubow  Tannersville, N.Y.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

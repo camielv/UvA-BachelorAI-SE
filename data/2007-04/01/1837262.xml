@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Designers Do Affordable (No Fooling)</title>
+    <meta content="01pulse" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/01/fashion/01pulse.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837262"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="PULSE"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Fashion, Beauty and Fitness</classifier>
+        <classifier class="online_producer" type="descriptor">Alcoholic Beverages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Shoes and Boots</classifier>
+        <classifier class="online_producer" type="general_descriptor">Watches and Clocks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Beverages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Apparel</classifier>
+        <classifier class="online_producer" type="general_descriptor">Alcoholic Beverages</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D03E7DD1130F932A35757C0A9619C8B63" item-length="70" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Designers Do Affordable (No Fooling)</hl1>
+        <hl2 class="online_headline">Designers Do Affordable (No Fooling)</hl2>
+      </hedline>
+      <byline class="print_byline">By ELLEN TIEN
+&lt;p&gt;</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>When shopping, it can be all too easy to feel as if you're being taken for a fool, handing over a deck of bills for a scrap of black fabric with two buttons. These days, though, designers are making it easier for shoppers to deceive rather than be deceived, colluding with stores to create lower-priced lines. Below, eight pieces that can help you say -- silently -- April Fool.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>These days designers are making it easier for shoppers to deceive rather than be deceived, colluding with stores to create lower-priced lines.</p>
+      </block>
+      <block class="full_text">
+        <p>When shopping, it can be all too easy to feel as if you're being taken for a fool, handing over a deck of bills for a scrap of black fabric with two buttons. These days, though, designers are making it easier for shoppers to deceive rather than be deceived, colluding with stores to create lower-priced lines. Below, eight pieces that can help you say -- silently -- April Fool.  PULSE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Got a Zillion Songs? A Gadget to Help You Take Your Show on the Road</title>
+    <meta content="19harman" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/19/technology/19harman.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1841337"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CIRCUITS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/On the Road</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070419T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E5D91E3FF93AA25757C0A9619C8B63" item-length="190" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Got a Zillion Songs? A Gadget to Help You Take Your Show on the Road</hl1>
+        <hl2 class="online_headline">Got a Zillion Songs? A Gadget to Help You Take Your Show on the Road</hl2>
+      </hedline>
+      <byline class="print_byline">By IVAN BERGER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A zillion gadgets, it seems, let you pipe music from a portable player through your car stereo. But not all let you control the player with a separate knob and are both neat and easy to install.</p>
+        <p>Harman Kardon says a modular system like its Drive + Play 2 can do all of that. Coming next month for $400, in stores and online, it includes a 3.5-inch dashtop color display screen, a wireless control knob (for volume, muting, music selection, and iPod menu controls) that can be mounted wherever convenient, and a connection hub.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Harman Kardon’s Drive + Play 2 lets you control a portable music player via a wireless control knob that can be mounted wherever convenient.</p>
+      </block>
+      <block class="full_text">
+        <p>A zillion gadgets, it seems, let you pipe music from a portable player through your car stereo. But not all let you control the player with a separate knob and are both neat and easy to install.</p>
+        <p>Harman Kardon says a modular system like its Drive + Play 2 can do all of that. Coming next month for $400, in stores and online, it includes a 3.5-inch dashtop color display screen, a wireless control knob (for volume, muting, music selection, and iPod menu controls) that can be mounted wherever convenient, and a connection hub.</p>
+        <p>The hub's U.S.B. connection works with Apple's iPod, Microsoft's Zune, and most other players. The hub has a line output for direct connection to stereos with audio inputs, and an FM modulator to broadcast music to stereos without them. A lighter-socket plug powers the hub but snaps off to reveal connections that can be wired into your dash. A software voice speaks menu names and initial letters as you turn the control knob, so you can keep your eyes on the road -- helpful to people whose players hold a zillion songs.</p>
+        <p>IVAN BERGER</p>
+        <p>CIRCUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

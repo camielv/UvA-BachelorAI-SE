@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Compact Cellphone With a Full Bag of Tricks</title>
+    <meta content="12phone" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/12/technology/12phone.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1839686"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CIRCUITS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Cellular Telephones</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cellular Telephones</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cameras</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Positioning System</classifier>
+        <classifier class="online_producer" type="general_descriptor">Navigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+        <org class="online_producer">Nokia Corp</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070412T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B07E3DA123FF931A25757C0A9619C8B63" item-length="175" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Compact Cellphone With a Full Bag of Tricks</hl1>
+        <hl2 class="online_headline">A Compact Cellphone With a Full Bag of Tricks</hl2>
+      </hedline>
+      <byline class="print_byline">By JOHN BIGGS</byline>
+      <byline class="normalized_byline">Biggs, John</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>As with a clown-filled Volkswagen Beetle, the outside of the diminutive N95 cellphone from Nokia belies what's inside.</p>
+        <p>The four-ounce N95 includes a bright VGA screen and stereo speakers for video and music, a miniSD memory card slot and a plethora of wireless features. Available online (www.nseries.com) and from Nokia stores, the phone supports quad-band G.S.M. and includes Wi-Fi and high-speed wireless data services, along with G.P.S. location tracking. The phone, which is not subsidized by wireless companies, costs $749.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>As with a clown-filled Volkswagen Beetle, the outside of the diminutive N95 cellphone from Nokia belies what’s inside.</p>
+      </block>
+      <block class="full_text">
+        <p>As with a clown-filled Volkswagen Beetle, the outside of the diminutive N95 cellphone from Nokia belies what's inside.</p>
+        <p>The four-ounce N95 includes a bright VGA screen and stereo speakers for video and music, a miniSD memory card slot and a plethora of wireless features. Available online (www.nseries.com) and from Nokia stores, the phone supports quad-band G.S.M. and includes Wi-Fi and high-speed wireless data services, along with G.P.S. location tracking. The phone, which is not subsidized by wireless companies, costs $749.</p>
+        <p>The phone has two modes. Sliding up the screen reveals a dial pad for phone and messaging features. Sliding it down reveals track control buttons for the music and video player.</p>
+        <p>The five-megapixel front camera has a flash and Carl Zeiss optics, and there is a small camera above the screen for video chats. The phone has two processors, one for the smart-phone features and one for graphics processing. This means the N95 can play back multiple video formats and impressively render video games. Big shoes and red noses are optional.</p>
+        <p>JOHN BIGGS</p>
+        <p>CIRCUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

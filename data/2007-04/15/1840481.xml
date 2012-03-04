@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Meredith Lissack, Matthew Goldstein</title>
+    <meta content="15lissack" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/15/fashion/weddings/15lissack.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840481"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Lissack, Meredith (Meredith Goldstein)</person>
+        <person class="indexing_service">Goldstein, Dr. Matthew Alan</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9805E0D9133FF936A25757C0A9619C8B63" item-length="150" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Meredith Lissack, Matthew Goldstein</hl1>
+        <hl2 class="online_headline">Meredith Lissack, Matthew Goldstein</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Meredith Lissack, the daughter of Carol and Rafael Lissack of Philadelphia, was married last evening to Dr. Matthew Alan Goldstein, a son of Amy and George Goldstein of Larchmont, N.Y. Rabbi Ramie Arian officiated at the Park Hyatt Philadelphia at the Bellevue.</p>
+        <p>Mrs. Goldstein, 29, teaches art at New York City Lab School for Collaborative Studies, a public school. She graduated from New York University, where she also received a master's degree in childhood education and special education.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Meredith Lissack, the daughter of Carol and Rafael Lissack of Philadelphia, was married last evening to Dr. Matthew Alan Goldstein, a son of Amy and George Goldstein of Larchmont, N.Y. Rabbi Ramie Arian officiated at the Park Hyatt Philadelphia at the Bellevue.</p>
+      </block>
+      <block class="full_text">
+        <p>Meredith Lissack, the daughter of Carol and Rafael Lissack of Philadelphia, was married last evening to Dr. Matthew Alan Goldstein, a son of Amy and George Goldstein of Larchmont, N.Y. Rabbi Ramie Arian officiated at the Park Hyatt Philadelphia at the Bellevue.</p>
+        <p>Mrs. Goldstein, 29, teaches art at New York City Lab School for Collaborative Studies, a public school. She graduated from New York University, where she also received a master's degree in childhood education and special education.</p>
+        <p>Her father owned and operated five ShopRite supermarkets in the Philadelphia area until last year. Her mother owns and manages residential real estate in Philadelphia.</p>
+        <p>Dr. Goldstein, also 29, is a second-year resident in internal medicine at Mount Sinai Medical Center in New York. He graduated from Brown and received his medical degree from N.Y.U.</p>
+        <p>His parents are psychoanalysts in Larchmont, and his father also has a practice in Great Neck, N.Y.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Russian Oligarch Goes Shopping</title>
+    <meta content="29suits-1" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1843854"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="OPENERS: SUITS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Suits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Construction and Maintenance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Building (Construction)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B00E5D6123EF93AA15757C0A9619C8B63" item-length="192" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Russian Oligarch Goes Shopping</hl1>
+      </hedline>
+      <byline class="print_byline">By ANDREW E. KRAMER</byline>
+      <byline class="normalized_byline">Kramer, Andrew E</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Oleg V. Deripaska, the second-richest man in Russia, further pushed the boundaries of his automobiles-to-aluminum empire last week when his holding company, Basic Element, bought 30 percent of the Austrian construction company Strabag for $1.6 billion.</p>
+        <p>Mr. Deripaska, 39, a former nuclear physicist, along with the other Russian billionaires known as oligarchs, is making ever-bolder forays outside Russia. In recent years, Basic Element has snapped up assets from Guyana to Britain.</p>
+      </block>
+      <block class="full_text">
+        <p>Oleg V. Deripaska, the second-richest man in Russia, further pushed the boundaries of his automobiles-to-aluminum empire last week when his holding company, Basic Element, bought 30 percent of the Austrian construction company Strabag for $1.6 billion.</p>
+        <p>Mr. Deripaska, 39, a former nuclear physicist, along with the other Russian billionaires known as oligarchs, is making ever-bolder forays outside Russia. In recent years, Basic Element has snapped up assets from Guyana to Britain.</p>
+        <p>At home, the oligarchs' fortunes are more uncertain. President Vladimir V. Putin is pursuing policies of state ownership in oil, automotives and aerospace. Mr. Deripaska, however, remains exceptionally well connected -- no small matter to the banks underwriting his billion-dollar deals. Forbes estimates his worth at $16.8 billion, behind only Roman A. Abramovich. As an example of his proximity to power, analysts of the oligarchy have pointed out that Mr. Deripaska is married to the step-granddaughter of the late former President Boris N. Yeltsin; Mr. Deripaska has played down the tie as irrelevant to his business activities. In any case, Mr. Deripaska did not play a public role in the funeral last week for Mr. Yeltsin.</p>
+        <p>ANDREW E. KRAMER</p>
+        <p>OPENERS: SUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

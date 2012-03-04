@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>World Briefing | Middle East: Lebanon: Sunnis' Bodies Found After Kidnapping</title>
+    <meta content="27briefs-2" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1843282"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Kidnapping</classifier>
+        <location class="indexing_service">Lebanon</location>
+        <location class="indexing_service">Beirut (Lebanon)</location>
+        <org class="indexing_service">Hezbollah</org>
+        <person class="indexing_service">Bakri, Nada</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Lebanon/Beirut</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Lebanon</classifier>
+        <classifier class="online_producer" type="general_descriptor">Kidnapping</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070427T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D02E6DD123EF934A15757C0A9619C8B63" item-length="98" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>World Briefing | Middle East: Lebanon: Sunnis' Bodies Found After Kidnapping</hl1>
+      </hedline>
+      <byline class="print_byline">By NADA BAKRI</byline>
+      <byline class="normalized_byline">Bakri, Nada</byline>
+      <abstract>
+        <p>Lebanese police find bodies of Sunni man and 12-year-old Sunni boy in Beirut; their abduction has already prompted concerns of rising sectarian tensions; their families are members of pro-government party that is opponent of Hezbollah; local reports say two were kidnapped by members of Shiite clan to avenge killing of relative in January (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The police found the bodies of a 25-year-old Sunni man and a 12-year-old Sunni boy whose abduction on Monday had already prompted concerns of rising sectarian tensions. The bodies were found in a field southeast of Beirut after an anonymous call to a television station. Their families are members of the pro-government party of the Druse leader Walid Jumblatt, an opponent of Hezbollah, the militant Shiite organization. Local reports said the two were kidnapped by members of a Shiite clan to avenge the killing of a relative in January. Mr. Jumblatt appealed for calm.</p>
+        <p>NADA BAKRI</p>
+      </block>
+      <block class="full_text">
+        <p>The police found the bodies of a 25-year-old Sunni man and a 12-year-old Sunni boy whose abduction on Monday had already prompted concerns of rising sectarian tensions. The bodies were found in a field southeast of Beirut after an anonymous call to a television station. Their families are members of the pro-government party of the Druse leader Walid Jumblatt, an opponent of Hezbollah, the militant Shiite organization. Local reports said the two were kidnapped by members of a Shiite clan to avenge the killing of a relative in January. Mr. Jumblatt appealed for calm.</p>
+        <p>NADA BAKRI</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

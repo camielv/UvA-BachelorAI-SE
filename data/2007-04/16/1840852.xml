@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bruno Reads Up on Spitzer</title>
+    <meta content="16empire-2" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1840852"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE EMPIRE ZONE"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070416T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F06E1DC113FF935A25757C0A9619C8B63" item-length="161" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bruno Reads Up on Spitzer</hl1>
+      </hedline>
+      <byline class="print_byline">By DANNY HAKIM</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>What's on the reading list of the Senate majority leader, Joseph L. Bruno?</p>
+        <p>''Spoiling for a Fight,'' the 2006 biography of Governor Spitzer written by Brooke A. Masters, now a reporter at The Financial Times.</p>
+      </block>
+      <block class="full_text">
+        <p>What's on the reading list of the Senate majority leader, Joseph L. Bruno?</p>
+        <p>''Spoiling for a Fight,'' the 2006 biography of Governor Spitzer written by Brooke A. Masters, now a reporter at The Financial Times.</p>
+        <p>Mr. Bruno, the state's top Republican, was the governor's principal sparring partner during the budget negotiations, even getting into a shouting match with Mr. Spitzer in the governor's office. Many observers in both parties said Mr. Bruno, 78, held his own against the 47-year-old governor, winning concessions on health care and increased education aid for Long Island, a stronghold of Senate Republicans.</p>
+        <p>Why read up now on the governor's back story?</p>
+        <p>''He had certainly heard some things about the book, and after 100 days, he thought it would be a good opportunity to get to know the governor a little better,'' said John McArdle, a spokesman for Mr. Bruno, right. Mr. McArdle has his own copy of the book on his desk.</p>
+        <p>DANNY HAKIM</p>
+        <p>THE EMPIRE ZONE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Resurrection, Not Destruction</title>
+    <meta content="15alsmail-5" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1840384"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="HANDEL AND THE JEWS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <person class="indexing_service">Crouch, Cliff</person>
+        <person class="indexing_service">Handel, George Frederick (1685-1759)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9401E0D8123FF936A25757C0A9619C8B63" item-length="146" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Resurrection, Not Destruction</hl1>
+      </hedline>
+      <abstract>
+        <p>Clifford Crouch letter about April 8 article on Handel's Messiah says piece celebrates not destruction of Temple in Jerusalem but resurrection of Jesus as Messiah (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>What an odd piece of work this article is, combining a guilt-by-association worldview with a six-degrees-of-separation mentality. From the bishop Richard Kidder in the 1690s to the 17th-century scholar Henry Hammond to the librettist Charles Jennens to Handel ''and his contemporaries.'' Behold! An anti-Semitic conspiracy has been exposed.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>What an odd piece of work this article is, combining a guilt-by-association worldview with a six-degrees-of-separation mentality. From the bishop Richard Kidder in the 1690s to the 17th-century scholar Henry Hammond to the librettist Charles Jennens to Handel ''and his contemporaries.'' Behold! An anti-Semitic conspiracy has been exposed.</p>
+        <p>May I suggest a wacky alternative? Handel composed his oratorio not for Lent, as Mr. Marissen argues, but for Easter. He worked with sacred texts submitted to him, just as in the past he had worked with the inane librettos of countless operas now forgotten. This time, however, he was (as he later attested) God-inspired, exaltedly composing a series of arias and choruses within a few short weeks. And the ''unseemly rejoicing'' of the ''Hallelujah'' chorus actually celebrates Christianity's central event, the resurrection of Jesus as Messiah.</p>
+        <p>Clifford Crouch  Brookside Village, Tex.</p>
+        <p>HANDEL AND THE JEWS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

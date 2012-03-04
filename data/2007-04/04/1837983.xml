@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Strategist's Conversion</title>
+    <meta content="l04bush" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837983"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070404T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E4D71F30F937A35757C0A9619C8B63" item-length="233" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Strategist's Conversion</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Ex-Aide Details a Loss of Faith in the President'' (front page, April 1):</p>
+        <p>What is so impressive about Matthew Dowd's public confession of having misplaced his faith in the president is that it highlights the fact that George W. Bush does not and will not admit to any mistakes on his part. It also highlights the paradox in democracy.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Ex-Aide Details a Loss of Faith in the President'' (front page, April 1):</p>
+        <p>What is so impressive about Matthew Dowd's public confession of having misplaced his faith in the president is that it highlights the fact that George W. Bush does not and will not admit to any mistakes on his part. It also highlights the paradox in democracy.</p>
+        <p>We want a leader to lead and to attend to the will of the people at the same time. But you cannot have it both ways. Mr. Bush has certainly been a leader. But what do you do when the leadership is flawed?</p>
+        <p>In England, the party in power can be immediately voted out by Parliament when confidence in it has been lost. But here we have to wait four or six years until we can change the government. In that time, a lot of damage can be and has been done.</p>
+        <p>Sara Nicoll  New York, April 2, 2007</p>
+        <p>To the Editor:</p>
+        <p>Matthew Dowd's emotional pain could be felt through the printed word. His loss of faith speaks to our being more cautious, questioning and staying informed to prevent blind following of any politician.</p>
+        <p>He spoke of working for more gentleness in the election process. I would just be happy with honesty that stays with issues versus character assassination.</p>
+        <p>Jean Lightfoot-Faris  Anderson, Ind., April 1, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

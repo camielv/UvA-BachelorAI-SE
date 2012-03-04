@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Times's Picture of TV Viewing Is Fuzzier Than It Appears</title>
+    <meta content="08pubed" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/08/opinion/08pubed.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1838865"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE PUBLIC EDITOR"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Contributors</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/The Public Editor/Calame</classifier>
+        <classifier class="online_producer" type="descriptor">News and News Media</classifier>
+        <classifier class="online_producer" type="descriptor">Television</classifier>
+        <classifier class="online_producer" type="descriptor">Ratings and Rating Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ratings and Rating Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <org class="online_producer">New York Times</org>
+        <org class="online_producer">Nielsen Media Research</org>
+        <person class="online_producer">Sifton, Sam</person>
+        <person class="online_producer">Sulzberger, Arthur Jr</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070408T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E5DF143FF93BA35757C0A9619C8B63" item-length="1480" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Times's Picture of TV Viewing Is Fuzzier Than It Appears</hl1>
+        <hl2 class="online_headline">The Times’s Picture of TV Viewing Is Fuzzier Than It Appears</hl2>
+      </hedline>
+      <byline class="print_byline">By Byron Calame</byline>
+      <byline class="normalized_byline">Calame, Byron</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE opening paragraph of a Times front page story on March 1 asserted that ABC's ''World News'' had ''scored its second ratings victory in the last three weeks'' over NBC's evening newscast. Splashed across a graphic next to the article were average viewer totals for the two programs for each of the previous four weeks.</p>
+        <p>But The Times failed to tell readers there was no statistical significance to any of the differences cited between the two network newscasts' weekly audience numbers, which were based on a Nielsen Media Research survey of a sample of viewers. There was no mention of the margin of sampling error, a number representing how much the real audience could vary from the Nielsen survey result if there were an actual count of everyone watching television at that time.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>It’s time for The Times to get real with readers on the margin of error for television audience numbers.</p>
+      </block>
+      <block class="full_text">
+        <p>THE opening paragraph of a Times front page story on March 1 asserted that ABC's ''World News'' had ''scored its second ratings victory in the last three weeks'' over NBC's evening newscast. Splashed across a graphic next to the article were average viewer totals for the two programs for each of the previous four weeks.</p>
+        <p>But The Times failed to tell readers there was no statistical significance to any of the differences cited between the two network newscasts' weekly audience numbers, which were based on a Nielsen Media Research survey of a sample of viewers. There was no mention of the margin of sampling error, a number representing how much the real audience could vary from the Nielsen survey result if there were an actual count of everyone watching television at that time.</p>
+        <p>Ron Haggart of Toronto was one reader who noticed. ''Nowhere in a major front page story about the audiences for network television newscasts does The Times admit the existence of something called 'the margin of error,' '' he wrote, ''and The Times certainly doesn't report what it is.''</p>
+        <p>Delving into the complaint, I found that The Times has kept readers in the dark for years about the real-world significance of the Nielsen television audience data it publishes regularly. Over the past 25 years, only two of the 3,124 archived articles that mentioned Nielsen and ''ratings'' included a reference to the margin of error. And two recent newsroom-wide initiatives calling for publication of the margin of error on sample-based surveys haven't yet produced any change. It's time for The Times to get real with readers.</p>
+        <p>Nielsen presents a problem. It doesn't provide news organizations with the margin of error for its television audience data, although it offers paying clients a way to calculate the margin of error on their own. Despite his cautioning that Nielsen's numbers are ''estimates'' that ''should not be construed literally,'' Gary Holmes, a spokesman, said the company lacks ''the resources'' to calculate the margin of error on the ''hundreds of rating numbers a week'' it provides to The Times and other media outlets.</p>
+        <p>More disturbing to me are the Times editors who seem comfortable with the audience numbers unencumbered by details regarding statistical significance.</p>
+        <p>''Because the numbers are widely understood to be an industry standard -- margins of error are never attached to them in any medium I've seen,'' Sam Sifton, the culture editor, wrote in an e-mail. ''The editor responsible for television news at The Times, Steve Reddicliffe, tells me he has never seen anyone invoke margin of error on a Nielsen number in nearly 30 years of covering the beat.''</p>
+        <p>Why not at least tell readers that Nielsen didn't provide the margin of error for its ''estimates''? I put that question to Bruce Headlam, the editor in charge of the Monday business section, where charts of Nielsen's audience data appear weekly. ''If we run a large disclaimer saying, in effect, this company is withholding a critical piece of information, I imagine many readers would simply turn the page,'' he wrote in an e-mail.</p>
+        <p>So it wasn't surprising to learn from Mr. Sifton that the two reporters on the March 1 article did not specifically check the margin of error on any of the audience data for the network newscasts. One result: The first weekly ''victory'' it proclaimed for the ABC newscast anchored by Charles Gibson came in the Monday-Friday period ended Feb. 9; ABC's nightly viewer total averaged 9.7 million, compared with 9.5 million for NBC and Brian Williams.</p>
+        <p>But the margin of error, Mr. Holmes confirmed for me in broad terms, was plus or minus at least 200,000 viewers (and probably closer to 280,000). That meant the real ABC average for the week could have been as low as 9.5 million viewers, trailing an actual NBC audience that could have averaged as much as 9.7 million. ABC's other weekly ''victory'' noted in the March 1 story also was based on a difference that was not statistically significant.</p>
+        <p>Of course, ABC's evening newscast may well have been gaining ground over the past year, as the article suggested. But the recent weekly Nielsen rating results highlighted in The Times's March 1 article, with their lack of statistical significance, proved mainly that it was a close race at that time.</p>
+        <p>Every Monday, a Times ranking of the top 10 prime time broadcast television programs uses a Nielsen rating that indicates how many households watched each show the previous week. On March 26, ''60 Minutes'' ranked No. 8 with a 9.2 Nielsen rating. (Each rating point represents 1.1 million homes.) With a margin of error of 0.3-rating point, a figure Mr. Holmes confirmed for me, there was no statistically significant difference between the rating of ''60 Minutes'' and any of the three programs above it in the ranking, or either of the two below it. With no mention of the margin of error, however, Times readers were left to believe the rankings really meant something.</p>
+        <p>What can be done? At a minimum, The Times should start alerting readers that Nielsen doesn't provide the margin of error for its data and begin describing the ratings as ''estimates.'' The paper should put the disclaimer in each article and each chart where Nielsen television audience data is used. ''The bottom line,'' Nielsen's Mr. Holmes said, ''is that the media could probably be more careful in cautioning the public that our ratings are estimates.''</p>
+        <p>But readers deserve better from The Times. The paper's editors should refuse to publish data for which they do not know the margin of error and the basic methodology. The best thing they could do for readers would be to persuade Nielsen to provide the margin of error for any data it provides to The Times.</p>
+        <p>This problem, after all, has been known to Times editors for a quarter century. Tony Schwartz, a former television writer, warned in a 1982 column in The Times that the margin of error often meant that Nielsen rating differences among the network evening newscasts were ''meaningless'' and the preoccupation with them ''absurd.''</p>
+        <p>Credit Is Due</p>
+        <p>Reader e-mails responding to my columns frequently contain a notion like this: Boy, the mistakes you found in that article sure make those big shots at The Times look as though they were asleep on that one.</p>
+        <p>I wrote late last year, for example, about the seriously flawed reporting on a Sunday Magazine cover story by the contributing writer Jack Hitt about anti-abortion laws in El Salvador. A reader from Rio Rico, Ariz., began his e-mail to the publisher: ''Are you people not thoroughly ashamed after Mr. Calame's admission that Jack Hitt did not bother to look thoroughly into the Climaco case?''</p>
+        <p>After my March 11 column cited excessive pride among newsroom leaders as a factor in the paper's slowness to follow The Washington Post's scoop on the Walter Reed scandal, a reader from Austin, Tex., wrote to me: ''Thank you for your article on the NY Times coverage of the Walter Reed story. It is another example of the kind of arrogance that often gets the paper in trouble and doesn't serve its readers.'' Whatever the hazards of pride, some of those same top editors had created the process that made readers aware of the problem in the first place.</p>
+        <p>The point that some readers miss is that the big shots at The Times turned the spotlight on themselves by creating the public editor position. They knew that person would sometimes expose shortcomings that would embarrass them. But BillKeller, the executive editor, decided -- with the encouragement of Arthur Sulzberger Jr., the publisher -- that they and the newsroom should be held accountable to readers in the pages of their own paper.</p>
+        <p>The Jayson Blair fiasco, of course, had generated pressure on the publisher and top editors to experiment with an ombudsman-like public editor. But they chose to go beyond what most newspapers had tried. They gave the new public editor sweeping autonomy not only to scrutinize and monitor potentially embarrassing journalistic lapses, but to then publish his assessments without clearance from anyone at The Times. The recruitment of an outsider for a fixed term added to the public editor's independence.</p>
+        <p>Mr. Keller is now seeking someone to continue the public editor function when my fixed two-year term ends next month. Given the scrutiny the public editor often brings to Mr. Keller and his top editors, that decision cannot have been automatic or easy. So if sometime next year the public editor describes in this space a journalistic lapse at the paper, readers would be wise to remember that Mr. Keller deserves some of the credit for sticking with the process that brought it to light.</p>
+        <p>Correction: John F. Burns was incorrectly identified in the March 11 column. He is The Times's Baghdad bureau chief, not a former bureau chief there.</p>
+        <p>THE PUBLIC EDITOR</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

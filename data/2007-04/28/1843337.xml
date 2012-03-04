@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>From Many Faiths, a Mass</title>
+    <meta content="28chan" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/28/arts/music/28chan.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1843337"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MUSIC REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="descriptor">Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <org class="online_producer">Chanticleer</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070428T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D03E2DA123EF93BA15757C0A9619C8B63" item-length="444" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>From Many Faiths, a Mass</hl1>
+        <hl2 class="online_headline">From Many Faiths, a Mass</hl2>
+      </hedline>
+      <byline class="print_byline">By VIVIEN SCHWEITZER</byline>
+      <byline class="normalized_byline">Schweitzer, Vivien</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Contemporary music is often like fusion cuisine, as composers spice up their scores with unexpected ingredients. So when Chanticleer, the San Francisco-based male a cappella choir, commissioned five composers of diverse ethnicities, faiths and compositional leanings each to write a section of a new Mass, it seemed that the resulting work might offer stimulating contrasts.</p>
+        <p>But when Chanticleer performed the premiere of ''And on Earth, Peace: A Chanticleer Mass'' on Thursday in the Temple of Dendur at the Metropolitan Museum, it sounded strangely homogenous. There were noteworthy moments in each section, but over all this multicultural Mass was underwhelming.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>When Chanticleer performed the premiere of “And on Earth, Peace: A Chanticleer Mass” on Thursday at the Metropolitan Museum, it sounded strangely homogenous.</p>
+      </block>
+      <block class="full_text">
+        <p>Contemporary music is often like fusion cuisine, as composers spice up their scores with unexpected ingredients. So when Chanticleer, the San Francisco-based male a cappella choir, commissioned five composers of diverse ethnicities, faiths and compositional leanings each to write a section of a new Mass, it seemed that the resulting work might offer stimulating contrasts.</p>
+        <p>But when Chanticleer performed the premiere of ''And on Earth, Peace: A Chanticleer Mass'' on Thursday in the Temple of Dendur at the Metropolitan Museum, it sounded strangely homogenous. There were noteworthy moments in each section, but over all this multicultural Mass was underwhelming.</p>
+        <p>Joseph H. Jennings, the ensemble's music director, wanted the Mass to have unity, but it was almost too unified and felt static at times. This was surprising, given that none of the composers knew what their colleagues were contributing. Perhaps anticipating greater contrast, Mr. Jennings began and ended the Mass with plainsong and interspersed the new sections with music by Gabrieli and Gesualdo, as a sort of anchor.</p>
+        <p>Tellingly, one of the evening's most uplifting moments was during the 16th-century composer Gabrieli's ''Deus, Deus, meus, respice in me.'' Chanticleer, an ensemble notable both for its unity and for its distinctly individual voices, sings beautifully and is always a pleasure to hear, and it sounded divine in Gabrieli's glorious polyphony.</p>
+        <p>The American composer Douglas J. Cuomo (who wrote the theme for ''Sex and the City'') contributed the Kyrie. Chanticleer sang ''Kyrie eleison'' in unison, then added one note at a time to form shimmering tone clusters, before melting into plainsong. The work ended with the lower voices singing ''Kyrie eleison'' under a striking cluster of higher voices.</p>
+        <p>Kamran Ince, a Turkish-American composer, set the Gloria to texts by Rumi, a 13th-century Persian poet. Mr. Ince wrote somber, slow-moving and dreamy music whose calm was occasionally shattered by intense outbursts. The English composer Ivan Moody, a member of the Greek Orthodox Church, composed the Sanctus, using gently cascading harmonies on the word ''Ossanna.''</p>
+        <p>The most theatrical contribution was the ''Credo/Ani Ma'amin'' of the Israeli-born composer Shulamit Ran. Ms. Ran used lines from Maimonides' 13 principles of the Jewish faith and texts relating to the Holocaust, read in English over a somber drone, then sung with dramatic intensity.</p>
+        <p>But the only composer who didn't seem tentative about showing a little passion was the Irishman Michael McGlynn, whose appealing ''Agnus Dei'' began with an evocative, soaring ''A Uain De'' (''Lamb of God'') and faded to a whispered ''Dona nobis pacem'' at the end.</p>
+        <p>Chanticleer continues its tour tomorrow and Monday in Virginia, and on Thursday in Los Angeles. A schedule is available at chanticleer.org.</p>
+        <p>MUSIC REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

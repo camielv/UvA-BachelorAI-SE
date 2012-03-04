@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Memorial for Glen Tetley</title>
+    <meta content="19tetley" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1841345"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070419T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A06E4D91E3FF93AA25757C0A9619C8B63" item-length="68" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Memorial for Glen Tetley</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A memorial service for the choreographer Glen Tetley will be held at 2 p.m. April 28 in the Bruno Walter Auditorium of the New York Public Library for the Performing Arts, 111 Amsterdam Avenue, at 65th Street, Lincoln Center.</p>
+      </block>
+      <block class="full_text">
+        <p>A memorial service for the choreographer Glen Tetley will be held at 2 p.m. April 28 in the Bruno Walter Auditorium of the New York Public Library for the Performing Arts, 111 Amsterdam Avenue, at 65th Street, Lincoln Center.</p>
+        <p>Mr. Tetley, formerly artistic director of his own company and of the Stuttgart Ballet, died on Jan. 26. The event, with speakers and films, is open to the public.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

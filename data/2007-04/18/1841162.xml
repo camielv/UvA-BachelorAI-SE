@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Right to Our DNA</title>
+    <meta content="l18dna" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1841162"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070418T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9405E6DC1E3FF93BA25757C0A9619C8B63" item-length="146" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Right to Our DNA</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>''Stalking Strangers' DNA'' (''The DNA Age'' series, front page, April 2) states that the law views DNA from discarded cigarettes, drinking cups and so on to be abandoned property.</p>
+        <p>In fact, the courts have not reached a clear decision on whether people have an expectation of privacy over their DNA, which they are continuously but not intentionally shedding.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>''Stalking Strangers' DNA'' (''The DNA Age'' series, front page, April 2) states that the law views DNA from discarded cigarettes, drinking cups and so on to be abandoned property.</p>
+        <p>In fact, the courts have not reached a clear decision on whether people have an expectation of privacy over their DNA, which they are continuously but not intentionally shedding.</p>
+        <p>How many of us would care whether anyone, without our consent, could violate our privacy by probing into our genome? And if that probing without a court warrant is legal, what is the value of all the genetic privacy laws and laws against genetic discrimination that have been enacted by many states, while a federal bill is pending in Congress?</p>
+        <p>Sheldon Krimsky  New York, April 4, 2007</p>
+        <p>The writer is a visiting scholar in the department of sociomedical sciences, Columbia University.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

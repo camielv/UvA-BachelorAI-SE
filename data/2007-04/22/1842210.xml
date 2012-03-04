@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Clearing the Air in the Land of Guinness</title>
+    <meta content="22basicb" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Week in Review" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1842210"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Ireland/Dublin</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Ireland</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bars</classifier>
+        <classifier class="online_producer" type="general_descriptor">Smoking and Tobacco</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E02E0DA163EF931A15757C0A9619C8B63" item-length="228" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Clearing the Air in the Land of Guinness</hl1>
+      </hedline>
+      <byline class="print_byline">By CHRIS CONWAY</byline>
+      <byline class="normalized_byline">Conway, Christopher J</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Atlantic City last week joined a growing list of cities and states to ban or restrict smoking indoors, limiting smoking to no more than 25 percent of a casino's wagering area.</p>
+        <p>The benefits of restrictions seem obvious. A report by the United States surgeon general last year said smoke inhaled by adult nonsmokers increases their risk of heart disease by 25 to 30 percent and lung cancer by 20 to 30 percent.</p>
+      </block>
+      <block class="full_text">
+        <p>Atlantic City last week joined a growing list of cities and states to ban or restrict smoking indoors, limiting smoking to no more than 25 percent of a casino's wagering area.</p>
+        <p>The benefits of restrictions seem obvious. A report by the United States surgeon general last year said smoke inhaled by adult nonsmokers increases their risk of heart disease by 25 to 30 percent and lung cancer by 20 to 30 percent.</p>
+        <p>Now a new study of bars and bar workers in Dublin adds some concrete numbers to the debate over indoor smoking.</p>
+        <p>The study, published in the latest issue of the American Journal of Respiratory and Critical Care Medicine, measured concentrations of particulate matter in 42 pubs before and after Ireland banned indoor smoking in 2004. Scientists found an 83 percent reduction in airborne particulate matter. Benzene concentrations were also measured in 26 of the pubs. Those levels dropped by 80 percent. The study, by the Research Institute for a Tobacco Free Society in collaboration with the Dublin Institute of Technology, also found ''significant improvements'' in pulmonary function among nonsmoking bar workers.</p>
+        <p>At least 18 states and the District of Columbia, as well as New York City and several other major cities, have banned smoking in public places, according to Thomas Carr, the manager of national policy for the American Lung Association.</p>
+        <p>CHRIS CONWAY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

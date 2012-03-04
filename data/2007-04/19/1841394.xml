@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Government of Laws and Seat Belts</title>
+    <meta content="19thu4" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/19/opinion/19thu4.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1841394"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="descriptor">Accidents and Safety</classifier>
+        <classifier class="online_producer" type="descriptor">Roads and Traffic</classifier>
+        <classifier class="online_producer" type="descriptor">Automobile Safety Features and Defects</classifier>
+        <classifier class="online_producer" type="descriptor">Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobile Safety Features and Defects</classifier>
+        <classifier class="online_producer" type="general_descriptor">Roads and Traffic</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <location class="online_producer">New Jersey</location>
+        <person class="online_producer">Corzine, Jon S</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070419T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B02E1D81E3FF93AA25757C0A9619C8B63" item-length="268" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Government of Laws and Seat Belts</hl1>
+        <hl2 class="online_headline">A Government of Laws and Seat Belts</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Our hopes are with Gov. Jon Corzine of New Jersey as he continues the long process of recovery from last week's horrifying traffic accident. But we are also concerned by the news that at the time of the crash, Mr. Corzine's sport utility vehicle was traveling at 91 miles per hour -- 26 m.p.h. above the parkway's speed limit -- and that the governor, contrary to New Jersey law, was apparently not wearing a seat belt.</p>
+        <p>Whether you're an ordinary citizen or the chief executive of a state, traffic laws cannot be considered optional -- for your own safety and the safety of all those traveling around you.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Whether you’re an ordinary citizen or the chief executive of a state, traffic laws cannot be considered optional  for your own safety and the safety of all those traveling around you.</p>
+      </block>
+      <block class="full_text">
+        <p>Our hopes are with Gov. Jon Corzine of New Jersey as he continues the long process of recovery from last week's horrifying traffic accident. But we are also concerned by the news that at the time of the crash, Mr. Corzine's sport utility vehicle was traveling at 91 miles per hour -- 26 m.p.h. above the parkway's speed limit -- and that the governor, contrary to New Jersey law, was apparently not wearing a seat belt.</p>
+        <p>Whether you're an ordinary citizen or the chief executive of a state, traffic laws cannot be considered optional -- for your own safety and the safety of all those traveling around you.</p>
+        <p>The state police superintendent, Col. Joseph Fuentes, says troopers who drive the governor are given discretion to exceed speed limits and use their flashing lights in cases of an emergency. But there was no emergency for Mr. Corzine, who had just given a speech to New Jersey mayors in Atlantic City and was late for a meeting with the Rutgers women's basketball team and Don Imus, the fired radio host.</p>
+        <p>New Jersey should adopt regulations that prohibit state officials -- including the governor -- from speeding or using emergency lights except for true emergencies and security concerns. Seat belt compliance in New Jersey has increased to about 90 percent for drivers and front-seat passengers since the state's law was changed in 2000 to authorize the police to pull over violators even if they are not committing another offense.</p>
+        <p>Political leaders have a responsibility to set an example for the public. Mr. Corzine would have been safer had he followed the example of New Jersey's residents.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

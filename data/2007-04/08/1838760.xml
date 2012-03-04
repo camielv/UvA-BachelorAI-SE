@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Spice Up Your Inner Mechanic</title>
+    <meta content="08jumpshorts" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838760"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="PULSE"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Fashion, Beauty and Fitness</classifier>
+        <classifier class="online_producer" type="general_descriptor">Apparel</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070408T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D06EFDB173FF93BA35757C0A9619C8B63" item-length="118" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Spice Up Your Inner Mechanic</hl1>
+      </hedline>
+      <byline class="print_byline">By AUDREY DAVIDOW</byline>
+      <byline class="normalized_byline">Davidow, Audrey</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Urban Safari Shorts are back -- in a small, small way. And while they seem to be getting teenier on the bottom, this spring you'll find something up top, too. No longer just for painters, safari guides and Charlie's Angels, one-piece jumpsuits are fast becoming city staples. The sexy onesie for grown-ups has its perks (getting dressed is a snap) but the trend can be tricky to pull off. ''They're great for going from daytime to clubbing, but you've got to have the body,'' said Maggie Wachsberger, whose Los Angeles boutique Malgosia, (323) 782-9188, can't keep Serfontaine's disco-inspired jean jumpsuit ($255) in stock. Pair it with stilettos and Pilates-toned legs and you've got a look.</p>
+        <p>AUDREY DAVIDOW</p>
+      </block>
+      <block class="full_text">
+        <p>Urban Safari Shorts are back -- in a small, small way. And while they seem to be getting teenier on the bottom, this spring you'll find something up top, too. No longer just for painters, safari guides and Charlie's Angels, one-piece jumpsuits are fast becoming city staples. The sexy onesie for grown-ups has its perks (getting dressed is a snap) but the trend can be tricky to pull off. ''They're great for going from daytime to clubbing, but you've got to have the body,'' said Maggie Wachsberger, whose Los Angeles boutique Malgosia, (323) 782-9188, can't keep Serfontaine's disco-inspired jean jumpsuit ($255) in stock. Pair it with stilettos and Pilates-toned legs and you've got a look.</p>
+        <p>AUDREY DAVIDOW  PULSE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

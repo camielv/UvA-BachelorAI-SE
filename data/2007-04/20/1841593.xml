@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>President of Troubled Chicago Transit System Resigns</title>
+    <meta content="20chicago" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/20/us/20chicago.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1841593"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Transit Systems</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <classifier class="indexing_service" type="descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="indexing_service" type="descriptor">Railroads</classifier>
+        <location class="indexing_service">Chicago (Ill)</location>
+        <person class="indexing_service">kruesi, frank</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Illinois</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Midwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Illinois/Chicago</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Illinois</classifier>
+        <classifier class="online_producer" type="descriptor">Transit Systems</classifier>
+        <classifier class="online_producer" type="descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Railroads</classifier>
+        <classifier class="online_producer" type="general_descriptor">Transit Systems</classifier>
+        <location class="online_producer">Chicago (Ill)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070420T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9905E6D71F3FF933A15757C0A9619C8B63" item-length="203" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>President of Troubled Chicago Transit System Resigns</hl1>
+        <hl2 class="online_headline">President of Troubled Chicago Transit System Resigns</hl2>
+      </hedline>
+      <dateline>CHICAGO, April 19</dateline>
+      <abstract>
+        <p>Chicago Transit System president Frank Kruesi resigns as agency struggles with budget shortfalls, major railway reconstruction project and complaints from disgruntled riders; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The chief executive of the nation's second-largest public transit system resigned Thursday as the agency grapples with budget shortfalls, a major railway reconstruction project and complaints from disgruntled riders.</p>
+        <p>Mayor Richard M. Daley announced the resignation of the president of the Chicago Transit Authority, Frank Kruesi, at a City Hall news conference.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Chicago’s public transit system has been grappling with budget shortfalls, a major railway reconstruction project and complaints from disgruntled riders.</p>
+      </block>
+      <block class="full_text">
+        <p>The chief executive of the nation's second-largest public transit system resigned Thursday as the agency grapples with budget shortfalls, a major railway reconstruction project and complaints from disgruntled riders.</p>
+        <p>Mayor Richard M. Daley announced the resignation of the president of the Chicago Transit Authority, Frank Kruesi, at a City Hall news conference.</p>
+        <p>Mr. Daley credited Mr. Kruesi, a transportation official in the Clinton administration who joined the transit authority as its president in 1997, with securing federal financing for major rail construction projects and with bringing ridership to its highest level in 14 years. The system provides more than 1.5 million rides daily.</p>
+        <p>But Mr. Kruesi has also taken the brunt of public criticism as the cash-strapped transit system struggles to accommodate more riders while maintaining a vast infrastructure and an aging fleet of buses and trains.</p>
+        <p>In recent months, complaints about the system's performance have multiplied as deteriorating tracks and construction have caused delays on some rail lines.</p>
+        <p>''Over all, I think the C.T.A. is better than it was when I came,'' Mr. Kruesi said Thursday.</p>
+        <p>Mr. Daley has recommended that his chief of staff, Ron Huberman, the former head of the city's Office of Emergency Management and Communications, succeed Mr. Kruesi.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

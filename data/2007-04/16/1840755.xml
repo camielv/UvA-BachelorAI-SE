@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Salvatore Scarpitta, 88, New York Artist</title>
+    <meta content="16scarpitta" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Obituaries" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/16/arts/16scarpitta.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840755"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="biographical_categories">Art</classifier>
+        <classifier class="indexing_service" type="names">Salvatore Scarpitta</classifier>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="descriptor">Art</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070416T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E6DE113FF935A25757C0A9619C8B63" item-length="494" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Salvatore Scarpitta, 88, New York Artist</hl1>
+        <hl2 class="online_headline">Salvatore Scarpitta, New York Artist, Dies at 88</hl2>
+      </hedline>
+      <byline class="print_byline">By KATHRYN SHATTUCK</byline>
+      <byline class="normalized_byline">Shattuck, Kathryn</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Salvatore Scarpitta, an artist whose work ranged from three-dimensional wrapped canvases that evoked survival and death to sculptural renderings of cars and sleds that extolled his belief in travel as a metaphor for life, died on Tuesday at his home in Manhattan. He was 88.</p>
+        <p>The cause was complications from diabetes, said his wife, Dana Scarpitta.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Mr. Scarpitta’s work ranged from three-dimensional wrapped canvases to sculptural renderings of cars and sleds.</p>
+      </block>
+      <block class="full_text">
+        <p>Salvatore Scarpitta, an artist whose work ranged from three-dimensional wrapped canvases that evoked survival and death to sculptural renderings of cars and sleds that extolled his belief in travel as a metaphor for life, died on Tuesday at his home in Manhattan. He was 88.</p>
+        <p>The cause was complications from diabetes, said his wife, Dana Scarpitta.</p>
+        <p>Born in Brooklyn, Mr. Scarpitta grew up in Los Angeles, where his father, an Italian-born sculptor, created the exterior bas-reliefs on the Los Angeles Stock Exchange building and his Russian-born mother briefly acted. After graduating from Hollywood High School, he studied at the Academy of Fine Arts in Rome. During World War II he joined the United States Navy, where he was a ''monuments man,'' part of a multinational group charged with searching out, cataloging and rescuing art from the Nazis, as well as identifying monuments and historical sites to protect from Allied bombings.</p>
+        <p>After the war Mr. Scarpitta continued making art in Rome until 1958, when the dealer Leo Castelli lured him to New York with the promise of an exhibition and financial assistance.</p>
+        <p>The following January Mr. Castelli unveiled a series of Mr. Scarpitta's wrapped, or ''bandaged,'' canvases in a show titled ''Extramurals.'' At once macho and tender, the mostly monochromatic works were bound in webbing and canvas he had found at Army surplus stores, often with an opening in them not unlike that of a birthing gown -- a symbol, Mr. Scarpitta said, of man's potential for spiritual renewal.</p>
+        <p>The automobile culture of his California childhood fueled his lifelong fascination with movement, or lack thereof. In the mid-1960s he created a series of racing cars, among them the ''Rajo Jack Special,'' a reproduction of the car driven by one of the country's first African-American racecar drivers, and ''Lynx,'' a full-size, fully operational World War II armored car.</p>
+        <p>But Mr. Scarpitta wasn't content merely to fashion speedsters. He raced them as part of a team at a dirt track near his second home in New Oxford, Pa., the name of his crew sponsor -- the Leo Castelli Gallery -- emblazoned on the side of his own car, No. 59.</p>
+        <p>In the 1970s Mr. Scarpitta began constructing sleds, which resembled nothing so much as slow-motion archaeological artifacts, from discarded objects -- chairs, hockey sticks, Christmas trees -- he scavenged from trash bins around the city.</p>
+        <p>''I wrapped my sleds,'' he said in an interview with James Harithas, founding director of the Station Museum of Contemporary Art in Houston. ''It was just natural. They had their own kind of skin.'' He added, ''It was like wanting to give it a breathing capability of its own that could come out of the matter it was made of.''</p>
+        <p>The painter Willem de Kooning bought Mr. Scarpitta's first sled.</p>
+        <p>In addition to his wife, Mr. Scarpitta is survived by two daughters, Lola Knapple of Los Angeles and Stella Cartaino of the Bronx; five grandsons; two great-grandchildren; and a sister, Carmen Scarpitta of Rome.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

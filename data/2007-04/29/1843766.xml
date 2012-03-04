@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Helen Chu, Chetan Seshadri</title>
+    <meta content="29chu" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/29/fashion/weddings/29chu.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1843766"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Chu, Dr. Helen Ying-hui (Dr. Helen Ying-hui Seshadri)</person>
+        <person class="indexing_service">Seshadri, Dr. Chetan</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE7DC123EF93AA15757C0A9619C8B63" item-length="253" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Helen Chu, Chetan Seshadri</hl1>
+        <hl2 class="online_headline">Helen Chu, Chetan Seshadri</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Dr. Helen Ying-hui Chu, the daughter of Susan and Stephen Chu of Orange, Calif., is to be married today to Dr. Chetan Seshadri, the son of Prabha and Rangaswamy Seshadri of North Brunswick, N.J. Pandit Sridhara Bhattar, a Hindu priest, is to perform the ceremony at the Shiva-Vishnu Temple in Livermore, Calif. The event will be followed by a Chinese tea ceremony and wedding banquet at the Great Eastern Restaurant in San Francisco.</p>
+        <p>The bride, 28, and the bridegroom, 32, met at Duke, where she received her medical degree and he was a resident in internal medicine. They began dating while doing H.I.V. research at the Kilimanjaro Christian Medical Center in Moshi, Tanzania; she was studying the impact of free H.I.V. testing as a Fulbright fellow, and he was studying tuberculosis and H.I.V. infection.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Dr. Helen Ying-hui Chu, the daughter of Susan and Stephen Chu of Orange, Calif., is to be married today to Dr. Chetan Seshadri, the son of Prabha and Rangaswamy Seshadri of North Brunswick, N.J. Pandit Sridhara Bhattar, a Hindu priest, is to perform the ceremony at the Shiva-Vishnu Temple in Livermore, Calif. The event will be followed by a Chinese tea ceremony and wedding banquet at the Great Eastern Restaurant in San Francisco.</p>
+      </block>
+      <block class="full_text">
+        <p>Dr. Helen Ying-hui Chu, the daughter of Susan and Stephen Chu of Orange, Calif., is to be married today to Dr. Chetan Seshadri, the son of Prabha and Rangaswamy Seshadri of North Brunswick, N.J. Pandit Sridhara Bhattar, a Hindu priest, is to perform the ceremony at the Shiva-Vishnu Temple in Livermore, Calif. The event will be followed by a Chinese tea ceremony and wedding banquet at the Great Eastern Restaurant in San Francisco.</p>
+        <p>The bride, 28, and the bridegroom, 32, met at Duke, where she received her medical degree and he was a resident in internal medicine. They began dating while doing H.I.V. research at the Kilimanjaro Christian Medical Center in Moshi, Tanzania; she was studying the impact of free H.I.V. testing as a Fulbright fellow, and he was studying tuberculosis and H.I.V. infection.</p>
+        <p>The bride is a second-year resident of internal medicine at Beth Israel Deaconess Medical Center in Boston. She graduated from Cornell.</p>
+        <p>Her father works in Anaheim, Calif., as a computer repair technician at Fry's Electronics, a chain store.</p>
+        <p>The bridegroom is a second-year fellow in infectious disease at Massachusetts General Hospital and Brigham and Women's Hospital in Boston. In 2004 and 2005, he was a field doctor in the Chiradzulu District of Malawi, where he worked at an H.I.V./AIDS clinic. He graduated from Rutgers and received his medical degree from the University of Medicine and Dentistry of New Jersey.</p>
+        <p>His father, who is retired, worked in Princeton, N.J., as a mechanical engineer for Washington Group International, a construction company.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Recovering Ancient Protein</title>
+    <meta content="24tue4" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/24/opinion/24tue4.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842609"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="descriptor">Paleontology</classifier>
+        <classifier class="online_producer" type="descriptor">Dinosaurs</classifier>
+        <classifier class="online_producer" type="descriptor">DNA (Deoxyribonucleic Acid)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Paleontology</classifier>
+        <classifier class="online_producer" type="general_descriptor">DNA (Deoxyribonucleic Acid)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dinosaurs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Endangered and Extinct Species</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070424T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F04EEDE143EF937A15757C0A9619C8B63" item-length="277" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Recovering Ancient Protein</hl1>
+        <hl2 class="online_headline">Recovering Ancient Protein</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Until now, when it has come to dinosaurs, our imagination has always turned to stone. Nearly everything we know about their fleshly contours, their life habits and their inner workings has been the result of studying their fossilized skeletal remains. But scientists have recently recovered a protein from the femur of a Tyrannosaurus rex.</p>
+        <p>Before this, the oldest protein recovered came from 300,000-year-old mammoth remains. These T. rex molecules are 68 million years old -- more than 200 times as ancient. What this discovery suggests is that geological time may, within limits, turn out to be biological time. The idea that protein can survive so long has already inspired an extensive new search -- in the field and in museum collections -- for other bones that may preserve it.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>New discoveries should remind us how steadily our knowledge of the ancient saurian world has deepened as research has shifted from the macroscopic to the molecular.</p>
+      </block>
+      <block class="full_text">
+        <p>Until now, when it has come to dinosaurs, our imagination has always turned to stone. Nearly everything we know about their fleshly contours, their life habits and their inner workings has been the result of studying their fossilized skeletal remains. But scientists have recently recovered a protein from the femur of a Tyrannosaurus rex.</p>
+        <p>Before this, the oldest protein recovered came from 300,000-year-old mammoth remains. These T. rex molecules are 68 million years old -- more than 200 times as ancient. What this discovery suggests is that geological time may, within limits, turn out to be biological time. The idea that protein can survive so long has already inspired an extensive new search -- in the field and in museum collections -- for other bones that may preserve it.</p>
+        <p>Thanks to ''Jurassic Park,'' it's easy to imagine recovering dinosaur DNA, but outside Hollywood the oldest surviving bits of DNA are only 50,000 years old at most. This T. rex protein may not be as informationally rich, but it has the virtue of being real. Researchers have been able to analyze fragments of the protein and look for similarities with other species. That work has turned out to offer additional evidence of a link between dinosaurs and birds.</p>
+        <p>There will be other discoveries to come, and soon. They should remind us how steadily our knowledge of that ancient saurian world has deepened as research has shifted from the macroscopic to the molecular. The more immediate, the more living, that world becomes to us, the stranger it will seem. And the more surely it will require a rethinking of everything we think we know about creatures living in the present, including us.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bettina Edelstein, William Scott</title>
+    <meta content="22Edelstein" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1842158"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Edelstein, Bettina</person>
+        <person class="indexing_service">Scott, William</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07EFDD163EF931A15757C0A9619C8B63" item-length="136" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bettina Edelstein, William Scott</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Bettina Edelstein and William Scott were married yesterday afternoon at the Spire Bar &amp; Lounge of the Hotel in Miami Beach. Gary Eisenberg, a friend of the couple and a Florida notary public, officiated.</p>
+        <p>Ms. Edelstein, 47, is keeping her name. She is an assistant to the editor of the news technology department at The New York Times. She graduated cum laude from Yale. She is the daughter of Ellia Edelstein of Aventura, Fla., and the late Benny Edelstein.</p>
+      </block>
+      <block class="full_text">
+        <p>Bettina Edelstein and William Scott were married yesterday afternoon at the Spire Bar &amp; Lounge of the Hotel in Miami Beach. Gary Eisenberg, a friend of the couple and a Florida notary public, officiated.</p>
+        <p>Ms. Edelstein, 47, is keeping her name. She is an assistant to the editor of the news technology department at The New York Times. She graduated cum laude from Yale. She is the daughter of Ellia Edelstein of Aventura, Fla., and the late Benny Edelstein.</p>
+        <p>Mr. Scott, 62, is the deputy vice president of the department that manages Columbia University's buildings and grounds. He graduated from Lehigh and received a master's degree in public administration from New York University. He is a son of Margaret Scott of Island Park, N.Y., and the late Melville Scott.</p>
+        <p>The bridegroom's previous marriage ended in divorce.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

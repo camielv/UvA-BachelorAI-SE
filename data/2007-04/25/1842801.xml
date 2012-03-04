@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Panel Says Historical Society Can Alter Landmark Building</title>
+    <meta content="25society" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1842801"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restoration and Rehabilitation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Historic Buildings and Sites</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070425T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9406E4D9143EF936A15757C0A9619C8B63" item-length="485" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Panel Says Historical Society Can Alter Landmark Building</hl1>
+      </hedline>
+      <byline class="print_byline">By GLENN COLLINS</byline>
+      <byline class="normalized_byline">Collins, Glenn</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>After months of controversy, the New York City Landmarks Preservation Commission ruled unanimously yesterday that the New-York Historical Society can renovate the exterior of its landmark building at 170 Central Park West.</p>
+        <p>The 6-0 vote, believed to be the project's final regulatory hurdle, will permit the society to create a glass entrance vestibule, extend the main staircase, install free-standing kiosks and enlarge windows at the West 77th Street entrance of the building, which stretches to West 76th Street.</p>
+      </block>
+      <block class="full_text">
+        <p>After months of controversy, the New York City Landmarks Preservation Commission ruled unanimously yesterday that the New-York Historical Society can renovate the exterior of its landmark building at 170 Central Park West.</p>
+        <p>The 6-0 vote, believed to be the project's final regulatory hurdle, will permit the society to create a glass entrance vestibule, extend the main staircase, install free-standing kiosks and enlarge windows at the West 77th Street entrance of the building, which stretches to West 76th Street.</p>
+        <p>''I'm delighted,'' said Dr. Louise Mirrer, the society's president, after the vote. ''We have a new front door.''</p>
+        <p>Construction will begin this summer or fall and is expected to take 18 months. It will not require the museum to close, officials said.</p>
+        <p>Some community groups and preservationists had opposed the changes, calling them architecturally irresponsible because the building, constructed in 1908, has landmark status three ways -- as an individual building, as part of the West 76th Street block and as part of a historic district.</p>
+        <p>Dr. Mirrer told the commission that the changes were necessary to make the four-story building more inviting, to better accommodate disabled visitors and exhibition crowds, to make its galleries more accessible and to showcase a cafe that the society hopes to build in a corner gallery.</p>
+        <p>Renovation opponents in the community also have said that the project is a precursor to construction of a 23-story residential tower that the society has proposed as an addition to its building. Dr. Mirrer said yesterday that ''the two projects have never been linked.''</p>
+        <p>The renovation will allow visitors to enter the building through four new glass doors flanking a revolving entrance in a vestibule on Central Park West that will be dominated by a glass wall opening to the galleries. A ramp for disabled visitors at West 77th Street also will be rebuilt to make it more accessible.</p>
+        <p>The society's victory followed rebuffs by Community Board 7, which voted 40-2 against the plan in early March, and the public policy committee of the New York Landmarks Conservancy, which rejected the renovation last year. The design approved yesterday was scaled down from the original plan, which would have turned the building's eight-foot-wide entrance into a 40-foot portal sheathed in glass.</p>
+        <p>The meeting yesterday was scheduled only a week after the commission sent the society back to the drawing board to resolve concerns about the proposal. Robert B. Tierney, the commission's chairman, said the society had been ''responsive to those comments.''</p>
+        <p>Michael Fieldman, an architect who lives in the neighborhood who has opposed the renovation, said that ''this facade should be treated with respect, not carved up.''</p>
+        <p>''What they're doing is abhorrent,'' he added.</p>
+        <p>Peter M. Wright, co-chairman of the Park West 77th Street Block Association, said that the ruling would not make it easier for the historical society to build the residential tower because it ''has seen the depth of the community's concern.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

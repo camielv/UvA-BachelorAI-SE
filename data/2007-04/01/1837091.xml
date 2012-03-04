@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMINGS AND GOINGS</title>
+    <meta content="01comings" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="http://www.nytimes.com/2007/04/01/travel/01comings.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837091"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="descriptor">Travel and Vacations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9807E2D91230F932A35757C0A9619C8B63" item-length="288" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMINGS AND GOINGS</hl1>
+        <hl2 class="online_headline">Comings and Goings</hl2>
+      </hedline>
+      <byline class="print_byline">By HILARY HOWARD</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Stuck in London with some free time between visiting the Victoria and Albert Museum and Harrods? Go to visitlondon.com, click on its newest Web feature, London Explorer and type in either destination. The search engine (which also uses postal codes and tube stops for points of reference) will pull up the closest attractions in the vicinity -- in this case, the Science Museum or the Natural History Museum -- and flag them on a map, giving their exact coordinates, including Web sites.  The Shelbourne, a Marriott Renaissance Hotel in Dublin, reopened last month after closing for two years of renovations. The 182-year-old property now features a lobby outfitted in Italian marble, stained glass and a new painting by Cian McLoughlin of the actors Barry McGovern and Johnny Murphy (left), who are known for their recent work in Samuel Beckett's ''Waiting for Godot.'' Restaurants and bars include the Horseshoe Bar, the Saddle Room Restaurant and the No. 27 Bar &amp; Lounge. Nightly rates start at about 365 euros, or about $496 at the rate of $1.36 to the euro, through June, and drop to 285 euros for July and August. (www.theshelbourne.ie).  Food, wine and golf are the focus of a new program offered to American Express platinum card holders. Called Personal Pursuits, the program offers outings ranging from lunch at the French Laundry in the Napa Valley to a golf tournament in Bermuda. Transportation and lodging are not included unless otherwise specified (www.americanexpress.com/platinum).  The Pink Beach Club in Bermuda is offering a Culinary Weekend Package through April 30. The three-night package, which starts at $2,600 per person (based on double occupancy) includes a fishing trip, breakfast, afternoon tea, dinner, airport transfers and taxes (www.pinkbeach.com).</p>
+        <p>HILARY HOWARD</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The latest travel news from around the globe.</p>
+      </block>
+      <block class="full_text">
+        <p>Stuck in London with some free time between visiting the Victoria and Albert Museum and Harrods? Go to visitlondon.com, click on its newest Web feature, London Explorer and type in either destination. The search engine (which also uses postal codes and tube stops for points of reference) will pull up the closest attractions in the vicinity -- in this case, the Science Museum or the Natural History Museum -- and flag them on a map, giving their exact coordinates, including Web sites.  The Shelbourne, a Marriott Renaissance Hotel in Dublin, reopened last month after closing for two years of renovations. The 182-year-old property now features a lobby outfitted in Italian marble, stained glass and a new painting by Cian McLoughlin of the actors Barry McGovern and Johnny Murphy (left), who are known for their recent work in Samuel Beckett's ''Waiting for Godot.'' Restaurants and bars include the Horseshoe Bar, the Saddle Room Restaurant and the No. 27 Bar &amp; Lounge. Nightly rates start at about 365 euros, or about $496 at the rate of $1.36 to the euro, through June, and drop to 285 euros for July and August. (www.theshelbourne.ie).  Food, wine and golf are the focus of a new program offered to American Express platinum card holders. Called Personal Pursuits, the program offers outings ranging from lunch at the French Laundry in the Napa Valley to a golf tournament in Bermuda. Transportation and lodging are not included unless otherwise specified (www.americanexpress.com/platinum).  The Pink Beach Club in Bermuda is offering a Culinary Weekend Package through April 30. The three-night package, which starts at $2,600 per person (based on double occupancy) includes a fishing trip, breakfast, afternoon tea, dinner, airport transfers and taxes (www.pinkbeach.com).</p>
+        <p>HILARY HOWARD</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

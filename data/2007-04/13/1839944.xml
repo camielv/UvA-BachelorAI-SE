@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; 'Idol' Continues As a Colossus</title>
+    <meta content="13arts-2" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1839944"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ratings and Rating Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070413T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE5DA133FF930A25757C0A9619C8B63" item-length="185" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; 'Idol' Continues As a Colossus</hl1>
+      </hedline>
+      <byline class="print_byline">By BENJAMIN TOFF; Compiled by Lawrence Van Gelder</byline>
+      <byline class="normalized_byline">Toff, Benjamin</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Drawing more viewers than the competition on NBC, ABC, CBS and CW combined, ''American Idol'' led Fox to another dominant night in the ratings Wednesday. The hourlong 9 p.m. show, on which it was announced that Haley Scarnato had become the latest contestant cut from the competition, had 27.9 million viewers, according to Nielsen's estimates. The closest competitor in the hour, CBS's ''Criminal Minds,'' attracted 12.8 million. Fox led earlier in the night among adults 18 to 49 with two episodes of '' 'Til Death,'' one at 8 (7 million) followed by the season finale at 8:30 (8.6 million), although CBS's ''Jericho'' averaged slightly more total viewers in the hour (8.2 million). Also at 8, the season finale of NBC's ''Friday Night Lights'' garnered 6.3 million viewers and a fifth-place finish in the 18 to 49 age group, while CW's ''America's Next Top Model'' (5.6 million) ranked second. At 10, CBS's ''CSI: New York'' won the hour in total viewers (12.7 million), but ABC's ''Lost'' (11.9 million) remained far ahead among adults 18 to 49.</p>
+        <p>BENJAMIN TOFF</p>
+      </block>
+      <block class="full_text">
+        <p>Drawing more viewers than the competition on NBC, ABC, CBS and CW combined, ''American Idol'' led Fox to another dominant night in the ratings Wednesday. The hourlong 9 p.m. show, on which it was announced that Haley Scarnato had become the latest contestant cut from the competition, had 27.9 million viewers, according to Nielsen's estimates. The closest competitor in the hour, CBS's ''Criminal Minds,'' attracted 12.8 million. Fox led earlier in the night among adults 18 to 49 with two episodes of '' 'Til Death,'' one at 8 (7 million) followed by the season finale at 8:30 (8.6 million), although CBS's ''Jericho'' averaged slightly more total viewers in the hour (8.2 million). Also at 8, the season finale of NBC's ''Friday Night Lights'' garnered 6.3 million viewers and a fifth-place finish in the 18 to 49 age group, while CW's ''America's Next Top Model'' (5.6 million) ranked second. At 10, CBS's ''CSI: New York'' won the hour in total viewers (12.7 million), but ABC's ''Lost'' (11.9 million) remained far ahead among adults 18 to 49.</p>
+        <p>BENJAMIN TOFF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

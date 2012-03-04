@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Did Anyone Ask About a Yacht?</title>
+    <meta content="15suits-1" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1840553"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="OPENERS: SUITS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Suits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Accounting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel Restrictions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accounting and Accountants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Frauds and Swindling</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sentences (Criminal)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Futures and Options Trading</classifier>
+        <classifier class="online_producer" type="general_descriptor">Securities and Commodities Violations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Positioning System</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Navigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0CE2DE103FF936A25757C0A9619C8B63" item-length="254" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Did Anyone Ask About a Yacht?</hl1>
+      </hedline>
+      <byline class="print_byline">By KYLE WHITMIRE</byline>
+      <byline class="normalized_byline">Whitmire, Kyle</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In a probation hearing last week, Richard M. Scrushy, a former HealthSouth chief executive, took the stand in his own defense -- something that he declined to do in both of his criminal trials.</p>
+        <p>Mr. Scrushy has been on presentencing release since a federal jury in Montgomery last year convicted him of bribing former Gov. Don Siegelman of Alabama. (Before that, Mr. Scrushy was acquitted in a case involving accounting fraud at HealthSouth.)</p>
+      </block>
+      <block class="full_text">
+        <p>In a probation hearing last week, Richard M. Scrushy, a former HealthSouth chief executive, took the stand in his own defense -- something that he declined to do in both of his criminal trials.</p>
+        <p>Mr. Scrushy has been on presentencing release since a federal jury in Montgomery last year convicted him of bribing former Gov. Don Siegelman of Alabama. (Before that, Mr. Scrushy was acquitted in a case involving accounting fraud at HealthSouth.)</p>
+        <p>Prosecutors had accused Mr. Scrushy of trying to flee the country in February, when he took a cruise on his 92-foot yacht, Chez Soiree. According to prosecutors, turbulent weather along the coast kept Mr. Scrushy from sailing into open waters.</p>
+        <p>Mr. Scrushy said under cross-examination that he had permission to travel to South Florida, as part of an approved vacation with his family to Disney World. He did not tell his probation officer he was traveling by yacht to Miami because her questions were not specific enough, he said.</p>
+        <p>''I can't answer the question unless she asks me,'' he testified.</p>
+        <p>United States Magistrate Judge Charles Coody told Mr. Scrushy that he was being ''coy'' with probation officers, and reminded him that he was a convicted felon. The judge then ordered Mr. Scrushy to wear a G.P.S. tracking device on all future trips out of Alabama, forbade him from using private travel and required him to submit written itineraries for future trips.</p>
+        <p>Mr. Scrushy's sentencing day has yet to be determined, and he is also appealing his conviction.</p>
+        <p>KYLE WHITMIRE</p>
+        <p>OPENERS: SUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

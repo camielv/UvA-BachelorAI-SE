@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>School's Records No Longer Accepted</title>
+    <meta content="26sportsbriefs-2" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1843093"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="SPORTS BRIEFING: COLLEGES"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Texas</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Athletics and Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070426T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E00E6DB153EF935A15757C0A9619C8B63" item-length="135" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>School's Records No Longer Accepted</hl1>
+      </hedline>
+      <byline class="print_byline">By PETE THAMEL</byline>
+      <byline class="normalized_byline">Thamel, Pete</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The N.C.A.A. announced that it will no longer accept academic records from God's Academy Prep, a secondary school in Dallas that opened last year in a recreation center. An N.C.A.A. review of the school found a ''lack of formal instruction or organized curriculum structure,'' according to a news release. The school was opened in August 2005 in Irving, Tex., by a summer basketball coach and quickly blossomed to 40 students, all of whom were basketball players. The school sent two players to Division I schools last year: Jeremy Mayfield to Alabama-Birmingham and Tommy Moffitt to the University of Texas-Arlington.</p>
+        <p>Two players from the school signed letters of intent to Division I schools this year, Marcus Brister to Iowa State and T. J. Clark to Morehead State. Their status will be reviewed.</p>
+        <p>PETE THAMEL</p>
+      </block>
+      <block class="full_text">
+        <p>The N.C.A.A. announced that it will no longer accept academic records from God's Academy Prep, a secondary school in Dallas that opened last year in a recreation center. An N.C.A.A. review of the school found a ''lack of formal instruction or organized curriculum structure,'' according to a news release. The school was opened in August 2005 in Irving, Tex., by a summer basketball coach and quickly blossomed to 40 students, all of whom were basketball players. The school sent two players to Division I schools last year: Jeremy Mayfield to Alabama-Birmingham and Tommy Moffitt to the University of Texas-Arlington.</p>
+        <p>Two players from the school signed letters of intent to Division I schools this year, Marcus Brister to Iowa State and T. J. Clark to Morehead State. Their status will be reviewed.</p>
+        <p>PETE THAMEL</p>
+        <p>SPORTS BRIEFING: COLLEGES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

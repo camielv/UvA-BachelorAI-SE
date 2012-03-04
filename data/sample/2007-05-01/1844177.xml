@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Among Chimps and Bonobos, the Hand Often Does the Talking</title>
+    <meta content="01lang" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/05/01/science/01lang.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1844177"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Wildlife</classifier>
+        <classifier class="online_producer" type="descriptor">Monkeys and Apes</classifier>
+        <classifier class="online_producer" type="descriptor">Language and Languages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Monkeys and Apes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Language and Languages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070501T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9901E5D9133EF932A35756C0A9619C8B63" item-length="467" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Among Chimps and Bonobos, the Hand Often Does the Talking</hl1>
+        <hl2 class="online_headline">Among Chimps and Bonobos, the Hand Often Does the Talking</hl2>
+      </hedline>
+      <byline class="print_byline">By NICHOLAS WADE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Why is it that when people are yakking away on their cellphones, they often accompany their activity with face and hand gestures, a performance that their distant listener cannot see and does not need?</p>
+        <p>Gesture seems so integral a part of human communication that some researchers have wondered if language began as a system of signs and switched over to speech later in human evolutionary history. Gesture, after all, is certainly capable of supporting full-fledged language, as is shown by the existence of sign languages.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Chimpanzees and bonobos make liberal use of gestures in addition to the sounds and facial expressions that are part of their communication system.</p>
+      </block>
+      <block class="full_text">
+        <p>Why is it that when people are yakking away on their cellphones, they often accompany their activity with face and hand gestures, a performance that their distant listener cannot see and does not need?</p>
+        <p>Gesture seems so integral a part of human communication that some researchers have wondered if language began as a system of signs and switched over to speech later in human evolutionary history. Gesture, after all, is certainly capable of supporting full-fledged language, as is shown by the existence of sign languages.</p>
+        <p>So it is of interest that chimpanzees and bonobos also make liberal use of gestures in addition to the sounds and facial expressions that are part of their communication system.</p>
+        <p>Writing in The Proceedings of the National Academy of Sciences, published today, Amy S. Pollick and Frans B. M. de Waal of the Yerkes National Primate Research Center report that the two species use gestures in a much more flexible way than facial or vocal signals.</p>
+        <p>A scream always means that someone is under threat or attack. But the gesture of stretching out an open hand depends on context. In a fight, it is used as a call for help to a third party. But it may also be used toward a chimp with food to suggest that a modicum of sharing would be appropriate.</p>
+        <p>With one exception, hand gestures are not seen in monkeys, Dr. de Waal said, suggesting that they are a more recent evolutionary development than other components of communication like sounds and expressions and could more easily be co-opted into a symbolic system. The versatility of the 31 hand gestures seen among chimpanzees and bonobos ''makes gesture a serious candidate modality to have acquired symbolic meaning'' in early human ancestors, the researchers write.</p>
+        <p>Bonobos, which became a separate species from chimpanzees 2.5 million years ago, seem to make special use of hand gestures that elicit a response from other bonobos much more often when included in the mix of sounds and expressions.</p>
+        <p>The openness of the hand-gesture system among chimps and bonobos ''is consistent with the idea that the early hominid communications system was gesture based and that vocal communication came later,'' said William Hopkins, a Yerkes researcher not involved in the study. ''The speech system is a very recent adaptation in hominids.''</p>
+        <p>Marc D. Hauser, an expert on animal communication at Harvard, said the work on hand gestures was interesting but in his view had nothing to do with language.</p>
+        <p>''At some point in primate evolution,'' he said, ''those parts of the body became usable in systems of communication, and we inherited some aspects of that, as did chimps. But we are not licensed to make any connections with language.''</p>
+        <p>The human use of gestures, he added, is not linguistic but to enhance language.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

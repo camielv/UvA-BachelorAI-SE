@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   WEISER, JOEL</title>
+    <meta content="dn040407" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837855"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">WEISER, JOEL</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070404T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE0D8153AF937A35757C0A9619C8B63" item-length="52" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   WEISER, JOEL</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WEISER--Joel, passed away on March 31st, 2007. Predeceased by his beloved son and our brother, Gary. He is survived by his beloved wife Muriel, his son Bernard, daughter Gertrude, grandchildren David, Sheri, Laurie, and Cindy, and his greatgranddaughters Lauren and Rachel. He will be missed and cherished in our hearts forever.</p>
+      </block>
+      <block class="full_text">
+        <p>WEISER--Joel, passed away on March 31st, 2007. Predeceased by his beloved son and our brother, Gary. He is survived by his beloved wife Muriel, his son Bernard, daughter Gertrude, grandchildren David, Sheri, Laurie, and Cindy, and his greatgranddaughters Lauren and Rachel. He will be missed and cherished in our hearts forever.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

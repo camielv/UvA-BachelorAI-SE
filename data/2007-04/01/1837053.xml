@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Get; The New Collectibles</title>
+    <meta content="04get.collectibles.b&amp;w" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="T: Design Magazine" name="dsk"/>
+    <meta content="62" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Style; Magazine" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837053"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/T: Style Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05E0DA1230F932A35757C0A9619C8B63" item-length="286" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Get; The New Collectibles</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Real Thing For Spring.</p>
+      </block>
+      <block class="full_text">
+        <p>The Real Thing For Spring.</p>
+        <p>Flower Power: A graphic tray from Marimekko is floral without being too girly. $148 at Anthropologie.Go to www.anthropologie.com.</p>
+        <p>Modern Classics: Ron Arad's limited-edition design of ''The Idiot'' by Dostoyevsky is part of the Penguin Designer Classics series. $250 at the Conran Shop. Call (212) 755-9079.</p>
+        <p>Spoon-Fed: The Clothes-peg spoon is part of the elBulli Collection by Luki Huber for Ferran Adrià's Faces tableware line. $72 for a set of two at Le Sanctuaire, Santa Monica, Calif. Call (310) 581-8999.</p>
+        <p>Music of the Sphere:Turn the key on this wooden orb by the Berlin designers Adam und Harborth, and Mozart comes out. $85 at MoMA Store. Go to www.momastore.org.</p>
+        <p>The Rake's Progress: Perfect for city gardens, OXO's adjustable hand rake goes from wide to narrow (for tight spaces and easy storage). $13. Go to www.oxo.com.</p>
+        <p>Bowled Over: An enameled metal bowl from Kiln Enamel offers a fresh take on the Arts and Crafts aesthetic. $200 at Moss, 146 Greene Street.</p>
+        <p>Having A Ball: The Pendulette Boule clock is based on an antique model in the HermÃ</p>
+        <p>s museum but looks up to the minute. $3,300 at HermÃ</p>
+        <p>s stores nationwide. Call (800) 441-4488.</p>
+        <p>Benchmark: With its teak frame and outdoor fabric upholstery, the Louis Soleil settee, designed by John Hutton for Sutherland, braves the great outdoors in style. To the trade only. Go to www.sutherlandteak.com.</p>
+        <p>A Simple Plan: The Ornamental Flowerbed decoupage tray is taken from a 19th-century garden design but looks abstract enough for a modern room. $165 at John Derian, 6 East Second Street.</p>
+        <p>Through A Glass Brightly: Between its floral motif and anise-green color, this crystal vase from Lalique's Bucolique collection is the picture of spring. $750 at Lalique, 712 Madison Avenue.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

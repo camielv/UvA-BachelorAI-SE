@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TRANSACTIONS</title>
+    <meta content="22trns" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1842266"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E2DF173EF931A15757C0A9619C8B63" item-length="109" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TRANSACTIONS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BASEBALL</p>
+        <p>American League  LOS ANGELES ANGELS--Activated RHP Bartolo Colon from the 15-day DL. Optioned LHP Joe Saunders to Salt Lake (PCL).  TEXAS RANGERS--Purchased the contract of RHP Willie Eyre from Oklahoma (PCL). Designated LHP Bruce Chen for assignment.</p>
+        <p>National League  COLORADO ROCKIES--Placed RHP Ramon Ramirez on the 15-day DL, retroactive to April 18. Designated RHP Matt Herges for assignment. Recalled RHP Ryan Speier from Colorado Springs (PCL). Purchased the contract of RHP Bobby Keppel from Colorado Springs (PCL).</p>
+        <p>COLLEGE</p>
+        <p>GREAT FALLS--Announced the resignation of Eric Van Kley, athletic director and wrestling coach, to become wrestling coach at Central College, Iowa.</p>
+      </block>
+      <block class="full_text">
+        <p>BASEBALL</p>
+        <p>American League  LOS ANGELES ANGELS--Activated RHP Bartolo Colon from the 15-day DL. Optioned LHP Joe Saunders to Salt Lake (PCL).  TEXAS RANGERS--Purchased the contract of RHP Willie Eyre from Oklahoma (PCL). Designated LHP Bruce Chen for assignment.</p>
+        <p>National League  COLORADO ROCKIES--Placed RHP Ramon Ramirez on the 15-day DL, retroactive to April 18. Designated RHP Matt Herges for assignment. Recalled RHP Ryan Speier from Colorado Springs (PCL). Purchased the contract of RHP Bobby Keppel from Colorado Springs (PCL).</p>
+        <p>COLLEGE</p>
+        <p>GREAT FALLS--Announced the resignation of Eric Van Kley, athletic director and wrestling coach, to become wrestling coach at Central College, Iowa.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Gilded Once More</title>
+    <meta content="27krugman" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="27" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Health; Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/27/opinion/27krugman.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1843245"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Op-Ed Columnist"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">United States Economy</classifier>
+        <classifier class="indexing_service" type="descriptor">Income</classifier>
+        <classifier class="indexing_service" type="descriptor">Social Conditions and Trends</classifier>
+        <classifier class="indexing_service" type="descriptor">Hedge Funds</classifier>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <classifier class="indexing_service" type="descriptor">Children and Youth</classifier>
+        <classifier class="indexing_service" type="descriptor">Health Insurance and Managed Care</classifier>
+        <classifier class="indexing_service" type="descriptor">Taxation</classifier>
+        <classifier class="indexing_service" type="descriptor">Regulation and Deregulation of Industry</classifier>
+        <person class="indexing_service">Krugman, Paul</person>
+        <person class="indexing_service">Rockefeller, John D (1839-1937)</person>
+        <person class="indexing_service">Simons, James</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists/Paul Krugman</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Health Insurance and Managed Care</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicaid</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="descriptor">Income</classifier>
+        <classifier class="online_producer" type="descriptor">Conservatism (US Politics)</classifier>
+        <classifier class="online_producer" type="descriptor">Federal Taxes (US)</classifier>
+        <classifier class="online_producer" type="descriptor">Social Security (US)</classifier>
+        <classifier class="online_producer" type="descriptor">Health Insurance and Managed Care</classifier>
+        <classifier class="online_producer" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="descriptor">Taxation</classifier>
+        <classifier class="online_producer" type="descriptor">Medicare</classifier>
+        <classifier class="online_producer" type="descriptor">Medicaid</classifier>
+        <classifier class="online_producer" type="descriptor">Income Tax</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicare</classifier>
+        <classifier class="online_producer" type="general_descriptor">Income</classifier>
+        <classifier class="online_producer" type="general_descriptor">Health Insurance and Managed Care</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hedge Funds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicaid</classifier>
+        <classifier class="online_producer" type="general_descriptor">Income Tax</classifier>
+        <classifier class="online_producer" type="general_descriptor">Social Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Social Security (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Federal Taxes (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Economy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Regulation and Deregulation of Industry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Taxation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <org class="online_producer">House of Representatives</org>
+        <org class="online_producer">Senate</org>
+        <org class="online_producer">Republican Party</org>
+        <person class="online_producer">Norquist, Grover G</person>
+        <person class="online_producer">Simons, James</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070427T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E2DE123EF934A15757C0A9619C8B63" item-length="730" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Gilded Once More</hl1>
+        <hl2 class="online_headline">Gilded Once More</hl2>
+      </hedline>
+      <byline class="print_byline">By PAUL KRUGMAN</byline>
+      <byline class="normalized_byline">Krugman, Paul</byline>
+      <abstract>
+        <p>Paul Krugman Op-Ed column says those on right who yearn for late 19th-century age of minimal taxation, absence of regulation and reliance on faith-based charity can take heart from new Gilded Age in Americe; reports that John D Rockefeller in 1894 had income of $1.25 million, almost 7,000 per capita income in US at the time, whereas hedge fund manager James Simons last year took home $1.7 billion, more than 38,000 times average income; adds that top 25 hedge fund managers made $14 billion, which would provide health care for year to eight million uninsured children</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>One of the distinctive features of the modern American right has been nostalgia for the late 19th century, with its minimal taxation, absence of regulation and reliance on faith-based charity rather than government social programs. Conservatives from Milton Friedman to Grover Norquist have portrayed the Gilded Age as a golden age, dismissing talk of the era's injustice and cruelty as a left-wing myth.</p>
+        <p>Well, in at least one respect, everything old is new again. Income inequality -- which began rising at the same time that modern conservatism began gaining political power -- is now fully back to Gilded Age levels.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>We’ve gone back to levels of inequality not seen since the 1920s.</p>
+      </block>
+      <block class="full_text">
+        <p>One of the distinctive features of the modern American right has been nostalgia for the late 19th century, with its minimal taxation, absence of regulation and reliance on faith-based charity rather than government social programs. Conservatives from Milton Friedman to Grover Norquist have portrayed the Gilded Age as a golden age, dismissing talk of the era's injustice and cruelty as a left-wing myth.</p>
+        <p>Well, in at least one respect, everything old is new again. Income inequality -- which began rising at the same time that modern conservatism began gaining political power -- is now fully back to Gilded Age levels.</p>
+        <p>Consider a head-to-head comparison. We know what John D. Rockefeller, the richest man in Gilded Age America, made in 1894, because in 1895 he had to pay income taxes. (The next year, the Supreme Court declared the income tax unconstitutional.) His return declared an income of $1.25 million, almost 7,000 times the average per capita income in the United States at the time.</p>
+        <p>But that makes him a mere piker by modern standards. Last year, according to Institutional Investor's Alpha magazine, James Simons, a hedge fund manager, took home $1.7 billion, more than 38,000 times the average income. Two other hedge fund managers also made more than $1 billion, and the top 25 combined made $14 billion.</p>
+        <p>How much is $14 billion? It's more than it would cost to provide health care for a year to eight million children -- the number of children in America who, unlike children in any other advanced country, don't have health insurance.</p>
+        <p>The hedge fund billionaires are simply extreme examples of a much bigger phenomenon: every available measure of income concentration shows that we've gone back to levels of inequality not seen since the 1920s.</p>
+        <p>The New Gilded Age doesn't feel quite as harsh and unjust as the old Gilded Age -- not yet, anyway. But that's because the effects of inequality are still moderated by progressive income taxes, which fall more heavily on the rich than on the middle class; by estate taxation, which limits the inheritance of great wealth; and by social insurance programs like Social Security, Medicare and Medicaid, which provide a safety net for the less fortunate.</p>
+        <p>You might have thought that in the face of growing inequality, there would have been a move to reinforce these moderating institutions -- to raise taxes on the rich and use the money to strengthen the safety net. That's why comparing the incomes of hedge fund managers with the cost of children's health care isn't an idle exercise: there's a real trade-off involved. But for the past three decades, such trade-offs have been consistently settled in favor of the haves and have-mores.</p>
+        <p>Taxation has become much less progressive: according to estimates by the economists Thomas Piketty and Emmanuel Saez, average tax rates on the richest 0.01 percent of Americans have been cut in half since 1970, while taxes on the middle class have risen. In particular, the unearned income of the wealthy -- dividends and capital gains -- is now taxed at a lower rate than the earned income of most middle-class families.</p>
+        <p>Those hedge fund titans, by the way, have an especially sweet deal: loopholes in the law let them use their own businesses as, in effect, unlimited 401(k)s, sheltering their earnings and accumulating tax-free capital gains.</p>
+        <p>Meanwhile, the tax-cut bill Congress passed in 2001 set in motion a complete phaseout of the estate tax. If the Bush administration hadn't been too clever by half, hiding the true cost of its tax cuts by making the whole package expire at the end of 2010, we'd be well on our way toward becoming a dynastic society.</p>
+        <p>And as for the social insurance programs ---- well, in 2005 the Bush administration tried to privatize Social Security. If it had succeeded, Medicare would have been next.</p>
+        <p>Of course, the administration's attempt to undo Social Security was a notable failure. The public, it seems, isn't eager to return to the days before the New Deal. And the G.O.P.'s defeat in the midterm election has put on hold other plans to restore the good old days.</p>
+        <p>But it's much too soon to declare the march toward a New Gilded Age over. If history is any guide, one of these days we'll see the emergence of a New Progressive Era, maybe even a New New Deal. But it may be a long wait.</p>
+        <p>Op-Ed Columnist</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

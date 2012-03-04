@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>F.B.I. Names New Leader For Its Office In Newark</title>
+    <meta content="21bureau" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/21/nyregion/21bureau.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1841756"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <location class="online_producer">Newark (NJ)</location>
+        <org class="online_producer">Federal Bureau of Investigation</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070421T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9805E2DB163EF932A15757C0A9619C8B63" item-length="425" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>F.B.I. Names New Leader For Its Office In Newark</hl1>
+        <hl2 class="online_headline">F.B.I. Names New Leader for Its Office in Newark</hl2>
+      </hedline>
+      <byline class="print_byline">By RONALD SMOTHERS</byline>
+      <byline class="normalized_byline">Smothers, Ronald</byline>
+      <dateline>NEWARK, April 20</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The F.B.I. has named Weysan Dun, a 25-year bureau veteran with experience in the Midwest and Washington, to lead the agency's Newark office.</p>
+        <p>Mr. Dun, 52, will move to the new post from Springfield, Ill., where he has been special agent in charge of the bureau's central Illinois office for the last four years. He will be going from an office with about two dozen agents to one with nearly 400 people, ranking seventh in size among the agency's outposts.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Weysan Dun, a 25-year borough veteran, said that one of his first tasks would be to deal with trauma from the killing of Agent Barry Lee Bush.</p>
+      </block>
+      <block class="full_text">
+        <p>The F.B.I. has named Weysan Dun, a 25-year bureau veteran with experience in the Midwest and Washington, to lead the agency's Newark office.</p>
+        <p>Mr. Dun, 52, will move to the new post from Springfield, Ill., where he has been special agent in charge of the bureau's central Illinois office for the last four years. He will be going from an office with about two dozen agents to one with nearly 400 people, ranking seventh in size among the agency's outposts.</p>
+        <p>''I expect that there will be challenges,'' Mr. Dun said in a telephone interview from his office in Springfield. ''But I have some experience in the San Francisco F.B.I. office. I know that the national security work of the Newark office is very significant because of the national infrastructure in the region and the proximity to New York City, and I know it has significant white-collar and public corruption cases.''</p>
+        <p>Mr. Dun said that one of his first tasks would be to deal with the trauma that he knows exists in the Newark F.B.I. office in the aftermath of the killing of Agent Barry Lee Bush. Agent Bush was shot on April 5 as agents interrupted a bank robbery in Reddington, in central New Jersey. The shot apparently came from a fellow agent's gun.</p>
+        <p>''I am unfortunately all too familiar with those feelings,'' said Mr. Dun, noting that last year an agent in his office was killed in a training accident. ''One of my highest priorities when I get there will be to help with the healing process.''</p>
+        <p>Mr. Dun, who has extensive experience investigating domestic terrorism and drug and gang activity, was chosen by the F.B.I. director, Robert S. Mueller III, to fill the Newark post well before the death of Agent Bush, according to law enforcement officials who are familiar with the appointment's timing. The position in Newark has been vacant since February, when Leslie G. Wiser Jr. retired. Mr. Dun will be the sixth person to hold the Newark post in six years.</p>
+        <p>In Illinois, where Mr. Dun has been head of the F.B.I. office for four years, Larry Trent, the state police director, said that he stood out among F.B.I. officials as someone who cultivated cooperative relationships with local law enforcement.</p>
+        <p>''That is his real forte,'' Mr. Trent said, recalling the training Mr. Dun helped bring to state and local officers and the crucial role he played in helping to staff the Statewide Terrorism and Intelligence Center. ''He's the kind of Midwestern guy who will fit in anywhere.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

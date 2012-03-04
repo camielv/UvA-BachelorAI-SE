@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sallie Smith, James Butterworth</title>
+    <meta content="22ssmith" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1842166"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Smith, Dr. Sarah Bland (Dr. Sarah Bland Butterworth)</person>
+        <person class="indexing_service">Butterworth, James Frederick</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9504EEDD163EF931A15757C0A9619C8B63" item-length="186" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sallie Smith, James Butterworth</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Dr. Sarah Bland Smith and James Frederick Butterworth were married in Boulder, Colo., yesterday afternoon. They married themselves under Colorado law. David Secunda and Carmela Weber, friends of the couple, led the ceremony at the Sunrise Amphitheater, an outdoor event space.</p>
+        <p>Dr. Smith, 39, is known as Sallie. She is a neurologist in Denver and a clinical instructor in neurology at the University of Colorado School of Medicine. She also has a hypnotherapy practice in Boulder. She graduated from the University of North Carolina and received a medical degree from Columbia.</p>
+      </block>
+      <block class="full_text">
+        <p>Dr. Sarah Bland Smith and James Frederick Butterworth were married in Boulder, Colo., yesterday afternoon. They married themselves under Colorado law. David Secunda and Carmela Weber, friends of the couple, led the ceremony at the Sunrise Amphitheater, an outdoor event space.</p>
+        <p>Dr. Smith, 39, is known as Sallie. She is a neurologist in Denver and a clinical instructor in neurology at the University of Colorado School of Medicine. She also has a hypnotherapy practice in Boulder. She graduated from the University of North Carolina and received a medical degree from Columbia.</p>
+        <p>She is a daughter of Diana A. DeVere of Minneapolis and Robert Bland Smith Jr. of Washington and a stepdaughter of Niente I. Smith.</p>
+        <p>Mr. Butterworth, 45, is a producer and director of ''Seoul Train,'' a documentary film about North Korean refugees, which was shown on the PBS series ''Independent Lens'' and won a 2007 Alfred I. duPont-Columbia University award for broadcast journalism. He graduated from the Georgia Institute of Technology and received an M.B.A. from Dartmouth.</p>
+        <p>He is a son of Rubie P. Butterworth of Tallahassee, Fla., and the late Charles A. Butterworth Jr.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

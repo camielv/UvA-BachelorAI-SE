@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New Jersey: Newark: New Transit Director</title>
+    <meta content="03mbrfs-9" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837822"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Railroads</classifier>
+        <classifier class="indexing_service" type="descriptor">Appointments and Executive Changes</classifier>
+        <location class="indexing_service">New Jersey</location>
+        <org class="indexing_service">New Jersey Transit</org>
+        <person class="indexing_service">Sarles, Richard R Sr</person>
+        <person class="indexing_service">Warrington, George</person>
+        <person class="indexing_service">Belson, Ken</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Railroads</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070403T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9502EEDB1F30F930A35757C0A9619C8B63" item-length="114" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New Jersey: Newark: New Transit Director</hl1>
+      </hedline>
+      <byline class="print_byline">By KEN BELSON; Compiled by John Sullivan</byline>
+      <byline class="normalized_byline">Belson, Ken</byline>
+      <abstract>
+        <p>Richard R Sarles Sr is named new executive director of New Jersey Transit; he succeeds George Warrington (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>New Jersey Transit yesterday named Richard R. Sarles Sr. as its new executive director. Since 2002, Mr. Sarles has managed the agency's $1.3 billion annual capital program and its three light rail lines. Before that, he worked at Amtrak directing the Northeast Corridor High-Speed Rail program. One of Mr. Sarles's top priorities will be to oversee New Jersey Transit's drive to build a second passenger rail tunnel under the Hudson River. He will also inherit a planned 9.6 percent fare increase, which is expected to go into effect on June 1. Mr. Sarles succeeds George Warrington, who said he was leaving to pursue other opportunities.</p>
+        <p>KEN BELSON</p>
+      </block>
+      <block class="full_text">
+        <p>New Jersey Transit yesterday named Richard R. Sarles Sr. as its new executive director. Since 2002, Mr. Sarles has managed the agency's $1.3 billion annual capital program and its three light rail lines. Before that, he worked at Amtrak directing the Northeast Corridor High-Speed Rail program. One of Mr. Sarles's top priorities will be to oversee New Jersey Transit's drive to build a second passenger rail tunnel under the Hudson River. He will also inherit a planned 9.6 percent fare increase, which is expected to go into effect on June 1. Mr. Sarles succeeds George Warrington, who said he was leaving to pursue other opportunities.</p>
+        <p>KEN BELSON</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

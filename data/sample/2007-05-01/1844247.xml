@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Unspent 9/11 Funds Returning to New Jersey Coffer</title>
+    <meta content="01homeland" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/05/01/nyregion/01homeland.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1844247"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Budgets and Budgeting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <location class="online_producer">New Jersey</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070501T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E6D7133EF932A35756C0A9619C8B63" item-length="404" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Unspent 9/11 Funds Returning to New Jersey Coffer</hl1>
+        <hl2 class="online_headline">Unspent 9/11 Funds Returning to New Jersey Coffer</hl2>
+      </hedline>
+      <byline class="print_byline">By RONALD SMOTHERS</byline>
+      <byline class="normalized_byline">Smothers, Ronald</byline>
+      <dateline>TRENTON, April 30</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In 2003, when post-9/11 security fears were still fresh, New Jersey appropriated $23 million to help local governments buy equipment they might need to meet emergencies. But according to the state attorney general, municipalities failed to spend $2.78 million of that money.</p>
+        <p>Now, the unspent money will revert to the state's general fund.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Local governments failed to cash in on almost $3 million worth of grants for emergency equipment, according to the state attorney general.</p>
+      </block>
+      <block class="full_text">
+        <p>In 2003, when post-9/11 security fears were still fresh, New Jersey appropriated $23 million to help local governments buy equipment they might need to meet emergencies. But according to the state attorney general, municipalities failed to spend $2.78 million of that money.</p>
+        <p>Now, the unspent money will revert to the state's general fund.</p>
+        <p>In all, 78 municipalities failed to cash in on anywhere from $200 to $191,000 to complete planned purchases of things like fire trucks, gas masks, riot shields and mobile command vehicles.</p>
+        <p>The amount is small compared with the $2.5 billion projected deficit in next year's state budget.</p>
+        <p>''This was reimbursement money, and when we contacted the local governments last year seeking documentation that things were either on order or received, many could not produce it,'' said David Wald, a spokesman for Stuart Rabner, the attorney general.</p>
+        <p>After that, Mr. Wald said, the department set a deadline of last December for final applications for $4.6 million of the money in the Local Domestic Preparedness Equipment Grant money. Municipalities laid claim to less than half of that.</p>
+        <p>The program was set up in 2003, partly in response to local governments' clamoring for money to supplement federal funds for homeland security. The federal money was handed out based on formulas that many believed were unfair to densely populated states like New Jersey. Some Republicans in the Legislature criticized the program, saying it directed the bulk of its money to areas controlled by Democrats.</p>
+        <p>William G. Dressel Jr., executive director of the New Jersey League of Municipalities, said that from the beginning there was confusion about the ''time frames'' for spending the money.</p>
+        <p>''I'm not sure it was communicated to local governments that there was a time limit,'' he said. ''There was also some confusion about interpreting exactly what it could be used for.''</p>
+        <p>Albert Greco, city manager of Clifton, which is in Passaic County and has a population of 78,000, said the problem was with state government and not the municipalities. He said that on three occasions the city had fully documented reimbursement requests to the state attorney general's office but had gotten no response.</p>
+        <p>Newark left the most money unclaimed, $191,000, and tiny Somerdale Borough, a community of 5,000 people in Camden County, proved the most efficient spender, leaving 38 cents unspent. Plainfield left $116,555, while Carlstadt did not claim $134,800 it had originally told state officials it would spend.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

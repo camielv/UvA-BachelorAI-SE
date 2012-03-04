@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Bad Choice, a Quick Exit</title>
+    <meta content="12thu4" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/12/opinion/12thu4.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1839719"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Birth Control and Family Planning</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <classifier class="indexing_service" type="descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <org class="indexing_service">Health and Human Services Department</org>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <person class="indexing_service">Keroack, Eric (Dr)</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="descriptor">Birth Control and Family Planning</classifier>
+        <classifier class="online_producer" type="descriptor">Women</classifier>
+        <classifier class="online_producer" type="descriptor">Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Birth Control and Family Planning</classifier>
+        <classifier class="online_producer" type="general_descriptor">Women</classifier>
+        <org class="online_producer">Health and Human Services Department</org>
+        <person class="online_producer">Keroack, Eric J</person>
+        <person class="online_producer">Bush, George W</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070412T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D03E5D9123FF931A25757C0A9619C8B63" item-length="254" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Bad Choice, a Quick Exit</hl1>
+        <hl2 class="online_headline">A Bad Choice, a Quick Exit</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial says Dr Eric Keroack's brief run as director of family planning programs at Dept of Health and Human Services exemplifies three Bush administration themes: scorn for women's reproductive health and rights, champion of ideology over science and incompetence; contends Keroack's resignation while investigation continues into his private medical practice is another embarrassment for administration</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The story of Eric Keroack's brief stint as director of family planning programs at the Department of Health and Human Services brings together three familiar Bush administration themes: a disdain for women's reproductive health and rights, the sacrifice of science to ideology and incompetence.</p>
+        <p>Appointed in November, Dr. Keroack was always a disturbing choice to lead the federal office that finances birth control, pregnancy tests and other health care services for five million poor Americans. He previously was the medical director of a private network of pregnancy counseling clinics in Massachusetts that views the distribution of contraception as ''demeaning to women, degrading of human sexuality and adverse to human health and happiness,'' according to the group's Web site.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Eric Keroack was always a disturbing choice to lead the federal office that finances birth control, pregnancy tests and other health care services for five million poor Americans.</p>
+      </block>
+      <block class="full_text">
+        <p>The story of Eric Keroack's brief stint as director of family planning programs at the Department of Health and Human Services brings together three familiar Bush administration themes: a disdain for women's reproductive health and rights, the sacrifice of science to ideology and incompetence.</p>
+        <p>Appointed in November, Dr. Keroack was always a disturbing choice to lead the federal office that finances birth control, pregnancy tests and other health care services for five million poor Americans. He previously was the medical director of a private network of pregnancy counseling clinics in Massachusetts that views the distribution of contraception as ''demeaning to women, degrading of human sexuality and adverse to human health and happiness,'' according to the group's Web site.</p>
+        <p>Its program for dissuading women from having an abortion has included spreading the medically inaccurate claim that having an abortion greatly increases the risk of breast cancer. In speeches and writing, Dr. Keroack has promoted the scientifically bereft notion that sex with multiple partners alters women's brain chemistry in a way that makes it hard for them to form relationships.</p>
+        <p>It turns out these were not the only reasons Dr. Keroack was unsuitable. Last month he resigned after the Medicaid office in Massachusetts took action in connection with his private medical practice. The details of a continuing investigation (which someone in the White House should have discovered) are still murky, and Dr. Keroack says he plans an appeal. In the meantime, the administration's ideological blinkers and shoddy process for vetting appointees has produced yet another embarrassment.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

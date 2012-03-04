@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   REICH, ISMAR M.</title>
+    <meta content="dn040607" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838241"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">REICH, ISMAR M.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070406T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F04E2D7153AF935A35757C0A9619C8B63" item-length="87" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   REICH, ISMAR M.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>REICH--Ismar M., 82, of Merrick, NY, on April 5th, 2007. Loving and beloved husband of Diane Wechsler Reich, father of Helen Rothman, Arnold Reich and Andrew Reich, father-in-law of Donna LaMagna, grandfather of Jonathan Rothman and Jordan Rothman, and brother of Annabelle Bernard. He was an honored chemical engineer, holder of 11 patents, and retired as Vice-President of Research and Development, Chock Full O' Nuts Corp. Service Friday, April 6, 9:45 am at Riverside Memorial Chapel, 180 West 76th Street (at Amsterdam Avenue), New York, NY.</p>
+      </block>
+      <block class="full_text">
+        <p>REICH--Ismar M., 82, of Merrick, NY, on April 5th, 2007. Loving and beloved husband of Diane Wechsler Reich, father of Helen Rothman, Arnold Reich and Andrew Reich, father-in-law of Donna LaMagna, grandfather of Jonathan Rothman and Jordan Rothman, and brother of Annabelle Bernard. He was an honored chemical engineer, holder of 11 patents, and retired as Vice-President of Research and Development, Chock Full O' Nuts Corp. Service Friday, April 6, 9:45 am at Riverside Memorial Chapel, 180 West 76th Street (at Amsterdam Avenue), New York, NY.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

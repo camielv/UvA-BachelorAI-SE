@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Selig Says Miller Should Be In Hall</title>
+    <meta content="27sportsbriefs-2" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1843311"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="SPORTS BRIEFING: BASEBALL"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Organized Labor</classifier>
+        <classifier class="online_producer" type="general_descriptor">Awards, Decorations and Honors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070427T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9504E1DD123EF934A15757C0A9619C8B63" item-length="176" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Selig Says Miller Should Be In Hall</hl1>
+      </hedline>
+      <byline class="print_byline">By JAY SCHREIBER</byline>
+      <byline class="normalized_byline">Schreiber, Jay</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Commissioner Bud Selig said yesterday that he believed that Marvin Miller deserved to be in the Baseball Hall of Fame, a surprising endorsement considering that Miller created the Players Association that was in protracted conflict with the owners for many years.</p>
+        <p>Selig put in a word for the retired Miller as he spoke of the need for ''adjustments'' in the Hall's reconstituted veterans committee.</p>
+      </block>
+      <block class="full_text">
+        <p>Commissioner Bud Selig said yesterday that he believed that Marvin Miller deserved to be in the Baseball Hall of Fame, a surprising endorsement considering that Miller created the Players Association that was in protracted conflict with the owners for many years.</p>
+        <p>Selig put in a word for the retired Miller as he spoke of the need for ''adjustments'' in the Hall's reconstituted veterans committee.</p>
+        <p>Every two years, the committee votes on players who were not elected over a 15-year period by the Baseball Writers Association of America. Every four years, the committee considers executives, umpires and managers.</p>
+        <p>However, in five ballots dating to 2003, the committee has failed to elect a single person. In the most recent results, Miller received 63 percent of the votes; 75 percent is needed.</p>
+        <p>The veterans committee is controlled by the Hall of Fame, not Major League Baseball, but Selig has input as a member of the Hall's board of directors.</p>
+        <p>Selig made his remarks at a meeting of the Associated Press Sports Editors in New York.</p>
+        <p>JAY SCHREIBER</p>
+        <p>SPORTS BRIEFING: BASEBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

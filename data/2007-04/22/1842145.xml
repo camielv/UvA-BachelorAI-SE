@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Jessica Mackta, Brian Smith</title>
+    <meta content="22mackta" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/22/fashion/weddings/22mackta.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842145"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Mackta, Jessica Lyn</person>
+        <person class="indexing_service">Smith, Brian Eugene</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E0DF163EF931A15757C0A9619C8B63" item-length="173" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Jessica Mackta, Brian Smith</hl1>
+        <hl2 class="online_headline">Jessica Mackta, Brian Smith</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Jessica Lyn Mackta and Brian Eugene Smith were married yesterday at Asbury Lanes, a bowling alley and nightclub in Asbury Park, N.J. The Rev. Carolyn D. Nicholson, a Presbyterian minister, performed the nondenominational ceremony</p>
+        <p>Ms. Mackta, 35, is keeping her name. She is the administrator for the outdoor signage group at Two Twelve Associates, a graphic design firm in New York. She graduated from Washington University in St. Louis and received a master's degree in the history of photography from the University of Arizona.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Jessica Lyn Mackta and Brian Eugene Smith were married yesterday at Asbury Lanes, a bowling alley and nightclub in Asbury Park, N.J. The Rev. Carolyn D. Nicholson, a Presbyterian minister, performed the nondenominational ceremony.</p>
+      </block>
+      <block class="full_text">
+        <p>Jessica Lyn Mackta and Brian Eugene Smith were married yesterday at Asbury Lanes, a bowling alley and nightclub in Asbury Park, N.J. The Rev. Carolyn D. Nicholson, a Presbyterian minister, performed the nondenominational ceremony</p>
+        <p>Ms. Mackta, 35, is keeping her name. She is the administrator for the outdoor signage group at Two Twelve Associates, a graphic design firm in New York. She graduated from Washington University in St. Louis and received a master's degree in the history of photography from the University of Arizona.</p>
+        <p>She is the daughter of Jayne Mackta of Bradley Beach, N.J., and the late Barnett Mackta.</p>
+        <p>Mr. Smith, 32, is the associate art director at Visual Arts Press, a part of the School of Visual Arts in New York that produces publications, Web sites and signs for exhibitions. He graduated from Virginia Commonwealth University and has a master's degree in design from the School of Visual Arts.</p>
+        <p>He is a son of Charles Smith, of Green Valley, Ariz., and the late Patricia Smith, and a stepson of Jacqueline Smith.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

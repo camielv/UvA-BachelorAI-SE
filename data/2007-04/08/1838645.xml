@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Beware Pet-Friendly Hotels</title>
+    <meta content="08mail-3" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838645"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Hotels and Motels</classifier>
+        <classifier class="indexing_service" type="descriptor">Dogs</classifier>
+        <classifier class="indexing_service" type="descriptor">Cats</classifier>
+        <classifier class="indexing_service" type="descriptor">Allergies</classifier>
+        <person class="indexing_service">Lichter, Janice</person>
+        <person class="indexing_service">Higgins, Michelle</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dogs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hotels and Motels</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cats</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070408T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9506E7DE163FF93BA35757C0A9619C8B63" item-length="175" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Beware Pet-Friendly Hotels</hl1>
+      </hedline>
+      <abstract>
+        <p>Janice Lichter letter on Michelle Higgins' March 25 Practical Traveler column warns those with allergies about staying at pet-friendly hotels</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor: I just read ''Hotel Trends: The Latest Amenity: A Hypoallergenic Room'' (Practical Traveler, March 25) by Michelle Higgins. As one who has had lifelong food and environmental allergies, I say ''bravo.'' Readers should know, however, that some hotels now permit pets in guest rooms. I had a recent reservation at a hotel in Boca Raton, Fla., which was under new management. Upon checking my hotel reservation before departure, I learned that cats and dogs were permitted to stay in guest rooms. I was assured by the desk clerk that the ''rooms are cleaned thoroughly'' after checkout. But cat dander becomes a permanent fixture; there is no way, short of demolition, that these rooms can be restored to their original dander-free state. Those with cat allergies could develop breathing difficulties upon entering a dander-filled room.</p>
+        <p>Since many hotel guests do not appear to be aware of the current trend to allow pets in rooms, I recommend that travelers inquire about a hotel's pet policy before making reservations.</p>
+        <p>Janice Lichter  Milwaukee</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor: I just read ''Hotel Trends: The Latest Amenity: A Hypoallergenic Room'' (Practical Traveler, March 25) by Michelle Higgins. As one who has had lifelong food and environmental allergies, I say ''bravo.'' Readers should know, however, that some hotels now permit pets in guest rooms. I had a recent reservation at a hotel in Boca Raton, Fla., which was under new management. Upon checking my hotel reservation before departure, I learned that cats and dogs were permitted to stay in guest rooms. I was assured by the desk clerk that the ''rooms are cleaned thoroughly'' after checkout. But cat dander becomes a permanent fixture; there is no way, short of demolition, that these rooms can be restored to their original dander-free state. Those with cat allergies could develop breathing difficulties upon entering a dander-filled room.</p>
+        <p>Since many hotel guests do not appear to be aware of the current trend to allow pets in rooms, I recommend that travelers inquire about a hotel's pet policy before making reservations.</p>
+        <p>Janice Lichter  Milwaukee</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

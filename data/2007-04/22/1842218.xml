@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>HOUSE FIGHT</title>
+    <meta content="22suits-5" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1842218"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="OPENERS: SUITS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Suits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/California</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./West</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Locations/New York/New York City/Queens</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Locations/California</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Locations/Regions</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Locations/Regions/Western States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/California</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Machinery and Equipment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D03EFDA163EF931A15757C0A9619C8B63" item-length="189" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>HOUSE FIGHT</hl1>
+      </hedline>
+      <byline class="print_byline">By EVE TAHMINCIOGLU</byline>
+      <byline class="normalized_byline">Tahmincioglu, Eve</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Steven P. Jobs, chief executive of Apple Inc., is not known for giving up without a fight. And that certainly applies to the 17,000-square-foot Spanish colonial revival house he bought more than 20 years ago in Woodside, Calif.</p>
+        <p>Mr. Jobs has been trying to have the house demolished and replaced with a smaller one. But a local preservation group known as Uphold Our Heritage has been fighting to save the house, built in the 1920s and known as the Jackling House after its original owner, the copper mogul Daniel Jackling.</p>
+      </block>
+      <block class="full_text">
+        <p>Steven P. Jobs, chief executive of Apple Inc., is not known for giving up without a fight. And that certainly applies to the 17,000-square-foot Spanish colonial revival house he bought more than 20 years ago in Woodside, Calif.</p>
+        <p>Mr. Jobs has been trying to have the house demolished and replaced with a smaller one. But a local preservation group known as Uphold Our Heritage has been fighting to save the house, built in the 1920s and known as the Jackling House after its original owner, the copper mogul Daniel Jackling.</p>
+        <p>Most of the parties involved agree the house is dilapidated and in great need of repairs, and Woodside officials granted Mr. Jobs the right to tear it down in 2004. But the First District Court of Appeals in San Francisco derailed those plans in January, after a challenge from the preservation group.</p>
+        <p>But Mr. Jobs did not take no for an answer. He took his plea to the California Supreme Court last month.</p>
+        <p>A lawyer for Mr. Jobs would say only that the court had not yet decided whether it would take the case.</p>
+        <p>EVE TAHMINCIOGLU</p>
+        <p>OPENERS: SUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

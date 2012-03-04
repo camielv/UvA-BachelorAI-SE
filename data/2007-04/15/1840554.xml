@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>LATINA AMBASSADOR TO HOLLYWOOD</title>
+    <meta content="15suits-2" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Movies; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1840554"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="OPENERS: SUITS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Suits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./New England</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/News and Features/Studios</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/News and Features/Studios/Metro-Goldwyn-Mayer</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hispanic-Americans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E1DE103FF936A25757C0A9619C8B63" item-length="153" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>LATINA AMBASSADOR TO HOLLYWOOD</hl1>
+      </hedline>
+      <byline class="print_byline">By SHARON WAXMAN</byline>
+      <byline class="normalized_byline">Waxman, Sharon</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Can the actress Salma Hayek help Hollywood figure out how to give a Latino lilt to mainstream entertainment? She has done it successfully with ''Ugly Betty,'' the Colombian telenovela reshaped for an American audience into the hit ABC show, for which she is executive producer.</p>
+        <p>Now, she is teaming up with Metro-Goldwyn-Mayer, which is slowly building new divisions and relationships to fill its distribution pipeline, to accomplish the same goal. The production company, called Ventanazul and half-owned by each party, will focus on making movies that have Latino themes but appeal to mass audiences. Ms. Hayek will be chief executive.</p>
+      </block>
+      <block class="full_text">
+        <p>Can the actress Salma Hayek help Hollywood figure out how to give a Latino lilt to mainstream entertainment? She has done it successfully with ''Ugly Betty,'' the Colombian telenovela reshaped for an American audience into the hit ABC show, for which she is executive producer.</p>
+        <p>Now, she is teaming up with Metro-Goldwyn-Mayer, which is slowly building new divisions and relationships to fill its distribution pipeline, to accomplish the same goal. The production company, called Ventanazul and half-owned by each party, will focus on making movies that have Latino themes but appeal to mass audiences. Ms. Hayek will be chief executive.</p>
+        <p>Hollywood has had little success so far in appealing to the large and growing Latino audience in the United States, with flops like Fox's 2003 effort, ''Chasing Papi.''</p>
+        <p>''We want these movies to appeal to everyone, but we also hope to make Latino audiences proud,'' Ms. Hayek said.</p>
+        <p>SHARON WAXMAN</p>
+        <p>OPENERS: SUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

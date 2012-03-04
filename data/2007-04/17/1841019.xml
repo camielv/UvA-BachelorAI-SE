@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Recipe for Desire</title>
+    <meta content="17lett-2" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1841019"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sex</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070417T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B01E6D7113FF934A25757C0A9619C8B63" item-length="148" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Recipe for Desire</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Birds Do It. Bees Do It. People Seek the Keys to It.'' (April 10): You are right to highlight that genes do contribute to sexual desire and intelligence and even sexual identity. But readers need to see the whole picture.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Birds Do It. Bees Do It. People Seek the Keys to It.'' (April 10): You are right to highlight that genes do contribute to sexual desire and intelligence and even sexual identity. But readers need to see the whole picture.</p>
+        <p>Genes and environment always interact, and the expression of a particular gene depends on environmental influences. On the biological level, one has to consider the role of hormones and neurotransmitters in sexual responses. But attachment also plays an important role in an individual's ability to fall in love, no matter what the sexual preference.</p>
+        <p>An infant's physical needs must be met with warmth and not too much stimulation. Studies show that early sexual abuse affects the brain structurally and that too little stimulation can make sexual responses more fragile. The quality of attachments can't be ignored.</p>
+        <p>Susan Jaffe, M.D.  New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

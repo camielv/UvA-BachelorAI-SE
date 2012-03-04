@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Drifter</title>
+    <meta content="Gilmore.t-1" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/29/books/review/Gilmore.t-1.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1843557"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="descriptor">Books and Literature</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+        <person class="online_producer">Morris, Mary</person>
+        <object.title class="online_producer">River Queen, The: A Memoir (Book)</object.title>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F05E0D8173EF93AA15757C0A9619C8B63" item-length="552" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Drifter</hl1>
+        <hl2 class="online_headline">Drifter</hl2>
+      </hedline>
+      <byline class="print_byline">By JENNIFER GILMORE</byline>
+      <byline class="normalized_byline">Gilmore, Jennifer</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE RIVER QUEEN</p>
+        <p>A Memoir.</p>
+        <p>By Mary Morris.</p>
+        <p>270 pp. Henry Holt &amp; Company. $24.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Mary Morris’s account of a riverboat journel creates undercurrents that slowly roil the surface.</p>
+      </block>
+      <block class="full_text">
+        <p>THE RIVER QUEEN</p>
+        <p>A Memoir.</p>
+        <p>By Mary Morris.</p>
+        <p>270 pp. Henry Holt &amp; Company. $24.</p>
+        <p>When Mary Morris gets on a riverboat in La Crosse, Wis., with two strangers and a rat terrier, she sets out on a journey that has always called to her. Her 102-year-old father, who grew up in towns along the Mississippi, has just died; her only daughter is off to college; and Morris is left dealing with her grief and anxiety, and trying to understand why she has always fled her past.</p>
+        <p>''The River Queen'' offers up that past in ripples, as Morris's story creates undercurrents that slowly roil the surface: her father's rages, her mother's dashed dreams, hardships she has experienced traveling the world. Her childhood has slipped away, but the spirit of the river towns she visits has also vanished. Once thriving main streets have given way to malls or have turned into tourist traps. Even the river has been emptied of its usual traffic by the effects of Hurricane Katrina, which hit just before her voyage began. Now she finds herself navigating thunderstorms and locks, mostly alone on her search for a hot shower, a steak and a glass of cabernet.</p>
+        <p>Like her books ''Nothing to Declare: Memoirs of a Woman Traveling Alone'' and ''Wall to Wall: From Beijing to Berlin by Rail,'' which also detailed her travels, her past and the discoveries she made on the road, ''The River Queen'' is ambitious -- part comedy, part history, part travel book and part memoir. But these elements remain disparate, each potentially fascinating segment curtailed by the others.</p>
+        <p>The humor lies in the present: a quirky captain, his mate and a spoiled dog aboard an ailing riverboat with no running water and some seriously cramped quarters. And some Mississippi history -- the building of the locks, for instance, and of the first railroad bridge to cross the river -- widens the book's scope. But the trip itself is hard to follow. They're where? Tying up to what? A map would have helped.</p>
+        <p>Morris's not terribly successful effort to come to terms with her relationship with her once angry, fearful, vibrant father climaxes in Hannibal, Mo., where he claimed to have lived in the house next to Mark Twain's boyhood home. When the riverboat ties up, Morris is met with ''Disneyland on the Mississippi.'' There are Tom &amp; Huck's Taxi, the Becky Thatcher Restaurant, the Mark Twain Cave Complex, the Mark Twain Museum. But her father's home is no longer standing, and it's not until she finds a photograph of the house -- right next door to Mark Twain's -- in a gift shop that she knows the journey hasn't been for naught. She buys the picture, proof of so much, for $8.</p>
+        <p>Early in the book, just after her first time at the riverboat's helm, Morris writes: ''I am watching for something I cannot see and I do not even know what it is. I have no idea how to read the surface in order to know what lies beneath.'' She is learning to look for changes in the river, indications of danger ahead. And although her boating skills are never fully honed, it's to her credit as a writer that the river and its history never cease to provide apt metaphors for her own changing life.</p>
+        <p>Jennifer Gilmore is the author of ''Golden Country,'' a novel.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Jennifer Gilmore is the author of ''Golden Country,'' a novel.</tagline>
+    </body.end>
+  </body>
+</nitf>

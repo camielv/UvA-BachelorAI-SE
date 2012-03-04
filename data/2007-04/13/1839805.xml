@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   BROWNE, ROSCOE LEE</title>
+    <meta content="dn041307.1" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1839805"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">BROWNE, ROSCOE LEE</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070413T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980DE0DD123AF930A25757C0A9619C8B63" item-length="89" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   BROWNE, ROSCOE LEE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BROWNE--Roscoe Lee, an extraordinary actor, a raconteur par excellence, a superb person, Roscoe will live on. The American Place Theatre</p>
+        <p>$(6$)BROWNE--Roscoe Lee. We mourn the loss of our longtime Trustee and faithful friend. He was always to be counted upon to be supportive of the aims and purposes of the Society. He filled our lives with the soft sound of poetry as only he could recite it. Now the stage is empty and the lights are low. Frank T. Crohn, President The Edna St. Vincent Millay Society</p>
+      </block>
+      <block class="full_text">
+        <p>BROWNE--Roscoe Lee, an extraordinary actor, a raconteur par excellence, a superb person, Roscoe will live on. The American Place Theatre</p>
+        <p>$(6$)BROWNE--Roscoe Lee. We mourn the loss of our longtime Trustee and faithful friend. He was always to be counted upon to be supportive of the aims and purposes of the Society. He filled our lives with the soft sound of poetry as only he could recite it. Now the stage is empty and the lights are low. Frank T. Crohn, President The Edna St. Vincent Millay Society</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

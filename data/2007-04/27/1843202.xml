@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TRANSACTIONS</title>
+    <meta content="27trans" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1843202"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070427T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9406E3DF123EF934A15757C0A9619C8B63" item-length="236" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TRANSACTIONS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BASEBALL</p>
+        <p>American League  LOS ANGELES ANGELS--Purchased the contract of INF Brandon Wood from Salt Lake (PCL). Transferred OF Juan Rivera from the 15- to the 60-day DL.</p>
+        <p>National League  ATLANTA BRAVES--Agreed to terms with RHP John Smoltz on a one-year contract extension through 2008.  HOUSTON ASTROS--Placed RHP Rick White on the 15-day DL. Purchased the contract of LHP Stephen Randolph from Round Rock (PCL).  PHILADELPHIA PHILLIES--Optioned LHP Matt Smith to Ottawa (IL). Recalled LHP Fabio Castro from Ottawa.  PITTSBURGH PIRATES--Placed C Humberto Cota on the 15-day DL. Recalled C-1B-OF Ryan Doumit from Indianapolis (IL).</p>
+        <p>FOOTBALL</p>
+        <p>N.F.L.  DENVER BRONCOS--Signed LB Warrick Holdman and LB D.D. Lewis.  NEW ORLEANS SAINTS--Agreed to terms with DE Charles Grant, on a seven-year contract extension.  SAN DIEGO CHARGERS--Signed RB Michael Turner to a one-year contract.</p>
+        <p>HOCKEY</p>
+        <p>N.H.L.  BOSTON BRUINS--Agreed to terms with G Hannu Toivonen on a one-year contract extension.  TORONTO MAPLE LEAFS--Re-signed F Boyd Devereaux to a two-year contract.</p>
+        <p>COLLEGE</p>
+        <p>BOSTON COLLEGE--Named Jack Bicknell Jr. assistant head football coach and offensive line coach.  CONNECTICUT--Announced C Hasheem Thabeet will not make himself available for the NBA draft.  DUQUESNE--Named Greg Gary men's assistant basketball coach.  HOFSTRA--Announced men's basketball sophomore F Chris Gadley will transfer to Canisius.  MARQUETTE--Announced sophomore G Dominic James will make himself available for the NBA draft.</p>
+      </block>
+      <block class="full_text">
+        <p>BASEBALL</p>
+        <p>American League  LOS ANGELES ANGELS--Purchased the contract of INF Brandon Wood from Salt Lake (PCL). Transferred OF Juan Rivera from the 15- to the 60-day DL.</p>
+        <p>National League  ATLANTA BRAVES--Agreed to terms with RHP John Smoltz on a one-year contract extension through 2008.  HOUSTON ASTROS--Placed RHP Rick White on the 15-day DL. Purchased the contract of LHP Stephen Randolph from Round Rock (PCL).  PHILADELPHIA PHILLIES--Optioned LHP Matt Smith to Ottawa (IL). Recalled LHP Fabio Castro from Ottawa.  PITTSBURGH PIRATES--Placed C Humberto Cota on the 15-day DL. Recalled C-1B-OF Ryan Doumit from Indianapolis (IL).</p>
+        <p>FOOTBALL</p>
+        <p>N.F.L.  DENVER BRONCOS--Signed LB Warrick Holdman and LB D.D. Lewis.  NEW ORLEANS SAINTS--Agreed to terms with DE Charles Grant, on a seven-year contract extension.  SAN DIEGO CHARGERS--Signed RB Michael Turner to a one-year contract.</p>
+        <p>HOCKEY</p>
+        <p>N.H.L.  BOSTON BRUINS--Agreed to terms with G Hannu Toivonen on a one-year contract extension.  TORONTO MAPLE LEAFS--Re-signed F Boyd Devereaux to a two-year contract.</p>
+        <p>COLLEGE</p>
+        <p>BOSTON COLLEGE--Named Jack Bicknell Jr. assistant head football coach and offensive line coach.  CONNECTICUT--Announced C Hasheem Thabeet will not make himself available for the NBA draft.  DUQUESNE--Named Greg Gary men's assistant basketball coach.  HOFSTRA--Announced men's basketball sophomore F Chris Gadley will transfer to Canisius.  MARQUETTE--Announced sophomore G Dominic James will make himself available for the NBA draft.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

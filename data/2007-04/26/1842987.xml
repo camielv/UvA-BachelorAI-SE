@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>This Internet TV Program Is Brought to You by</title>
+    <meta content="26adco" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/26/business/media/26adco.html" name="alternate_url"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20070427T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1842987"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE MEDIA BUSINESS: ADVERTISING"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Marketing and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <org class="online_producer">Joost</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070426T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E2DE153EF935A15757C0A9619C8B63" item-length="793" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>This Internet TV Program Is Brought to You by</hl1>
+        <hl2 class="online_headline">This Internet TV Program Is Brought to You by ...</hl2>
+      </hedline>
+      <byline class="print_byline">By ERIC PFANNER</byline>
+      <byline class="normalized_byline">Pfanner, Eric</byline>
+      <dateline>LONDON</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Joost, the Internet television service being developed by the founders of Skype, has lined up several blue-chip advertisers, including United Airlines, Microsoft, Sony Electronics and Unilever, as it prepares for its introduction.</p>
+        <p>Those brands are among 30 advertisers listed as ''launch partners'' for Joost, which plans to send free, advertiser-supported programming to computer screens using the Internet. According to several people with knowledge of the company's plans, Joost will begin the broadcasts on Tuesday.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Joost, the Internet television service, has lined up several blue-chip advertisers as it prepares for its introduction.</p>
+      </block>
+      <block class="full_text">
+        <p>Joost, the Internet television service being developed by the founders of Skype, has lined up several blue-chip advertisers, including United Airlines, Microsoft, Sony Electronics and Unilever, as it prepares for its introduction.</p>
+        <p>Those brands are among 30 advertisers listed as ''launch partners'' for Joost, which plans to send free, advertiser-supported programming to computer screens using the Internet. According to several people with knowledge of the company's plans, Joost will begin the broadcasts on Tuesday.</p>
+        <p>Joost has attracted considerable attention since Janus Friis and Niklas Zennstrom, the entrepreneurs behind Skype, an Internet telephony service now owned by eBay, and Kazaa, a peer-to-peer network that became the bane of the music industry, disclosed last year that they were working on an Internet video project. While Joost has announced programming deals with Viacom, National Geographic and other content providers, it had provided few details about its advertising, including the potential clients.</p>
+        <p>The list of big brands to be announced today may go a long way toward answering questions about the commercial viability of Joost, which Mr. Friis and Mr. Zennstrom initially called the Venice Project. The first advertisers also include the Purina division of Nestlé, Hewlett-Packard, Intel, Motorola, the Opel and Vauxhall units of General Motors, Taco Bell, Lions Gate Entertainment and the United States Army, according to advertising agencies working with Joost.</p>
+        <p>The advertisers have signed up for a three-month trial period, during which various advertising formats will be tested, said Nick Loria, general manager of North American sales and operations for Joost.</p>
+        <p>''There's so much that's not known about how consumers will use this media,'' Mr. Loria said. ''And there's so much interest among clients in how they will use it.''</p>
+        <p>Mr. Loria declined to say how much advertisers were paying, but people briefed on the company's negotiations with agencies said the cost for three months was $50,000 for ads to appear only in the United States, and $100,000 for those to be shown globally.</p>
+        <p>While some advertising on Joost will resemble traditional 30-second television spots, others will take advantage of the interactive qualities of the Internet. Arc, a marketing agency that is part of the Leo Burnett division of the Publicis Groupe, has developed ''contextual'' ads for the Purina pet food brand, to be inserted into relevant programs, the senior vice president of Arc, Mark Renshaw, said.</p>
+        <p>Instead of interrupting the programming, these ads will appear as the shows are running with a small box called a ''hand-raiser.'' Viewers who click on the hand-raisers will be sent to an ''overlay,'' or menu of content created for Purina. Much of the content is based on ''The Incredible Dog Challenge,'' a popular pet-tricks show that originally ran on NBC.</p>
+        <p>The click-through menus could also be used to direct viewers to an advertiser's Web site or e-commerce platform, Mr. Renshaw said. A travel company, for instance, could place hand-raisers on shows about a popular tourist destination; by clicking, viewers could end up on a hotel or airline reservation site.</p>
+        <p>''It's a whole new way to market to people,'' Mr. Renshaw said. ''You're combining the best of the rigor of direct marketing with the richness of the Internet and the entertainment of television.''</p>
+        <p>Joost users will also be invited to provide information about themselves and their personal interests. That will allow advertisers to steer their ads to individual Joost viewers, avoiding some of the wasted spending that occurs with conventional television, when people with no interest in a certain product sit through the commercials.</p>
+        <p>Mr. Loria said that advertising breaks on Joost would be initially limited to three minutes an hour, though he said that could rise depending on how viewers seem to tolerate interruptions.</p>
+        <p>He would not confirm that Joost would start broadcasting next week, saying only that the introduction would occur ''sometime this spring.'' A beta version of the service has been tested for several months.</p>
+        <p>Joost is not the only company planning advertiser-supported Internet television.</p>
+        <p>A Dublin-based service called Babelgum is developing a similar platform. Both are different from Internet video services like YouTube in that they plan to focus primarily on professionally produced television content rather than user-generated clips.</p>
+        <p>While some of the content on Joost may be conventional, the business model is new, prompting the creation of different kinds of relationships with agencies. Arc has worked directly with Joost on the Purina ads, for instance, bypassing media agencies, which typically buy advertising slots on conventional television.</p>
+        <p>Meanwhile, another advertising company, the Interpublic Group, said it would bring 10 clients to Joost via the Interpublic Emerging Media Lab, which examines new digital advertising platforms.</p>
+        <p>''We will be able to do rigorous testing and apply those learnings across our clients and agencies,'' said Greg Johnson, the executive director of the lab.</p>
+        <p>THE MEDIA BUSINESS: ADVERTISING</p>
+        <p>Correction:  April 27, 2007, Friday  The Advertising column in Business Day yesterday, about the start-up of Joost, the Internet television service, misidentified Nick Loria, a Joost executive who explained the company's advertising formats. He is senior vice president for global advertising, not general manager of North American sales and operations.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: April 27, 2007, Friday</p>
+        <p>The Advertising column in Business Day yesterday, about the start-up of Joost, the Internet television service, misidentified Nick Loria, a Joost executive who explained the company's advertising formats. He is senior vice president for global advertising, not general manager of North American sales and operations.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

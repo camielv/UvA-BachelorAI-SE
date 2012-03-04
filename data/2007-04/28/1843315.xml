@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   BRESLAU, MARTIN</title>
+    <meta content="dn042807" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1843315"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">BRESLAU, MARTIN</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070428T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940CE3DD163AF93BA15757C0A9619C8B63" item-length="80" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   BRESLAU, MARTIN</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BRESLAU--Martin, age 84, of Delray Beach, FL; formerly of Valley Stream and Woodbury, NY; Passed on April 24, 2007 from heart failure. Devoted husband to the late Rita, beloved father of Bruce, Allen, Carol, father-in-law to Howard, Eric and Marilynn, grandfather to Blake, Spencer, and Jake, grandfather-in law to Joey, great-grandfather to Chase and friend to many. His kindness, humanity and sense of humor served as an inspiration to all. He will be missed. The Breslau &amp; Fertig families</p>
+      </block>
+      <block class="full_text">
+        <p>BRESLAU--Martin, age 84, of Delray Beach, FL; formerly of Valley Stream and Woodbury, NY; Passed on April 24, 2007 from heart failure. Devoted husband to the late Rita, beloved father of Bruce, Allen, Carol, father-in-law to Howard, Eric and Marilynn, grandfather to Blake, Spencer, and Jake, grandfather-in law to Joey, great-grandfather to Chase and friend to many. His kindness, humanity and sense of humor served as an inspiration to all. He will be missed. The Breslau &amp; Fertig families</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

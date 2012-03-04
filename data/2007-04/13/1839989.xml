@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Art in Review; Across the Trees</title>
+    <meta content="13gall-3" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="34" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1839989"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070413T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E03E7D9133FF930A25757C0A9619C8B63" item-length="337" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Art in Review; Across the Trees</hl1>
+      </hedline>
+      <byline class="print_byline">By HOLLAND COTTER</byline>
+      <byline class="normalized_byline">Cotter, Holland</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Romanian Art Now  David Nolan Gallery  560 Broadway, at Prince Street, Soho  Through April 21</p>
+        <p>The spare, grave display by the Romanian gallery Plan B was a standout at the recent Armory Show. Everything looked like eye candy beside it. Several of those artists are also in ''Across the Trees'' -- a literal translation of Transylvania -- at Nolan, organized by the Britsh art critic Jane Neal. Their work is as taciturn and compact as remembered, but with a vein of flipped-on-its-head zaniness shooting through.</p>
+      </block>
+      <block class="full_text">
+        <p>Romanian Art Now  David Nolan Gallery  560 Broadway, at Prince Street, Soho  Through April 21</p>
+        <p>The spare, grave display by the Romanian gallery Plan B was a standout at the recent Armory Show. Everything looked like eye candy beside it. Several of those artists are also in ''Across the Trees'' -- a literal translation of Transylvania -- at Nolan, organized by the Britsh art critic Jane Neal. Their work is as taciturn and compact as remembered, but with a vein of flipped-on-its-head zaniness shooting through.</p>
+        <p>Pencil drawings by Ciprian Muresan turn an Italian fable into a surrealistic sitcom of patriarchal warfare, with a hapless parent tormented by preadolescent children. Miklos Szilard's sculpture called ''Father'' could be straight from the story: It's a man's beat-up winter cap with a bloody bandage on top.</p>
+        <p>Romania was ruled for decades by a Communist dictatorship, under which it was grindingly industrialized but also left chronically poor. Serban Savu's Hopperesque paintings of laborers and office workers, and Adrian Ghenie's landscapes obscured by gray dust, seem to speak of that dystopian time. No wonder the country produced a generation of Doubting Thomas artists.</p>
+        <p>Cristan Pogacean turns the idea into a sly joke in a video of Caravaggio's painting of the disbelieving disciple examining Jesus' wound. The only moving element is Thomas's wiggling, probing finger. Obviously art's vaunted power, like all other authority, has long since become suspect. This is the message of Mr. Muresan's photographic re-enactment of Yves Klein's famous, eternally suspended leap from a rooftop. In the new version the artist hits the ground.</p>
+        <p>And in a video by Gabriela Vanga, creative ambition becomes a form of self-torment. The piece is a compilation of scenes from old ''Tom and Jerry'' cartoons, with the cat executing super-elaborate maneuvers to land his prey. But as the mouse has been digitally removed from the film, the efforts are for nothing. Even worse, they backfire. Ms. Vanga's piece may not quite qualify as black humor, but it is succinctly and agreeably grim.</p>
+        <p>HOLLAND COTTER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

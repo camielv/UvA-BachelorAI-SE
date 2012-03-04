@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>IPod Audio at Home, Cleaned and Delivered to Speakers Near You</title>
+    <meta content="19dock" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/19/technology/19dock.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1841335"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CIRCUITS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070419T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9805E5D91E3FF93AA25757C0A9619C8B63" item-length="202" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>IPod Audio at Home, Cleaned and Delivered to Speakers Near You</hl1>
+        <hl2 class="online_headline">IPod Audio at Home, Cleaned and Delivered to Speakers Near You</hl2>
+      </hedline>
+      <byline class="print_byline">By JOHN BIGGS</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Creative Labs' Xdock can stream audio wirelessly from an iPod to remote speakers and improve audio quality by cleaning up messy digital noise.</p>
+        <p>The $200 dock has standard and optical audio-out connections for playing music on powered external speakers. The dock uses two technologies to improve the audio: the X-Fi Crystalizer, which cleans up compressed audio, and the X-Fi CMSS-3D, which simulates surround sound. The dock plays video and pictures on any TV through an S-video connection.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Creative Labs’ Xdock can play video and pictures on any TV through an S-video connection.</p>
+      </block>
+      <block class="full_text">
+        <p>Creative Labs' Xdock can stream audio wirelessly from an iPod to remote speakers and improve audio quality by cleaning up messy digital noise.</p>
+        <p>The $200 dock has standard and optical audio-out connections for playing music on powered external speakers. The dock uses two technologies to improve the audio: the X-Fi Crystalizer, which cleans up compressed audio, and the X-Fi CMSS-3D, which simulates surround sound. The dock plays video and pictures on any TV through an S-video connection.</p>
+        <p>By connecting to dedicated $100 receivers, sold separately, the Xdock can send audio up to 100 feet from the base station. The Xdock can transmit the same song to any number of receivers, or each receiver can play a different song. The dock includes a remote control.</p>
+        <p>X-Fi, Creative's proprietary method for transmitting media wirelessly between devices, uses its own standard and does not depend on Wi-Fi or any other in-home networking technology.</p>
+        <p>The Xdock charges iPods and has an auxiliary input for other MP3 players. It will be available next month in stores and online. For those who cannot wait to start streaming audio throughout the house, Creative will offer a $300 package including the dock and an X-Fi receiver.</p>
+        <p>JOHN BIGGS</p>
+        <p>CIRCUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

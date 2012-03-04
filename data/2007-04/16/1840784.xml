@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Winning Card</title>
+    <meta content="16meissner" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/16/opinion/16meissner.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840784"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Op-Ed Contributors"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Immigration and Refugees</classifier>
+        <classifier class="indexing_service" type="descriptor">Illegal Immigrants</classifier>
+        <classifier class="indexing_service" type="descriptor">Foreign Labor</classifier>
+        <classifier class="indexing_service" type="descriptor">Identity Fraud</classifier>
+        <classifier class="indexing_service" type="descriptor">Identification Devices</classifier>
+        <classifier class="indexing_service" type="descriptor">Law and Legislation</classifier>
+        <location class="indexing_service">United States</location>
+        <person class="indexing_service">Meissner, Doris</person>
+        <person class="indexing_service">Ziglar, James</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Contributors</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="descriptor">Immigration and Refugees</classifier>
+        <classifier class="online_producer" type="descriptor">Identification Devices</classifier>
+        <classifier class="online_producer" type="descriptor">Social Security (US)</classifier>
+        <classifier class="online_producer" type="descriptor">Illegal Immigrants</classifier>
+        <classifier class="online_producer" type="descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Social Security (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Illegal Aliens</classifier>
+        <classifier class="online_producer" type="general_descriptor">Identity Fraud</classifier>
+        <classifier class="online_producer" type="general_descriptor">Identification Devices</classifier>
+        <classifier class="online_producer" type="general_descriptor">Immigration and Refugees</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <org class="online_producer">Senate</org>
+        <org class="online_producer">House of Representatives</org>
+        <org class="online_producer">Swift &amp; Company</org>
+        <org class="online_producer">Homeland Security Department</org>
+        <person class="online_producer">Gutierrez, Luis V</person>
+        <person class="online_producer">Flake, Jeff</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070416T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9807EEDE113FF935A25757C0A9619C8B63" item-length="653" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Winning Card</hl1>
+        <hl2 class="online_headline">The Winning Card</hl2>
+      </hedline>
+      <byline class="print_byline">By Doris Meissner and James Ziglar</byline>
+      <byline class="normalized_byline">Ziglar, James; Meissner, Doris</byline>
+      <abstract>
+        <p>Op-Ed article by Doris Meissner and James Ziglar, former commissioners of Immigration and Naturalization Service, on what is needed for truly comprehensive immigration reform; says resolute, effective enforcment of immigration laws would make employers accountable for their hiring practices; says current Basic Pilot program is flawed because it requires only electronic verification of employment eligibility; says to prevent identity fraud there must be tamper-proof identification documents for job-seekers; says secure biometric Social Security cards are essential ingredient in any comprehensive immigration reform; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>PRESIDENT BUSH has once again started speaking out for comprehensive immigration reform, and a draft plan to rally Republican senators on the issue is circulating just as Congressional hearings on the issue approach. Members of Congress recognize that voters are looking for real reform that rests on resolute, effective enforcement of our immigration laws.</p>
+        <p>The only serious legislative proposal on the table -- a bill recently introduced by Representatives Luis Gutierrez, Democrat of Illinois, and Jeff Flake, Republican of Arizona -- offers such enforcement, because it focuses on making employers accountable for their hiring practices. To that end, the bill incorporates lessons learned from the largest immigration enforcement operation ever undertaken. Last December, Department of Homeland Security agents descended on meat processing plants run by Swift &amp; Company in six states, arresting more than 1,200 unauthorized workers.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Secure biometric Social Security cards are an essential ingredient in any comprehensive immigration reform.</p>
+      </block>
+      <block class="full_text">
+        <p>PRESIDENT BUSH has once again started speaking out for comprehensive immigration reform, and a draft plan to rally Republican senators on the issue is circulating just as Congressional hearings on the issue approach. Members of Congress recognize that voters are looking for real reform that rests on resolute, effective enforcement of our immigration laws.</p>
+        <p>The only serious legislative proposal on the table -- a bill recently introduced by Representatives Luis Gutierrez, Democrat of Illinois, and Jeff Flake, Republican of Arizona -- offers such enforcement, because it focuses on making employers accountable for their hiring practices. To that end, the bill incorporates lessons learned from the largest immigration enforcement operation ever undertaken. Last December, Department of Homeland Security agents descended on meat processing plants run by Swift &amp; Company in six states, arresting more than 1,200 unauthorized workers.</p>
+        <p>The arrests were astonishing because Swift participates in Basic Pilot, a voluntary Department of Homeland Security program that allows employers to electronically verify the work eligibility of newly hired workers against department and Social Security databases. The program is seen as the precursor for a verification system that would become mandatory with comprehensive immigration reform. Since Swift was using the department's system, how did it end up with illegal workers?</p>
+        <p>The Basic Pilot program has a fatal flaw, which is that it requires only electronic verification of employment eligibility. An effective program should also insist on tamper-proof identification documents for job-seekers, incorporating biometrics like digital photographs and fingerprints to prove identity. Only then would it be possible to establish not only that job applicants are authorized to work, but also that they are who they say they are. Otherwise, valid Social Security numbers can be presented to employers, and Basic Pilot will verify them, but the numbers may not belong to the workers who present them.</p>
+        <p>In fact, if the Basic Pilot program as now constructed becomes mandatory for employers, the incentive for generating documents with real but stolen Social Security numbers will significantly increase. Document vendors will charge ever-heftier fees to those seeking ''papers,'' employers will hire them with impunity, and the availability of work for unauthorized workers will continue to be a powerful stimulus for illegal immigration, this time seriously compromising the integrity of Social Security numbers and records.</p>
+        <p>As former commissioners of the Immigration and Naturalization Service, we grappled with the same issues that confront today's Department of Homeland Security. Since then, we have worked together on the Independent Task Force on Immigration and America's Future, which recommended secure, biometric Social Security cards. There is no other known method for linking a Social Security number to its rightful owner. By requiring the government to develop and issue such cards, the Gutierrez-Flake bill addresses a gaping hole in earlier proposals and current procedures. (Disclosure: one of us runs a company that could benefit from the adoption of this technology.)</p>
+        <p>To insist on secure documents with biometric identifiers is not a call for a national ID. Green cards, temporary work permits and passports are secure and reliable for hiring purposes. Adding Social Security cards to this list, establishing a single standard for their security features, and replacing old cards over a designated period would resolve the problem on a national scale.</p>
+        <p>Only then would employers be able to comply reliably with verification requirements as the basis for sound enforcement and, by extension, border control. Legal immigrants and American citizens could prove their identities and eligibility to work without facing discrimination based on appearance or language. Scarce enforcement resources could be spent on apprehending real criminals and addressing national security threats. And a new system of enforcement would at last have a chance to win back public confidence in the nation's immigration policies.</p>
+        <p>After more than 20 years of failed efforts, Congress must not bake half a loaf. Secure biometric Social Security cards are an essential ingredient in any comprehensive immigration reform.</p>
+        <p>Op-Ed Contributors Doris Meissner, the commissioner of the Immigration and Naturalization Service under President Bill Clinton, is a senior fellow at the Migration Policy Institute. James Ziglar, the commissioner under President George W. Bush, is the president and chief executive of a biometric technology company.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Doris Meissner, the commissioner of the Immigration and Naturalization Service under President Bill Clinton, is a senior fellow at the Migration Policy Institute. James Ziglar, the commissioner under President George W. Bush, is the president and chief executive of a biometric technology company.</tagline>
+    </body.end>
+  </body>
+</nitf>

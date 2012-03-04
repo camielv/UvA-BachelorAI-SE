@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Places at the Table</title>
+    <meta content="01rest" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="14" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/01/dining/01rest.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837296"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="GOOD EATING/BROOKLYN MUSEUM"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Restaurants</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Restaurant Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Columns/Good Eating</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="descriptor">Restaurants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+        <location class="online_producer">Red Hook (NYC)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9802E4DB1130F932A35757C0A9619C8B63" item-length="437" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Places at the Table</hl1>
+        <hl2 class="online_headline">Places at the Table</hl2>
+      </hedline>
+      <byline class="print_byline">Compiled by Kris Ensminger</byline>
+      <abstract>
+        <p>Excerpts from previously published reviews of restaurants near Brooklyn Museum (Good Eating column) (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>''The Dinner Party,'' Judy Chicago's landmark multimedia installation celebrating the role of women in Western civilization, has moved to a permanent home in the new Elizabeth A. Sackler Center for Feminist Art at the Brooklyn Museum. The work features a table with 39 place settings, each representing a woman in history. Smaller parties can be seated at these nearby restaurants.</p>
+        <p>BEAST  (718) 399-6855; 638 Bergen Street (Vanderbilt Avenue); $; $25 and Under: 4/20/05.  The name is inspired by the fondness of the owner, Deborah Bicknese, for mythological monsters. The menu offers inventive plates that Ms. Bicknese and her co-chef, Megan Fisk, call tapas. But most of them -- like the light potato, mushroom, spinach and egg tortilla and the lager braised short ribs -- are large enough to pass around the table.</p>
+        <p>CHRISTIE'S JAMAICAN PATTIES  (718) 636-9746; 387 Flatbush Avenue (Carlton Avenue); $; $25 and Under: 7/19/06.  This 40-year-old Prospect Heights stalwart recently moved half a block closer to Prospect Park on Flatbush Avenue. The meat fillings at Christie's are encased in a turmeric-yellow pastry, made with a fair amount of suet that splits into layers and shards when you bite into it, revealing the moist, nearly puréed meat filling within.</p>
+        <p>Beyond the patties, there is a full menu of jerk chicken, curried goat, braised oxtails and an assortment of baked goods.</p>
+        <p>FRANNY'S  (718) 230-0221; 295 Flatbush Avenue (Prospect Place); $; $25 and Under: 6/16/04.  Franny's belongs to a new wave of pizzerias where high-quality ingredients, like house-cured meats and farmstead cheeses, elevate humble pies. The nicely charred bottoms and puffy rims taste faintly of wood smoke, and thin centers hold their own against superior toppings.</p>
+        <p>In addition to pizzas, Franny's serves crostini, house-cured meats like pancetta, soppressata, coppa and mortadella, and small plates like wood-roasted broccoli or leeks.</p>
+        <p>GARDEN CAFE  (718) 857-8863; 620 Vanderbilt Avenue (Prospect Place); $$; Diner's Journal: 6/25/04.  This tiny spot has a small but worshipful following. John Policastro's menu is ever-changing, the napkins are thick, the service by his wife, Camille, is warm and the portions are generous.</p>
+        <p>The current menu includes asparagus soup with braised leeks and basil cream, and guinea fowl breast with sweet and sour cabbage and green onion mashed potatoes.</p>
+        <p>RESTAURANT SORREL  (718) 622-1190; 605 Carlton Avenue (St. Marks Avenue); $$; Article: 8/31/05.  Restaurant Sorrel is an airy setting for a market-driven menu created by Alexandre Tchistov, formerly of 360 in Red Hook. Among the current offerings are roasted beets with horseradish goat cheese and walnuts, and pan-seared sea scallops with enoki mushrooms and pea shoots.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Where to eat after you view “The Dinner Party,” a new multimedia installation at the Elizabeth A. Sackler Center for Feminist Art at the Brooklyn Museum.</p>
+      </block>
+      <block class="full_text">
+        <p>''The Dinner Party,'' Judy Chicago's landmark multimedia installation celebrating the role of women in Western civilization, has moved to a permanent home in the new Elizabeth A. Sackler Center for Feminist Art at the Brooklyn Museum. The work features a table with 39 place settings, each representing a woman in history. Smaller parties can be seated at these nearby restaurants.</p>
+        <p>BEAST  (718) 399-6855; 638 Bergen Street (Vanderbilt Avenue); $; $25 and Under: 4/20/05.  The name is inspired by the fondness of the owner, Deborah Bicknese, for mythological monsters. The menu offers inventive plates that Ms. Bicknese and her co-chef, Megan Fisk, call tapas. But most of them -- like the light potato, mushroom, spinach and egg tortilla and the lager braised short ribs -- are large enough to pass around the table.</p>
+        <p>CHRISTIE'S JAMAICAN PATTIES  (718) 636-9746; 387 Flatbush Avenue (Carlton Avenue); $; $25 and Under: 7/19/06.  This 40-year-old Prospect Heights stalwart recently moved half a block closer to Prospect Park on Flatbush Avenue. The meat fillings at Christie's are encased in a turmeric-yellow pastry, made with a fair amount of suet that splits into layers and shards when you bite into it, revealing the moist, nearly puréed meat filling within.</p>
+        <p>Beyond the patties, there is a full menu of jerk chicken, curried goat, braised oxtails and an assortment of baked goods.</p>
+        <p>FRANNY'S  (718) 230-0221; 295 Flatbush Avenue (Prospect Place); $; $25 and Under: 6/16/04.  Franny's belongs to a new wave of pizzerias where high-quality ingredients, like house-cured meats and farmstead cheeses, elevate humble pies. The nicely charred bottoms and puffy rims taste faintly of wood smoke, and thin centers hold their own against superior toppings.</p>
+        <p>In addition to pizzas, Franny's serves crostini, house-cured meats like pancetta, soppressata, coppa and mortadella, and small plates like wood-roasted broccoli or leeks.</p>
+        <p>GARDEN CAFE  (718) 857-8863; 620 Vanderbilt Avenue (Prospect Place); $$; Diner's Journal: 6/25/04.  This tiny spot has a small but worshipful following. John Policastro's menu is ever-changing, the napkins are thick, the service by his wife, Camille, is warm and the portions are generous.</p>
+        <p>The current menu includes asparagus soup with braised leeks and basil cream, and guinea fowl breast with sweet and sour cabbage and green onion mashed potatoes.</p>
+        <p>RESTAURANT SORREL  (718) 622-1190; 605 Carlton Avenue (St. Marks Avenue); $$; Article: 8/31/05.  Restaurant Sorrel is an airy setting for a market-driven menu created by Alexandre Tchistov, formerly of 360 in Red Hook. Among the current offerings are roasted beets with horseradish goat cheese and walnuts, and pan-seared sea scallops with enoki mushrooms and pea shoots.</p>
+        <p>GOOD EATING/BROOKLYN MUSEUM E-mail: eating@nytimes.com</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">E-mail: eating@nytimes.com</tagline>
+    </body.end>
+  </body>
+</nitf>

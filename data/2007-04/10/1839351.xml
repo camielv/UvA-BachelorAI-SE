@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Robinson Tribute Is Proving Popular</title>
+    <meta content="10robinson" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1839351"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="BASEBALL"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Uniforms</classifier>
+        <classifier class="online_producer" type="general_descriptor">Awards, Decorations and Honors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Apparel</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070410T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0DE0DB153FF933A25757C0A9619C8B63" item-length="209" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Robinson Tribute Is Proving Popular</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It is still not clear how many major league players, coaches and managers will wear No. 42 this Sunday to honor Jackie Robinson, but the number is definitely growing.</p>
+        <p>Richard Levin, the senior vice president of Major League Baseball for public relations, confirmed yesterday that three teams -- the Pittsburgh Pirates, the St. Louis Cardinals and the Los Angeles Dodgers -- would have every player wear Robinson's number. Other teams have told Major League Baseball they plan to have at least several players wear No. 42.</p>
+      </block>
+      <block class="full_text">
+        <p>It is still not clear how many major league players, coaches and managers will wear No. 42 this Sunday to honor Jackie Robinson, but the number is definitely growing.</p>
+        <p>Richard Levin, the senior vice president of Major League Baseball for public relations, confirmed yesterday that three teams -- the Pittsburgh Pirates, the St. Louis Cardinals and the Los Angeles Dodgers -- would have every player wear Robinson's number. Other teams have told Major League Baseball they plan to have at least several players wear No. 42.</p>
+        <p>Sunday is the 60th anniversary of the day that Robinson broke baseball's color barrier as a member of the Brooklyn Dodgers. Robinson's number was retired throughout the majors in 1997, although players who were wearing No. 42 at the time were allowed to continue wearing it. Yankees reliever Mariano Rivera is the only player who currently wears No. 42.</p>
+        <p>Two of Rivera's teammates -- Robinson Canó, who is named for Robinson, and Derek Jeter -- have expressed interest in wearing No. 42 on Sunday. Likewise, Mets Manager Willie Randolph has committed to wearing No. 42.</p>
+        <p>Others who have already indicated they will wear No. 42 include Ken Griffey Jr. of Cincinnati, Florida's Dontrelle Willis, Carlos Lee of Houston, Derrek Lee of the Cubs and Detroit's Gary Sheffield.</p>
+        <p>BASEBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

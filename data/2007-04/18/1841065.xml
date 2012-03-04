@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   BERMON, STUART</title>
+    <meta content="dn041807.1" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1841065"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">BERMON, STUART</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070418T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9903E7D81F3AF93BA25757C0A9619C8B63" item-length="96" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   BERMON, STUART</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BERMON--Stuart, 70, a retired Research Physicist of Yonkers, died Sunday, April 15, 2007, at Calvary Hospital in the Bronx. He is survived by his daughter, Jennifer Bermon of Venice, CA, his brother, Maurice Bermon, and his wife, Louise of Barrington, RI, and his devoted companion, Deborah Rubin of White Plains, NY. Burial will be in Forest Chapel Cemetery, Barrington, RI. In lieu of flowers, contributions may be made to Calvary Hospital, 1740 E. Chester Rd., Bronx, NY 10461. Shiva will be private. The family was assisted with the services by Sugarman-Sinai Memorial Chapel, Providence, RI.</p>
+      </block>
+      <block class="full_text">
+        <p>BERMON--Stuart, 70, a retired Research Physicist of Yonkers, died Sunday, April 15, 2007, at Calvary Hospital in the Bronx. He is survived by his daughter, Jennifer Bermon of Venice, CA, his brother, Maurice Bermon, and his wife, Louise of Barrington, RI, and his devoted companion, Deborah Rubin of White Plains, NY. Burial will be in Forest Chapel Cemetery, Barrington, RI. In lieu of flowers, contributions may be made to Calvary Hospital, 1740 E. Chester Rd., Bronx, NY 10461. Shiva will be private. The family was assisted with the services by Sugarman-Sinai Memorial Chapel, Providence, RI.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

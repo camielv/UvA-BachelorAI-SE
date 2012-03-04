@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Vigilant Helper for the Forgetful Gardener</title>
+    <meta content="05water" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838078"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CURRENTS: PLANTS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Gardens</classifier>
+        <classifier class="online_producer" type="general_descriptor">Home Furnishings</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gardens and Gardening</classifier>
+        <classifier class="online_producer" type="general_descriptor">Irrigation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070405T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0DE3DC163FF936A35757C0A9619C8B63" item-length="135" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Vigilant Helper for the Forgetful Gardener</hl1>
+      </hedline>
+      <byline class="print_byline">By ELAINE LOUIE</byline>
+      <byline class="normalized_byline">Louie, Elaine</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>If you are the kind of person who forgets to water the plants, Rain Bird's Time-Release Water offers an effortless, if somewhat unattractive, solution. A gel made of 98 percent water and 2 percent cellulose, it was developed 10 years ago for parkland use and was recently introduced to the consumer market. It comes in a tube that sits near the plant's roots. Over time -- 30 days in the case of the 9-ounce package ($1.18), above, or 90 days if you buy the 32-ounce container ($2.06) -- the bacteria and enzymes in the soil break down the cellulose, releasing the water, said Randy Hall, a product manager for the company. After the gel has dissolved, the tube can be replaced. Or you could pick up a watering can.</p>
+        <p>Information is at rainbird.com/landscape/products/accessories/RBIS.htm.</p>
+        <p>ELAINE LOUIE</p>
+      </block>
+      <block class="full_text">
+        <p>If you are the kind of person who forgets to water the plants, Rain Bird's Time-Release Water offers an effortless, if somewhat unattractive, solution. A gel made of 98 percent water and 2 percent cellulose, it was developed 10 years ago for parkland use and was recently introduced to the consumer market. It comes in a tube that sits near the plant's roots. Over time -- 30 days in the case of the 9-ounce package ($1.18), above, or 90 days if you buy the 32-ounce container ($2.06) -- the bacteria and enzymes in the soil break down the cellulose, releasing the water, said Randy Hall, a product manager for the company. After the gel has dissolved, the tube can be replaced. Or you could pick up a watering can.</p>
+        <p>Information is at rainbird.com/landscape/products/accessories/RBIS.htm.</p>
+        <p>ELAINE LOUIE  CURRENTS: PLANTS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

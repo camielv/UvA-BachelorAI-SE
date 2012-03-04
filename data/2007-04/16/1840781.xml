@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>At the Movies</title>
+    <meta content="l16weinstein" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1840781"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Boards of Directors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070416T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980CEFDE113FF935A25757C0A9619C8B63" item-length="210" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>At the Movies</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Films From the Weinsteins Falter, but the Brothers Stay Focused'' (Business Day, April 12):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Films From the Weinsteins Falter, but the Brothers Stay Focused'' (Business Day, April 12):</p>
+        <p>Using a single film's opening performance to cast light on our company is misleading. For instance, the implied value of our 70 percent stake in Genius Products alone is worth more than $400 million.</p>
+        <p>Two weeks before ''Grindhouse'' opened, ''TMNT,'' which cost $27 million, was a hit for us and our partners, Warner Brothers, opening at $24 million, and is expected to take in more than $100 million worldwide. As for ''Grindhouse,'' we covered all our costs on the film by strategically planning to release the two films separately internationally, on DVD and TV to ensure profitability.</p>
+        <p>We continue to enjoy the support of our investors and board of directors, who are pleased with the diversified assets that we have.</p>
+        <p>Those eager to share their insights but were omitted from the piece include Barry Diller, Jim Dolan and Richard Perry, who commented: ''I've really enjoyed being partners in the Weinstein Company and working with Harvey and Bob. I've been really impressed by their fiscal responsibility.'' We appreciate the opportunity to clarify the article.</p>
+        <p>Larry Madden  Executive Vice President  and Chief Financial Officer  The Weinstein Company  New York, April 13, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

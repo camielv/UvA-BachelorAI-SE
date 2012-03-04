@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Moving Day for That Vista Machine</title>
+    <meta content="19basics" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/19/technology/19basics.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1841332"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="BASICS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <org class="online_producer">Microsoft Corp</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070419T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9400E6D91E3FF93AA25757C0A9619C8B63" item-length="1440" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Moving Day for That Vista Machine</hl1>
+        <hl2 class="online_headline">Moving Day for That Vista Machine</hl2>
+      </hedline>
+      <byline class="print_byline">By LARRY MAGID</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BUYING a new computer is a lot like buying or renting a new home. First you have to pick it out and pay for it, and then you have to move your stuff. And as if PC moving day weren't hard enough, most people now faced with this task have to migrate from an older version of Windows to the new Windows Vista, which typically stores user files in different folders from previous versions.</p>
+        <p>Fortunately, there are a number of tools to copy folders and files from one machine to another. The Windows Easy File Transfer program that comes with Vista can help migrate program settings while Laplink's PCMover can migrate settings and try to move your software.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Transferring files is one thing, but software is another matter altogether.</p>
+      </block>
+      <block class="full_text">
+        <p>BUYING a new computer is a lot like buying or renting a new home. First you have to pick it out and pay for it, and then you have to move your stuff. And as if PC moving day weren't hard enough, most people now faced with this task have to migrate from an older version of Windows to the new Windows Vista, which typically stores user files in different folders from previous versions.</p>
+        <p>Fortunately, there are a number of tools to copy folders and files from one machine to another. The Windows Easy File Transfer program that comes with Vista can help migrate program settings while Laplink's PCMover can migrate settings and try to move your software.</p>
+        <p>Before settling on a moving tool, consider how you want to set up your new PC. One strategy is simply to copy your data files from one machine to another and reconfigure everything from scratch. That might mean losing all your browser bookmarks and desktop icons and having to re-enter your e-mail settings, but it also means you get a fresh start with your new machine.</p>
+        <p>When it comes to moving software, simply copying program files from one Windows machine to another rarely works because most programs have to be properly installed before they will run. With the exception of PC Mover, none of the products I tested even try to move programs, but they will move your pictures, documents, music and other data, and in some cases your program settings.</p>
+        <p>For software, the most reliable plan is to install your programs from their original CDs or DVDs or by downloading them from the Internet. If your programs (like recent versions of Microsoft Office) require activation before they work, you can try reactivating them over the Internet, but the program vendor's antipiracy policies might prevent that. In most cases you'll get a phone number to call so you can explain that you're taking an old machine out of service and moving the software to a new one.</p>
+        <p>Although most of the tools' creators say they ''move'' files, what they are really doing is copying them, leaving the original machine as it was. Unless you plan to keep the original machine in your possession, you should be certain to use software that permanently deletes files before you give it away, sell it or recycle it.</p>
+        <p>One way to get files to the new machine is to connect the two machines by a wired or wireless local area network and use built-in Windows tools to copy files. You can also back up the old machine to an external hard drive, CDs or DVDs and restore them to the new machine -- or you can create an ad hoc network of sorts by connecting the two machines with a cable designed specifically to move files.</p>
+        <p>One advantage to using an external drive to move files from one machine to another is that you'll have a backup of your data when you're done and can continue to use that drive to back up data from the new machine. Also, the machines don't have to be in the same location -- handy if you're setting up the new PC in a different room from the old one.</p>
+        <p>For $210 you can buy a 500-gigabyte Maxtor Personal Storage external U.S.B. drive that comes with backup-and-restore software. Other options include a 160-gigabyte U.S.B. drive from SimpleTech ($100). These drives have software that can back up data from your old machine and restore it to your new one -- or, to make things simple, you can use Windows Explorer to copy your data directories to the external drive and from the drive to your new PC.</p>
+        <p>Seagate's new line of FreeAgent U.S.B. 2.0 drives it calls ''data movers,'' starting at $110 for an 80-gigabyte version, allow you not only to move data between machines, but also to run programs from one computer on another without having to copy programs, data or configuration files between them.</p>
+        <p>If you have a wired or wireless Ethernet network, you can use the network to copy files from one machine to the other. Networking two or more Vista machines is pretty easy, and while it is possible to network a Vista machine to one running Windows XP or an earlier operating system, getting it to work properly with XP can be tricky. If you do use a network, you have to give the two operating systems permission to share the appropriate folders, then drag the folders from one machine to the other.</p>
+        <p>Vista comes with a data and settings migration program called Windows Easy Transfer that you can use with a cable, a network, CDs, DVDs or an external drive to transfer files and settings between Windows XP and Vista (or files only from Windows 2000). When you run the program you get a message telling you that it can be used to transfer ''user accounts, folders and files, program settings, Internet settings and favorites and e-mail settings, contacts and messages,'' but that's not entirely correct.</p>
+        <p>Although it works with some third-party programs, don't count on it to copy settings from all non-Microsoft browsers, e-mail programs or other software or to find documents that aren't where Windows expects them to be. It didn't copy settings from the latest version of Firefox, and it was necessary to use an advanced configuration to have it copy documents stored in the directories I set up myself. On the plus side, it will automatically copy documents stored in XP's default folders to the appropriate folders on Vista.</p>
+        <p>Machines with earlier operating systems don't come with Windows Easy Transfer, but when you run the program on your Vista machine it will create the necessary software for you to copy to a removable drive for installation on your XP or Windows 2000 machine.</p>
+        <p>If you're not using removable media or a local area network, you'll need a cable to connect the machines. Microsoft recommends the Easy Transfer Cable for Windows Vista from Belkin ($40), which comes with a CD-ROM with software for your older machine along with an eight-foot U.S.B. cable with some electronics to speed the transfer. As with all transfer strategies, how long it takes depends on the number and size of your files as well as any software or disk activity running that can slow the process. It can easily take an hour or longer.</p>
+        <p>Laplink's PCMover software ($60 with a cable or $50 for download version) works with Windows versions going back to Windows 95. In addition to moving files and settings, it also moves your software. As with the Microsoft product, you can use it with a network, external media or a cable.</p>
+        <p>After installing the software on both machines and connecting the cables, it took about three hours to migrate software, data and settings from my XP machine to a new Vista PC. While the software did move all my program files, not all of the programs worked right away.</p>
+        <p>Microsoft Office, for example, required me to insert the original CD-ROM to validate that it was a legitimate copy. A program I use to connect to a virtual private network moved over nicely, but the necessary configuration didn't work on the new machine. By the time I finished getting everything working, it might have been just as easy to reinstall my programs.</p>
+        <p>When it comes to copying data, I found the Tornado to be the simplest and fastest approach because it was extremely easy to install. The $60 transfer device consists of an oval box (approximately 41/2 by 3 by 1 inch) with a retractable U.S.B. cable on each end. The Tornado doesn't even come with a CD; the software it needs to transfer files is stored on its own flash memory and is automatically installed on both computers as soon as they are connected to it.</p>
+        <p>While setup and installation are automatic, you do have to select the folders you wish to copy, so you will need to know where your old machine stores its data files and where Vista expects them to be. A list of frequently asked questions on the company's Web site documents allthat.</p>
+        <p>As with any other move, it will take some time before you feel comfortable, so never try to configure a new PC or upgrade an old one just before a deadline. No matter how much thought you put into the process, there will always be some application you forgot to copy over, or a file you'll need to hunt for. Kind of like that set of towels from your old home that you still haven't unearthed.</p>
+        <p>BASICS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

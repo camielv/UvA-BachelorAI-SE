@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>GONE SHOPPING</title>
+    <meta content="15suits-3" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1840555"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="OPENERS: SUITS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Suits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Shopping</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Retail</classifier>
+        <classifier class="online_producer" type="general_descriptor">Retail Stores and Trade</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9504E1DE103FF936A25757C0A9619C8B63" item-length="103" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>GONE SHOPPING</hl1>
+      </hedline>
+      <byline class="print_byline">By PATRICK McGEEHAN</byline>
+      <byline class="normalized_byline">Mcgeehan, Patrick</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Women are often portrayed as shopaholics, but on Nordstrom's board, it is the men who appear to be dropping the most money while shopping.</p>
+        <p>The retailer offers its directors a 33 percent discount on all merchandise. According to the retailer's 2007 proxy statement, which discloses all pay and perks, the biggest spenders were men, led by the president, Blake W. Nordstrom, who received a break of $92,585. The company's lead outside director, Enrique Hernandez Jr., received discounts of $24,677.</p>
+      </block>
+      <block class="full_text">
+        <p>Women are often portrayed as shopaholics, but on Nordstrom's board, it is the men who appear to be dropping the most money while shopping.</p>
+        <p>The retailer offers its directors a 33 percent discount on all merchandise. According to the retailer's 2007 proxy statement, which discloses all pay and perks, the biggest spenders were men, led by the president, Blake W. Nordstrom, who received a break of $92,585. The company's lead outside director, Enrique Hernandez Jr., received discounts of $24,677.</p>
+        <p>Jeanne P. Jackson, formerly a chief executive of Walmart.com and Banana Republic, had just $14,206 knocked off her purchases.</p>
+        <p>PATRICK McGEEHAN</p>
+        <p>OPENERS: SUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

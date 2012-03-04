@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>World Briefing | Asia: Kyrgyzstan: Opposition Protests Continue</title>
+    <meta content="19briefs-3" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20070420T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1841462"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070419T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9403E7D61E3FF93AA25757C0A9619C8B63" item-length="81" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>World Briefing | Asia: Kyrgyzstan: Opposition Protests Continue</hl1>
+      </hedline>
+      <byline class="print_byline">By ILAN GREENBERG</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>About 8,000 demonstrators gathered near President Kurmanbek Bakiev's office in Bishkek, the capital, for an eighth day of protests against him, and added a call for new parliamentary elections to their list of demands for sweeping government reforms. They have already demanded new presidential elections. Mr. Bakiev has initiated a number of compromises with the opposition in recent weeks, including appointing a critic as prime minister. Protest leaders are calling for larger demonstrations over the weekend.</p>
+        <p>ILAN GREENBERG</p>
+      </block>
+      <block class="full_text">
+        <p>About 8,000 demonstrators gathered near President Kurmanbek Bakiev's office in Bishkek, the capital, for an eighth day of protests against him, and added a call for new parliamentary elections to their list of demands for sweeping government reforms. They have already demanded new presidential elections. Mr. Bakiev has initiated a number of compromises with the opposition in recent weeks, including appointing a critic as prime minister. Protest leaders are calling for larger demonstrations over the weekend.</p>
+        <p>ILAN GREENBERG</p>
+        <p>Correction:  April 20, 2007, Friday  The headline on a report in the World Briefing column yesterday about opposition protests referred incorrectly in some copies to the country where the protests took place. They were in Kyrgyzstan, not Kazakhstan.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: April 20, 2007, Friday</p>
+        <p>The headline on a report in the World Briefing column yesterday about opposition protests referred incorrectly in some copies to the country where the protests took place. They were in Kyrgyzstan, not Kazakhstan.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

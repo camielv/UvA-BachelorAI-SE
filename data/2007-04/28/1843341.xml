@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>There's Something Here, Emanating From Nothing</title>
+    <meta content="28fest" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/28/arts/dance/28fest.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1843341"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="DANCE REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance</classifier>
+        <classifier class="online_producer" type="descriptor">Dancing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dancing</classifier>
+        <person class="online_producer">O'Connor, Tere</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070428T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E01E1DA123EF93BA15757C0A9619C8B63" item-length="411" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>There's Something Here, Emanating From Nothing</hl1>
+        <hl2 class="online_headline">There’s Something Here, Emanating From Nothing</hl2>
+      </hedline>
+      <byline class="print_byline">By JENNIFER DUNNING</byline>
+      <byline class="normalized_byline">Dunning, Jennifer</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Tere O'Connor's provocative Nothing Festival was intended to get dance back to basics, without the worries of marketing, fund-raising or suitable production values. In addition, the eight choreographers Mr. O'Connor chose were to begin their new dances from scratch, without prompts like music or theme.</p>
+        <p>The first idea seems like coals to Newcastle, given the bare-bones creative existence most New York dance artists live today. And surely all artists start from the ''nothing'' that is left after the influences of their lives are weighed. But we are in Mr. O'Connor's debt for Susan Rethorst's ''208 East Broadway,'' one of four pieces on Thursday's program at Dance Theater Workshop.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Tere O’Connor’s provocative Nothing Festival was intended to get dance back to basics, without the worries of marketing, fund-raising or suitable production values.</p>
+      </block>
+      <block class="full_text">
+        <p>Tere O'Connor's provocative Nothing Festival was intended to get dance back to basics, without the worries of marketing, fund-raising or suitable production values. In addition, the eight choreographers Mr. O'Connor chose were to begin their new dances from scratch, without prompts like music or theme.</p>
+        <p>The first idea seems like coals to Newcastle, given the bare-bones creative existence most New York dance artists live today. And surely all artists start from the ''nothing'' that is left after the influences of their lives are weighed. But we are in Mr. O'Connor's debt for Susan Rethorst's ''208 East Broadway,'' one of four pieces on Thursday's program at Dance Theater Workshop.</p>
+        <p>Ms. Rethorst simply reproduced the living room in which she now works, having lost her studio space as Manhattan rushes headlong into river-to-river luxe. She deposited seven female dancers to move about and interact elusively amid her tables, chairs, lamp and sofa. She likes the idea of collaborating with circumstance, she wrote in the program notes. That may be cheating, but what emerged from those circumstances here was the kind of ''major weather'' Wallace Stevens believed could come from nothing.</p>
+        <p>Someone may one day figure out how Ms. Rethorst creates worlds out of single, simple gestures, as she does here, for instance, with a finger tracing an arm. A matter of momentous-feeling non sequiturs, ''208 East Broadway'' is a mystery whose elements all seem unpuzzlingly inevitable.</p>
+        <p>There was too much ''something'' in the other three dances, whose choreographers appeared to take Mr. O'Connor's instruction as an invitation simply to throw ideas and images into the dance equivalent of a stewpot. Jon Kinzel's ''Quirk -- Ease'' began interestingly, with Mr. Kinzel creating nothing by peeling away the lines of a landscape revealed to have been sketched in tape. And the dancing he gave himself and Nora Laudani was at first intriguing in its shrugged-off quality. But Mr. O'Connor should have given his charges a time limit for each piece.</p>
+        <p>Luciana Achugar's ''Franny and Zooey'' was essentially an escapade for girls wanting the fun of enjoyably unashamed topless and bottomless cavorting. And Walter Dundervill's romp, ''Would You Read My Poetry?,'' gave him a chance to fall about amusingly in what looked like outsize, frogish-footy pajamas, interacting with two Marie Antoinettes and a man whose fallen trousers prevented him from moving easily.</p>
+        <p>The last performance of The Nothing Festival is tonight at Dance Theater Workshop, 219 West 19th Street, Chelsea; (212) 924-0077.</p>
+        <p>DANCE REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

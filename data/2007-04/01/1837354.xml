@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Talk for the Cure</title>
+    <meta content="01rollin" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/01/opinion/01rollin.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837354"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Op-Ed Contributor"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Contributors</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Breast Cancer</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Cancer</classifier>
+        <classifier class="online_producer" type="descriptor">Breast</classifier>
+        <classifier class="online_producer" type="descriptor">Cancer</classifier>
+        <classifier class="online_producer" type="general_descriptor">Breast</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cancer</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE1D81130F932A35757C0A9619C8B63" item-length="343" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Talk for the Cure</hl1>
+        <hl2 class="online_headline">Talk for the Cure</hl2>
+      </hedline>
+      <byline class="print_byline">By Betty Rollin</byline>
+      <byline class="normalized_byline">Rollin, Betty</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>I SOMETIMES give talks about the bright side of breast cancer. I'm glad I didn't have to give one last week.</p>
+        <p>Cancer is awful and recurrence is worse.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Living with, and not whispering about, breast cancer.</p>
+      </block>
+      <block class="full_text">
+        <p>I SOMETIMES give talks about the bright side of breast cancer. I'm glad I didn't have to give one last week.</p>
+        <p>Cancer is awful and recurrence is worse.</p>
+        <p>And yet, there have been great advances in the cancer world and they're not all scientific. In case you haven't noticed, we talk about cancer now. In the early days, when radical surgery left you chestless, as well as breastless, and when reconstruction meant stuffing your husband's sock in your bra, there were only whispers -- and lies.</p>
+        <p>Back then, getting breast cancer was not only miserable and scary, it was lonely. I had breast cancer in 1975 -- and again in 1984 -- and for all I knew I was surrounded by one-breasted women, but they weren't talking, so I didn't know they were there.</p>
+        <p>Shirley Temple Black was the first famous woman to admit having the disease, and later on Betty Ford and Happy Rockefeller spoke up. Just knowing they had had it, too, and were still breathing, was a comfort to me and, I'm sure, to many other women. But it wasn't as if you could call up Mrs. Ford and have a nice girlfriend kind of chat.</p>
+        <p>Today, everyone is talking about breast cancer -- even men. But let's face it, women are the talking champions.</p>
+        <p>Breast cancer survivors are in a club nobody would choose to join, but once in, how tickled we are to have found one another, how grateful!</p>
+        <p>How many times have I -- have we all -- met a scared newcomer and pulled her into the nearest restroom, lifted up our blouses and showed her our healed chests.</p>
+        <p>''See how the redness fades?''</p>
+        <p>Or offered a look at our implant. ''Go ahead, touch it. See how soft it is.''</p>
+        <p>That both Mrs. Edwards and Mr. Snow immediately spoke about their cancers is something we take for granted today. The Edwardses even added that they saw a bright side: they were pleased, they said, that there might now be a discussion of the ability of patients to live with cancer.</p>
+        <p>Op-Ed Contributor Betty Rollin is the author of the forthcoming ''Here's the Bright Side: Of Failure, Fear, Cancer, Divorce and Other Bum Raps.''</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Betty Rollin is the author of the forthcoming ''Here's the Bright Side: Of Failure, Fear, Cancer, Divorce and Other Bum Raps.''</tagline>
+    </body.end>
+  </body>
+</nitf>

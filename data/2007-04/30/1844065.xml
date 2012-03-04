@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Another Economic Disconnect</title>
+    <meta content="30krugman" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="21" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/30/opinion/30krugman.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1844065"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Op-Ed Columnist"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">United States Economy</classifier>
+        <classifier class="indexing_service" type="descriptor">Productivity</classifier>
+        <classifier class="indexing_service" type="descriptor">Income</classifier>
+        <classifier class="indexing_service" type="descriptor">Capital Investment</classifier>
+        <person class="indexing_service">Krugman, Paul</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists/Paul Krugman</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="descriptor">Gross Domestic Product</classifier>
+        <classifier class="online_producer" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="descriptor">Labor</classifier>
+        <classifier class="online_producer" type="descriptor">Wages and Salaries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Productivity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Income</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Economy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gross Domestic Product</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wages and Salaries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Leading Economic Indicators</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+        <person class="online_producer">Bush, George W</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070430T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9403E1DB133EF933A05757C0A9619C8B63" item-length="708" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Another Economic Disconnect</hl1>
+        <hl2 class="online_headline">Another Economic Disconnect</hl2>
+      </hedline>
+      <byline class="print_byline">By PAUL KRUGMAN</byline>
+      <byline class="normalized_byline">Krugman, Paul</byline>
+      <abstract>
+        <p>Paul Krugman Op-Ed column notes that in Bush years, high corporate profits have not led to high investment, and rising productivity has not led to rising wages; says it is possible that sluggish business investment reflects lack of confidence in economic outlook, but more disturbing possibility is that many companies are using profits to buy back their own stock to enrich executives and few lucky stock owners (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Last fall Edward Lazear, the Bush administration's top economist, explained that what's good for corporations is good for America. ''Profits,'' he declared, ''provide the incentive for physical capital investment, and physical capital growth contributes to productivity growth. Thus profits are important not only for investors but also for the workers who benefit from the growth in productivity.''</p>
+        <p>In other words, ask not for whom the closing bell tolls; it tolls for thee.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>In the Bush years high profits haven’t led to high investment, and rising productivity hasn’t led to rising wages.</p>
+      </block>
+      <block class="full_text">
+        <p>Last fall Edward Lazear, the Bush administration's top economist, explained that what's good for corporations is good for America. ''Profits,'' he declared, ''provide the incentive for physical capital investment, and physical capital growth contributes to productivity growth. Thus profits are important not only for investors but also for the workers who benefit from the growth in productivity.''</p>
+        <p>In other words, ask not for whom the closing bell tolls; it tolls for thee.</p>
+        <p>Unfortunately, these days none of what Mr. Lazear said seems to be true. In the Bush years high profits haven't led to high investment, and rising productivity hasn't led to rising wages.</p>
+        <p>The second of those two disconnects has gotten a lot of attention because of its political consequences. The administration and its allies whine that they aren't getting credit for a great economy, but because wages have been stagnant -- the median worker's earnings, adjusted for inflation, haven't gone up at all since the current economic expansion began in 2001 -- the economy feels anything but great to most Americans.</p>
+        <p>Less attention, however, has been given to the first disconnect: the failure of high profits to produce an investment boom.</p>
+        <p>Since President Bush took office, the combination of rising productivity and stagnant wages -- workers are producing more, but they aren't getting paid more -- has led to a veritable profit gusher, with corporate profits more than doubling since 2000. Last year, profits as a share of national income were at the highest level ever recorded.</p>
+        <p>You might have expected this gusher of profits, which surely owes something to the Bush administration's pro-corporate, anti-labor tilt, to produce a corresponding gusher of business investment. But the reality has been more of a trickle. Nonresidential investment -- that is, investment other than housing construction -- has grown very slowly by historical standards. As a share of G.D.P., nonresidential investment remains far below its levels of the late 1990s, and it has been declining for the last two quarters.</p>
+        <p>Why aren't corporations investing, and what does the lack of business investment mean for the economy?</p>
+        <p>It's possible that sluggish business investment reflects lack of confidence in the economic outlook -- a lack of confidence that's understandable given the bursting of the housing bubble, which has already caused G.D.P. growth to slow to a crawl.</p>
+        <p>But as Floyd Norris recently reported in The Times, there is a more disturbing possibility. Instead of investing in physical capital, many companies are using profits to buy back their own stock. And cynics suggest that the purpose of these buybacks is to produce a temporary rise in stock prices that increases the value of executives' stock options, even if it's against the long-term interests of investors.</p>
+        <p>It's not a far-fetched idea. Researchers at the Federal Reserve have found evidence that company decisions about stock buybacks are strongly influenced by ''agency conflicts,'' a genteel term for self-dealing by corporate insiders. In the 1990s that kind of self-dealing often led to excessive investment, which at least left a tangible legacy behind. But today the self-interest of management may be standing in the way of productive investment.</p>
+        <p>Whatever the reasons, we now have an economy with incredibly high profits and surprisingly low investment. This raises some immediate, short-run concerns: with housing still in free fall and consumers ever more stretched, optimistic projections for the economy depend on vigorous growth in business investment. And that doesn't seem to be happening.</p>
+        <p>The bigger issue, however, may be longer term. Mr. Lazear was right about one thing: business investment plays an important role in raising productivity. High investment in equipment and software was one major reason for the productivity takeoff that began in the Clinton era, and continued in the early years of this decade.</p>
+        <p>And low investment may be one reason productivity growth has slowed dramatically over the last three years -- another development that hasn't received as much attention as it should.</p>
+        <p>In any case, next time someone tells you that any action that might reduce corporate profits a bit -- like actually enforcing health and safety regulations or making it easier for workers to organize -- will reduce business investment, bear in mind that today's record profits aren't being invested. Instead, they're being used to enrich executives and a few lucky stock owners.</p>
+        <p>Op-Ed Columnist</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

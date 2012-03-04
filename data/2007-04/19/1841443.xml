@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; JVC Jazz Festival Announces Lineup</title>
+    <meta content="19arts-2" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1841443"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Jazz</classifier>
+        <classifier class="online_producer" type="general_descriptor">Festivals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070419T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D04E0D71E3FF93AA25757C0A9619C8B63" item-length="194" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; JVC Jazz Festival Announces Lineup</hl1>
+      </hedline>
+      <byline class="print_byline">By BEN RATLIFF; Compiled by Lawrence Van Gelder</byline>
+      <byline class="normalized_byline">Ratliff, Ben</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Schedules have been announced for the 2007 JVC Jazz Festival-New York, from June 17 to 30. Highlights include the Keith Jarrett-Jack DeJohnette-Gary Peacock trio (June 21, Carnegie Hall); a concert celebrating the bassist Ron Carter, including Mr. Carter with Herbie Hancock, Wayne Shorter, Jim Hall, Mulgrew Miller and others (June 27, Carnegie Hall); Nancy Wilson (June 29, Carnegie Hall); a double bill of Branford Marsalis's quartet and Joshua Redman's new trio (June 20, Town Hall); a concert with the Preservation Hall Jazz Band, including Allen Toussaint and New York-based guests including Jenny Scheinman and Steve Wilson (June 19, Town Hall); double bills with the singers India.Arie and Lizz Wright (June 22, Carnegie Hall), and Patti LaBelle with Lou Donaldson's quartet (June 23, Carnegie Hall). Three shows at Zankel Hall include Lee Konitz playing with four different ensembles (June 24). The festival also encompasses a week of world-jazz shows at the Jazz Standard, as well as concerts at the Rubin Museum of Art, Hunter College's Kaye Playhouse, and the Prospect Park Band Shell. Tickets went on sale yesterday at the concerts' respective box offices. Information: festivalproductions.net.</p>
+        <p>BEN RATLIFF</p>
+      </block>
+      <block class="full_text">
+        <p>Schedules have been announced for the 2007 JVC Jazz Festival-New York, from June 17 to 30. Highlights include the Keith Jarrett-Jack DeJohnette-Gary Peacock trio (June 21, Carnegie Hall); a concert celebrating the bassist Ron Carter, including Mr. Carter with Herbie Hancock, Wayne Shorter, Jim Hall, Mulgrew Miller and others (June 27, Carnegie Hall); Nancy Wilson (June 29, Carnegie Hall); a double bill of Branford Marsalis's quartet and Joshua Redman's new trio (June 20, Town Hall); a concert with the Preservation Hall Jazz Band, including Allen Toussaint and New York-based guests including Jenny Scheinman and Steve Wilson (June 19, Town Hall); double bills with the singers India.Arie and Lizz Wright (June 22, Carnegie Hall), and Patti LaBelle with Lou Donaldson's quartet (June 23, Carnegie Hall). Three shows at Zankel Hall include Lee Konitz playing with four different ensembles (June 24). The festival also encompasses a week of world-jazz shows at the Jazz Standard, as well as concerts at the Rubin Museum of Art, Hunter College's Kaye Playhouse, and the Prospect Park Band Shell. Tickets went on sale yesterday at the concerts' respective box offices. Information: festivalproductions.net.</p>
+        <p>BEN RATLIFF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

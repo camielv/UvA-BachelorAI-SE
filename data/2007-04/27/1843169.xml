@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Emily Sunstein, 82, a Biographer and Scholar</title>
+    <meta content="27sunstein" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Obituaries; Books" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/27/books/27sunstein.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1843169"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="biographical_categories">Books And Magazines</classifier>
+        <classifier class="indexing_service" type="names">Emily Sunstein</classifier>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obits)</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="descriptor">Books and Literature</classifier>
+        <classifier class="online_producer" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070427T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980CE5D6153EF934A15757C0A9619C8B63" item-length="315" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Emily Sunstein, 82, a Biographer and Scholar</hl1>
+        <hl2 class="online_headline">Emily Sunstein, 82, a Biographer and Scholar, Dies</hl2>
+      </hedline>
+      <byline class="print_byline">By MARGALIT FOX</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Emily W. Sunstein, an independent scholar known for writing biographies of an unconventional mother and her unconventional daughter -- Mary Wollstonecraft and Mary Shelley -- died on Saturday in Philadelphia. She was 82 and had lived in Philadelphia for many years.</p>
+        <p>The cause was complications of autoimmune vasculitis, an inflammation of the blood vessels, her daughter Kay Hymowitz said.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Ms. Sunstein was an independent scholar known for her biographies of Mary Wollstonecraft and Mary Shelley.</p>
+      </block>
+      <block class="full_text">
+        <p>Emily W. Sunstein, an independent scholar known for writing biographies of an unconventional mother and her unconventional daughter -- Mary Wollstonecraft and Mary Shelley -- died on Saturday in Philadelphia. She was 82 and had lived in Philadelphia for many years.</p>
+        <p>The cause was complications of autoimmune vasculitis, an inflammation of the blood vessels, her daughter Kay Hymowitz said.</p>
+        <p>Ms. Sunstein's first biography, ''A Different Face: The Life of Mary Wollstonecraft,'' was published in 1975 by Harper &amp; Row. It chronicled the life of the mother, the noted British author and feminist Mary Wollstonecraft (1759-97), who died a few days after the birth of her daughter, the future Mary Wollstonecraft Shelley.</p>
+        <p>Her second biography, ''Mary Shelley: Romance and Reality'' (Little, Brown, 1989), was the story of the daughter (1797-1851) who wrote ''Frankenstein'' and was the wife of the poet Percy Bysshe Shelley.</p>
+        <p>Reviewing the Mary Shelley biography in The New York Times Book Review, Carolyn Heilbrun wrote: ''Ms. Sunstein has corrected the erroneous assumptions that have misled so many critics, myself (when young) included.'' She added: ''Ms. Sunstein is to be praised for looking anew at so misunderstood a life.''</p>
+        <p>In 1989 Ms. Sunstein's Mary Shelley biography was awarded the Modern Language Association Prize for Independent Scholars.</p>
+        <p>Emily Weisberg was born on April 28, 1924, in Dallas, and was reared there. In 1944 she earned a bachelor's degree in art history from Vassar College.</p>
+        <p>Before beginning her writing career, Ms. Sunstein was active in civic affairs. A charter member of Americans for Democratic Action, founded in 1947, she later became the first woman to serve as head of the Philadelphia chapter of the American Jewish Committee.</p>
+        <p>Besides her daughter Kay, of Brooklyn, Ms. Sunstein is survived by her husband, Leon C. Sunstein Jr., whom she married in 1943; a son, Paul, of Ann Arbor, Mich.; another daughter, Lauren Sunstein, of Rome; and six grandchildren.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

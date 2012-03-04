@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ford Flexes Its Crossover Muscles</title>
+    <meta content="NUGGETFordFlex" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Automobiles" name="dsk"/>
+    <meta content="" name="print_section"/>
+    <meta content="Automobiles" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837920"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070404T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04EED9163FF937A35757C0A9619C8B63" item-length="212" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ford Flexes Its Crossover Muscles</hl1>
+      </hedline>
+      <byline class="print_byline">By JERRY GARRETT</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Introduced on Wednesday: Ford Flex full-size crossover</p>
+        <p>Is it real? Cleared for takeoff.</p>
+      </block>
+      <block class="full_text">
+        <p>Introduced on Wednesday: Ford Flex full-size crossover</p>
+        <p>Is it real? Cleared for takeoff.</p>
+        <p>What's the point? Ford has been searching for the lost chord it needs to hit with minivan, wagon and crossover buyers, a growing and increasingly important market where Ford has finally established a beachhead with its so far well-received Edge. But with Edge and the recently announced Taurus X (nee Freestyle), etc., did Ford need another crossover?</p>
+        <p>What they said: "We're raising the bar, cutting our own path, introducing the most unique and innovative crossover ever," said Mark Fields, president for the Americas of Ford Motor.</p>
+        <p>What they didn't say: The first incarnation of the Flex was at the 2005 Detroit auto show, where it was called the Fairlane concept. The Fairlane seemed to have more than dollop of DNA from models in Ford's Land Rover subsidiary.</p>
+        <p>What makes it tick? Nothing special a V-6 with 260 horsepower, mated to a six-speed automatic transmission.</p>
+        <p>How much, how soon? Summer of 2008, priced above Edge and Taurus X.</p>
+        <p>How's it look? A mishmash. This boxy low-rider seems to have styling cues from Land Rover, Mini, Toyota FJ cruiser and 1970s Country Squire station wagons. Lost from the concept version of 2005: The unique center-opening or "suicide" doors.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

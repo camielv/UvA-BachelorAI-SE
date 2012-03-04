@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Google Seeks Clearer Path to State Data</title>
+    <meta content="30data" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/30/technology/30data.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1843997"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Arizona</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/California</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Utah</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Virginia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Rockies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Southwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./West</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Virginia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Arizona</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Utah</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/California</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <org class="online_producer">Google Inc</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070430T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E6DC133EF933A05757C0A9619C8B63" item-length="491" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Google Seeks Clearer Path to State Data</hl1>
+        <hl2 class="online_headline">Google Seeks Clearer Path to State Data</hl2>
+      </hedline>
+      <byline class="print_byline">By MIGUEL HELFT</byline>
+      <byline class="normalized_byline">Helft, Miguel</byline>
+      <dateline>SAN FRANCISCO, April 29</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Four states have joined forces with Google to make information from their Web sites more directly accessible through Internet searches.</p>
+        <p>Much of the public data on government Web sites -- things like school rankings, contractor and real estate licenses and information on emergency and public health services -- is easy to access through the sites themselves, but is not always readily available through Web search engines.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Four states have joined forces with Google to make information from their Web sites more directly accessible through Internet searches.</p>
+      </block>
+      <block class="full_text">
+        <p>Four states have joined forces with Google to make information from their Web sites more directly accessible through Internet searches.</p>
+        <p>Much of the public data on government Web sites -- things like school rankings, contractor and real estate licenses and information on emergency and public health services -- is easy to access through the sites themselves, but is not always readily available through Web search engines.</p>
+        <p>Google has been working with officials in Arizona, California, Utah and Virginia to make some of that information more broadly available, using a technological standard for exposing previously hidden Web pages.</p>
+        <p>The company said that over time it hoped to extend the partnership to other government agencies at the federal, state and local level. Since the Web standard has recently been recognized by all major search engines, like Yahoo, Microsoft and Ask, the information would also be accessible through those services.</p>
+        <p>While the newly searchable data is already public, its wider dissemination could add fuel to a debate over how to balance personal privacy with the public's right to access government records.</p>
+        <p>''These partnerships are among many that Google is pursuing with government agencies to better serve the public,'' Eric E. Schmidt, Google's chief executive, said in a statement.</p>
+        <p>Internet users searching for jobs in Utah through a search engine may now find links to individual job postings that previously were available only through a database search on the site of the state's department of work-force services. Similarly, a search on Virginia's colonial history may deliver links to specific titles available at the state library.</p>
+        <p>In the state of California alone, more than 100,000 new Web pages, including some from extensive databases, will be available through search engines, said Clark Kelso, the state's chief information officer.</p>
+        <p>Paul Taylor, chief strategy officer at the Center for Digital Government, a research and consulting company in California, said that the effort fits into a 40-year trend toward more transparency in government.</p>
+        <p>''I think it is good public policy,'' Mr. Taylor said. ''And it helps redeem a lot of effort that people have put in to make things accessible that haven't been readily findable.''</p>
+        <p>But the increased exposure of government records through Web searches is likely to raise privacy concerns. A search for an individual, like perhaps a corporate executive, a celebrity or even a long-lost friend, may yield links not only to the usual public pages but also to property records, campaign contributions or court filings.</p>
+        <p>''It will be easier to collect disparate facts about a person which, bound together and aggregated, can present troubling problems,'' said Chris Hoofnagle, senior staff lawyer at the Samuelson Law, Technology and Public Policy Clinic, at the University of California at Berkeley School of Law.</p>
+        <p>J. L. Needham, manager of public sector content partnerships at Google, said that the company was sensitive to privacy issues, but noted that the new information that will be accessible through Web searches was already public.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

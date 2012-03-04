@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Two Trustee Openings On Port Chester Board</title>
+    <meta content="01weweekWC-3" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Westchester Weekly Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="14WC" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837417"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE WEEK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Politics and Government</classifier>
+        <classifier class="indexing_service" type="descriptor">Mayors</classifier>
+        <classifier class="indexing_service" type="descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <location class="indexing_service">Port Chester (NY)</location>
+        <person class="indexing_service">Manning, Ken</person>
+        <person class="indexing_service">Pilla, Dennis</person>
+        <person class="indexing_service">Whitaker, Barbara</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Westchester</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mayors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9400E3DD1E30F932A35757C0A9619C8B63" item-length="323" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Two Trustee Openings On Port Chester Board</hl1>
+      </hedline>
+      <byline class="print_byline">By BARBARA WHITAKER</byline>
+      <byline class="normalized_byline">Whitaker, Barbara</byline>
+      <abstract>
+        <p>Two vacancies are created on Board of Trustees in Port Chester, NY, after Ken Manning resigns and Dennis Pilla is elected mayor (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>With the resignation last week of Ken Manning from the Port Chester Board of Trustees, there will be two vacancies on the board when Dennis Pilla, a trustee who was elected mayor, moves into his new position this week.</p>
+        <p>Mr. Manning, 52, who recently became president of the Port Chester-Rye Brook-Rye Town Chamber of Commerce, said he had decided to resign about three months ago, before a federal judge's ruling that halted March 20 trustee elections.</p>
+      </block>
+      <block class="full_text">
+        <p>With the resignation last week of Ken Manning from the Port Chester Board of Trustees, there will be two vacancies on the board when Dennis Pilla, a trustee who was elected mayor, moves into his new position this week.</p>
+        <p>Mr. Manning, 52, who recently became president of the Port Chester-Rye Brook-Rye Town Chamber of Commerce, said he had decided to resign about three months ago, before a federal judge's ruling that halted March 20 trustee elections.</p>
+        <p>''Being on the Board of Trustees and serving as president of the chamber was almost like a little conflict,'' said Mr. Manning, who served on various village boards for 18 years and announced his resignation last Monday. ''I just felt it was time for a change for myself.''</p>
+        <p>On March 2, Judge Stephen C. Robinson of Federal District Court halted the election for two trustee seats that had been scheduled for March 20, finding that there was a likelihood that the Justice Department would be successful in its lawsuit charging that the village's at-large voting system discriminates against Hispanics.</p>
+        <p>The Board of Trustees must appoint successors to fill the open positions, and at least two Hispanics are among those being considered. Republicans are expected to forward the name of the Rev. Ariel Acosta, who was running for trustee on the Republican ticket before the election was canceled. Democrats are considering Blanca Lopez, a local housing activist and Mr. Pilla's campaign manager. Other candidates who had been on the ballot were said to be in contention.</p>
+        <p>''I'm certainly a proponent of having a Hispanic on the board,'' said Mr. Pilla, who will be sworn in as mayor on Tuesday.</p>
+        <p>Mr. Manning said he, too, supported the idea of a Hispanic being appointed to succeed him.</p>
+        <p>''I suggested maybe this would be the time to get a Hispanic on the board and show them we are not trying to hold anybody back,'' he said.</p>
+        <p>BARBARA WHITAKER</p>
+        <p>THE WEEK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

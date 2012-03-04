@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   WEISS, PAULA</title>
+    <meta content="dn050107" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1844154"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">WEISS, PAULA</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070501T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9907E1DB163AF932A35756C0A9619C8B63" item-length="121" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   WEISS, PAULA</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WEISS--Paula, mother of Peter, mother-in-law of Cora, grandmother of Judy, Tamara and Danny, great-grandmother of Jules, Noah, Maria, Catherine and Simon, died April 29, age 104. She lived a courageous life, as a mater familias, a business woman, early feminist, opera fan and inspiration to her family, friends and admirers. Service at Riverside Chapel 75th St and Amsterdam, Friday May 4th at 4pm. Contributions to Center for Constitutional Rights, 666 Broadway, NYC 10012. $(6$)WEISS--Paula. The staff and board of the Center for Constitutional Rights pay tribute to a remarkable woman, whose courage and values shaped our vice-president, Peter Weiss. We send Peter, Cora and the family wishes for comfort at this sad time. Vincent Warren, Exec. Dir. Michael Ratner, Pres.</p>
+      </block>
+      <block class="full_text">
+        <p>WEISS--Paula, mother of Peter, mother-in-law of Cora, grandmother of Judy, Tamara and Danny, great-grandmother of Jules, Noah, Maria, Catherine and Simon, died April 29, age 104. She lived a courageous life, as a mater familias, a business woman, early feminist, opera fan and inspiration to her family, friends and admirers. Service at Riverside Chapel 75th St and Amsterdam, Friday May 4th at 4pm. Contributions to Center for Constitutional Rights, 666 Broadway, NYC 10012. $(6$)WEISS--Paula. The staff and board of the Center for Constitutional Rights pay tribute to a remarkable woman, whose courage and values shaped our vice-president, Peter Weiss. We send Peter, Cora and the family wishes for comfort at this sad time. Vincent Warren, Exec. Dir. Michael Ratner, Pres.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

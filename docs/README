@@ -1,0 +1,105 @@
+This README describes the contents of the New York Times Corpus.
+
+Overview
+==============================================================================
+The New York Times Corpus contains over 1.8 million articles written and published by the New York Times between January 1, 1987 and June 19, 2007.  The corpus also contains article metadata provided by the New York Times Newsroom, the New York Times Indexing Service and the online production staff at nytimes.com.   The corpus includes:
+
+-	Over 1.8 million articles.
+-	Over 650,000 manually written article summaries.
+-	Over 1,500,000 articles manually tagged by library scientists with tags drawn from a normalized indexing vocabulary of people, organizations, locations and topic descriptors.
+-	Over 275,000 algorithmically tagged articles that have been hand verified by the online production staff at nytimes.com.  
+
+
+Publication Name
+==============================================================================
+New York Times
+
+
+Authors
+==============================================================================
+Evan Sandhaus
+
+
+Data Type
+===============================================================================
+The data is provided as a collection of XML documents that conform to version 3.3 of the News Industry Text Format (NITF) specification.  For more information on the NITF specification please visit http://www.nitf.org.  A dtd for this schema is provided in the 'dtd' directory in a file named 'nitf-3-3.dtd'.  For a detailed description of the individual data fields in this corpus please refer to the file named 'nyt_corpus_overview.pdf' that is included with this collection in the 'docs' directory.
+
+
+Data Sources
+===============================================================================
+This corpus is drawn from the historical archive of the New York Times and includes metadata provided by the New York Times Newsroom, the New York Times Indexing Service and the online production staff at nytimes.com.  This corpus contains nearly every article published in the New York Times between January 01, 1987 and June 19th 2007.  Articles from wire services that appeared in the New York Times during this period are not included in this collection.
+
+
+Project
+===============================================================================
+This data is not currently associated with any project.
+
+
+Applications
+===============================================================================
+This data has several potential applications.
+
+1)	As part of the New York Times' indexing procedures, most articles are manually summarized by a full-time staff of library scientists.  This collection contains over 650,000 such article-summary pairs.  This data may prove to be useful in the development and evaluation of algorithms for automated document summarization.  
+
+2)	As part of the New York Times' indexing procedures, a full time staff of library scientists tags most articles with relevant persons, places, organizations, titles and topics.  These tags are drawn from a controlled vocabulary and are applied consistently across articles.  For instance if one article makes mention of "Bill Clinton" and another refers to "President William Jefferson Clinton", they will both be tagged with "CLINTON, BILL". This collection contains over 1.5 million documents with at least one tag.  
+
+This type of data may prove useful in the development and evaluation of algorithms for:
+	-	Document Routing
+	-	Document Categorization
+	-	Entity Extraction
+	-	Cross Document Coreference Resolution
+	-	Information Retrieval 
+
+The above list of suggestions is hardly exhaustive and the authors of this corpus are certain that research will yield many novel applications for this corpus.
+
+
+Languages
+===============================================================================
+All articles in this collection are written in English. New York Times articles are written to conform to the "New York Times Manual of Style and Usage" (ISBN-10 0812963881).  Researchers may find this guide useful in understanding the conventions employed by New York Times reporters.
+
+
+License
+===============================================================================
+
+
+Copyright
+===============================================================================
+The New York Times holds the Copyright to all data in this corpus.
+
+
+Data Description
+===============================================================================
+For a complete description of the data used in this corpus, please refer to the file name 'corpus_overview.pdf' included with this collection.
+
+Quality Control
+===============================================================================
+All documents in the New York Times Corpus have been validated against version 3.3 of the News Industry Text Format (NITF) standard.  The dtd used for this validation is provided in the 'dtd' directory in a file named 'nitf-3-3.dtd'.  
+
+Tools
+===============================================================================
+The New York Times Corpus includes software written in the Java Programming Language for parsing corpus documents from xml into a memory resident object. The tools can be found in the 'tools/' directory, which is arranged as follows:
+
+tools/src
+	The source code for the tools.
+
+tools/build/timestools.jar
+	A jarfile containing the compiled tools.
+	
+tools/docs/
+-	Javadocs for the tools classes
+
+To build the tools from source, you must have apache ant installed (http://ant.apache.org/).  Once ant is installed, change into the 'tools' directory and issue the command 'ant'.  This will create a file 'timestools.jar' in the 'tools/build/' directory. 
+
+Below is an example of how to  use the tools in your java programs.
+
+import com.nytlabs.ldc.NYTimesLDCDocumentParser;
+import com.nytlabs.util.Utilities;
+
+...
+
+	NYTimesLDCDocumentParser parser = new NYTimesLDCDocumentParser();
+	File file = new File("/docs/1987/01/01/0000001.xml");
+	NYTimesLDCDocument timesDocument = 	
+		parser.parseNYTimesLDCDocumentFromFile(file, false);
+...
+

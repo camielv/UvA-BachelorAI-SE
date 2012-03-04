@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Dylan Siegler, Philip Waldorf</title>
+    <meta content="15siegler" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/15/fashion/weddings/15siegler.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840506"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Siegler, Dylan Rachel</person>
+        <person class="indexing_service">Waldorf, Philip Charles</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B01EFD7133FF936A25757C0A9619C8B63" item-length="239" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Dylan Siegler, Philip Waldorf</hl1>
+        <hl2 class="online_headline">Dylan Siegler, Philip Waldorf</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Dylan Rachel Siegler, the daughter of Sarah M. Gardner of Highland, N.Y., and Robert J. Siegler Jr. of Millbrook, N.Y., is to be married today to Philip Charles Waldorf, a son of Jean F. Nikovits and a stepson of Andrew G. Nikovits of Estero, Fla. L. Polly Hanson, a friend of the couple who became a Universal Life minister for this event, is to officiate at Whispering Winds Ranch in Dripping Springs, Tex.</p>
+        <p>The bride, 31, is keeping her name. She is a design associate at the Center for Maximum Potential Building Systems, an organization in Austin, Tex., that conducts research and consults on construction of structures with minimal environmental impact. She graduated from Sarah Lawrence College and received a master's degree in sustainable design from the University of Texas, Austin.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Dylan Rachel Siegler, the daughter of Sarah M. Gardner of Highland, N.Y., and Robert J. Siegler Jr. of Millbrook, N.Y., is to be married today to Philip Charles Waldorf, a son of Jean F. Nikovits and a stepson of Andrew G. Nikovits of Estero, Fla. L. Polly Hanson, a friend of the couple who became a Universal Life minister for this event, is to officiate at Whispering Winds Ranch in Dripping Springs, Tex.</p>
+      </block>
+      <block class="full_text">
+        <p>Dylan Rachel Siegler, the daughter of Sarah M. Gardner of Highland, N.Y., and Robert J. Siegler Jr. of Millbrook, N.Y., is to be married today to Philip Charles Waldorf, a son of Jean F. Nikovits and a stepson of Andrew G. Nikovits of Estero, Fla. L. Polly Hanson, a friend of the couple who became a Universal Life minister for this event, is to officiate at Whispering Winds Ranch in Dripping Springs, Tex.</p>
+        <p>The bride, 31, is keeping her name. She is a design associate at the Center for Maximum Potential Building Systems, an organization in Austin, Tex., that conducts research and consults on construction of structures with minimal environmental impact. She graduated from Sarah Lawrence College and received a master's degree in sustainable design from the University of Texas, Austin.</p>
+        <p>Her father, who is retired, worked in Wassaic, N.Y., as a developmental specialist and a caseworker for the New York State Office of Mental Retardation and Developmental Disabilities. Her mother is an Anglican missionary serving in Lanzhou, China.</p>
+        <p>The bridegroom, 32, works in Austin as the president of Dead Oceans, an independent record label. He graduated from the University of Georgia.</p>
+        <p>His mother is the director of the preschool at Temple Shalom in Naples, Fla. His stepfather retired as the manager of personnel and payroll services at The Times Journal Company, a newspaper publisher in Virginia. The bridegroom is also a son of Fred Waldorf of Germantown, Md.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

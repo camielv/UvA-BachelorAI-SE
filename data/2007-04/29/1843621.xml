@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Too Much Relaxation</title>
+    <meta content="29letters-1" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1843621"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Travel and Vacations</classifier>
+        <location class="indexing_service">Portland (Ore)</location>
+        <location class="indexing_service">Oregon</location>
+        <person class="indexing_service">Laskin, David</person>
+        <person class="indexing_service">Hinshaw, Mark</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Oregon</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Oregon/Portland</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05E6D7143EF93AA15757C0A9619C8B63" item-length="186" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Too Much Relaxation</hl1>
+      </hedline>
+      <abstract>
+        <p>Mark Hinshaw letter on David Laskin's April 15 travel article on Portland, Ore</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor: Regarding ''36 Hours: Portland, Ore.'' by David Laskin (April 15): Living in Portland's ''highly caffeinated neighbor to the north,'' I often spend time in the Rose City and can attest to the delights of staying at the quirky Kennedy School hotel. Sometimes, however, its mellow new-age livability can be overbearing.</p>
+        <p>Once, I awoke at 5 a.m. to the sound of a bird aggressively chirping, seemingly just outside my window. ''Wow,'' I thought, ''that bird is loud!'' The initially pleasant but incessant warbling soon became simply annoying because I could no longer sleep.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor: Regarding ''36 Hours: Portland, Ore.'' by David Laskin (April 15): Living in Portland's ''highly caffeinated neighbor to the north,'' I often spend time in the Rose City and can attest to the delights of staying at the quirky Kennedy School hotel. Sometimes, however, its mellow new-age livability can be overbearing.</p>
+        <p>Once, I awoke at 5 a.m. to the sound of a bird aggressively chirping, seemingly just outside my window. ''Wow,'' I thought, ''that bird is loud!'' The initially pleasant but incessant warbling soon became simply annoying because I could no longer sleep.</p>
+        <p>Getting up, I accidentally leaned close to the clock radio only to realize that it was set to one of those stations that offers supposedly soothing ''sounds of nature.'' I imagined that the housekeeper had been instructed to set it at a barely audible level as a gesture of Oregon-style relaxation -- whether welcomed or not.</p>
+        <p>The next morning, I overheard a fellow at the table next to mine complaining of his restless night. ''Some infernal cricket was sitting just outside my window all night long.''</p>
+        <p>Mark Hinshaw  Seattle</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

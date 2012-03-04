@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>30 SECONDS WITH BUD PALMER</title>
+    <meta content="08seconds" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/08/sports/basketball/08seconds.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1838880"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="30 Seconds"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Interview</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball/National Basketball Association/New York Knicks</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball</classifier>
+        <classifier class="online_producer" type="descriptor">Basketball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Basketball</classifier>
+        <org class="online_producer">New York Knicks</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070408T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E02E7DE143FF93BA35757C0A9619C8B63" item-length="295" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>30 SECONDS WITH BUD PALMER</hl1>
+        <hl2 class="online_headline">With Bud Palmer</hl2>
+      </hedline>
+      <byline class="print_byline">By FRANK LITSKY</byline>
+      <byline class="normalized_byline">Litsky, Frank</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Bud Palmer moved from one outstanding career to another. A basketball star at Princeton, he played for the Knicks from 1946 to 1949 and was the team's first captain. After his playing career ended, he was a longtime television sportscaster and New York City's public events commissioner. Now 85, Palmer lives in West Palm Beach, Fla.</p>
+        <p>FRANK LITSKY</p>
+        <p>HOW IS YOUR HEALTH? I've had prostate cancer for 15 years. I have Guillain-Barré syndrome, which affects my nervous system and my balance, and I can't play golf or tennis or ski anymore. I walk like a drunk. A doctor told me recently that I've had a broken back for 60 years. My left knee bothers me. Except for that, I'm in the greatest shape.</p>
+        <p>WERE YOU A GOOD SPORTSCASTER? I thought I was pretty good because I tried not to tell people what they just saw, and I learned when to keep my trap shut. When I did golf, I was criticized for not talking enough, but when you play golf, you don't talk when a guy is trying to hit a shot.</p>
+        <p>WHAT WAS IT LIKE WHEN YOU STARTED WITH THE KNICKS? It was tough because nobody on the outside knew anything about pro basketball. We played every college team in New York, which had the best teams in the country, to convince the public we were good.</p>
+        <p>WOULD YOU LIKE TO BE PLAYING TODAY? No. The game has advanced so. I watch it on TV and I don't recognize it. Teamwork has disappeared. Everything is happening above the rim.</p>
+        <p>HOW DO YOU WANT TO BE REMEMBERED? I always thought of myself as a strong defensive player. I think I was pretty tough to play against.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A basketball star at Princeton, Bud Palmer played for the Knicks from 1946 to 1949 and became a longtime television sportscaster and New York City’s public events commissioner.</p>
+      </block>
+      <block class="full_text">
+        <p>Bud Palmer moved from one outstanding career to another. A basketball star at Princeton, he played for the Knicks from 1946 to 1949 and was the team's first captain. After his playing career ended, he was a longtime television sportscaster and New York City's public events commissioner. Now 85, Palmer lives in West Palm Beach, Fla.</p>
+        <p>FRANK LITSKY</p>
+        <p>HOW IS YOUR HEALTH? I've had prostate cancer for 15 years. I have Guillain-Barré syndrome, which affects my nervous system and my balance, and I can't play golf or tennis or ski anymore. I walk like a drunk. A doctor told me recently that I've had a broken back for 60 years. My left knee bothers me. Except for that, I'm in the greatest shape.</p>
+        <p>WERE YOU A GOOD SPORTSCASTER? I thought I was pretty good because I tried not to tell people what they just saw, and I learned when to keep my trap shut. When I did golf, I was criticized for not talking enough, but when you play golf, you don't talk when a guy is trying to hit a shot.</p>
+        <p>WHAT WAS IT LIKE WHEN YOU STARTED WITH THE KNICKS? It was tough because nobody on the outside knew anything about pro basketball. We played every college team in New York, which had the best teams in the country, to convince the public we were good.</p>
+        <p>WOULD YOU LIKE TO BE PLAYING TODAY? No. The game has advanced so. I watch it on TV and I don't recognize it. Teamwork has disappeared. Everything is happening above the rim.</p>
+        <p>HOW DO YOU WANT TO BE REMEMBERED? I always thought of myself as a strong defensive player. I think I was pretty tough to play against.  30 Seconds</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

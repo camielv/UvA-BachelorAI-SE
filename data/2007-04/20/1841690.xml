@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>World Briefing | Middle East: Gaza Strip: Abbas Says Reporter Is Alive</title>
+    <meta content="20briefs-4" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1841690"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070420T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B02E6DF163EF933A15757C0A9619C8B63" item-length="54" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>World Briefing | Middle East: Gaza Strip: Abbas Says Reporter Is Alive</hl1>
+      </hedline>
+      <byline class="print_byline">By JENNIFER MEDINA</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Palestinian president, Mahmoud Abbas, said his intelligence services had new information that confirmed that Alan Johnston, the BBC journalist kidnapped in Gaza City on March 12 and not seen since, is alive. Speaking to reporters in Stockholm, he also said he knew which group was holding Mr. Johnston.</p>
+        <p>JENNIFER MEDINA</p>
+      </block>
+      <block class="full_text">
+        <p>The Palestinian president, Mahmoud Abbas, said his intelligence services had new information that confirmed that Alan Johnston, the BBC journalist kidnapped in Gaza City on March 12 and not seen since, is alive. Speaking to reporters in Stockholm, he also said he knew which group was holding Mr. Johnston.</p>
+        <p>JENNIFER MEDINA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TUG-OF-WAR</title>
+    <meta content="28five-3" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1843437"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="FIVE DAYS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Banks and Banking</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070428T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE2D7123EF93BA15757C0A9619C8B63" item-length="216" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TUG-OF-WAR</hl1>
+      </hedline>
+      <byline class="print_byline">By JULIA WERDIGIER</byline>
+      <byline class="normalized_byline">Werdigier, Julia</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>After spending weeks plotting the world's biggest banking takeover, Barclays on Monday announced an $87 billion stock deal to buy the Dutch bank ABN Amro.</p>
+        <p>ABN Amro was in a hurry because Fred Goodwin, chief executive of Royal Bank of Scotland, and his counterparts at Banco Santander Central Hispano of Spain and Fortis, a Belgian banking group, also wanted to buy ABN Amro but intended to split its assets among them.</p>
+      </block>
+      <block class="full_text">
+        <p>After spending weeks plotting the world's biggest banking takeover, Barclays on Monday announced an $87 billion stock deal to buy the Dutch bank ABN Amro.</p>
+        <p>ABN Amro was in a hurry because Fred Goodwin, chief executive of Royal Bank of Scotland, and his counterparts at Banco Santander Central Hispano of Spain and Fortis, a Belgian banking group, also wanted to buy ABN Amro but intended to split its assets among them.</p>
+        <p>Rijkman W. J. Groenink, ABN Amro's chief executive, who opposes a breakup, also agreed on Monday to sell LaSalle Bank, ABN Amro's American operation and one of its most valuable assets, to the Bank of America for $21 billion.</p>
+        <p>The sale angered Mr. Goodwin, who had his eyes on LaSalle, but instead of walking away he raised the ante. On Wednesday, he and his partners announced a bid worth $98.5 billion, but contingent on ABN Amro's keeping LaSalle.</p>
+        <p>The next day, some shareholders accused Mr. Groenink at the company's annual general meeting of selling LaSalle to hinder a bidding contest.</p>
+        <p>Yesterday, the Royal Bank group said it would outbid Barclays. But because of Dutch takeover regulations the Royal Bank group will have a three-day window after May 3 to formally submit its bid before ABN Amro completes its sale of LaSalle.</p>
+        <p>JULIA WERDIGIER</p>
+        <p>FIVE DAYS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

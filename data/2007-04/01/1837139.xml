@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>DONATING FOR AFRICA</title>
+    <meta content="01mail-2" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837139"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Travel and Vacations</classifier>
+        <classifier class="indexing_service" type="descriptor">Philanthropy</classifier>
+        <classifier class="indexing_service" type="descriptor">Handicrafts</classifier>
+        <location class="indexing_service">Africa</location>
+        <location class="indexing_service">Ethiopia</location>
+        <location class="indexing_service">Kenya</location>
+        <location class="indexing_service">Zambia</location>
+        <location class="indexing_service">Zimbabwe</location>
+        <person class="indexing_service">Nasmith, Augustus Jr</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa/Ethiopia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa/Zimbabwe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa/Zambia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa/Kenya</classifier>
+        <classifier class="online_producer" type="general_descriptor">Handicrafts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Philanthropy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E0D91330F932A35757C0A9619C8B63" item-length="91" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>DONATING FOR AFRICA</hl1>
+      </hedline>
+      <abstract>
+        <p>Augustus Nasmith Jr letter on recent travel articles about Ethiopia, Kenya, Zambia and Zimbabwe suggests that travelers make small donations to local African charitable organizations and make purchases at grassroots markets and craft cooperatives</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor: Your positive articles about Ethiopia, Kenya, Zambia and Zimbabwe didn't need to so ignore the plights of their people and the huge toll of H.I.V./AIDS. What about suggesting a sort of ''Robin Hood'' donation -- a small percentage of the amount it would cost a first-world traveler to visit Africa -- to local charitable organizations? In addition, direct purchases in grassroots markets and craft cooperatives are not only fun and provide wonderful gifts, but they also support large extended families in need.</p>
+        <p>Augustus Nasmith, Jr.  Rutland, Vt.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor: Your positive articles about Ethiopia, Kenya, Zambia and Zimbabwe didn't need to so ignore the plights of their people and the huge toll of H.I.V./AIDS. What about suggesting a sort of ''Robin Hood'' donation -- a small percentage of the amount it would cost a first-world traveler to visit Africa -- to local charitable organizations? In addition, direct purchases in grassroots markets and craft cooperatives are not only fun and provide wonderful gifts, but they also support large extended families in need.</p>
+        <p>Augustus Nasmith, Jr.  Rutland, Vt.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

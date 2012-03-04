@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>'Once Upon a Country'</title>
+    <meta content="Letters.t-1" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1840252"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E01E0DF143FF936A25757C0A9619C8B63" item-length="305" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>'Once Upon a Country'</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Leon Wieseltier is surely an intelligent writer, capable of self-reflection and criticism. Still, his longstanding commitment to the intellectual defense of Israel and the consistent impugning of Palestinians -- even as he will offer discrete criticisms of Israel -- comes through clearly again, and makes him a disappointing choice to review Sari Nusseibeh's memoir, ''Once Upon a Country'' (April 1).</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Leon Wieseltier is surely an intelligent writer, capable of self-reflection and criticism. Still, his longstanding commitment to the intellectual defense of Israel and the consistent impugning of Palestinians -- even as he will offer discrete criticisms of Israel -- comes through clearly again, and makes him a disappointing choice to review Sari Nusseibeh's memoir, ''Once Upon a Country'' (April 1).</p>
+        <p>Wieseltier accepts Nusseibeh's criticisms of individual Israeli policies, and admires Nusseibeh's harsher critique of Palestinian politics; fine. But we're back on familiar New Republic ground when Wieseltier comes to ''this season's commotions'' in the occupied territories. He offers the glib observation that Palestinians -- all of them, apparently -- ''fire their guns'' when they are happy with their representatives, and when they are unhappy, too; in fact, we're told, what these people apparently won't do ''is stop firing their guns.'' How convenient that young, armed, undereducated males of Palestine stand in for an entire population. (And contrary to Wieseltier's assertion, Israel can, and does, influence intra-Palestinian strife: late last year Israel facilitated the influx of military hardware for the Fatah faction in the face of Hamas's election victory.)</p>
+        <p>There are many other voices of reason in the sad but vibrant internal debate among Palestinians, but Wieseltier gives the backhanded compliment to Nusseibeh of saying his clearheadedness is ''exceptional.'' (This pronouncement from a man who acknowledges he doesn't know Arabic.) The ''expressions of sympathy for one's other'' that Wieseltier nicely defines as a sign of intellectual honesty are missing in his derisive characterization of the Palestinian people; it's clear he just doesn't like them. And the cavalier ease with which Wieseltier makes sweeping generalizations about a population, and the Book Review's willingness to print them, speaks to the shoddy standards we have for what passes as analysis of the Arab world.</p>
+        <p>John Kearney  Brooklyn</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

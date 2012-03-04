@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Increased Physical Activity Aids Menopausal Women</title>
+    <meta content="03exer" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Health&amp;Fitness" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/03/health/nutrition/03exer.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837671"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="VITAL SIGNS: EXERCISE"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Columns/Vital Signs</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Fitness and Nutrition</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Menopause</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Fashion, Beauty and Fitness</classifier>
+        <classifier class="online_producer" type="descriptor">Menopause</classifier>
+        <classifier class="online_producer" type="descriptor">Exercise</classifier>
+        <classifier class="online_producer" type="descriptor">Women</classifier>
+        <classifier class="online_producer" type="general_descriptor">Menopause</classifier>
+        <classifier class="online_producer" type="general_descriptor">Exercise</classifier>
+        <classifier class="online_producer" type="general_descriptor">Emotions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Women</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070403T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05E5DE1F30F930A35757C0A9619C8B63" item-length="174" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Increased Physical Activity Aids Menopausal Women</hl1>
+        <hl2 class="online_headline">Exercise: Increased Physical Activity Aids Menopausal Women</hl2>
+      </hedline>
+      <byline class="print_byline">By Eric Nagourney</byline>
+      <byline class="normalized_byline">Nagourney, Eric</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Women who engage in physical activities like walking and yoga may be able to reduce some of the physical and emotional problems that can come with menopause, researchers say.</p>
+        <p>Writing in the April issue of the Annals of Behavioral Medicine, the researchers say they found improvements in women described as having been sedentary before the study. The research was led by Steriani Elavsky of Penn State.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Women who engage in physical activities may be able to reduce some of the physical and emotional problems that can come with menopause, researchers say.</p>
+      </block>
+      <block class="full_text">
+        <p>Women who engage in physical activities like walking and yoga may be able to reduce some of the physical and emotional problems that can come with menopause, researchers say.</p>
+        <p>Writing in the April issue of the Annals of Behavioral Medicine, the researchers say they found improvements in women described as having been sedentary before the study. The research was led by Steriani Elavsky of Penn State.</p>
+        <p>For the study, the researchers took 164 women and divided them into three groups. For four months, one group walked, one did yoga and one remained inactive.</p>
+        <p>Menopause, and sometimes the years before and after it, can be accompanied by hot flashes, night sweats, irritability and emotional problems. In some studies, menopausal women who reported being physically active seemed to have fewer problems.</p>
+        <p>In this study, the women taking part in the walking and yoga programs also said the problems associated with menopause decreased and their overall quality of life improved. ''Interestingly,'' the researchers said, ''yoga participants also appeared to benefit in the sexual domain.''</p>
+        <p>VITAL SIGNS: EXERCISE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

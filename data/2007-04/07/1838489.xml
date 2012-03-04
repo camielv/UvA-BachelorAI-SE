@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="07corex1a" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Education; Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838489"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Education and Schools</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="indexing_service" type="descriptor">Blacks</classifier>
+        <classifier class="indexing_service" type="descriptor">Equal Educational Opportunities</classifier>
+        <classifier class="indexing_service" type="descriptor">Advertising and Marketing</classifier>
+        <location class="indexing_service">Greenwich (Conn)</location>
+        <org class="indexing_service">Concerned Citizens of Greenwich</org>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Connecticut</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blacks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Equal Educational Opportunities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070407T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0DE4D7173FF934A35757C0A9619C8B63" item-length="89" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>April 5 article about new push to control racial imbalance in Greenwich, Conn, public schools misstated content of advertisements placed in local newspapers by group called Concerned Citizens of Greenwich</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An article on Thursday about a new push to confront racial imbalance in the Greenwich, Conn., public schools misstated the content of fullpage advertisements placed recently in local newspapers by a group calling itself Concerned Citizens of Greenwich. The ads raised concerns about a proposal to spend $23 million rebuilding Glenville School, and offered a broader critique of a new task force considering topics including racial balance and redistricting. The ads did not ask that neighborhood schools ''not be made to suffer in the rush to bolster other schools.''</p>
+      </block>
+      <block class="full_text">
+        <p>An article on Thursday about a new push to confront racial imbalance in the Greenwich, Conn., public schools misstated the content of fullpage advertisements placed recently in local newspapers by a group calling itself Concerned Citizens of Greenwich. The ads raised concerns about a proposal to spend $23 million rebuilding Glenville School, and offered a broader critique of a new task force considering topics including racial balance and redistricting. The ads did not ask that neighborhood schools ''not be made to suffer in the rush to bolster other schools.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

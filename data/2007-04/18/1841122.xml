@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Square Feet; TRANSACTIONS</title>
+    <meta content="18trsale" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1841122"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070418T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D02E7DD1E3FF93BA25757C0A9619C8B63" item-length="177" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Square Feet; TRANSACTIONS</hl1>
+      </hedline>
+      <byline class="print_byline">By ROSALIE R. RADOMSKY</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Recent Sale  $5.3 million  160 East 23rd Street (between Lexington and Third Avenues)  Manhattan  A developer has bought this vacant two-story building on a 2,469- square-foot lot with at least 18,022 buildable square feet.  Seller: Sandy Squitieri  Buyer: Frank Ng  Broker: John Ciraulo, Massey Knakal Realty Services</p>
+        <p>Recent Lease  $100/sq. ft.  approximate annual rent $385,000  21-23 West Eighth Street  (between Fifth Avenue and Avenue of the Americas)  Manhattan  A barbecue restaurant has taken 3,850 square feet, with basement space, that it plans to renovate in this prewar five-story walk-up in Greenwich Village.  Tenant: BBQ  Landlord: Tzong Yip Jean  Broker: Lydia Wong, Buchbinder &amp; Warren Realty Group L.L.C.</p>
+        <p>For Lease  $12/sq. ft.  approximate annual rent $976,000  280 Wilson Avenue  Newark  This 81,326-square-foot warehouse, with refrigeration areas and drains, is available for food manufacturing or distribution. It sits on a four-acre site, with about two acres of parking.  Owner: Pantheon Properties  Broker: Gary Capetta, Pantheon Properties</p>
+        <p>ROSALIE R. RADOMSKY</p>
+      </block>
+      <block class="full_text">
+        <p>Recent Sale  $5.3 million  160 East 23rd Street (between Lexington and Third Avenues)  Manhattan  A developer has bought this vacant two-story building on a 2,469- square-foot lot with at least 18,022 buildable square feet.  Seller: Sandy Squitieri  Buyer: Frank Ng  Broker: John Ciraulo, Massey Knakal Realty Services</p>
+        <p>Recent Lease  $100/sq. ft.  approximate annual rent $385,000  21-23 West Eighth Street  (between Fifth Avenue and Avenue of the Americas)  Manhattan  A barbecue restaurant has taken 3,850 square feet, with basement space, that it plans to renovate in this prewar five-story walk-up in Greenwich Village.  Tenant: BBQ  Landlord: Tzong Yip Jean  Broker: Lydia Wong, Buchbinder &amp; Warren Realty Group L.L.C.</p>
+        <p>For Lease  $12/sq. ft.  approximate annual rent $976,000  280 Wilson Avenue  Newark  This 81,326-square-foot warehouse, with refrigeration areas and drains, is available for food manufacturing or distribution. It sits on a four-acre site, with about two acres of parking.  Owner: Pantheon Properties  Broker: Gary Capetta, Pantheon Properties</p>
+        <p>ROSALIE R. RADOMSKY  e-mail: realprop@nytimes.com</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">e-mail: realprop@nytimes.com</tagline>
+    </body.end>
+  </body>
+</nitf>

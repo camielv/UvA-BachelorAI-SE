@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>FAKE CHEESE, FAKE SALES</title>
+    <meta content="08suits-4" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838849"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="OPENERS: SUITS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Suits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Sales and Business Development</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dairy Products</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cheese</classifier>
+        <classifier class="online_producer" type="general_descriptor">Frauds and Swindling</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sales</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070408T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E2D6173FF93BA35757C0A9619C8B63" item-length="181" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>FAKE CHEESE, FAKE SALES</hl1>
+      </hedline>
+      <byline class="print_byline">By ELIZABETH OLSON</byline>
+      <byline class="normalized_byline">Olson, Elizabeth</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Suprema Specialties Inc., of Paterson, N.J., appeared to be doing remarkably well selling all-natural Italian cheeses. The company's stock (its Nasdaq listing was CHEZ) rose when it reported strong sales results from July 2000 to January 2002.</p>
+        <p>But $400 million in sales were phony, and a federal jury last week convicted two of the company's top executives -- Mark Cocchiola, 51, of Englewood Cliffs, N.J., and Steven Venechanos, 48, of New Milford, N.J. -- of 38 counts, including conspiracy and bank, mail and wire fraud.</p>
+      </block>
+      <block class="full_text">
+        <p>Suprema Specialties Inc., of Paterson, N.J., appeared to be doing remarkably well selling all-natural Italian cheeses. The company's stock (its Nasdaq listing was CHEZ) rose when it reported strong sales results from July 2000 to January 2002.</p>
+        <p>But $400 million in sales were phony, and a federal jury last week convicted two of the company's top executives -- Mark Cocchiola, 51, of Englewood Cliffs, N.J., and Steven Venechanos, 48, of New Milford, N.J. -- of 38 counts, including conspiracy and bank, mail and wire fraud.</p>
+        <p>Mr. Cocchiola was the founder and Mr. Venechanos served as financial officer of the business, now defunct, which twice made Forbes magazine's list of the 200 best small companies and was among Fortune magazine's 100 fastest-growing public companies.</p>
+        <p>Suprema's success, prosecutors said, rested on the fictitious sales, and by the second half of 2001, about 20 percent of its inventory was imitation cheese that was relabeled as higher-priced real cheese. The two men could face dozens of years in prison and millions of dollars in fines when they are sentenced on July 10.</p>
+        <p>ELIZABETH OLSON</p>
+        <p>OPENERS: SUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

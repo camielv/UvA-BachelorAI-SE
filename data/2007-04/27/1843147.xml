@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Long-Lived Ensemble Takes Its Final Bow</title>
+    <meta content="27verm" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/27/arts/music/27verm.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1843147"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MUSIC REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews/Classical</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="descriptor">Classical Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Classical Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <org class="online_producer">Vermeer String Quartet</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070427T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A00E4D8153EF934A15757C0A9619C8B63" item-length="432" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Long-Lived Ensemble Takes Its Final Bow</hl1>
+        <hl2 class="online_headline">A Long-Lived Ensemble Takes Its Final Bow</hl2>
+      </hedline>
+      <byline class="print_byline">By ALLAN KOZINN</byline>
+      <byline class="normalized_byline">Kozinn, Allan</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Perhaps it is not for listeners to second-guess the career decisions of ensembles and soloists, but looking at the big picture, individual moves often seem puzzling. Sometimes an ensemble will plug along through decades and personnel changes but keep going because its name is a marketable franchise, even if its sound is deteriorating. And sometimes -- rarely -- a venerable group decides to leave the scene while it is still playing well and its reputation is fully intact.</p>
+        <p>The Vermeer String Quartet is taking the second route. It was founded at the Marlboro Music Festival in 1969 and after nearly four decades of touring -- and having made quite a few superb recordings -- its players agreed that it was time to stop. This season the Vermeer has been making its way around the world, giving its final concerts, and on Wednesday evening it played its last New York performance at Alice Tully Hall, as a guest of the Chamber Music Society of Lincoln Center.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The ensemble gave assured, elegant and fully seasoned interpretations of works by Schubert, Dvorak, Britten and Haydn at Alice Tully Hall on Wednesday.</p>
+      </block>
+      <block class="full_text">
+        <p>Perhaps it is not for listeners to second-guess the career decisions of ensembles and soloists, but looking at the big picture, individual moves often seem puzzling. Sometimes an ensemble will plug along through decades and personnel changes but keep going because its name is a marketable franchise, even if its sound is deteriorating. And sometimes -- rarely -- a venerable group decides to leave the scene while it is still playing well and its reputation is fully intact.</p>
+        <p>The Vermeer String Quartet is taking the second route. It was founded at the Marlboro Music Festival in 1969 and after nearly four decades of touring -- and having made quite a few superb recordings -- its players agreed that it was time to stop. This season the Vermeer has been making its way around the world, giving its final concerts, and on Wednesday evening it played its last New York performance at Alice Tully Hall, as a guest of the Chamber Music Society of Lincoln Center.</p>
+        <p>Clearly, in this case, disbanding is a personal rather than a musical decision: the Vermeer's characteristically rich, warm sound, with its firm bass and velvety top, remains as polished and seductive as ever. And the musicians -- Shmuel Ashkenasi and Mathias Tacke, violinists; Richard Young, violist; and Marc Johnson, cellist -- put that sound at the service of assured, elegant and fully seasoned interpretations.</p>
+        <p>That said, the Vermeer did not court easy applause by playing the most popular works in the canon. Its choice of a Schubert work, for instance, was the E flat Quartet (D. 87), composed when Schubert was 16 and very much a Classicist. The playful, Haydnesque rusticity of the second movement is something you miss if the only Schubert you hear is the mature music, yet there is no lack of maturity in the serene Adagio, which the Vermeer played with an incandescent glow.</p>
+        <p>Dvorak's Quartet in E flat (Op. 51) is heard only slightly more than the Schubert, but most of the qualities that make Dvorak's better-known works so beloved are here as well. The Vermeer's reading was one of smooth surfaces and comfortable tempos that put the focus on Dvorak's textures, not least the pizzicato punctuation in parts of the bittersweet Dumka, and the solid punctuating chords in the finale.</p>
+        <p>Between the Schubert and the Dvorak, the Vermeer gave an emotionally pointed performance of Britten's Quartet No. 3, an autumnal work in which urgency and an unusually lyrical use of atonal spikiness counter a faintly bitter undercurrent.</p>
+        <p>The Vermeer players offered only one encore, a trim performance of a movement from a Haydn quartet.</p>
+        <p>MUSIC REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

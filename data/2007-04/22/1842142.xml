@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bronwen Charters, William Mason</title>
+    <meta content="22charters" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/22/fashion/weddings/22charters.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842142"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Charters, Bronwen Forbes (Bronwen Forbes Mason)</person>
+        <person class="indexing_service">Mason, William Sullivan</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE1DF163EF931A15757C0A9619C8B63" item-length="218" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bronwen Charters, William Mason</hl1>
+        <hl2 class="online_headline">Bronwen Charters, William Mason</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Bronwen Forbes Charters, a daughter of Ann and Thomas Charters of Manhattan, was married on Wednesday to William Sullivan Mason, the son of Kathy and Steve Mason of New Rochelle, N.Y. Janet L. Sutherland, a deputy city clerk in Sarasota, Fla., officiated at the Sarasota County Courthouse. Last evening, Peter M. Lauriat, an associate justice of the Superior Court of Massachusetts and a friend of the bride's family, led a marriage celebration at Cà d'Zan, the Ringling mansion and museum in Sarasota.</p>
+        <p>The bride and bridegroom met at Vanderbilt, where the bride received a law degree and the bridegroom an M.B.A.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Bronwen Forbes Charters, a daughter of Ann and Thomas Charters of Manhattan, was married on Wednesday to William Sullivan Mason, the son of Kathy and Steve Mason of New Rochelle, N.Y. Janet L. Sutherland, a deputy city clerk in Sarasota, Fla., officiated at the Sarasota County Courthouse. Last evening, Peter M. Lauriat, an associate justice of the Superior Court of Massachusetts and a friend of the bride’s family, led a marriage celebration at Cà d’Zan, the Ringling mansion and museum in Sarasota.</p>
+      </block>
+      <block class="full_text">
+        <p>Bronwen Forbes Charters, a daughter of Ann and Thomas Charters of Manhattan, was married on Wednesday to William Sullivan Mason, the son of Kathy and Steve Mason of New Rochelle, N.Y. Janet L. Sutherland, a deputy city clerk in Sarasota, Fla., officiated at the Sarasota County Courthouse. Last evening, Peter M. Lauriat, an associate justice of the Superior Court of Massachusetts and a friend of the bride's family, led a marriage celebration at Cà d'Zan, the Ringling mansion and museum in Sarasota.</p>
+        <p>The bride and bridegroom met at Vanderbilt, where the bride received a law degree and the bridegroom an M.B.A.</p>
+        <p>Mrs. Mason, 27, is an associate specializing in securities law at Shearman &amp; Sterling, the Manhattan law firm. She graduated from the University of Chicago.</p>
+        <p>Her father is the president of PCFG Advisory, an investment management firm in Manhattan. Her mother is the chairwoman of Off-the-Record, a lecture series of the Foreign Policy Association, on whose board she serves.</p>
+        <p>Mr. Mason, 30, is an associate and investment representative in the private wealth management division of Morgan Stanley in Manhattan. He graduated from St. Lawrence University.</p>
+        <p>His mother is a reading teacher at Public School 56 in the Bronx. His father is a national accounts manager , at Tootsie Roll Industries of Chicago and works in New Rochelle.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

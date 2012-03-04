@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>World Business Briefing | Europe: Spain: Bid Is Made for French Contractor</title>
+    <meta content="20fobriefs-1" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1841635"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/World Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070420T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05E6D61F3FF933A15757C0A9619C8B63" item-length="116" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>World Business Briefing | Europe: Spain: Bid Is Made for French Contractor</hl1>
+      </hedline>
+      <byline class="print_byline">By VICTORIA BURNETT</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Sacyr Vallehermoso, a Spanish construction company, bid 9.75 billion euros ($13.26 billion) to take over Eiffage of France, a diversified construction company that built the Eiffel Tower, setting the stage for a cross-border struggle for control of the company. The bid came less than 24 hours after a shareholders' meeting where Eiffage blocked Sacyr's request for seats on its board, even though Sacyr holds a 33 percent stake. Sacyr offered 12 of its shares for every five of Eiffage, valuing the stock at 104.69 euros, a 6 percent discount to its closing price Wednesday. Sacyr's approach pits the builder against Eiffage, which views itself as a venerable part of the French establishment.</p>
+        <p>VICTORIA BURNETT</p>
+      </block>
+      <block class="full_text">
+        <p>Sacyr Vallehermoso, a Spanish construction company, bid 9.75 billion euros ($13.26 billion) to take over Eiffage of France, a diversified construction company that built the Eiffel Tower, setting the stage for a cross-border struggle for control of the company. The bid came less than 24 hours after a shareholders' meeting where Eiffage blocked Sacyr's request for seats on its board, even though Sacyr holds a 33 percent stake. Sacyr offered 12 of its shares for every five of Eiffage, valuing the stock at 104.69 euros, a 6 percent discount to its closing price Wednesday. Sacyr's approach pits the builder against Eiffage, which views itself as a venerable part of the French establishment.</p>
+        <p>VICTORIA BURNETT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

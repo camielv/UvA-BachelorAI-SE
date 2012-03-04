@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bernanke Speaks, and the Market Retreats</title>
+    <meta content="01data" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/01/business/yourmoney/01data.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837325"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="DataBank"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="descriptor">Dow Jones Stock Average</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dow Jones Stock Average</classifier>
+        <classifier class="online_producer" type="general_descriptor">Nasdaq Composite Index</classifier>
+        <classifier class="online_producer" type="general_descriptor">Government Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <org class="online_producer">Federal Reserve System</org>
+        <org class="online_producer">Commerce Department</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D00EEDB1130F932A35757C0A9619C8B63" item-length="195" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bernanke Speaks, and the Market Retreats</hl1>
+        <hl2 class="online_headline">Bernanke Speaks, and the Market Retreats</hl2>
+      </hedline>
+      <byline class="print_byline">By JEFF SOMMER</byline>
+      <byline class="normalized_byline">Sommer, Jeff</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The stock market dropped last week on Congressional testimony of Ben S. Bernanke, the Federal Reserve chairman, on Wednesday.</p>
+        <p>Mr. Bernanke told Congress that the Fed still considered inflation to be its primary concern -- a remark that dampened expectations on Wall Street that the Fed might lower short-term interest rates soon.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The stock market dropped last week on Congressional testimony of Ben S. Bernanke, the Federal Reserve chairman, on Wednesday.</p>
+      </block>
+      <block class="full_text">
+        <p>The stock market dropped last week on Congressional testimony of Ben S. Bernanke, the Federal Reserve chairman, on Wednesday.</p>
+        <p>Mr. Bernanke told Congress that the Fed still considered inflation to be its primary concern -- a remark that dampened expectations on Wall Street that the Fed might lower short-term interest rates soon.</p>
+        <p>On Friday, an announcement by the Commerce Department set back the market further. The department said that the United States would impose duties on some Chinese imports to compensate for export subsidies. The penalties now apply only to imports of coated paper, but could have broader implications. Until now, such subsidies have not been deemed grounds for imposing duties on products from a nonmarket economy -- the designation given by the United States government to China.</p>
+        <p>For the week, the Dow Jones industrial average lost 126.66 points, or 1.01 percent, to close at 12,354.35. The Standard &amp; Poor's 500-stock index dropped 15.25 points, or 1.06 percent, to close at 1,420.86. The Nasdaq composite index lost 27.29 points, or 1.11 percent, to close at 2,421.64. The yield on the 10-year Treasury bond rose to 4.65 percent from 4.61 percent the previous week.</p>
+        <p>JEFF SOMMER</p>
+        <p>DataBank</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Elizabeth Padin, Gregory Storer</title>
+    <meta content="15padin" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/15/fashion/weddings/15padin.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840493"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Padin, Elizabeth Lindsay (Elizabeth Lindsay Storer)</person>
+        <person class="indexing_service">Storer, Ensign Gregory Barton</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9407EFD9133FF936A25757C0A9619C8B63" item-length="174" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Elizabeth Padin, Gregory Storer</hl1>
+        <hl2 class="online_headline">Elizabeth Padin, Gregory Storer</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Elizabeth Lindsay Padin, a daughter of Christina B. Padin and Edward R. Padin of New Rochelle, N.Y., was married yesterday to Ensign Gregory Barton Storer, a son of Teresa B. Storer and George B. Storer III of Branford, Conn. The Rev. Robert Henry performed the ceremony at the Roman Catholic Church of St. Augustine in Larchmont, N.Y.</p>
+        <p>Mrs. Storer, 25, until last month was a media strategist at TargetCast TCM, a media planning and buying agency in New York. She graduated from Hamilton College.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Elizabeth Lindsay Padin, a daughter of Christina B. Padin and Edward R. Padin of New Rochelle, N.Y., was married yesterday to Ensign Gregory Barton Storer, a son of Teresa B. Storer and George B. Storer III of Branford, Conn. The Rev. Robert Henry performed the ceremony at the Roman Catholic Church of St. Augustine in Larchmont, N.Y.</p>
+      </block>
+      <block class="full_text">
+        <p>Elizabeth Lindsay Padin, a daughter of Christina B. Padin and Edward R. Padin of New Rochelle, N.Y., was married yesterday to Ensign Gregory Barton Storer, a son of Teresa B. Storer and George B. Storer III of Branford, Conn. The Rev. Robert Henry performed the ceremony at the Roman Catholic Church of St. Augustine in Larchmont, N.Y.</p>
+        <p>Mrs. Storer, 25, until last month was a media strategist at TargetCast TCM, a media planning and buying agency in New York. She graduated from Hamilton College.</p>
+        <p>Her father is the general manager of Doubledown Media, a New York publisher of magazines, including Trader Monthly, Dealmaker and Private Air. Her mother is a buyer and the display manager at Wendy Gee, a store selling furniture and home accessories in Larchmont.</p>
+        <p>Ensign Storer, 22, is a trainee in the Naval Submarine School in Groton, Conn. He graduated from the United States Naval Academy.</p>
+        <p>His mother manages her family's real estate investments. His father is the vice president for operations at the Connecticut Bank and Trust Company in Hartford.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

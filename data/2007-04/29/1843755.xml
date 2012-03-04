@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Karyl Lin, Davin Thigpen</title>
+    <meta content="29LIN" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/29/fashion/weddings/29LIN.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1843755"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Lin, Karyl (Karyl Thigpen)</person>
+        <person class="indexing_service">Thigpen, Davin Greer</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02EEDD123EF93AA15757C0A9619C8B63" item-length="109" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Karyl Lin, Davin Thigpen</hl1>
+        <hl2 class="online_headline">Karyl Lin, Davin Thigpen</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Karyl Lin and Davin Greer Thigpen were married yesterday in St. Paul's Chapel at Columbia University. Tony Hileman, the senior leader of the New York Society for Ethical Culture, officiated.</p>
+        <p>The couple met at Columbia, where each received an M.B.A.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Karyl Lin and Davin Greer Thigpen were married yesterday in St. Paul’s Chapel at Columbia University. Tony Hileman, the senior leader of the New York Society for Ethical Culture, officiated.</p>
+      </block>
+      <block class="full_text">
+        <p>Karyl Lin and Davin Greer Thigpen were married yesterday in St. Paul's Chapel at Columbia University. Tony Hileman, the senior leader of the New York Society for Ethical Culture, officiated.</p>
+        <p>The couple met at Columbia, where each received an M.B.A.</p>
+        <p>Mrs. Thigpen, 31, is a manager of brand development merchandising at Victoria's Secret Beauty in New York. She graduated from Stanford and is a daughter of Hwaing and Youlin Lin of Wildwood, Mo.</p>
+        <p>Mr. Thigpen, 32, is a vice president in the investment banking group at Bear Stearns in New York. He graduated from Southern Methodist University and is the son of Linda and Barry Thigpen of Las Vegas.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

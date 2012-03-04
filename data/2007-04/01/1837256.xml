@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Lela Moore, Steven Ryan</title>
+    <meta content="01moore" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/01/fashion/weddings/01moore.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837256"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Moore, Lela Miller</person>
+        <person class="indexing_service">Ryan, Steven</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CEEDE1130F932A35757C0A9619C8B63" item-length="162" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Lela Moore, Steven Ryan</hl1>
+        <hl2 class="online_headline">Lela Moore and Steven Ryan</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Lela Miller Moore, a daughter of Jean G. Moore and Hugh J. Moore Jr. of Chattanooga, Tenn., and Steven Ryan, a son of Eileen M. Valinoti and Steven J. Valinoti, both of Levittown, N.Y., were married yesterday evening. Thomas Ryan, the bridegroom's uncle and a Universal Life minister, officiated at the Hudson Theater in Manhattan.</p>
+        <p>The bride, 30, will keep her name. She is a news assistant at The New York Times. She graduated cum laude from Middlebury College and received a master's in journalism from New York University. Her father is a lawyer at Chambliss, Bahner &amp; Stophel, a law firm in Chattanooga. Her mother is a volunteer reading teacher at Woodmore Elementary School there.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The couple were married Saturday evening at the Hudson Theater in Manhattan.</p>
+      </block>
+      <block class="full_text">
+        <p>Lela Miller Moore, a daughter of Jean G. Moore and Hugh J. Moore Jr. of Chattanooga, Tenn., and Steven Ryan, a son of Eileen M. Valinoti and Steven J. Valinoti, both of Levittown, N.Y., were married yesterday evening. Thomas Ryan, the bridegroom's uncle and a Universal Life minister, officiated at the Hudson Theater in Manhattan.</p>
+        <p>The bride, 30, will keep her name. She is a news assistant at The New York Times. She graduated cum laude from Middlebury College and received a master's in journalism from New York University. Her father is a lawyer at Chambliss, Bahner &amp; Stophel, a law firm in Chattanooga. Her mother is a volunteer reading teacher at Woodmore Elementary School there.</p>
+        <p>The bridegroom, 29, is the assistant producer of ''Talking Movies,'' a weekly television show on BBC World, and he is also a puppeteer at the Czechoslovak-American Marionette Theater company in Manhattan. His father is an auto-damage field supervisor in Brooklyn at Geico, the car insurance company.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

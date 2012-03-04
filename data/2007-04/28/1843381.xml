@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The No-Period Pill, From Two Angles</title>
+    <meta content="l28pill" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20070503T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1843381"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Birth Control and Family Planning</classifier>
+        <classifier class="indexing_service" type="descriptor">Menstruation</classifier>
+        <classifier class="indexing_service" type="descriptor">Depo-Provera (Drug)</classifier>
+        <person class="indexing_service">Rako, Susan (Dr)</person>
+        <person class="indexing_service">Schmidt, Gwendolyn R</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Birth Control and Family Planning</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070428T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E1D9123EF93BA15757C0A9619C8B63" item-length="344" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The No-Period Pill, From Two Angles</hl1>
+      </hedline>
+      <abstract>
+        <p>Two letters respond to April 20 article about first contraceptive pill designed to eliminate menstruation; Dr Susan Rako disputes statement that doctors know of no medical reason women taking birth control pills need to have period; Gwendolyn R Schmidt notes that Depo-Provera eliminates her period</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Pill That Eliminates the Period Gets Mixed Reviews'' (front page, April 20):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Pill That Eliminates the Period Gets Mixed Reviews'' (front page, April 20):</p>
+        <p>You write, ''Doctors say they know of no medical reason women taking birth control pills need to have a period.'' In fact, nonstop use of the potent estrogen in birth control pills to eliminate the menstrual period reduces available testosterone, which suppresses sexual libido and pleasure and has detrimental effects on every organ system in the body.</p>
+        <p>During the normal menstrual cycle, for two weeks out of four, a woman's body produces its own natural antihypertensive agent (endothelin), effectively lowering blood pressure.</p>
+        <p>Doing away with the monthly bleed sacrifices the only naturally occurring means of eliminating excess stored iron, a risk factor for heart attacks and strokes.</p>
+        <p>The combined effects of endothelin and of regular elimination of stored iron contribute to naturally cycling women's having fewer heart attacks and strokes than do age-matched men.</p>
+        <p>The birth control pill has been discovered to be a co-carcinogen with high-risk strains of the human papillomavirus (H.P.V.) in causing cancer of the cervix. The longer-term a woman uses birth control pills, the greater the risk.</p>
+        <p>Susan Rako, M.D.  Newtonville, Mass., April 20, 2007</p>
+        <p>The writer is the author of ''The Blessings of the Curse'' and the president of Women's Health on Alert, an educational nonprofit.</p>
+        <p>To the Editor:</p>
+        <p>I am a woman, and I have no period. Depo-Provera can sometimes eliminate menses, and it eliminates mine. I consider this to be a major part of the reason I use Depo-Provera, the progesterone-only contraceptive drug.</p>
+        <p>I find a period inconvenient. Without a period, I do not need to replenish my stock of menses-related supplies. Putting it simply, my bathroom and my panties remain clean. Also, I do not wish to be pregnant.</p>
+        <p>A period is a process that indicates the body is able to be pregnant, and I have no need for that reminder. This is why I am among the women who are interested in eliminating their period.</p>
+        <p>Gwendolyn R. Schmidt  Pittsburgh, April 20, 2007</p>
+        <p>Correction:  May 3, 2007, Thursday  A letter on Saturday from Newtonville, Mass., about the no-period pill referred incorrectly to the hormone endothelin. It increases blood pressure; it is not an ''antihypertensive agent.''</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: May 3, 2007, Thursday</p>
+        <p>A letter on Saturday from Newtonville, Mass., about the no-period pill referred incorrectly to the hormone endothelin. It increases blood pressure; it is not an ''antihypertensive agent.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

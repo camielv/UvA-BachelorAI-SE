@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Mother Wanted Her Infant Son 'To Disappear,' Prosecutors Say</title>
+    <meta content="01baby" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="33" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/01/nyregion/01baby.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837387"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="indexing_service" type="descriptor">Child Abuse and Neglect</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Rodriguez, Yoneli</person>
+        <person class="indexing_service">Rodriguez, Darnel Angel</person>
+        <person class="indexing_service">Fahim, Kareem</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Child Abuse and Neglect</classifier>
+        <classifier class="online_producer" type="general_descriptor">Child Abuse and Neglect</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+        <location class="online_producer">Queens (NYC)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E1DE1E30F932A35757C0A9619C8B63" item-length="323" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Mother Wanted Her Infant Son 'To Disappear,' Prosecutors Say</hl1>
+        <hl2 class="online_headline">Mother Wanted Her Infant Son ‘to Disappear,’ Prosecutors Say</hl2>
+      </hedline>
+      <byline class="print_byline">By KAREEM FAHIM</byline>
+      <byline class="normalized_byline">Fahim, Kareem</byline>
+      <abstract>
+        <p>Yoneli Rodriguez is charged with second-degree murder in smothering death of her 4-month-old son, Darnel Angel Rodriguez, in Queens on March 30; prosecutors say she wanted her baby to disappear after becoming angry during argument with her mother (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A Queens woman accused of smothering her 4-month-old son told investigators that she ''wanted the baby to disappear'' after becoming angry during an argument with her mother, prosecutors said yesterday.</p>
+        <p>The woman, Yoneli Rodriguez, 21, was charged with second-degree murder and endangering the welfare of a child and was being held without bail after being arraigned last night.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A Queens woman was charged with second-degree murder and endangering the welfare of a child.</p>
+      </block>
+      <block class="full_text">
+        <p>A Queens woman accused of smothering her 4-month-old son told investigators that she ''wanted the baby to disappear'' after becoming angry during an argument with her mother, prosecutors said yesterday.</p>
+        <p>The woman, Yoneli Rodriguez, 21, was charged with second-degree murder and endangering the welfare of a child and was being held without bail after being arraigned last night.</p>
+        <p>She smothered her son, Darnel Angel Rodriguez, on Friday morning by pressing a pillow over his head for three minutes, according to a statement from the Queens district attorney, Richard A. Brown. The statement did not indicate what Ms. Rodriguez and her mother had argued about before the infant died.</p>
+        <p>Ms. Rodriguez and her son had been living at the Lincoln Motor Inn on Van Wyck Expressway in Jamaica, a hotel where the city's Department of Homeless Services places families. After smothering Darnel, Ms. Rodriguez took the unconscious child by taxi to Elmhurst Hospital Center, six miles away, instead of to Jamaica Hospital Medical Center, which is across the street from the hotel, the district attorney's office said.</p>
+        <p>Neighbors at the hotel said yesterday that they had worried Darnel was not being properly fed. Ms. Rodriguez did not know how to prepare his powdered milk, they said, and was eating it herself. Darnel was so small that Ms. Rodriguez had to tie rubber bands around his socks to keep them up, the neighbors said.</p>
+        <p>A law enforcement official said it appeared that Ms. Rodriguez had no previous criminal history and had not been under the supervision of the city's Administration for Children's Services, the child welfare agency.</p>
+        <p>Case managers with the Department of Homeless Services worked at the Lincoln Motor Inn during the day, where they had regular contact with residents, said Tanya Valle-Batista, a spokeswoman for the agency. Ms. Valle-Batista said that the department was investigating Ms. Rodriguez's case and that she could not comment on it because of confidentiality rules.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

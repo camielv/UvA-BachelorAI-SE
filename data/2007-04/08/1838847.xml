@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>SEE YOU AT THE KREMLIN?</title>
+    <meta content="08suits-2" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838847"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="OPENERS: SUITS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Suits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Russia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Russia and the Former Soviet Union</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Russia</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070408T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F07E2D6173FF93BA35757C0A9619C8B63" item-length="234" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>SEE YOU AT THE KREMLIN?</hl1>
+      </hedline>
+      <byline class="print_byline">By ANDREW E. KRAMER</byline>
+      <byline class="normalized_byline">Kramer, Andrew E</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>President Vladimir V. Putin of Russia could be considered something of a C.E.O. His company? Kremlin Inc., overseer of a vast network of oil and banking concerns. As more of Russia's economy falls under state control, meetings in the Kremlin are becoming an important part of any deal maker's playbook; many analysts say the big deals cannot get done without such gatherings.</p>
+        <p>So it should come as no surprise that the chief executive of Goldman Sachs, Lloyd C. Blankfein, has written a letter to Mr. Putin asking for a meeting. The Kremlin's Web site announced the request last week. It was a Goldman analyst who first formulated the idea that the fast-growing so-called B.R.I.C. economies -- Brazil, Russia, India and China -- would inevitably outpace today's largest economies.</p>
+      </block>
+      <block class="full_text">
+        <p>President Vladimir V. Putin of Russia could be considered something of a C.E.O. His company? Kremlin Inc., overseer of a vast network of oil and banking concerns. As more of Russia's economy falls under state control, meetings in the Kremlin are becoming an important part of any deal maker's playbook; many analysts say the big deals cannot get done without such gatherings.</p>
+        <p>So it should come as no surprise that the chief executive of Goldman Sachs, Lloyd C. Blankfein, has written a letter to Mr. Putin asking for a meeting. The Kremlin's Web site announced the request last week. It was a Goldman analyst who first formulated the idea that the fast-growing so-called B.R.I.C. economies -- Brazil, Russia, India and China -- would inevitably outpace today's largest economies.</p>
+        <p>That implies plenty of investment banking opportunities. Just last month, Goldman joined a consortium of banks that agreed to lend $22 billion to Rosneft, the state oil company.</p>
+        <p>Meeting with executives gives Mr. Putin an opportunity to display his strengths, notably a razor-sharp attention to detail, said Andrew B. Somers, president of the American Chamber of Commerce in Russia, who has orchestrated some of the meetings.</p>
+        <p>''That leaves a positive impression of Russia'' with the executives, Mr. Somers said.</p>
+        <p>(Goldman suffered a setback on Friday when a fire in a Moscow high-rise destroyed part of its office; no one was hurt.)</p>
+        <p>ANDREW E. KRAMER</p>
+        <p>OPENERS: SUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

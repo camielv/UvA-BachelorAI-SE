@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>In France, a Toaster-Size Computer With Web Access</title>
+    <meta content="02neuf" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837526"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/France</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Sales and Business Development</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/France</classifier>
+        <classifier class="online_producer" type="general_descriptor">Consumer Behavior</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070402T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0DE6D81E30F931A35757C0A9619C8B63" item-length="906" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>In France, a Toaster-Size Computer With Web Access</hl1>
+      </hedline>
+      <byline class="print_byline">By THOMAS CRAMPTON</byline>
+      <byline class="normalized_byline">Crampton, Thomas</byline>
+      <dateline>PARIS, April 1</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Minitel, a French government-sponsored minicomputer that was wired into 14 million homes at its peak in the mid-1990s, had a limited service offering, a black-and-white screen and slow connection speeds that doomed it to near-extinction in the face of the Internet.</p>
+        <p>Now, a French Internet service provider, Neuf Cegetel, has taken inspiration from the Minitel to develop a computer based on a similar low-cost model, aimed at people who are unable or unwilling to buy a computer. In a gesture to high-technology enthusiasts, however, the system uses the open-source software beloved by many engineers and programmers.</p>
+      </block>
+      <block class="full_text">
+        <p>The Minitel, a French government-sponsored minicomputer that was wired into 14 million homes at its peak in the mid-1990s, had a limited service offering, a black-and-white screen and slow connection speeds that doomed it to near-extinction in the face of the Internet.</p>
+        <p>Now, a French Internet service provider, Neuf Cegetel, has taken inspiration from the Minitel to develop a computer based on a similar low-cost model, aimed at people who are unable or unwilling to buy a computer. In a gesture to high-technology enthusiasts, however, the system uses the open-source software beloved by many engineers and programmers.</p>
+        <p>''We wanted to create something as simple and cheap as the Minitel to reach technophobes and people without much money,'' said Frédéric Charrier, manager of the Easy Neuf project, which started its first national advertising campaign last week. ''For a slightly higher subscription, customers get a simplified computer with all services they might need.''</p>
+        <p>For 39.90 euros ($53.30), a 10-euro premium over the price of a broadband subscription, customers get a white computer roughly the size and shape of a toaster. An additional one-time payment of 29 euros ($38.75) buys a keyboard, mouse and webcam; for 99 euros more (about $132), the customer gets a 14-inch color monitor.</p>
+        <p>French Internet service providers have compelling reasons to push people to buy computers, said Ian Fogg, a senior analyst specializing in broadband at the research firm Jupiter in London.</p>
+        <p>Household ownership of computers in France, which stands at 61 percent according to Jupiter, is lower than the European average of 64 percent and significantly below countries like Denmark and Sweden, where more than 80 percent of homes have computers.</p>
+        <p>At the same time, rapid deregulation has made France one of the most competitive markets in Europe for Internet providers.</p>
+        <p>''People talk about the Nordic markets, but Europe's most dynamic Internet markets are the Netherlands and France,'' Mr. Fogg said. In France, three major private companies are competing to lay fiber cable to homes. ''France is leading Europe toward the mass-market use of fiber-based broadband, he said.''</p>
+        <p>Faced with financing this costly infrastructure investment, those laying fiber to the home -- Neuf, Free and Orange -- have to maximize the number of customers using those lines.</p>
+        <p>''If one-third of the people in a building do not own a computer and see no reason to get broadband, it becomes a serious financial issue,'' Mr. Fogg said. ''Some Internet companies have offered incentives for people to buy computers, but Neuf has taken it to the ultimate level in offering the computer themselves.''</p>
+        <p>To Neuf, the issue came down to the difficulty that first-time computer users experience in dealing with Windows.</p>
+        <p>''Nearly 80 percent of all current customer calls relate to problems with Microsoft Windows,'' Mr. Charrier said. ''We decided it was easier to build our own platform to limit potential problems.''</p>
+        <p>To make their service work, he added, a help line is provided that, unlike most service numbers in France, is free.</p>
+        <p>''Our promise of customer service forced us to conceive everything from the consumer perspective in order to reduce calls,'' Mr. Charrier said. ''This starts with the instruction book containing many photos, goes as far as the simplified computer interface and goes down to a redesign of the keyboard.''</p>
+        <p>The keyboard uses color codes to indicate the characters that appear by pressing ''shift'' or ''alt'' and has separate keys for the @ and euro symbols. Customers can ask that the computer itself be inspected and operated remotely by Neuf technicians to resolve problems. The computer will notify Neuf of problems like overheating, which the customer may not detect.</p>
+        <p>For the operating system, the computer uses a version of the Linux with a graphic overlay designed by Neuf.</p>
+        <p>''The choice of open source was both for price and motivation,'' Mr. Charrier said. ''We pay no licensing fee for the software, and engineers feel motivated to work on a new kind of project that helps the open-source community.''</p>
+        <p>The choice has been hailed by an advocacy group for free and open-source software, April. ''This is the first time that a company offers open-source software in a mass consumption product that has a help desk to assist customers,'' said Benjamin Drieu, treasurer of April, who also works for a company involved in the Neuf project. ''Normally, only programmers have the confidence to use open source, so this could change the perception of free software.''</p>
+        <p>The suite of open-source software on the Easy Neuf includes the Firefox browser, Abiword word processor and the Gnumeric spreadsheet. The built-in memory is a fairly limited 512-kilobyte flash disk, but the device is compatible with external hard drives and a range of peripherals, like printers, Internet phone headsets and digital cameras. As new peripherals become popular, the necessary software can be downloaded onto the Neuf computers during regular software updates.</p>
+        <p>The operating system uses icons along the bottom of the screen, and has several versions depending on the needs of the user. At the simplest level, the computer offers menus based on a theme. The screen button ''search,'' for example, has a submenu offering a telephone (which links to a yellow pages Web site), an encyclopedia (which links to Wikipedia) and another that links to search engines.</p>
+        <p>''We have found that many people like to have the Internet edited back to what they find essential,'' Mr. Charrier said. ''The customer we are aiming for prefers a limited and stable offering.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

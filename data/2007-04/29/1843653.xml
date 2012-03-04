@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Getting to Know Her</title>
+    <meta content="29alsmail-4" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Movies; Arts; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1843653"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="BARBARA STANWYCK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <person class="indexing_service">Sugarman, Eddie</person>
+        <person class="indexing_service">Stanwyck, Barbara (1907-90)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/News and Features</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9407E6DB153EF93AA15757C0A9619C8B63" item-length="123" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Getting to Know Her</hl1>
+      </hedline>
+      <abstract>
+        <p>Eddie Sugarman letter about April 22 article about Barbara Stanwyck says moral ambiguity of her characters makes it worth spending time to get to know them (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In ''The Infinite Variety of the Lady Stanwyck'' [April 22], Terrence Rafferty writes that Barbara Stanwyck excelled at playing ''a woman men just can't seem to get a fix on.'' Andrew Gerle and I spent the last five years trying to get a fix on Ann Mitchell, her reporter in ''Meet John Doe.'' Ann ruins lives, but Stanwyck somehow keeps you on her side. In adapting the film for a stage musical, we agonized over Ann's likability until we realized it's the moral ambiguity that makes Stanwyck's characters worth spending several hours, or five years, getting to know.</p>
+        <p>Eddie Sugarman  Western Springs, Ill.</p>
+        <p>The writer is the lyricist and a book writer of ''Meet John Doe.''</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In ''The Infinite Variety of the Lady Stanwyck'' [April 22], Terrence Rafferty writes that Barbara Stanwyck excelled at playing ''a woman men just can't seem to get a fix on.'' Andrew Gerle and I spent the last five years trying to get a fix on Ann Mitchell, her reporter in ''Meet John Doe.'' Ann ruins lives, but Stanwyck somehow keeps you on her side. In adapting the film for a stage musical, we agonized over Ann's likability until we realized it's the moral ambiguity that makes Stanwyck's characters worth spending several hours, or five years, getting to know.</p>
+        <p>Eddie Sugarman  Western Springs, Ill.</p>
+        <p>The writer is the lyricist and a book writer of ''Meet John Doe.''</p>
+        <p>BARBARA STANWYCK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

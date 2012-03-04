@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   HARBEN, GEORGE ALLEN</title>
+    <meta content="dn041907.1" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1841266"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">HARBEN, GEORGE ALLEN</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070419T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E0D81F3AF93AA25757C0A9619C8B63" item-length="109" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   HARBEN, GEORGE ALLEN</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>HARBEN--George Allen, 83, passed away peacefully at his home on April 17, 2007, following a long illness. He is survived by Marilynn LeVine, his wife of 43 years; sons Joshua, Jeb and Zeph; grandsons Leo and Aidan; a brother William Nathanial Harben and a sister, Judith Harben Alger. A graduate of Princeton University and a Marine Corps Veteran of World War II, he was an economist by trade and a painter, writer, philosopher and tennis player by avocation. George was a truly original man, and his absence will diminish all of our lives. Services, Friday, April 20th, 2pm at Riverside Memorial Chapel, 76th St. and Amsterdam Ave, Manhattan.</p>
+      </block>
+      <block class="full_text">
+        <p>HARBEN--George Allen, 83, passed away peacefully at his home on April 17, 2007, following a long illness. He is survived by Marilynn LeVine, his wife of 43 years; sons Joshua, Jeb and Zeph; grandsons Leo and Aidan; a brother William Nathanial Harben and a sister, Judith Harben Alger. A graduate of Princeton University and a Marine Corps Veteran of World War II, he was an economist by trade and a painter, writer, philosopher and tennis player by avocation. George was a truly original man, and his absence will diminish all of our lives. Services, Friday, April 20th, 2pm at Riverside Memorial Chapel, 76th St. and Amsterdam Ave, Manhattan.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

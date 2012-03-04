@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Manhattan: School Warns Of Information Release</title>
+    <meta content="20mbrfs-3" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Education; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1841697"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="indexing_service" type="descriptor">Identity Fraud</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Security</classifier>
+        <classifier class="indexing_service" type="descriptor">Social Security (US)</classifier>
+        <org class="indexing_service">Columbia University</org>
+        <person class="indexing_service">Arenson, Karen W</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Social Security (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Identity Fraud</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070420T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E4DF163EF933A15757C0A9619C8B63" item-length="110" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Manhattan: School Warns Of Information Release</hl1>
+      </hedline>
+      <byline class="print_byline">By KAREN W. ARENSON; Compiled by John Sullivan</byline>
+      <byline class="normalized_byline">Arenson, Karen W</byline>
+      <abstract>
+        <p>Columbia University notifies more than 300 students and 2,000 alumni that their names and Social Security numbers were inadvertently placed on Columbia Web server, which was not fully protected; university spokesman says information was removed after student came across it and notified officials (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Columbia University notified more than 300 students and 2,000 alumni this week that their names and Social Security numbers had been ''inadvertently placed'' on a Columbia Web server that was not fully protected. Robert Hornsby, a university spokesman, said the information was removed quickly after a student came across it on a Columbia housing lottery Web site and notified university officials. Mr. Hornsby said that Columbia had been excising unneeded Social Security numbers from its files in recent years, and that although exposure to the information had been limited, subscriptions to a credit-monitoring system for those affected has been arranged.</p>
+        <p>KAREN W. ARENSON</p>
+      </block>
+      <block class="full_text">
+        <p>Columbia University notified more than 300 students and 2,000 alumni this week that their names and Social Security numbers had been ''inadvertently placed'' on a Columbia Web server that was not fully protected. Robert Hornsby, a university spokesman, said the information was removed quickly after a student came across it on a Columbia housing lottery Web site and notified university officials. Mr. Hornsby said that Columbia had been excising unneeded Social Security numbers from its files in recent years, and that although exposure to the information had been limited, subscriptions to a credit-monitoring system for those affected has been arranged.</p>
+        <p>KAREN W. ARENSON</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Halberstam's Legacy</title>
+    <meta content="l28halberstam" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1843378"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Deaths (Obituaries)</classifier>
+        <person class="indexing_service">Halberstam, David</person>
+        <person class="indexing_service">Rose, Michael</person>
+        <person class="indexing_service">Filkins, Dexter</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deaths (Obituaries)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070428T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05E1D9123EF93BA15757C0A9619C8B63" item-length="214" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Halberstam's Legacy</hl1>
+      </hedline>
+      <abstract>
+        <p>Michael Rose letter responds to April 25 appraisal of David Halberstam by Dexter Filkins; holds that Halberstam will be missed, but it is heartening to know that his legacy, 'the need to tell the truth,' lives on</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''A Skeptical Vietnam Voice Still Echoes in the Fog of Iraq,'' by Dexter Filkins (An Appraisal, April 25):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''A Skeptical Vietnam Voice Still Echoes in the Fog of Iraq,'' by Dexter Filkins (An Appraisal, April 25):</p>
+        <p>Mr. Filkins was right to thank David Halberstam for helping us to have a clearer picture of the Iraq war. It was through the courageous reporting of Mr. Halberstam and his colleagues -- many of whom later became reporters for The New York Times -- that this country learned the truth about the Vietnam War.</p>
+        <p>His example has clearly inspired Mr. Filkins and others to search for the truth about the conflict in Iraq. While laudable, this is never a popular stance to take with governments that promote war, or an easy choice to make for someone who loves his country.</p>
+        <p>As Mr. Halberstam pointed out in 1983 in an interview with me regarding a proposed program about the history of the war correspondent: ''We became caught between the traditional definitions of loyalty, patriotism, salute the flag and a higher definition, it seemed to me, of democracy, the need to tell the truth.''</p>
+        <p>David Halberstam will be missed, but it's heartening to know that his legacy, ''the need to tell the truth,'' lives on.</p>
+        <p>Michael Rose  Marina del Rey, Calif.  April 25, 2007</p>
+        <p>The writer is an independent documentary film maker.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

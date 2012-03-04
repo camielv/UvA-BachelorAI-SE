@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Brooklyn: Housing Nspector Finds Body</title>
+    <meta content="21mbrfs-2" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/21/nyregion/21mbrfs-found.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1841857"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="New York"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+        <location class="online_producer">Brooklyn (NYC)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070421T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9400E7D8163EF932A15757C0A9619C8B63" item-length="87" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Brooklyn: Housing Nspector Finds Body</hl1>
+        <hl2 class="online_headline">Brooklyn: Housing Inspector Finds Body</hl2>
+      </hedline>
+      <byline class="print_byline">By ANAHAD O'CONNOR; Compiled by Karin Roberts</byline>
+      <byline class="normalized_byline">O'Connor, Anahad</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A building inspector found a man's body yesterday in the basement of 542 Bainbridge Street in Ocean Hill, the police said. The victim, identified as Donell Johnson, 22, a tenant of the apartment building, was found face down with a gunshot wound to his head, the police said. Investigators he said that Mr. Johnson was probably murdered because no weapon was found near his body. It was unclear last night how long the body had been in the basement.</p>
+        <p>ANAHAD O'CONNOR</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A building inspector found a man’s body yesterday in the basement of 542 Bainbridge Street in Ocean Hill, the police said. The victim, identified as Donell Johnson, 22, a tenant of the apartment building, was found face down with a gunshot wound to his head, the police said. Investigators he said that Mr. Johnson was probably murdered because no weapon was found near his body. It was unclear last night how long the body had been in the basement.</p>
+      </block>
+      <block class="full_text">
+        <p>A building inspector found a man's body yesterday in the basement of 542 Bainbridge Street in Ocean Hill, the police said. The victim, identified as Donell Johnson, 22, a tenant of the apartment building, was found face down with a gunshot wound to his head, the police said. Investigators he said that Mr. Johnson was probably murdered because no weapon was found near his body. It was unclear last night how long the body had been in the basement.</p>
+        <p>ANAHAD O'CONNOR</p>
+        <p>New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

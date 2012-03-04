@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>LOOKING AHEAD</title>
+    <meta content="30ahead" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1844001"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070430T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F05E5DC133EF933A05757C0A9619C8B63" item-length="180" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>LOOKING AHEAD</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>QUARTERLY REPORTS -- Earnings season continues, led by Verizon (Monday), Time Warner (Wednesday) and General Motors and CBS (Thursday).</p>
+        <p>Other reports will come from Humana, Kellogg, Loews, RadioShack and Tyson Foods (Monday); Archer Daniels Midland, Avon Products, Chiquita Brands, DreamWorks Animation, MetLife, Procter &amp; Gamble, Qwest Communications, Sirius Satellite Radio and Yum Brands (Tuesday); Biogen Idec, Blockbuster, Credit Suisse, JDS Uniphase, Jones Apparel, MasterCard and Sprint Nextel (Wednesday); Cablevision, Electronic Data Systems, IAC/InterAc-tiveCorp, International Paper, Royal Dutch/Shell, Sanofi-Aventis, Starbucks, UBS and Unilever (Thursday); and Eastman Kodak, Hyundai Motor, Total and Weyerhaeuser (Friday).</p>
+        <p>ECONOMIC MARKERS -- The main economic news will be the unemployment report for April (Friday). Other reports will include personal income and spending for March, the Chicago purchasing managers' index for April and construction spending for March (Monday); the Institute for Supply Management's manufacturing index for April (Tuesday); factory orders for March (Wednesday); and first-quarter productivity, the Institute for Supply Management's service index and weekly jobless claims (Thursday).</p>
+        <p>ET CETERA -- Automakers will report April sales (Tuesday). The trial of Conrad Black continues in Chicago.</p>
+      </block>
+      <block class="full_text">
+        <p>QUARTERLY REPORTS -- Earnings season continues, led by Verizon (Monday), Time Warner (Wednesday) and General Motors and CBS (Thursday).</p>
+        <p>Other reports will come from Humana, Kellogg, Loews, RadioShack and Tyson Foods (Monday); Archer Daniels Midland, Avon Products, Chiquita Brands, DreamWorks Animation, MetLife, Procter &amp; Gamble, Qwest Communications, Sirius Satellite Radio and Yum Brands (Tuesday); Biogen Idec, Blockbuster, Credit Suisse, JDS Uniphase, Jones Apparel, MasterCard and Sprint Nextel (Wednesday); Cablevision, Electronic Data Systems, IAC/InterAc-tiveCorp, International Paper, Royal Dutch/Shell, Sanofi-Aventis, Starbucks, UBS and Unilever (Thursday); and Eastman Kodak, Hyundai Motor, Total and Weyerhaeuser (Friday).</p>
+        <p>ECONOMIC MARKERS -- The main economic news will be the unemployment report for April (Friday). Other reports will include personal income and spending for March, the Chicago purchasing managers' index for April and construction spending for March (Monday); the Institute for Supply Management's manufacturing index for April (Tuesday); factory orders for March (Wednesday); and first-quarter productivity, the Institute for Supply Management's service index and weekly jobless claims (Thursday).</p>
+        <p>ET CETERA -- Automakers will report April sales (Tuesday). The trial of Conrad Black continues in Chicago.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

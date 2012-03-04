@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Critic's Choice: New CDs</title>
+    <meta content="30choi-2" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1844097"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070430T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B07E3DA133EF933A05757C0A9619C8B63" item-length="264" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Critic's Choice: New CDs</hl1>
+      </hedline>
+      <byline class="print_byline">By KELEFA SANNE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Tori Amos  American Doll Posse (Epic)</p>
+        <p>Tori Amos recently announced that her new album was ''an opportunity to reclaim the segmented pieces of the female psyche'' -- and, she added, to ''reunite them.'' Is that all? To this end, Ms. Amos has created five personae -- Isabel, Clyde, Pip, Santa and, confusingly, Tori -- to sing the 23 songs on ''American Doll Posse.'' Before you ask: yes, each persona does maintain a personal Web site.</p>
+      </block>
+      <block class="full_text">
+        <p>Tori Amos  American Doll Posse (Epic)</p>
+        <p>Tori Amos recently announced that her new album was ''an opportunity to reclaim the segmented pieces of the female psyche'' -- and, she added, to ''reunite them.'' Is that all? To this end, Ms. Amos has created five personae -- Isabel, Clyde, Pip, Santa and, confusingly, Tori -- to sing the 23 songs on ''American Doll Posse.'' Before you ask: yes, each persona does maintain a personal Web site.</p>
+        <p>By this point in her extraordinary career, 15 years removed from her blockbuster solo debut, ''Little Earthquakes,'' Ms. Amos has weeded out most of the casual listeners from her fan base; the tourists are gone and the Torists remain. But ''American Doll Posse'' isn't quite the fans-only project it might first seem to be. Although the album's conceit might seem heavy-handed, Ms. Amos treats the whole thing like a game: this is her most entertaining album in years, precisely because she keeps switching among characters and styles.</p>
+        <p>Not that everything works. The first song, ''Yo George,'' is a shopworn political lament. (She murmurs, ''Where have we gone wrong America?/Mr. Lincoln we can't seem/to find you anywhere.'') But it's over in little more than a minute (one upside to cramming 23 tracks onto a CD), replaced by a jagged and mischievous Southern-rock song, ''Big Wheel.'' This album is full of pleasant surprises: the R.E.M. flourish that opens ''Secret Spell''; the sleek bass line in ''Bouncing Off Clouds''; the 90-second orchestral daydream that is ''Programmable Soda.'' A message to lapsed Tori Amos fans: come back. You won't be bored.</p>
+        <p>KELEFA SANNE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

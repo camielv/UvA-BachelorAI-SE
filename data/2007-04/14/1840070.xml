@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Questions to Ponder Before Undergoing Surgery</title>
+    <meta content="14hipquest" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Health; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/14/business/14hipquest.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840070"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Hip Resurfacing"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Hips</classifier>
+        <classifier class="indexing_service" type="descriptor">Surgery and Surgeons</classifier>
+        <classifier class="indexing_service" type="descriptor">Implants</classifier>
+        <person class="indexing_service">Feder, Barnaby J</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Doctors</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Surgery and Surgeons</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Implants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Surgery and Surgeons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Anatomy and Physiology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070414T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E06E6DF103FF937A25757C0A9619C8B63" item-length="295" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Questions to Ponder Before Undergoing Surgery</hl1>
+        <hl2 class="online_headline">Questions to Ponder Before Undergoing Surgery</hl2>
+      </hedline>
+      <byline class="print_byline">By BARNABY J. FEDER</byline>
+      <byline class="normalized_byline">Feder, Barnaby J</byline>
+      <abstract>
+        <p>Questions for people with hip problems to consider in assessing whether they might be candidates for hip resurfacing surgery; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Here are some questions for people with hip problems to consider in assessing whether they might be candidates for hip resurfacing surgery:</p>
+        <p>Is there some combination of drugs and lifestyle changes that would allow a delay of hip surgery?</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Some questions for people with hip problems to consider in assessing whether they might be candidates for hip resurfacing surgery.</p>
+      </block>
+      <block class="full_text">
+        <p>Here are some questions for people with hip problems to consider in assessing whether they might be candidates for hip resurfacing surgery:</p>
+        <p>Is there some combination of drugs and lifestyle changes that would allow a delay of hip surgery?</p>
+        <p>Some patients, for example, can gain enough relief to put off surgery by occasionally using a cane and taking anti-inflammatory drugs.</p>
+        <p>What aspects of the patient's physical condition and lifestyle make for a less-than-ideal candidate for resurfacing?</p>
+        <p>Weight and conditions like diabetes and osteoporosis are factors.</p>
+        <p>If an insurer does not routinely cover resurfacing for a patient, what is the likelihood it would do so on appeal and what kind of support would the orthopedist provide?</p>
+        <p>Your doctor should be able to provide information on how other patients have gained coverage. Insurance companies may also provide information, if someone there is familiar with the procedure.</p>
+        <p>Could another resurfacing system be better than the Birmingham? If so, is it possible to participate in a clinical trial?</p>
+        <p>A patient Web site, http://www.activejoints.com/resurfacing.html, provides updates on clinical trials and links to participating surgeons.</p>
+        <p>What kind of postsurgical support is required -- and how much does it cost?</p>
+        <p>Costs vary widely depending on where the procedure is done, and may not be covered by insurance even if the surgery is. But all patients require physical therapy, in addition to exercise routines.</p>
+        <p>What experience has the surgeon had  with resurfacing?</p>
+        <p>Smith &amp; Nephew provides a list of doctors trained to implant the Birmingham hip at: www.birminghamhipresurfacing.com/surgeonlocator. There is no independent source of information on the doctors' level of experience, although discussion boards at sites like Surfacehippy on Yahoo.com provide feedback on some of the best-known surgeons in the United States and overseas who perform the procedure.</p>
+        <p>BARNABY J. FEDER</p>
+        <p>Hip Resurfacing</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

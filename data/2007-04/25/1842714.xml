@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   WILLIAMS, THOMAS H., JR.</title>
+    <meta content="dn042507.1" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="25" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1842714"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">WILLIAMS, THOMAS H., JR.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070425T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9802E4DE163AF936A15757C0A9619C8B63" item-length="42" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   WILLIAMS, THOMAS H., JR.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WILLIAMS--Thomas H., Jr., after a brief illness on April 23rd. He is survived by his loving sister Claudia and cherished niece Barbara. Visiting Friday, 2-4 and 7-9, at John J. Fox Funeral Home, Larchmont, NY. Service Saturday, 11:00am, at Funeral Home.</p>
+      </block>
+      <block class="full_text">
+        <p>WILLIAMS--Thomas H., Jr., after a brief illness on April 23rd. He is survived by his loving sister Claudia and cherished niece Barbara. Visiting Friday, 2-4 and 7-9, at John J. Fox Funeral Home, Larchmont, NY. Service Saturday, 11:00am, at Funeral Home.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

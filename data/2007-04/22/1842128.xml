@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Swamp Thing? No, Salon Thing</title>
+    <meta content="22dryer" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1842128"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="PULSE"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hair</classifier>
+        <classifier class="online_producer" type="general_descriptor">Home Appliances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D01E2DF163EF931A15757C0A9619C8B63" item-length="130" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Swamp Thing? No, Salon Thing</hl1>
+      </hedline>
+      <byline class="print_byline">By SUSAN GUERRERO</byline>
+      <byline class="normalized_byline">Guerrero, Susan</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>There you are, curly head, admiring your new do in the mirror at one of Manhattan's curlcentric Devachan salons, when what should come up behind you but  the Claw? Looking like something out of a horror movie, the thing is actually called the DevaSun Dryer DevaFuser ($185 at Devachansalon.com). Lorraine Massey, an owner of the SoHo salons, says the hand-held device is designed to dry hair from the inside out. Place it among your tresses; its gentle heat won't roast your ringlets the way conventional dryers do. (''You can cook a turkey with most dryers,'' she said. ''No wonder you see fried hair all over the place.'') The dryer also quells frizz, a word Ms. Massey disdains as follicly incorrect: Call it a halo, please.</p>
+        <p>SUSAN GUERRERO</p>
+      </block>
+      <block class="full_text">
+        <p>There you are, curly head, admiring your new do in the mirror at one of Manhattan's curlcentric Devachan salons, when what should come up behind you but  the Claw? Looking like something out of a horror movie, the thing is actually called the DevaSun Dryer DevaFuser ($185 at Devachansalon.com). Lorraine Massey, an owner of the SoHo salons, says the hand-held device is designed to dry hair from the inside out. Place it among your tresses; its gentle heat won't roast your ringlets the way conventional dryers do. (''You can cook a turkey with most dryers,'' she said. ''No wonder you see fried hair all over the place.'') The dryer also quells frizz, a word Ms. Massey disdains as follicly incorrect: Call it a halo, please.</p>
+        <p>SUSAN GUERRERO  PULSE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Smarter Lights, Minus the Blues</title>
+    <meta content="22TECH" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Automobiles" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="12" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Automobiles" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/22/automobiles/22TECH.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842095"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="descriptor">Lighting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Lighting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <org class="online_producer">Lexus Division of Toyota Motor Sales USA</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE6DA1F3FF931A15757C0A9619C8B63" item-length="279" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Smarter Lights, Minus the Blues</hl1>
+        <hl2 class="online_headline">Smarter Lights, Minus the Blues</hl2>
+      </hedline>
+      <byline class="print_byline">By IAN AUSTEN</byline>
+      <byline class="normalized_byline">Austen, Ian</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE steely blue beam of high intensity discharge headlights was once a way for luxury carmakers to distinguish their products after dark. But with the H.I.D. lights increasingly popular on midprice cars, luxury-level marketers need a new novelty.</p>
+        <p>The 2008 Lexus LS 600h L will pioneer one new direction as the first production automobile to use light-emitting diodes, or L.E.D.'s, as headlamps. It will rely on L.E.D.'s only for its low beams and daytime running lights. H.I.D. lamps will do the heavy lifting on high beam, partly because they work better with the sensors in the car's collision-avoidance system.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The 2008 Lexus LS 600h L will pioneer a new direction as the first production automobile to use light-emitting diodes, or L.E.D.’s, as headlamps.</p>
+      </block>
+      <block class="full_text">
+        <p>THE steely blue beam of high intensity discharge headlights was once a way for luxury carmakers to distinguish their products after dark. But with the H.I.D. lights increasingly popular on midprice cars, luxury-level marketers need a new novelty.</p>
+        <p>The 2008 Lexus LS 600h L will pioneer one new direction as the first production automobile to use light-emitting diodes, or L.E.D.'s, as headlamps. It will rely on L.E.D.'s only for its low beams and daytime running lights. H.I.D. lamps will do the heavy lifting on high beam, partly because they work better with the sensors in the car's collision-avoidance system.</p>
+        <p>As cars gradually abandon the descendants of Thomas Edison's incandescent bulb and switch to L.E.D.'s, developing headlights that automatically adjust to driving conditions may become simpler.</p>
+        <p>''Headlights could adapt to speed, steering wheel input,'' said Fred Peterson, engineering director for Osram Sylvania, which produces lamps for automakers. ''All the information you have the vehicle collecting could be fed into L.E.D.'s.''</p>
+        <p>Mr. Peterson said that an L.E.D. headlight could use an array of about 25 high-powered diodes. In the same way that diodes can be switched on and off to create images on stadium scoreboards, the diodes in a headlight array could be dimmed, brightened or switched off to alter the beam pattern for driving at high speeds on dark highways, to accommodate snow, rain and fog, and for turning corners.</p>
+        <p>A few issues must be resolved before that happens. Mr. Peterson said that current high-powered L.E.D.'s drew more electricity and produced more heat than conventional lamps. L.E.D. headlight designers will have to rely on materials for lenses and reflectors that will not melt once darkness comes.</p>
+        <p>IAN AUSTEN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

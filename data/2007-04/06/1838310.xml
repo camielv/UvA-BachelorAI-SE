@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Valuing Older Teachers</title>
+    <meta content="l06teacher" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838310"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Teachers and School Employees</classifier>
+        <classifier class="online_producer" type="general_descriptor">Age, Chronological</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070406T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01EFDE173FF935A35757C0A9619C8B63" item-length="175" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Valuing Older Teachers</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Thank you for your touching and important story about Arnold Blume (''Why Listen to the Substitute? At 81, He Tells History Firsthand,'' front page, April 4).</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Thank you for your touching and important story about Arnold Blume (''Why Listen to the Substitute? At 81, He Tells History Firsthand,'' front page, April 4).</p>
+        <p>With grandchildren today often not living near their grandparents, an important influence on youth is being lost. Older teachers help fill that gap.</p>
+        <p>My mother taught elementary school for 30 years and retired at 65 to care for her mother, who had a stroke. After her mother died, she went back to school to volunteer two hours each morning and has continued to do so for the last 13 years.</p>
+        <p>She will turn 80 this summer. The children love her.</p>
+        <p>As a social work intern at a local senior center, I know many people in their 80s and 90s. I learn from their stories and from their way of being. Sure, they have their flaws like everyone, but I will miss the honesty, openness and goodness of this generation when they are no longer with us.</p>
+        <p>Mary Moore  Delray Beach, Fla., April 4, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

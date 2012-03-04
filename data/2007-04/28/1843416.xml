@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; Glass House</title>
+    <meta content="28arts-2" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1843416"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Connecticut</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./New England</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Architecture</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Engineering and Architecture</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Connecticut</classifier>
+        <classifier class="online_producer" type="general_descriptor">Architecture</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070428T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D06EFD8123EF93BA15757C0A9619C8B63" item-length="161" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; Glass House</hl1>
+      </hedline>
+      <byline class="print_byline">By ROBIN POGREBIN; Compiled by Peter Edidin</byline>
+      <byline class="normalized_byline">Pogrebin, Robin</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Philip Johnson's Glass House in New Canaan, Conn., will open to the public for the first time on Monday. The architect, who died in 2005, donated the house and its 47-acre property to the National Trust for Historic Preservation, which is starting a study center on the estate. The 1949 house, above, a single room 56 feet by 32 feet, is among the symbols of Modernist architecture, and Mr. Johnson, who died there at 98, had wanted the estate to become a museum. Three other structures on the site, also designed by Mr. Johnson, will be open as well. Two contain art that he collected with his partner, David Whitney, who also died in 2005. Tours, at $25 for 90 minutes and $40 for two hours, are limited to 10 people and require reservations; the official opening is June 23. The house will be closed from November to April each year. Reservations: philipjohnsonglasshouse.org</p>
+        <p>ROBIN POGREBIN</p>
+      </block>
+      <block class="full_text">
+        <p>Philip Johnson's Glass House in New Canaan, Conn., will open to the public for the first time on Monday. The architect, who died in 2005, donated the house and its 47-acre property to the National Trust for Historic Preservation, which is starting a study center on the estate. The 1949 house, above, a single room 56 feet by 32 feet, is among the symbols of Modernist architecture, and Mr. Johnson, who died there at 98, had wanted the estate to become a museum. Three other structures on the site, also designed by Mr. Johnson, will be open as well. Two contain art that he collected with his partner, David Whitney, who also died in 2005. Tours, at $25 for 90 minutes and $40 for two hours, are limited to 10 people and require reservations; the official opening is June 23. The house will be closed from November to April each year. Reservations: philipjohnsonglasshouse.org</p>
+        <p>ROBIN POGREBIN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

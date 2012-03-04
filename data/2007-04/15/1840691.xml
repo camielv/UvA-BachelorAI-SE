@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Stopping Short on Merit</title>
+    <meta content="15inbox-4" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1840691"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E2D8103FF936A25757C0A9619C8B63" item-length="111" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Stopping Short on Merit</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Sports Editor:</p>
+        <p>The reason Alex Rodriguez's Yankees tenure is so emotionally tortured is never spoken. When he became a Yankee, Derek Jeter should have volunteered to move to center field. Everyone knew Rodriguez was the superior shortstop.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Sports Editor:</p>
+        <p>The reason Alex Rodriguez's Yankees tenure is so emotionally tortured is never spoken. When he became a Yankee, Derek Jeter should have volunteered to move to center field. Everyone knew Rodriguez was the superior shortstop.</p>
+        <p>If Jeter would not have made the move, then it was Manager Joe Torre's job to insist upon it. The subtle message sent to all Yankees was that positions were no longer being given on the basis of merit. This must play on Rodriguez's mind, as it does in an office or on an assembly line when people know that their skills are not being recognized.</p>
+        <p>Darrell Berger  Millburn, N.J.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

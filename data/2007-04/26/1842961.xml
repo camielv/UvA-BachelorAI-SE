@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Q &amp; A</title>
+    <meta content="26askk" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/26/technology/26askk.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842961"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Q &amp; A"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Wireless Communications</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+        <org class="online_producer">Palm Inc</org>
+        <org class="online_producer">Microsoft Corp</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070426T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F00E6DE153EF935A15757C0A9619C8B63" item-length="691" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Q &amp; A</hl1>
+        <hl2 class="online_headline">Two Phones, One Calendar</hl2>
+      </hedline>
+      <byline class="print_byline">By J. D. BIERSDORFER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Two Phones, One Calendar</p>
+        <p>Q. Is there a way for two Treo 600 smartphones to synchronize with a single Microsoft Outlook profile? My wife and I would like to keep track of each other and our kids' lives in one calendar on our PC, and have it sync with each of our mobile phones.</p>
+        <p>A. Microsoft's Help and Support site says Outlook does not directly support synchronization with third-party hand-helds like those running the Palm operating system on the Treo 600. The company does offer a list of programs that can transfer Outlook data to these hand-helds at support.microsoft.com/kb/291640.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Is there a way for two Treo 600 smartphones to synchronize with a single Microsoft Outlook profile?</p>
+      </block>
+      <block class="full_text">
+        <p>Two Phones, One Calendar</p>
+        <p>Q. Is there a way for two Treo 600 smartphones to synchronize with a single Microsoft Outlook profile? My wife and I would like to keep track of each other and our kids' lives in one calendar on our PC, and have it sync with each of our mobile phones.</p>
+        <p>A. Microsoft's Help and Support site says Outlook does not directly support synchronization with third-party hand-helds like those running the Palm operating system on the Treo 600. The company does offer a list of programs that can transfer Outlook data to these hand-helds at support.microsoft.com/kb/291640.</p>
+        <p>Of the products listed, at least one -- Chapura's PocketMirror -- offers instructions for using two hand-helds with one Outlook profile on its Web site at tinyurl.com/2hldov. Palm's own Web site has a section devoted to synchronizing the company's various hand-helds with Microsoft Outlook at www.palm.com/us/support/outlooksupport.html.</p>
+        <p>Hand-helds running Windows Mobile software (www.microsoft.com/windowsmobile) generally have an easier time synchronizing data with Microsoft's desktop programs. Many new models include miniature versions of Office and Outlook, as well as its ActiveSync software to serve as a gateway between computer and hand-held.</p>
+        <p>PC Video On a Big Screen</p>
+        <p>Q. Does anyone make a device like the Apple TV that can wirelessly send MPEG and DivX movie files from a PC to a television set?</p>
+        <p>A. The $300 Apple TV device lets you stream movies and videos from a Mac or PC's iTunes library over a wireless network and play them on a widescreen television. But it's not the only piece of hardware out there that links your computer to your TV. Many networking hardware companies-- like D-Link and Netgear -- now offer their own ''network media players'' that stream digital content over an 802.11g wireless network.</p>
+        <p>When configured and connected to both the home network and the home entertainment center, network media players can also play audio files stored on a computer through the stereo. There may be some restrictions on playing copy-protected music and movie files, however. Many media players can also tap into a computer's photo library to present slide shows on the TV screen.</p>
+        <p>There are many wireless network media devices to choose from, often with online reviews telling how to set them up and use them. Prices range from around $100 to $400, depending on the features.</p>
+        <p>When shopping or searching around the Web, be sure to check each device's technical specifications to make sure it supports the formats you want to play. Buffalo Technology's LinkTheater DVD and Hauppauge's wireless MediaMVP media players are among those that list compatibility for both the MPEG and DivX video formats in their product specifications.</p>
+        <p>Free Protection For Vista</p>
+        <p>Q. The McAfee antivirus program that came with my new Vista computer has expired and asks for payment. I have replaced it with the free edition of AVG. I also have CounterSpy installed. Is this adequate for the Vista software?</p>
+        <p>A. Windows Vista, while proclaiming tighter security features than previous editions of Windows, does not include an antivirus program. But because viruses and similarly malicious software can still cause problems for Vista, the system may pester you with an occasional alert if you don't have antivirus software installed.</p>
+        <p>Uninstalling the free trial version of the antivirus software that shipped with your PC and using a different program should help stave off many virus infections -- as long as you keep the new program updated against the latest threats. Antispyware programs like CounterSpy also need to be updated regularly with small software downloads from the manufacturer to keep them fortified against new spyware. Most commercial security programs offer an automatic update feature in the program's settings.</p>
+        <p>The free edition of AVG Anti-Virus (available for home and noncommercial use at free.grisoft.com) offers basic protection against viruses and can be updated with the Check for Updates option in the AVG Free menu. Paid versions of the company's security software include more features, like technical support.</p>
+        <p>Avast is another company that has a free version of Vista-compatible antivirus software. More information on the software is at www.avast.com/eng/free--software.html.</p>
+        <p>J. D. BIERSDORFER</p>
+        <p>Q &amp; A</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

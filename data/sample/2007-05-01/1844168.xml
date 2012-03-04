@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Finding Whether Diabetes Lurks</title>
+    <meta content="01diabetes" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="PersonalHealth" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="H" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1844168"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Diabetes</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070501T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B04E2DB1F3FF932A35756C0A9619C8B63" item-length="685" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Finding Whether Diabetes Lurks</hl1>
+      </hedline>
+      <byline class="print_byline">By DENISE GRADY</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>MORE than six million Americans are walking around with no idea that they have an insidious disease with the potential to wreak havoc throughout the body.</p>
+        <p>The disease is diabetes, and it causes high blood sugar levels that can damage arteries and lead to heart disease, strokes, kidney failure, amputations and blindness. It is the sixth-leading cause of death in the United States.</p>
+      </block>
+      <block class="full_text">
+        <p>MORE than six million Americans are walking around with no idea that they have an insidious disease with the potential to wreak havoc throughout the body.</p>
+        <p>The disease is diabetes, and it causes high blood sugar levels that can damage arteries and lead to heart disease, strokes, kidney failure, amputations and blindness. It is the sixth-leading cause of death in the United States.</p>
+        <p>The idea of so many people -- roughly 30 percent of the 21 million Americans who have the disease -- going without treatment is disturbing because diabetes can do so much damage. But in its early stages, people often do not realize they are ill, because the symptoms -- if there are any -- may creep up gradually or be attributed to overwork or aging.</p>
+        <p>''Certain signs are important,'' said Dr. F. Xavier Pi-Sunyer, chief of endocrinology, diabetes and nutrition at St. Luke's-Roosevelt Hospital in Manhattan. ''If you have to get up a couple of times to urinate at night, and you didn't before, that's a suggestive sign. Also, vision blurring of any kind, suddenly beginning to lose a significant amount of weight without trying, frequent skin infections or vaginal infections. And this is nonspecific, but if you're getting headaches and feeling kind of fatigued.''</p>
+        <p>Any of those symptoms should prompt testing for diabetes, Dr. Pi-Sunyer said. So should certain risk factors, especially if there are more than one. Aging and obesity increase the odds that a person will develop Type 2, or adult-onset diabetes, the most common form. Weight is a particular risk factor, especially if it is mostly in the belly -- a waist over 40 inches in men or 35 inches in women. Blacks, Native Americans and Hispanics have a higher-than-average risk, as do people with a family history of the disease. Being sedentary may also increase the risk, though not all researchers agree about that.</p>
+        <p>People who appear healthy but have risk factors should be tested for diabetes every three years, Dr. Pi-Sunyer said.</p>
+        <p>The simplest means for earlier detection is a blood sugar test, measured after a person has fasted for at least eight hours. Readings above 126 milligrams of glucose per tenth of a liter of blood indicate diabetes; anything below 100 is considered normal. Intermediate levels reflect impaired glucose metabolism or ''pre-diabetes.'' People in this category need yearly testing, because up to 8 percent of them will become diabetic each year. About 54 million Americans are pre-diabetic.</p>
+        <p>Though many doctors in the United States like the fasting blood sugar test because it is quick and easy, some use another test, one that may pick up diabetes at an even earlier stage. This is a glucose tolerance test, in which the patient is given a fasting blood sugar test, drinks a glucose solution and then has another blood sugar test two hours later. People who test positive for Type 2 diabetes are generally advised to lose weight and exercise more, and some may also need drugs to help lower blood sugar. They will also usually be tested for conditions that often go along with Type 2 diabetes, like high blood pressure and high cholesterol and triglyceride levels.</p>
+        <p>A major study of people with impaired glucose metabolism found that among those who did moderate exercise, like walking for just 30 minutes a day, and who lost 5 to 10 percent of their body weight, there were 58 percent fewer new cases of diabetes than in a similar group of people who did not exercise or lose weight.</p>
+        <p>The study also found that a commonly used diabetes drug, metformin, could help lower the risk of the disease in pre-diabetics. But the drug did not work as well as weight loss and exercise, and it is approved only for diabetes, not for pre-diabetes.</p>
+        <p>In April a genetic test was introduced that can also identify people with an increased risk of developing Type 2 diabetes. The $500 test by DeCode Genetics cannot predict diabetes definitively, but it might motivate people with a high risk to exercise and lose weight. It can be ordered by doctors or from a company called DNA Direct.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

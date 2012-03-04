@@ -1,0 +1,27 @@
+SQL schema for loading news story metadata into a PostgreSQL database:
+nytimes_corpus.schema-pg.sql
+
+The preprocessing directory holds files for extracting and indexing
+NYT articles. A usual procedure consists of:
+
+a) preprocessing/extract_info.py
+   -- extracts metadata: descriptors, title, lead, body, 
+                         publication date, guid
+b) preprocessing/whoosh_index.py
+   -- based on the output above indexes documents
+c) preprocessing/db_insert_descriptors.py
+   -- if (a) generated descriptors file, loads it to the db
+d) preprocessing/db_insert_articles.py
+   -- if (a) generated article<->descriptor and taxonomy pairs
+      inserts them to the db
+
+Searching for documents is easy as this:
+>>> from whoosh.index import open_dir
+>>> index = open_dir('<your/directory/to/the/index')
+>>> searcher = index.searcher()
+>>> results = searcher.find("content", u"clinton")
+>>> for result in results:
+        print result
+
+more information on the Whoosh API at:
+http://packages.python.org/Whoosh/quickstart.html

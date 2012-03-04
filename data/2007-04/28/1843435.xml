@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Dow Breakthrough and a Housing Breakdown</title>
+    <meta content="28five-1" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1843435"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="FIVE DAYS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Markets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070428T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E2D7123EF93BA15757C0A9619C8B63" item-length="259" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Dow Breakthrough and a Housing Breakdown</hl1>
+      </hedline>
+      <byline class="print_byline">By VIKAS BAJAJ</byline>
+      <byline class="normalized_byline">Bajaj, Vikas</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Blue chip stocks surged all week as many big companies reported better-than-expected results, though mixed economic data might quiet the enthusiasm next week. No such hesitation was evident among cash-rich equity buyers, though, as acquisitions continued apace, one with a new feature.</p>
+        <p>A DOW MILESTONE -- The Dow Jones industrial average broke through the 13,000 mark this week and kept climbing, even as concerns mounted about the slowing economy and the housing market.</p>
+      </block>
+      <block class="full_text">
+        <p>Blue chip stocks surged all week as many big companies reported better-than-expected results, though mixed economic data might quiet the enthusiasm next week. No such hesitation was evident among cash-rich equity buyers, though, as acquisitions continued apace, one with a new feature.</p>
+        <p>A DOW MILESTONE -- The Dow Jones industrial average broke through the 13,000 mark this week and kept climbing, even as concerns mounted about the slowing economy and the housing market.</p>
+        <p>The index, supported by solid earning reports from industrial companies, is on track to post its best monthly gain since December 2003.</p>
+        <p>The stock market has also been helped by share buybacks and acquisitions by private equity firms.</p>
+        <p>The rally's future will depend on how corporations fare in a weakening economy, which slowed to a 1.3 percent rate in the first quarter. With inflation still elevated, the Federal Reserve may not be as quick to cut short-term interest rates as some investors have hoped.</p>
+        <p>Optimists hope growing exports will insulate companies from troubles in the domestic market, but skeptics worry that the economy has not yet felt the full impact of problems in the housing market.</p>
+        <p>VIKAS BAJAJ</p>
+        <p>MOST POPULAR Following are the most-popular business news articles on nytimes.com from April 21 through April 27:</p>
+        <p>1. In Las Vegas, Too Many Hotels Are Never Enough  2. The Perils of Suddenly Being Rich  3. Top Hedge Fund Managers Earn Over $240 Million  4. Sales of Existing Homes Plunge Steeply  5. Goal! He Spends It on Beckham</p>
+        <p>Links are at nytimes.com/business.</p>
+        <p>FIVE DAYS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

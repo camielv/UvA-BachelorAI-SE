@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>It's Music</title>
+    <meta content="15alsmail-3" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1840382"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="HANDEL AND THE JEWS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <person class="indexing_service">Nawi, Donald</person>
+        <person class="indexing_service">Handel, George Frederick (1685-1759)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D07E0D8123FF936A25757C0A9619C8B63" item-length="111" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>It's Music</hl1>
+      </hedline>
+      <abstract>
+        <p>Donald Nawi letter about April 8 article on Handel's Messiah says, in spite of some reservations as a Jew, it s just music (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>I am Jewish and have sung Handel's ''Messiah'' as a member of various choral societies more times than I can count, including at Carnegie Hall. For me, it has been and will continue to be the music, just as it is the music when I sing Masses, requiems, magnificats, glorias, passions and other similar works or when I sing with church choirs.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>I am Jewish and have sung Handel's ''Messiah'' as a member of various choral societies more times than I can count, including at Carnegie Hall. For me, it has been and will continue to be the music, just as it is the music when I sing Masses, requiems, magnificats, glorias, passions and other similar works or when I sing with church choirs.</p>
+        <p>I did wince, however, the first time I sang, from the ''Messiah,'' ''And he shall purify the sons of Levi.'' I was at a rehearsal after the conclusion of Yom Kippur, when I thought I had already been ''purified.''</p>
+        <p>Donald Nawi  Scarsdale, N.Y.</p>
+        <p>HANDEL AND THE JEWS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

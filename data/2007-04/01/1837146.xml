@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Brain on the Stand</title>
+    <meta content="01letters.t-4" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837146"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Brain</classifier>
+        <classifier class="indexing_service" type="descriptor">Courts</classifier>
+        <classifier class="indexing_service" type="descriptor">Crime and Criminals</classifier>
+        <classifier class="indexing_service" type="descriptor">Brain</classifier>
+        <person class="indexing_service">kunstadt, larry</person>
+        <person class="indexing_service">barsky, robert</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Courts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Brain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DEED91330F932A35757C0A9619C8B63" item-length="187" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Brain on the Stand</hl1>
+      </hedline>
+      <abstract>
+        <p>Robert Barsky and Larry Kunstadt letters comments on Jeffrey Rosen's March 11 article on neuroscience and the law</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Kudos to Jeffrey Rosen (March 11) for reminding us that a form of phrenology is alive and well in the 21st century. Apparently there are some who posit that because a particular brain center for thought or emotion does or does not light up, we can draw a definitive conclusion about behavior. Let's get away from looking for easy answers and bumps on (or inside) the head to explain why we act as we do. The world, and we, are much more complex than that.</p>
+      </block>
+      <block class="full_text">
+        <p>Kudos to Jeffrey Rosen (March 11) for reminding us that a form of phrenology is alive and well in the 21st century. Apparently there are some who posit that because a particular brain center for thought or emotion does or does not light up, we can draw a definitive conclusion about behavior. Let's get away from looking for easy answers and bumps on (or inside) the head to explain why we act as we do. The world, and we, are much more complex than that.</p>
+        <p>Robert Barsky</p>
+        <p>Nissequogue, N.Y.</p>
+        <p>The problem with imaging studies is that we do not have an accepted theory that relates brain phenomena to mental phenomena. With the possible exception of some simple sensory systems and perhaps aspects of speech, there is not a one-to-one relation between brain processes and behavior, much less thought. There is no doubt that a tumor can diminish the capacity to evaluate and respond to an internal impulse, but whatever the definitions of free will and legal culpability, they don't come close to the complexity of what is really going on.</p>
+        <p>Larry Kunstadt</p>
+        <p>New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New Jersey: Newark: Missing Woman's Body Found</title>
+    <meta content="04mbrfs-8" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837915"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Murders and Attempted Murders</classifier>
+        <location class="indexing_service">Newark (NJ)</location>
+        <person class="indexing_service">DeJarnette, Kasie</person>
+        <person class="indexing_service">Holl, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070404T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9502E6DE163FF937A35757C0A9619C8B63" item-length="86" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New Jersey: Newark: Missing Woman's Body Found</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN HOLL; Compiled by John Sullivan</byline>
+      <byline class="normalized_byline">Holl, John</byline>
+      <abstract>
+        <p>Body of Kasie DeJarnette is found inside metal garbage can in vacant lot near construction site in Newark, and she appears to have died from asphyxiation (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The body of a missing Newark woman was found inside a metal garbage can in a vacant lot near a construction site on Brookdale Avenue on Monday night, the Essex County prosecutor's office said yesterday. Relatives reported the woman, Kasie DeJarnette, 38, missing last month, said Paul M. Loriquet, a spokesman for the prosecutor. She appeared to have died from asphyxiation, he said, but the case would not be ruled a homicide until after a medical examiner's evaluation.</p>
+        <p>JOHN HOLL</p>
+      </block>
+      <block class="full_text">
+        <p>The body of a missing Newark woman was found inside a metal garbage can in a vacant lot near a construction site on Brookdale Avenue on Monday night, the Essex County prosecutor's office said yesterday. Relatives reported the woman, Kasie DeJarnette, 38, missing last month, said Paul M. Loriquet, a spokesman for the prosecutor. She appeared to have died from asphyxiation, he said, but the case would not be ruled a homicide until after a medical examiner's evaluation.</p>
+        <p>JOHN HOLL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

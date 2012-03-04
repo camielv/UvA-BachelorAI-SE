@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Democrats Seek to Interview Gonzales Aide</title>
+    <meta content="04attorneys" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/04/washington/04attorneys.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837877"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">United States Attorneys</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <org class="indexing_service">Justice Department</org>
+        <person class="indexing_service">Goodling, Monica</person>
+        <person class="indexing_service">Gonzales, Alberto R (Atty Gen)</person>
+        <person class="indexing_service">Johnston, David</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">United States Attorneys</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Legal Profession</classifier>
+        <person class="online_producer">Gonzales, Alberto R</person>
+        <person class="online_producer">Goodling, Monica</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070404T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9503E4DF163FF937A35757C0A9619C8B63" item-length="512" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Democrats Seek to Interview Gonzales Aide</hl1>
+        <hl2 class="online_headline">Democrats Seek to Interview Gonzales Aide</hl2>
+      </hedline>
+      <byline class="print_byline">By DAVID JOHNSTON</byline>
+      <byline class="normalized_byline">Johnston, David</byline>
+      <dateline>WASHINGTON, April 3</dateline>
+      <abstract>
+        <p>House Democrats request private interview with Monica Goodling, aide to Atty Gen Alberto R Gonzales; Goodling has asserted her constitutional right not to testify at public hearing about dismissals of US attorneys (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>House Democrats on Tuesday requested a private interview with an aide to Attorney General Alberto R. Gonzales who has asserted her constitutional right not to testify at a public hearing about the dismissals of United States attorneys.</p>
+        <p>Representative John Conyers Jr., a Michigan Democrat who is chairman of the House Judiciary Committee, sought the interview in a letter to a lawyer for the aide, Monica Goodling, who is on leave as the Justice Department's liaison to the White House.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The aide, who is on leave as the Justice Department’s liaison to the White House, helped coordinate the dismissals of U.S. attorneys.</p>
+      </block>
+      <block class="full_text">
+        <p>House Democrats on Tuesday requested a private interview with an aide to Attorney General Alberto R. Gonzales who has asserted her constitutional right not to testify at a public hearing about the dismissals of United States attorneys.</p>
+        <p>Representative John Conyers Jr., a Michigan Democrat who is chairman of the House Judiciary Committee, sought the interview in a letter to a lawyer for the aide, Monica Goodling, who is on leave as the Justice Department's liaison to the White House.</p>
+        <p>Ms. Goodling helped coordinate the dismissals with the White House. Her lawyer, John M. Dowd, informed House and Senate panels last week that she would not testify, citing her Fifth Amendment right against self-incrimination.</p>
+        <p>Mr. Conyers's letter said that House lawyers wanted to question Ms. Goodling to evaluate the legality of her refusal to testify. It said she could not assert the privilege as a blanket justification not to appear.</p>
+        <p>''We are concerned that several of the asserted grounds for refusing to testify do not satisfy the well established bases for a proper invocation of the Fifth Amendment against self-incrimination,'' the letter said. ''The Fifth Amendment privilege, under longstanding Supreme Court precedents, does not provide a reason to fail to appear to testify; the privilege must be invoked by the witness on a question-by-question basis.''</p>
+        <p>The letter was also signed by Representative Linda T. Sanchez, a California Democrat who is the chairwoman of the subcommittee conducting the inquiry.</p>
+        <p>In response, Mr. Dowd issued a statement suggesting that he regarded the House letter as a threat and a possible violation of legal ethics. ''In a free country every citizen should have the liberty to exercise their rights without threats or coercion,'' Mr. Dowd's statement said.</p>
+        <p>In an earlier letter, Mr. Dowd had said that Ms. Goodling was unlikely to receive a fair hearing because of the highly partisan atmosphere of the hearings and might be a witness in a future criminal inquiry, although there is no known criminal investigation into the dismissals.</p>
+        <p>In response, Mr. Conyers's letter said that statements made by some lawmakers about the credibility of senior Justice Department officials do ''not in any way excuse your client from answering questions honestly and to the best of her ability.''</p>
+        <p>In another letter on Tuesday, two Democratic senators, Patrick J. Leahy of Vermont and Sheldon Whitehouse of Rhode Island, asked Mr. Gonzales how the Justice Department would respond to issues stemming from Ms. Goodling's refusal to testify. Mr. Leahy is the chairman of the Judiciary Committee.</p>
+        <p>That letter asked for an official point of contact at the Justice Department concerning Ms. Goodling.</p>
+        <p>''Who do we talk to at the Department of Justice?'' the letter said. ''The office of the Attorney General appears to be hopelessly conflicted.''</p>
+        <p>Some Justice Department officials have testified about the dismissals, including Mr. Gonzales and D. Kyle Sampson, the attorney general's former chief of staff.</p>
+        <p>The House and Senate Judiciary Committees have sought testimony by other Justice Department and White House officials, including Harriet E. Miers, the former counsel, and Karl Rove, the senior political adviser.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Veterans and Addiction</title>
+    <meta content="l22vets" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1842233"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Veterans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hospitals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drug Abuse and Traffic</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9404E3D9163EF931A15757C0A9619C8B63" item-length="176" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Veterans and Addiction</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>According to ''The Warriors' Second Front at Home'' (editorial, April 13), military hospitals are failing to adequately treat thousands of soldiers afflicted with brain damage and post-traumatic stress disorder.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>According to ''The Warriors' Second Front at Home'' (editorial, April 13), military hospitals are failing to adequately treat thousands of soldiers afflicted with brain damage and post-traumatic stress disorder.</p>
+        <p>A state of ''denial'' at the source of the problem and the ''systemic'' nature of these failings mean an unconscionably long wait before things turn around.</p>
+        <p>In the meantime, thousands of returning veterans who cope through self-medication are risking addiction, arrest and jail time.</p>
+        <p>The reality is that thousands of Americans (veterans and civilians alike) are dealing with physical and emotional pain by turning to illegal drugs. If our government -- tasked with caring for those who risk all in the service of their country -- may sometimes deny treatment for serious psychological trauma, can we blame our veterans for self-medicating?</p>
+        <p>Are we going to offer them a jail cell for falling into the trap of addiction after military hospitals have turned their backs on them?</p>
+        <p>Isaac Skelton  New York, April 14, 2007</p>
+        <p>The writer is publications director at the Drug Policy Alliance.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

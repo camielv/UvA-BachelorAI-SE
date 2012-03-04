@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Blacks Are Free to Choose</title>
+    <meta content="01inbox-3" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837472"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blacks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9504E2DC1E30F932A35757C0A9619C8B63" item-length="90" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Blacks Are Free to Choose</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Sports Editor:</p>
+        <p>Re ''For Black Athletes, Bracket Beats Out Batting Cages,'' March 20: There were blatant racial bars in Jackie Robinson's time, not only in baseball but in most aspects of American life. Freedom of choice simply did not exist for black athletes. Today, if young black Americans choose other athletic pursuits over baseball, so be it. I would rather see talented athletes of any race or nationality choose my favorite sport, baseball. But isn't freedom of choice what it's all about?</p>
+        <p>Robert Prince  West Orange, N.J.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Sports Editor:</p>
+        <p>Re ''For Black Athletes, Bracket Beats Out Batting Cages,'' March 20: There were blatant racial bars in Jackie Robinson's time, not only in baseball but in most aspects of American life. Freedom of choice simply did not exist for black athletes. Today, if young black Americans choose other athletic pursuits over baseball, so be it. I would rather see talented athletes of any race or nationality choose my favorite sport, baseball. But isn't freedom of choice what it's all about?</p>
+        <p>Robert Prince  West Orange, N.J.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

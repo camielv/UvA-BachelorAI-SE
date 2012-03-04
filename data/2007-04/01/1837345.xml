@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Time for an Admission Fee at the Smithsonian</title>
+    <meta content="l01smithsonian" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837345"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980CE2D81130F932A35757C0A9619C8B63" item-length="162" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Time for an Admission Fee at the Smithsonian</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''The Smithsonian Challenge'' (editorial, March 27), about the search for a new leader of this public institution:</p>
+        <p>''Public'' at the Smithsonian has meant free admission. But by not charging a fee, the Smithsonian is out of step with other countries' great national museums, like the Louvre. The Smithsonian museums cannot sustain their well-deserved reputation unless they are fully financed.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''The Smithsonian Challenge'' (editorial, March 27), about the search for a new leader of this public institution:</p>
+        <p>''Public'' at the Smithsonian has meant free admission. But by not charging a fee, the Smithsonian is out of step with other countries' great national museums, like the Louvre. The Smithsonian museums cannot sustain their well-deserved reputation unless they are fully financed.</p>
+        <p>In choosing the next secretary, the Smithsonian's governing board -- the regents -- should select a person who is bold enough to push for a wisely constructed, tiered admission fee.</p>
+        <p>The new secretary must persuade visitors that the quality of the experience merits a modest charge. Even more challenging, the secretary must convince Congress that it would be self-defeating if income from admission were offset by a corresponding decrease in taxpayer financing.</p>
+        <p>James Lowell Gibbs Jr.  Stanford, Calif., March 28, 2007</p>
+        <p>The writer is trustee emeritus for the advisory board of the Smithsonian's National Museum of African Art.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

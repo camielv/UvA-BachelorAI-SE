@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Patient's Suicide</title>
+    <meta content="24lett-3" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1842635"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suicides and Suicide Attempts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mental Health and Disorders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070424T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0DE5DD143EF937A15757C0A9619C8B63" item-length="78" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Patient's Suicide</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Dr. Elissa Ely's thoughtful commentary on exploring her former patient's MySpace site after his suicide (Cases, April 17) is marred by her observation that the messages there ''were not written to a haunted self, or someone who had failed trials of antipsychotic drugs.'' Those suffering from brain illnesses have enough burdens without being labeled failures. It was surely the antipsychotic drugs that failed, not the patient.</p>
+        <p>Suzanne M. Parson  St. Ignatius, Mont.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Dr. Elissa Ely's thoughtful commentary on exploring her former patient's MySpace site after his suicide (Cases, April 17) is marred by her observation that the messages there ''were not written to a haunted self, or someone who had failed trials of antipsychotic drugs.'' Those suffering from brain illnesses have enough burdens without being labeled failures. It was surely the antipsychotic drugs that failed, not the patient.</p>
+        <p>Suzanne M. Parson  St. Ignatius, Mont.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

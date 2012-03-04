@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>U.S. Official Had Disclosed His Holdings</title>
+    <meta content="13educ" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Education; U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/13/education/13educ.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1839935"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="indexing_service" type="descriptor">Student Loans</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <org class="indexing_service">Education Department (US)</org>
+        <org class="indexing_service">Education Lending Group</org>
+        <person class="indexing_service">Glater, Jonathan D</person>
+        <person class="indexing_service">Arenson, Karen W</person>
+        <person class="indexing_service">Fontana, Matteo</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <org class="online_producer">Education Department</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070413T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9903EEDB133FF930A25757C0A9619C8B63" item-length="478" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>U.S. Official Had Disclosed His Holdings</hl1>
+        <hl2 class="online_headline">U.S. Official Had Disclosed His Holdings</hl2>
+      </hedline>
+      <byline class="print_byline">By JONATHAN D. GLATER and KAREN W. ARENSON</byline>
+      <byline class="normalized_byline">Arenson, Karen W; Glater, Jonathan D</byline>
+      <abstract>
+        <p>Federal Education Dept official Matteo Fontana, recently put on paid leave because of stock holdings in student loan firm Education Lending Group, disclosed his ownership of stock in filings to department years ago; filing raises questions about whether department had reviewed and permitted his holdings (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A federal Education Department official who has recently been put on paid leave because of stock holdings in a student loan company disclosed his ownership of the stock in filings to the department years ago, documents released last night show.</p>
+        <p>The filings raise questions about whether the department had reviewed and permitted his holdings. According to federal rules, employees may own stock in any company but are prohibited from working on matters involving that company if their holdings exceed $15,000, unless the agency grants a waiver.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The filings regarding the stock holdings of an Education Department official raise questions about whether the department had reviewed his ownership in a student loan company.</p>
+      </block>
+      <block class="full_text">
+        <p>A federal Education Department official who has recently been put on paid leave because of stock holdings in a student loan company disclosed his ownership of the stock in filings to the department years ago, documents released last night show.</p>
+        <p>The filings raise questions about whether the department had reviewed and permitted his holdings. According to federal rules, employees may own stock in any company but are prohibited from working on matters involving that company if their holdings exceed $15,000, unless the agency grants a waiver.</p>
+        <p>It was not clear whether the official, Matteo Fontana, needed a waiver, sought one or received one. Mr. Fontana is general manager of the unit of the Federal Student Aid office responsible for oversight of a national database that contains personal information on student borrowers.</p>
+        <p>Katherine McLane, the spokeswoman for Margaret Spellings, the education secretary, would not comment on those questions, saying only that the matter was referred to the agency's inspector general last week.</p>
+        <p>But the department announced that Ms. Spellings had directed its chief ethics officer to ''identify ways to enhance the department's comprehensive disclosure program'' and directed that any disclosure forms filed before May 15 be reviewed by at least two lawyers.</p>
+        <p>Ms. McLane said that decision had been prompted by ''just a desire to be as absolutely proactive as we can.''</p>
+        <p>Senator Edward M. Kennedy, Democrat of Massachusetts and chairman of the education committee, said last night said that the documents showed ''that department officials were aware that Mr. Fontana held a significant interest in a company that he was charged with overseeing.''</p>
+        <p>''Any American can tell you that this is dead wrong,'' Mr. Kennedy said.</p>
+        <p>The documents show that Mr. Fontana advised the department that he sold a total of $2,000 to $30,000 worth of shares in the company, Education Lending Group, and its predecessor, in December 2002, the year he joined the agency's Federal Student Aid office. At that time, Mr. Fontana was advised that if the value of his stock exceeded $15,000, he should ''contact the Ethics Division,'' according to a handwritten notation on the form.</p>
+        <p>Two years later, Mr. Fontana informed the department that he had sold $100,000 to $250,000 worth of stock in the same company. At the same time he apparently bought a vacation home, according to the documents.</p>
+        <p>Mr. Fontana could not be reached for comment last night. Ms. McLane said: ''He's on paid administrative leave. I have no way of getting in touch with him.''</p>
+        <p>It is not clear why, if Mr. Fontana put the shares up for sale in 2003, the documents show a sale taking place in 2004. Documents provided to the Senate by the CIT Group, which acquired Education Lending Group in 2005, show that he received 7,000 shares in December 2001 as a gift from a senior executive.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

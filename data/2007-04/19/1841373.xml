@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Editors' Note</title>
+    <meta content="19ednote" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Corrections; Editors' Notes; New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/19/pageoneplus/19ednote.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1841373"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Editor's Note</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Editors' Notes</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070419T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9903E7D81E3FF93AA25757C0A9619C8B63" item-length="139" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Editors' Note</hl1>
+        <hl2 class="online_headline">Editors’ Note</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A picture on the front page of The Metro Section on Tuesday with an article about flooding caused by the recent northeaster showed an antiques shop in Ridgefield, Conn., being washed away. The wood siding at the far left of the pink building was out of alignment because the picture was retouched by a Times staff member who took the picture, but who is not a staff photographer. He altered it because a flash created a white spot on the picture when he shot it through the window of a train. Also, the retouching tool left a round circle on the building's window at right.</p>
+        <p>Times policy forbids the manipulation of any photograph. Had editors been aware of the manipulation and seen the original picture, they would have either published the picture with the blemish or not used it.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A picture on the front page of The Metro Section on Tuesday with an article about flooding caused by the recent northeaster showed an antiques shop in Ridgefield, Conn., being washed away. The wood siding at the far left of the pink building was out of alignment because the picture was retouched by a Times staff member who took the picture, but who is not a staff photographer. He altered it because a flash created a white spot on the picture when he shot it through the window of a train. Also, the retouching tool left a round circle on the building’s window at right.</p>
+      </block>
+      <block class="full_text">
+        <p>A picture on the front page of The Metro Section on Tuesday with an article about flooding caused by the recent northeaster showed an antiques shop in Ridgefield, Conn., being washed away. The wood siding at the far left of the pink building was out of alignment because the picture was retouched by a Times staff member who took the picture, but who is not a staff photographer. He altered it because a flash created a white spot on the picture when he shot it through the window of a train. Also, the retouching tool left a round circle on the building's window at right.</p>
+        <p>Times policy forbids the manipulation of any photograph. Had editors been aware of the manipulation and seen the original picture, they would have either published the picture with the blemish or not used it.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

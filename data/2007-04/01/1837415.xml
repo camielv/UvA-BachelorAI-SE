@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Scrambling for Parking as JetBlue Adds Flights</title>
+    <meta content="01weweekWC-1" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Westchester Weekly Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="14WC" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837415"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE WEEK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="indexing_service" type="descriptor">Parking</classifier>
+        <classifier class="indexing_service" type="descriptor">Airports</classifier>
+        <classifier class="indexing_service" type="descriptor">Westchester County Airport</classifier>
+        <location class="indexing_service">Westchester County (NY)</location>
+        <person class="indexing_service">Gruen, Abby</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Westchester</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Parking</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D06E3DD1E30F932A35757C0A9619C8B63" item-length="385" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Scrambling for Parking as JetBlue Adds Flights</hl1>
+      </hedline>
+      <byline class="print_byline">By ABBY GRUEN</byline>
+      <byline class="normalized_byline">Gruen, Abby</byline>
+      <abstract>
+        <p>Officials in Westchester County, NY, anticipating heavy air travel during Easter and Passover holidays and citing shortage of parking, recommends that travelers use alternative transportation to Westchester County Airport (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Just in time for spring break, JetBlue Airways began service to Florida from Westchester County Airport last week, and by the end of the week the airline will offer four departures and arrivals a day serving Fort Lauderdale, West Palm Beach and Orlando.</p>
+        <p>The only hitch for those heading south is that they should plan on getting a ride to the airport, because parking is limited. Last week, before JetBlue started its Florida runs, the parking lots were nearly full.</p>
+      </block>
+      <block class="full_text">
+        <p>Just in time for spring break, JetBlue Airways began service to Florida from Westchester County Airport last week, and by the end of the week the airline will offer four departures and arrivals a day serving Fort Lauderdale, West Palm Beach and Orlando.</p>
+        <p>The only hitch for those heading south is that they should plan on getting a ride to the airport, because parking is limited. Last week, before JetBlue started its Florida runs, the parking lots were nearly full.</p>
+        <p>Now, anticipating thousands of additional travelers during the Easter and Passover holidays, the county is recommending that travelers use alternative transportation, like the Bee-Line bus service from the White Plains Trans Center or taxis and limousines. (For a list of companies offering discounts, go to the county's Web site, westchestergov.com.)</p>
+        <p>For years, Westchester County Airport has served mostly business travelers, and the garage (with 1,100 spaces, and another 250 available in a separate overflow area) was sufficient. Since last spring, however, when AirTran Airways began service to Florida, the parking lots started to fill up with travelers from Westchester and Fairfield Counties. AirTran increased the number of Florida flights from 4 in April 2006 to 11 in February, and last week there were only 30 spaces to spare.</p>
+        <p>''Last January, we were getting 43,000 passengers inbound and outbound,'' said Peter Scherrer, the airport's manager. ''This January, we had 80,000.''</p>
+        <p>Now, with JetBlue in service, the airport is getting close to its maximum allowable rate of 240 passengers per half-hour.</p>
+        <p>''We're getting to the point where we are going to have the perfect mix, where we hit the capacity limit for serving the needs of the community,'' Mr. Scherer said.</p>
+        <p>Finding solutions to the parking situation, however, is not going to be easy because the airport, surrounded by wetlands, has a no-expansion policy. The county is considering options including providing park-and-ride service from other county parking lots and limited construction of long-term parking on airport property.</p>
+        <p>''We want people who travel out of Westchester County Airport to have a pleasurable experience, and we don't want them to ride around the airport looking for a parking spot that doesn't exist,'' said Susan Tolchin, the chief adviser to the county executive, Andrew J. Spano. ''Therefore, we are encouraging them to leave their cars at home.''</p>
+        <p>THE WEEK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

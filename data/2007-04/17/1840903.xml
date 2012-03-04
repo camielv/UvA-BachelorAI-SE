@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Study Sees Little Benefit In Chondroitin for Arthritis</title>
+    <meta content="17trea" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Health&amp;Fitness" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/17/health/17trea.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840903"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="VITAL SIGNS: TREATMENTS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Columns/Vital Signs</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Fitness and Nutrition</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Arthritis and Rheumatism</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Diet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Dietary Supplements and Herbal Remedies</classifier>
+        <classifier class="online_producer" type="descriptor">Arthritis and Rheumatism</classifier>
+        <classifier class="online_producer" type="descriptor">Dietary Supplements and Herbal Remedies</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dietary Supplements and Herbal Remedies</classifier>
+        <classifier class="online_producer" type="general_descriptor">Arthritis and Rheumatism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diet and Nutrition</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070417T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E02E6DA113FF934A25757C0A9619C8B63" item-length="335" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Study Sees Little Benefit In Chondroitin for Arthritis</hl1>
+        <hl2 class="online_headline">Treatments: Study Sees Little Benefit in Chondroitin for Arthritis</hl2>
+      </hedline>
+      <byline class="print_byline">By Eric Nagourney</byline>
+      <byline class="normalized_byline">Nagourney, Eric</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>People looking for relief from arthritis pain often turn to the dietary supplement chondroitin, so much so that by some estimates, the market for the supplement is $1 billion a year in the United States.</p>
+        <p>Despite its popularity, a study released yesterday suggests that chondroitin may not offer any real benefit.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A new study suggests that chondroitin may not offer any real benefit to sufferers of arthritis pain.</p>
+      </block>
+      <block class="full_text">
+        <p>People looking for relief from arthritis pain often turn to the dietary supplement chondroitin, so much so that by some estimates, the market for the supplement is $1 billion a year in the United States.</p>
+        <p>Despite its popularity, a study released yesterday suggests that chondroitin may not offer any real benefit.</p>
+        <p>Writing in The Annals of Internal Medicine, researchers said a review of 20 earlier studies had found that the benefit of the supplement was ''minimal or nonexistent.''</p>
+        <p>''For patients with advanced osteoarthritis, a clinically relevant benefit is unlikely and the use of chondroitin should be discouraged,'' the study said. The lead author is Dr. Stephen Reichenbach of the University of Bern in Switzerland.</p>
+        <p>Arthritis mainly affects joints like the knees and hips through the loss of cartilage. Medical treatments are not always effective and consist mainly of medications to help with pain and stiffness.</p>
+        <p>Chondroitin is a component of cartilage, and the suggestion has been that it might actually improve the cartilage of people who take it.</p>
+        <p>Some studies have, in fact, reported a benefit. But the authors of the current report focused on three recent large studies that did not.</p>
+        <p>Responding to the study, the Natural Products Association, an industry group, said: ''Clearly, research has demonstrated that chondroitin, especially when taken with glucosamine, has shown a benefit for those suffering from osteoarthritis. To discourage its use as a treatment option is ill-considered, particularly when the alternatives are limited or nonexistent.''</p>
+        <p>An editorial accompanying the study noted that the researchers had looked at chondroitin alone. In the United States, it is usually sold in combination with the supplement glucosamine.</p>
+        <p>The author of the editorial, Dr. David T. Felson of Boston University, was skeptical that the supplements were useful. But Dr. Felson did not agree that people should be advised not to take them.</p>
+        <p>''If patients say that they benefit from chondroitin,'' he wrote, ''I see no harm in encouraging them to continue taking it as long as they perceive a benefit.''</p>
+        <p>VITAL SIGNS: TREATMENTS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

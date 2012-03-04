@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Online Shopping And the Environment</title>
+    <meta content="l22west-2" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Westchester Weekly Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="14WC" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1842314"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Delivery Services</classifier>
+        <classifier class="indexing_service" type="descriptor">Air Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Retail Stores and Trade</classifier>
+        <person class="indexing_service">Wells, Juliette</person>
+        <person class="indexing_service">Sells, Mimi</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Westchester</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Shopping</classifier>
+        <classifier class="online_producer" type="general_descriptor">Retail Stores and Trade</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Service Industries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980CE2DE173EF931A15757C0A9619C8B63" item-length="127" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Online Shopping And the Environment</hl1>
+      </hedline>
+      <abstract>
+        <p>Juliette Wells letter on Mimi Sells April 15 Op-Ed article holds consequences of online ordering are complex</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Mimi Sells reminds us, in ''Packing on the Pollution'' (Op-Ed, April 15), that we should be more aware of the environmental impact of our online purchases. She's certainly right that the ease of online purchasing and returns can lead to greater pollution, as our boxes wing their ways across our skies day and night.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Mimi Sells reminds us, in ''Packing on the Pollution'' (Op-Ed, April 15), that we should be more aware of the environmental impact of our online purchases. She's certainly right that the ease of online purchasing and returns can lead to greater pollution, as our boxes wing their ways across our skies day and night.</p>
+        <p>However, purchasing online can help make it possible to live in a manner that places fewer demands on our world's resources. For example, the choice not to own a car is immeasurably aided when necessary goods can be ordered from home and delivered to your door.</p>
+        <p>As with so many decisions that affect our environment and climate, the consequences of online ordering are complex.</p>
+        <p>Juliette Wells  White Plains</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

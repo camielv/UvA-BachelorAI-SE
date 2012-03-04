@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>U.S. Sues Man It Accuses Of Selling a Tax Scheme</title>
+    <meta content="04fraud" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/04/business/04fraud.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1838000"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Taxation</classifier>
+        <classifier class="indexing_service" type="descriptor">Tax Evasion</classifier>
+        <classifier class="indexing_service" type="descriptor">Suits and Litigation</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <classifier class="indexing_service" type="descriptor">Frauds and Swindling</classifier>
+        <org class="indexing_service">Justice Department</org>
+        <org class="indexing_service">We the People Foundation</org>
+        <person class="indexing_service">Schulz, Robert L</person>
+        <person class="indexing_service">Johnston, David Cay</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">Taxation</classifier>
+        <classifier class="online_producer" type="descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Frauds and Swindling</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tax Evasion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Taxation</classifier>
+        <org class="online_producer">Justice Department</org>
+        <org class="online_producer">We the People Foundation</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070404T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B02EFD71F30F937A35757C0A9619C8B63" item-length="375" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>U.S. Sues Man It Accuses Of Selling a Tax Scheme</hl1>
+        <hl2 class="online_headline">U.S. Sues Man It Accuses of Selling a Tax Scheme</hl2>
+      </hedline>
+      <byline class="print_byline">By DAVID CAY JOHNSTON</byline>
+      <byline class="normalized_byline">Johnston, David Cay</byline>
+      <abstract>
+        <p>Justice Department sues Robert L Schulz, leader of nationwide group We the People Foundation for Constitutional Education that contends most Americans are not required to pay income tax; says Schulz's followers have used tax scheme he sells to avoid paying $21 million of income taxes; Schulz says civil lawsuit is without merit because he does not sell tax package (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The leader of a nationwide movement that contends most Americans are not required to pay income tax was sued yesterday by the Justice Department, which said that his followers have used a tax scheme that he sells to avoid paying $21 million of income taxes.</p>
+        <p>The civil suit comes after two years of civil and criminal actions by the government against people associated with the nationwide group, We the People Foundation for Constitutional Education and its affiliates.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Justice Department said the followers of an antitax advocate have used a tax scheme that he sells to avoid paying $21 million of income taxes.</p>
+      </block>
+      <block class="full_text">
+        <p>The leader of a nationwide movement that contends most Americans are not required to pay income tax was sued yesterday by the Justice Department, which said that his followers have used a tax scheme that he sells to avoid paying $21 million of income taxes.</p>
+        <p>The civil suit comes after two years of civil and criminal actions by the government against people associated with the nationwide group, We the People Foundation for Constitutional Education and its affiliates.</p>
+        <p>The suit asks that a Federal District Court in Syracuse block the sale of a package of material called ''Legal Termination of Tax Withholding,'' by the leader of the group, Robert L. Schulz, a retired engineer from Queensbury, N.Y., about 60 miles northeast of Albany.</p>
+        <p>Mr. Schulz said the lawsuit was without merit because he did not sell the tax package.</p>
+        <p>The information can be downloaded from a foundation Web site, where donations are solicited. The site, which is part of a nonprofit enterprise, has received more than $2 million in donations, its tax filings show.</p>
+        <p>Mr. Schulz advertises that donations are tax deductible and writes to those who receive the package that ''the material is provided solely for educational purposes'' and ''does not constitute legal advice.''</p>
+        <p>He said the government sued to avoid answering a petition by 1,700 people who asked that the government show what law makes them liable for income taxes.</p>
+        <p>Mr. Schulz tells followers that the courts have never ruled on the duty to respond to a petition .However, in 1979 the Supreme Court ruled that the government has a duty only to accept petitions, not to answer them.</p>
+        <p>Starting in 2001, Mr. Schulz's group took out full-page newspaper ads featuring its three leaders and stating that ''Congress has yet to pass a law that requires most Americans to file a tax return or to pay income tax.''</p>
+        <p>J. J. MacNab, an insurance analyst who tracks tax deniers as a hobby, said that several members of Mr. Schulz's organization were serving prison terms.</p>
+        <p>Eileen J. O'Connor, head of the Justice Department tax section, said that ''people who sell tax scams are asking for trouble for themselves'' and ''they and their customers temporarily enrich themselves at the expense of law-abiding taxpayers.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

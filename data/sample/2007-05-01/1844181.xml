@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>'Sleep on It,' It Appears, Really Is Good Advice</title>
+    <meta content="01ment" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Health&amp;Fitness" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/05/01/health/01ment.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1844181"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="VITAL SIGNS: MENTAL ABILITIES"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Columns/Vital Signs</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Mental Health and Behavior</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Sleep</classifier>
+        <classifier class="online_producer" type="descriptor">Sleep</classifier>
+        <classifier class="online_producer" type="descriptor">Brain</classifier>
+        <classifier class="online_producer" type="descriptor">Memory</classifier>
+        <classifier class="online_producer" type="general_descriptor">Memory</classifier>
+        <classifier class="online_producer" type="general_descriptor">Brain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sleep</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070501T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9404E4D9133EF932A35756C0A9619C8B63" item-length="339" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>'Sleep on It,' It Appears, Really Is Good Advice</hl1>
+        <hl2 class="online_headline">Mental Abilities: ‘Sleep on It,’ It Appears, Really Is Good Advice</hl2>
+      </hedline>
+      <byline class="print_byline">By Eric Nagourney</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Sleeping on the job is not generally a good idea, but when it comes to the brain it may be another matter.</p>
+        <p>As people sleep, a new study suggests, their brains may be sorting through the information they have gathered, making connections that could lead to new insights. The study appears online in The Proceedings of the National Academy of Sciences.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>As people sleep, a new study suggests, their brains may be sorting through the information they have gathered, which could lead to new insights.</p>
+      </block>
+      <block class="full_text">
+        <p>Sleeping on the job is not generally a good idea, but when it comes to the brain it may be another matter.</p>
+        <p>As people sleep, a new study suggests, their brains may be sorting through the information they have gathered, making connections that could lead to new insights. The study appears online in The Proceedings of the National Academy of Sciences.</p>
+        <p>Earlier studies found that people appear better able to remember things they have just learned if they are able to sleep soon after. In effect, they found, the brain appears to use sleep time to consolidate memories.</p>
+        <p>This study suggests that the process is still more complex, and that sleep helps people make inferences from bits of knowledge that may at first appear random, said one of the authors, Dr. Jeffrey M. Ellenbogen of Brigham and Women's Hospital, the Harvard affiliate.</p>
+        <p>People make minor inferences all the time without sleeping first, of course, but those connections tend to be fairly straightforward. Sleep appears to play a role in helping people make ''big picture'' realizations, Dr. Ellenbogen said, like those involved in major scientific breakthroughs.</p>
+        <p>''Inferences are abundant in the world,'' he wrote in an e-mail message. ''Only a few are obvious. The rest need time and sleep to discover them.''</p>
+        <p>For the study, researchers asked 56 college students to study pairs of elaborately decorated ovals. They were told that in each pair, one oval won out over the other. But they were not told of a broader pattern in which all the ovals were part of a hierarchy.</p>
+        <p>The students were then broken into three groups.</p>
+        <p>The members of one group were tested to see how much of the hierarchy they could discern just 20 minutes after they studied the shapes. Another group was tested 12 hours later, with half its members having slept. Members of the third group were tested 24 hours later, after all had slept.</p>
+        <p>The first group did the worst, while those students who had been able to sleep did best.</p>
+        <p>VITAL SIGNS: MENTAL ABILITIES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

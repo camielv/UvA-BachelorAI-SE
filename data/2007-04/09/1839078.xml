@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   FERBER, ANDREW H.</title>
+    <meta content="dn040907.1" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1839078"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">FERBER, ANDREW H.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070409T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D01E3DF123AF93AA35757C0A9619C8B63" item-length="77" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   FERBER, ANDREW H.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>FERBER--Andrew H., of Bronxville on March 30, 2007. Beloved Husband of Carol Makovich, father of James, son of Jerome and Rosalind Ferber. Andy was an attorney for the NYS Court System. A memorial is scheduled at the Fred H. McGrath &amp; Son Funeral Home, Bronxville, between the hours of 1 to 3 pm, Sunday April 22, with remembrances at 2 pm. In lieu of flowers, the family requests donations be made to the American Heart Association.</p>
+      </block>
+      <block class="full_text">
+        <p>FERBER--Andrew H., of Bronxville on March 30, 2007. Beloved Husband of Carol Makovich, father of James, son of Jerome and Rosalind Ferber. Andy was an attorney for the NYS Court System. A memorial is scheduled at the Fred H. McGrath &amp; Son Funeral Home, Bronxville, between the hours of 1 to 3 pm, Sunday April 22, with remembrances at 2 pm. In lieu of flowers, the family requests donations be made to the American Heart Association.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

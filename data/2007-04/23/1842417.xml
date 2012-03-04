@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Manhattan's Trash</title>
+    <meta content="l23trash" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1842417"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Railroads</classifier>
+        <classifier class="indexing_service" type="descriptor">Waste Materials and Disposal</classifier>
+        <classifier class="indexing_service" type="descriptor">Staten Island Railroad</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">Amtrak (National Railroad Passenger Corp)</org>
+        <person class="indexing_service">Roistacher, Robert E</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Railroads</classifier>
+        <classifier class="online_producer" type="general_descriptor">Waste Materials and Disposal</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070423T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0DE5D9173EF930A15757C0A9619C8B63" item-length="166" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Manhattan's Trash</hl1>
+      </hedline>
+      <abstract>
+        <p>Robert E Roistacher letter says reopening of Staten Island Railroad should be clarion call to reopen Amtrak line along Manhattan's West Side for export of trash from that borough (April 18 article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>''City Reopens Old Rail Line for Staten Island Trash and Freight'' (news article, April 18) should be heard as a clarion call to reopen the Amtrak line along Manhattan's West Side for the export of trash from that borough.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>''City Reopens Old Rail Line for Staten Island Trash and Freight'' (news article, April 18) should be heard as a clarion call to reopen the Amtrak line along Manhattan's West Side for the export of trash from that borough.</p>
+        <p>There is no need to inconvenience the residents of the Upper East Side with an expensive and unnecessary marine transfer station, when after the Javits Center's plan to relocate its truck parking area is implemented, a truck-to-rail facility could easily be built between 11th and 12th Avenues bounded by West 33rd and West 34th Streets. Other points along that track also lend themselves to small transfer stations, so the burden can be spread.</p>
+        <p>The yahoos of Far West Side development can easily incorporate the transfer facility under a platform on which they can build more trash-generating megaprojects, as is their wont.</p>
+        <p>Robert E. Roistacher  Yangshao, China, April 18, 2007</p>
+        <p>The writer is former chairman of the Manhattan Solid Waste Advisory Board.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

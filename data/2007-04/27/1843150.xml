@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Revenge Plot Is Familiar, But the Accent Is Not Danish</title>
+    <meta content="27eifm" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/27/arts/dance/27eifm.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1843150"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="DANCE REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance</classifier>
+        <classifier class="online_producer" type="descriptor">Dancing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dancing</classifier>
+        <org class="online_producer">Eifman Ballet Company</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070427T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E3D8153EF934A15757C0A9619C8B63" item-length="382" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Revenge Plot Is Familiar, But the Accent Is Not Danish</hl1>
+        <hl2 class="online_headline">The Revenge Plot Is Familiar, but the Accent Is Not Danish</hl2>
+      </hedline>
+      <byline class="print_byline">By GIA KOURLAS</byline>
+      <byline class="normalized_byline">Kourlas, Gia</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In a recent radio interview on WNYC, the choreographer Boris Eifman spoke of the new relationship he has created between what happens onstage and his audience. Speaking on ''The Leonard Lopate Show,'' Mr. Eifman responded to those who don't enjoy his work by saying: ''It means that they are not really open to receive this energy.''</p>
+        <p>Perhaps. But the lack of attractive and varied choreography, the muddled storytelling and the exhausting scene changes, all of which were apparent in ''Russian Hamlet,'' performed by the Eifman Ballet of St. Petersburg at City Center on Wednesday night, could also have something to do with the negative reactions to Mr. Eifman's work.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>“Russian Hamlet,” as seen on Wednesday at City Center, lacked attractive and varied choreography, and had muddled storytelling and exhausting scene changes.</p>
+      </block>
+      <block class="full_text">
+        <p>In a recent radio interview on WNYC, the choreographer Boris Eifman spoke of the new relationship he has created between what happens onstage and his audience. Speaking on ''The Leonard Lopate Show,'' Mr. Eifman responded to those who don't enjoy his work by saying: ''It means that they are not really open to receive this energy.''</p>
+        <p>Perhaps. But the lack of attractive and varied choreography, the muddled storytelling and the exhausting scene changes, all of which were apparent in ''Russian Hamlet,'' performed by the Eifman Ballet of St. Petersburg at City Center on Wednesday night, could also have something to do with the negative reactions to Mr. Eifman's work.</p>
+        <p>Mr. Eifman's ''Russian Hamlet'' stars his most beautiful soloist, Maria Abashova, as Catherine, whose son, Paul, is filled with turmoil after witnessing his father's murder. Mr. Eifman draws a connection between Paul, portrayed by Ilia Osipov in a debut, and the disaffected Danish prince. There is also a lover, the Favorite of the Empress (Ivan Kozlov); Paul's conniving wife (Natalia Povorozniuk); and the ghost of his father (Oleg Markov).</p>
+        <p>Paul's fantasy, to avenge the death of his father and assume the throne, is told through a series of short scenes. If the first act is about passion and treachery -- Paul's wife is murdered, too -- the second, which includes a new number for men set to electronic music, is all revenge.</p>
+        <p>As Paul, Mr. Osipov, while not a great dancer, is a competent actor whose youth lends the character a cynically boyish appeal. Ms. Abashova makes a lovely Catherine who, underneath her elegant imperiousness, is every bit as tragic as her son. If only her point shoes, as soft as bedroom slippers, hadn't been so dirty.</p>
+        <p>The frequent sex scenes, typically showing a woman with her legs spread in the air and a man tipped forward, were a draining display of acrobatics, a familiar sight in most of Mr. Eifman's productions. ''Russian Hamlet,'' while managing to be both obvious and vague, takes place in a cartoonish world, where emotions -- jealousy, anger and passion -- stay close to the surface and the mysteries of the human soul remain out of sight.</p>
+        <p>The Eifman Ballet will perform ''Anna Karenina'' through Sunday night at City Center, 131 West 55th Street, Manhattan; (212) 581-1212.</p>
+        <p>DANCE REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

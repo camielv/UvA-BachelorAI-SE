@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>'Framing the Debate'</title>
+    <meta content="Letters.t-1" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1841935"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9400E4D8103FF931A15757C0A9619C8B63" item-length="357" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>'Framing the Debate'</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>After seeing Eve Fairbanks's take on my book, ''Framing the Debate'' (April 8) -- wherein she lampoons me as an ''unjust,'' ''profoundly undemocratic'' and ''terrifying'' villain on par with Brutus in Shakespeare's ''Julius Caesar'' -- readers may have wondered why Fairbanks stopped short of blaming me for the Iraq war, the Kennedy assassination and the Lindbergh baby kidnapping. Et tu, Feldman?</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>After seeing Eve Fairbanks's take on my book, ''Framing the Debate'' (April 8) -- wherein she lampoons me as an ''unjust,'' ''profoundly undemocratic'' and ''terrifying'' villain on par with Brutus in Shakespeare's ''Julius Caesar'' -- readers may have wondered why Fairbanks stopped short of blaming me for the Iraq war, the Kennedy assassination and the Lindbergh baby kidnapping. Et tu, Feldman?</p>
+        <p>What crime did I commit to earn a place on Fairbanks's indictment of murderers? I wrote a book inviting Americans to read the actual words of American history, to create rather than accept political speech, and to build their own strategies for effective and meaningful political participation. Such direct, progressive civics in book form sent Fairbanks flying from her perch, crying that the skies had blackened in Feldman's America. Unfortunately for readers of The New York Times, the result was less a book review than a bad case of the writer who cried wolf -- a false alarm triggered not by my book, but (so it would seem) by Fairbanks's last viewing of ''The Matrix'' and a shoebox of CliffsNotes from an AP English course.</p>
+        <p>Despite the choice by the Book Review editors, ''Framing the Debate'' was not written for dishonest gotcha writers who hunger for the blood of first-time authors. I wrote it for citizens, activists and candidates intrigued by the marriage of language and ideas in current politics -- Americans who have grown tired of their public airwaves being clogged by the snappy but empty opinions of broadsheet poseurs. The readers I write for have long since begun to drive political debate and inspire great civic change, and they will continue to do so without fear that their choice to participate in politics has anything to do with Fairbanks's sinister fiction of ''robotlike'' zombies in an ''already dead'' Republic. To Fairbanks, ''Framing the Debate'' presents a grim vision of a world where voters are manipulated like vast ''blinking switchboards.'' Yet, for the public itself, my book is cause for neither fear nor alarm, but a welcome companion on the most American journey of all: participation in the public square.</p>
+        <p>Jeffrey Feldman  New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

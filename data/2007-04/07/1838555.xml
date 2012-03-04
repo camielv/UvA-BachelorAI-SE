@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Lesser Charge For 13-Year-Old In Fatal Fight</title>
+    <meta content="07assault" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/07/nyregion/07assault.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1838555"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Assaults</classifier>
+        <classifier class="indexing_service" type="descriptor">Manslaughter</classifier>
+        <classifier class="indexing_service" type="descriptor">Children and Youth</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Montas, Guarionex</person>
+        <person class="indexing_service">Marshall, Helen M (Boro Pres)</person>
+        <person class="indexing_service">Barry, Ellen</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Assaults</classifier>
+        <classifier class="online_producer" type="general_descriptor">Manslaughter</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070407T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D01E7DF143FF934A35757C0A9619C8B63" item-length="281" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Lesser Charge For 13-Year-Old In Fatal Fight</hl1>
+        <hl2 class="online_headline">Lesser Charge for 13-Year-Old in Fatal Fight</hl2>
+      </hedline>
+      <byline class="print_byline">By ELLEN BARRY</byline>
+      <byline class="normalized_byline">Barry, Ellen</byline>
+      <abstract>
+        <p>Lawyers for New York City withdraw manslaughter charge aginst 13-year-old boy accused of fatally injuring his classmate, Guarionex Montas, in schoolyard fight in Queens; boy, who will be charged with misdemeanor assault, is released into custody of various adults, including Borough Pres Helen M Marshall, friend of boy's family (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Lawyers for the city yesterday withdrew a manslaughter charge against a 13-year-old boy accused of fatally injuring his classmate in a schoolyard fight in East Elmhurst, Queens, on March 23. Instead, they proceeded with a misdemeanor assault charge.</p>
+        <p>While playing after school, the boy hit Guarionex Montas, 13, on the head, the authorities said. Guarionex went home complaining of head pain, and was later taken to Elmhurst Hospital Center, where he was pronounced dead on arrival. The medical examiner said Guarionex died from skull fractures, bleeding and brain trauma.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Lawyers for the city withdrew a manslaughter charge against a 13-year-old boy accused of fatally injuring his classmate in a schoolyard fight in East Elmhurst, Queens.</p>
+      </block>
+      <block class="full_text">
+        <p>Lawyers for the city yesterday withdrew a manslaughter charge against a 13-year-old boy accused of fatally injuring his classmate in a schoolyard fight in East Elmhurst, Queens, on March 23. Instead, they proceeded with a misdemeanor assault charge.</p>
+        <p>While playing after school, the boy hit Guarionex Montas, 13, on the head, the authorities said. Guarionex went home complaining of head pain, and was later taken to Elmhurst Hospital Center, where he was pronounced dead on arrival. The medical examiner said Guarionex died from skull fractures, bleeding and brain trauma.</p>
+        <p>Judge Rhea G. Friedman of Queens Family Court found probable cause for the city to charge the boy with third-degree assault with intent.</p>
+        <p>But the judge was skeptical of arguments that the boy posed a flight risk or a danger to society, and released him into the custody of various adults -- including the Queens borough president, Helen M. Marshall, a friend of the boy's family. Ms. Marshall promised to take him to work at her Kew Gardens office on Monday and Tuesday.</p>
+        <p>The case is set for another hearing on Wednesday. The boy's name has not been released because of his age.</p>
+        <p>In East Elmhurst, where Ms. Marshall also lives, the charges have aroused deep concern about the boy's future. For two days, a group of some 20 friends and relatives of the boy -- including Ms. Marshall and Assemblyman Jeffrion L. Aubry -- gathered in halls and on benches in the courthouse for the hearing.</p>
+        <p>In arguments, Theresa Wilson-Campbell, a lawyer for the city, said the boy was affiliated with a gang, citing passages from a journal and a MySpace page he had built, and had tried to intimidate witnesses.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

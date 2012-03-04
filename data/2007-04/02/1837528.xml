@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paul J. Cohen, Mathematics Trailblazer, Dies at 72</title>
+    <meta content="02cohen" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S.; Obituaries" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837528"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="biographical_categories">Colleges and Universities</classifier>
+        <classifier class="indexing_service" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <classifier class="indexing_service" type="names">Paul J. Cohen</classifier>
+        <person class="indexing_service">Cohen, Paul J</person>
+        <person class="indexing_service">Pearce, Jeremy</person>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deaths (Obituaries)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070402T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B01E5D81E30F931A35757C0A9619C8B63" item-length="548" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paul J. Cohen, Mathematics Trailblazer, Dies at 72</hl1>
+      </hedline>
+      <byline class="print_byline">By JEREMY PEARCE</byline>
+      <byline class="normalized_byline">Pearce, Jeremy</byline>
+      <abstract>
+        <p>Paul J Cohen, mathematician whose path-breaking work in field of logic helped resolve a fundamental question of mathematics, dies at age 72; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Paul J. Cohen, a versatile mathematician whose path-breaking work in the field of logic helped resolve a fundamental question of mathematics and won for him the prestigious Fields Medal, died of a lung disease on March 23 in Stanford, Calif. He was 72.</p>
+        <p>Dr. Cohen's death was confirmed by his family. As a young mathematician at Stanford University in the 1960s, Dr. Cohen studied a question of set theory proposed in the 19th century by the mathematician Georg Cantor. The question, restated by David Hilbert in 1900 and then amplified by the influential logician Kurt Gödel, had been considered a problem of major importance for mathematicians in the 20th century.</p>
+      </block>
+      <block class="full_text">
+        <p>Paul J. Cohen, a versatile mathematician whose path-breaking work in the field of logic helped resolve a fundamental question of mathematics and won for him the prestigious Fields Medal, died of a lung disease on March 23 in Stanford, Calif. He was 72.</p>
+        <p>Dr. Cohen's death was confirmed by his family. As a young mathematician at Stanford University in the 1960s, Dr. Cohen studied a question of set theory proposed in the 19th century by the mathematician Georg Cantor. The question, restated by David Hilbert in 1900 and then amplified by the influential logician Kurt Gödel, had been considered a problem of major importance for mathematicians in the 20th century.</p>
+        <p>Known as the continuum hypothesis, the question involved establishing the sizes of infinite sets of real numbers. Dr. Cohen approached the hypothesis and ''had the feeling that people thought the problem was hopeless since there was no new way of constructing models of set theory.''</p>
+        <p>''Indeed,'' he said in a 1985 interview, ''they thought you had to be slightly crazy even to think about the problem.'' He determined that something ''radically new'' would have to be done to solve it.</p>
+        <p>Ultimately, Dr. Cohen concluded that the hypothesis could not be solved under the existing axioms of set theory -- it was, in effect, not provable. The conclusion was applauded by Dr. Gödel, who had earlier showed the hypothesis could not be disproved. Dr. Cohen received the Fields Medal for outstanding achievement from the International Mathematical Union in 1966.</p>
+        <p>Peter Sarnak, a former student of Dr. Cohen's who is a professor of mathematics at Princeton and a member of the Institute for Advanced Study, said that Dr. Cohen's work had been ''courageous and truly exceptional'' and ''introduced techniques that will probably allow us to solve many other things, opening a floodgate of mathematical activity.''</p>
+        <p>One primary technique developed by Dr. Cohen is known as forcing and is used to construct mathematical models to test a given hypothesis for truth or falsehood. Alexander S. Kechris, a professor of mathematics at the California Institute of Technology, said the technique had since been used by ''countless mathematicians'' and remained an enduring and powerful product of Dr. Cohen's work on the continuum hypothesis.</p>
+        <p>Earlier, in the field of analysis, Dr. Cohen worked on the Littlewood conjecture, for which he received the Bôcher Memorial Prize of the American Mathematical Society in 1964.</p>
+        <p>Paul Joseph Cohen was born April 2, 1934, in Long Branch, N.J. He attended Stuyvesant High School and Brooklyn College before earning his doctorate in mathematics from the University of Chicago in 1958.</p>
+        <p>Dr. Cohen taught at the Massachusetts Institute of Technology and the University of Rochester before moving to Stanford in the early 1960s; he remained there for the rest of his career.</p>
+        <p>He wrote a book, ''Set Theory and the Continuum Hypothesis,'' published in 1966.</p>
+        <p>In 1968, Dr. Cohen received the National Medal of Science. He was a member of the Institute for Advanced Study and the National Academy of Sciences.</p>
+        <p>Dr. Cohen is survived by his wife of 44 years, the former Christina Karls. He is also survived by three sons, Charles, of Boston, and Eric and Steven, both of Los Angeles; a sister, Tobel, of San José, Costa Rica; and a brother, Ruby Cassel, of Brooklyn.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

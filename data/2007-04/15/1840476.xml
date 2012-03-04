@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Jane Vaughn, Daniel Constantineau</title>
+    <meta content="15VAUGHN" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/15/fashion/weddings/15VAUGHN.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840476"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Vaughn, Jane Blair (Jane Blair Constantineau)</person>
+        <person class="indexing_service">Constantineau, Daniel Scott</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9400E1D9133FF936A25757C0A9619C8B63" item-length="248" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Jane Vaughn, Daniel Constantineau</hl1>
+        <hl2 class="online_headline">Jane Vaughn, Daniel Constantineau</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Jane Blair Vaughn, the daughter of Margaret Weld Vaughn and Jack Hood Vaughn of Tucson, is to be married there this evening to Daniel Scott Constantineau, the son of Christine Constantineau and Roy Constantineau of Virginia Beach. Judge Sharon Douglas of the Pima County Superior Court in Tucson is to officiate at the Arizona Inn.</p>
+        <p>The bride, 28, is the senior community planner at the Planning Council in Norfolk, Va., a nonprofit organization that helps other nonprofits and local governments plan, develop and manage human services to improve the quality of life in the communities they serve. She graduated from Williams and received a master's degree in journalism from Northwestern.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Jane Blair Vaughn, the daughter of Margaret Weld Vaughn and Jack Hood Vaughn of Tucson, is to be married there this evening to Daniel Scott Constantineau, the son of Christine Constantineau and Roy Constantineau of Virginia Beach. Judge Sharon Douglas of the Pima County Superior Court in Tucson is to officiate at the Arizona Inn.</p>
+      </block>
+      <block class="full_text">
+        <p>Jane Blair Vaughn, the daughter of Margaret Weld Vaughn and Jack Hood Vaughn of Tucson, is to be married there this evening to Daniel Scott Constantineau, the son of Christine Constantineau and Roy Constantineau of Virginia Beach. Judge Sharon Douglas of the Pima County Superior Court in Tucson is to officiate at the Arizona Inn.</p>
+        <p>The bride, 28, is the senior community planner at the Planning Council in Norfolk, Va., a nonprofit organization that helps other nonprofits and local governments plan, develop and manage human services to improve the quality of life in the communities they serve. She graduated from Williams and received a master's degree in journalism from Northwestern.</p>
+        <p>Her father, a former ambassador to Panama and Colombia, was the director of the Peace Corps from 1966 to 1969, and the president of the Planned Parenthood Federation of America from 1975 to 1977. He retired as the chairman of Ecotrust, an organization he founded in Portland, Ore., to protect North American rain forests. Her mother is the president of the Arizona Council for Court Appointed Special Advocate, a government-financed program that appoints volunteer advocates for children in foster care.</p>
+        <p>The bridegroom, 38, is a network security specialist for the City of Virginia Beach. He graduated from Christopher Newport University in Newport News, Va.</p>
+        <p>His mother is a real estate agent for Realty Consultants in Virginia Beach. His father, a former air traffic controller for the Air Force, retired as an operations officer for the Federal Aviation Administration.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

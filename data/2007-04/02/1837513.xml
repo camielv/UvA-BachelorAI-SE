@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Mamma Roma on Love, Life and Acting</title>
+    <meta content="02magn" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Theater" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/02/theater/reviews/02magn.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837513"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THEATER REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Theater</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Genzlinger, Neil</person>
+        <person class="indexing_service">Gambacorta, Theresa</person>
+        <object.title class="indexing_service">La Magnani! (Play)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/Plays</classifier>
+        <classifier class="online_producer" type="descriptor">Theater</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+        <person class="online_producer">Magnani, Anna</person>
+        <object.title class="online_producer">La Magnani (Play)</object.title>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070402T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07E7D81E30F931A35757C0A9619C8B63" item-length="334" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Mamma Roma on Love, Life and Acting</hl1>
+        <hl2 class="online_headline">Mamma Roma on Love, Life and Acting</hl2>
+      </hedline>
+      <byline class="print_byline">By NEIL GENZLINGER</byline>
+      <byline class="normalized_byline">Genzlinger, Neil</byline>
+      <abstract>
+        <p>Neil Genzlinger reviews Theresa Gambacorta one-woman show La Magnani (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Fans of the Italian actress Anna Magnani might enjoy her reincarnation onstage at the Arclight Theater, where Theresa Gambacorta is doing a reasonably good imitation in ''La Magnani!,'' a one-woman show Ms. Gambacorta wrote. Those not already familiar with and enamored of Magnani, however, may find themselves wondering why anyone would want to resurrect someone so irritating.</p>
+        <p>Magnani's hot-blooded histrionics are on full display in Ms. Gambacorta's 90-minute biographical sketch, and though they might have been entertaining when serving a movie plot, in a first-person narrative, they're ultimately wearing. There is much throaty laughter at things the Magnani character sees only in her mind and the audience sees not at all. There is much braying about lovers and others in her life who have barely been described. It's hard to find such stuff involving no matter how polished the performance.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Those not already familiar with and enamored of the Italian actress Anna Magnani may find themselves wondering why anyone would want to resurrect someone so irritating.</p>
+      </block>
+      <block class="full_text">
+        <p>Fans of the Italian actress Anna Magnani might enjoy her reincarnation onstage at the Arclight Theater, where Theresa Gambacorta is doing a reasonably good imitation in ''La Magnani!,'' a one-woman show Ms. Gambacorta wrote. Those not already familiar with and enamored of Magnani, however, may find themselves wondering why anyone would want to resurrect someone so irritating.</p>
+        <p>Magnani's hot-blooded histrionics are on full display in Ms. Gambacorta's 90-minute biographical sketch, and though they might have been entertaining when serving a movie plot, in a first-person narrative, they're ultimately wearing. There is much throaty laughter at things the Magnani character sees only in her mind and the audience sees not at all. There is much braying about lovers and others in her life who have barely been described. It's hard to find such stuff involving no matter how polished the performance.</p>
+        <p>Ms. Gambacorta's framing device is telling: She begins the piece on Oscar night 1956, with Magnani (who died in 1973) waiting to hear if she has won the best-actress award for ''The Rose Tattoo.'' This is occasion for her to replay her life and drop assorted names: Roberto Rossellini, who dumped her for Ingrid Bergman; Tennessee Williams, who wrote ''The Rose Tattoo'' for her. But we never really meet any of these people; this Magnani is wallowing in herself, waiting to see if a hollow Hollywood award will somehow validate her existence.</p>
+        <p>Ms. Gambacorta delivers all this in a thick Italian accent -- perhaps a little too thick -- and, for the first half of the show, in an Abridged Life of Magnani mode that doesn't let anything stick. Eventually she gives some depth to the relationship between Magnani and her son, who had polio, and ''La Magnani!'' at last generates traction. A play that focused more narrowly on this relationship would have been stronger and still conveyed the essence of the fiery screen star.</p>
+        <p>''La Magnani!'' continues through April 29 at the Arclight Theater, 152 West 71st Street, Manhattan; (212) 279-4200.</p>
+        <p>THEATER REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

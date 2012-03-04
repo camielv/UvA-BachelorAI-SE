@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Heidi Brooks, Javit Drake</title>
+    <meta content="08brooks" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/08/fashion/weddings/08brooks.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1838764"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Brooks, Heidi Michele</person>
+        <person class="indexing_service">Drake, Javit Ahmed</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070408T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CEFDB173FF93BA35757C0A9619C8B63" item-length="215" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Heidi Brooks, Javit Drake</hl1>
+        <hl2 class="online_headline">Heidi Brooks and Javit Drake</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Heidi Michele Brooks and Javit Ahmed Drake were married in Charleston, S.C., last evening. The Rev. Dr. Preston N. Williams, a Presbyterian minister, officiated at Mills House Hotel.</p>
+        <p>Ms. Brooks, 36, is keeping her name. She is the director of community relations at John Hancock Financial Services in Boston. She graduated from the University of South Carolina and received a master's in international affairs from Johns Hopkins, as well as an M.B.A. from Harvard.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The couple were married at Mills House Hotel in Charleston, S.C., on Saturday evening.</p>
+      </block>
+      <block class="full_text">
+        <p>Heidi Michele Brooks and Javit Ahmed Drake were married in Charleston, S.C., last evening. The Rev. Dr. Preston N. Williams, a Presbyterian minister, officiated at Mills House Hotel.</p>
+        <p>Ms. Brooks, 36, is keeping her name. She is the director of community relations at John Hancock Financial Services in Boston. She graduated from the University of South Carolina and received a master's in international affairs from Johns Hopkins, as well as an M.B.A. from Harvard.</p>
+        <p>She is a daughter of Beryl Goines of Columbia, S.C., and Joe Brooks of Danbury, Conn. Her father, who is retired, was an associate professor of business at Western Connecticut State University. Her mother is a director of human resources at Richland County School District 1 in Columbia. The bride is a stepdaughter of Willie Goines.</p>
+        <p>Mr. Drake, 34, a chemical engineer, is a senior researcher at Duracell, the battery company, in Needham, Mass. He graduated from Massachusetts Institute of Technology and received a doctorate in chemical engineering from the University of California, Berkeley.</p>
+        <p>He is a son of Macarthur Drake Sr. of Gary, Ind., and Dr. Kathleen Glover of Yellow Springs, Ohio. His mother, an internist, specializes in reproductive health and owns clinics in Ohio. His father is a lawyer in Gary. The bridegroom is a stepson of Linda Drake.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

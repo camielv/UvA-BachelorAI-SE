@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Memorials   VOLK, HERBERT, M.D.</title>
+    <meta content="dn040807.3" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="30" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838642"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">VOLK, HERBERT, M.D.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Memorial Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070408T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9507E6DF123AF93BA35757C0A9619C8B63" item-length="76" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Memorials   VOLK, HERBERT, M.D.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>VOLK--Herbert, M.D. Albert Einstein College of Medicine of Yeshiva University is saddened by the passing of Dr. Herbert Volk, a member of Einstein's founding faculty in the Department of Surgery. He was a valued member of the Einstein community from 1955 to 1991. We extend our condolences to his wife, Irma, and the entire Volk family. Allen M. Spiegel, M.D. The Marilyn and Stanley M. Katz Dean Albert Einstein College of Medicine of Yeshiva University</p>
+      </block>
+      <block class="full_text">
+        <p>VOLK--Herbert, M.D. Albert Einstein College of Medicine of Yeshiva University is saddened by the passing of Dr. Herbert Volk, a member of Einstein's founding faculty in the Department of Surgery. He was a valued member of the Einstein community from 1955 to 1991. We extend our condolences to his wife, Irma, and the entire Volk family. Allen M. Spiegel, M.D. The Marilyn and Stanley M. Katz Dean Albert Einstein College of Medicine of Yeshiva University</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

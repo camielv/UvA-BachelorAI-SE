@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ellen Walpert, Christopher Kobran</title>
+    <meta content="01walpert" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/01/fashion/weddings/01walpert.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837280"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Walpert, Ellen Phyllis (Ellen Phyllis Kobran)</person>
+        <person class="indexing_service">Kobran, Christopher Michael</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0CE6DB1130F932A35757C0A9619C8B63" item-length="183" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ellen Walpert, Christopher Kobran</hl1>
+        <hl2 class="online_headline">Ellen Walpert, Christopher Kobran</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Ellen Phyllis Walpert, a daughter of Ellen G. Walpert and Dr. Gary A. Walpert of Weston, Mass., was married yesterday to Christopher Michael Kobran, the son of Johanna Kobran and Michael F. Kobran of Vineyard Haven, Mass. Rabbi Amy Ehrlich officiated at the Troon Country Club in Scottsdale, Ariz.</p>
+        <p>Mrs. Kobran, 30, is a special events project manager at the Ann Taylor Corporation, the women's clothing maker in New York. She graduated from Cornell.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Ellen Phyllis Walpert, a daughter of Ellen G. Walpert and Dr. Gary A. Walpert of Weston, Mass., was married yesterday to Christopher Michael Kobran, the son of Johanna Kobran and Michael F. Kobran of Vineyard Haven, Mass. Rabbi Amy Ehrlich officiated at the Troon Country Club in Scottsdale, Ariz.</p>
+      </block>
+      <block class="full_text">
+        <p>Ellen Phyllis Walpert, a daughter of Ellen G. Walpert and Dr. Gary A. Walpert of Weston, Mass., was married yesterday to Christopher Michael Kobran, the son of Johanna Kobran and Michael F. Kobran of Vineyard Haven, Mass. Rabbi Amy Ehrlich officiated at the Troon Country Club in Scottsdale, Ariz.</p>
+        <p>Mrs. Kobran, 30, is a special events project manager at the Ann Taylor Corporation, the women's clothing maker in New York. She graduated from Cornell.</p>
+        <p>Her father is a partner in the law firm of Wilmer Cutler Pickering Hale &amp; Dorr, with offices in Boston and New York.</p>
+        <p>Mr. Kobran, 38, is a corporate advertising sales manager at the New York office of CNET Networks, the online publishing company. He was until March 2006 the publisher of Sail, a Primedia magazine, in Boston. He graduated from DePaul University in Chicago and received an M.B.A. from the Monterey Institute of International Studies in California.</p>
+        <p>His mother retired as the executive vice president for educational services at Brookdale Community College in Lincroft, N.J. His father, who is retired, was an assistant city transportation engineer in Detroit.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

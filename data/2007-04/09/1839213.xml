@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Property Tax Give and Take</title>
+    <meta content="09empirezone-3" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1839213"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE EMPIRE ZONE"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Property Taxes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Budgets and Budgeting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Rebates</classifier>
+        <classifier class="online_producer" type="general_descriptor">Taxation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070409T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9903E4DF153FF93AA35757C0A9619C8B63" item-length="189" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Property Tax Give and Take</hl1>
+      </hedline>
+      <byline class="print_byline">By DANNY HAKIM</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Something to keep in mind around mid-April: The state's new $1.3 billion school property tax relief program is taxable. That's right, for those who itemize property tax deductions on either their federal or state returns, New York's property tax rebate checks, which were doubled this year, are effectively taxable income, according to Edmund J. McMahon, director of the Empire Center for New York State Policy, a conservative group.</p>
+        <p>Because of differences between New York and federal tax rules, more New Yorkers are likely to itemize on their federal returns and not on their state returns, Mr. McMahon said. In a hypothetical situation he described in a research note last week, Joe and Debbie Jones have a $5,000 property tax bill and get a $400 rebate check from the state. Because they itemize their deductions, they can claim only $4,600 in property taxes paid on their 2007 federal return.</p>
+      </block>
+      <block class="full_text">
+        <p>Something to keep in mind around mid-April: The state's new $1.3 billion school property tax relief program is taxable. That's right, for those who itemize property tax deductions on either their federal or state returns, New York's property tax rebate checks, which were doubled this year, are effectively taxable income, according to Edmund J. McMahon, director of the Empire Center for New York State Policy, a conservative group.</p>
+        <p>Because of differences between New York and federal tax rules, more New Yorkers are likely to itemize on their federal returns and not on their state returns, Mr. McMahon said. In a hypothetical situation he described in a research note last week, Joe and Debbie Jones have a $5,000 property tax bill and get a $400 rebate check from the state. Because they itemize their deductions, they can claim only $4,600 in property taxes paid on their 2007 federal return.</p>
+        <p>''Most New York homeowners with incomes over $75,000 claim itemized deductions on their federal returns and thus will find that their newly increased property tax rebate is effectively 'taxed' at the federal level,'' Mr. McMahon wrote.</p>
+        <p>DANNY HAKIM</p>
+        <p>THE EMPIRE ZONE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

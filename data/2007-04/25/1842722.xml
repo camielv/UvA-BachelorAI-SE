@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Making the Most of Beer, on Film</title>
+    <meta content="25beer" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining, Dining Out/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Movies; Arts; Dining and Wine" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1842722"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="FOOD STUFF"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Columns/Food Stuff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Beer</classifier>
+        <classifier class="online_producer" type="general_descriptor">Beverages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Alcoholic Beverages</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070425T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E4DC143EF936A15757C0A9619C8B63" item-length="119" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Making the Most of Beer, on Film</hl1>
+      </hedline>
+      <byline class="print_byline">By Florence Fabricant</byline>
+      <byline class="normalized_byline">Fabricant, Florence</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>American history seen through a beer mug is the subject of a new film, ''The American Brew,'' produced by Florentine Films-Sherman Pictures. It begins in colonial days, when beer was safer to drink than water. It highlights the heyday of German immigration 100 or so years ago and the subsequent rise of industrialized beer plants in Milwaukee and other cities, and continues to the current craft-brewing movement. The film is enlivened by old advertising images like those above, below and left.</p>
+      </block>
+      <block class="full_text">
+        <p>American history seen through a beer mug is the subject of a new film, ''The American Brew,'' produced by Florentine Films-Sherman Pictures. It begins in colonial days, when beer was safer to drink than water. It highlights the heyday of German immigration 100 or so years ago and the subsequent rise of industrialized beer plants in Milwaukee and other cities, and continues to the current craft-brewing movement. The film is enlivened by old advertising images like those above, below and left.</p>
+        <p>This month, 47 minutes of the film were shown on A&amp;E. The DVD, now being sold at beer stores and taverns for $4.99, offers the complete one-hour version, and an additional 45 minutes of footage.</p>
+        <p>FOOD STUFF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

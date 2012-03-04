@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Brooklyn: Witness Describes Bribery</title>
+    <meta content="03mbrfs-1" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837818"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Courts</classifier>
+        <classifier class="indexing_service" type="descriptor">Bribery</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <classifier class="indexing_service" type="descriptor">Gifts</classifier>
+        <classifier class="indexing_service" type="descriptor">Supreme Courts (State)</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Siminovsky, Paul</person>
+        <person class="indexing_service">Garson, Gerald P</person>
+        <person class="indexing_service">Brick, Michael</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Courts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bribery</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gifts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070403T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940CEFDB1F30F930A35757C0A9619C8B63" item-length="169" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Brooklyn: Witness Describes Bribery</hl1>
+      </hedline>
+      <byline class="print_byline">By MICHAEL BRICK; Compiled by John Sullivan</byline>
+      <byline class="normalized_byline">Brick, Michael</byline>
+      <abstract>
+        <p>Paul Siminovsky, disbarred divorce lawyer, testifies at former Justice Gerald Garson's bribery trial in Brooklyn, describing series of gifts and cash payments he made to Garson in exchange for legal assignments and favorable rulings; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>After four days on the stand, the primary witness in a judicial bribery case finished his direct testimony yesterday, describing a series of gifts and cash payments made in exchange for legal assignments and favorable rulings. The defendant, Gerald Garson, a former State Supreme Court justice who oversaw matrimonial cases, has been charged with accepting bribes. The witness, a disbarred divorce lawyer named Paul Siminovsky, left, testified that he paid for meals for the judge and gave him a bottle of Scotch and other gifts as well as an envelope holding $1,000. On a surveillance recording played in State Supreme Court yesterday, the judge was seen accepting the money, then counting it and muttering profanities. On the recording, the judge returned the money and asked that it be given to his wife's political campaign. Mr. Siminovsky gave the money back to the judge, clapping his arm and saying, ''Don't worry about it.'' Mr. Siminovsky has pleaded guilty to a misdemeanor.</p>
+        <p>MICHAEL BRICK</p>
+      </block>
+      <block class="full_text">
+        <p>After four days on the stand, the primary witness in a judicial bribery case finished his direct testimony yesterday, describing a series of gifts and cash payments made in exchange for legal assignments and favorable rulings. The defendant, Gerald Garson, a former State Supreme Court justice who oversaw matrimonial cases, has been charged with accepting bribes. The witness, a disbarred divorce lawyer named Paul Siminovsky, left, testified that he paid for meals for the judge and gave him a bottle of Scotch and other gifts as well as an envelope holding $1,000. On a surveillance recording played in State Supreme Court yesterday, the judge was seen accepting the money, then counting it and muttering profanities. On the recording, the judge returned the money and asked that it be given to his wife's political campaign. Mr. Siminovsky gave the money back to the judge, clapping his arm and saying, ''Don't worry about it.'' Mr. Siminovsky has pleaded guilty to a misdemeanor.</p>
+        <p>MICHAEL BRICK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

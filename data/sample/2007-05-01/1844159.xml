@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Memorials   FEDERMAN, KITTY</title>
+    <meta content="dn050107" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1844159"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">FEDERMAN, KITTY</person>
+        <classifier class="online_producer" type="types_of_material">Paid Memorial Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070501T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E1DB163AF932A35756C0A9619C8B63" item-length="39" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Memorials   FEDERMAN, KITTY</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>FEDERMAN--Kitty. Mom, 25 years ago you left us, remembered with love, always in our hearts. All is well. Cindy has a child, Ian. We now live in Las Vegas. Woody, Phyllis, Cindy, Jonathan, Ian, and all the rest</p>
+      </block>
+      <block class="full_text">
+        <p>FEDERMAN--Kitty. Mom, 25 years ago you left us, remembered with love, always in our hearts. All is well. Cindy has a child, Ian. We now live in Las Vegas. Woody, Phyllis, Cindy, Jonathan, Ian, and all the rest</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

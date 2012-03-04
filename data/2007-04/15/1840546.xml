@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Stocks Bounce Back From a Midweek Slide</title>
+    <meta content="15data" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/15/business/yourmoney/15data.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840546"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="DataBank"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Markets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="descriptor">United States Economy</classifier>
+        <classifier class="online_producer" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Interest Rates</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Economy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Nasdaq Composite Index</classifier>
+        <classifier class="online_producer" type="general_descriptor">Government Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Credit</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D00EFD6133FF936A25757C0A9619C8B63" item-length="192" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Stocks Bounce Back From a Midweek Slide</hl1>
+        <hl2 class="online_headline">Stocks Bounce Back From a Midweek Slide</hl2>
+      </hedline>
+      <byline class="print_byline">By JEFF SOMMER</byline>
+      <byline class="normalized_byline">Sommer, Jeff</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The stock market rose again last week, fighting off a decline on Wednesday brought about by the release of the minutes of the last Federal Reserve policy meeting.</p>
+        <p>Those minutes made explicit the Fed's view that inflation, not a possible economic slowdown, is the biggest threat to the economy -- and that an increase in short-term interest rates is possible to curb inflation. Investors hoping for a rate cut presumably sold off some stock on Wednesday, but the market rebounded smartly on the next two days.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The stock market rose again last week, fighting off a decline on Wednesday brought about by the release of the minutes of the last Federal Reserve policy meeting.</p>
+      </block>
+      <block class="full_text">
+        <p>The stock market rose again last week, fighting off a decline on Wednesday brought about by the release of the minutes of the last Federal Reserve policy meeting.</p>
+        <p>Those minutes made explicit the Fed's view that inflation, not a possible economic slowdown, is the biggest threat to the economy -- and that an increase in short-term interest rates is possible to curb inflation. Investors hoping for a rate cut presumably sold off some stock on Wednesday, but the market rebounded smartly on the next two days.</p>
+        <p>Merck, the drug company, gained 10.25 percent for the week, the strongest performance among the Dow industrials.</p>
+        <p>The company on Friday reported a 13 percent jump in first quarter profits, outstripping the expectations of analysts as well as its own forecasts.</p>
+        <p>For the week, the Dow Jones industrial average gained 51.93 points, or 0.4 percent, to close at 12,612.13. The Standard &amp; Poor's 500-stock index climbed 9.09 points, or 0.6 percent, to close at 1,452.85. The Nasdaq composite index rose 20.6 points, or 0.8 percent, to close at 2,491.94.</p>
+        <p>The yield on the 10-year Treasury bond rose 0.01 percentage point, to 4.76 percent.</p>
+        <p>JEFF SOMMER</p>
+        <p>DataBank</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

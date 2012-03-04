@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Swindal on Hand for Opener, But Is on Outside Looking In</title>
+    <meta content="03pins" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/03/sports/baseball/03pins.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837772"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Yankees</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+        <org class="online_producer">New York Yankees</org>
+        <person class="online_producer">Steinbrenner, George M 3d</person>
+        <person class="online_producer">Swindal, Steve</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070403T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F05E6DB1F30F930A35757C0A9619C8B63" item-length="274" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Swindal on Hand for Opener, But Is on Outside Looking In</hl1>
+        <hl2 class="online_headline">On Hand for Opener, Swindal Is on Outside Looking In</hl2>
+      </hedline>
+      <byline class="print_byline">By MICHAEL S. SCHMIDT</byline>
+      <byline class="normalized_byline">Schmidt, Michael S</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The man who had been the chosen successor to lead the Yankees spent opening day at Yankee Stadium avoiding his wife, ducking the suite of the principal owner, George Steinbrenner, and cautiously pronouncing that everything was fine.</p>
+        <p>Last Wednesday, Steinbrenner's daughter Jennifer filed for divorce from Steve Swindal, the team's chairman of the board and the man Steinbrenner had chosen to succeed him.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The man who had been the chosen successor to lead the Yankees spent opening day at Yankee Stadium avoiding his wife and ducking the suite of the principal owner.</p>
+      </block>
+      <block class="full_text">
+        <p>The man who had been the chosen successor to lead the Yankees spent opening day at Yankee Stadium avoiding his wife, ducking the suite of the principal owner, George Steinbrenner, and cautiously pronouncing that everything was fine.</p>
+        <p>Last Wednesday, Steinbrenner's daughter Jennifer filed for divorce from Steve Swindal, the team's chairman of the board and the man Steinbrenner had chosen to succeed him.</p>
+        <p>Swindal did not enter the owner's suite yesterday, where Steinbrenner, three of his children -- Jennifer, Jessica, and Hal -- and an assortment of grandchildren watched the Yankees' 9-5 victory on opening day.</p>
+        <p>Since the divorce was announced, it has become clear that Steinbrenner no longer plans for Swindal to succeed him.</p>
+        <p>Yet Swindal appeared confident outside the stadium after the game as he discussed his future.</p>
+        <p>''It's business as usual,'' Swindal said. ''I am here.''</p>
+        <p>Swindal said that he continued to talk to Steinbrenner from ''time to time.''</p>
+        <p>Swindal's financial interests with the Yankees are complex. He is listed as the chairman of Yankee Global Enterprises, the umbrella company for the club and the YES Network.</p>
+        <p>On Sunday, Steinbrenner announced that a group that included the Yankees had withdrawn from Excelsior Racing, which is among four bidders to run several New York horse tracks. Swindal was considered a key figure in the Excelsior team and was expected to have a major role in its operation.</p>
+        <p>While exiting the stadium, Steinbrenner did not answer questions about his successor. In reference to Carl Pavano's allowing four earned runs in four and a third innings, Steinbrenner said, ''He did well.''</p>
+        <p>Steinbrenner's spokesman, Howard Rubenstein, said Steinbrenner would not comment about Swindal.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

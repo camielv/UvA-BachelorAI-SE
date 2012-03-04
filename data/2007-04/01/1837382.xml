@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="01baseball--refer" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837382"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9804E5DE1E30F932A35757C0A9619C8B63" item-length="171" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>SPECIAL TODAY</p>
+        <p>Baseball 2007  The season preview highlights players from around the world who have migrated to the majors. With profiles of the Mets' David Wright and the Yankees' Derek Jeter, and team-by-team capsules and lineups.</p>
+        <p>Iraq Says Bomb Killed 152  The Iraqi government said 152 people were killed in the truck bombing Tuesday in Tal Afar, about double the number in early reports. At least 27 more were killed in sectarian violence yesterday.</p>
+        <p>PAGE 10</p>
+        <p>It's Florida vs. Ohio State  Florida will face Ohio State tomorrow in the final of the N.C.A.A. men's basketball tournament. The universities also played for the football title in January.</p>
+        <p>SPORTSSUNDAY</p>
+        <p>T: Design  The New York Times Style Magazine looks at the many sides of Modernism, from an austere house in Arizona to a Paris apartment filled with 20th-century design classics.</p>
+        <p>Editorial: The Role of Rove  Congress should focus as much on Karl Rove as on Alberto Gonzales in the United States attorneys affair.</p>
+        <p>WEEK IN REVIEW, PAGE 11</p>
+      </block>
+      <block class="full_text">
+        <p>SPECIAL TODAY</p>
+        <p>Baseball 2007  The season preview highlights players from around the world who have migrated to the majors. With profiles of the Mets' David Wright and the Yankees' Derek Jeter, and team-by-team capsules and lineups.</p>
+        <p>Iraq Says Bomb Killed 152  The Iraqi government said 152 people were killed in the truck bombing Tuesday in Tal Afar, about double the number in early reports. At least 27 more were killed in sectarian violence yesterday.</p>
+        <p>PAGE 10</p>
+        <p>It's Florida vs. Ohio State  Florida will face Ohio State tomorrow in the final of the N.C.A.A. men's basketball tournament. The universities also played for the football title in January.</p>
+        <p>SPORTSSUNDAY</p>
+        <p>T: Design  The New York Times Style Magazine looks at the many sides of Modernism, from an austere house in Arizona to a Paris apartment filled with 20th-century design classics.</p>
+        <p>Editorial: The Role of Rove  Congress should focus as much on Karl Rove as on Alberto Gonzales in the United States attorneys affair.</p>
+        <p>WEEK IN REVIEW, PAGE 11</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

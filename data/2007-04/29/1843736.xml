@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Katherine Brown, Erik Cortes</title>
+    <meta content="29BROWN" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/29/fashion/weddings/29BROWN.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1843736"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Brown, Katherine Michelle Ly-Huong (Katherine Michelle Ly-Huong Cortes)</person>
+        <person class="indexing_service">Cortes, Erik Edwin</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0DE0DD123EF93AA15757C0A9619C8B63" item-length="204" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Katherine Brown, Erik Cortes</hl1>
+        <hl2 class="online_headline">Katherine Brown, Erik Cortes</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Katherine Michelle Ly-Huong Brown and Erik Edwin Cortes were married last evening at Mountainville Manor, an event space in Mountainville, N.Y. The Rev. Christina Haselfeld Wall, an interfaith minister, officiated.</p>
+        <p>Mrs. Cortes, 29, is a housing planner in Seattle for AIDS Housing of Washington. She graduated magna cum laude from Harvard. From 2002 to 2006, she was a policy analyst for the Council of State Governments' Justice Center in New York.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Katherine Michelle Ly-Huong Brown and Erik Edwin Cortes were married last evening at Mountainville Manor, an event space in Mountainville, N.Y. The Rev. Christina Haselfeld Wall, an interfaith minister, officiated.</p>
+      </block>
+      <block class="full_text">
+        <p>Katherine Michelle Ly-Huong Brown and Erik Edwin Cortes were married last evening at Mountainville Manor, an event space in Mountainville, N.Y. The Rev. Christina Haselfeld Wall, an interfaith minister, officiated.</p>
+        <p>Mrs. Cortes, 29, is a housing planner in Seattle for AIDS Housing of Washington. She graduated magna cum laude from Harvard. From 2002 to 2006, she was a policy analyst for the Council of State Governments' Justice Center in New York.</p>
+        <p>She is a daughter of Bach T. Brown and David E. Brown of Hanoi, Vietnam. Her father, who retired as a counselor from the United States Foreign Service, is the program director of the EcoBoat project, an initiative of Fauna and Flora International in Ha Long Bay, Vietnam.</p>
+        <p>Mr. Cortes, 34, works in Seattle as a mobile mapping manager for Tele Atlas North America, a company based in Lebanon, N.H., that provides mapping data to portable navigation units. He graduated from Rutgers.</p>
+        <p>He is a son of Norma J. Cortes and Edwin E. Cortes of Ronkonkoma, N.Y. His mother is an account manager in Bohemia, N.Y., for Nature's Bounty, a nutritional supplement distributor. His father, who is retired, was a supervisor of distribution operations for the United States Postal Service in Bethpage, N.Y.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

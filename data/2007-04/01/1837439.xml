@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="01glovesrefer" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="8A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Front Page; Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837439"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9903EFDD1E30F932A35757C0A9619C8B63" item-length="78" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>What's in a Name  Most buyers of baseball gloves no longer look for a signature in the pocket unless they're children. Page 7.</p>
+        <p>A Voice That Echoes When It's Used  Derek Jeter, the Yankee captain since 2003, defends his restrained reaction to the fans who are unrestrained about Alex Rodriguez. Page 2.</p>
+        <p>Around the Majors  Murray Chass takes a look at what to expect in the divisions this season, with projected starting lineups. Pages 4-5.</p>
+      </block>
+      <block class="full_text">
+        <p>What's in a Name  Most buyers of baseball gloves no longer look for a signature in the pocket unless they're children. Page 7.</p>
+        <p>A Voice That Echoes When It's Used  Derek Jeter, the Yankee captain since 2003, defends his restrained reaction to the fans who are unrestrained about Alex Rodriguez. Page 2.</p>
+        <p>Around the Majors  Murray Chass takes a look at what to expect in the divisions this season, with projected starting lineups. Pages 4-5.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

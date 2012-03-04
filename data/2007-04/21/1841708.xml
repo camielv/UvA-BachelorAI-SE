@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   PYNE, EBEN W.</title>
+    <meta content="dn042107.1" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1841708"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">PYNE, EBEN W.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070421T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E00E0D71F3AF932A15757C0A9619C8B63" item-length="59" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   PYNE, EBEN W.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>PYNE--Eben W., 89, died April 11, 2007, at his home in Hobe Sound, Florida. A Service will be held on May 12 at St. Luke's Episcopal Church, 182 Main St., Gladstone, NJ at 10:30 am. In lieu of flowers, donations can be made to the Brooklyn Museum, Fort Ticonderoga, Juilliard School of Music and the Wildlife Conservation Society.</p>
+      </block>
+      <block class="full_text">
+        <p>PYNE--Eben W., 89, died April 11, 2007, at his home in Hobe Sound, Florida. A Service will be held on May 12 at St. Luke's Episcopal Church, 182 Main St., Gladstone, NJ at 10:30 am. In lieu of flowers, donations can be made to the Brooklyn Museum, Fort Ticonderoga, Juilliard School of Music and the Wildlife Conservation Society.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

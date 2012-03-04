@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TRANSACTIONS</title>
+    <meta content="16transax" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1840789"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070416T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE7DD113FF935A25757C0A9619C8B63" item-length="243" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TRANSACTIONS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>MAJOR LEAGUE BASEBALL</p>
+        <p>American League  YANKEES--Placed RHP Mike Mussina and RHP Carl Pavano on the 15-day DL. Recalled RHP Chris Britton from Scranton/ Wilkes-Barre (IL).  TORONTO BLUE JAYS--Placed LHP B.J. Ryan on the 15-day DL. Purchased the contract of RHP Jamie Vermilyea from Syracuse (IL). Transferred LHP Davis Romero from the 15-to the 60-day DL.</p>
+        <p>National League  ATLANTA BRAVES--Suspended INF Willie Aybar three games for violation of team policy. Placed RHP Chad Paronto on the 15-day DL. Optioned LHP Macay McBride to Richmond (IL). Recalled RHP Peter Moylan and LHP Steve Colyer to Richmond.  COLORADO ROCKIES--Placed INF Kaz Matsui on the 15-day DL. Recalled INF Clint Barmes from Colorado Springs (PCL).  PHILADELPHIA PHILLIES--Activated RHP Freddy Garcia from the 15-day DL. Designated RHP Clay Condrey for assignment.</p>
+        <p>N.B.A.</p>
+        <p>TORONTO RAPTORS--Signed F Luke Jackson for the remainder of this season and the 2007-08 season.</p>
+        <p>N.F.L.</p>
+        <p>ARIZONA CARDINALS--Signed TE Troy Bienemann and OT Qasim Mitchell to one year contracts.  CLEVELAND BROWNS--Signed TE Steve Heiden to a four-year contract extension.  INDIANAPOLIS COLTS--Re-signed QB Jim Sorgi.</p>
+        <p>N.H.L.</p>
+        <p>LEAGUE--Suspended Nashville F Alexander Radulov one game for hitting San Jose F Steve Bernier from behind in an April 13 game.</p>
+        <p>COLLEGE</p>
+        <p>CENTRAL FLORIDA--Announced it is changing its nickname from Golden Knights to Knights.  WICHITA STATE--Named Gregg Marshall men's basketball coach.  WINTHROP--Named Randy Peele men's basketball coach.</p>
+      </block>
+      <block class="full_text">
+        <p>MAJOR LEAGUE BASEBALL</p>
+        <p>American League  YANKEES--Placed RHP Mike Mussina and RHP Carl Pavano on the 15-day DL. Recalled RHP Chris Britton from Scranton/ Wilkes-Barre (IL).  TORONTO BLUE JAYS--Placed LHP B.J. Ryan on the 15-day DL. Purchased the contract of RHP Jamie Vermilyea from Syracuse (IL). Transferred LHP Davis Romero from the 15-to the 60-day DL.</p>
+        <p>National League  ATLANTA BRAVES--Suspended INF Willie Aybar three games for violation of team policy. Placed RHP Chad Paronto on the 15-day DL. Optioned LHP Macay McBride to Richmond (IL). Recalled RHP Peter Moylan and LHP Steve Colyer to Richmond.  COLORADO ROCKIES--Placed INF Kaz Matsui on the 15-day DL. Recalled INF Clint Barmes from Colorado Springs (PCL).  PHILADELPHIA PHILLIES--Activated RHP Freddy Garcia from the 15-day DL. Designated RHP Clay Condrey for assignment.</p>
+        <p>N.B.A.</p>
+        <p>TORONTO RAPTORS--Signed F Luke Jackson for the remainder of this season and the 2007-08 season.</p>
+        <p>N.F.L.</p>
+        <p>ARIZONA CARDINALS--Signed TE Troy Bienemann and OT Qasim Mitchell to one year contracts.  CLEVELAND BROWNS--Signed TE Steve Heiden to a four-year contract extension.  INDIANAPOLIS COLTS--Re-signed QB Jim Sorgi.</p>
+        <p>N.H.L.</p>
+        <p>LEAGUE--Suspended Nashville F Alexander Radulov one game for hitting San Jose F Steve Bernier from behind in an April 13 game.</p>
+        <p>COLLEGE</p>
+        <p>CENTRAL FLORIDA--Announced it is changing its nickname from Golden Knights to Knights.  WICHITA STATE--Named Gregg Marshall men's basketball coach.  WINTHROP--Named Randy Peele men's basketball coach.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

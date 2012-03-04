@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; Fighting to Stay Afloat</title>
+    <meta content="07arts-2" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts; Theater" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838545"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/Plays</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Philanthropy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070407T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F06EFD6173FF934A35757C0A9619C8B63" item-length="133" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; Fighting to Stay Afloat</hl1>
+      </hedline>
+      <byline class="print_byline">By CAMPBELL ROBERTSON; Compiled by Peter Edidin</byline>
+      <byline class="normalized_byline">Robertson, Campbell</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Paper Mill Playhouse in Millburn, N.J., which is facing a $2.8 million shortfall at the end of its season, is continuing its efforts to stay afloat. About $300,000 in donations collected over the past few weeks will keep the theater running and allow the production of ''Seven Brides for Seven Brothers,'' above, to begin on Wednesday as scheduled, said Kenneth Thorn, the chairman of the theater's board of trustees. The board is working to secure a bank loan that would cover the rest of the season, Mr. Thorn said, though it is continuing to solicit contributions to lower the amount needed. The Paper Mill will hold a rally on Monday at the theater, with several state officials and Broadway performers expected to attend.</p>
+        <p>CAMPBELL ROBERTSON</p>
+      </block>
+      <block class="full_text">
+        <p>The Paper Mill Playhouse in Millburn, N.J., which is facing a $2.8 million shortfall at the end of its season, is continuing its efforts to stay afloat. About $300,000 in donations collected over the past few weeks will keep the theater running and allow the production of ''Seven Brides for Seven Brothers,'' above, to begin on Wednesday as scheduled, said Kenneth Thorn, the chairman of the theater's board of trustees. The board is working to secure a bank loan that would cover the rest of the season, Mr. Thorn said, though it is continuing to solicit contributions to lower the amount needed. The Paper Mill will hold a rally on Monday at the theater, with several state officials and Broadway performers expected to attend.</p>
+        <p>CAMPBELL ROBERTSON</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

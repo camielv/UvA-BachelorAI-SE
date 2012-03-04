@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CALENDAR</title>
+    <meta content="25wcal" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining, Dining Out/Cultural Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Dining and Wine" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/25/dining/25wcal.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842718"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070425T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9400E5DC143EF936A15757C0A9619C8B63" item-length="191" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CALENDAR</hl1>
+        <hl2 class="online_headline">Wine Calendar</hl2>
+      </hedline>
+      <byline class="print_byline">By FLORENCE FABRICANT</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Breaking Wine Rules</p>
+        <p>A talk and a tasting by Joshua Wesson, a founder of Best Cellars, about breaking rules when pairing food and wine will be held today from 6:30 to 8:30 p.m. at the Jolly Hotel Madison Towers, 22 East 38th Street. Tickets are $75: unwindwithwine.com.</p>
+        <p>Pinot Noir Weekend</p>
+        <p>A pinot noir festival will be held this weekend. On Friday from 5:30 to 10 p.m. there will be a winemakers dinner at the Tasting Room, 264 Elizabeth Street (Prince Street), $130. On Saturday from 5:30 to 10 p.m. there will be a tasting in Meeting Room 1C02 of the Jacob K. Javits Convention Center, at 655 West 34th Street, $100. And on Sunday from 1 to 5 p.m. in the River Pavilion at the Javits center, there will be a tasting, $50. For tickets: pinotdays.com.</p>
+        <p>Prelude to Kentucky</p>
+        <p>A lunch of Kentucky specialties, including burgoo, with mint juleps to drink, will be held on Tuesday at Gallagher's Steak House, 228 West 52nd Street, with advice on how to bet on the Kentucky Derby. Tickets, $55, benefit the Thoroughbred Retirement Foundation: (212) 245-5336.</p>
+        <p>FLORENCE FABRICANT</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Breaking Wine Rules.</p>
+      </block>
+      <block class="full_text">
+        <p>Breaking Wine Rules</p>
+        <p>A talk and a tasting by Joshua Wesson, a founder of Best Cellars, about breaking rules when pairing food and wine will be held today from 6:30 to 8:30 p.m. at the Jolly Hotel Madison Towers, 22 East 38th Street. Tickets are $75: unwindwithwine.com.</p>
+        <p>Pinot Noir Weekend</p>
+        <p>A pinot noir festival will be held this weekend. On Friday from 5:30 to 10 p.m. there will be a winemakers dinner at the Tasting Room, 264 Elizabeth Street (Prince Street), $130. On Saturday from 5:30 to 10 p.m. there will be a tasting in Meeting Room 1C02 of the Jacob K. Javits Convention Center, at 655 West 34th Street, $100. And on Sunday from 1 to 5 p.m. in the River Pavilion at the Javits center, there will be a tasting, $50. For tickets: pinotdays.com.</p>
+        <p>Prelude to Kentucky</p>
+        <p>A lunch of Kentucky specialties, including burgoo, with mint juleps to drink, will be held on Tuesday at Gallagher's Steak House, 228 West 52nd Street, with advice on how to bet on the Kentucky Derby. Tickets, $55, benefit the Thoroughbred Retirement Foundation: (212) 245-5336.</p>
+        <p>FLORENCE FABRICANT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>In With the New</title>
+    <meta content="nj--james" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1840444"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Legislatures and Parliaments</classifier>
+        <location class="indexing_service">New Jersey</location>
+        <person class="indexing_service">James, Sharpe (Sen)</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Legislatures and Parliaments</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9902E7DD133FF936A25757C0A9619C8B63" item-length="204" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>In With the New</hl1>
+      </hedline>
+      <abstract>
+        <p>Editorial supports decisions by New Jersey State Sen Sharpe James and other incumbent state lawmakers to refrain from seeking re-election</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In announcing last week that he would not seek another term as state senator, Sharpe James, the former Newark mayor, said that ''37 years in politics is a mighty long time.''</p>
+        <p>We agree with that; it's a long time for anyone.</p>
+      </block>
+      <block class="full_text">
+        <p>In announcing last week that he would not seek another term as state senator, Sharpe James, the former Newark mayor, said that ''37 years in politics is a mighty long time.''</p>
+        <p>We agree with that; it's a long time for anyone.</p>
+        <p>Mr. James, who did not seek re-election as mayor last year after 20 years in the position, leaves as federal officials are investigating some of his actions as mayor. There have also been reports that during his final months in City Hall he billed the city for lavish travel and entertainment expenses.</p>
+        <p>Twelve other state senators, nine of them Republicans, and numerous members of the Assembly, have also said they will not seek re-election. Several of them will be missed for their experience and good judgment.</p>
+        <p>But the New Jersey Legislature desperately needs new blood -- and fresh ways of looking at things. For one, it needs a long overdue ban on the practice allowing elected officials to hold more than one public office. That is something the current legislators should do before they leave.</p>
+        <p>And the newcomers will obviously have major challenges. They can make a good start by committing themselves to serving in the public's best interest, and not just their own.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

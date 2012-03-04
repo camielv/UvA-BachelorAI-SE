@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Remix; Arm Candy</title>
+    <meta content="04remix.cib.chandelier.t" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="T: Design Magazine" name="dsk"/>
+    <meta content="42" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts; Style; Magazine" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/01/style/tmagazine/04remix.cib.chandelier.t.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837064"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/T: Style Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">Trade Shows and Fairs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Trade Shows and Fairs</classifier>
+        <org class="online_producer">Baccarat Inc</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D04EFDA1230F932A35757C0A9619C8B63" item-length="144" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Remix; Arm Candy</hl1>
+        <hl2 class="online_headline">Arm Candy</hl2>
+      </hedline>
+      <byline class="print_byline">By Monica Khemsurov</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Baccarat's latest designer collaboration represents a sea change for the 243-year-old company. At the trade show Maison et Objet in January, it unveiled a line of lighting and tableware by the Paris-based designer Arik Levy that is both intellectual and, in the case of the single-armed Fantome chandelier (above), frugal. In a quest to make the tony brand more accessible to those without high ceilings and higher budgets, Levy -- who's known for his scientific approach to design -- proposed chopping up the classic chandelier (figuratively, that is) and selling it by the piece. At $1,990, ''FantÃ$(4$)me can be used as a design element, 55 lined up in a room, or as a complete object,'' he explains. ''The one arm brings the rest of the chandelier with it, psychologically. It feels like all the other arms are flying behind it, like ghosts.''</p>
+        <p>Monica Khemsurov</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Baccarat’s latest designer collaboration represents a sea change for the 243-year-old company.</p>
+      </block>
+      <block class="full_text">
+        <p>Baccarat's latest designer collaboration represents a sea change for the 243-year-old company. At the trade show Maison et Objet in January, it unveiled a line of lighting and tableware by the Paris-based designer Arik Levy that is both intellectual and, in the case of the single-armed Fantome chandelier (above), frugal. In a quest to make the tony brand more accessible to those without high ceilings and higher budgets, Levy -- who's known for his scientific approach to design -- proposed chopping up the classic chandelier (figuratively, that is) and selling it by the piece. At $1,990, ''FantÃ$(4$)me can be used as a design element, 55 lined up in a room, or as a complete object,'' he explains. ''The one arm brings the rest of the chandelier with it, psychologically. It feels like all the other arms are flying behind it, like ghosts.''</p>
+        <p>Monica Khemsurov</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>For a Change, It's Job Applicants Who Call the Shots</title>
+    <meta content="22count" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/22/business/yourmoney/22count.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842188"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="OPENERS: THE COUNT"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/The Count</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">Labor</classifier>
+        <classifier class="online_producer" type="descriptor">Unemployment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hiring and Promotion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Unemployment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B07E3DC163EF931A15757C0A9619C8B63" item-length="188" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>For a Change, It's Job Applicants Who Call the Shots</hl1>
+        <hl2 class="online_headline">For a Change, It’s Job Applicants Who Call the Shots</hl2>
+      </hedline>
+      <byline class="print_byline">By PHYLLIS KORKKI</byline>
+      <byline class="normalized_byline">Korkki, Phyllis</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>If you were asked to come up with an immutable law of job searching, one of them might be this: The lower the unemployment rate, the less time it takes to find a new job.</p>
+        <p>But the world can work in unexpected ways, and so it does now. National unemployment dropped to 4.5 percent in the first quarter of this year, and yet it took job seekers a median 3.6 months to land a new position, according to a survey by Challenger, Gray &amp; Christmas, the outplacement firm.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Opportunities are so abundant in many fields that workers are not willing to settle for just any job.</p>
+      </block>
+      <block class="full_text">
+        <p>If you were asked to come up with an immutable law of job searching, one of them might be this: The lower the unemployment rate, the less time it takes to find a new job.</p>
+        <p>But the world can work in unexpected ways, and so it does now. National unemployment dropped to 4.5 percent in the first quarter of this year, and yet it took job seekers a median 3.6 months to land a new position, according to a survey by Challenger, Gray &amp; Christmas, the outplacement firm.</p>
+        <p>That compares with 2.7 months in the first quarter of last year, when the unemployment rate was 4.7 percent.</p>
+        <p>The reason? Opportunities are so abundant in many fields that workers are not willing to settle for just any job. This is especially true for jobs that require four-year degrees, where unemployment is under 2 percent, according to Challenger.</p>
+        <p>Have you always dreamed of a job with a four-day week working five-hour days with 12 weeks of vacation and free espresso drinks? Based on the numbers, this would be a good time to look for it.</p>
+        <p>PHYLLIS KORKKI</p>
+        <p>OPENERS: THE COUNT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

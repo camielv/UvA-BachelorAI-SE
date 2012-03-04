@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>To Snare a Coveted Banker, Citigroup May Buy a Hedge Fund</title>
+    <meta content="13bank" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1839946"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="indexing_service" type="descriptor">Hedge Funds</classifier>
+        <classifier class="indexing_service" type="descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <org class="indexing_service">Citigroup Inc</org>
+        <person class="indexing_service">Pandit, Vikram</person>
+        <person class="indexing_service">Dash, Eric</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hedge Funds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070413T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B04E4DA133FF930A25757C0A9619C8B63" item-length="480" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>To Snare a Coveted Banker, Citigroup May Buy a Hedge Fund</hl1>
+      </hedline>
+      <byline class="print_byline">By ERIC DASH; Jenny Anderson contributed reporting.</byline>
+      <byline class="normalized_byline">Dash, Eric</byline>
+      <abstract>
+        <p>Citigroup is close to buying Old Lane hedge fund as part of deal that would put Vikram Pandit, former top executive at Morgan Stanley, at head of its alternative investments group; Citigroup is buying fund that Pandit helped found little more than year ago as way to bring him aboard; deal is expected to cost $600 million to $800 million (M)t</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Citigroup is close to buying a hedge fund as part of a deal that would put a former top executive at Morgan Stanley at the head of its alternative investments group, people close to the negotiations said last night.</p>
+        <p>Citigroup, the financial services giant, has spent months courting the executive, Vikram Pandit, who left Morgan Stanley in 2005 after he was blocked for a chance at running the investment bank.</p>
+      </block>
+      <block class="full_text">
+        <p>Citigroup is close to buying a hedge fund as part of a deal that would put a former top executive at Morgan Stanley at the head of its alternative investments group, people close to the negotiations said last night.</p>
+        <p>Citigroup, the financial services giant, has spent months courting the executive, Vikram Pandit, who left Morgan Stanley in 2005 after he was blocked for a chance at running the investment bank.</p>
+        <p>According to those close to the deal, Citigroup is buying Old Lane, the hedge fund that Mr. Pandit helped found a little more than a year ago, as a way to bring him aboard.</p>
+        <p>With the deal expected to cost $600 million to $800 million, Citigroup would be paying a big premium to appoint a new head of its alternative investment group. But the unit has been absent a full-time leader for over a year and is seen as a crucial part of Citigroup's growth. The actual price for the fund will depend on performance, those involved said.</p>
+        <p>Mr. Pandit and a Citigroup spokesman declined to comment last night.</p>
+        <p>The appointment of a seasoned leader like Mr. Pandit would go a long way in helping the bank's chief executive, Charles O. Prince III, overcome Wall Street's perception that Citigroup has a leadership void.</p>
+        <p>While Mr. Prince has dismissed the notion that he lacked a successor, Citigroup's senior management team is seen as being too young and inexperienced for the top job.</p>
+        <p>Although the recent hiring of Gary L. Crittenden as its new financial chief helped fill some of the talent gap, Mr. Crittenden has never run a big financial conglomerate.</p>
+        <p>For Citigroup, the purchase of Old Lane, which has a separate investment fund focused on real estate and infrastructure opportunities in India, may help fill another void.</p>
+        <p>Buying hedge funds is in vogue, especially for Wall Street banks who are seeking to capitalize on the meteoric growth in alternative investing. For the most part, the banks are seeking two things: access to the hedge funds for their private banking and high net worth clients, and income from the gush of fees thrown off by hedge funds that do well.</p>
+        <p>JPMorgan Chase blazed a path into hedge fund acquisitions in 2004, buying Highbridge Capital Management. At the time, rivals scoffed at the price and predicted the deal would fail. In fact, the fund has soared to assets of more than $17 billion this year from $6.6 billion.</p>
+        <p>Citigroup's purchase of Old Lane is particularly spectacular considering Old Lane's short and unimpressive track record.</p>
+        <p>By contrast, Lehman Brothers recently bought a 20 percent stake in two management units run by D.E. Shaw. Last year, Morgan Stanley purchased stakes in FrontPoint Partners, Avenue Capital Group and Lansdowne Partners, a well-known fund based in Britain. When JPMorgan bought Highbridge it had more than a decade-long track record.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

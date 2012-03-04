@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Diana Kim, Steig Olson</title>
+    <meta content="15dkim" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1840490"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Kim, Diana Kyung</person>
+        <person class="indexing_service">Olson, Steig David</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940CE0D9133FF936A25757C0A9619C8B63" item-length="168" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Diana Kim, Steig Olson</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Diana Kyung Kim, the daughter of Ki Sim Kim and Dae Youl Kim of Riverside, Calif., was married yesterday to Steig David Olson, a son of Colleen F. Olson and Dwight M. Olson of Cleveland Heights, Ohio. The Rev. Beth Waltemath officiated at the First Presbyterian Church in Brooklyn.</p>
+        <p>Ms. Kim-Olson, 29, is an associate at Condon &amp; Forsyth, a Manhattan law firm. She graduated from Johns Hopkins University and received her law degree from the University of California's Hastings College of the Law in San Francisco.</p>
+      </block>
+      <block class="full_text">
+        <p>Diana Kyung Kim, the daughter of Ki Sim Kim and Dae Youl Kim of Riverside, Calif., was married yesterday to Steig David Olson, a son of Colleen F. Olson and Dwight M. Olson of Cleveland Heights, Ohio. The Rev. Beth Waltemath officiated at the First Presbyterian Church in Brooklyn.</p>
+        <p>Ms. Kim-Olson, 29, is an associate at Condon &amp; Forsyth, a Manhattan law firm. She graduated from Johns Hopkins University and received her law degree from the University of California's Hastings College of the Law in San Francisco.</p>
+        <p>Her father is a residential sales agent at a Re/Max agency in Riverside.</p>
+        <p>Mr. Olson, 31, is a senior associate in the Manhattan office of Cohen, Milstein, Hausfeld &amp; Toll, a Washington law firm. He graduated from Vassar and received his law degree from Harvard.</p>
+        <p>His mother retired as an assistant professor and the coordinator of the early childhood program at Cuyahoga Community College in Cleveland. His father is a professor of mathematics at John Carroll University in University Heights, Ohio.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

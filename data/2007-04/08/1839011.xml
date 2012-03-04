@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>On the Web</title>
+    <meta content="WEB.t" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1839011"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070408T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE2D71130F93BA35757C0A9619C8B63" item-length="91" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>On the Web</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Podcast: Scheduled to appear this week are Katie Roiphe on A. M. Homes (above, in the mid-'60s); Alex Kuczynski on Paulina Porizkova; and John Rockwell on Columbia Records. Dwight Garner, the senior editor of the Book Review, is the guest host.</p>
+        <p>First Chapters: Excerpts from ''A Model Summer,'' by Paulina Porizkova; ''Evolution for Everyone,'' by David Sloan Wilson; and other books.</p>
+        <p>Search: A free archive of book reviews since 1981.</p>
+        <p>Books Update E-Mail: Receive a selective overview of new book reviews and features every Sunday.</p>
+        <p>www.nytimes.com/books</p>
+      </block>
+      <block class="full_text">
+        <p>Podcast: Scheduled to appear this week are Katie Roiphe on A. M. Homes (above, in the mid-'60s); Alex Kuczynski on Paulina Porizkova; and John Rockwell on Columbia Records. Dwight Garner, the senior editor of the Book Review, is the guest host.</p>
+        <p>First Chapters: Excerpts from ''A Model Summer,'' by Paulina Porizkova; ''Evolution for Everyone,'' by David Sloan Wilson; and other books.</p>
+        <p>Search: A free archive of book reviews since 1981.</p>
+        <p>Books Update E-Mail: Receive a selective overview of new book reviews and features every Sunday.</p>
+        <p>www.nytimes.com/books</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

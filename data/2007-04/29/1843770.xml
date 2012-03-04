@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Emlyn Jones, Eric Poolman</title>
+    <meta content="29JONES" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/29/fashion/weddings/29JONES.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1843770"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Jones, Emlyn Starr</person>
+        <person class="indexing_service">Poolman, Dr. Eric Michael</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E03E6DA123EF93AA15757C0A9619C8B63" item-length="260" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Emlyn Jones, Eric Poolman</hl1>
+        <hl2 class="online_headline">Emlyn Jones, Eric Poolman</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Emlyn Starr Jones was married yesterday to Dr. Eric Michael Poolman in Waterford, Conn. Timothy Sullivan, a friend of the couple who became a Universal Life minister for this event, officiated at Eolia, a mansion in Harkness Memorial State Park.</p>
+        <p>The couple met at Yale, where the bride is a candidate for a medical degree and a master's degree in health science research, and the bridegroom is a postdoctoral fellow, researching the spread of infectious diseases.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Emlyn Starr Jones was married yesterday to Dr. Eric Michael Poolman in Waterford, Conn. Timothy Sullivan, a friend of the couple who became a Universal Life minister for this event, officiated at Eolia, a mansion in Harkness Memorial State Park.</p>
+      </block>
+      <block class="full_text">
+        <p>Emlyn Starr Jones was married yesterday to Dr. Eric Michael Poolman in Waterford, Conn. Timothy Sullivan, a friend of the couple who became a Universal Life minister for this event, officiated at Eolia, a mansion in Harkness Memorial State Park.</p>
+        <p>The couple met at Yale, where the bride is a candidate for a medical degree and a master's degree in health science research, and the bridegroom is a postdoctoral fellow, researching the spread of infectious diseases.</p>
+        <p>Before attending Yale, the bride and bridegroom were Peace Corps volunteers, each serving as health aides. She was in Niger from 1994 to 1997, and he was in El Kelaa M'Gouna, Morocco, from 1995 to 1997.</p>
+        <p>The bride, 34, is keeping her name. She graduated from Vassar and received a master's degree in public health from Emory.</p>
+        <p>She is the daughter of Lynne Norvell Jones of Needham, Mass., and David Henry Jones of San Francisco. Her father retired as a chemical engineer and former vice president of the Badger Company, which became a subsidiary of Raytheon Company in Cambridge, Mass. Her mother is the head librarian at the Buckingham Browne and Nichols School in Cambridge.</p>
+        <p>The bridegroom, 33, received a joint medical doctorate and M.B.A. from Yale. He graduated from Stanford.</p>
+        <p>He is a son of Candice Campbell Poolman of Evanston, Ill., and the late Robert Poolman Jr. of San Francisco. His mother is a project director at Northwestern University. His father was a founder of PSP Information Group, a company in San Francisco that designed and maintained software for county mental health agencies.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

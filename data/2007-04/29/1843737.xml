@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Rebecca Charnas, Scott Grant</title>
+    <meta content="29Charnas" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/29/fashion/weddings/29Charnas.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1843737"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Charnas, Rebecca Jane (Rebecca Jane Grant)</person>
+        <person class="indexing_service">Grant, Scott Wagner</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE0DD123EF93AA15757C0A9619C8B63" item-length="207" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Rebecca Charnas, Scott Grant</hl1>
+        <hl2 class="online_headline">Rebecca Charnas, Scott Grant</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Rebecca Jane Charnas and Scott Wagner Grant were married yesterday by Rabbi Jane Rachel Litman at the chapel of the Interfaith Center at the Presidio in San Francisco.</p>
+        <p>The couple received law degrees from Yale, where they met.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Rebecca Jane Charnas and Scott Wagner Grant were married yesterday by Rabbi Jane Rachel Litman at the chapel of the Interfaith Center at the Presidio in San Francisco.</p>
+      </block>
+      <block class="full_text">
+        <p>Rebecca Jane Charnas and Scott Wagner Grant were married yesterday by Rabbi Jane Rachel Litman at the chapel of the Interfaith Center at the Presidio in San Francisco.</p>
+        <p>The couple received law degrees from Yale, where they met.</p>
+        <p>Mrs. Grant, 29, is a clerk for Judge Guido Calabresi of the United States Court of Appeals for the Second Circuit in New Haven. In August she is to become a clerk for Judge Arthur J. Gajarsa of the United States Court of Appeals for the Federal Circuit in Washington. She graduated magna cum laude from Yale and received a master's in biology from the Massachusetts Institute of Technology. She is a daughter of Renée Harris Charnas and Andrew E. Charnas of San Francisco.</p>
+        <p>Mr. Grant, 28, is the Thomas Emerson Human Rights fellow at David Rosen &amp; Associates, a New Haven law firm specializing in human rights issues and public interest law. The fellowship is awarded by the firm to recent law graduates with an interest in civil rights. In August he is to become a special litigation and forensics fellow at the Public Defender Service for the District of Columbia. He graduated from Swarthmore. He is the son of Cheryl Grant and Stephen Grant of Salem, S.C.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

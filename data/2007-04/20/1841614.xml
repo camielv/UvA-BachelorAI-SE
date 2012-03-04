@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; Sanjaya's Exit Makes Fox's Night</title>
+    <meta content="20arts-3" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1841614"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ratings and Rating Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070420T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9502E1D71F3FF933A15757C0A9619C8B63" item-length="176" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; Sanjaya's Exit Makes Fox's Night</hl1>
+      </hedline>
+      <byline class="print_byline">By BENJAMIN TOFF; Compiled by Lawrence Van Gelder</byline>
+      <byline class="normalized_byline">Toff, Benjamin</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Sanjaya Malakar, below, the divisive 17-year-old ''American Idol'' contestant better known for his hairstyles than his singing talent, reached the end of his run on Wednesday. Receiving the fewest votes of the more than 38 million cast, Mr. Malakar was told of his departure on Fox's ''American Idol'' results show, which garnered 28.2 million viewers in the 9 p.m. hour, according to Nielsen's estimates. Fox led the night's ratings over all, but ''Bones'' at 8 (7.9 million) posted the slimmest of leads in the hour, ahead of CBS's ''Jericho'' (7.8 million). Among adults 18 to 49, NBC's ''Thank God You're Here'' (7.2 million) actually won the hour, while CW's ''America's Next Top Model'' (5.2 million) finished a close second in the demographic. CBS, whose schedule was in repeat following ''Jericho,'' edged out ABC for second place in total viewers for the night, but ABC finished ahead among adults 18 to 49. ABC's ''Lost'' once again led the 10 p.m. hour (11.7 million) despite earning below-average ratings.</p>
+        <p>BENJAMIN TOFF</p>
+      </block>
+      <block class="full_text">
+        <p>Sanjaya Malakar, below, the divisive 17-year-old ''American Idol'' contestant better known for his hairstyles than his singing talent, reached the end of his run on Wednesday. Receiving the fewest votes of the more than 38 million cast, Mr. Malakar was told of his departure on Fox's ''American Idol'' results show, which garnered 28.2 million viewers in the 9 p.m. hour, according to Nielsen's estimates. Fox led the night's ratings over all, but ''Bones'' at 8 (7.9 million) posted the slimmest of leads in the hour, ahead of CBS's ''Jericho'' (7.8 million). Among adults 18 to 49, NBC's ''Thank God You're Here'' (7.2 million) actually won the hour, while CW's ''America's Next Top Model'' (5.2 million) finished a close second in the demographic. CBS, whose schedule was in repeat following ''Jericho,'' edged out ABC for second place in total viewers for the night, but ABC finished ahead among adults 18 to 49. ABC's ''Lost'' once again led the 10 p.m. hour (11.7 million) despite earning below-average ratings.</p>
+        <p>BENJAMIN TOFF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Film in Review; The Condemned</title>
+    <meta content="27roun-1" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1843261"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Catsoulis, Jeannette</person>
+        <person class="indexing_service">Wiper, Scott</person>
+        <person class="indexing_service">Austin, Steve</person>
+        <object.title class="indexing_service">Condemned, The (Movie)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/Reviews</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070427T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E07EEDE123EF934A15757C0A9619C8B63" item-length="245" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Film in Review; The Condemned</hl1>
+      </hedline>
+      <byline class="print_byline">By JEANNETTE CATSOULIS</byline>
+      <byline class="normalized_byline">Catsoulis, Jeannette</byline>
+      <abstract>
+        <p>Jeannette Catsoulis reviews film The Condemned, directed by Scott Wiper; Steve Austin stars; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Opens today nationwide.  Directed by Scott Wiper  100 minutes</p>
+        <p>Tailor-made for those who like their violence multifaceted and their women monosyllabic, ''The Condemned'' tosses a selection of action movies-- ''Con Air,'' ''The Running Man,'' ''Series 7: The Contenders'' -- into a blender and serves up the resulting mush. A simpleminded vehicle for the wrestling star Steve Austin, the movie will slide into foreign markets with no need for elaborate subtitles or cultural translation. The language of pain is universal.</p>
+      </block>
+      <block class="full_text">
+        <p>Opens today nationwide.  Directed by Scott Wiper  100 minutes</p>
+        <p>Tailor-made for those who like their violence multifaceted and their women monosyllabic, ''The Condemned'' tosses a selection of action movies-- ''Con Air,'' ''The Running Man,'' ''Series 7: The Contenders'' -- into a blender and serves up the resulting mush. A simpleminded vehicle for the wrestling star Steve Austin, the movie will slide into foreign markets with no need for elaborate subtitles or cultural translation. The language of pain is universal.</p>
+        <p>As Jack Conrad, one of 10 musclebound lowlifes extracted from Third World prisons by an Internet reality show and forced to fight to the death on a desert island, Mr. Austin displays the acting ability of a tranquilized tree stump. Dredging his few lines from a neck like a heifer's midsection, Jack fights to stay alive and dreams of his girlfriend back home. Little does he know she's in a Texas bar, following his every live-streamed move.</p>
+        <p>Leaden and inept, ''The Condemned'' is unable to deliver even the action goods, presenting every fight scene in such quaking, extreme close-up it's difficult to tell who's pummeling whom. And as one character lectures on the ethics of broadcasting heavily manipulated violence, it's clear the producers, World Wrestling Entertainment, are as ignorant of irony as they are of filmmaking.</p>
+        <p>JEANNETTE CATSOULIS</p>
+        <p>''The Condemned'' is rated R (Under 17 requires accompanying parent or adult guardian). It has explicit language, exploding body parts and expletory moralizing.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

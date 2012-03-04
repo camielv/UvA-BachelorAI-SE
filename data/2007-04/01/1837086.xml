@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Popular Mechanics</title>
+    <meta content="04well.profile.t" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="T: Design Magazine" name="dsk"/>
+    <meta content="142" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Style; Magazine" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/01/style/tmagazine/04well.profile.t.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837086"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/T: Style Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Netherlands</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Netherlands</classifier>
+        <classifier class="online_producer" type="general_descriptor">Design</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A06E7D91230F932A35757C0A9619C8B63" item-length="421" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Popular Mechanics</hl1>
+        <hl2 class="online_headline">Popular Mechanics</hl2>
+      </hedline>
+      <byline class="print_byline">By Chee Pearlman</byline>
+      <byline class="normalized_byline">Pearlman, Chee</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>When your local nail salon declares its hipness with a festoon of lanterns from an obscure Dutch designer, you know that designer won't remain obscure much longer. Bertjan Pot, 31, is part of the new generation of Dutch innovators -- Hella Jongerius and Marcel Wanders are among them -- who regard design almost like competitive sport. Pot's Random Light (seen here in his Schiedam, Netherlands, studio among variations on the light's open-weave theme) has rapidly taken its place in the canon of perfect signifiers of Dutch design genius. But unlike Wanders's seminal Knotted Chair or Jongerius's embroidered vase, the Random Light, which Pot originally crafted by wrapping fiberglass strands soaked in resin around a huge party balloon, has sold about 15,000 copies since its debut in 2002, making Pot a commercial success as well. ''It started as a handmade experiment,'' says Pot, who spent three years perfecting the production technique. (The Random is now machine-wrought.) ''It has come into the public consciousness much more than I could have ever expected.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Even in the whiz-kid world of Dutch design, Bertjan Pot’s work gets a gold star.</p>
+      </block>
+      <block class="full_text">
+        <p>When your local nail salon declares its hipness with a festoon of lanterns from an obscure Dutch designer, you know that designer won't remain obscure much longer. Bertjan Pot, 31, is part of the new generation of Dutch innovators -- Hella Jongerius and Marcel Wanders are among them -- who regard design almost like competitive sport. Pot's Random Light (seen here in his Schiedam, Netherlands, studio among variations on the light's open-weave theme) has rapidly taken its place in the canon of perfect signifiers of Dutch design genius. But unlike Wanders's seminal Knotted Chair or Jongerius's embroidered vase, the Random Light, which Pot originally crafted by wrapping fiberglass strands soaked in resin around a huge party balloon, has sold about 15,000 copies since its debut in 2002, making Pot a commercial success as well. ''It started as a handmade experiment,'' says Pot, who spent three years perfecting the production technique. (The Random is now machine-wrought.) ''It has come into the public consciousness much more than I could have ever expected.''</p>
+        <p>Pot is a materials man at heart: inspiration, for him, comes from the micro level of fibers. ''Almost all my designs are experiments in materials, old and new,'' he says. His Carbon Chair, like the Random Light, is an exercise in reduction, in this case strands of carbon fiber, coiled and wrapped to create a structural chair without metal that typically weighs just under three pounds. (Unfortunately for Pot and Wanders, who collaborated on the acclaimed Carbon Chair for Wanders's manufacturing company, Moooi, nearly all carbon fiber on the market is hoarded by the aircraft industry, making the popular chair prohibitively expensive -- but highly collectible.) ''Bertjan is in his laboratory with a focused passion to do something no one else sees how to do,'' Wanders says. ''You have to be really insanely curious to solve problems like the Random Light.''</p>
+        <p>Pot, who describes his rural upbringing as ''Calvinist and no-nonsense,'' brings typical Dutch soberness to his designs, as opposed to, he says, the Italians, who ''have so much drama in their work!'' But that doesn't mean he doesn't have a sense of humor about what he does. Take, for example, works like Old Fruits: Tops and Bottoms, hanging lamps made from halved gourds and sold in pairs. Or Balls, a folding table with legs created from stacked spheres the size of tennis balls and painted glossy blue. Very sly indeed! Not that the ladies getting a mani/pedi under a cluster of Pot's Random Lights would know or care about that.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

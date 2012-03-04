@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>OBSERVATORY</title>
+    <meta content="01obse1" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/05/01/science/01observ.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1844178"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Observatory"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Observatory</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Wildlife</classifier>
+        <classifier class="online_producer" type="descriptor">Monkeys and Apes</classifier>
+        <classifier class="online_producer" type="descriptor">Trees and Shrubs</classifier>
+        <classifier class="online_producer" type="descriptor">Fungi</classifier>
+        <classifier class="online_producer" type="descriptor">Fossils</classifier>
+        <classifier class="online_producer" type="general_descriptor">Trees and Shrubs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Monkeys and Apes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Archaeology and Anthropology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070501T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F00E5D9133EF932A35756C0A9619C8B63" item-length="835" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>OBSERVATORY</hl1>
+        <hl2 class="online_headline">Instead of Leaping, Sumatran Orangutans Sway From Tree to Tree</hl2>
+      </hedline>
+      <byline class="print_byline">By Henry Fountain</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In Detecting Mass, One Laboratory Mimics the Diving Board</p>
+        <p>Picture a diving board that is oscillating regularly, its tip going up and down. Climb on it and what happens? Your mass dampens the oscillations, reducing their frequency and height.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Orangutans in Sumatra cause an entire tree to sway in order to move around the jungle.</p>
+      </block>
+      <block class="full_text">
+        <p>In Detecting Mass, One Laboratory Mimics the Diving Board</p>
+        <p>Picture a diving board that is oscillating regularly, its tip going up and down. Climb on it and what happens? Your mass dampens the oscillations, reducing their frequency and height.</p>
+        <p>That's the principle behind an analytical device developed by researchers at the Massachusetts Institute of Technology. Only their ''diving board'' is a cantilever of silicon, just one-fifth of a millimeter long and much thinner, made to oscillate electrostatically. And instead of putting mass on top, they put it in a U-shaped channel inside the cantilever.</p>
+        <p>The result is an easy-to-fabricate, robust device that could be used to detect biomolecules, say, or nanoparticles, by measuring minute changes in the oscillations of the cantilever as the molecules or particles flow inside it, adding mass.</p>
+        <p>Scott R. Manalis, an M.I.T. professor in whose lab the device was developed (and who is a co-author of a paper  in Nature describing it), said no one had figured out how to make a cantilever mass-detection tool work at a high level of sensitivity in a liquid, a necessity for biological assays. It would be like having a diving board underwater, he said: the liquid dampens the oscillations too much.</p>
+        <p>His team's solution was to put the liquid inside the cantilever by fabricating the enclosed channel. ''It was an 'Aha!' moment,'' he said.</p>
+        <p>The cantilever can work two ways. To detect a specific antigen, for example, the channel walls could be coated with an antibody that binds with it. As the antigen molecules traveled through the channel they would accumulate, adding mass to the cantilever and eventually affecting the oscillation frequency.</p>
+        <p>A more novel approach could measure relatively large single particles traveling through the channel. As a particle moved toward the tip of the cantilever, it would affect the oscillations to a greater degree. Measuring that dip in frequency would give the particle's mass.</p>
+        <p>Dr. Manalis said that with either method, the channeled cantilever holds promise as an analytical tool. Most current biomolecule detection systems involve optics, which can make them both expensive and delicate. A cantilever device should be relatively inexpensive to make and robust enough for field use, he said.</p>
+        <p>Instead of Leaping, Sumatran Orangutans Sway From Tree to Tree</p>
+        <p>For animals that spend most of their time in trees, getting around can be costly. Jumping the gap from a thin branch to another tree can be inefficient (not to mention risky), because the bending branch absorbs some of the jump energy. Another option is climbing down one tree and up the other, but this takes energy, too.</p>
+        <p>Orangutans in Sumatra take a third approach: they cause the entire tree to sway until the top is close enough to a neighboring tree for the animal to reach a branch or vine.</p>
+        <p>While tree-swaying might seem to be the most labor-intensive technique of all, a study by Susannah K. Thorpe of the University of Birmingham in England and colleagues shows that it uses about half the energy of a typical jump, and about a tenth or less of the energy expended in climbing up another tree or vine.</p>
+        <p>Dr. Thorpe videotaped wild orangutans in the Gunung Leuser National Park, and calculated energy costs based on the weight of the animal, its height on the tree, the thickness of the trunk and the amount of sway. The findings  were reported in Biology Letters.</p>
+        <p>Sumatra orangutans are preyed upon by tigers, so they spend almost all their time in trees. Tree swaying (and a few other observed movements that also rely on tree and branch bending) is a way to avoid having to descend to the ground.</p>
+        <p>''Our study shows that not only do these forms of gap crossing increase safety,'' Dr. Thorpe said, ''but they also decrease the cost of crossing the gap.''</p>
+        <p>Looks Like a Tree Fossil But Acted Like a Fungus, Researchers Discover</p>
+        <p>Among fossils, few are stranger than that of Prototaxites, which lived about 400 million years ago. The fossils are like tree trunks -- about 3 feet in diameter and up to 25 feet long -- but Prototaxites is unlike any known tree, living or extinct. In fact, it is unlike most anything, and scientists have never been sure if it was a lichen, a giant alga, a fungus or something else entirely.</p>
+        <p>Now isotopic analysis of fossils from Ontario and Quebec strongly suggest that ''giant fungus'' is the proper description. The analysis, by C. Kevin Boyce of the University of Chicago and colleagues, shows that Prototaxites probably dined off other living things, as a fungus would. The findings are published in the journal Geology.</p>
+        <p>The researchers looked at concentrations of carbon isotopes in the fossils. Isotopic concentrations in some fossils, for example, approximated those in fossil plants from the same area, indicating that Prototaxites consumed land plants. Other fossils from other locations had different concentrations of isotopes, and in those cases, the researchers suggest, the fungus may have consumed microbes in soil crusts.</p>
+        <p>Observatory</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ivy League Admissions</title>
+    <meta content="l12ivy" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1839724"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="indexing_service" type="descriptor">Admissions Standards</classifier>
+        <person class="indexing_service">Waxman, Maron L</person>
+        <person class="indexing_service">Minette, Ellen</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Admissions Standards</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070412T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9404E4D9123FF931A25757C0A9619C8B63" item-length="312" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ivy League Admissions</hl1>
+      </hedline>
+      <abstract>
+        <p>Two letters comment on April 4 article on admissions at Ivy League colleges; Maron L Waxman says it is important to remember that highly selective colleges accept applicants who fill their needs; Ellen Minette says high number of applications to Ivy League colleges is result of aggressive solicitation of students that colleges never intended to accept</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''A Great Year for Ivy League Colleges, but Not So Good for Applicants to Them'' (Education page, April 4):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''A Great Year for Ivy League Colleges, but Not So Good for Applicants to Them'' (Education page, April 4):</p>
+        <p>When my daughter was starting the college process at a competitive New York high school, we parents were invited to a talk by the dean of admissions from a highly selective university. He explained that colleges did not reject applicants; they accepted them.</p>
+        <p>The problem is that almost all the students applying to selective colleges are qualified. The job of the admissions office, then, is to accept those students who fill the needs of the college -- violists for the orchestra; potential French, anthropology and chemistry majors to ensure that all departments are represented; cheerleaders, chess players, altos and tenors, Westerners and Southerners. At some point all the slots are filled, with no places for the many other qualified applicants.</p>
+        <p>In the seemingly arbitrary process of college admission, this explanation offered some rationale for the fact that SAT scores and high school grades were not the most significant criteria for college admission.</p>
+        <p>Maron L. Waxman  New York, April 7, 2007</p>
+        <p>To the Editor:</p>
+        <p>In addition to the reasons you note for the high number of applications to the Ivy League colleges, there is another: the colleges aggressively solicit applicants. My son received several letters from one Ivy college and an application from another.</p>
+        <p>He applied to both and, of course, was turned down by both. Although my son is an attractive candidate, I do not believe that he stood a serious chance of being accepted.</p>
+        <p>The practice of contacting students is a marketing gimmick that is a cash cow for the universities and improves their admissions numbers.</p>
+        <p>Shame on us for being taken in. Double shame on these universities for even suggesting that these students had a chance.</p>
+        <p>Ellen Minette  Heidelberg, Germany, April 4, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

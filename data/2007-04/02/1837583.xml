@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Accounts</title>
+    <meta content="02addes-2" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837583"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="ADDENDA"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Addenda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070402T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE0D71E30F931A35757C0A9619C8B63" item-length="209" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Accounts</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Sears Holdings, Hoffman Estates, Ill., placed in review the media planning and buying account for its Kmart and Sears chains. The assignments, with spending estimated at $750 million, are handled by two agencies owned by the WPP Group: MindShare, for traditional ads, and MEC Interaction, for online ads.</p>
+        <p>Qwest Communications, Denver, is placing in review the creative part of its consumer advertising account, now handled by the New York office of Rivet, part of the Interpublic Group of Companies. Spending was estimated at $95 million. Rivet will be invited to participate in the review along with a short list of other agencies to be determined, said Kate Varden, a Qwest spokeswoman.</p>
+      </block>
+      <block class="full_text">
+        <p>Sears Holdings, Hoffman Estates, Ill., placed in review the media planning and buying account for its Kmart and Sears chains. The assignments, with spending estimated at $750 million, are handled by two agencies owned by the WPP Group: MindShare, for traditional ads, and MEC Interaction, for online ads.</p>
+        <p>Qwest Communications, Denver, is placing in review the creative part of its consumer advertising account, now handled by the New York office of Rivet, part of the Interpublic Group of Companies. Spending was estimated at $95 million. Rivet will be invited to participate in the review along with a short list of other agencies to be determined, said Kate Varden, a Qwest spokeswoman.</p>
+        <p>Stein Mart, Jacksonville, Fla., the retail chain, chose DeVito/Verdi, New York, to handle its account, which had been at Fry Hammond Barr, Orlando, Fla. Media spending is being planned at more than $50 million.</p>
+        <p>Smith Barney, New York, a unit of Citigroup, placed in review its account, which had been at the New York office of Hill, Holliday, Connors, Cosmopulos, part of the Interpublic Group of Companies. Spending was estimated at $20 million. The review was prompted by the agency's Boston office landing work from a division of Bank of America, which Smith Barney perceived as a conflict.</p>
+        <p>ADDENDA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

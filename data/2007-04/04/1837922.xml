@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Powerful Formula Built for the Street</title>
+    <meta content="NUGGET--MercedesBenzAMGBlack" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Automobiles" name="dsk"/>
+    <meta content="" name="print_section"/>
+    <meta content="Automobiles" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837922"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070404T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A06EED9163FF937A35757C0A9619C8B63" item-length="279" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Powerful Formula Built for the Street</hl1>
+      </hedline>
+      <byline class="print_byline">By RICHARD S. CHANG</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Introduced on Wednesday: 2007 Mercedes-Benz CLK63 AMG Black Series</p>
+        <p>Is it real? A version of the CLK63 AMG Black Series is the current safety car for Formula One. This one just doesn't have the decals and flashing lights.</p>
+      </block>
+      <block class="full_text">
+        <p>Introduced on Wednesday: 2007 Mercedes-Benz CLK63 AMG Black Series</p>
+        <p>Is it real? A version of the CLK63 AMG Black Series is the current safety car for Formula One. This one just doesn't have the decals and flashing lights.</p>
+        <p>What's the point? While AMG is celebrating its 40th year, the company is also taking advantage of its involvement in Formula One, the most technologically advanced racing series in the world.</p>
+        <p>What they said: "It has a completely new suspension and a 2.8-inch wider track than the standard CLK," said Volker Mornhinweg, chairman of AMG. "And thanks to all of these modifications and more, it can accelerate from 0-to-60 in 4.1 seconds and hit 186 miles an hour."</p>
+        <p>What they didn't say: Feeling the heat from other luxury automakers, which are churning out ultraperformance models faster than you can say Nürburgring, AMG is clearly beating its chest. Later this year, it will introduce a new marketing strategy to broaden its consumer base.</p>
+        <p>What makes it tick? The CLK63 Black Series has a lusty 6.3-liter V-8 that's been groomed to a make a scorching 500 horsepower. It is the first engine designed completely by AMG.</p>
+        <p>How much, how soon? Only 500 are planned for production with a reserve of 200 more. With that kind of exclusivity, you can expect prices lofting up toward six figures when the CLK63 Black Series hits showrooms in July.</p>
+        <p>How's it look? While it may be a street version of the Formula One safety car, the whole Black Series get-up -- sharply angled fender flares in the front and back and a carbon-fiber overload -- will probably look much more at home on the racetrack.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

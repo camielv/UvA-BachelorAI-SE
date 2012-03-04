@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Remix; Book Smart | Home Edition</title>
+    <meta content="04remix.cib.draper.t" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="T: Design Magazine" name="dsk"/>
+    <meta content="42" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Style; Magazine" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/01/style/tmagazine/04remix.cib.draper.t.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837062"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/T: Style Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE0DA1230F932A35757C0A9619C8B63" item-length="111" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Remix; Book Smart | Home Edition</hl1>
+        <hl2 class="online_headline">Book Smart | Home Edition</hl2>
+      </hedline>
+      <byline class="print_byline">By Pilar Viladas</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>If you're confused by the plethora of new decorating books out there, try an old one. Pointed Leaf Press has reissued ''Decorating Is Fun!,'' the 1939 how-to volume by the legendary American designer and lifestyle guru Dorothy Draper. In it, she extols the virtues of black-and-white checkerboard floors, chintz slipcovers and painting your front door a bright, welcoming color, among other tips that ring as true today as they did when she wrote them. And once you've settled into your new home, you can learn how to be the hostess with the mostest in Draper's 1941 sequel, ''Entertaining Is Fun!,'' which was reissued by Rizzoli in 2004.</p>
+        <p>Pilar Viladas</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>If you’re confused by the plethora of new decorating books out there, try an old one.</p>
+      </block>
+      <block class="full_text">
+        <p>If you're confused by the plethora of new decorating books out there, try an old one. Pointed Leaf Press has reissued ''Decorating Is Fun!,'' the 1939 how-to volume by the legendary American designer and lifestyle guru Dorothy Draper. In it, she extols the virtues of black-and-white checkerboard floors, chintz slipcovers and painting your front door a bright, welcoming color, among other tips that ring as true today as they did when she wrote them. And once you've settled into your new home, you can learn how to be the hostess with the mostest in Draper's 1941 sequel, ''Entertaining Is Fun!,'' which was reissued by Rizzoli in 2004.</p>
+        <p>Pilar Viladas</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

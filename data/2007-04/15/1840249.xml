@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Up Front</title>
+    <meta content="Upfront.t-1" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/15/books/review/Upfront.t-1.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840249"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="descriptor">Books and Literature</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+        <person class="online_producer">Agee, James</person>
+        <person class="online_producer">Jelinek, Elfriede</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9404E0DF143FF936A25757C0A9619C8B63" item-length="206" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Up Front</hl1>
+        <hl2 class="online_headline">Up Front</hl2>
+      </hedline>
+      <byline class="print_byline">By The Editors</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Joel Agee, who reviews Elfriede Jelinek's new novel in this issue, is known as an accomplished writer and translator. His memoir ''Twelve Years: An American Boyhood in East Germany'' (1981) is a classic of the genre, and a second memoir, ''In the House of My Fear,'' was published in 2004. His translations of Heinrich von Kleist's ''Penthesilea'' and Hans Erich Nossack's ''The End: Hamburg 1943'' won, respectively, the 1999 Helen and Kurt Wolff Prize and the 2005 Lois Roth Prize of the Modern Language Association. Agee, the son of the writer James Agee, lives in Brooklyn.</p>
+        <p>''I was a writer before I became a translator, and it was the writer in me who taught the translator the exacting discipline of fidelity to the original text,'' Agee said by e-mail. ''But the translator in turn taught the writer something he didn't know yet: To write is to translate -- not from another language, but from a formless, darkly stirring source where what needs to be said is felt to be potentially or even actually already present. That is how the impossible work begins. Gradually, and sometimes in bursts, the translation into language takes shape, and when it is done, it seems like a miracle.''</p>
+        <p>The Editors</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>“I was a writer before I became a translator,” says Joel Agee.</p>
+      </block>
+      <block class="full_text">
+        <p>Joel Agee, who reviews Elfriede Jelinek's new novel in this issue, is known as an accomplished writer and translator. His memoir ''Twelve Years: An American Boyhood in East Germany'' (1981) is a classic of the genre, and a second memoir, ''In the House of My Fear,'' was published in 2004. His translations of Heinrich von Kleist's ''Penthesilea'' and Hans Erich Nossack's ''The End: Hamburg 1943'' won, respectively, the 1999 Helen and Kurt Wolff Prize and the 2005 Lois Roth Prize of the Modern Language Association. Agee, the son of the writer James Agee, lives in Brooklyn.</p>
+        <p>''I was a writer before I became a translator, and it was the writer in me who taught the translator the exacting discipline of fidelity to the original text,'' Agee said by e-mail. ''But the translator in turn taught the writer something he didn't know yet: To write is to translate -- not from another language, but from a formless, darkly stirring source where what needs to be said is felt to be potentially or even actually already present. That is how the impossible work begins. Gradually, and sometimes in bursts, the translation into language takes shape, and when it is done, it seems like a miracle.''</p>
+        <p>The Editors</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

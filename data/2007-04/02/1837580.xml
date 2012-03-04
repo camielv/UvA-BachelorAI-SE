@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Two Fatally Shot in L.I. House, Police Say</title>
+    <meta content="02shot" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837580"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="indexing_service" type="descriptor">Domestic Violence</classifier>
+        <location class="indexing_service">Elmont (NY)</location>
+        <person class="indexing_service">Gallimore, Franklin III</person>
+        <person class="indexing_service">Gallimore, Franklin Jr</person>
+        <person class="indexing_service">Thorpe, Grace</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Violence</classifier>
+        <classifier class="online_producer" type="general_descriptor">Domestic Violence</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070402T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E0D71E30F931A35757C0A9619C8B63" item-length="183" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Two Fatally Shot in L.I. House, Police Say</hl1>
+      </hedline>
+      <abstract>
+        <p>Police say woman and her former husband were fatally shot in house in Elmont, NY; investigators are trying to locate their son (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A woman and her former husband were fatally shot last night in a house in Elmont, on Long Island, and investigators were trying to locate the couple's 20-year-old son, the Nassau County police said.</p>
+        <p>The couple, described as a man in his 50s and a woman in her 40s, were not identified by the police pending family notification.</p>
+      </block>
+      <block class="full_text">
+        <p>A woman and her former husband were fatally shot last night in a house in Elmont, on Long Island, and investigators were trying to locate the couple's 20-year-old son, the Nassau County police said.</p>
+        <p>The couple, described as a man in his 50s and a woman in her 40s, were not identified by the police pending family notification.</p>
+        <p>The man and the woman were divorced, and only the woman lived at the home with their son, said Detective Lt. Kevin Smith, a spokesman for the Nassau police. It was unclear why the ex-husband had been at the house, he said.</p>
+        <p>The police said that they had no suspects last night, but that several neighbors said they saw a dark car leave the house at 1310 Post Avenue about 5:45 p.m., which was about the same time a 911 call came in from a neighbor. Police investigators believe that the two were shot shortly before the call came in. They were declared dead at the scene about 5:50 p.m.</p>
+        <p>The couple had lived in the neighborhood for at least seven years, according to neighbors.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

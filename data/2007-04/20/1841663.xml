@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Big Money in Little Screens; Next Gold Mine: Web Searching By Cellphone</title>
+    <meta content="20mobile" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/20/technology/20mobile.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1841663"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Cellular Telephones</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Wireless Communications</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cellular Telephones</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+        <org class="online_producer">Google Inc</org>
+        <org class="online_producer">Microsoft Corp</org>
+        <org class="online_producer">Yahoo Inc</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070420T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950CE0D61F3FF933A15757C0A9619C8B63" item-length="1567" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Big Money in Little Screens; Next Gold Mine: Web Searching By Cellphone</hl1>
+        <hl2 class="online_headline">Big Money in Little Screens</hl2>
+      </hedline>
+      <byline class="print_byline">By MIGUEL HELFT</byline>
+      <dateline>SAN FRANCISCO, April 19</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Searching the Web on a mobile phone has been a lot like getting online via dial-up modem circa 1995: slow, tedious and not terribly useful. Typing on tiny buttons, squinting at a list of links and clicking through to a page that won't display properly is enough to test anyone's patience.</p>
+        <p>But that is beginning to change. Google, Microsoft and Yahoo have all trained their sights on cellphones, which they see as the next great battleground in the Internet search wars. They have thrown tens of millions of dollars and armies of programmers at the problem, seeking to develop tools that people on the move can actually use.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Google, Microsoft and Yahoo have trained their sights on cellphones as the next great battleground in the Internet search wars.</p>
+      </block>
+      <block class="full_text">
+        <p>Searching the Web on a mobile phone has been a lot like getting online via dial-up modem circa 1995: slow, tedious and not terribly useful. Typing on tiny buttons, squinting at a list of links and clicking through to a page that won't display properly is enough to test anyone's patience.</p>
+        <p>But that is beginning to change. Google, Microsoft and Yahoo have all trained their sights on cellphones, which they see as the next great battleground in the Internet search wars. They have thrown tens of millions of dollars and armies of programmers at the problem, seeking to develop tools that people on the move can actually use.</p>
+        <p>In recent months, the three search giants have introduced a new breed of search services that emphasize quick answers to urgent questions: Where is the best local pizzeria? How did the Yankees do against the A's? What's the fastest way to get to the airport?</p>
+        <p>The services are beginning to carry small ads related to searches like those that have turned desktop Internet search into a gold mine.</p>
+        <p>''The biggest growth areas are clearly going to be in the mobile space,'' Eric E. Schmidt, chief executive of Google, said when asked about new opportunities at a conference here this week. In case his point wasn't clear, Mr. Schmidt drove it home: ''Mobile, mobile, mobile.''</p>
+        <p>The new offerings from the search companies are just the beginning. Search services that pinpoint a phone's location using the Global Positioning System or that accept voice commands are coming out of the labs. Google has gone so far as to build a prototype phone with its own software inside, according to one person who has seen it.</p>
+        <p>But between the search giants and phone users stand some powerful gatekeepers -- cellphone carriers like Cingular, Sprint and Verizon. On the PC, Web surfers can easily go to the search engine of their choice, but this takes longer on a cellphone. Carriers have the ability to dictate which search engine is easy to access and which is not through placement in their phones' menus.</p>
+        <p>''Search will be even more of a choke point on the mobile device than on the PC because navigation is so hard,'' said Marco Boerries, the senior vice president in charge of Yahoo's wireless efforts.</p>
+        <p>After spending billions of dollars building wireless networks, building relationships with consumers and subsidizing the cost of phones, the last thing carriers want is to miss out on profits from the mobile search business. By and large, they have been eyeing the major search engines with a bit of foreboding.</p>
+        <p>''In the U.S., the carriers have complete authority over what happens on the phone,'' said Sam Jadallah, a venture capitalist who has invested in mobile phone technology start-ups. For the nation's wireless carriers, Google, Yahoo and Microsoft ''are much bigger threats than they are partners,'' he added.</p>
+        <p>The tension between the two sides is reflected in the scarcity of major alliances between carriers and big-name search companies. Among the big American cellphone operators, only Sprint has a wide-ranging partnership with a top search provider, Microsoft. Most other large carriers are working with small technology companies that offer generic search services, which the carriers can stamp with their own brand.</p>
+        <p>One exception to the usual rules in the United States market is the iPhone from Apple Inc. , which is due out in June and will work only over the Cingular network, now solely owned by AT&amp;T. Apple had the clout to choose its own partners to provide software and services for the phone: Google for mapping, Yahoo for e-mail and both companies for search. A Cingular spokesman declined to discuss the company's search strategy.</p>
+        <p>There is plenty at stake in the mobile search market, which some analysts predict could grow to be even bigger than the desktop variety. There are far more cellphones in the world than there are computers. What's more, consumers on the go are often searching for information -- a restaurant, movie listings, a store -- that could result in a transaction, making them attractive targets for advertisers.</p>
+        <p>Mobile phones are also linked to a single person, and their location can be tracked, potentially allowing advertisers to deliver highly focused messages -- and pay a premium for the privilege of doing so.</p>
+        <p>And while battle for search on the computer desktop looks pretty much settled for now -- Google has won, with Yahoo a distant second and Microsoft struggling to remain relevant -- the search wars on the mobile phone are just beginning.</p>
+        <p>So far, search giants have signed alliances with handset manufacturers like Nokia and Motorola, and with carriers in Asia and Europe. Google, for instance, has teamed up with China Mobile, the world's largest mobile phone operator. But in the United States, most major carriers are taking smaller steps, often with smaller partners.</p>
+        <p>Verizon Wireless, for instance, uses a service from Medio Systems that searches only through material that Verizon offers, like games, ring tones and screen savers. Verizon customers who have data plans can search the Web using any search engine, but they have to enter its address themselves, rather than having it available when they turn on their phones.</p>
+        <p>''We know it is a very cautious approach to search,'' said Jeffrey Nelson, a spokesman for Verizon Wireless.</p>
+        <p>Medio, which is backed by Mr. Jadallah's firm, Mohr Davidow Ventures, also provides search services, including some Web search, to T-Mobile customers. JumpTap, a Medio rival, has search deals with Alltel and other carriers.</p>
+        <p>Of course, these are early days, and analysts believe that wireless operators may well find it to their advantage to offer search services that are already popular with consumers.</p>
+        <p>But some Internet giants are taking no chances. Google is developing comprehensive software for mobile devices that goes well beyond search and the other services it already offers.</p>
+        <p>Despite the prototype and the persistent rumors that a Google phone is imminent, few in the industry expect the company to go into the business of selling phones. Analysts are speculating that the company plans to persuade hardware manufacturers to build phones based on its software that may initially be aimed at overseas markets.</p>
+        <p>''It wouldn't be surprising if they offer a co-branded phone configured for easy access to Google services,'' said Charles Golvin, principal analyst at Forrester Research.</p>
+        <p>That would help to ensure that Google's services are not frozen out by future alliances between rivals like Microsoft and carriers or handset makers.</p>
+        <p>In an interview on Thursday, Mr. Schmidt declined to comment on any plans for a Google phone. ''We have a large investment in mobile phones and mobile phone platform applications,'' Mr. Schmidt said. He also declined to comment on any alliances with United States carriers, saying that Google was in business discussions with some of them.</p>
+        <p>Yahoo has also said it was in discussion with major carriers in this country.</p>
+        <p>For now, searching the Web on a cellphone, which requires a modern phone with a data service plan, is far from being a mainstream activity. In February, fewer than nine million cellphone users in the United States conducted Web searches, according to the research firm Telephia. About 233 million Americans had cellphones at the end of last year, according to CTIA, a wireless industry group.</p>
+        <p>But analysts and search companies say the new services are poised to change that quickly.</p>
+        <p>''There is a pent-up demand for mobile search that didn't really exist with the PC,'' said Greg Sterling of the research firm Sterling Market Intelligence. ''And competition is really starting to create some innovation.''</p>
+        <p>Indeed, the new services introduced by Google, Microsoft and Yahoo are all attempting to provide useful information with minimal typing.</p>
+        <p>Google, for instance, has made it easy for users to personalize their mobile search page (www.google.com/m) with their favorite stock quotes and news sources. The service also remembers recent place names in searches, so when users type ''movies'' into the search box, it returns a list of movies playing locally and makes it easy to find show times and purchase tickets.</p>
+        <p>Microsoft's software, called Live Search for Mobile (available at wls.live.com), allows users to type a city, then search in specific categories like restaurants, hotels, transportation and nightlife.</p>
+        <p>Yahoo's oneSearch service (m.yahoo.com) tries to anticipate users' needs. When they type ''Apple'' into the search box, it will return the company's stock quote, followed by news articles about it, nearby stores and other information culled from Yahoo's Internet properties, like related photos from its Flickr service.</p>
+        <p>While they chase the world's thumb-typers, all of the major search companies are seeking to expand beyond services that require a keypad or keyboard.</p>
+        <p>In March, Microsoft agreed to buy Tellme Networks, a maker of voice recognition technology, for a price that was reported to be more than $800 million. The company's free 800-555-TELL service allows users to search movie listings, stock quotes, news and other information by speaking into their phones, and see the results on their phone screens.</p>
+        <p>Less than a month later, Google introduced a competing free service available at 800-GOOG411. Yahoo appears determined not to be left behind.</p>
+        <p>''We are talking to everyone who is providing voice input technology in their devices on how to marry their technology and our search results,'' Mr. Boerries said.</p>
+        <p>''If you look at how often people look at their phone now, wait until mobile search is real,'' said Mr. Jadallah, the venture capitalist.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

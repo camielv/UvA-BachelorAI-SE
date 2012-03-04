@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Four Students Held in Plan For Shooting At a School</title>
+    <meta content="28threat" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Education; U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/28/us/28threat.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1843367"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Education and Schools</classifier>
+        <classifier class="indexing_service" type="descriptor">Firearms</classifier>
+        <location class="indexing_service">Sacramento (Calif)</location>
+        <person class="indexing_service">Marshall, Carolyn</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/California</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./West</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/California/Sacramento</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/California</classifier>
+        <classifier class="online_producer" type="descriptor">Firearms</classifier>
+        <classifier class="online_producer" type="descriptor">Education and Schools</classifier>
+        <classifier class="online_producer" type="general_descriptor">Firearms</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <location class="online_producer">Sacramento (Calif)</location>
+        <org class="online_producer">Virginia Polytechnic Institute and State University</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070428T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A06E3D9123EF93BA15757C0A9619C8B63" item-length="365" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Four Students Held in Plan For Shooting At a School</hl1>
+        <hl2 class="online_headline">Four Students Held in Plan for Shooting at a School</hl2>
+      </hedline>
+      <byline class="print_byline">By CAROLYN MARSHALL</byline>
+      <byline class="normalized_byline">Marshall, Carolyn</byline>
+      <dateline>SAN FRANCISCO, April 27</dateline>
+      <abstract>
+        <p>Authorities in Sacramento, Calif, arrest four secondary students, including one carrying loaded gun (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>With anxiety running high in classrooms across the nation after the Virginia Tech attacks, the authorities in Sacramento arrested four secondary school students on Thursday, including one carrying a loaded gun.</p>
+        <p>The police said they avoided a plot to shoot two fellow students.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>With anxiety running high after the Virginia Tech attacks, authorities in Sacramento arrested four secondary school students on Thursday.</p>
+      </block>
+      <block class="full_text">
+        <p>With anxiety running high in classrooms across the nation after the Virginia Tech attacks, the authorities in Sacramento arrested four secondary school students on Thursday, including one carrying a loaded gun.</p>
+        <p>The police said they avoided a plot to shoot two fellow students.</p>
+        <p>Those arrested, three boys and a girl, were charged with conspiracy to commit an assault with a deadly weapon, the Sacramento police said. One boy was also charged with possession of a concealed firearm, and a second boy was charged with providing a minor with a gun.</p>
+        <p>The episode began at 8:30 a.m., when two sheriff's deputies detained two boys for fare jumping at a light rail station several blocks from the school, C. K. McClatchy High School.</p>
+        <p>One boy, a 15-year-old student at McClatchy, became belligerent, the authorities said, prompting a search that found a loaded handgun and ammunition.</p>
+        <p>The other student, a 14-year-old who attends another school, had photographs of two female McClatchy students. The police said they believed that the boys were planning to shoot them.</p>
+        <p>A spokesman for the police, Sgt. Matt Young, said the police believed that the plot stemmed from an argument among four female McClatchy students.</p>
+        <p>School counselors had been working on the problem and planned to mediate the dispute on Thursday. The dispute resulted in a fistfight last month.</p>
+        <p>The police said they believed that the two boys caught fare jumping were en route to the mediation, possibly to shoot their targets before or after the meeting.</p>
+        <p>''We believe one kid was on his way to shoot the two girls who were involved in the prior altercations,'' Sergeant Young said. ''I'm confident lives were saved because of the actions taken by the deputy and the police.''</p>
+        <p>The police said they believed that the armed 15-year-old had been asked by a 14-year-old girl involved in the dispute to attack her rivals. It was not clear what role the third boy, 13, was accused of.</p>
+        <p>The police, who did not release the suspects' names because they are minors, said they did not believe that the incident was gang related. The police were trying to determine where the 15-year-old had obtained the unregistered weapon.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

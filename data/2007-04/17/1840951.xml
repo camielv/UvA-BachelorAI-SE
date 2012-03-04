@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>What $500 Might Indicate</title>
+    <meta content="17prace" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="25" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1840951"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="HEADING TOWARD 2008: FINANCING"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Virginia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Virginia</classifier>
+        <classifier class="online_producer" type="general_descriptor">Election Issues</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070417T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D01E5D9113FF934A25757C0A9619C8B63" item-length="196" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>What $500 Might Indicate</hl1>
+      </hedline>
+      <byline class="print_byline">By MICHAEL LUO</byline>
+      <byline class="normalized_byline">Luo, Michael</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Senator John W. Warner, Republican of Virginia, raised $500 in the first quarter of the year, according to his Federal Election Commission filing. The sum is fueling speculation that the five-term senator, who celebrated his 80th birthday this year, may not seek re-election next year. Another Republican of Virginia, Representative Thomas M. Davis III, who has said he would consider running if Mr. Warner does not, raised $623,463 in the first quarter -- $150,000 more than he has ever raised in a three-month period, his office said. Mr. Warner said in an interview yesterday that he was hardly in the ''pauper's column,'' pointing out he has more than $667,000 in the bank. He declared himself at the ''top of my game'' but said he was evaluating what was best for his state. ''Is it John Warner or is it a younger person to come in and start to build up their seniority?'' he said. ''That is not a simple decision.'' Democratic strategists are trying to enlist former Gov. Mark R. Warner, who made an unsuccessful run against Senator Warner in 1996. They are not related. Through a spokesman, Mark Warner had no comment.</p>
+        <p>MICHAEL LUO</p>
+      </block>
+      <block class="full_text">
+        <p>Senator John W. Warner, Republican of Virginia, raised $500 in the first quarter of the year, according to his Federal Election Commission filing. The sum is fueling speculation that the five-term senator, who celebrated his 80th birthday this year, may not seek re-election next year. Another Republican of Virginia, Representative Thomas M. Davis III, who has said he would consider running if Mr. Warner does not, raised $623,463 in the first quarter -- $150,000 more than he has ever raised in a three-month period, his office said. Mr. Warner said in an interview yesterday that he was hardly in the ''pauper's column,'' pointing out he has more than $667,000 in the bank. He declared himself at the ''top of my game'' but said he was evaluating what was best for his state. ''Is it John Warner or is it a younger person to come in and start to build up their seniority?'' he said. ''That is not a simple decision.'' Democratic strategists are trying to enlist former Gov. Mark R. Warner, who made an unsuccessful run against Senator Warner in 1996. They are not related. Through a spokesman, Mark Warner had no comment.</p>
+        <p>MICHAEL LUO  HEADING TOWARD 2008: FINANCING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sporting Goods Maker Is Said to Be Acquired</title>
+    <meta content="25deal" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/25/business/25deal.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842813"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Other Sports</classifier>
+        <classifier class="online_producer" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="descriptor">Athletics and Sports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sporting Goods</classifier>
+        <classifier class="online_producer" type="general_descriptor">Athletics and Sports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <org class="online_producer">Jarden Corporation</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070425T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E02E1D9143EF936A15757C0A9619C8B63" item-length="326" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sporting Goods Maker Is Said to Be Acquired</hl1>
+        <hl2 class="online_headline">Sporting Goods Maker Is Said to Be Acquired</hl2>
+      </hedline>
+      <byline class="print_byline">By MICHAEL J. de la MERCED</byline>
+      <byline class="normalized_byline">De La Merced, Michael J</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In a deal that tosses sports equipment into its bulging locker of products, the Jarden Corporation will acquire K2, the maker of K2 skis and Rawlings baseball gloves and bats, for about $1.2 billion in cash and stock.</p>
+        <p>The deal is expected to be announced today.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Jarden Corporation will acquire K2, the maker of K2 skis and Rawlings baseball gloves and bats, for about $1.2 billion.</p>
+      </block>
+      <block class="full_text">
+        <p>In a deal that tosses sports equipment into its bulging locker of products, the Jarden Corporation will acquire K2, the maker of K2 skis and Rawlings baseball gloves and bats, for about $1.2 billion in cash and stock.</p>
+        <p>The deal is expected to be announced today.</p>
+        <p>Beyond serving the millions of Little Leaguers who use Rawlings baseball gloves, K2 also makes equipment for fishing, whitewater rafting and paintball. Its acquisition would open up a new market for Jarden, a consumer products conglomerate whose stable of brands includes blenders, playing cards and fire extinguishers. The people who manage K2's product lines will report to the executives of the Jarden outdoor solutions unit upon closing the deal.</p>
+        <p>Last year, K2, which is based in Carlsbad, Calif., reported net income of about $37.7 million.</p>
+        <p>Under the terms of the agreement, Jarden will pay $10.85 in cash and 0.1086 of a Jarden share for every K2 share, or about $15.50 a share in total. The deal is expected to close in the third quarter of this year.</p>
+        <p>Since 1991, Jarden's founder and chief executive, Martin E. Franklin, has cobbled together an array of companies through a series of deals. Over the years, he has been something of a corporate collector, assembling niche brands with high visibility but slow growth.</p>
+        <p>In 2004, he bought the United States Playing Card Company, which makes the Bicycle brand of cards used in many casinos.</p>
+        <p>That same year he acquired American Household, the successor to Sunbeam, and in the process acquired the Mr. Coffee line of housewares and Coleman, the maker of fire extinguishers and smoke alarms.</p>
+        <p>For Mr. Franklin, deal making seems to be in his blood: his father, Roland Franklin, was a longtime partner of James Goldsmith, the British financier who gained notoriety for merging and disassembling companies in the 1980s.</p>
+        <p>Jarden, which is based in Rye, N.Y., reported net income of about $106 million last year.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Face-Lift for an Aging Museum</title>
+    <meta content="17renovate" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1840928"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070417T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9900E2DA113FF934A25757C0A9619C8B63" item-length="97" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Face-Lift for an Aging Museum</hl1>
+      </hedline>
+      <byline class="print_byline">By HAEYOUN PARK</byline>
+      <byline class="normalized_byline">Park, Haeyoun</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Since the Guggenheim Museum opened in 1959, Frank Lloyd Wright's massive spiral facade has been showing signs of cracking, mainly from seasonal temperature fluctuations that cause the concrete walls, built without expansion joints, to contract and expand. While museum officials say the facade is structurally sound, they have spent the last year inspecting each crack to devise a repair plan. On Saturday the museum opened ''Restoring a Masterpiece,'' an exhibition (on view through July 8) that chronicles its process. The display includes a diagram that shows each crack on the building's west side.</p>
+        <p>HAEYOUN PARK</p>
+      </block>
+      <block class="full_text">
+        <p>Since the Guggenheim Museum opened in 1959, Frank Lloyd Wright's massive spiral facade has been showing signs of cracking, mainly from seasonal temperature fluctuations that cause the concrete walls, built without expansion joints, to contract and expand. While museum officials say the facade is structurally sound, they have spent the last year inspecting each crack to devise a repair plan. On Saturday the museum opened ''Restoring a Masterpiece,'' an exhibition (on view through July 8) that chronicles its process. The display includes a diagram that shows each crack on the building's west side.</p>
+        <p>HAEYOUN PARK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paperback Row</title>
+    <meta content="PaperRow.t" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1840244"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9505E2D8163FF936A25757C0A9619C8B63" item-length="775" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paperback Row</hl1>
+      </hedline>
+      <byline class="print_byline">By Ihsan Taylor</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BLINK: The Power of Thinking Without Thinking, by Malcolm Gladwell. (Back Bay/Little, Brown, $15.99.) Gladwell's best-selling first book, ''The Tipping Point,'' argued that small actions can ignite positive social change; ''Blink,'' a paean to the power of first impressions, makes the case for ''thin-slicing.'' There is, Gladwell suggests, a subconscious process through which we sift huge amounts of information, isolate telling details and come to rapid conclusions, even in the first two seconds of seeing something. '' 'Blink' is a book about those first two seconds,'' he writes. The book moves through dozens of stories about thin-slicing, from a Pentagon war game to New Coke, which tested well but flopped in the marketplace. Gladwell ''has us flying around the world and across disciplines at hectic speed, and he's always dazzling us with fascinating information and phenomena,'' David Brooks wrote in the Book Review.</p>
+        <p>THE EAGLE'S THRONE, by Carlos Fuentes. Translated by Kristina Cordero. (Random House, $15.95.) The spirit of both Machiavelli and ''Les Liaisons Dangereuses'' hovers over the down-and-dirty politics of this skillfully translated epistolary novel, set in 2020, when Mexico's presidency -- the ''eagle's throne'' -- is soon to come up for grabs. Our reviewer, Terrence Rafferty, called ''The Eagle's Throne'' the ''most wickedly entertaining novel of Fuentes's career.''</p>
+        <p>UNCENTERING THE EARTH: Copernicus and ''The Revolutions of the Heavenly Spheres,'' by William T. Vollmann. (Atlas/Norton, $15.95.) Nicolaus Copernicus died in 1543 -- the same year his infamous book, ''The Revolutions of the Heavenly Spheres,'' was published in Nuremberg, announcing that the Earth revolved around the Sun. In ''Uncentering the Earth,'' Vollmann, the author of ''Europe Central'' (winner of the 2005 National Book Award for fiction), subjects Copernicus's dense, technical treatise to a close analysis.</p>
+        <p>ABSOLUTE CONVICTIONS: My Father, a City, and the Conflict That Divided America, by Eyal Press. (Picador, $15.) Press, the son of a gynecologist in Buffalo, provides a balanced social history of the city's abortion wars of the 1980s and '90s in an effort to explain the murder of one of his father's colleagues, who was killed in 1998 by an anti-abortion activist.</p>
+        <p>SUITE FRANÃAISE, by IrÃ</p>
+      </block>
+      <block class="full_text">
+        <p>BLINK: The Power of Thinking Without Thinking, by Malcolm Gladwell. (Back Bay/Little, Brown, $15.99.) Gladwell's best-selling first book, ''The Tipping Point,'' argued that small actions can ignite positive social change; ''Blink,'' a paean to the power of first impressions, makes the case for ''thin-slicing.'' There is, Gladwell suggests, a subconscious process through which we sift huge amounts of information, isolate telling details and come to rapid conclusions, even in the first two seconds of seeing something. '' 'Blink' is a book about those first two seconds,'' he writes. The book moves through dozens of stories about thin-slicing, from a Pentagon war game to New Coke, which tested well but flopped in the marketplace. Gladwell ''has us flying around the world and across disciplines at hectic speed, and he's always dazzling us with fascinating information and phenomena,'' David Brooks wrote in the Book Review.</p>
+        <p>THE EAGLE'S THRONE, by Carlos Fuentes. Translated by Kristina Cordero. (Random House, $15.95.) The spirit of both Machiavelli and ''Les Liaisons Dangereuses'' hovers over the down-and-dirty politics of this skillfully translated epistolary novel, set in 2020, when Mexico's presidency -- the ''eagle's throne'' -- is soon to come up for grabs. Our reviewer, Terrence Rafferty, called ''The Eagle's Throne'' the ''most wickedly entertaining novel of Fuentes's career.''</p>
+        <p>UNCENTERING THE EARTH: Copernicus and ''The Revolutions of the Heavenly Spheres,'' by William T. Vollmann. (Atlas/Norton, $15.95.) Nicolaus Copernicus died in 1543 -- the same year his infamous book, ''The Revolutions of the Heavenly Spheres,'' was published in Nuremberg, announcing that the Earth revolved around the Sun. In ''Uncentering the Earth,'' Vollmann, the author of ''Europe Central'' (winner of the 2005 National Book Award for fiction), subjects Copernicus's dense, technical treatise to a close analysis.</p>
+        <p>ABSOLUTE CONVICTIONS: My Father, a City, and the Conflict That Divided America, by Eyal Press. (Picador, $15.) Press, the son of a gynecologist in Buffalo, provides a balanced social history of the city's abortion wars of the 1980s and '90s in an effort to explain the murder of one of his father's colleagues, who was killed in 1998 by an anti-abortion activist.</p>
+        <p>SUITE FRANÃAISE, by IrÃ</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

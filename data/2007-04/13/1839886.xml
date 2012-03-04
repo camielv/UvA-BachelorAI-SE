@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Prosecutor Apologizes to Ex-Players</title>
+    <meta content="13duke" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1839886"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Lacrosse</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <classifier class="indexing_service" type="descriptor">Sex Crimes</classifier>
+        <org class="indexing_service">Duke University</org>
+        <person class="indexing_service">Wilson, Duff</person>
+        <person class="indexing_service">Nifong, Michael B (Dist Atty)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sex Crimes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Lacrosse</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070413T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE0DC133FF930A25757C0A9619C8B63" item-length="298" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Prosecutor Apologizes to Ex-Players</hl1>
+      </hedline>
+      <byline class="print_byline">By DUFF WILSON</byline>
+      <byline class="normalized_byline">Wilson, Duff</byline>
+      <dateline>RALEIGH, N.C., April 12</dateline>
+      <abstract>
+        <p>Durham County, NC, district attorney Michael B Nifong apologizes to three former Duke University lacrosse players he had charged with sexually assaulting stripper; charges were dismissed (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Durham County district attorney apologized Thursday to the three former Duke University lacrosse players he had charged with sexually assaulting a stripper.</p>
+        <p>''To the extent that I made judgments that ultimately proved to be incorrect, I apologize to the three students that were wrongly accused,'' the district attorney, Michael B. Nifong, wrote in a three-paragraph statement a day after the state attorney general, Roy A. Cooper, dismissed all the charges and called him a ''rogue'' prosecutor.</p>
+      </block>
+      <block class="full_text">
+        <p>The Durham County district attorney apologized Thursday to the three former Duke University lacrosse players he had charged with sexually assaulting a stripper.</p>
+        <p>''To the extent that I made judgments that ultimately proved to be incorrect, I apologize to the three students that were wrongly accused,'' the district attorney, Michael B. Nifong, wrote in a three-paragraph statement a day after the state attorney general, Roy A. Cooper, dismissed all the charges and called him a ''rogue'' prosecutor.</p>
+        <p>''I also understand that when someone has been wrongly accused, the harm caused by the accusations might not be immediately undone merely by dismissing them,'' Mr. Nifong wrote. ''It is my sincere desire that the actions of Attorney General Cooper will serve to remedy any remaining injury that has resulted from these cases.''</p>
+        <p>The apology was rebuffed by lawyers for the former students, whose families are seeking Mr. Nifong's ouster and considering suing him for damages. The North Carolina State Bar has formally accused Mr. Nifong of numerous ethical violations.</p>
+        <p>''I still haven't heard him admit he did anything wrong,'' said James P. Cooney III, a lawyer for Reade W. Seligmann, one of the three. ''I think the most concrete way he could apologize to everybody is to resign his office.''</p>
+        <p>Mr. Nifong said he supported the dismissal of the sexual offense and kidnapping charges based on new evidence the attorney general had gathered in a three-month review. He objected to being called ''rogue'' and ''unchecked.'' He also took credit for having turned over the case for review by the attorney general.</p>
+        <p>''If I did not want to subject either that investigation or my own performance to such scrutiny -- if, in other words, I had anything to hide -- I could have simply dismissed the cases myself,'' he wrote.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

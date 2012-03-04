@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>LOOKING AHEAD</title>
+    <meta content="23ahead" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1842372"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070423T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9407E4DA173EF930A15757C0A9619C8B63" item-length="249" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>LOOKING AHEAD</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>QUARTERLY REPORTS -- A decline in oil and gas prices is expected to translate into lower profits for the big oil companies. Earnings are scheduled to be reported by BP (Tuesday), ConocoPhillips (Wednesday), Exxon Mobil (Thursday) and Chevron (Friday). Lower oil prices may help the profits of transportation companies, including the airlines JetBlue (Tuesday), UAL (Wednesday) and US Airways (Thursday).</p>
+        <p>Technology highlights include Texas Instruments (Monday), Amazon.com and Sun Microsystems (Tuesday), Apple (Wednesday) and Microsoft (Thursday).</p>
+      </block>
+      <block class="full_text">
+        <p>QUARTERLY REPORTS -- A decline in oil and gas prices is expected to translate into lower profits for the big oil companies. Earnings are scheduled to be reported by BP (Tuesday), ConocoPhillips (Wednesday), Exxon Mobil (Thursday) and Chevron (Friday). Lower oil prices may help the profits of transportation companies, including the airlines JetBlue (Tuesday), UAL (Wednesday) and US Airways (Thursday).</p>
+        <p>Technology highlights include Texas Instruments (Monday), Amazon.com and Sun Microsystems (Tuesday), Apple (Wednesday) and Microsoft (Thursday).</p>
+        <p>AT&amp;T is scheduled to report on Tuesday and Ford on Thursday.</p>
+        <p>Other earnings reports will come from Amgen, Boston Scientific, Hasbro, Juniper Networks, Kimberly-Clark and Novartis (Monday); Alcan, DuPont, Lexmark, Lockheed Martin, McClatchy, McGraw-Hill, Northrop Grumman, United States Steel and Whirlpool (Tuesday); Anheuser-Busch, Boeing, Colgate-Palmolive, Corning, General Dynamics, GlaxoSmithKline, Honda, PepsiCo, Qualcomm, Raytheon, Reynolds American and UPS (Wednesday); and 3M, Aetna, AstraZeneca, BASF, Bristol-Myers Squibb, Comcast, Dow Chemical, Eastman Chemical, Fortune Brands, ImClone and Siemens (Thursday).</p>
+        <p>ECONOMIC INDICATORS -- A snapshot of the housing industry in March will come from reports on existing-home sales (Tuesday) and new-home sales (Wednesday). The initial report on first-quarter gross domestic product will come Friday.</p>
+        <p>OTHER REPORTS -- The Conference Board on consumer confidence (Tuesday); the Federal Reserve's beige book and March durable goods orders (Wednesday); and the Reuters/University of Michigan consumer sentiment index (Friday).</p>
+        <p>TIMES COMPANY MEETING -- The New York Times Company's annual meeting is set for Tuesday. Two advisers to institutional investors have recommended that shareholders withhold votes for four directors.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

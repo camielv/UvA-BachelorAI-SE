@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Bronx: Man Fatally Stabbed In A Fight</title>
+    <meta content="30mbrfs-3" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1844120"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070430T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B06E0DA133EF933A05757C0A9619C8B63" item-length="111" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Bronx: Man Fatally Stabbed In A Fight</hl1>
+      </hedline>
+      <byline class="print_byline">By THOMAS J. LUECK; Compiled by John Sullivan</byline>
+      <byline class="normalized_byline">Lueck, Thomas J</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A Bronx man was stabbed to death on Saturday night when an argument he was having with three other men escalated, witnesses told the police. The police said that officers responding to a 911 call found the man, Nasario Santiago Santiago, who they said was in his 20s, in front of 537 East 137th Street in Mott Haven at 9:10 p.m. with several stab wounds to his torso. He was taken to Lincoln Medical and Mental Health Center, where he was pronounced dead. The police said yesterday that there had been no arrests, and that the case remained under investigation.</p>
+        <p>THOMAS J. LUECK</p>
+      </block>
+      <block class="full_text">
+        <p>A Bronx man was stabbed to death on Saturday night when an argument he was having with three other men escalated, witnesses told the police. The police said that officers responding to a 911 call found the man, Nasario Santiago Santiago, who they said was in his 20s, in front of 537 East 137th Street in Mott Haven at 9:10 p.m. with several stab wounds to his torso. He was taken to Lincoln Medical and Mental Health Center, where he was pronounced dead. The police said yesterday that there had been no arrests, and that the case remained under investigation.</p>
+        <p>THOMAS J. LUECK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

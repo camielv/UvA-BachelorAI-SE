@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Dara Gilwit, David Hammerman</title>
+    <meta content="22Gilwit" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1842139"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Gilwit, Dara Blake (Dara Blake Hammerman)</person>
+        <person class="indexing_service">Hammerman, David Andrew</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9903E1DF163EF931A15757C0A9619C8B63" item-length="114" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Dara Gilwit, David Hammerman</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Dara Blake Gilwit, the daughter of Randie and Mark Gilwit of Coral Springs, Fla., was married last evening to David Andrew Hammerman, a son of Barbara and Michael Hammerman of Jericho, N.Y. Rabbi Lawrence M. Schuval officiated at the Biltmore Hotel in Coral Gables.</p>
+        <p>Mrs. Hammerman, 29, is a litigation associate at Hughes Hubbard &amp; Reed, the New York law firm. She graduated magna cum laude from the University of Pennsylvania and received her law degree from Washington University in St. Louis.</p>
+      </block>
+      <block class="full_text">
+        <p>Dara Blake Gilwit, the daughter of Randie and Mark Gilwit of Coral Springs, Fla., was married last evening to David Andrew Hammerman, a son of Barbara and Michael Hammerman of Jericho, N.Y. Rabbi Lawrence M. Schuval officiated at the Biltmore Hotel in Coral Gables.</p>
+        <p>Mrs. Hammerman, 29, is a litigation associate at Hughes Hubbard &amp; Reed, the New York law firm. She graduated magna cum laude from the University of Pennsylvania and received her law degree from Washington University in St. Louis.</p>
+        <p>Mr. Hammerman, 28, is a corporate associate in the New York office of Latham &amp; Watkins, the law firm. He graduated from Emory and received his law degree cum laude from Fordham.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

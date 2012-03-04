@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Queens: New Center For Domestic Violence Victims</title>
+    <meta content="24mbrfs-6" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/24/nyregion/24mbrfs-family.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842679"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="New York"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Domestic Violence</classifier>
+        <classifier class="online_producer" type="general_descriptor">Violence</classifier>
+        <classifier class="online_producer" type="general_descriptor">Domestic Violence</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+        <location class="online_producer">Queens (NYC)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070424T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0CE7DC143EF937A15757C0A9619C8B63" item-length="48" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Queens: New Center For Domestic Violence Victims</hl1>
+        <hl2 class="online_headline">Queens: New Center for Domestic Violence Victims</hl2>
+      </hedline>
+      <byline class="print_byline">Compiled by John Sullivan</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>City officials announced the start of construction yesterday on the city's second Family Justice Center, which provides services to victims of domestic violence and their children. The center, in Kew Gardens, will provide multilingual services including assistance with police reports, emergency shelter and lawyers.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>City officials announced the start of construction yesterday on the city’s second Family Justice Center, which provides services to victims of domestic violence and their children. The center, in Kew Gardens, will provide multilingual services including assistance with police reports, emergency shelter and lawyers.</p>
+      </block>
+      <block class="full_text">
+        <p>City officials announced the start of construction yesterday on the city's second Family Justice Center, which provides services to victims of domestic violence and their children. The center, in Kew Gardens, will provide multilingual services including assistance with police reports, emergency shelter and lawyers.</p>
+        <p>New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

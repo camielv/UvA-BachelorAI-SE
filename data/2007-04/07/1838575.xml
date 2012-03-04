@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>THE MASTERS: Woods Salvages a Bad Round on Day Two</title>
+    <meta content="07golf" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="" name="print_section"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/07/sports/golf/07golf.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1838575"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="The Masters"/>
+      <identified-content>
+        <location class="indexing_service">Georgia</location>
+        <person class="indexing_service">Woods, Tiger</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Georgia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Golf</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Golf</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Georgia</classifier>
+        <classifier class="online_producer" type="descriptor">Masters Golf Tournament</classifier>
+        <classifier class="online_producer" type="descriptor">Golf</classifier>
+        <classifier class="online_producer" type="general_descriptor">Masters Golf Tournament</classifier>
+        <classifier class="online_producer" type="general_descriptor">Golf</classifier>
+        <location class="online_producer">Georgia</location>
+        <org class="online_producer">Augusta National Golf Club</org>
+        <org class="online_producer">PGA Tour Inc</org>
+        <person class="online_producer">Woods, Tiger</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070407T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE1DF143FF934A35757C0A9619C8B63" item-length="395" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>THE MASTERS: Woods Salvages a Bad Round on Day Two</hl1>
+        <hl2 class="online_headline">Woods Salvages a Bad Round on Day Two</hl2>
+      </hedline>
+      <byline class="print_byline">By DAMON HACK</byline>
+      <dateline>AUGUSTA, Ga., April 6</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Tiger Woods drowned two golf balls in Rae's Creek, hit another one over the back of the 15th green, and flirted with playing himself out of the 71st Masters before rallying late.</p>
+        <p>Woods, a four-time champion, shot a second-round, two-over-par 74 at Augusta National Golf Club today and trailed the lead by six shots with several players still on the course. He stood at three-over-par 147.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Tiger Woods flirted with playing himself out of the 71st Masters today before rallying late.</p>
+      </block>
+      <block class="full_text">
+        <p>Tiger Woods drowned two golf balls in Rae's Creek, hit another one over the back of the 15th green, and flirted with playing himself out of the 71st Masters before rallying late.</p>
+        <p>Woods, a four-time champion, shot a second-round, two-over-par 74 at Augusta National Golf Club today and trailed the lead by six shots with several players still on the course. He stood at three-over-par 147.</p>
+        <p>Zach Johnson led at three-under par through 13 holes while Tim Clark of South Africa and Brett Wetterich stood at two-under-par 142.</p>
+        <p>Woods made six bogeys and four birdies, including a pair on the 15th and 17th holes that saved him from a worse fate. On No. 15, a 530-yard par 5, he got up-and-down after blasting his second shot 30 yards past the hole. On No. 17, a 440-yard par 4, he rolled in a 15-footer.</p>
+        <p>''Yesterday, I threw away a good round,'' Woods said. ''Today, I feel like I salvaged a bad one.''</p>
+        <p>Still, his usual dominance at Augusta National has been absent on a cool, dry and difficult course that has turned this major championship into a brutal test. On the 155-yard par-3 12th hole, Woods landed an iron shot on the swale short of the green and watched it roll back into Rae's Creek. From the drop area, he hit a pitch to 20 feet and rolled in the putt for bogey.</p>
+        <p>On No. 13, a par 5 that stretches 510 yards, Woods hit his second-shot approach into a tributary of the creek, but he chipped his fourth shot to 5 feet and made the putt for par.</p>
+        <p>Woods, however, has been out-played through two rounds by several golfers, including Wetterich, a United States Ryder Cup teammate.</p>
+        <p>For the second straight day, Wetterich displayed a quiet confidence in his first Masters. He got his round to four-under par through 14 holes before bogeys at 15 and 16 stalled his charge. Still, he closed the round with pars at No. 17 and 18 in a round of 73.</p>
+        <p>Last year, Wetterich won his lone PGA Tour event, the Byron Nelson Championship. Two weeks ago, he finished second to Woods at the CA Championship.</p>
+        <p>''You always hear the great players say that pars are great in majors,'' Wetterich said. ''I was just going out there to try to make as many as I could.''</p>
+        <p>The Masters</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

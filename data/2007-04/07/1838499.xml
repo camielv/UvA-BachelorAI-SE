@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>AOL Moving to Increase Revenue It Gets From Search Ads</title>
+    <meta content="07aol" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/07/technology/07aol.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1838499"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Advertising and Marketing</classifier>
+        <org class="indexing_service">Aol (America Online)</org>
+        <org class="indexing_service">Google Inc</org>
+        <person class="indexing_service">Helft, Miguel</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <org class="online_producer">America Online Inc</org>
+        <org class="online_producer">Google Inc</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070407T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402E2D7173FF934A35757C0A9619C8B63" item-length="461" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>AOL Moving to Increase Revenue It Gets From Search Ads</hl1>
+        <hl2 class="online_headline">AOL Moving to Increase Revenue It Gets From Search Ads</hl2>
+      </hedline>
+      <byline class="print_byline">By MIGUEL HELFT</byline>
+      <byline class="normalized_byline">Helft, Miguel</byline>
+      <abstract>
+        <p>AOL plans</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>AOL plans to introduce a service Monday to sell ads that will appear next to its search results, which are powered by Google's Internet search engine.</p>
+        <p>The service, called AOL Search Marketplace, was contemplated as part of a December 2005 deal between the companies in which Google paid $1 billion for a 5 percent stake in AOL, a unit of Time Warner.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>AOL plans to introduce a service Monday to sell ads that will appear next to its search results, which are powered by Google’s Internet search engine.</p>
+      </block>
+      <block class="full_text">
+        <p>AOL plans to introduce a service Monday to sell ads that will appear next to its search results, which are powered by Google's Internet search engine.</p>
+        <p>The service, called AOL Search Marketplace, was contemplated as part of a December 2005 deal between the companies in which Google paid $1 billion for a 5 percent stake in AOL, a unit of Time Warner.</p>
+        <p>Until now, Google has been selling all the ads displayed alongside searches made on AOL's sites. With the new service, some portion of those ads will be sold by AOL, fed into Google's advertising system and displayed next to the search results viewed by AOL users.</p>
+        <p>AOL said the service would allow marketers to target its users and deliver ads that are more relevant to them. With the new service, AOL said that it would also become more attractive to marketers that already buy display ads and other online ads from AOL.</p>
+        <p>''We've been missing the ability to match search advertising and display advertising campaigns,'' said Michael J. Kelly, president of AOL Media Networks. ''In a world where advertising market share is increasingly important this gives us an opportunity to tap into budgets that we couldn't tap.''</p>
+        <p>Mr. Kelly said that AOL had been testing the service with about 30 advertisers and would open it to the company's entire advertising base on Monday.</p>
+        <p>Google and AOL share revenue from ads displayed alongside AOL search results. They will continue to do so for ads sold by AOL, though according to a different formula. Neither AOL nor Google would give details of the formula, but Mr. Kelly said: ''If you sell the ad yourself, you typically keep more.''</p>
+        <p>Still, the move does not necessarily mean that Google will earn less from its relationship with AOL. If AOL brings more advertisers to the system, the prices that advertisers bid to be listed alongside searches could go up. Additionally, if ads are more relevant, users are likely to click on them more frequently, and because advertisers only pay when a user clicks on an ad, overall revenues would increase.</p>
+        <p>But analysts said the deal was an indication of the kinds of concessions Google had to make to edge out Microsoft, which in 2005 was also bidding aggressively to become AOL's search and advertising partner.</p>
+        <p>''On the surface, this is simply AOL offering something that its advertiser base asked for,'' said Greg Sterling, of Sterling Market Intelligence. ''But Google is doing something a bit uncharacteristic to accommodate a large partner.''</p>
+        <p>AOL has been trying to increase its advertising revenue since it decided last year to offer most of its services free; until then they required subscriptions. The company said that advertising revenue climbed 41 percent last year, to about $2 billion.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Depression Raises Risk Of Diabetes, Study Finds</title>
+    <meta content="01depr" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Health&amp;Fitness" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/05/01/health/psychology/01depr.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1844171"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Diabetes</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Mental Health and Behavior</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Depression</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Mental Health and Disorders</classifier>
+        <classifier class="online_producer" type="descriptor">Diabetes</classifier>
+        <classifier class="online_producer" type="descriptor">Depression (Mental)</classifier>
+        <classifier class="online_producer" type="descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="descriptor">Mental Health and Disorders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diabetes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Depression (Mental)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mental Health and Disorders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070501T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE6D9133EF932A35756C0A9619C8B63" item-length="653" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Depression Raises Risk Of Diabetes, Study Finds</hl1>
+        <hl2 class="online_headline">Depression Raises Risk of Diabetes, Study Finds</hl2>
+      </hedline>
+      <byline class="print_byline">By NICHOLAS BAKALAR</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Depression is associated with an increased risk for diabetes in older adults, even in people who have no other risk factors for the disease, a new study reports.</p>
+        <p>Researchers studied 4,681 men and women over 65, following them over a 10-year period, after excluding anyone who already had diabetes at the start of the project. They used a well-validated questionnaire to measure symptoms of depression each year, and tested all participants at two- to four-year intervals for blood sugar. They also calculated body mass index and noted alcohol intake, smoking status and antidepressant use.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A new study finds a connection between two common disorders in people over 65.</p>
+      </block>
+      <block class="full_text">
+        <p>Depression is associated with an increased risk for diabetes in older adults, even in people who have no other risk factors for the disease, a new study reports.</p>
+        <p>Researchers studied 4,681 men and women over 65, following them over a 10-year period, after excluding anyone who already had diabetes at the start of the project. They used a well-validated questionnaire to measure symptoms of depression each year, and tested all participants at two- to four-year intervals for blood sugar. They also calculated body mass index and noted alcohol intake, smoking status and antidepressant use.</p>
+        <p>After controlling for these factors, they found that even a single report of high depressive symptoms was associated with an increase in the incidence of diabetes. Increases in symptoms over time and persistently high symptoms of depression were also associated with the disease. Over all, people with the highest scores on the depression questionnaire were roughly 50 percent more likely to develop diabetes than those with the lowest scores. Adjusting for race, sex, smoking status, alcohol intake and body mass index made no difference in the result.</p>
+        <p>Mercedes R. Carnethon, the lead author and an assistant professor of preventive medicine at Northwestern University, said there was no evidence one way or the other on whether treating depression could reduce the risk for diabetes. ''People in our study who were on antidepressants didn't have an elevated risk for diabetes,'' she said. ''But we don't know if that's because of the antidepressants'' or for some other reason. The study appeared April 23 in The Archives of Internal Medicine.</p>
+        <p>Dr. Jonathan W. Stewart, a research psychiatrist at the New York State Psychiatric Institute who was not involved in the work, said that the conclusions ''fit with what else we think we know,'' but he was troubled by one aspect of the work.</p>
+        <p>''I worry that some of the items on the questionnaire could be attributed to diabetes rather than to depression,'' suggesting that there is some overlap between the symptoms of the two disorders, he said. ''This doesn't make the study wrong or inaccurate, but it's a serious limitation which they didn't mention.''</p>
+        <p>Inflammation has been proposed as an explanation for the connection because it is associated with both diabetes and depression. But this study found that having higher or lower levels of C-reactive protein, a marker of inflammation, did not alter the association between the two disorders.</p>
+        <p>Instead, the authors suggest, other biological mechanisms may be at work in the autonomic nervous system, which controls heart, digestive, respiratory, glandular and other involuntary processes. Previous studies have shown that depression is associated with dysfunction in that system, which has also been detected before the development of diabetes. The stress response associated with depression may increase the risk for diabetes by decreasing insulin secretion from the pancreas, which then causes increasing glucose levels in the blood. This can result in a blood sugar level above normal, the defining characteristic of diabetes.</p>
+        <p>The authors acknowledge some weaknesses in their study. Measures of physical activity were not consistently available during follow-up, and assumptions about this may have introduced error. Also, some of their data were gathered with self-reports, which are not always reliable. In addition, while their questionnaire detected depressive symptoms, the researchers were not able to make definitive diagnoses of clinical depression.</p>
+        <p>Still, Dr. Carnethon said, depression ''is a novel risk factor for diabetes, so we need to look at factors beyond physical inactivity and diet for an explanation.'' Depression is common in older people, she added, and 15 percent of those over 65 have diabetes.</p>
+        <p>''The most important thing to keep in mind,'' Dr. Carnethon said, ''is that depression has a lot of effects on the body, one of which may be the development of diabetes, which can lead to a number of other diseases. So addressing depression is important not only for improving mood, but for protecting overall health.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

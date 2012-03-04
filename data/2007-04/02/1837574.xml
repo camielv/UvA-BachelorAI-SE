@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Critic's Choice: New CDs</title>
+    <meta content="02choi-4" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837574"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070402T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E01E1D71E30F931A35757C0A9619C8B63" item-length="225" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Critic's Choice: New CDs</hl1>
+      </hedline>
+      <byline class="print_byline">By NATE CHINEN</byline>
+      <byline class="normalized_byline">Chinen, Nate</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>John Abercrombie  The Third Quartet (ECM)</p>
+        <p>The guitarist John Abercrombie has explored a number of stylistic regions throughout his long association with the ECM label, but with one aesthetic constant: an open and uncluttered lyricism. In recent years he has carried that quality over to a quartet with the violinist Mark Feldman, the bassist Marc Johnson and the drummer Joey Baron. The group, which will be playing at Birdland in Manhattan from April 11 to 14, has now released three albums together, each one stronger than the last.</p>
+      </block>
+      <block class="full_text">
+        <p>John Abercrombie  The Third Quartet (ECM)</p>
+        <p>The guitarist John Abercrombie has explored a number of stylistic regions throughout his long association with the ECM label, but with one aesthetic constant: an open and uncluttered lyricism. In recent years he has carried that quality over to a quartet with the violinist Mark Feldman, the bassist Marc Johnson and the drummer Joey Baron. The group, which will be playing at Birdland in Manhattan from April 11 to 14, has now released three albums together, each one stronger than the last.</p>
+        <p>Its new release, ''The Third Quartet,'' includes a waltz, a bossa nova and some bracing post-bop churners, along with ballad performances that convey both the intricacy of chamber music and the patient pliability of folk songs. All the music is Mr. Abercrombie's, with the exception of a pair of obscurities from the jazz repertory -- an exuberant ''Round Trip'' by Ornette Coleman, and an introverted ''Epilogue'' by Bill Evans -- that suggest two divergent spheres of influence.</p>
+        <p>Each musician in the band pulls his weight: Mr. Johnson and Mr. Baron are a powerfully intuitive rhythm team, and Mr. Feldman, with his plangent style, often commands attention. But the world they inhabit has been clearly defined by Mr. Abercrombie, who closes the album with ''Fine,'' an acoustic duet with an overdubbed version of himself.</p>
+        <p>NATE CHINEN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Calcium Calculus</title>
+    <meta content="10qna" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1839256"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Q + A"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Fitness and Nutrition</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Diet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Dietary Supplements and Herbal Remedies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dietary Supplements and Herbal Remedies</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diet and Nutrition</classifier>
+        <classifier class="online_producer" type="general_descriptor">Metals and Minerals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070410T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F02EEDE153FF933A25757C0A9619C8B63" item-length="232" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Calcium Calculus</hl1>
+      </hedline>
+      <byline class="print_byline">By C. CLAIBORNE RAY</byline>
+      <byline class="normalized_byline">Ray, C Claiborne</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Q. Is there any difference in how the body deals with calcium from food versus supplements?</p>
+        <p>A. Calcium is found naturally in foods, is added to fortified foods like orange juice and is sold in various forms as nutritional supplements.</p>
+        <p>''Calcium that is absorbed from any of these winds up exactly the same way in the body, mainly as the mineral hydroxyapatite in bones and teeth,'' said Dr. Sheldon S. Hendler, co-editor of The Physician's Desk Reference for Nutritional Supplements.</p>
+      </block>
+      <block class="full_text">
+        <p>Q. Is there any difference in how the body deals with calcium from food versus supplements?</p>
+        <p>A. Calcium is found naturally in foods, is added to fortified foods like orange juice and is sold in various forms as nutritional supplements.</p>
+        <p>''Calcium that is absorbed from any of these winds up exactly the same way in the body, mainly as the mineral hydroxyapatite in bones and teeth,'' said Dr. Sheldon S. Hendler, co-editor of The Physician's Desk Reference for Nutritional Supplements.</p>
+        <p>Dairy products are the major food sources of calcium in the American diet. Calcium citrate and calcium carbonate are the two most popular forms of calcium supplements, and calcium citrate malate is used in food fortification.</p>
+        <p>''The processes leading to the uptake of calcium from all of these are similar,'' Dr. Hendler said.</p>
+        <p>Typically, during digestion, calcium is freed from calcium complexes and released in a soluble form for absorption from the small intestine.</p>
+        <p>''The absorption efficiency of all these forms of calcium is similar, at about 30 percent,'' Dr. Hendler said.</p>
+        <p>Some studies, but not all, suggest that the absorption efficiency of calcium citrate is greater than that of calcium carbonate, he said. Absorption efficiency of calcium carbonate on an empty stomach is poor and increases significantly when the supplement is taken with food. Calcium citrate can be taken with or without food.</p>
+        <p>C. CLAIBORNE RAY</p>
+        <p>Q + A</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

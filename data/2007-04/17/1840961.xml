@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Six Kraft Foods Brands Being Shifted From JWT</title>
+    <meta content="17addes" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/17/business/media/17addes.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840961"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="ADDENDA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Food</classifier>
+        <classifier class="indexing_service" type="descriptor">Account Changes</classifier>
+        <classifier class="indexing_service" type="descriptor">Advertising and Marketing</classifier>
+        <org class="indexing_service">Kraft Foods</org>
+        <org class="indexing_service">Jwt (Ad Agency)</org>
+        <person class="indexing_service">Levere, Jane L</person>
+        <object.title class="indexing_service">Advertising (Times Column)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Addenda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070417T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D07E0D9113FF934A25757C0A9619C8B63" item-length="354" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Six Kraft Foods Brands Being Shifted From JWT</hl1>
+        <hl2 class="online_headline">Six Kraft Foods Brands Being Shifted From JWT</hl2>
+      </hedline>
+      <abstract>
+        <p>Advertising: Six Kraft Foods Brands Being Shifted</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Kraft Foods is again demonstrating its unhappiness with its largest agency partner, JWT, by shifting the creative duties for six brands to other agencies. Kraft spent more than $160 million to advertise the brands in major media last year, according to TNS Media Intelligence, a division of Taylor Nelson Sofres that tracks ad spending.</p>
+        <p>JWT, which has worked for Kraft for eight decades, is responding by forming a dedicated unit, called Team Kraft, to focus on its remaining assignments. The losses affect about a third of the business that Kraft has at JWT, part of the WPP Group, and include Oscar Mayer, which the agency made the star of two popular commercial jingles.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Six Kraft Foods Brands.</p>
+      </block>
+      <block class="full_text">
+        <p>Kraft Foods is again demonstrating its unhappiness with its largest agency partner, JWT, by shifting the creative duties for six brands to other agencies. Kraft spent more than $160 million to advertise the brands in major media last year, according to TNS Media Intelligence, a division of Taylor Nelson Sofres that tracks ad spending.</p>
+        <p>JWT, which has worked for Kraft for eight decades, is responding by forming a dedicated unit, called Team Kraft, to focus on its remaining assignments. The losses affect about a third of the business that Kraft has at JWT, part of the WPP Group, and include Oscar Mayer, which the agency made the star of two popular commercial jingles.</p>
+        <p>The creative assignment for one brand, Oscar Mayer Lunchables packaged meals, is being shifted immediately to Draft FCB in Chicago, part of the Interpublic Group of Companies, from the Chicago office of JWT. That assignment, with spending last year of $42.4 million, TNS reported, was placed in review last month.</p>
+        <p>The assignments for the other brands, to create ads for North America, were placed in review yesterday. The review will include agencies that do not work for Kraft as well as those that do, said Renee Zahery, a Kraft spokeswoman.</p>
+        <p>The review is for these products in North America, with their TNS spending data: the rest of the Oscar Mayer brand, $46.3 million; Grey Poupon mustard, $355,500; Kraft Singles cheese, $29.7 million; Ritz crackers, $32.1 million; and Triscuit crackers, $12.8 million.</p>
+        <p>In the 1960s and 1970s, JWT Chicago created the Oscar Mayer jingles that begin, ''Oh, I wish I were an Oscar Mayer wiener'' and ''My bologna has a first name, it's O-S-C-A-R.''</p>
+        <p>Kraft began shifting creative assignments from JWT Chicago in January 2006, when Kraft mayonnaise left for McGarry Bowen in New York. Last month, the creative duties for Miracle Whip went to the Chicago office of DDB Worldwide, part of the Omnicom Group.</p>
+        <p>JWT will continue creating ads in North America for Philadelphia cream cheese and Wheat Thins crackers. Those assignments will be the ''primary missions'' for Team Kraft in North America, said Bob Jeffrey, chief executive at JWT.</p>
+        <p>ADDENDA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Give to Public Colleges</title>
+    <meta content="l13gift" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1839902"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Philanthropy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070413T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E4DB133FF930A25757C0A9619C8B63" item-length="234" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Give to Public Colleges</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Columbia to Receive Its Largest Gift, $400 Million for Student Aid'' (news article, April 11):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Columbia to Receive Its Largest Gift, $400 Million for Student Aid'' (news article, April 11):</p>
+        <p>John Werner Kluge's gift to Columbia University largely for financial aid is an example of philanthropy at its highest use -- the gift that will keep on giving, as the recipients gain from the educational opportunity and pass on their own education and influence to the next generation.</p>
+        <p>It also underscores the overwhelming need in public higher education for scholarships as well.</p>
+        <p>In many parts of the country, endowments for public universities rival the finest privates. But in the Northeast there is no long history of giving to public universities partly because of the presence of privates and in large part because of the lack of a large and wealthy alumni donor base. And yet public institutions educate the overwhelming majority of lower- and middle-income students.</p>
+        <p>These students are being priced out of public education because of the increase in tuition, which used to be free. We have moved from thinking of public education as a benefit to the entire society and instead think of it largely as a benefit to individuals.</p>
+        <p>Significant benefactors of private universities should couple their gifts to their private alma mater with gifts to a public institution of higher education in their region.</p>
+        <p>Thomas J. Schwarz  President, Purchase College  State University of New York  Purchase, N.Y., April 11, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

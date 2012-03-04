@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Keeping the Faith</title>
+    <meta content="22letters.t-1" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1841969"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <org class="indexing_service">Roman Catholic Church</org>
+        <person class="indexing_service">Shorto, Russell</person>
+        <person class="indexing_service">Benedict Xvi (Pope)</person>
+        <person class="indexing_service">mcgreevey, jim</person>
+        <person class="indexing_service">bianchi, eugene c</person>
+        <person class="indexing_service">mark, e</person>
+        <person class="indexing_service">marranca, richard</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E6D6113FF931A15757C0A9619C8B63" item-length="313" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Keeping the Faith</hl1>
+      </hedline>
+      <abstract>
+        <p>April 8 article on Pope Benedict XVI prompts letters from Jim McGreevey, former governor of New Jersey, Eugene C Bianchi, E Mark and Richard Marranca; photo</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Thank you for Russell Shorto's insightful article (April 8) on Pope Benedict XVI and his determination to provide a spiritual underpinning for an increasingly secularized West.</p>
+      </block>
+      <block class="full_text">
+        <p>Thank you for Russell Shorto's insightful article (April 8) on Pope Benedict XVI and his determination to provide a spiritual underpinning for an increasingly secularized West.</p>
+        <p>The pontiff may well be correct in identifying Christianity as the religious foundation of Europe, as a counterpoint to pathologies of reason and as a religious bridge to Islam. Yet it would seem problematic for the church to advocate for the inclusion of a religious viewpoint within the European cultural debate but be unwilling to suffer dialogue internally on issues of the day, including abortion, priestly celibacy, gay rights, etc. The church under Benedict XVI, sadly, has drawn a clear line as to what constitutes permissible theological debate.</p>
+        <p>Jim McGreevey</p>
+        <p>Plainfield, N.J.</p>
+        <p>(The writer is the former</p>
+        <p>New Jersey governor.)</p>
+        <p>Pope Benedict sees too great a split between the secular and the sacred. What he fails to see is that secular states already incorporate many virtues that reflect the best in Christianity, like charity and justice. It's strange that the religious freedom he wants in Islamic nations was pioneered by Western secular democrats, not by the church.</p>
+        <p>Eugene C. Bianchi</p>
+        <p>Athens, Ga.</p>
+        <p>Every so often you print in your pages an article that soars to heights with its insights. Russell Shorto's is such an article. It achieves a universality that rises above the cynics of both the right and the left and gives a clear view of Europe today.</p>
+        <p>E. Mark</p>
+        <p>Syosset, N.Y.</p>
+        <p>Shorto's article was interesting and learned. But I don't think that Europeans have turned away from Christianity. They live many of its values; others they reject. Are they not acting in a religious way if they offer cradle-to-grave health insurance, extended time off for a woman who has given birth, greater job security and generous vacation time? That's my brand of religion.</p>
+        <p>Richard Marranca</p>
+        <p>Paterson, N.J.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

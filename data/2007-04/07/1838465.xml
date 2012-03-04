@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Walter Nicks, 81, Dance Teacher And Choreographer</title>
+    <meta content="07nicks" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Obituaries" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/07/obituaries/07nicks.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1838465"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="biographical_categories">Dancing</classifier>
+        <classifier class="indexing_service" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <classifier class="indexing_service" type="names">Walter Nicks</classifier>
+        <person class="indexing_service">Nicks, Walter</person>
+        <person class="indexing_service">Dunning, Jennifer</person>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance</classifier>
+        <classifier class="online_producer" type="descriptor">Dancing</classifier>
+        <classifier class="online_producer" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dancing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070407T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980DE0D8173FF934A35757C0A9619C8B63" item-length="281" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Walter Nicks, 81, Dance Teacher And Choreographer</hl1>
+        <hl2 class="online_headline">Walter Nicks, 81, Dance Teacher and Choreographer, Dies</hl2>
+      </hedline>
+      <byline class="print_byline">By JENNIFER DUNNING</byline>
+      <byline class="normalized_byline">Dunning, Jennifer</byline>
+      <abstract>
+        <p>Walter Nicks, internationally known dancer, teacher and choreographer, dies at age 81 (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Walter Nicks, an internationally known dancer, teacher and choreographer, died on Tuesday in Brooklyn. He was 81.</p>
+        <p>His death was confirmed by Dr. Glory Van Scott, a colleague and friend.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Walter Nicks was an internationally known dancer, teacher and choreographer.</p>
+      </block>
+      <block class="full_text">
+        <p>Walter Nicks, an internationally known dancer, teacher and choreographer, died on Tuesday in Brooklyn. He was 81.</p>
+        <p>His death was confirmed by Dr. Glory Van Scott, a colleague and friend.</p>
+        <p>Mr. Nicks was a certified master teacher of the technique of Katherine Dunham, at whose Manhattan school he had trained in the mid-1940s after early dance study with Eleanor Frampton at the influential Karamu House in Cleveland. He was associate director of dance at the Dunham School from 1947 to 1953.</p>
+        <p>An urbane, coolly impassioned teacher, Mr. Nicks absorbed a variety of technical influences after additional training with José Limón, Robert Joffrey, Karel Shook, Louis Horst and Doris Humphrey.</p>
+        <p>He danced with the Benny Goodman Jazz Revue in 1948-49 and in 1953 formed a small company, El Ballet Negro de Walter Nicks, in Mexico. He also performed in clubs and on television in Cuba, the Dominican Republic and Puerto Rico, and studied voodoo dance in Haiti.</p>
+        <p>Back in New York, he taught at the Phillips-Fort Studio in the mid-1950s and was part of the city's black modern-dance renaissance in the 1950s, performing in works including Donald McKayle's ''Games'' in 1954. He also choreographed several Harry Belafonte television specials.</p>
+        <p>His choreography, rooted in traditional modern and jazz dancing, demanded first-rate technique from his performers in blues-jazz dances and high-powered sass, most notably in performances in 1985 by the Walter Nicks Dance Company. Mr. Nicks's ''Jump, Jim Crow'' was an acid but affectionate look at black performing history.</p>
+        <p>Mr. Nicks was honored for his teaching by the American Dance Festival in 2000. In 2002, he was saluted by the International Association of Blacks in Dance for his contributions to dance.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

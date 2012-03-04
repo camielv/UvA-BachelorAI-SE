@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Creating a Whole World in a Library</title>
+    <meta content="15lipeopleLI" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Long Island Weekly Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="14LI" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/15/nyregion/nyregionspecial2/15lipeople.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840364"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="COMMUNITY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Libraries and Librarians</classifier>
+        <classifier class="indexing_service" type="descriptor">Families and Family Life</classifier>
+        <location class="indexing_service">Centereach (NY)</location>
+        <location class="indexing_service">Long Island (NY)</location>
+        <person class="indexing_service">Fischler, Marcelle S</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Long Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/Long Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="descriptor">Libraries and Librarians</classifier>
+        <classifier class="online_producer" type="descriptor">Children and Youth</classifier>
+        <classifier class="online_producer" type="general_descriptor">Libraries and Librarians</classifier>
+        <classifier class="online_producer" type="general_descriptor">Families and Family Life</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+        <location class="online_producer">Long Island (NY)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9506E3DB123FF936A25757C0A9619C8B63" item-length="635" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Creating a Whole World in a Library</hl1>
+        <hl2 class="online_headline">Creating a Whole World in a Library</hl2>
+      </hedline>
+      <byline class="print_byline">By MARCELLE S. FISCHLER</byline>
+      <byline class="normalized_byline">Fischler, Marcelle S</byline>
+      <dateline>CENTEREACH</dateline>
+      <abstract>
+        <p>Article on parent-child workshops at Middle Country Public Library in Centereach, NY, part of Family Place Libraries network at 33 libraries on Long Island and 220 across country; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ON a recent morning, the Middle Country Public Library looked a lot like a preschool. In a large playroom just off the lobby, the director, Sandra Feinberg, watched as about a dozen toddlers, accompanied by parents or caregivers, finger-painted, played with shoebox-size blocks and sang ''Ring Around the Rosie.''</p>
+        <p>It's all part of Ms. Feinberg's philosophy that if libraries are to survive, they have to be more than dusty repositories for books. The parent-child workshop, which runs an hour and 15 minutes, has been replicated in 33 libraries on the Island and 220 across the country in the Family Place Libraries network.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Sandra Feinberg, the director of the Middle Country Public Library, believes that if libraries are to survive, they have to be more than dusty repositories for books.</p>
+      </block>
+      <block class="full_text">
+        <p>ON a recent morning, the Middle Country Public Library looked a lot like a preschool. In a large playroom just off the lobby, the director, Sandra Feinberg, watched as about a dozen toddlers, accompanied by parents or caregivers, finger-painted, played with shoebox-size blocks and sang ''Ring Around the Rosie.''</p>
+        <p>It's all part of Ms. Feinberg's philosophy that if libraries are to survive, they have to be more than dusty repositories for books. The parent-child workshop, which runs an hour and 15 minutes, has been replicated in 33 libraries on the Island and 220 across the country in the Family Place Libraries network.</p>
+        <p>''For the kids, it's playtime,'' Ms. Feinberg said. ''For the staff, the librarians and the resource people, it's to introduce the parents to a community service, to tell them there are outside professionals that can help them in their parenting role.''</p>
+        <p>The play and interaction offered by the workshop are among the best ways to prepare a child to read, Ms. Feinberg stressed. The program grew out of Ms. Feinberg's own experience as a new mother 29 years ago.</p>
+        <p>Middle Country is the Island's largest library, at 77,000 square feet. Besides the workshops, the fanciful building, with its fish-scale exterior and large porthole windows, has extensive indoor play areas stocked with wooden trains, Legos, a wooden boat for climbing and a bank of computers outfitted with early-childhood software.</p>
+        <p>''It works almost as an indoor park,'' Ms. Feinberg said, noting that Middle Country annually trains 50 to 60 librarians from around the country on the development of family-centered services. She is also in charge of the library's Selden branch, which recently opened a center for teenagers that has a reading lounge with video games, a stage for karaoke and poetry readings, and cafe tables where students can chat or do homework.</p>
+        <p>Middle Country Public Library was one of 80 libraries around the country recently profiled in ''Heart of the Community: The Libraries We Love'' (Berkshire Publishing Group, 2007). Started as two storefronts in 1957, the library is celebrating its 50th anniversary on April 21.</p>
+        <p>With its 12 meeting rooms, Middle Country, which serves 60,000 residents, has become a community center in the midst of suburban sprawl.</p>
+        <p>In the large-print-books area, older people get help filling out forms or referrals for caregivers or recreational activities. Tutors offer classes in basic literacy and English as a second language. The business center, in partnership with the Hauppauge Industrial Association, guides small businesses in their marketing plans.</p>
+        <p>In the library's Catastrophe Readiness Clearinghouse, a program started last summer to help families prepare for disasters, a map of Suffolk County evacuation zones and shelter locations hangs on the wall.</p>
+        <p>The idea, and the financing, came from Allstate, Ms. Feinberg said, after the insurance company approached the library with the idea that it would be a good place to disseminate emergency information. Ms. Feinberg also created the Community Resource Database of Long Island, which includes a Web site, crdli.org, cataloging 12,000 health and human services on the Island.</p>
+        <p>Libraries need to change, Ms. Feinberg said, partly because of competition from the Internet. Still, many of the 50,000 visits the library gets each month are from patrons using the computers and free Internet access the library provides. ''A lot of what you would call information questions or reference don't come anymore,'' Ms. Feinberg said, including perennial favorites like the names of the Seven Dwarfs or ZIP codes.</p>
+        <p>Libraries need to adapt to new technology, Ms. Feinberg said, without treating it as a panacea.</p>
+        <p>''I don't think just because you are the most technologically advanced library that you are going to win out in the end,'' she said.</p>
+        <p>Rather, she said, the key is to ''establish yourself as a community institution so people can't imagine being without you.''</p>
+        <p>COMMUNITY E-mail: lijournal@nytimes.com</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">E-mail: lijournal@nytimes.com</tagline>
+    </body.end>
+  </body>
+</nitf>

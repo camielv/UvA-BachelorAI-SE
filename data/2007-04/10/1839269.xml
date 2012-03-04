@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Really?</title>
+    <meta content="10real1" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1839269"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Circumcision</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Reproduction (Biological)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sex</classifier>
+        <classifier class="online_producer" type="general_descriptor">Men</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Reproduction (Biological)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Women</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070410T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E5DD153FF933A25757C0A9619C8B63" item-length="611" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Really?</hl1>
+      </hedline>
+      <byline class="print_byline">By ANAHAD O'CONNOR</byline>
+      <byline class="normalized_byline">O'Connor, Anahad</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE CLAIM  Timing and sexual position can influence a baby's sex.</p>
+        <p>THE FACTS  For couples who know they want a girl or a boy, there is always the fertility clinic. But is there a lower-tech method?</p>
+      </block>
+      <block class="full_text">
+        <p>THE CLAIM  Timing and sexual position can influence a baby's sex.</p>
+        <p>THE FACTS  For couples who know they want a girl or a boy, there is always the fertility clinic. But is there a lower-tech method?</p>
+        <p>A technique called the Shettles method, popularized in the 1960s, holds that couples can increase their odds of having a boy by, among other things, having intercourse as close to ovulation as possible. Intercourse two to three days before ovulation, preferably in the missionary position, supposedly heightens the odds of having a girl.</p>
+        <p>The premise is that sperm carrying the X and Y chromosomes have different characteristics, and that each is more likely to fertilize the egg -- which is always X -- in different circumstances.</p>
+        <p>But don't count on it. Several studies have tried to confirm the claim but found no effect. In 1991, researchers at Johns Hopkins analyzed the findings of six previous studies on the subject. They found that relying on timing and position for ''natural family planning'' did not work.</p>
+        <p>A later study, in The New England Journal of Medicine, followed 221 healthy women who were planning a pregnancy. Of those, 192 became pregnant during the study period. Again, the researchers found no timing effect.</p>
+        <p>THE BOTTOM LINE  According to studies, timing and sexual position do not influence the sex of the baby.</p>
+        <p>THE CLAIM  Women can have multiple orgasms.</p>
+        <p>THE FACTS  The anatomical structures responsible for orgasm in men and women are not all that different. But men are hampered by the need to rest after climax.</p>
+        <p>Researchers have found that without this hurdle, some women are capable of having orgasms in rapid succession, as well as orgasms that last 20 to 60 seconds. A study by Masters and Johnson in 1966 documented an orgasm lasting 43 seconds.</p>
+        <p>According to most studies of the subject, about 15 percent of women claim to have had multiple orgasms. One study published in the journal Archives of Sexual Behavior in 1991 involved about 800 women and compared those reporting multiple orgasms with those who did not. In the latter group, 26 percent achieved it through self-stimulation and 25 percent via intercourse.</p>
+        <p>Nonetheless, about one in three women report rarely or never achieving orgasm during intercourse. In 2005, a study in Biology Letters looked at 4,000 women, all twins, and concluded that about 40 percent of this variation was genetic.</p>
+        <p>THE BOTTOM LINE  In studies, about 15 percent of women report having experienced multiple orgasms.</p>
+        <p>THE CLAIM  Circumcision adversely affects sexual satisfaction.</p>
+        <p>THE FACTS  Three studies in Africa recently endorsed circumcision to prevent H.I.V. infection. Which raises an age-old question about circumcision: does it make sex better or worse? Some scientists argue that it lessens sexual pleasure, by removing foreskin that contains thousands of nerve endings; others disagree.</p>
+        <p>Studies have mostly sought to examine the question by looking at adults who undergo the procedure for cosmetic, religious or medical reasons. Most studies have found that it leads to decreased sensation -- which some men say is good, and others find a drawback.</p>
+        <p>A 2002 study in the journal Urology looked at 123 adults who underwent the operation and found that most experienced both decreased sensitivity and improved satisfaction. ''Over all,'' it said, ''62 percent were satisfied with having been circumcised.'' A study of 150 men, published in 2005 by British urologists, found that 38 percent experienced improved sensation after circumcision, 18 percent reported less sensation and 44 percent experienced no change.</p>
+        <p>THE BOTTOM LINE  Most men do not report any decrease in satisfaction as a result of circumcision.</p>
+        <p>ANAHAD O'CONNOR</p>
+        <p>scitimes@nytimes.com</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">scitimes@nytimes.com</tagline>
+    </body.end>
+  </body>
+</nitf>

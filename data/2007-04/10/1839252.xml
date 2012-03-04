@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Few Breast Surgeons Steer Patients to Reconstruction</title>
+    <meta content="10refe" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1839252"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="VITAL SIGNS: REFERRALS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Midwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Breast Cancer</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Doctors</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Surgery and Surgeons</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Cancer</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Plastic Surgery</classifier>
+        <classifier class="online_producer" type="general_descriptor">Breast</classifier>
+        <classifier class="online_producer" type="general_descriptor">Doctors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Surgery and Surgeons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cancer</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Women</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070410T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E07EEDE153FF933A25757C0A9619C8B63" item-length="257" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Few Breast Surgeons Steer Patients to Reconstruction</hl1>
+      </hedline>
+      <byline class="print_byline">By Nicholas Bakalar</byline>
+      <byline class="normalized_byline">Bakalar, Nicholas</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A large proportion of breast surgeons never refer their patients to a plastic surgeon for reconstruction, a new study  reports.</p>
+        <p>Researchers surveyed 365 surgeons with 1,844 patients in Detroit and Los Angeles in 2002. Only 24 percent of surgeons referred more than three-quarters of their patients for plastic surgery, and 44 percent referred fewer than one-quarter.</p>
+      </block>
+      <block class="full_text">
+        <p>A large proportion of breast surgeons never refer their patients to a plastic surgeon for reconstruction, a new study  reports.</p>
+        <p>Researchers surveyed 365 surgeons with 1,844 patients in Detroit and Los Angeles in 2002. Only 24 percent of surgeons referred more than three-quarters of their patients for plastic surgery, and 44 percent referred fewer than one-quarter.</p>
+        <p>Over all, fewer than 20 percent of breast cancer patients undergo breast reconstruction, according to background information in the article, which appeared online March 26 in the journal Cancer.</p>
+        <p>Surgeons who had a large volume of cases and those who worked in specialized cancer centers were more likely than others to refer patients for plastic surgery. And, while 62 percent of women referred more than three-quarters of their patients, only 28 percent of men did.</p>
+        <p>When the surgeons were asked why they did not refer women for breast reconstruction, 64 percent said their patients were not interested, 39 percent believed that their patients thought it would take too long, and almost half said the women were concerned about the cost, even though federal law mandates insurance coverage for breast reconstruction.</p>
+        <p>''Women should know that breast reconstruction is an option, and not just for wealthy women,'' said Dr. Amy K. Alderman, an author of the study and an assistant professor at the University of Michigan. ''Women should be able to talk to their health care provider about what those options are for them. And if their health care provider doesn't bring it up, then women should do so themselves.''</p>
+        <p>VITAL SIGNS: REFERRALS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

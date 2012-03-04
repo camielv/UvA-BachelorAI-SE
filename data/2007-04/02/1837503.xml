@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bridge; A Guaranteed Four Spades, Or Maybe Not</title>
+    <meta content="02card" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/02/crosswords/bridge/02card.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837503"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Crossword and Games/Bridge</classifier>
+        <classifier class="online_producer" type="descriptor">Cards and Card Games</classifier>
+        <classifier class="online_producer" type="descriptor">Bridge (Card Game)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cards and Card Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bridge (Card Game)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070402T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03EFD91E30F931A35757C0A9619C8B63" item-length="412" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bridge; A Guaranteed Four Spades, Or Maybe Not</hl1>
+        <hl2 class="online_headline">A Guaranteed Four Spades, or Maybe Not</hl2>
+      </hedline>
+      <byline class="print_byline">By Phillip Alder</byline>
+      <byline class="normalized_byline">Alder, Phillip</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>After reading about the diagramed deal, you might feel it is still April 1. The layout arose during the final of the Blue Ribbon Pairs at the Fall North American Championships in Hawaii last November. It is described by Larry Cohen in the April issue of The Bridge World magazine (bridgeworld.com).</p>
+        <p>If you were South, how would you plan the play in four spades after West leads the diamond king?</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>After reading about the diagramed deal, you might feel it is still April 1.</p>
+      </block>
+      <block class="full_text">
+        <p>After reading about the diagramed deal, you might feel it is still April 1. The layout arose during the final of the Blue Ribbon Pairs at the Fall North American Championships in Hawaii last November. It is described by Larry Cohen in the April issue of The Bridge World magazine (bridgeworld.com).</p>
+        <p>If you were South, how would you plan the play in four spades after West leads the diamond king?</p>
+        <p>First, though, a couple of comments on the auction. Cohen followed two boards for all 13 rounds of the session. At eight tables West overcalled three diamonds, a textbook weak jump overcall promising a good six-card suit and some 5-10 high-card points. The other five Wests overcalled two diamonds, which gave North more room to describe his hand.</p>
+        <p>Over three diamonds North's three-spade response sounded competitive, not the game-invitational bid it would have been if West had passed. But although that North hand contained 10 points and four-card support, it had a lot of losers, making three spades sufficient. (With a tad extra, North would have jumped to four spades. If he were not a passed hand and held a full game-force, he would have cue-bid four diamonds.)</p>
+        <p>South realized that his hand's excellent distribution made it worth a raise to game.</p>
+        <p>The deal features a textbook elimination and endplay. You win with dummy's diamond ace, immediately ruff a diamond in your hand and play a trump to the dummy. East may take his ace and shift to a club, but you win with your ace, lead a trump to dummy, ruff the diamond jack in your hand and exit with a club. The defenders may take two club tricks but then are endplayed. Whoever is on lead must either shift to a heart, finding the queen for you, or play a minor-suit card, which concedes a ruff-and-sluff.</p>
+        <p>This line of play is 100 percent. And since there is no chance for an overtrick, it is clearly correct.</p>
+        <p>Cohen thought that everyone would make short work of the deal. He of too much faith. Of the 10 declarers he watched play in four spades, only five took the guaranteed line. The rest played a trump at Trick 2, which left them with insufficient entries to eliminate the diamonds and retain a trump on the board to benefit from a ruff-and-sluff. Now, with best defense, South is forced to find the heart queen. For the full story, read the magazine.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

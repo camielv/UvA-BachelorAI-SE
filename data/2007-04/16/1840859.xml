@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Student Lender Is to Pay A $2.5 Million Settlement</title>
+    <meta content="16direct" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Education; U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/16/education/16direct.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840859"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="descriptor">Student Loans</classifier>
+        <classifier class="online_producer" type="descriptor">Attorneys General</classifier>
+        <classifier class="online_producer" type="descriptor">Finances</classifier>
+        <classifier class="online_producer" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Attorneys General</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070416T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D04EFDC113FF935A25757C0A9619C8B63" item-length="533" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Student Lender Is to Pay A $2.5 Million Settlement</hl1>
+        <hl2 class="online_headline">Student Lender to Pay $2.5 Million Settlement</hl2>
+      </hedline>
+      <byline class="print_byline">By JONATHAN D. GLATER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Education Finance Partners, a student loan company that investigators found had paid at least 60 colleges and universities across the country for steering students to its loans, has agreed to pay $2.5 million to resolve an investigation of its practices by the New York attorney general, according to lawyers who have taken part in the negotiations.</p>
+        <p>The company, based in San Francisco, is now the third lender to reach such a deal with Andrew M. Cuomo, the attorney general, and to agree to change some of the ways it seeks business from universities.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Education Finance Partners has agreed to pay $2.5 million to resolve an investigation of its practices by the New York attorney general.</p>
+      </block>
+      <block class="full_text">
+        <p>Education Finance Partners, a student loan company that investigators found had paid at least 60 colleges and universities across the country for steering students to its loans, has agreed to pay $2.5 million to resolve an investigation of its practices by the New York attorney general, according to lawyers who have taken part in the negotiations.</p>
+        <p>The company, based in San Francisco, is now the third lender to reach such a deal with Andrew M. Cuomo, the attorney general, and to agree to change some of the ways it seeks business from universities.</p>
+        <p>While Education Finance Partners is smaller than Sallie Mae and Citibank, which have reached $2 million settlements with the attorney general's office, and offers fewer types of student loans, Mr. Cuomo has been particularly harsh in his criticism of its practices and had threatened to take the company to court. The settlement is expected to be announced today.</p>
+        <p>At a news conference last month, Mr. Cuomo called Education Finance Partners ''one of the most aggressive and most egregious actors.'' He singled out the company's practice of ''revenue sharing,'' or paying back to colleges and universities a percentage of the total volume of private loans, those not guaranteed by the federal government, borrowed by their students.</p>
+        <p>Such incentives were offered at colleges across the country, including Boston University, Long Island University and Clemson University.</p>
+        <p>Two universities that received payments from Education Finance, Fordham and St. John's, have already agreed to pay the money back to students who took out loans from the company.</p>
+        <p>Company officials did not return calls yesterday and Carey Dunne, a lawyer at Davis Polk &amp; Wardwell who is representing Education Finance Partners, declined to comment. John Milgrim, a spokesman for Mr. Cuomo, also declined to comment.</p>
+        <p>As part of the settlement, lawyers said, Education Finance Partners has agreed to adopt a code of conduct developed by Mr. Cuomo's office. The code prohibits revenue sharing arrangements, as well as giving gifts or trips to university financial aid administrators.</p>
+        <p>The payments create a conflict of interest for university financial aid offices, Mr. Cuomo has said, because they are an incentive to steer students to a lender for reasons unrelated to loan terms.</p>
+        <p>Until now, in most cases, neither the universities nor the lenders had publicly disclosed that they had such arrangements. Universities recommend lenders to their students through lists of preferred lenders which often promote only a handful of loan companies.</p>
+        <p>In the Education Finance settlement, as with the other agreements, the company has not acknowledged any wrongdoing, according to the lawyers involved in the negotiation.</p>
+        <p>Education Finance Partners' $2.5 million payment would go into a fund, to be administered by the attorney general's office, to educate students and parents nationwide about student loans.</p>
+        <p>The settlement comes amid increasing scrutiny of the practices of the student loan industry, which are under investigation by Mr. Cuomo and by lawmakers in Washington. Since Mr. Cuomo began his investigation -- saying he had jurisdiction beyond New York because, among other reasons, New York students attend colleges around the country -- and that loan companies do business in New York attorneys general in several other states have begun their own inquiries.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>When a Bank Works Both Sides</title>
+    <meta content="08deal" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business; Books" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/08/business/yourmoney/08deal.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1838813"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="DEALBOOK"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/DealBook</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Finance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Management</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="descriptor">Banks and Banking</classifier>
+        <classifier class="online_producer" type="general_descriptor">Banks and Banking</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+        <org class="online_producer">Merrill Lynch &amp; Company Inc</org>
+        <org class="online_producer">Citigroup Incorporated</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070408T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE3D8173FF93BA35757C0A9619C8B63" item-length="1082" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>When a Bank Works Both Sides</hl1>
+        <hl2 class="online_headline">When a Bank Works Both Sides</hl2>
+      </hedline>
+      <byline class="print_byline">By ANDREW ROSS SORKIN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WAS the auction for Tribune rigged in Samuel Zell's favor?</p>
+        <p>After the company's $8.2 billion sale was announced last week, some Tribune insiders whispered that the board's clubby Chicago directors always preferred selling the company to Mr. Zell, their local flamboyant real estate tycoon, over a rival deal for exactly the same price from a team of out-of-town Los Angeles billionaires, Eli Broad and Ronald W. Burkle.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The potential conflict in the Tribune sale stems from a practice known as “staple financing.”</p>
+      </block>
+      <block class="full_text">
+        <p>WAS the auction for Tribune rigged in Samuel Zell's favor?</p>
+        <p>After the company's $8.2 billion sale was announced last week, some Tribune insiders whispered that the board's clubby Chicago directors always preferred selling the company to Mr. Zell, their local flamboyant real estate tycoon, over a rival deal for exactly the same price from a team of out-of-town Los Angeles billionaires, Eli Broad and Ronald W. Burkle.</p>
+        <p>That may seem plausible, but there may be an even more perverse explanation: Two of the investment banks advising Tribune -- Merrill Lynch and Citigroup -- also financed Mr. Zell's bid.</p>
+        <p>In a happy coincidence, Merrill Lynch, which wrote a ''fairness opinion'' blessing the deal for Tribune, also just happened to represent Mr. Zell in his $39 billion sale of Equity Office Properties to the Blackstone Group this year.</p>
+        <p>These types of conflicts on Wall Street are hardly new, but the Tribune deal illustrates them writ large. As Robert Kindler, vice chairman for investment banking at Morgan Stanley, recently said on a panel at the Corporate Law Institute at Tulane University: ''We are all totally conflicted -- get used to it.'' (Morgan Stanley advised Tribune's special committee of independent directors, but more on that later.)</p>
+        <p>The potential conflict in the Tribune sale stems from a practice known as ''staple financing'' -- in which the adviser to the seller also offers financing to prospective buyers, putting the investment bank on both sides of the deal. This column has written about the issue before. I have called it ''Wall Street's version of vendor financing -- or, potentially, conflict-ridden double dipping.'' But within the last year, staple financing has become so commonplace that the obvious conflicts are regularly overlooked and may need to be re-examined.</p>
+        <p>Staple financing is called that because its paperwork is often stapled onto the deal's term sheet to help a seller develop a robust auction by offering on-the-spot financing to all suitors. The practice is often seen as a way for sellers to prevent bidders from trying to tie up financing from other sources to hinder rival bids. It also helps keep auctions more confidential because bidders don't have to bring in their own army of bankers to rifle through all the books and records.</p>
+        <p>And staple financing often sets a floor on a company's valuation. Still, staple financing is only offered as an option, not a requirement, so bidders who can find their own financing at better rates are free to do so.</p>
+        <p>There are times when staple financing may make sense. For example, Credit Suisse, the adviser to TXU on its $45 billion sale to the Texas Pacific Group and Kohlberg Kravis Roberts &amp; Company, is offering to finance any potential bidder that would seek to top that deal. If a higher bidder emerged as a result, the arrangement would clearly be beneficial.</p>
+        <p>Sometimes it is impossible to find an adviser with the necessary experience that isn't conflicted. Vice Chancellor Leo E. Strine Jr., who often presides over big deal-related cases at the Delaware Court of Chancery, said at the Tulane conference, "The idea that you get someone who's unconflicted and has no experience is an idiotic notion."</p>
+        <p>In the case of Tribune, however, the jumble of intertwining relationships and different options that the company was considering made the prospect of an adviser playing both sides of a deal more than a bit uncomfortable. The Tribune auction was different from many because the company was considering more than just selling to the highest bidder. It was also considering whether to sell at all, and if it didn't, what to do.</p>
+        <p>Tribune declined to comment, as did Citigroup and Merrill Lynch.</p>
+        <p>Until just a few weeks ago, the company seemed to be leaning toward a self-help plan that would involve revamping itself and taking on billions in debt. (Merrill and Citigroup planned to finance that deal, too.) On top of that, Merrill and Citigroup were offering to finance the bid by Mr. Burkle and Mr. Broad.</p>
+        <p>WITH so many options under consideration and Merrill and Citigroup financing virtually all of them, it is unclear why they had a seat at the negotiating table. For Merrill and Citigroup, Mr. Zell's bid was clearly worth more in fees than Tribune's self-help plan, and the bid from Mr. Burkle and Mr. Broad was less certain.</p>
+        <p>To their credit, Tribune's independent directors formed a special committee and hired an outside adviser, Morgan Stanley, to guide them through the drawn-out auction and to act as a buffer between the interests of the not-so-disinterested board members.</p>
+        <p>But with so many members of the board in favor of keeping the company in Chicago hands (and Merrill and Citigroup campaigning for that deal for the last couple of weeks), it was hard for the committee to squeeze more money out of Mr. Zell when he knew he was the favorite.</p>
+        <p>Under the circumstances, Morgan Stanley, which also provided a fairness opinion, actually did a pretty good job of extracting an extra dollar a share from Mr. Zell at the 11th hour. Of course, it is hard to say what would have happened if Merrill and Citigroup didn't provide the financing to Mr. Zell. And shareholders are hardly complaining; it is almost a miracle the company got sold at all, let alone for $34 a share.</p>
+        <p>But with so much financing available across Wall Street these days, it makes you wonder whether it is worth it for corporate boards to overlook all the potential conflicts to play the staple financing game.</p>
+        <p>ADDENDUM -- In my last column, I asked readers to write in with suggestions for renaming the private equity industry. Private equity has seemingly become a tainted phrase at a time when the business is undergoing enormous change as the Blackstone Group prepares to go public.</p>
+        <p>I recommended "operational finance" as the industry's new brand. Hundreds of readers responded with a variety of meaningful and less-than-meaningful suggestions.</p>
+        <p>One thing that did become clear was how much of an image problem the industry has. Almost half the responses were negative or sarcastic: ''How about Crooks and Thieves?'' one reader wrote. Another wrote: ''A rat by any other name is still a rat.'' One of the more positive suggestions: "enterprise capital."</p>
+        <p>And then for those who want to go back to the future with a new twist, there was this one: ''The Buffett boot-up.''</p>
+        <p>DealBook also has a newsletter and a Web site, nytimes.com/dealbook, that is updated continuously when markets are open.</p>
+        <p>DEALBOOK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

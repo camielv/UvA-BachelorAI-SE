@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Deal on the Minimum Wage</title>
+    <meta content="24tue2" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/24/opinion/24tue2.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842607"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="descriptor">Tax Credits</classifier>
+        <classifier class="online_producer" type="descriptor">Taxation</classifier>
+        <classifier class="online_producer" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="descriptor">Minimum Wage</classifier>
+        <classifier class="online_producer" type="descriptor">Wages and Salaries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Minimum Wage</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tax Credits</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wages and Salaries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Taxation</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070424T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CEFDE143EF937A15757C0A9619C8B63" item-length="396" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Deal on the Minimum Wage</hl1>
+        <hl2 class="online_headline">A Deal on the Minimum Wage</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Congressional negotiators have finally reached an agreement on a bill to raise the federal minimum wage. But in getting to that important point, some Democratic lawmakers have shown the same disturbing tendency as their Republican kin to turn pressing issues into pretexts for more tax cuts.</p>
+        <p>The bill would raise the minimum wage to $7.25 an hour by 2009 from $5.15 -- the level it has been stalled at for a decade. It also contains tax cuts that would be worth $8 billion over the next five years. About a third of those cuts are aimed at businesses that are apt to employ minimum wage workers. They include a nearly four-year extension of a tax credit for hiring people from such underemployed groups as high-risk youth. Another big chunk would allow small businesses to take bigger write-offs when they bought new equipment. That's not specifically intended to help low-wage employers, but would probably help some.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Congress is to be commended for making the minimum wage bill a priority. But lawmakers will have to temper their enthusiasm for never-ending tax cuts.</p>
+      </block>
+      <block class="full_text">
+        <p>Congressional negotiators have finally reached an agreement on a bill to raise the federal minimum wage. But in getting to that important point, some Democratic lawmakers have shown the same disturbing tendency as their Republican kin to turn pressing issues into pretexts for more tax cuts.</p>
+        <p>The bill would raise the minimum wage to $7.25 an hour by 2009 from $5.15 -- the level it has been stalled at for a decade. It also contains tax cuts that would be worth $8 billion over the next five years. About a third of those cuts are aimed at businesses that are apt to employ minimum wage workers. They include a nearly four-year extension of a tax credit for hiring people from such underemployed groups as high-risk youth. Another big chunk would allow small businesses to take bigger write-offs when they bought new equipment. That's not specifically intended to help low-wage employers, but would probably help some.</p>
+        <p>But about $600 million of the bill's tax breaks have no reasonable connection to the minimum wage. Senate Democrats were among the main drivers behind $366 million in tax cuts on behalf of a narrowly targeted group of corporate constituents, including more generous tax treatment of some companies' investment income. House lawmakers -- more attuned to urgent needs -- added an additional $246 million in tax breaks for hurricane-ravaged areas on the Gulf Coast. The corporate tax breaks, however, would be permanent, and would balloon to a cost of nearly $900 million over 10 years while the Gulf Coast tax breaks would be temporary.</p>
+        <p>Tax cuts that measure in the hundreds of millions of dollars are chicken feed compared with the hundreds of billions in tax cuts championed by the Bush administration and pushed through Congress in the last six years. And to the Democrats' credit, all of the tax cuts in the minimum wage bill are paid for in the long run, generally by closing overly generous tax breaks elsewhere in the code. But closing loopholes to pay for tax cuts for corporate constituents means that money is not available to pay for programs for needier Americans.</p>
+        <p>Congress is to be commended for making the minimum wage bill a priority and should look for every opportunity to send it to Mr. Bush. But to really move the nation in a new direction, lawmakers will have to temper their enthusiasm for never-ending tax cuts.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>GARDEN Q. &amp; A.</title>
+    <meta content="19qna" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/19/garden/19qna.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1841310"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="indexing_service" type="descriptor">Gardens and Gardening</classifier>
+        <classifier class="indexing_service" type="descriptor">Grass</classifier>
+        <classifier class="indexing_service" type="descriptor">Trees and Shrubs</classifier>
+        <classifier class="indexing_service" type="descriptor">Lawns</classifier>
+        <classifier class="indexing_service" type="descriptor">Juniper (Plant)</classifier>
+        <person class="indexing_service">Land, Leslie</person>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070419T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9503E2DA1E3FF93AA25757C0A9619C8B63" item-length="393" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>GARDEN Q. &amp; A.</hl1>
+        <hl2 class="online_headline">Garden Q.&amp;A.</hl2>
+      </hedline>
+      <byline class="print_byline">By Leslie Land</byline>
+      <byline class="normalized_byline">Land, Leslie</byline>
+      <abstract>
+        <p>Garden Q&amp;A on shore juniper as alternative to grass and on growth-suppressing chemicals released by some trees; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A Love of Green, Not of Grass</p>
+        <p>Q. I hate grass, so when I lived in California I planted the entire front yard with shore juniper, a spreading evergreen that soon created a green carpet. It never had to be mowed and there were no weeds because we mulched at the beginning with newspapers covered with bark chips. In the East I mostly see grass (ugh). What could I plant here that would work as well as the ground cover in California?</p>
+        <p>A. What about shore juniper, Juniperus conferta? It is hardy at least to Zone 6 and does not care much about geography as long as it has good drainage and plenty of sun. You could plant the variety Blue Pacific and not only evoke your former home but also have a more attractive plant. Blue Pacific does not discolor in cold winters as much as the original form.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Q. I hate grass, so when I lived in California I planted the entire front yard with shore juniper, a spreading evergreen that soon created a green carpet. It never had to be mowed and there were no weeds because we mulched at the beginning with newspapers covered with bark chips. In the East I mostly see grass (ugh). What could I plant here that would work as well as the ground cover in California?</p>
+      </block>
+      <block class="full_text">
+        <p>A Love of Green, Not of Grass</p>
+        <p>Q. I hate grass, so when I lived in California I planted the entire front yard with shore juniper, a spreading evergreen that soon created a green carpet. It never had to be mowed and there were no weeds because we mulched at the beginning with newspapers covered with bark chips. In the East I mostly see grass (ugh). What could I plant here that would work as well as the ground cover in California?</p>
+        <p>A. What about shore juniper, Juniperus conferta? It is hardy at least to Zone 6 and does not care much about geography as long as it has good drainage and plenty of sun. You could plant the variety Blue Pacific and not only evoke your former home but also have a more attractive plant. Blue Pacific does not discolor in cold winters as much as the original form.</p>
+        <p>Or you could choose an evergreen that does change color, the far less common Siberian cypress, Microbiota decussata. It starts out (pardon the expression) grass green in spring, turns dark green in summer, then in winter becomes a lustrous dark bronze to purple brown.</p>
+        <p>Plants mound gracefully as they grow outward to about six feet, always staying less than two feet tall. And the tips of the feathery branches turn down, so the effect is less stiff than that of junipers, whose branch tips turn up.</p>
+        <p>Siberian cypress lives up to its name in being hardy to Zone 3, and it will tolerate partial shade although it prefers sun.</p>
+        <p>Sources include Lazy S'S Farm Nursery, lazyssfarm.com (Internet only), and Greer Gardens, (800) 548-0111 or greergardens.com.</p>
+        <p>Countdown to a New Tree</p>
+        <p>Q. My dying black walnut tree will soon have to come down. I've had success with shade plantings underneath it and want to keep the structure it provides, but do not know when it will be safe to plant another tree. How long will the tree's allelopathic properties remain in the soil?</p>
+        <p>A. Black walnut's allelopathic (growth suppressing) chemicals are exuded only by the living tree. It takes about a year for them to degrade in the soil, so you can start counting as soon as your tree dies. Count a little extra if your soil is wet; sandy, fast-draining soils rebound more quickly.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

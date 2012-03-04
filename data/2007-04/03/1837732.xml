@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Urban Challenges</title>
+    <meta content="l03el" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837732"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Illinois/Chicago</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Illinois</classifier>
+        <classifier class="online_producer" type="general_descriptor">Buses</classifier>
+        <classifier class="online_producer" type="general_descriptor">Budgets and Budgeting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Railroads</classifier>
+        <classifier class="online_producer" type="general_descriptor">Transit Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070403T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D01EEDD1F30F930A35757C0A9619C8B63" item-length="175" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Urban Challenges</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''A Rail System (and Patience) Stretched Thin in Chicago'' (news article, March 26):</p>
+        <p>The cataclysmic struggles of Chicago's El system are a mere glimpse into the enormous infrastructure challenges facing cities all over the country.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''A Rail System (and Patience) Stretched Thin in Chicago'' (news article, March 26):</p>
+        <p>The cataclysmic struggles of Chicago's El system are a mere glimpse into the enormous infrastructure challenges facing cities all over the country.</p>
+        <p>From overstuffed schools to crumbling water systems to Internet dead zones, Americans need to get their heads around the billions of dollars we need to fix these aging yet crucial backbone services. We've let these admittedly costly projects go unaddressed for too long.</p>
+        <p>The challenges are especially urgent in America's low-income urban neighborhoods and working-class inner-ring suburbs -- communities that can least afford to be cut off from more economic and social opportunities.</p>
+        <p>Infrastructure spending on new schools, more public transit and broader Internet access can help spread opportunity throughout all communities. Unless we work now to finance these projects, the struggles of El commuters will just be the beginning.</p>
+        <p>Judith Bell  Oakland, Calif., March 27, 2007</p>
+        <p>The writer is the president of PolicyLink, an institute that develops policies to achieve economic and social equity.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

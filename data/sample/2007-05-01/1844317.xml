@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>World Briefing | United Nations: Revised Genocide Exhibit Opens</title>
+    <meta content="01briefs-7" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1844317"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">War Crimes, Genocide and Crimes Against Humanity</classifier>
+        <classifier class="indexing_service" type="descriptor">Armenians</classifier>
+        <location class="indexing_service">Rwanda</location>
+        <location class="indexing_service">Turkey</location>
+        <org class="indexing_service">United Nations</org>
+        <person class="indexing_service">Hoge, Warren</person>
+        <person class="indexing_service">Ban Ki-Moon (Sec Gen)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Turkey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa/Rwanda</classifier>
+        <classifier class="online_producer" type="general_descriptor">War Crimes, Genocide and Crimes Against Humanity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Culture</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070501T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9906E1D6133EF932A35756C0A9619C8B63" item-length="125" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>World Briefing | United Nations: Revised Genocide Exhibit Opens</hl1>
+      </hedline>
+      <byline class="print_byline">By WARREN HOGE</byline>
+      <byline class="normalized_byline">Hoge, Warren</byline>
+      <abstract>
+        <p>United Nations exhibit on Rwandan genocide that was dismantled three weeks ago after Turkey objected to reference to Armenian genocide is opened in revised form by Sec Gen Ban Ki-moon (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A United Nations exhibit on the Rwandan genocide that was dismantled three weeks ago after Turkey objected to a reference to the Armenian genocide was opened in revised form by Secretary General Ban Ki-moon. Where the original exhibit had an entry called ''What is genocide?'' that cited the deaths ''following World War I'' of a million Armenians ''in Turkey,'' the revised entry is called ''Defining the Crime'' and refers to ''mass killings of Armenians in the Ottoman Empire during World War I.'' Some 1.5 million Armenians were killed by Ottoman Turks, but Turkey says they were victims of war and unrest instead of genocide. The exhibit observes the 13th anniversary of the 100-day slaughter in Rwanda of 800,000 Tutsis by Hutus.</p>
+        <p>WARREN HOGE</p>
+      </block>
+      <block class="full_text">
+        <p>A United Nations exhibit on the Rwandan genocide that was dismantled three weeks ago after Turkey objected to a reference to the Armenian genocide was opened in revised form by Secretary General Ban Ki-moon. Where the original exhibit had an entry called ''What is genocide?'' that cited the deaths ''following World War I'' of a million Armenians ''in Turkey,'' the revised entry is called ''Defining the Crime'' and refers to ''mass killings of Armenians in the Ottoman Empire during World War I.'' Some 1.5 million Armenians were killed by Ottoman Turks, but Turkey says they were victims of war and unrest instead of genocide. The exhibit observes the 13th anniversary of the 100-day slaughter in Rwanda of 800,000 Tutsis by Hutus.</p>
+        <p>WARREN HOGE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

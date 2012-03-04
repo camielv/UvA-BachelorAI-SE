@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Red-Meat Miracle, and Other Tales From the Butcher Case</title>
+    <meta content="04curi" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining, Dining Out/Cultural Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Dining and Wine" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/04/dining/04curi.html" name="alternate_url"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20070411T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1837938"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE CURIOUS COOK"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="descriptor">Meat</classifier>
+        <classifier class="online_producer" type="descriptor">Microbiology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Color</classifier>
+        <classifier class="online_producer" type="general_descriptor">Meat</classifier>
+        <classifier class="online_producer" type="general_descriptor">Microbiology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070404T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07E5D81F30F937A35757C0A9619C8B63" item-length="948" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Red-Meat Miracle, and Other Tales From the Butcher Case</hl1>
+        <hl2 class="online_headline">The Red-Meat Miracle, and Other Tales From the Butcher Case</hl2>
+      </hedline>
+      <byline class="print_byline">By Harold McGee</byline>
+      <byline class="normalized_byline">Mcgee, Harold</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WHEN I was growing up in Illinois a few decades ago, my father always cooked a roast of some kind for our Sunday afternoon dinner. My brother and sisters and I especially loved what we called ''red meat,'' which was beef cooked rare. The color was a big part of it, a vivid promise of juicy, mouth-filling flavor, nothing like the dull look of pork or chicken or pot roast. It may not have been up there with the loaves and fishes, but it seemed miraculous to me that red meat could come from the stolid creatures we saw -- and smelled -- on our after-dinner drives through the countryside.</p>
+        <p>In recent months I've been marveling at meat's several shades of red, and at their creation stories. They all start with a meat protein called myoglobin. Like the hemoglobin in blood, myoglobin is a molecule that stores oxygen, and it has an iron atom at its center to which the oxygen can bind.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>“In recent months I’ve been marveling at meat’s several shades of red, and at their creation stories.”</p>
+      </block>
+      <block class="full_text">
+        <p>WHEN I was growing up in Illinois a few decades ago, my father always cooked a roast of some kind for our Sunday afternoon dinner. My brother and sisters and I especially loved what we called ''red meat,'' which was beef cooked rare. The color was a big part of it, a vivid promise of juicy, mouth-filling flavor, nothing like the dull look of pork or chicken or pot roast. It may not have been up there with the loaves and fishes, but it seemed miraculous to me that red meat could come from the stolid creatures we saw -- and smelled -- on our after-dinner drives through the countryside.</p>
+        <p>In recent months I've been marveling at meat's several shades of red, and at their creation stories. They all start with a meat protein called myoglobin. Like the hemoglobin in blood, myoglobin is a molecule that stores oxygen, and it has an iron atom at its center to which the oxygen can bind.</p>
+        <p>Oxygenated myoglobin is red, but when its structure is changed by heat or by other molecules, it changes color. That's why redness in cooked meat signifies juiciness: As meat cooks, the heat causes the other meat proteins to coagulate and squeeze out their moisture. Myoglobin stays unchanged and red as the meat juices flow, then turns from red to gray-brown as the release of moisture ends and the meat becomes dry.</p>
+        <p>Because myoglobin exposed to air eventually turns brown, red surfaces on raw meat also signify freshness. Until recently, that is. Two and a half years ago, the word got out that fish processors were treating some tuna sold in the United States with small amounts of carbon monoxide gas to keep it red well past its usual shelf life. Last year we learned that the same thing was being done to some precut beef in the supermarket.</p>
+        <p>Carbon monoxide is an effective color fixative. It sticks like a leech to myoglobin's iron atom, turning the molecule a distinctive cherry red and preventing it from reacting with anything else, oxygen included. This is exactly what carbon monoxide in the air we breathe does to hemoglobin in our blood, and why it can asphyxiate us. But at the levels applied to meat and fish, it doesn't asphyxiate bacteria. So there's concern that carbon monoxide treatment may mislead consumers into eating fish and meat that's old enough to have begun spoiling. For this and other reasons, it's banned in Europe and Japan.</p>
+        <p>A lower-profile additive that some people might see as more palatable is lactate, which is found in all meats as a byproduct of muscle metabolism, and in its acid form is what makes yogurt sour. Lactate has been used in certain meat products since the early 1990s, but until recently it wasn't clear how it works. A study published last September in the Journal of Agricultural and Food Chemistry showed that added lactate revives an enzyme system in the meat itself that constantly regenerates the normal myoglobin pigment and keeps it red. Lactate inhibits bacterial growth, so it also slows spoilage -- a possible advantage over carbon monoxide.</p>
+        <p>Then there's the ongoing saga of nitrite and nitrate, which give hams, bacon, hot dogs, bologna and other salt-cured meats their special color and tang. Nitrite reacts in the meat tissue to form nitrous oxide, which binds tightly to the iron in myoglobin and turns it a stable red. Nitrite is also toxic to many microbes, including the bacteria that cause botulism, so it's a critical preservative in cured sausages. For centuries meats were treated with a liberal mixture of salt and saltpeter, or sodium nitrate, which bacteria on the meat converted into nitrite. Nowadays manufacturers generally use very small quantities of pure nitrite, or a mixture of nitrite and nitrate.</p>
+        <p>In the 1970s, the nitrite and nitrate in cured meats fell under the suspicion that they might cause cancer. Later research showed that we get far more of these chemicals from vegetables like celery, spinach and lettuce. Their abundant nitrate comes from the soil and is turned into nitrite by bacteria living in our mouths.</p>
+        <p>Nevertheless consumers remain wary of nitrite-cured meats. And United States Department of Agriculture regulations forbid the use of pure nitrate or nitrite in foods labeled ''natural'' or ''organic.''</p>
+        <p>So ingenious manufacturers figured out how to replace the pure chemicals with a mix of nitrate-rich vegetable extracts and bacterial cultures that convert the nitrate into nitrite. (Celery-juice powder, for one, is especially rich in nitrate and has little flavor of its own.) As a result, natural and organic hot dogs that once were quite drab are starting to look better.</p>
+        <p>According to a review from the American Meat Science Association, recent studies at Iowa State University show that careful formulation and processing can produce vegetable-cured hot dogs and hams that are quite similar to their nitrite-cured models in color and flavor. They are not, however, free of nitrites or nitrates, no matter what the label suggests.</p>
+        <p>But prosciutto di Parma and some other premium long-cured hams are indeed nitrite-free -- they've been made for centuries with nothing added but salt. So how do they come by their lovely color? The usual explanation has been that sea salt contains enough nitrate impurities to stabilize the myoglobin. Not true. Chemists in Japan and Denmark have recently demonstrated that pure salt, the chemical machinery of pig muscle, and the passage of time collaborate to break apart the original myoglobin and create a new pigment out of the pieces, with iron's central role taken over by naturally occurring zinc.</p>
+        <p>Why would 18 salty months do that, and leave pig flesh not cadaverous but rosy? Another little miracle.</p>
+        <p>THE CURIOUS COOK</p>
+        <p>Correction:  April 11, 2007, Wednesday  The Curious Cook column last Wednesday, about the chemistry of meat color, referred incorrectly to the chemical that binds with the pigment myoglobin to make nitrite-cured meat pink. It is nitric oxide (NO) -- not nitrous oxide (N2O), a sedative used in dentistry.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: April 11, 2007, Wednesday</p>
+        <p>The Curious Cook column last Wednesday, about the chemistry of meat color, referred incorrectly to the chemical that binds with the pigment myoglobin to make nitrite-cured meat pink. It is nitric oxide (NO) -- not nitrous oxide (N2O), a sedative used in dentistry.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

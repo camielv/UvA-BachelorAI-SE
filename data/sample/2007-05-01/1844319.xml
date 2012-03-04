@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Balancing Laws and Treatment</title>
+    <meta content="01lett-2" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1844319"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070501T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D00E1D6133EF932A35756C0A9619C8B63" item-length="238" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Balancing Laws and Treatment</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''At Trial, Pain Has a Witness'' (Findings, April 24): As a chronic pain sufferer, I know finding a doctor willing to treat pain is nearly impossible due to our government's war on drugs. Prescribing pain medications is a balance between aiding patients and leakage of drugs to illegal markets.</p>
+        <p>It's alarming that our government is controlling how doctors treat patients and prescribe medication. Had a medical board found Dr. William E. Hurwitz's practices ''too generous,'' I'd be willing to accept their finding. But it wasn't doctors that busted the pain specialists, it was bureaucrats. Let's leave pain treatment and care to the medical community.</p>
+        <p>Jesse Alt  Baltimore</p>
+        <p>To the Editor:</p>
+        <p>Doctors on the front lines of pain management are often caught between a rock and a hard place. On one side there is the real possibility of improper drug diversion and sales, and on the other the potential for failing to alleviate a patient's suffering. A physician can end up a defendant in a criminal trial or a defendant in a civil lawsuit.</p>
+        <p>Chronic pain is not like an infection. There aren't concrete tests that can prove its existence. One must rely on the patient's description. There are inherent risks, but collaborative groups of physicians, pharmacists and nurse practitioners have developed some truly effective ways of preventing drug diversion and setting standards for prescribing them.</p>
+        <p>Peter Nelken  San Francisco</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''At Trial, Pain Has a Witness'' (Findings, April 24): As a chronic pain sufferer, I know finding a doctor willing to treat pain is nearly impossible due to our government's war on drugs. Prescribing pain medications is a balance between aiding patients and leakage of drugs to illegal markets.</p>
+        <p>It's alarming that our government is controlling how doctors treat patients and prescribe medication. Had a medical board found Dr. William E. Hurwitz's practices ''too generous,'' I'd be willing to accept their finding. But it wasn't doctors that busted the pain specialists, it was bureaucrats. Let's leave pain treatment and care to the medical community.</p>
+        <p>Jesse Alt  Baltimore</p>
+        <p>To the Editor:</p>
+        <p>Doctors on the front lines of pain management are often caught between a rock and a hard place. On one side there is the real possibility of improper drug diversion and sales, and on the other the potential for failing to alleviate a patient's suffering. A physician can end up a defendant in a criminal trial or a defendant in a civil lawsuit.</p>
+        <p>Chronic pain is not like an infection. There aren't concrete tests that can prove its existence. One must rely on the patient's description. There are inherent risks, but collaborative groups of physicians, pharmacists and nurse practitioners have developed some truly effective ways of preventing drug diversion and setting standards for prescribing them.</p>
+        <p>Peter Nelken  San Francisco</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="24correx-7" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1842659"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070424T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990DE1DD143EF937A15757C0A9619C8B63" item-length="101" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A television review last Tuesday of the documentary ''Gangs of Iraq'' on PBS omitted a word in a quotation from a motivational speaker shown addressing Iraqi police trainees. He said, '''I am not here to impose my American will upon you'' -- not ''I am here.'' A listing of credits with the review carried outdated information from PBS about the program's producer and erroneously credited another executive. The producer is Marcela Gaviria -- not Martin Smith, who was correctly identified in the article as the PBS correspondent. Sherry Jones is a senior producer -- not an executive producer, the position held by David Fanning.</p>
+      </block>
+      <block class="full_text">
+        <p>A television review last Tuesday of the documentary ''Gangs of Iraq'' on PBS omitted a word in a quotation from a motivational speaker shown addressing Iraqi police trainees. He said, '''I am not here to impose my American will upon you'' -- not ''I am here.'' A listing of credits with the review carried outdated information from PBS about the program's producer and erroneously credited another executive. The producer is Marcela Gaviria -- not Martin Smith, who was correctly identified in the article as the PBS correspondent. Sherry Jones is a senior producer -- not an executive producer, the position held by David Fanning.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

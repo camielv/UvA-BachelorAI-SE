@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Spitzer Breaks In the Veto Pen</title>
+    <meta content="23empire-1" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1842450"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE EMPIRE ZONE"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Legal</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Law Enforcement and Security</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Vetoes (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Police Brutality and Misconduct</classifier>
+        <classifier class="online_producer" type="general_descriptor">Organized Labor</classifier>
+        <classifier class="online_producer" type="general_descriptor">Police</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070423T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE5D8173EF930A15757C0A9619C8B63" item-length="267" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Spitzer Breaks In the Veto Pen</hl1>
+      </hedline>
+      <byline class="print_byline">By MICHAEL COOPER</byline>
+      <byline class="normalized_byline">Cooper, Michael</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Governor Eliot Spitzer, below, used his veto pen for the first time last week on a bill that would have made police disciplinary procedures across the state the subject of collective bargaining with the police unions.</p>
+        <p>Police discipline is already subject to negotiation in most of the state -- but not for the New York Police Department, the state police, or for departments in Westchester and Rockland Counties.</p>
+      </block>
+      <block class="full_text">
+        <p>Governor Eliot Spitzer, below, used his veto pen for the first time last week on a bill that would have made police disciplinary procedures across the state the subject of collective bargaining with the police unions.</p>
+        <p>Police discipline is already subject to negotiation in most of the state -- but not for the New York Police Department, the state police, or for departments in Westchester and Rockland Counties.</p>
+        <p>Mayor Michael R. Bloomberg, and others now allowed to use their own disciplinary procedures, urged the governor to veto the bill.</p>
+        <p>''If the city is to maintain and consolidate the public safety gains it has made in recent years, the city's fire and police commissioners must be allowed to retain their statutory authority to manage their departments,'' the mayor's office wrote in opposition to the bill. ''The quasi-military order and accountability necessary for public safety in the Fire and Police Departments, especially in times that call for heightened security and emergency response capability, should not be placed on the 'bargaining table' to be traded away or even removed from the control of the affected commissioners over their objection.''</p>
+        <p>Governor Spitzer noted that a nearly identical bill was vetoed last year.</p>
+        <p>''Although I cannot support this bill in its present form, I agree that our current system -- with collective bargaining of disciplinary procedures being mandated in some areas, and prohibited in others -- makes little sense,'' he wrote in his veto message. ''I urge the police unions and municipal employers to work together to determine if there are alternative approaches that would be acceptable to both sides.''</p>
+        <p>MICHAEL COOPER</p>
+        <p>THE EMPIRE ZONE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Dell Still Losing Market Share to Hewlett and Others, Data Shows</title>
+    <meta content="19compute" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/19/technology/19compute.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1841387"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Sales and Business Development</classifier>
+        <classifier class="online_producer" type="descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="descriptor">Sales</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sales</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+        <org class="online_producer">Dell Inc</org>
+        <org class="online_producer">Hewlett-Packard Co</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070419T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D07E3D81E3FF93AA25757C0A9619C8B63" item-length="510" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Dell Still Losing Market Share to Hewlett and Others, Data Shows</hl1>
+        <hl2 class="online_headline">Dell Still Losing Market Share to Hewlett and Others, Data Shows</hl2>
+      </hedline>
+      <byline class="print_byline">By DAMON DARLIN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Dell's personal computer sales continued to decline in the first quarter in the United States and across the world, according to analyses of PC sales made public yesterday by IDC and Gartner, two major consulting and market analysis firms.</p>
+        <p>Dell Computer also continued to lose market share in the first three months of year to Hewlett-Packard, the world's largest PC vendor, and to overseas companies like Lenovo and Acer.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Dell’s personal computer sales continued to decline in the first quarter in the United States and across the world.</p>
+      </block>
+      <block class="full_text">
+        <p>Dell's personal computer sales continued to decline in the first quarter in the United States and across the world, according to analyses of PC sales made public yesterday by IDC and Gartner, two major consulting and market analysis firms.</p>
+        <p>Dell Computer also continued to lose market share in the first three months of year to Hewlett-Packard, the world's largest PC vendor, and to overseas companies like Lenovo and Acer.</p>
+        <p>Dell's shipments worldwide fell 6.9 percent from the first quarter of 2006, pushing its share of the market to 15.2 percent from 18.2 percent last year, according to IDC. It was a particularly sharp decline given that the overall market grew 10.9 percent.</p>
+        <p>Statistics from Gartner, based in Stamford, Conn., showed a similar trend.</p>
+        <p>''When you were king of the hill for as long as Dell was, it gave room for everyone else to maneuver,'' said Loren Loverde, an analyst with IDC, based in Framingham, Mass.</p>
+        <p>IDC said that Hewlett-Packard shipped 28.2 percent more computers in the first quarter worldwide than a year earlier, and held 19.1 percent of the market. The other standout was Acer, the Taiwanese maker, whose worldwide shipments rose 41.4 percent.</p>
+        <p>Acer shipped about the same number of PCs as Lenovo, the Chinese company that bought I.B.M.'s PC operations. Acer and Lenovo tied for the title of the world's third- largest PC vendor, according to statistics gathered by IDC. (Gartner gave a slight edge to Acer.)</p>
+        <p>Dell's biggest problems were in the United States, where its PC shipments slipped 14.4 percent while the overall market grew 3.6 percent. Dell remained the No. 1 PC vendor in its home market with 26.8 percent of shipments, but it was no longer dominant. Hewlett-Packard's shipments rose 25.5 percent, seven times the overall market growth rate. It had 24.2 percent of the domestic market, IDC said.</p>
+        <p>Apple also picked up market share in the United States, growing to 5 percent, from 4 percent, as its shipments increased 30 percent, according to Gartner. Apple grew faster than any other PC maker in the United States, Gartner said.</p>
+        <p>Dell's weakness in the quarter was in part a result of its focus on sales to large American companies. IDC said that the corporate market in the United States was one of the few weak spots for PC sales. Indeed, the growth in worldwide shipments exceeded its forecasts.</p>
+        <p>The consumer market in the United States, which has been showing a preference for notebook computers, remained strong, surprising analysts. Gartner analysts had been expecting less than 1 percent growth in the United States.</p>
+        <p>Dell, which announces its financial results May 31, had no comment on the reports.</p>
+        <p>Despite having capitalized on the strength of notebook sales worldwide, Hewlett-Packard said that it had revamped its desktop line to emphasize style. In an announcement yesterday, it said that all its computers would come in a glossy black finish to match the finish on its notebooks and TVs.</p>
+        <p>''People still buy a lot of desktop PCs,'' said Satjiv Chahil, the head of the company's PC marketing.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

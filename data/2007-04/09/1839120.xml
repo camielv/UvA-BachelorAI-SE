@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Accounts</title>
+    <meta content="09addes" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1839120"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="ADDENDA"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Addenda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070409T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E5D7143FF93AA35757C0A9619C8B63" item-length="183" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Accounts</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Philips Electronics, Amsterdam, decided to keep its worldwide media account, with spending estimated at $600 million, at Carat, part of the Aegis Group. The decision came after a review that was narrowed to Carat and Mediaedge:cia, part of the WPP Group.</p>
+        <p>Chrysler Group, Auburn Hills, Mich., part of DaimlerChrysler, shifted the national creative duties for Jeep to Cutwater, San Francisco, part of the Omnicom Group, from the Troy, Mich., office of BBDO Worldwide, also part of Omnicom. About half the estimated $350 million that Jeep spends each year is devoted to national ads. BBDO retains the rest of the Jeep account, including dealer ads and direct marketing. The decision came after a review that included BBDO, Cutwater and other Omnicom agencies.</p>
+      </block>
+      <block class="full_text">
+        <p>Philips Electronics, Amsterdam, decided to keep its worldwide media account, with spending estimated at $600 million, at Carat, part of the Aegis Group. The decision came after a review that was narrowed to Carat and Mediaedge:cia, part of the WPP Group.</p>
+        <p>Chrysler Group, Auburn Hills, Mich., part of DaimlerChrysler, shifted the national creative duties for Jeep to Cutwater, San Francisco, part of the Omnicom Group, from the Troy, Mich., office of BBDO Worldwide, also part of Omnicom. About half the estimated $350 million that Jeep spends each year is devoted to national ads. BBDO retains the rest of the Jeep account, including dealer ads and direct marketing. The decision came after a review that included BBDO, Cutwater and other Omnicom agencies.</p>
+        <p>Procter &amp; Gamble, Cincinnati, consolidated assignments for its Oral-B line of dental care products at agencies owned by the Publicis Groupe, including Publicis Worldwide, to create ads, and Digitas, for online marketing. Spending was estimated at more than $100 million. The assignments had been mostly handled by agencies owned by Omnicom when Oral-B was part of Gillette, which Procter acquired in 2005.</p>
+        <p>ADDENDA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

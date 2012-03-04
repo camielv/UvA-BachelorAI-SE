@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TECH Expressions</title>
+    <meta content="trendspotting22" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Education Life Supplement" name="dsk"/>
+    <meta content="33" name="print_page_number"/>
+    <meta content="4A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Education; U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1842073"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="TRENDSPOTTING"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Photography</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E00E5DF1F3FF931A15757C0A9619C8B63" item-length="179" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TECH Expressions</hl1>
+      </hedline>
+      <byline class="print_byline">By Text by Jamie Wallis</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Student photographers roving their campuses for The New York Times: Katharine Sidelnik (Rochester Institute of Technology) and Clara Rice (Northeastern).</p>
+        <p>Text by Jamie Wallis</p>
+        <p>DANCE PAD -- With clubs from U.C.L.A. to Cornell devoted to it, and almost 400 Facebook groups on the subject, Dance Dance Revolution is firmly entrenched as a college craze. Born as an arcade game and played with an Xbox or PlayStation 2, D.D.R. demands fast reflexes to keep up with furious on-screen directions. At a party at Northeastern University in Boston, Jenna Short and Dave Landry, far right, competed for dance dominance; then Marybeth Miller took a solo turn. Ms. Miller confesses to playing alone in her room -- ''a lot.''</p>
+        <p>GEEK ART -- A computer is a canvas at the Rochester Institute of Technology. Philipp Batta, far left, arranged sticker-sheet remnants to make his apple appear to move. ''They represent progress,'' he says. Sally Safadi's babysitting charges affixed their sticker collection, center. Computer makers, too, are rethinking the skin. The two assemblages at left come from Dell.</p>
+      </block>
+      <block class="full_text">
+        <p>Student photographers roving their campuses for The New York Times: Katharine Sidelnik (Rochester Institute of Technology) and Clara Rice (Northeastern).</p>
+        <p>Text by Jamie Wallis</p>
+        <p>DANCE PAD -- With clubs from U.C.L.A. to Cornell devoted to it, and almost 400 Facebook groups on the subject, Dance Dance Revolution is firmly entrenched as a college craze. Born as an arcade game and played with an Xbox or PlayStation 2, D.D.R. demands fast reflexes to keep up with furious on-screen directions. At a party at Northeastern University in Boston, Jenna Short and Dave Landry, far right, competed for dance dominance; then Marybeth Miller took a solo turn. Ms. Miller confesses to playing alone in her room -- ''a lot.''</p>
+        <p>GEEK ART -- A computer is a canvas at the Rochester Institute of Technology. Philipp Batta, far left, arranged sticker-sheet remnants to make his apple appear to move. ''They represent progress,'' he says. Sally Safadi's babysitting charges affixed their sticker collection, center. Computer makers, too, are rethinking the skin. The two assemblages at left come from Dell.  TRENDSPOTTING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

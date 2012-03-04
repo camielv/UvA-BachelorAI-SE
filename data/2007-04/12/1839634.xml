@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Money Does Buy Looks</title>
+    <meta content="12ROW" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Thursday Styles" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/12/fashion/12ROW.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1839634"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Front Row"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Thursday Styles</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Shopping</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Retail</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Fashion, Beauty and Fitness</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Apparel</classifier>
+        <classifier class="online_producer" type="general_descriptor">Retail Stores and Trade</classifier>
+        <classifier class="online_producer" type="general_descriptor">Men</classifier>
+        <classifier class="online_producer" type="general_descriptor">Apparel</classifier>
+        <org class="online_producer">Gucci Group NV</org>
+        <person class="online_producer">Ford, Tom</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070412T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9506E4DD123FF931A25757C0A9619C8B63" item-length="340" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Money Does Buy Looks</hl1>
+        <hl2 class="online_headline">Money Does Buy Looks</hl2>
+      </hedline>
+      <byline class="print_byline">By Eric Wilson</byline>
+      <byline class="normalized_byline">Wilson, Eric</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A PAIR of socks at Tom Ford's new store costs $75. If this is a problem, stop reading now.</p>
+        <p>One can gauge from the breathy reaction to Mr. Ford's new men's wear collection, which he showed on Monday, that his relevance as a cultural force in fashion has not diminished in the three years since he resigned from Gucci, as had been predicted at times. The mythology of Mr. Ford, who was the emblematic driver of the luxury-brand revivals of last decade, is such that a certain level of significance is attached to his return. What does it mean?</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Tom Ford shows that his relevance as a cultural force in fashion has not diminished in the three years since he resigned from Gucci.</p>
+      </block>
+      <block class="full_text">
+        <p>A PAIR of socks at Tom Ford's new store costs $75. If this is a problem, stop reading now.</p>
+        <p>One can gauge from the breathy reaction to Mr. Ford's new men's wear collection, which he showed on Monday, that his relevance as a cultural force in fashion has not diminished in the three years since he resigned from Gucci, as had been predicted at times. The mythology of Mr. Ford, who was the emblematic driver of the luxury-brand revivals of last decade, is such that a certain level of significance is attached to his return. What does it mean?</p>
+        <p>Mr. Ford's new clothes are lavishly expensive, with suits costing $3,500 off the rack and $350 dress shirts (with seven different collars and three cuff options). Upstairs in the store, which opens today at 845 Madison Avenue at 70th Street, custom suits can be made in the tradition of Savile Row, albeit in a much sexier environment, beginning at $5,000.</p>
+        <p>The store is staffed with uniformed butlers and maids and a receptionist at the front door, all of whom seemed more than pleased, during a preview, to be relegated to such Old World Disney stock characters. The merch, rather classic when compared with Mr. Ford's Gucci signatures, is displayed in glass cabinets. Women's Wear Daily described the concept as ''uberluxury.'' Sigh.</p>
+        <p>One could read something into Mr. Ford's return about a prospective fashion revolution among male shoppers, if that had not already been happening with the popularity of Dior Homme, Thom Browne and Michael Bastian. More likely, it speaks to a migration toward more customized niche brands, which cater to a minute portion of the population with no concern about credit card debt.</p>
+        <p>On this point, Mr. Ford hit the target. Wearing a three-piece suit, with a buttoned-up waistcoat, did he not seem taller, even better looking than before?</p>
+        <p>''Can you believe how tall he looks?'' asked Cathy Hardwick, the designer who gave Mr. Ford his first job. ''It's like he's had Michael Jackson work done or something.''</p>
+        <p>Front Row</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

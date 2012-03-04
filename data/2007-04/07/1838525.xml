@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sifting Data To Uncover Travel Deals</title>
+    <meta content="07money" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/07/business/07money.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1838525"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="YOUR MONEY"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Industry News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Discount Selling</classifier>
+        <classifier class="online_producer" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Discount Selling</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070407T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B05E2D6173FF934A35757C0A9619C8B63" item-length="1566" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sifting Data To Uncover Travel Deals</hl1>
+        <hl2 class="online_headline">Sifting Data to Uncover Travel Deals</hl2>
+      </hedline>
+      <byline class="print_byline">By DAMON DARLIN</byline>
+      <byline class="normalized_byline">Darlin, Damon</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Say you are looking for a deal on an airline flight. The Internet abounds with offers for low fares. You can find them on the major Internet travel agent sites like Orbitz, Travelocity or on more specialized sites like Cheaptickets.com or Sidestep.com.</p>
+        <p>Those can be useful, but they have limits. How do you know, for instance, that that low fare really is a deal? A number of Web sites have recently been created that specialize in spotting true bargains. All of them do what any bargain hunter is supposed to do: watch the marketplace for anomalies, whether they are money-saving air tickets, discount hotel rooms or frequent-flier bonuses.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A number of Web sites have recently been created that specialize in spotting true airfare bargains.</p>
+      </block>
+      <block class="full_text">
+        <p>Say you are looking for a deal on an airline flight. The Internet abounds with offers for low fares. You can find them on the major Internet travel agent sites like Orbitz, Travelocity or on more specialized sites like Cheaptickets.com or Sidestep.com.</p>
+        <p>Those can be useful, but they have limits. How do you know, for instance, that that low fare really is a deal? A number of Web sites have recently been created that specialize in spotting true bargains. All of them do what any bargain hunter is supposed to do: watch the marketplace for anomalies, whether they are money-saving air tickets, discount hotel rooms or frequent-flier bonuses.</p>
+        <p>Farecast.com, which gathered a following with technology that enables it to predict the direction of airfares on a particular route, is back with another innovation that it says can distinguish the best deals in air travel.</p>
+        <p>Hugh Crean, the chief executive of the Seattle company, said, ''We flipped the deal concept.'' He said that to determine whether a deal was anything more than a marketing tool, the Web site mined its database of airfares to look for good prices relative to others and those in the past.</p>
+        <p>What makes this an ideal task for computers, he said, is that a person looking for the best fare for a flight on a particular day from, say, San Francisco, would have to study 600 possibilities from each of the area's three major airports. Since it was already tracking price data from airlines, Farecast was not daunted by the amount of information.</p>
+        <p>''We are the only ones who look at everything every day,'' Mr. Crean said. Artificial intelligence was all that was needed to spot the deals.</p>
+        <p>On its site, a person goes to the Farecast Deals section and clicks on the departure city and a list of deals pops up. Each entry includes an explanation, like ''record low'' or ''save $249 off the average low.''</p>
+        <p>The deals change quickly. On Thursday, Farecast found a $75 flight from San Francisco to Los Angeles. Twelve hours later, the best deal was $91.</p>
+        <p>Mr. Crean said the company was applying the technology for price prediction and deal-finding to hotels. It may also start analyzing rental car costs as well.</p>
+        <p>George Hobica, a former travel writer, says he thinks that fare-finder sites that rely only on data feeds miss bargains mainly because they do not include the information from Southwest Airlines. Southwest offers bargain fares but does not share its information with other Web sites. He started airfarewatchdog.com  based on the idea that ''technology can fail.'' For example, the technology-reliant sites say that the best deal on a flight from Providence, R.I., to Los Angeles is $91. The five humans working for Mr. Hobica found a Southwest flight for $76. It is an even better deal, he said, because the flight is nonstop, while the traveler who paid $91 has to change planes.</p>
+        <p>Sometimes the way airlines price tickets is so subtle, the fine points will be missed by computers, he said. Airlines may not change the fare, but alter the rules for getting the fare.</p>
+        <p>One Friday night a year ago, shortly after Mr. Hobica started the site, he noticed a $398 round trip from New York to London. Nothing unusual there, except that instead of being a winter fare that was good through the end of February, the ticket could be used in the peak summer season when air travel to Europe usually gets more expensive. ''We made a lot of friends that weekend,'' he said.</p>
+        <p>Still, technology has its virtues. For the hard-core traveler, the kind who wants to make sure he has the highest odds of making that meeting in Manhattan, there is Flightstats.com. It compiles statistics not just by airline, but by each flight. So, for instance, if you wanted to see which flights between Atlanta and Newark are most prone to problems, you would go to its Flight Rating section and find that while Continental Flight 1154 is on time 96 percent of the time, Continental Flight 1156 is on time only 44 percent of the time and was canceled or diverted 6 percent of the time over the last 60 days.</p>
+        <p>The site also helpfully lays out vital bits of information you need to make a decision. For instance, it cites the number of flights on a particular route. The on-time statistics become more relevant if you know only two flights were made on a particular route, not 54.</p>
+        <p>The site measures on-time arrival or departure as the moment the plane leaves the tarmac or touches down, not when the aircraft pushes away from the gate, an important difference because some travelers have suffered through long delays on the tarmac.</p>
+        <p>Flightstats.com  was created by the programmers who helped create online ticket booking software for airlines. The team then moved on to collect flight operations data for sale to air freight schedulers. They discovered that savvy passengers began using the information. So eight months ago, Conducive Technology of Portland, Ore., created the Web site that tracks 1,200 carriers worldwide.</p>
+        <p>Its Airport Scorecard feature is also useful for getting information on weather delays or how long you may have to wait in line for airport security to examine your bags and use the wand on you. A chart displays the average wait in each hour segment of the day. Leaving Las Vegas this morning? You could spend 25 minutes in the security line.</p>
+        <p>Some of Flightstats's data can also be obtained from a cellphone. (You can see how much information at mobile.flightstats.com.) Its flight alert widget sends an alert to a cellphone to say someone is supposed to pick you up at the airport, when the aircraft lands.</p>
+        <p>One source of data at FlightStats on frequent-flier promotions comes from Boaz Shmueli, who runs MileMaven.com and PointMaven. If your goal in life is to accumulate enough points to get free flights to Hawaii for the family vacation, you will want to frequent these sites.</p>
+        <p>At MileMaven, Mr. Shmueli collects information on the latest offers by the airlines, though he will not say how he gets the information. ''Some of the promotions are on airline Web sites, but it is not always easy to find them,'' Mr. Shmueli said. Sometimes the information is buried in airline microsites that are missed by search engines.</p>
+        <p>He organizes it by route. If you fly from New York to Hong Kong, for example, you may want to know that United is offering a bonus of 7,500 to 10,000 miles for flights between San Francisco and Taipei, Taiwan, or that Japan Airlines is offering a 3,000-mile bonus for booking online. Northwest will give you 1,000 miles for an online check-in through the end of August. He has collected 40 promotions relevant to that route.</p>
+        <p>Mr. Shmueli recommends that fliers check the promotions before booking any flight because many of the promotions require preregistration in a points program.</p>
+        <p>He also notes that while airlines are very good about telling their customers about which airlines they are partners with, they are not very good at telling you which programs use the miles you accumulate with them. For instance, if you were to fly Shanghai Airlines in China, you might decide to not sign up for its frequent-flier program because you do not think you will ever use the airline again. But you may not know that those miles can be applied to United, Lufthansa, ANA or AirChina's programs.</p>
+        <p>That happens a lot, he says, and that is the reason he began MileMaven. ''It's my mother's fault,'' he said. He started the site in November 2005 after his mother failed to maximize the number of frequent-flier miles on an around-the-world trip.</p>
+        <p>Mr. Shmueli recently started PointMaven, which tracks hotel rewards programs. You type in the name of the destination. He displays the information on a treemap, a way to visualize information with colored boxes of various sizes. Each square on the map represents a single hotel. The deeper the color, the more promotions it offers.</p>
+        <p>It is an efficient way to absorb the information. Waving your cursor over a box displays the information.</p>
+        <p>Here are a few other tools that can proved useful:</p>
+        <p>Google Mobile's (www.google.com/intl/en-us/mobile/sms/) text messaging service for cellphones provides information in a pinch. You can get flight arrival or departure information (it comes from Flightstats) by typing in the flight number, like ''Jetblue 91'' on your phone's SMS service and sending the query to 466453. (That is Google on the keypad, in case you want to remember it.)</p>
+        <p>You can also get the phone number of an airline, which can come in handy when you have just learned a flight has been canceled. (While other frustrated travelers shove each other in line at the counter, you make a few calls.) Google also offers to translate words into foreign languages and provides driving directions.</p>
+        <p>Orbitz also makes flight information available to cellphone users. Type in orbitz.com from any Web-enabled phone and you can also get information about hotels that are near the airport in 20 major cities. It details room availability and prices.</p>
+        <p>Nextag.com, the comparison shopping site, scours other Web sites for deals on electronics, clothing and other products. Now it searches Web sites like Orbitz, hotels.com and cheaptickets.com to compile a list of hotels. It makes a similar effort for car rentals.</p>
+        <p>YOUR MONEY E-mail: yourmoney@nytimes.com</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">E-mail: yourmoney@nytimes.com</tagline>
+    </body.end>
+  </body>
+</nitf>

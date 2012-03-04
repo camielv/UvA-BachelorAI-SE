@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Critic's Choice: New CDs</title>
+    <meta content="23choi-2" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1842453"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070423T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E4D8173EF930A15757C0A9619C8B63" item-length="268" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Critic's Choice: New CDs</hl1>
+      </hedline>
+      <byline class="print_byline">By JON PARELES</byline>
+      <byline class="normalized_byline">Pareles, Jon</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Calle 13  ''Residente o Visitante''  (Norte)</p>
+        <p>The debut album by Calle 13, released in 2005, established this Puerto Rican duo of Residente (René Pérez), a rapper, and Visitante (Eduardo Cabra), a composer and producer, as one of the smartest raunchiest, funniest and most ambitious acts in reggaetón. It also won Calle 13 (which means ''13th Street'') the Latin Grammy as best new artist. Calle 13's second album, ''Residente o Visitante'' (''Resident or Visitor'') goes further.</p>
+      </block>
+      <block class="full_text">
+        <p>Calle 13  ''Residente o Visitante''  (Norte)</p>
+        <p>The debut album by Calle 13, released in 2005, established this Puerto Rican duo of Residente (René Pérez), a rapper, and Visitante (Eduardo Cabra), a composer and producer, as one of the smartest raunchiest, funniest and most ambitious acts in reggaetón. It also won Calle 13 (which means ''13th Street'') the Latin Grammy as best new artist. Calle 13's second album, ''Residente o Visitante'' (''Resident or Visitor'') goes further.</p>
+        <p>The music still touches down in reggaetón's basic boom-chicka-boom beat, but it also reaches across Latin America. There's tango in ''Tango del Pecado'' (''Tango of Sin''), featuring the Oscar-winning Argentine producer Gustavo Santaolalla and his Bajafondo Tango Club; there's an electronically warped bossa nova in ''Un Beso de Desayuno'' (''A Kiss for Breakfast'') and an accordion- and brass-pumped Colombian cumbia for ''Cumbia de Los Aburridos'' (''Cumbia of the Bored''). The album's ''Intro'' is a mock-classical chorus that promises there will be no bad words on the album, which immediately -- and operatically -- breaks the promise.</p>
+        <p>Residente cheerfully leers, calls his music ''satánica'' and lists kinky sex options; in ''Sin Exagerar,'' (''Without Exaggeration''), a duet with another top reggaetón rapper, Tego Calderón, he makes wildly exaggerated claims about his possessions and perogatives while Visitante tosses some surf guitar. Residente also has more on his mind: thoughts on immigration, on revolution, on cultural identity, on fame.</p>
+        <p>The wordplay is dense, juggling sincerity and irony, and Visitante's music keeps aligning reggaetón with different styles. And for listeners who might not pick up all the allusions, what comes through above all is playfulness.</p>
+        <p>JON PARELES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

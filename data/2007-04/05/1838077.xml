@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>In Astoria, Mercury Glass and Saarinen-Inspired Tweed</title>
+    <meta content="05site" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838077"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CURRENTS: HOME FURNISHINGS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Interior Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Home Furnishings</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070405T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F02E3DC163FF936A35757C0A9619C8B63" item-length="148" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>In Astoria, Mercury Glass and Saarinen-Inspired Tweed</hl1>
+      </hedline>
+      <byline class="print_byline">By FRED A. BERNSTEIN</byline>
+      <byline class="normalized_byline">Bernstein, Fred A</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A corner of Astoria, Queens, that already has a pair of funky clothing stores (Loveday 31 and Candy Plum) has just gained the home-design equivalent. Mackenzi Farquer, above, a 28-year-old Chicagoan who graduated from the New York School of Interior Design, took over a former garage across the street from Kaufman Astoria Studios, tore out a dropped ceiling to discover a skylight and filled the space with inexpensive furnishings like a vintage yellow table lamp ($68), top, and old dining chairs that she and her mother repainted ($140 each), above left.</p>
+        <p>Ms. Farquer's feet are resting on a Saarinen-inspired tweed covered stool ($160). The old mercury glass lamp, above right, is $145, and the mirrored bird coat hooks, above left, just $15. ''I think they're most adorable if you hang a flock,'' Ms. Farquer said. Site Design, 35-11 34th Ave., Astoria, sitedesignnyc.com.</p>
+        <p>FRED A. BERNSTEIN</p>
+      </block>
+      <block class="full_text">
+        <p>A corner of Astoria, Queens, that already has a pair of funky clothing stores (Loveday 31 and Candy Plum) has just gained the home-design equivalent. Mackenzi Farquer, above, a 28-year-old Chicagoan who graduated from the New York School of Interior Design, took over a former garage across the street from Kaufman Astoria Studios, tore out a dropped ceiling to discover a skylight and filled the space with inexpensive furnishings like a vintage yellow table lamp ($68), top, and old dining chairs that she and her mother repainted ($140 each), above left.</p>
+        <p>Ms. Farquer's feet are resting on a Saarinen-inspired tweed covered stool ($160). The old mercury glass lamp, above right, is $145, and the mirrored bird coat hooks, above left, just $15. ''I think they're most adorable if you hang a flock,'' Ms. Farquer said. Site Design, 35-11 34th Ave., Astoria, sitedesignnyc.com.</p>
+        <p>FRED A. BERNSTEIN  CURRENTS: HOME FURNISHINGS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

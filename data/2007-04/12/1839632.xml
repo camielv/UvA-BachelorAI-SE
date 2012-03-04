@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Cosmetics Trade, Warts and All</title>
+    <meta content="12skin3" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Thursday Styles" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Health; Style; Books" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/12/fashion/12skin3.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1839632"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Skin Deep"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Thursday Styles</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="descriptor">Skin</classifier>
+        <classifier class="online_producer" type="descriptor">Cosmetics and Toiletries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Skin</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cosmetics and Toiletries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070412T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9805E4DD123FF931A25757C0A9619C8B63" item-length="207" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Cosmetics Trade, Warts and All</hl1>
+        <hl2 class="online_headline">The Cosmetics Trade, Warts and All</hl2>
+      </hedline>
+      <byline class="print_byline">By NATASHA SINGER</byline>
+      <byline class="normalized_byline">Singer, Natasha</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>MARNIE MANN works at the fictional Hattie LeVigne cosmetics, where she is surrounded by catty co-workers who disparage her skin-care routine and dispense arsenic cream to dissolve her freckles. Her job is to help market cosmetics, even if that means tacky advertisements that prey on women's insecurities (''With crepey skin like this, she's no longer the life of the party'') or over-the-top promotion strategies. (A cross-country bus tour to promote acne cream is called the Blemish Brigade.)</p>
+        <p>All in all, just another day in the skin trade, and another entry in the subgenre of chick lit called lipstick lit.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>“The Immaculate Complexion” (Dorchester Publishing, 2007), a roman à clef, is written under the pseudonym Edie Bloom by two former beauty publicists, and it takes its central premise of exposing the blemishes of a glamour industry directly from “The Devil Wears Prada.”</p>
+      </block>
+      <block class="full_text">
+        <p>MARNIE MANN works at the fictional Hattie LeVigne cosmetics, where she is surrounded by catty co-workers who disparage her skin-care routine and dispense arsenic cream to dissolve her freckles. Her job is to help market cosmetics, even if that means tacky advertisements that prey on women's insecurities (''With crepey skin like this, she's no longer the life of the party'') or over-the-top promotion strategies. (A cross-country bus tour to promote acne cream is called the Blemish Brigade.)</p>
+        <p>All in all, just another day in the skin trade, and another entry in the subgenre of chick lit called lipstick lit.</p>
+        <p>''The Immaculate Complexion'' (Dorchester Publishing, 2007), a roman à clef, is written under the pseudonym Edie Bloom by two former beauty publicists, and it takes its central premise of exposing the blemishes of a glamour industry directly from ''The Devil Wears Prada.''</p>
+        <p>With its designer name-dropping and jokes about a cellulite cream that may cause infertility, the book could be a bread-and-butter beach read for those not too tired of tales about plucky working girls who overcome the odds in a hollow, judgmental industry to win the day. But it won't alter the course of beauty marketing. ''Unsightly'' cellulite is here to stay.</p>
+        <p>NATASHA SINGER</p>
+        <p>Skin Deep</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

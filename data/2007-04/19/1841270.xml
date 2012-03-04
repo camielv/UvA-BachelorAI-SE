@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   KATZ, DR. LEONARD</title>
+    <meta content="dn041907.1" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1841270"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">KATZ, DR. LEONARD</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070419T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980DE0D81F3AF93AA25757C0A9619C8B63" item-length="81" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   KATZ, DR. LEONARD</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>KATZ--Dr. Leonard. Central Synagogue records with profound sorrow the passing of its member, Dr. Leonard Katz. We extend heartfelt sympathy to his bereaved family. Peter J. Rubinstein, Rabbi Howard F . Sharfstein, President</p>
+        <p>$(6$)KATZ--Leonard, M.D., beloved husband of Abigail Merrill. Devoted father of Sammi, dear brother of Diane Heifeitz, Barbara Tetefsky. Loving uncle of Lauren, Michael, Scott, Jennifer and Matthew. Service Thursday, 10am, ''Plaza Jewish Community Chapel'', 91st St. and Amsterdam Ave. Contributions to Arthritis Foundation would be appreciated.</p>
+      </block>
+      <block class="full_text">
+        <p>KATZ--Dr. Leonard. Central Synagogue records with profound sorrow the passing of its member, Dr. Leonard Katz. We extend heartfelt sympathy to his bereaved family. Peter J. Rubinstein, Rabbi Howard F . Sharfstein, President</p>
+        <p>$(6$)KATZ--Leonard, M.D., beloved husband of Abigail Merrill. Devoted father of Sammi, dear brother of Diane Heifeitz, Barbara Tetefsky. Loving uncle of Lauren, Michael, Scott, Jennifer and Matthew. Service Thursday, 10am, ''Plaza Jewish Community Chapel'', 91st St. and Amsterdam Ave. Contributions to Arthritis Foundation would be appreciated.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

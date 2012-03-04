@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>ECONOMY CHECK</title>
+    <meta content="28five-2" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1843436"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="FIVE DAYS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070428T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9502E2D7123EF93BA15757C0A9619C8B63" item-length="190" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>ECONOMY CHECK</hl1>
+      </hedline>
+      <byline class="print_byline">By JEREMY W. PETERS</byline>
+      <byline class="normalized_byline">Peters, Jeremy W</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The freefall in the housing market continued, but evidence this week suggested the problems would not cause widespread damage to the economy. Existing home sales last month suffered their biggest monthly decline since 1989. And while new home sales rose slightly last month, the government said that its calculations of new home sales in December, January and February overestimated the strength of the market.</p>
+        <p>But outside real estate, the picture was less bleak. Durable goods orders, an important measure of business investment, rose for the second consecutive month. And the Federal Reserve's beige book, which monitors economic activity across the 12 Fed regions, found moderate growth in most areas, a slight improvement from its last report. Housing sales were poor in most places, but consumer spending was healthy and prices were largely steady.</p>
+      </block>
+      <block class="full_text">
+        <p>The freefall in the housing market continued, but evidence this week suggested the problems would not cause widespread damage to the economy. Existing home sales last month suffered their biggest monthly decline since 1989. And while new home sales rose slightly last month, the government said that its calculations of new home sales in December, January and February overestimated the strength of the market.</p>
+        <p>But outside real estate, the picture was less bleak. Durable goods orders, an important measure of business investment, rose for the second consecutive month. And the Federal Reserve's beige book, which monitors economic activity across the 12 Fed regions, found moderate growth in most areas, a slight improvement from its last report. Housing sales were poor in most places, but consumer spending was healthy and prices were largely steady.</p>
+        <p>Yesterday, though, the government said the nation's gross domestic product expanded 1.3 percent in the first three months of the year, the slowest rate since the first quarter of 2003.</p>
+        <p>The next major snapshot of the economy comes out next Friday when the Labor Department releases its monthly employment report.</p>
+        <p>JEREMY W. PETERS</p>
+        <p>FIVE DAYS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

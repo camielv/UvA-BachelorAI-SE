@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Lauren Peck, Aaron Dworkin</title>
+    <meta content="22peck" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/22/fashion/weddings/22peck.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842152"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Peck, Lauren Rachel (Lauren Rachel Dworkin)</person>
+        <person class="indexing_service">Dworkin, Aaron Philip</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0CE0DF163EF931A15757C0A9619C8B63" item-length="277" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Lauren Peck, Aaron Dworkin</hl1>
+        <hl2 class="online_headline">Lauren Peck, Aaron Dworkin</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Lauren Rachel Peck, a daughter of Stephen D. Peck of Washington and the late Gayle S. Peck, was married yesterday to Aaron Philip Dworkin, a son of Susan L. Dworkin of New York and the late Moshe I. Dworkin. Rabbi Deborah Zecher officiated at the Cranwell Resort, Spa and Golf Club in Lenox, Mass.</p>
+        <p>Mrs. Dworkin, 26, is the program associate at Room to Grow, an organization in New York that provides parent support as well as infant clothing and other materials to the families of babies born in poverty. She graduated from the University of Vermont.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Lauren Rachel Peck, a daughter of Stephen D. Peck of Washington and the late Gayle S. Peck, was married yesterday to Aaron Philip Dworkin, a son of Susan L. Dworkin of New York and the late Moshe I. Dworkin. Rabbi Deborah Zecher officiated at the Cranwell Resort, Spa and Golf Club in Lenox, Mass.</p>
+      </block>
+      <block class="full_text">
+        <p>Lauren Rachel Peck, a daughter of Stephen D. Peck of Washington and the late Gayle S. Peck, was married yesterday to Aaron Philip Dworkin, a son of Susan L. Dworkin of New York and the late Moshe I. Dworkin. Rabbi Deborah Zecher officiated at the Cranwell Resort, Spa and Golf Club in Lenox, Mass.</p>
+        <p>Mrs. Dworkin, 26, is the program associate at Room to Grow, an organization in New York that provides parent support as well as infant clothing and other materials to the families of babies born in poverty. She graduated from the University of Vermont.</p>
+        <p>Her father is a partner in Tatum Partners, a financial services consulting company in Washington, and is also a founder of Men Against Breast Cancer, an organization in Adamstown, Md., that provides support and training to men aiding women with cancer. Her mother was a dental hygienist for Kantakevich &amp; Doring, a dental practice in Rockville, Md. The bride is a stepdaughter of Joanne Cohen Peck.</p>
+        <p>Mr. Dworkin, 31, is a municipal bond analyst at Moody's Investors Service, the New York rating agency. He graduated from Tufts and received a master's degree in education from Harvard and a master's degree in public administration from Columbia. He is also the founder and director of Hoops and Leaders Basketball Camp in New York, a mentoring and sports program for low-income children.</p>
+        <p>His mother is an author and playwright whose recent work includes ''The Nazi Officer's Wife'' (Abacus, 2001), which she wrote collaboration with Edith Hahn Beer, the book's subject. His father was the president of M. Dworkin &amp; Company, a publisher of magazines and newsletters for nonprofit organizations in Englewood Cliffs, N.J.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

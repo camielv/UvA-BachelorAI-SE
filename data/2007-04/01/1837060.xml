@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Design Within Reach</title>
+    <meta content="04remix.ando.t" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="T: Design Magazine" name="dsk"/>
+    <meta content="46" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts; Style; Magazine" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/01/style/tmagazine/04remix.ando.t.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837060"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="The Remix"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/T: Style Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="descriptor">Museums</classifier>
+        <classifier class="online_producer" type="general_descriptor">Museums</classifier>
+        <org class="online_producer">Kuma</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F02E0DA1230F932A35757C0A9619C8B63" item-length="151" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Design Within Reach</hl1>
+        <hl2 class="online_headline">Design Within Reach</hl2>
+      </hedline>
+      <byline class="print_byline">By Tiffany Godoy</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>''Japanese young people don't really enjoy creativity,'' says the fashion designer Issey Miyake, who seems determined to put the fun back into the banal, even if it means sugarcoating things a bit. He is the mastermind behind 21--21 Design Sight, a museum devoted to the design of daily life, which opened last month in Tokyo Midtown, a development in the Roppongi district conceived as a designer city-within-a-city. (The Tadao Ando-designed building is neighbor to Kengo Kuma's new Suntory Musuem, and Jun Aoki is involved in creating a residential zone.) The inaugural show, curated by the industrial designer Naoto Fukusawa (who, with the graphic designer Taku Saito, is on the museum's creative team), features 70 objects made of chocolate. They include the fashion designer Kosuke Tsumura's T-shirt as a Meiji candy bar and Gaku Otomo's scale model of a human heart in white chocolate. Talk about good taste.</p>
+        <p>Tiffany Godoy</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A new Tokyo museum makes the ordinary extraordinary.</p>
+      </block>
+      <block class="full_text">
+        <p>''Japanese young people don't really enjoy creativity,'' says the fashion designer Issey Miyake, who seems determined to put the fun back into the banal, even if it means sugarcoating things a bit. He is the mastermind behind 21--21 Design Sight, a museum devoted to the design of daily life, which opened last month in Tokyo Midtown, a development in the Roppongi district conceived as a designer city-within-a-city. (The Tadao Ando-designed building is neighbor to Kengo Kuma's new Suntory Musuem, and Jun Aoki is involved in creating a residential zone.) The inaugural show, curated by the industrial designer Naoto Fukusawa (who, with the graphic designer Taku Saito, is on the museum's creative team), features 70 objects made of chocolate. They include the fashion designer Kosuke Tsumura's T-shirt as a Meiji candy bar and Gaku Otomo's scale model of a human heart in white chocolate. Talk about good taste.</p>
+        <p>Tiffany Godoy  The Remix</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

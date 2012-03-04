@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Worship</title>
+    <meta content="13Kurt" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20070430T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1839917"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Poetry and Poets</classifier>
+        <person class="indexing_service">Vonnegut, Kurt</person>
+        <classifier class="online_producer" type="types_of_material">Text</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Poetry and Poets</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070413T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9904E2DB133FF930A25757C0A9619C8B63" item-length="96" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Worship</hl1>
+      </hedline>
+      <byline class="print_byline">By Kurt Vonnegut</byline>
+      <byline class="normalized_byline">Vonnegut, Kurt</byline>
+      <abstract>
+        <p>Text of previously unpublished poem by Kurt Vonnegut; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>I don't know about you,</p>
+        <p>but I practice a disorganized religion.</p>
+        <p>I belong to an unholy disorder.</p>
+        <p>We call ourselves,</p>
+        <p>''Our Lady of Perpetual Astonishment.''</p>
+        <p>You may have seen us praying</p>
+        <p>for love</p>
+        <p>on sidewalks outside the better</p>
+        <p>eating establishments</p>
+        <p>in all kinds of weather.</p>
+        <p>Blow us a kiss</p>
+        <p>upon arriving or departing,</p>
+        <p>and we will climax</p>
+        <p>simultaneously.</p>
+        <p>It can be quite a scene,</p>
+        <p>especially if it is raining</p>
+        <p>cats and dogs.</p>
+        <p>Kurt Vonnegut, the author of ''Slaughterhouse-Five'' and many other novels, died on Wednesday. This poem was previously unpublished.</p>
+      </block>
+      <block class="full_text">
+        <p>I don't know about you,</p>
+        <p>but I practice a disorganized religion.</p>
+        <p>I belong to an unholy disorder.</p>
+        <p>We call ourselves,</p>
+        <p>''Our Lady of Perpetual Astonishment.''</p>
+        <p>You may have seen us praying</p>
+        <p>for love</p>
+        <p>on sidewalks outside the better</p>
+        <p>eating establishments</p>
+        <p>in all kinds of weather.</p>
+        <p>Blow us a kiss</p>
+        <p>upon arriving or departing,</p>
+        <p>and we will climax</p>
+        <p>simultaneously.</p>
+        <p>It can be quite a scene,</p>
+        <p>especially if it is raining</p>
+        <p>cats and dogs.</p>
+        <p>Kurt Vonnegut, the author of ''Slaughterhouse-Five'' and many other novels, died on Wednesday. This poem was previously unpublished.</p>
+        <p>Correction:  April 30, 2007, Monday  A poem by Kurt Vonnegut on April 20 carried an incorrect description of its history. It had appeared in The Cornell Daily Sun in 2005; it was not unpublished.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: April 30, 2007, Monday</p>
+        <p>A poem by Kurt Vonnegut on April 20 carried an incorrect description of its history. It had appeared in The Cornell Daily Sun in 2005; it was not unpublished.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Red Bulls Acquire a Striker From Aston Villa</title>
+    <meta content="18redbulls" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/18/sports/soccer/18redbulls.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1841155"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Soccer</classifier>
+        <classifier class="online_producer" type="general_descriptor">Soccer</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070418T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DEFDD1E3FF93BA25757C0A9619C8B63" item-length="371" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Red Bulls Acquire a Striker From Aston Villa</hl1>
+        <hl2 class="online_headline">The Red Bulls Acquire a Striker From Aston Villa</hl2>
+      </hedline>
+      <byline class="print_byline">By JACK BELL</byline>
+      <byline class="normalized_byline">Bell, Jack</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The New York Red Bulls announced the acquisition of the 31-year-old Colombian striker Juan Pablo Ángel yesterday from Aston Villa of the English Premier League. Ángel will move to Major League Soccer's Red Bulls after six and a half years with Villa, which paid a club-record transfer fee of about $19 million to obtain him from River Plate of Argentina in January 2001.</p>
+        <p>It could be a week to 10 days before Ángel plays his first game, according to M.L.S.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Colombian forward, released from his contract with Aston Villa of the English Premier League, will be one of two Red Bulls players whose contract won’t count against the M.L.S. salary cap.</p>
+      </block>
+      <block class="full_text">
+        <p>The New York Red Bulls announced the acquisition of the 31-year-old Colombian striker Juan Pablo Ángel yesterday from Aston Villa of the English Premier League. Ángel will move to Major League Soccer's Red Bulls after six and a half years with Villa, which paid a club-record transfer fee of about $19 million to obtain him from River Plate of Argentina in January 2001.</p>
+        <p>It could be a week to 10 days before Ángel plays his first game, according to M.L.S.</p>
+        <p>According to reports in England, Martin O'Neill, the Aston Villa manager, released Ángel from the remainder of his contract, which means the Red Bulls did not pay a transfer fee. The Red Bulls, however, refused to discuss any financial details. Ángel was reportedly being paid about $80,000 a week; he signed a four-year deal with Villa in the summer of 2004.</p>
+        <p>The Red Bulls used their second designated player slot, acquired from Chivas USA in the trade for Amado Guevara, to sign Ángel. Midfielder Claudio Reyna, who was released by Manchester City in January, is the team's other designated player.</p>
+        <p>Aston Villa was recently acquired by Randy Lerner, who also owns the N.F.L.'s Cleveland Browns. Aston Villa is planning a tour of the United States this summer and could play the Red Bulls.</p>
+        <p>Ángel scored 62 goals in 205 games for Villa in all competitions. His best season in the Premier League was in 2003-4 when he scored 23 goals in 38 games in all competitions. Ángel fell out of favor with Villa after its acquisition of Ashley Young from Watford, and in light of the strong play of Gabriel Agbonlahor and John Carew.</p>
+        <p>''He lost his place in the side just after Christmas, but ever since then, his attitude has been great,'' O'Neill told Agence France-Presse. ''Maybe now he feels the upper echelons of the Premiership might be eluding him, but there could be a great chance to start a new life in America.''</p>
+        <p>Bruce Arena, the Red Bulls' coach and sporting director, said, ''It is no secret that we have been searching for a striker since the end of the 2006 season, and Juan Pablo has been at the top of my list since Day 1.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

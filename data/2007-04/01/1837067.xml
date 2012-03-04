@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Hand-Eye Coordination</title>
+    <meta content="04remix.gla.materials.t" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="T: Design Magazine" name="dsk"/>
+    <meta content="48" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Style; Magazine" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/01/style/tmagazine/04remix.gla.materials.t.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837067"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="The Remix"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/T: Style Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="descriptor">Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Design</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A01EFDA1230F932A35757C0A9619C8B63" item-length="251" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Hand-Eye Coordination</hl1>
+        <hl2 class="online_headline">Hand-Eye Coordination</hl2>
+      </hedline>
+      <byline class="print_byline">By Steffie Nelson</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Since 2002, when Jenna Didier first draped the facade of Materials and Applications -- her exhibition space in Silver Lake, Los Angeles -- she has hosted a series of increasingly ambitious outdoor installations so eye-catching that neighbors have started complaining about the regular traffic jams out front. This spring, following ''Bubbles,'' an inflatable environment of glowing white orbs, M&amp;A is moving in a subtler direction with ''ukendt/igloo'' (above), a collaboration with the Danish conceptual artist Anja Franke. Past M&amp;A projects have included the Mylar canopy called ''Maximilian's Schell'' and ''Here There Be Monsters!,'' a bamboo bridge over an interactive water installation. But Franke's vision of a hand-woven textile igloo presented a new challenge: how to continue to push the boundaries of the built environment and people's imaginations while working within the low-tech, glitz-free realm of crafts. The answer, Didier and her partner, Oliver Hess, have discovered, lies less in ancient basket-weaving techniques or in Buckminster Fuller's ''tensegrity'' principle (both of which they've studied in depth) than in the values of community and working with one's hands. ''I think people wake up and realize they can affect positive change when they start using their hands,'' says Didier, who notes that their network of volunteers keeps expanding. Whether the goal is changing the world or learning to weave, volunteering is a fun way to spend a Saturday. As Hess points out with a smile, ''There aren't many woven houses in L.A., but there's no reason that we can't at least try.''</p>
+        <p>Steffie Nelson</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Igloos and bubbles are just a part of a gutsy Los Angeles project space.</p>
+      </block>
+      <block class="full_text">
+        <p>Since 2002, when Jenna Didier first draped the facade of Materials and Applications -- her exhibition space in Silver Lake, Los Angeles -- she has hosted a series of increasingly ambitious outdoor installations so eye-catching that neighbors have started complaining about the regular traffic jams out front. This spring, following ''Bubbles,'' an inflatable environment of glowing white orbs, M&amp;A is moving in a subtler direction with ''ukendt/igloo'' (above), a collaboration with the Danish conceptual artist Anja Franke. Past M&amp;A projects have included the Mylar canopy called ''Maximilian's Schell'' and ''Here There Be Monsters!,'' a bamboo bridge over an interactive water installation. But Franke's vision of a hand-woven textile igloo presented a new challenge: how to continue to push the boundaries of the built environment and people's imaginations while working within the low-tech, glitz-free realm of crafts. The answer, Didier and her partner, Oliver Hess, have discovered, lies less in ancient basket-weaving techniques or in Buckminster Fuller's ''tensegrity'' principle (both of which they've studied in depth) than in the values of community and working with one's hands. ''I think people wake up and realize they can affect positive change when they start using their hands,'' says Didier, who notes that their network of volunteers keeps expanding. Whether the goal is changing the world or learning to weave, volunteering is a fun way to spend a Saturday. As Hess points out with a smile, ''There aren't many woven houses in L.A., but there's no reason that we can't at least try.''</p>
+        <p>Steffie Nelson  The Remix</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

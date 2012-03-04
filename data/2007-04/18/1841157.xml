@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Extended Stay Hotels Is Sold for $8 Billion to Equity Group</title>
+    <meta content="18hotel" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/18/business/18hotel.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1841157"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Hotels and Motels</classifier>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <org class="indexing_service">Lighthouse Group (Real Estate)</org>
+        <org class="indexing_service">Extended Stay America Inc</org>
+        <org class="indexing_service">Blackstone Group</org>
+        <person class="indexing_service">Duhigg, Charles</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hotels and Motels</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <org class="online_producer">Blackstone Group</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070418T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F01E7DC1E3FF93BA25757C0A9619C8B63" item-length="418" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Extended Stay Hotels Is Sold for $8 Billion to Equity Group</hl1>
+        <hl2 class="online_headline">Extended Stay Hotels Is Sold for $8 Billion to Equity Group</hl2>
+      </hedline>
+      <byline class="print_byline">By CHARLES DUHIGG</byline>
+      <byline class="normalized_byline">Duhigg, Charles</byline>
+      <abstract>
+        <p>Lighthouse Group purchases Extended Stay Hotels from Blackstone Group for $8 billion; Lightstone will finance purchase with $1 billion in cash and $7 billion in debt; Blackstone will retain 10 percent stake in company (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Offering further proof that a real estate slowdown has not hampered property deal making, the Lightstone Group agreed yesterday to purchase Extended Stay Hotels from a private equity giant, the Blackstone Group, for $8 billion.</p>
+        <p>The deal establishes Lightstone as the dominant company in a fast-growing market for travelers seeking long-term accommodations.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Lightstone Group agreed to purchase Extended Stay Hotels from a private equity giant, the Blackstone Group.</p>
+      </block>
+      <block class="full_text">
+        <p>Offering further proof that a real estate slowdown has not hampered property deal making, the Lightstone Group agreed yesterday to purchase Extended Stay Hotels from a private equity giant, the Blackstone Group, for $8 billion.</p>
+        <p>The deal establishes Lightstone as the dominant company in a fast-growing market for travelers seeking long-term accommodations.</p>
+        <p>Lightstone, based in Lakewood, N.J., will finance the purchase with $1 billion in cash and $7 billion in debt. Blackstone will retain a 10 percent stake in the company, Lightstone's chief executive, David Lichtenstein, said.</p>
+        <p>Extended Stay Hotels, which offers rooms with kitchenettes and primarily serves business travelers, operates under several brands, including Homestead Studio Suites and Crossland Economy Studios.</p>
+        <p>The deal will add 683 properties, with a total of 76,000 rooms, to the more than 18,000 residential units and approximately 30 million square feet Lightstone owns. ''With this purchase,'' Mr. Lichtenstein said, ''we'll control almost 60 percent of the extended-stay niche.''</p>
+        <p>Analysts have said they expect much more competition in such properties. But because much of Extended Stay's revenue comes from properties along the coasts, where it is more difficult to build, Mr. Lichtenstein said he believed that the company was in a strong position. And because Extended Stay's brand is less developed than some others, there is an opportunity to expand revenue, he added.</p>
+        <p>''We think it's a somewhat recession-proof industry,'' Mr. Lichtenstein said. ''Even after 9/11, this sector did well.''</p>
+        <p>Blackstone purchased Extended Stay America in 2004, paying almost $2 billion and assuming $1.13 billion of debt. Since then, it has added some 255 other properties, including Homestead Village, which it bought for $600 million in 2001.</p>
+        <p>Recent spikes in home-loan foreclosures and dips in commercial development have caused some economists to express concern about real estate. But the Extended Stay acquisition and a recent flurry of other deals -- including Blackstone's purchase of Equity Office Properties Trust in February for $23 billion plus $16 billion in debt -- indicates that outsize deals are not slowing. Blackstone recently announced that it would raise about $4 billion in an initial public offering of roughly 10 percent of its core investment portfolio.</p>
+        <p>''There seems to be a feeling on Wall Street,'' Mr. Lichtenstein said, ''that because Blackstone is going public, they want to show what a few complete cycles look like, and we're lucky beneficiaries of that.'' Still, some analysts expressed caution about the deal. The same easy debt that Lightstone arranged may continue to fuel an explosion in hotel construction, the analysts noted.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

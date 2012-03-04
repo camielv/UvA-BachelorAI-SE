@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Price War Takes Toll As A.M.D. Posts Loss</title>
+    <meta content="20chip" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/20/technology/20chip.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1841572"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+        <org class="online_producer">Advanced Micro Devices Inc</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070420T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E7D81F3FF933A15757C0A9619C8B63" item-length="608" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Price War Takes Toll As A.M.D. Posts Loss</hl1>
+        <hl2 class="online_headline">Price War Takes Toll as A.M.D. Posts Loss</hl2>
+      </hedline>
+      <byline class="print_byline">By LAURIE J. FLYNN</byline>
+      <dateline>SAN FRANCISCO, April 19</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>After a three-year run, Advanced Micro Devices is back on the defensive.</p>
+        <p>The company, which makes computer processors, announced Thursday that its loss during the first quarter was even bigger than expected, hurt by slower sales and a bruising price war with its larger rival, Intel.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The loss was bigger than expected, hurt by slower sales and a bruising price war with its larger rival, Intel.</p>
+      </block>
+      <block class="full_text">
+        <p>After a three-year run, Advanced Micro Devices is back on the defensive.</p>
+        <p>The company, which makes computer processors, announced Thursday that its loss during the first quarter was even bigger than expected, hurt by slower sales and a bruising price war with its larger rival, Intel.</p>
+        <p>The loss was $611 million, or 11 cents a share, in contrast to a profit of $185 million, or 38 cents a share, in the period a year earlier. Excluding stock compensation expenses and the cost of acquiring ATI Technologies last year, A.M.D.'s loss was 85 cents a share, compared with the 48 cents a share predicted by Wall Street analysts.</p>
+        <p>''The first quarter was totally unacceptable,'' said Robert J. Rivet, A.M.D.'s chief financial officer. ''It was a terrible start to the year.''</p>
+        <p>A.M.D. executives said they planned a drastic shift in business strategy and would cut spending $500 million this year, reduce discretionary expenses an additional $100 million and limit hiring.</p>
+        <p>Hector de J. Ruiz, A.M.D.'s chief executive, said he would form a task force to evaluate the company's options and described the strategic shift as even more intense than the one A.M.D. undertook in its last revamping in 2002.</p>
+        <p>Revenue was $1.23 billion, a decline of 7.4 percent from last year and 30 percent from the fourth quarter, driven by lower sales and lower average selling prices, company executives said.</p>
+        <p>''It was a really challenging environment for them,'' said Tim Luke, an analyst with Lehman Brothers in New York.</p>
+        <p>A.M.D., long considered the underdog of the microprocessor industry, has taken some market share from Intel in the last few years. While Intel struggled to recover, A.M.D. beat it to market with a new chip technology known as multicore.</p>
+        <p>Intel fought back quickly by overhauling its product line and upgrading its production process. Intel is widely thought to be regaining share from A.M.D.</p>
+        <p>In contrast to A.M.D.'s report, Intel reported Tuesday that its profit rose 19 percent, helped by a tax benefit and improved manufacturing, although its sales declined slightly.</p>
+        <p>Dirk Meyer, A.M.D.'s president and chief operating officer, said a confluence of factors led to the first-quarter results, including pricing pressure that started early last year and an imbalance of sales to distributors and computer makers.</p>
+        <p>Shares of A.M.D. rose 37 cents, to $14.28, in regular trading on the New York Stock Exchange on Thursday, before the report was released. It added as much as 18 cents after hours on the prospect that the company's revamping might improve its profitability.</p>
+        <p>A week ago, A.M.D. surprised Wall Street by warning that it would miss the revenue target of $1.6 billion to $1.7 billion and would make immediate cutbacks in hiring and spending.</p>
+        <p>A.M.D. said it had operating losses in all four major business units.</p>
+        <p>A.M.D.'s gross margin for the first quarter was 31 percent, excluding stock-based compensation expenses and charges related to the acquisition of ATI, compared with 40 percent in the previous quarter and 59 percent in the first quarter of 2006.</p>
+        <p>Intel reported Tuesday that its gross margin was 50.1 percent in the quarter, slightly better than it had forecast, though also down sharply from a year earlier.</p>
+        <p>Looking to the second quarter, A.M.D. said it expected flat to slightly increased revenue, partly because of seasonal declines. Analysts polled by Thomson Financial projected sales of $1.33 billion in the quarter with a loss of 38 cents a share.</p>
+        <p>A.M.D. executives told analysts Thursday that the company was exploring ways to raise cash and would be open to private equity financing. ''We continue to evaluate a wide range of financing opportunities,'' Mr. Rivet, the finance chief, said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

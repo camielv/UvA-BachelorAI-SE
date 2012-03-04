@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths  RAPAPORT, MILLICENT</title>
+    <meta content="dn041107.1" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1839435"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">RAPAPORT, MILLICENT</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070411T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9502E0DE123AF932A25757C0A9619C8B63" item-length="57" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths  RAPAPORT, MILLICENT</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>RAPAPORT--Millicent, age 96, of New York City, passed away peacefully on April 9, 2007. Beloved wife of the late Stanley. Devoted mother of Lew and Sue, and Richard. Loving grandmother of Billy and John and proud greatgrandmother of Alexander and Nicholas. Her life was filled with beautiful music. We will love and remember her always. Services private.</p>
+      </block>
+      <block class="full_text">
+        <p>RAPAPORT--Millicent, age 96, of New York City, passed away peacefully on April 9, 2007. Beloved wife of the late Stanley. Devoted mother of Lew and Sue, and Richard. Loving grandmother of Billy and John and proud greatgrandmother of Alexander and Nicholas. Her life was filled with beautiful music. We will love and remember her always. Services private.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

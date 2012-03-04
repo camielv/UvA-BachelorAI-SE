@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>How to Depress Spenders, and How To Lift Them Up</title>
+    <meta content="29count" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/29/business/yourmoney/29count.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1843814"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="OPENERS: THE COUNT"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/The Count</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">Consumer Behavior</classifier>
+        <classifier class="online_producer" type="descriptor">Unemployment</classifier>
+        <classifier class="online_producer" type="descriptor">Labor</classifier>
+        <classifier class="online_producer" type="descriptor">Recession and Depression</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Economy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Consumer Behavior</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recession and Depression</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Unemployment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940CEFDA123EF93AA15757C0A9619C8B63" item-length="172" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>How to Depress Spenders, and How To Lift Them Up</hl1>
+        <hl2 class="online_headline">How to Depress Spenders, and How to Lift Them Up</hl2>
+      </hedline>
+      <byline class="print_byline">By PHYLLIS KORKKI</byline>
+      <byline class="normalized_byline">Korkki, Phyllis</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Look at a chart of consumer confidence over the last 20 years and you see a mountain surrounded by two valleys. The deeper valley was formed in 1992, when close to half a million people a week were filing jobless claims.</p>
+        <p>The peak of the mountain appeared in the late '90s, when the Internet boom was helping to create hundreds of thousands of jobs. Then came another valley, after the boom bottomed out.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Consumer confidence is all about perception, but it’s a perception that has a powerful effect on reality.</p>
+      </block>
+      <block class="full_text">
+        <p>Look at a chart of consumer confidence over the last 20 years and you see a mountain surrounded by two valleys. The deeper valley was formed in 1992, when close to half a million people a week were filing jobless claims.</p>
+        <p>The peak of the mountain appeared in the late '90s, when the Internet boom was helping to create hundreds of thousands of jobs. Then came another valley, after the boom bottomed out.</p>
+        <p>Consumer confidence, as measured by the Conference Board, is all about perception. It's a perception that has a powerful effect on reality, though, because two-thirds of economic activity derives from consumer spending.</p>
+        <p>Nothing affects a consumer's perception more than the job market, according to Kenneth Goldstein, an economist for the Conference Board. Other big factors include wages and housing.</p>
+        <p>What lies ahead? It's true that confidence has shown a small decline over the last few months. But look at that all-important jobless rate -- now comfortably low -- before you try to predict the next big valley.</p>
+        <p>PHYLLIS KORKKI</p>
+        <p>OPENERS: THE COUNT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

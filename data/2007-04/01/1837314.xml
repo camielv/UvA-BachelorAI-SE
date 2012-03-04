@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>How to See the Big Picture in Little Slices of the Market</title>
+    <meta content="01stra" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/01/business/yourmoney/01stra.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837314"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="STRATEGIES"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Strategies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Markets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="descriptor">Mutual Funds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mutual Funds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B00E0DB1130F932A35757C0A9619C8B63" item-length="779" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>How to See the Big Picture in Little Slices of the Market</hl1>
+        <hl2 class="online_headline">How to See the Big Picture in Little Slices of the Market</hl2>
+      </hedline>
+      <byline class="print_byline">By MARK HULBERT</byline>
+      <byline class="normalized_byline">Hulbert, Mark</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>DIVERSIFICATION, it turns out, is important not only in your overall portfolio, but also within the particular market sectors you favor.</p>
+        <p>Thanks in large part to a 1992 study by two finance professors, Eugene F. Fama of the University of Chicago and Kenneth R. French, now of Dartmouth, it is now widely known on Wall Street that certain groupings of stocks, reflecting specific investment styles, tend to outperform others. Small-cap value stocks, for example, have outperformed the broad stock market, on average, over the long term, while large-cap growth stocks have lagged behind.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Diversification, it turns out, is important not only in your overall portfolio, but also within the particular market sectors you favor.</p>
+      </block>
+      <block class="full_text">
+        <p>DIVERSIFICATION, it turns out, is important not only in your overall portfolio, but also within the particular market sectors you favor.</p>
+        <p>Thanks in large part to a 1992 study by two finance professors, Eugene F. Fama of the University of Chicago and Kenneth R. French, now of Dartmouth, it is now widely known on Wall Street that certain groupings of stocks, reflecting specific investment styles, tend to outperform others. Small-cap value stocks, for example, have outperformed the broad stock market, on average, over the long term, while large-cap growth stocks have lagged behind.</p>
+        <p>Now the two professors have revisited the subject, examining the reasons for these trends. It turns out that the bulk of these sector differences results from the behavior of just a handful of stocks. If not for these outliers, in fact, the long-term returns of the various sectors would not have been appreciably different from those of the overall market.</p>
+        <p>Because it's hard if not impossible to pick individual outperformers, it is no less important to invest broadly within stock sectors than it is in the overall market.</p>
+        <p>The new study is entitled simply ''Migration.'' A version of the working paper, which has been circulating in academic circles, is at http://papers.ssrn.com/sol3/papers.cfm?abstract-id=926556.</p>
+        <p>In the study, the professors segregated all publicly traded stocks into two groups -- small and large -- according to their market capitalizations. Next they divided each group into value, growth and blend categories. They ended up with six investment styles, which correspond loosely to the categories that Morningstar uses to classify stock mutual funds.</p>
+        <p>The study focused on stocks that shift among these categories, a process the professors call migration. A small-cap value stock that becomes popular among investors, for example, may migrate to the small-cap blend or small-cap growth category. And if the company's market cap grows enough, the stock may move into one of the large-cap styles. Similarly, a large-cap growth stock may fall out of favor and migrate to the large-cap value category and, if it falls on particularly bad times, it may even shift into one of the small-cap categories.</p>
+        <p>Consider the stock of Pier 1 Imports. The professors placed it in the small-cap blend category in the mid-1990s. By 1998, owing to the spectacular run-up in the stock price, it had migrated to the large-cap growth category. In the wake of the stock's poor performance in more recent years, however, Pier 1 by mid-2006 had slipped back into the professors' small-cap value category.</p>
+        <p>The professors found that even though only a minority of stocks migrated from one category to another in a typical year, these stocks had an outsized influence on each style's overall performance. They reached this conclusion after analyzing a series of hypothetical style portfolios, each of which was rebalanced once a year to include only the stocks that met the style's definition. The professors compiled a full 80 years of performance data for each portfolio, from 1927 through 2006.</p>
+        <p>Consider their small-cap value portfolio. They calculated that it produced a gain of 22.5 percent, annualized, before transaction costs, over the last eight decades, versus a gain of 13.3 percent, annualized, for a capitalization-weighted index of the entire stock market. Only one in four small-cap value stocks migrated to another style in the average year during this period. But if the migrating stocks had not been included in the years that they shifted out of the portfolio, it would have underperformed the market -- gaining only 13.1 percent, annualized, over the eight decades.</p>
+        <p>It's worth noting that over shorter periods, some styles performed far better or worse than they did over the full 80 years. During the late 1990s, for instance, the large-cap growth sector bucked its long-term trend and beat the market. Today, some advisers are arguing that small-cap stocks will not live up to their historical pattern and that the sector will lag.</p>
+        <p>Such shorter-term deviations are of little more than historical interest unless investors believe that they can successfully forecast which styles will be in or out of vogue. But that is a very tough task for anyone, Professor French said in an interview.</p>
+        <p>THE professors' findings don't mean that you should stop emphasizing particular sectors of the market. After all, if the future is like the past, the small-cap value category will outperform other sectors over the long term. But the professors' conclusions do suggest that this bright performance will most likely come from just a small number of stocks.</p>
+        <p>And if picking the right stocks is beyond most investors' abilities, there is another, easier solution: buying a low-cost index fund that is a diversified bet on stocks of a particular investment style.</p>
+        <p>STRATEGIES Mark Hulbert is editor of The Hulbert Financial Digest, a service of MarketWatch. E-mail: strategy@nytimes.com.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Mark Hulbert is editor of The Hulbert Financial Digest, a service of MarketWatch. E-mail: strategy@nytimes.com.</tagline>
+    </body.end>
+  </body>
+</nitf>

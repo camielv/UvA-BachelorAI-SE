@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Talk to the Chos</title>
+    <meta content="27cullen" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="27" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Health; Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/27/opinion/27cullen.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1843234"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Op-Ed Contributor"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="indexing_service" type="descriptor">Mental Health and Disorders</classifier>
+        <classifier class="indexing_service" type="descriptor">Suits and Litigation</classifier>
+        <classifier class="indexing_service" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="indexing_service" type="descriptor">Education and Schools</classifier>
+        <classifier class="indexing_service" type="descriptor">Children and Youth</classifier>
+        <location class="indexing_service">Blacksburg (Va)</location>
+        <location class="indexing_service">Littleton (Colo)</location>
+        <org class="indexing_service">Virginia Polytechnic Institute and State University</org>
+        <org class="indexing_service">Columbine High School (Littleton, Colo)</org>
+        <person class="indexing_service">Cho, Seung-Hui</person>
+        <person class="indexing_service">Cullen, Dave</person>
+        <person class="indexing_service">Klebold, Dylan (1981-99)</person>
+        <person class="indexing_service">Harris, Eric (1981-99)</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Colorado</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Virginia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Rockies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Contributors</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Mental Health and Disorders</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Colorado</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Virginia</classifier>
+        <classifier class="online_producer" type="descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="online_producer" type="descriptor">Decisions and Verdicts</classifier>
+        <classifier class="online_producer" type="descriptor">Firearms</classifier>
+        <classifier class="online_producer" type="descriptor">Mental Health and Disorders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Firearms</classifier>
+        <classifier class="online_producer" type="general_descriptor">Decisions and Verdicts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mental Health and Disorders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <org class="online_producer">Virginia Polytechnic Institute and State University</org>
+        <person class="online_producer">Cho, Seung-Hui</person>
+        <person class="online_producer">Harris, Eric</person>
+        <person class="online_producer">Klebold, Dylan</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070427T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9507E4DE123EF934A15757C0A9619C8B63" item-length="666" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Talk to the Chos</hl1>
+        <hl2 class="online_headline">Talk to the Chos</hl2>
+      </hedline>
+      <byline class="print_byline">By Dave Cullen</byline>
+      <byline class="normalized_byline">Cullen, Dave</byline>
+      <dateline>DENVER</dateline>
+      <abstract>
+        <p>Dave Cullen Op-Ed article on legal wrangling that has denied public full background information from parents of Columbine High School killers Eric Harris and Dylan Klebold; hopes similar situation can be avoided so experts can understand what drove Seung-Hui Cho to kill 32 people at Virginia Tech; says Cho's parents' lawyers should broker deal before trust is eroded, because psychiatrists can offer medical privilege and hope of scientific advancement in exchange for openness about their son's earlier behavior (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A JUDGE ruled this month that depositions by the parents of the gunmen in the 1999 Columbine school shootings would remain sealed until 2027. It would be tragic to also have to wait 28 years to hear from the family of Seung-Hui Cho, the killer at Virginia Tech. But the tense legal standoff that led to the Columbine ruling is likely to repeat itself in Virginia if we don't quickly devise an alternative.</p>
+        <p>In the Columbine case, as in Virginia Tech, the killers' families went into seclusion and released statements of regret and bewilderment. Parents of mass murderers have their own grieving to do. When the Chos resurface, a ravenous press corps will stalk them, and the public will be hungry for answers. The questions will grow increasingly belligerent and accusatory.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>If Columbine has taught us anything, it is that we should avoid a legal stalemate over depositions by the parents of the gunman in the Virginia Tech massacre.</p>
+      </block>
+      <block class="full_text">
+        <p>A JUDGE ruled this month that depositions by the parents of the gunmen in the 1999 Columbine school shootings would remain sealed until 2027. It would be tragic to also have to wait 28 years to hear from the family of Seung-Hui Cho, the killer at Virginia Tech. But the tense legal standoff that led to the Columbine ruling is likely to repeat itself in Virginia if we don't quickly devise an alternative.</p>
+        <p>In the Columbine case, as in Virginia Tech, the killers' families went into seclusion and released statements of regret and bewilderment. Parents of mass murderers have their own grieving to do. When the Chos resurface, a ravenous press corps will stalk them, and the public will be hungry for answers. The questions will grow increasingly belligerent and accusatory.</p>
+        <p>Eventually the parents of the Columbine killers, Eric Harris and Dylan Klebold, appeared willing to speak, but the threat of lawsuits drove them to silence. The families reached an impasse: the killers' parents would talk only if the victims disavowed legal action, but the victims would waive lawsuits only if the parents spoke.</p>
+        <p>The Cho family's troubles may intensify again when Virginia's statute of limitations for civil suits expires. At the moment Littleton braced for the first Columbine anniversary, more than a dozen families filed suits. The victims weren't after the money; they wanted answers -- for themselves, for the public, and most of all for any psychiatric expert who could help prevent the next catastrophe. And the Harrises and Klebolds were looking for a measure of security. Everyone lost.</p>
+        <p>Like Eric Harris and Dylan Klebold, Seung-Hui Cho left voluminous writings and videos to explain himself. But those rants have to be measured against an objective reality. Was Mr. Cho bullied or sneered at by the rich brats he railed against? Or was he responding to voices in his head? When did he first experience difficulty socializing? Did those troubles lead to withdrawal, or was he already a loner? How did his parents respond? Was anything successful?</p>
+        <p>We know Mr. Cho demonstrated symptoms consistent with autism and Asperger's syndrome, but these can also be signs of schizophrenia. Experts are eager to interview the Cho family to tease out the differences. If Mr. Cho experienced outright psychotic episodes, they might have been mystifying to acquaintances but painfully obvious to his family. When did the Chos first observe such episodes, how often and with what intensity? How was he treated, and what were the results? A deeper understanding of Mr. Cho's pathway to murder can help us predict dangerous behavior and respond better to warning signs.</p>
+        <p>The Harrises and Klebolds settled their last lawsuits in 2003. Their homeowners' insurance had already agreed to pay $1.6 million, but five holdout families demanded information. The killers' parents were deposed in a closed federal courtroom, to which the plaintiffs gained access by agreeing to a gag order. Fourteen days before Mr. Cho opened fire at Virginia Tech, a district court judge ruled that the transcripts of these meetings would remain sealed for 20 more years.</p>
+        <p>It was an ugly compromise. The victims got answers, at the price of hiding them from experts and the public. The Harrises and Klebolds endured eight years of vilification and legal action.</p>
+        <p>If Columbine has taught us anything, it is that we should avoid a similar stalemate in the Virginia Tech massacre. The Chos' lawyers should broker a deal with psychiatric experts before trust is eroded. The psychiatrists can offer medical privilege and the hope of authentic scientific advancement in exchange for openness from the family. They should promise to divulge their conclusions to the public, but to work with the Cho lawyers to withhold any details likely to land the family in court.</p>
+        <p>There are risks in this for the Cho family, but inaction presents the greater risk -- of lawsuits and of never finding answers. The questions that plague the victims' families weigh just as heavily on those who loved the perpetrators.</p>
+        <p>Op-Ed Contributor Dave Cullen is writing a book about the Columbine killers.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Dave Cullen is writing a book about the Columbine killers.</tagline>
+    </body.end>
+  </body>
+</nitf>

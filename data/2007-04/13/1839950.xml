@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Film in Review; Pathfinder</title>
+    <meta content="13roun-2" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1839950"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Dargis, Manohla</person>
+        <person class="indexing_service">Nisbel, Marcus</person>
+        <person class="indexing_service">Urban, Karl</person>
+        <object.title class="indexing_service">Pathfinder (Movie)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/Reviews</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070413T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A02E4DA133FF930A25757C0A9619C8B63" item-length="244" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Film in Review; Pathfinder</hl1>
+      </hedline>
+      <byline class="print_byline">By MANOHLA DARGIS</byline>
+      <byline class="normalized_byline">Dargis, Manohla</byline>
+      <abstract>
+        <p>Manohla Dargis reviews film Pathfinder, directed by Marcus Nispel; Karl Urban stars; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Opens today nationwide.  Directed by Marcus Nispel  100 minutes</p>
+        <p>All grunting, all goring, the witless action flick ''Pathfinder'' has little to recommend it, though Terrence Malick completists may be interested to know that it rips off a few setups from that master's magnum opus ''The New World.'' The time is the 10th century A.D., ''500 years before Columbus,'' or so it says in some introductory text, and the place is some pastoral if murkily shaded, almost monochromatic, stretch of coast, where native peoples hunt, fish and smile with what's meant to be the wisdom of the ages but registers as cultural cliché.</p>
+      </block>
+      <block class="full_text">
+        <p>Opens today nationwide.  Directed by Marcus Nispel  100 minutes</p>
+        <p>All grunting, all goring, the witless action flick ''Pathfinder'' has little to recommend it, though Terrence Malick completists may be interested to know that it rips off a few setups from that master's magnum opus ''The New World.'' The time is the 10th century A.D., ''500 years before Columbus,'' or so it says in some introductory text, and the place is some pastoral if murkily shaded, almost monochromatic, stretch of coast, where native peoples hunt, fish and smile with what's meant to be the wisdom of the ages but registers as cultural cliché.</p>
+        <p>Into this paradise comes a Norseman of the apocalypse, or rather a whole boatload, thundering off a ship from the Old World to pillage and wreak ruin with clanging steel, swinging mace and lots and lots of grunting. There's a hero, of course, a Viking throwaway who had been dropped on the native doorstep some 15 years earlier and has grown up to become Karl Urban or, actually, a vaporous character named Ghost. The Vikings return; carnage ensues.</p>
+        <p>The director, Marcus Nispel, takes his butchery very seriously. (He was the lead vivisectionist for the remake of ''The Texas Chain Saw Massacre.'') He may not be able to make this movie move, but, man, can he make an eyeball fly.</p>
+        <p>''Pathfinder'' is rated R (Under 17 requires accompanying parent or adult guardian). A splatterfest.</p>
+        <p>MANOHLA DARGIS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

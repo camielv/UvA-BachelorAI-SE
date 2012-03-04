@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New Transportation Commissioner Is Named</title>
+    <meta content="28dot" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/28/nyregion/28dot.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1843442"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="descriptor">Transportation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Transportation</classifier>
+        <location class="online_producer">Manhattan (NYC)</location>
+        <person class="online_producer">Bloomberg, Michael R</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070428T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02EFD7123EF93BA15757C0A9619C8B63" item-length="332" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New Transportation Commissioner Is Named</hl1>
+        <hl2 class="online_headline">New Transportation Commissioner Is Named</hl2>
+      </hedline>
+      <byline class="print_byline">By WILLIAM NEUMAN</byline>
+      <byline class="normalized_byline">Neuman, William</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Mayor Michael R. Bloomberg yesterday appointed a new transportation commissioner charged with putting in place the transportation-oriented initiatives that are part of the mayor's program for keeping the city environmentally sound.</p>
+        <p>But the commissioner, Janette Sadik-Khan, will not be able to limit her focus to glamorous innovations like enhanced bus lanes and new technologies intended to help traffic move faster. The mayor said he was in the habit of calling his transportation commissioner when his car hit a pothole to insist that the hole be filled in.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The new official must put in place the transportation-oriented initiatives that are part of the mayor’s environmental program for the city.</p>
+      </block>
+      <block class="full_text">
+        <p>Mayor Michael R. Bloomberg yesterday appointed a new transportation commissioner charged with putting in place the transportation-oriented initiatives that are part of the mayor's program for keeping the city environmentally sound.</p>
+        <p>But the commissioner, Janette Sadik-Khan, will not be able to limit her focus to glamorous innovations like enhanced bus lanes and new technologies intended to help traffic move faster. The mayor said he was in the habit of calling his transportation commissioner when his car hit a pothole to insist that the hole be filled in.</p>
+        <p>At a City Hall press conference to announce the selection of Ms. Sadik-Khan, an executive at the engineering firm Parsons Brinckerhoff, the mayor also said the city would seek federal money to help pay for some of his recent transportation proposals, including a congestion-pricing plan that would charge vehicles to drive in the most crowded part of Manhattan at the busiest time.</p>
+        <p>The money would come from $1.2 billion that the federal Department of Transportation has set aside to finance projects to ease urban traffic.</p>
+        <p>The department set Monday as the deadline for cities or metropolitan areas to submit congestion-fighting proposals.</p>
+        <p>In a letter yesterday to Transportation Secretary Mary E. Peters, the mayor said he was submitting a ''conditional application'' for the federal financing, which the city would later amend after consulting Gov. Eliot Spitzer and members of the State Legislature. Any congestion-pricing program would need the approval of the Legislature.</p>
+        <p>The application consists of the transportation plan that was part of the mayor's Earth Day proposals for an environmentally sustainable city and does not indicate how much money the city is seeking.</p>
+        <p>Ms. Sadik-Khan will begin her city job in mid-May. The previous transportation commissioner, Iris Weinshall, left the post this month to become a vice chancellor of the City University of New York.</p>
+        <p>Ms. Sadik-Khan is a former deputy administrator of the Federal Transit Administration. She was also a senior adviser on mass transit issues to Mayor David N. Dinkins.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

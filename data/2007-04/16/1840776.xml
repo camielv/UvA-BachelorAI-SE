@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Time for Mr. Wolfowitz to Go</title>
+    <meta content="16mon3" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/16/opinion/16mon3.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840776"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <org class="indexing_service">International Bank for Reconstruction and Development</org>
+        <person class="indexing_service">Wolfowitz, Paul D</person>
+        <person class="indexing_service">Riza, Shaha Ali</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="descriptor">Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <org class="online_producer">World Bank</org>
+        <org class="online_producer">State Department</org>
+        <person class="online_producer">Wolfowitz, Paul D</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070416T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F01EFDE113FF935A25757C0A9619C8B63" item-length="274" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Time for Mr. Wolfowitz to Go</hl1>
+        <hl2 class="online_headline">Time for Mr. Wolfowitz to Go</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial says Paul Wolfowitz should resign as president of World Bank; says he made clean governance his main cause there and then fell far short of his own standards by helping arrange his companion's job transfer and whopping raise</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The reason Paul Wolfowitz should resign as president of the World Bank has nothing to do with Iraq, or his last job as No. 2 in Donald Rumsfeld's Pentagon, or even his clashes with the bank's directors and staff. He should resign because he made clean governance his main cause at the bank and has fallen far short of his own standards.</p>
+        <p>The facts are not in dispute. When Mr. Wolfowitz was appointed he was in a personal relationship with a woman employed there. Since working under Mr. Wolfowitz's supervision would violate the bank's conflict-of-interest rules, she was reassigned to the State Department, where she initially worked under Liz Cheney, the vice president's daughter.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Paul Wolfowitz should resign as president of the World Bank because he made clean governance his main cause and has fallen far short of his own standards.</p>
+      </block>
+      <block class="full_text">
+        <p>The reason Paul Wolfowitz should resign as president of the World Bank has nothing to do with Iraq, or his last job as No. 2 in Donald Rumsfeld's Pentagon, or even his clashes with the bank's directors and staff. He should resign because he made clean governance his main cause at the bank and has fallen far short of his own standards.</p>
+        <p>The facts are not in dispute. When Mr. Wolfowitz was appointed he was in a personal relationship with a woman employed there. Since working under Mr. Wolfowitz's supervision would violate the bank's conflict-of-interest rules, she was reassigned to the State Department, where she initially worked under Liz Cheney, the vice president's daughter.</p>
+        <p>She remained on the bank's payroll, and it now turns out that Mr. Wolfowitz helped arrange for her to receive a whopping $60,000 raise. Mr. Wolfowitz has launched a full rearguard action, apologizing to the staff, pledging full cooperation with any investigation, and appealing to staff members not to hold his ''previous job'' against him.</p>
+        <p>The issue isn't his previous job. Mr. Wolfowitz had already created enough turmoil in his current job to raise serious questions about his stewardship. The directors and the staff were especially incensed about the cavalier way in which he pursued his anticorruption agenda, paying little heed to anyone save a tight circle of advisers he brought in with him. What might Mr. Wolfowitz himself say if he discovered that a government receiving World Bank loans was making similar sweet arrangements for the personal friends of its president? There is no way Mr. Wolfowitz can recover his credibility and continue to be effective at the bank.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

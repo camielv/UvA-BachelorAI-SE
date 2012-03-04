@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>DataBank: APRIL 23-27; The Dow Zips Past 13,000 (and Doesn't Stop)</title>
+    <meta content="29data" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/29/business/yourmoney/29data.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1843823"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="DataBank"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="descriptor">Dow Jones Stock Average</classifier>
+        <classifier class="online_producer" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dow Jones Stock Average</classifier>
+        <classifier class="online_producer" type="general_descriptor">Nasdaq Composite Index</classifier>
+        <classifier class="online_producer" type="general_descriptor">Government Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B02E5D7123EF93AA15757C0A9619C8B63" item-length="200" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>DataBank: APRIL 23-27; The Dow Zips Past 13,000 (and Doesn't Stop)</hl1>
+        <hl2 class="online_headline">The Dow Zips Past 13,000 (and Doesn’t Stop)</hl2>
+      </hedline>
+      <byline class="print_byline">By JEFF SOMMER</byline>
+      <byline class="normalized_byline">Sommer, Jeff</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Dow Jones industrial average broke through the 13,000 barrier for the first time on Wednesday and kept going. By the close of trading on Friday, it had reached 13,120.94, a new record.</p>
+        <p>Corporate earnings that outstripped Wall Street expectations helped fuel the advance, despite some troubling economic data. On Friday, the Commerce Department reported that the gross domestic product in the first quarter grew at an annualized rate of 1.3 percent, much lower than in the previous quarter. And inflation, as measured by the G.D.P. price index, surged at a 4 percent annualized rate.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Dow Jones industrial average broke through the 13,000 barrier for the first time on Wednesday and kept going. By the close of trading on Friday, it had reached 13,120.94, a new record.</p>
+      </block>
+      <block class="full_text">
+        <p>The Dow Jones industrial average broke through the 13,000 barrier for the first time on Wednesday and kept going. By the close of trading on Friday, it had reached 13,120.94, a new record.</p>
+        <p>Corporate earnings that outstripped Wall Street expectations helped fuel the advance, despite some troubling economic data. On Friday, the Commerce Department reported that the gross domestic product in the first quarter grew at an annualized rate of 1.3 percent, much lower than in the previous quarter. And inflation, as measured by the G.D.P. price index, surged at a 4 percent annualized rate.</p>
+        <p>But the Dow closed at record highs on three consecutive days. I.B.M., which announced that it would buy back another $15 billion worth of its own shares, rose 7 percent for the week, the best performance among the 30 Dow industrials.</p>
+        <p>For the week, the Dow gained 158.96 points, or 1.2 percent, to close at 13,120.94. The Standard &amp; Poor's 500-stock index rose 9.72 points, or 0.7 percent, to close at 1,494.07. The Nasdaq composite climbed 30.82 points, 1.2 percent, to close at 2,557.21. The yield on the 10-year Treasury note rose to 4.69 percent from 4.67 percent the previous week.</p>
+        <p>JEFF SOMMER</p>
+        <p>DataBank</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

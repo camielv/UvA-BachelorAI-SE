@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TRANSACTIONS</title>
+    <meta content="12trns" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1839733"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070412T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9801E1D9123FF931A25757C0A9619C8B63" item-length="181" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TRANSACTIONS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BASKETBALL</p>
+        <p>N.B.A.  SEATTLE SUPERSONICS--Signed G Randy Livingston to a contract for the remainder of the season.</p>
+        <p>Women's N.B.A.  HOUSTON COMETS--Signed F Jillian Robbins.</p>
+        <p>FOOTBALL</p>
+        <p>Canadian Football League  WINNIPEG BLUE BOMBERS--Acquired DB Jason Nugent and a 2007 fifth-round draft pick from Edmonton for DT Ron Warner and a 2007 fourth-round draft pick.</p>
+        <p>Arena Football League  ARIZONA RATTLERS--Released OL-DL Kelvin Ingram.  LAS VEGAS GLADIATORS--Waived DB Vontez Duff, QB Shaun King and DB Dahnel Singfield.  NEW ORLEANS VOODOO--Signed WR Carl Bond from the practice squad.  TAMPA BAY STORM--Re-signed OL-DL Thaddeus Bullard and DL Clint Mitchell.</p>
+        <p>HOCKEY</p>
+        <p>N.H.L.  ANAHEIM DUCKS--Recalled D Aaron Rome from Portland (AHL).  COLORADO AVALANCHE--Signed D Ray Macias and F T.J. Hensick to three-year contracts.  OTTAWA SENATORS--Re-signed D Chris Phillips to a four-year contract.  PHOENIX COYOTES--Fired Michael Barnett, general manager and senior executive vice president, Cliff Fletcher, senior executive vice president of hockey operations, and Laurence Gilman, senior vice president and assistant general manager.  VANCOUVER CANUCKS--Assigned D Daniel Rahimi to Manitoba (AHL).</p>
+      </block>
+      <block class="full_text">
+        <p>BASKETBALL</p>
+        <p>N.B.A.  SEATTLE SUPERSONICS--Signed G Randy Livingston to a contract for the remainder of the season.</p>
+        <p>Women's N.B.A.  HOUSTON COMETS--Signed F Jillian Robbins.</p>
+        <p>FOOTBALL</p>
+        <p>Canadian Football League  WINNIPEG BLUE BOMBERS--Acquired DB Jason Nugent and a 2007 fifth-round draft pick from Edmonton for DT Ron Warner and a 2007 fourth-round draft pick.</p>
+        <p>Arena Football League  ARIZONA RATTLERS--Released OL-DL Kelvin Ingram.  LAS VEGAS GLADIATORS--Waived DB Vontez Duff, QB Shaun King and DB Dahnel Singfield.  NEW ORLEANS VOODOO--Signed WR Carl Bond from the practice squad.  TAMPA BAY STORM--Re-signed OL-DL Thaddeus Bullard and DL Clint Mitchell.</p>
+        <p>HOCKEY</p>
+        <p>N.H.L.  ANAHEIM DUCKS--Recalled D Aaron Rome from Portland (AHL).  COLORADO AVALANCHE--Signed D Ray Macias and F T.J. Hensick to three-year contracts.  OTTAWA SENATORS--Re-signed D Chris Phillips to a four-year contract.  PHOENIX COYOTES--Fired Michael Barnett, general manager and senior executive vice president, Cliff Fletcher, senior executive vice president of hockey operations, and Laurence Gilman, senior vice president and assistant general manager.  VANCOUVER CANUCKS--Assigned D Daniel Rahimi to Manitoba (AHL).</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

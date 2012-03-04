@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paperback Row</title>
+    <meta content="PaperRow.t" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/01/books/review/0401bb-paperback.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837021"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="descriptor">Books and Literature</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E6DB1530F932A35757C0A9619C8B63" item-length="776" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paperback Row</hl1>
+        <hl2 class="online_headline">Paperback Row</hl2>
+      </hedline>
+      <byline class="print_byline">By IHSAN TAYLOR</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>AMERICA AT THE CROSSROADS: Democracy, Power, and the Neoconservative Legacy, by Francis Fukuyama. (Yale University, $15.) This scathing polemic indicts the Bush administration's war in Iraq and the role that neoconservative ideas -- concerning unilateralism and preventive war -- played in shaping its outcome. Fukuyama, whose 1992 book ''The End of History and the Last Man'' was hailed as a classic neoconservative text on the end of the cold war, traces the origins and key principles of neoconservatism. He also proposes a post-Bush foreign policy, ''realistic Wilsonianism,'' which discredits forceful regime change and favors economic development and the creation of social capital, or ''soft power.'' ''Among the neoconservative intellectuals, Fukuyama has surely been the most imaginative, the most playful in his thinking and the most ambitious,'' Paul Berman wrote here.</p>
+        <p>HALFWAY HOUSE, by Katharine Noel. (Grove, $13.) Seventeen-year-old Angie Voorster's psychotic break unhinges her family in Noel's intense, sure-footed first novel, which leaps ahead months, even years between chapters, charting the terrible endurance of Angie's illness and the long, uncertain span of her recovery.</p>
+        <p>JESUS AND YAHWEH: The Names Divine, by Harold Bloom. (Riverhead, $15.) This is a provocative reading of the Bible and its representations of man and God. Examining the characters of Jesus, Jesus Christ and Yahweh, Bloom, one of our most prolific literary critics, calls them ''totally incompatible personages'' and rejects the idea of a shared Judeo-Christian tradition. WHAT JESUS MEANT, by Garry Wills. (Penguin, $13.) In this devotional study, Wills, a noted scholar and Catholic, stresses Christ's radicalism. ''To read the Gospels in the spirit with which they were written, it is not enough to ask what Jesus did or said,'' he writes. ''We must ask what Jesus meant by his strange deeds and words.''</p>
+        <p>THE WHITE MAN'S BURDEN: Why the West's Efforts to Aid the Rest Have Done So Much Ill and So Little Good, by William Easterly. (Penguin, $16.) Why do Western aid programs so often fail? According to this incisive book, it's not because of too little money spent. Easterly, a former World Bank economist and the author of ''The Elusive Quest for Growth,'' describes two tragedies of the world's poor. The first is that so many people suffer so much for lack of inexpensive remedies. The second ''is the tragedy in which the West spent $2.3 trillion on foreign aid over the last five decades and still had not managed to get 12-cent medicines to children to prevent half of all malaria deaths.'' He contrasts the traditional ''Planner'' approach of most aid projects -- imposing solutions from the top down -- with the ''Searcher'' approach, which adapts to the cultural, political and bureaucratic obstacles of foreign lands from the bottom up.</p>
+        <p>THE COLLECTED POEMS OF C. P. CAVAFY: A New Translation, by Aliki Barnstone. (Norton, $15.95.) The Greek poet Constantine Cavafy (1863-1933) spent his professional life in Alexandria, Egypt, composing poems that were privately printed and little circulated during his lifetime. This lucid translation conveys the inseparable connection between Cavafy's erotic and historical poems.</p>
+        <p>FLAPPER: A Madcap Story of Sex, Style, Celebrity, and the Women Who Made America Modern, by Joshua Zeitz. (Three Rivers, $13.95.) This is a lively history of the 1920s ''New Woman,'' who epitomized the decadence of the Jazz Age as she ''bobbed her hair, smoked cigarettes, drank gin, sported short skirts and passed her evenings in steamy jazz clubs.'' Zeitz, a Cambridge University historian, ''shows that the flapper was much more than her hairstyle,'' Liesl Schillinger wrote in the Book Review. ''She was, in fact, a torch lighting the way to social change.''</p>
+        <p>IN PERSUASION NATION: Stories, by George Saunders. (Riverhead, $14.) In his third collection Saunders, a dedicated satirist, again takes aim at the buying and selling of packaged experience, maintaining a delicate balance between the grim and the funny. People and animals are either subjected to cruel marketing experiments or forced to live within the confines of commercials and television vignettes featuring rampant cartoon violence. The more conventional ''Bohemians'' concerns a clutch of misfit kids in a working-class neighborhood and the bond that forms between a 10-year-old boy and an old Eastern European immigrant on the block. Our reviewer, Adam Begley, called Saunders ''fantastically talented'': ''The surreal Saunders magic is working.''</p>
+        <p>FANTASYLAND: A Sportswriter's Obsessive Bid to Win the World's Most Ruthless Fantasy Baseball League, by Sam Walker. (Penguin, $15.) Walker, a sports columnist for The Wall Street Journal, chronicles his no-holds-barred season in the toughest fantasy (a k a rotisserie) baseball league, called Tout Wars, which is composed of experts who make a living by telling others how to win at fantasy baseball.</p>
+        <p>IHSAN TAYLOR</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Paperback books of particular interest.</p>
+      </block>
+      <block class="full_text">
+        <p>AMERICA AT THE CROSSROADS: Democracy, Power, and the Neoconservative Legacy, by Francis Fukuyama. (Yale University, $15.) This scathing polemic indicts the Bush administration's war in Iraq and the role that neoconservative ideas -- concerning unilateralism and preventive war -- played in shaping its outcome. Fukuyama, whose 1992 book ''The End of History and the Last Man'' was hailed as a classic neoconservative text on the end of the cold war, traces the origins and key principles of neoconservatism. He also proposes a post-Bush foreign policy, ''realistic Wilsonianism,'' which discredits forceful regime change and favors economic development and the creation of social capital, or ''soft power.'' ''Among the neoconservative intellectuals, Fukuyama has surely been the most imaginative, the most playful in his thinking and the most ambitious,'' Paul Berman wrote here.</p>
+        <p>HALFWAY HOUSE, by Katharine Noel. (Grove, $13.) Seventeen-year-old Angie Voorster's psychotic break unhinges her family in Noel's intense, sure-footed first novel, which leaps ahead months, even years between chapters, charting the terrible endurance of Angie's illness and the long, uncertain span of her recovery.</p>
+        <p>JESUS AND YAHWEH: The Names Divine, by Harold Bloom. (Riverhead, $15.) This is a provocative reading of the Bible and its representations of man and God. Examining the characters of Jesus, Jesus Christ and Yahweh, Bloom, one of our most prolific literary critics, calls them ''totally incompatible personages'' and rejects the idea of a shared Judeo-Christian tradition. WHAT JESUS MEANT, by Garry Wills. (Penguin, $13.) In this devotional study, Wills, a noted scholar and Catholic, stresses Christ's radicalism. ''To read the Gospels in the spirit with which they were written, it is not enough to ask what Jesus did or said,'' he writes. ''We must ask what Jesus meant by his strange deeds and words.''</p>
+        <p>THE WHITE MAN'S BURDEN: Why the West's Efforts to Aid the Rest Have Done So Much Ill and So Little Good, by William Easterly. (Penguin, $16.) Why do Western aid programs so often fail? According to this incisive book, it's not because of too little money spent. Easterly, a former World Bank economist and the author of ''The Elusive Quest for Growth,'' describes two tragedies of the world's poor. The first is that so many people suffer so much for lack of inexpensive remedies. The second ''is the tragedy in which the West spent $2.3 trillion on foreign aid over the last five decades and still had not managed to get 12-cent medicines to children to prevent half of all malaria deaths.'' He contrasts the traditional ''Planner'' approach of most aid projects -- imposing solutions from the top down -- with the ''Searcher'' approach, which adapts to the cultural, political and bureaucratic obstacles of foreign lands from the bottom up.</p>
+        <p>THE COLLECTED POEMS OF C. P. CAVAFY: A New Translation, by Aliki Barnstone. (Norton, $15.95.) The Greek poet Constantine Cavafy (1863-1933) spent his professional life in Alexandria, Egypt, composing poems that were privately printed and little circulated during his lifetime. This lucid translation conveys the inseparable connection between Cavafy's erotic and historical poems.</p>
+        <p>FLAPPER: A Madcap Story of Sex, Style, Celebrity, and the Women Who Made America Modern, by Joshua Zeitz. (Three Rivers, $13.95.) This is a lively history of the 1920s ''New Woman,'' who epitomized the decadence of the Jazz Age as she ''bobbed her hair, smoked cigarettes, drank gin, sported short skirts and passed her evenings in steamy jazz clubs.'' Zeitz, a Cambridge University historian, ''shows that the flapper was much more than her hairstyle,'' Liesl Schillinger wrote in the Book Review. ''She was, in fact, a torch lighting the way to social change.''</p>
+        <p>IN PERSUASION NATION: Stories, by George Saunders. (Riverhead, $14.) In his third collection Saunders, a dedicated satirist, again takes aim at the buying and selling of packaged experience, maintaining a delicate balance between the grim and the funny. People and animals are either subjected to cruel marketing experiments or forced to live within the confines of commercials and television vignettes featuring rampant cartoon violence. The more conventional ''Bohemians'' concerns a clutch of misfit kids in a working-class neighborhood and the bond that forms between a 10-year-old boy and an old Eastern European immigrant on the block. Our reviewer, Adam Begley, called Saunders ''fantastically talented'': ''The surreal Saunders magic is working.''</p>
+        <p>FANTASYLAND: A Sportswriter's Obsessive Bid to Win the World's Most Ruthless Fantasy Baseball League, by Sam Walker. (Penguin, $15.) Walker, a sports columnist for The Wall Street Journal, chronicles his no-holds-barred season in the toughest fantasy (a k a rotisserie) baseball league, called Tout Wars, which is composed of experts who make a living by telling others how to win at fantasy baseball.</p>
+        <p>IHSAN TAYLOR</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

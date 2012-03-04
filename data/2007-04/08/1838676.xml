@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>More Tribute Is Due</title>
+    <meta content="08alsmail-6" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838676"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="PAUL TAYLOR DANCERS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Dancing</classifier>
+        <org class="indexing_service">Taylor, Paul, Dance Co</org>
+        <person class="indexing_service">Gensburg, Leslie</person>
+        <person class="indexing_service">Viola, Lisa</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dancing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070408T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9802E0D9163FF93BA35757C0A9619C8B63" item-length="101" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>More Tribute Is Due</hl1>
+      </hedline>
+      <abstract>
+        <p>Leslie Gensburg letter about Mar 25 article on Paul Taylor Dance Company says senior member Lisa Viola was neglected (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Paul Taylor's Women Take a Leap Forward'' by Gia Kourlas [March 25]:</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Paul Taylor's Women Take a Leap Forward'' by Gia Kourlas [March 25]:</p>
+        <p>I realize that the article was mostly about dancers who have joined the Paul Taylor company fairly recently, but more needs to be said about Lisa Viola, ''the company's senior member.'' She is one of the most powerful dancers I've ever seen. I'll never forget the performance of ''Le Sacre du Printemps (The Rehearsal)'' I saw in 2000; watching her grief as she rolled back and forth in agony at losing her baby is etched in my mind.</p>
+        <p>Leslie Gensburg  East Burke, Vt.</p>
+        <p>PAUL TAYLOR DANCERS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

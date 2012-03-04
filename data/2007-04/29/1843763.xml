@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Shawn Reiser, Sean Orzol</title>
+    <meta content="29reiser" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1843763"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Reiser, Dr. Shawn Leslie</person>
+        <person class="indexing_service">Orzol, Sean Michael</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9800E7DC123EF93AA15757C0A9619C8B63" item-length="128" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Shawn Reiser, Sean Orzol</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Dr. Shawn Leslie Reiser, the daughter of Jeffrey H. Reiser of Manalapan, N.J., and the late Judith E. Reiser, is to be married today in Las Vegas to Sean Michael Orzol, the son of Kathleen and Michael J. Orzol of Southgate, Mich. Rabbi Craig Rosenstein is to officiate at the Wynn Las Vegas hotel.</p>
+        <p>Dr . Reiser, 30, is keeping her name. She practices podiatry as an associate at Community Podiatry Group in Flint, Mich. She graduated from the University of Michigan and received her degree in podiatric medicine from Temple University.</p>
+      </block>
+      <block class="full_text">
+        <p>Dr. Shawn Leslie Reiser, the daughter of Jeffrey H. Reiser of Manalapan, N.J., and the late Judith E. Reiser, is to be married today in Las Vegas to Sean Michael Orzol, the son of Kathleen and Michael J. Orzol of Southgate, Mich. Rabbi Craig Rosenstein is to officiate at the Wynn Las Vegas hotel.</p>
+        <p>Dr . Reiser, 30, is keeping her name. She practices podiatry as an associate at Community Podiatry Group in Flint, Mich. She graduated from the University of Michigan and received her degree in podiatric medicine from Temple University.</p>
+        <p>Mr. Orzol, 33, graduated from Michigan State University and has completed the first year of a doctoral program in public health policy at the University of Michigan, where he received a master's degree in public health.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

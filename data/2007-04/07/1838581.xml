@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>S4 Minus 2 Doors = S5</title>
+    <meta content="NUGGETAudiS5" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Automobiles" name="dsk"/>
+    <meta content="0" name="print_page_number"/>
+    <meta content="" name="print_section"/>
+    <meta content="Automobiles" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/07/automobiles/autoshow/NUGGETAudiS5.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1838581"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070407T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CEEDB143FF934A35757C0A9619C8B63" item-length="246" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>S4 Minus 2 Doors = S5</hl1>
+        <hl2 class="online_headline">S4 Minus 2 Doors = S5</hl2>
+      </hedline>
+      <byline class="print_byline">By EZRA DYER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Introduced on Wednesday: 2008 Audi S5</p>
+        <p>Is it real? Very much so.</p>
+        <p>What's the point? The $50,000-$60,000 V-8 luxury Eurocoupe class has few players, so Audi saw room for another entry with an A4-derived coupe.</p>
+        <p>What they said: "The A5 is the most beautiful car I have ever designed," said Walter de'Silva, head of Volkswagen Group Design. (Audi introduced the S5 and V-6 powered A5 at the Geneva auto show in March.)</p>
+        <p>What they didn't say: "We're sick of potential customers heading off to the Mercedes dealership for a CLK simply because Audi didn't offer any alternative."</p>
+        <p>What makes it tick? The S5 shares the mechanicals of the S4 sedan, so it packs a 4.2-liter 354-horsepower V-8, all-wheel-drive and a 6-speed manual transmission.</p>
+        <p>How much, how soon? Audi hasn't announced prices, but you can expect the S5 to land between the S4 and S6 -- which is to say, probably starting in the mid-$50,000 range. Deliveries begin in June.</p>
+        <p>How's it look? Over all, we concur with Mr. de'Silva's self-congratulations: this is a great-looking car. In its stance and proportions, the S5 is reminiscent of its upscale corporate cousin, the Bentley Continental GT -- a stylish and luxurious personal transport, rather than a sports car. The S5 has Audi's signature high cowl and raked side glass (as demonstrated most emphatically on the TT), but its roofline is upright enough to accommodate rear-seat passengers taller than Elijah Wood.</p>
+      </block>
+      <block class="full_text">
+        <p>Introduced on Wednesday: 2008 Audi S5</p>
+        <p>Is it real? Very much so.</p>
+        <p>What's the point? The $50,000-$60,000 V-8 luxury Eurocoupe class has few players, so Audi saw room for another entry with an A4-derived coupe.</p>
+        <p>What they said: "The A5 is the most beautiful car I have ever designed," said Walter de'Silva, head of Volkswagen Group Design. (Audi introduced the S5 and V-6 powered A5 at the Geneva auto show in March.)</p>
+        <p>What they didn't say: "We're sick of potential customers heading off to the Mercedes dealership for a CLK simply because Audi didn't offer any alternative."</p>
+        <p>What makes it tick? The S5 shares the mechanicals of the S4 sedan, so it packs a 4.2-liter 354-horsepower V-8, all-wheel-drive and a 6-speed manual transmission.</p>
+        <p>How much, how soon? Audi hasn't announced prices, but you can expect the S5 to land between the S4 and S6 -- which is to say, probably starting in the mid-$50,000 range. Deliveries begin in June.</p>
+        <p>How's it look? Over all, we concur with Mr. de'Silva's self-congratulations: this is a great-looking car. In its stance and proportions, the S5 is reminiscent of its upscale corporate cousin, the Bentley Continental GT -- a stylish and luxurious personal transport, rather than a sports car. The S5 has Audi's signature high cowl and raked side glass (as demonstrated most emphatically on the TT), but its roofline is upright enough to accommodate rear-seat passengers taller than Elijah Wood.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

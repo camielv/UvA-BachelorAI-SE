@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   YOUNG, ANDREW</title>
+    <meta content="dn040707" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838443"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">YOUNG, ANDREW</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070407T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9501EED7153AF934A35757C0A9619C8B63" item-length="90" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   YOUNG, ANDREW</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>YOUNG--Andrew, died tragically on April 4, 2007. Andrew's unique combination of heart and head and his love of life made him a successful restauranteur and hotelier, on land and at sea, and endeared him to family and friends. He was a beloved husband, brother, uncle and cousin and he will be sorely missed. A memorial service will be held at the Weinstein Mortuary 640 Farmington Ave, Hartford, CT, at 11am Sunday, April 8. The Young, Dubroff, Michel, Weil and Herf families invite you to join them in remembering Andrew.</p>
+      </block>
+      <block class="full_text">
+        <p>YOUNG--Andrew, died tragically on April 4, 2007. Andrew's unique combination of heart and head and his love of life made him a successful restauranteur and hotelier, on land and at sea, and endeared him to family and friends. He was a beloved husband, brother, uncle and cousin and he will be sorely missed. A memorial service will be held at the Weinstein Mortuary 640 Farmington Ave, Hartford, CT, at 11am Sunday, April 8. The Young, Dubroff, Michel, Weil and Herf families invite you to join them in remembering Andrew.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

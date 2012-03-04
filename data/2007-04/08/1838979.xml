@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Safety Should Come First</title>
+    <meta content="08inbox-2" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838979"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cheerleaders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070408T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E01EEDB143FF93BA35757C0A9619C8B63" item-length="165" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Safety Should Come First</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Sports Editor:</p>
+        <p>Re ''As Cheerleaders Soar Higher, So Do the Risks,'' March 31: I am 16 years old and a former cheerleader. I have been a cheerleading coach for the past two years. I was glad to see the article because not many people understand how dangerous cheerleading is, and most people don't even consider it a sport.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Sports Editor:</p>
+        <p>Re ''As Cheerleaders Soar Higher, So Do the Risks,'' March 31: I am 16 years old and a former cheerleader. I have been a cheerleading coach for the past two years. I was glad to see the article because not many people understand how dangerous cheerleading is, and most people don't even consider it a sport.</p>
+        <p>Life-threatening accidents should never happen. The Sacramento City College team was trying a new stunt when an airborne cheerleader, or flier, fell to the floor after one of the boys responsible for catching her lost his balance.</p>
+        <p>Losing your balance is understandable, but there should have been more teammates there to protect her. Whenever our team tries a new maneuver, the cheerleaders form a ''safety circle'' around the stunt group; if someone fails to catch the flier, there are many more to catch her. The coach should have made sure that the safety of the cheerleaders came first.</p>
+        <p>Samantha Schilpp  Prospect, Conn.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

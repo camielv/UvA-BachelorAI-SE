@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   PITCHER, JANE DUNWOODY</title>
+    <meta content="dn040907.1" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1839089"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">PITCHER, JANE DUNWOODY</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070409T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A00E2DF123AF93AA35757C0A9619C8B63" item-length="53" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   PITCHER, JANE DUNWOODY</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>PITCHER--Jane Dunwoody, 92, of West Chester and Hatboro, PA, April 2, 2007. Widow of Col. Jack Griffin Pitcher. Survived by daughter, Barbara Pitcher. 11:30am-12:30pm on April 10th Hogan Funeral Home, 135 Main St., Highland Falls, NY 10928. 1:30 pm, Old Cadet Chapel, West Point, NY. Post Cemetery. Founds Funeral Home, West Chester.</p>
+      </block>
+      <block class="full_text">
+        <p>PITCHER--Jane Dunwoody, 92, of West Chester and Hatboro, PA, April 2, 2007. Widow of Col. Jack Griffin Pitcher. Survived by daughter, Barbara Pitcher. 11:30am-12:30pm on April 10th Hogan Funeral Home, 135 Main St., Highland Falls, NY 10928. 1:30 pm, Old Cadet Chapel, West Point, NY. Post Cemetery. Founds Funeral Home, West Chester.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

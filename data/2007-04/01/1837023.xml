@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Going Down Gambling</title>
+    <meta content="Moore.t" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/01/books/review/Moore.t.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837023"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="descriptor">Books and Literature</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+        <person class="online_producer">Dixon, Keith</person>
+        <object.title class="online_producer">Art of Losing, The (Book)</object.title>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B07E6DB1530F932A35757C0A9619C8B63" item-length="592" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Going Down Gambling</hl1>
+        <hl2 class="online_headline">Going Down Gambling</hl2>
+      </hedline>
+      <byline class="print_byline">By NATALIE MOORE</byline>
+      <byline class="normalized_byline">Moore, Natalie</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE ART OF LOSING</p>
+        <p>By Keith Dixon.</p>
+        <p>243 pp. St. Martin's Press. $24.95.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>In Keith Dixon’s novel about a small-time loser, greed leads inexorably to disaster.</p>
+      </block>
+      <block class="full_text">
+        <p>THE ART OF LOSING</p>
+        <p>By Keith Dixon.</p>
+        <p>243 pp. St. Martin's Press. $24.95.</p>
+        <p>The art of losing, as Elizabeth Bishop put it in her poem ''One Art,'' isn't hard to master. It is something that is cumulatively learned -- door keys here, a lover there -- until one day you can be counted an expert. Of course, the joke is that we have no control over what we lose, or when, or how, because if we did, we would probably choose not to lose it in the first place.</p>
+        <p>In Keith Dixon's novel ''The Art of Losing,'' the narrator, Michael Jacobs, starts out as a small-time loser. He's a documentary filmmaker in New York City whose films, although praised by some critics, have all failed commercially. He is beginning to suspect that his work is not improving either, that perhaps he is losing his artistic touch. Jacobs is also chronically short of money. As he notes ruefully about being broke, ''some damn fool somewhere got the idea that this enriched the artist's soul, all the denial, but from where I stood it seemed to wither a lot more than it nourished.'' He forgoes heat and television at home. He lies to friends about having eaten to avoid the embarrassment of not being able to pay his share of the check.</p>
+        <p>Jacobs's friend and producer, Sebby Laslo, has also fallen on hard times. A compulsive gambler, Laslo has damaged his professional reputation beyond repair. After Jacobs's third film fails to get picked up for national distribution, Laslo proposes a scheme to solve their money problems for good, persuading Jacobs and a jockey to help him fix a horse race. The dazzle of $1 million -- ''that cryptogram, that bench mark of wealth, with its comet's tail of zeros'' -- is too much for Jacobs to resist, and from here the real losing begins.</p>
+        <p>Dixon's prose crackles with portent. A ''dark spine'' of thunderclouds gathers above a horse race early in the novel, creating an atmosphere that never lifts. There is a horrible inevitability about everything that befalls Jacobs as the plot proceeds. Indeed, the betting scheme backfires, and Jacobs and Laslo find themselves deep in debt, pursued by thugs hired to protect the interests of the bookmakers the two tried to defraud. Jacobs discovers he has lost more than money, as lying and fraud turn into violence and violence turns into murder. He finds his own sense of self disintegrating.</p>
+        <p>Dixon presages his moral -- the love of money is the root of all evil -- somewhat ham-handedly at the outset of the novel, when he has Jacobs's mother fashion the message into a needlepoint for him. However, the author deftly underscores his point, laying sin upon sin as Jacobs helplessly plays out his story. Dixon, an editor at The New York Times and the author of a previous novel, ''Ghostfires,'' takes as his epigraph a passage from Chaucer's ''Pardoner's Tale.'' This is more than a neat literary flourish. ''The Pardoner's Tale'' also deals with duplicity and corruption, with greed and the ills that gambling begets. As Chaucer writes in another passage, ''The curse of chance, and all its evils treat; / From it proceeds false swearing and deceit, / Blaspheming, murder.'' Jacobs's tale is, indeed, a timeless one.</p>
+        <p>''The Art of Losing'' is a dark, captivating novel in which Dixon relentlessly pursues the twin themes of greed and loss, stripping his characters clean as he does so. His narrator certainly masters the art of losing; ultimately, his greed leaves him with nothing left to lose.</p>
+        <p>Natalie Moore has written for Scotland on Sunday, Time Out London and other publications.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Natalie Moore has written for Scotland on Sunday, Time Out London and other publications.</tagline>
+    </body.end>
+  </body>
+</nitf>

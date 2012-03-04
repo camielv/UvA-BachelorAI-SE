@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Web</title>
+    <meta content="web.t" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1843554"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E3D8173EF93AA15757C0A9619C8B63" item-length="86" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Web</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Podcast: Scheduled to appear this week are Meghan O'Rourke, the author of ''Halflife''; James Traub on George Kennan (above); and Steve Coates on ''The Day of the Barbarians.'' Dwight Garner, senior editor, is the host.</p>
+        <p>First Chapters: Excerpts from ''A Far Country,'' by Daniel Mason; ''Too Close to the Sun,'' by Sara Wheeler; and other books.</p>
+        <p>Search: A free archive of book reviews since 1981.</p>
+        <p>Books Update E-Mail: Receive a selective overview of new book reviews and features every Sunday.</p>
+        <p>www.nytimes.com/books</p>
+      </block>
+      <block class="full_text">
+        <p>Podcast: Scheduled to appear this week are Meghan O'Rourke, the author of ''Halflife''; James Traub on George Kennan (above); and Steve Coates on ''The Day of the Barbarians.'' Dwight Garner, senior editor, is the host.</p>
+        <p>First Chapters: Excerpts from ''A Far Country,'' by Daniel Mason; ''Too Close to the Sun,'' by Sara Wheeler; and other books.</p>
+        <p>Search: A free archive of book reviews since 1981.</p>
+        <p>Books Update E-Mail: Receive a selective overview of new book reviews and features every Sunday.</p>
+        <p>www.nytimes.com/books</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

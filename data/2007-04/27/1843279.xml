@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Man, Subdued by Police, Dies</title>
+    <meta content="27death" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health; New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/27/nyregion/27death.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1843279"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Mental Health and Behavior</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Mental Health and Disorders</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mental Health and Disorders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070427T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9506E6DD123EF934A15757C0A9619C8B63" item-length="224" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Man, Subdued by Police, Dies</hl1>
+        <hl2 class="online_headline">Police Subdue Man, Who Dies</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A 41-year-old Queens man died early yesterday morning after police officers and medical workers responded to a 911 call that he was emotionally disturbed and acting irrationally, the police said.</p>
+        <p>The police said that they arrived at 104-36 204th Street in St. Albans, the home of the man, Patrick Ryan, after the 4:20 a.m. call, which came from his girlfriend. Seven officers sustained minor injuries trying to subdue Mr. Ryan, they said. He was strapped to a backboard and taken to Mary Immaculate Hospital, where he was pronounced dead at 6:13 a.m., the authorities said.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A 41-year-old Queens man died early yesterday morning after police officers and medical workers responded to a 911 call that he was emotionally disturbed and acting irrationally, the police said.</p>
+      </block>
+      <block class="full_text">
+        <p>A 41-year-old Queens man died early yesterday morning after police officers and medical workers responded to a 911 call that he was emotionally disturbed and acting irrationally, the police said.</p>
+        <p>The police said that they arrived at 104-36 204th Street in St. Albans, the home of the man, Patrick Ryan, after the 4:20 a.m. call, which came from his girlfriend. Seven officers sustained minor injuries trying to subdue Mr. Ryan, they said. He was strapped to a backboard and taken to Mary Immaculate Hospital, where he was pronounced dead at 6:13 a.m., the authorities said.</p>
+        <p>The police said that they did not know the exact cause of death, and that the medical examiner would perform an autopsy.</p>
+        <p>Family members and friends, however, said they believed that Mr. Ryan, who they described as legally blind, died at the hands of the police before he was taken to the hospital. Family members estimated that as many as eight or nine officers tackled Mr. Ryan, and they said the ambulance that took him away did not have its siren on.</p>
+        <p>''The police killed my son, and I'm grieving,'' said Justiana Reid, Mr. Ryan's mother, who was downstairs in the house when the police arrived.</p>
+        <p>Family members said that Mr. Ryan could see only shadows and received disability checks. They added that his girlfriend was eight months pregnant.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

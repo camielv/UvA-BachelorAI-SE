@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Mayor Doubtful About Government's Role in Anti-AIDS Circumcision Plan</title>
+    <meta content="06circumcise" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/06/nyregion/06circumcise.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1838341"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Acquired Immune Deficiency Syndrome</classifier>
+        <classifier class="indexing_service" type="descriptor">Circumcision</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">Health and Mental Hygiene Department (NYC)</org>
+        <person class="indexing_service">Bloomberg, Michael R (Mayor)</person>
+        <person class="indexing_service">Cardwell, Diane</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/AIDS</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Circumcision</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Acquired Immune Deficiency Syndrome</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acquired Immune Deficiency Syndrome</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acquired Immune Deficiency Syndrome</classifier>
+        <classifier class="online_producer" type="general_descriptor">Viruses</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <org class="online_producer">World Health Organization</org>
+        <person class="online_producer">Bloomberg, Michael R</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070406T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0CE2DD173FF935A35757C0A9619C8B63" item-length="299" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Mayor Doubtful About Government's Role in Anti-AIDS Circumcision Plan</hl1>
+        <hl2 class="online_headline">Mayor Doubtful About Government’s Role in Anti-AIDS Circumcision Plan</hl2>
+      </hedline>
+      <byline class="print_byline">By DIANE CARDWELL</byline>
+      <byline class="normalized_byline">Cardwell, Diane</byline>
+      <abstract>
+        <p>Mayor Michael R Bloomberg questions whether city government should seek to reduce spread of AIDS in New York by promoting circumcision; Department of Health and Mental Hygiene has been exploring idea (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Mayor Michael R. Bloomberg raised questions yesterday about an approach under consideration at the Health Department to promote circumcision as a way to reduce the risk of contracting AIDS.</p>
+        <p>The approach was reported yesterday in The New York Times, but Bloomberg officials cautioned that it was still in its infancy and not yet something the administration had decided to pursue.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Mr. Bloomberg supports seeking new ways to combat the disease, but suggested that he was unconvinced that government should be involved.</p>
+      </block>
+      <block class="full_text">
+        <p>Mayor Michael R. Bloomberg raised questions yesterday about an approach under consideration at the Health Department to promote circumcision as a way to reduce the risk of contracting AIDS.</p>
+        <p>The approach was reported yesterday in The New York Times, but Bloomberg officials cautioned that it was still in its infancy and not yet something the administration had decided to pursue.</p>
+        <p>The Department of Health and Mental Hygiene has been exploring the issue with community groups and gay rights organizations as well as with the Health and Hospitals Corporation, which runs public hospitals and clinics.</p>
+        <p>Those discussions have come in the wake of the World Health Organization's endorsement of the procedure as an effective way to prevent the disease in men at high risk of contracting it.</p>
+        <p>Asked about the approach at a news conference, Mr. Bloomberg expressed support for seeking new ways to combat the disease, but suggested that he was unconvinced that government should be involved in promoting or providing circumcisions.</p>
+        <p>''I have not had a chance to talk to Tom Frieden and Alan Aviles about this,'' Mr. Bloomberg said, referring to Health Commissioner Thomas R. Frieden and Alan D. Aviles, chairman of the Health and Hospitals Corporation.</p>
+        <p>Saying that the rate of H.I.V. infection and AIDS in the city was alarmingly high despite education campaigns, he added, ''We have to do something about it and we should be looking at everything, and when reputable health organizations talk about ways to do it you certainly are going to give it some serious consideration.''</p>
+        <p>Still, the mayor said, ''whether it's something that the government should be involved in, or just giving advice and making sure that people get educated, education in the end is the real tool to stop the spread of AIDS in our society.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

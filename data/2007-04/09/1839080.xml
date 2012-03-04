@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   GRAHAM, COLIN</title>
+    <meta content="dn040907.1" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1839080"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">GRAHAM, COLIN</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070409T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9903E3DF123AF93AA35757C0A9619C8B63" item-length="88" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   GRAHAM, COLIN</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>GRAHAM--Colin. The Metropolitan Opera mourns the death of director Colin Graham, whose imaginative staging of John Corigliano's The Ghosts of Versailles contributed so much to the success of that opera's world premiere here in 1991. We also remember him for two new productions of Britten's Death in Venice (U.S. premiere in 1974 and a second production 1994), as well as his La Traviata (1981), and Cosi fan tutte (1982). We offer our sincerest condolences to his family and friends. Peter Gelb, General Manager James Levine, Music Director</p>
+      </block>
+      <block class="full_text">
+        <p>GRAHAM--Colin. The Metropolitan Opera mourns the death of director Colin Graham, whose imaginative staging of John Corigliano's The Ghosts of Versailles contributed so much to the success of that opera's world premiere here in 1991. We also remember him for two new productions of Britten's Death in Venice (U.S. premiere in 1974 and a second production 1994), as well as his La Traviata (1981), and Cosi fan tutte (1982). We offer our sincerest condolences to his family and friends. Peter Gelb, General Manager James Levine, Music Director</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

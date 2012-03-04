@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   HART, KITTY CARLISLE</title>
+    <meta content="dn042307.2" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1842346"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">HART, KITTY CARLISLE</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070423T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A02EFD61F3AF930A15757C0A9619C8B63" item-length="114" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   HART, KITTY CARLISLE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>HART--Kitty Carlisle. The Members and Staff of the New York State Council on the Arts express their deep sadness at the passing of their beloved former Chairman, Kitty Carlisle Hart. Affectionately known to us as Kitty, she was a vital mainstay of our agency for more than three decades, dispensing wisdom and charm wherever she went. She was a vibrant and tireless advocate for the arts and she will be missed by the entire arts community. Kitty will always be remembered by us as a colleague and a good friend. She was one of a kind and remains irreplaceable.</p>
+        <p>$(6$)HART--Kitty Carlisle. Dearest Kitty we will miss you, rest in peace. Faithfully, Ellsworth</p>
+      </block>
+      <block class="full_text">
+        <p>HART--Kitty Carlisle. The Members and Staff of the New York State Council on the Arts express their deep sadness at the passing of their beloved former Chairman, Kitty Carlisle Hart. Affectionately known to us as Kitty, she was a vital mainstay of our agency for more than three decades, dispensing wisdom and charm wherever she went. She was a vibrant and tireless advocate for the arts and she will be missed by the entire arts community. Kitty will always be remembered by us as a colleague and a good friend. She was one of a kind and remains irreplaceable.</p>
+        <p>$(6$)HART--Kitty Carlisle. Dearest Kitty we will miss you, rest in peace. Faithfully, Ellsworth</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

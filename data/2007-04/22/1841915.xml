@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Lesson Before Dying</title>
+    <meta content="Hoffman2.t" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="21" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/22/books/review/Hoffman2.t.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1841915"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/History</classifier>
+        <classifier class="online_producer" type="descriptor">Books and Literature</classifier>
+        <classifier class="online_producer" type="descriptor">Civil War (US) (1861-65)</classifier>
+        <classifier class="online_producer" type="descriptor">History</classifier>
+        <classifier class="online_producer" type="general_descriptor">Civil War (US) (1861-65)</classifier>
+        <classifier class="online_producer" type="general_descriptor">History</classifier>
+        <classifier class="online_producer" type="general_descriptor">War and Revolution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+        <person class="online_producer">Olmstead, Robert</person>
+        <object.title class="online_producer">Coal Black Horse (Book)</object.title>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E6D7123FF931A15757C0A9619C8B63" item-length="515" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Lesson Before Dying</hl1>
+        <hl2 class="online_headline">A Lesson Before Dying</hl2>
+      </hedline>
+      <byline class="print_byline">By ROY HOFFMAN</byline>
+      <byline class="normalized_byline">Hoffman, Roy</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>COAL BLACK HORSE</p>
+        <p>By Robert Olmstead.</p>
+        <p>218 pp. Algonquin Books of Chapel Hill. $23.95.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>This novel confronts Gettysburg’s grim aftermath  50,000 dead, wounded or missing, men in parts and pieces.</p>
+      </block>
+      <block class="full_text">
+        <p>COAL BLACK HORSE</p>
+        <p>By Robert Olmstead.</p>
+        <p>218 pp. Algonquin Books of Chapel Hill. $23.95.</p>
+        <p>A callow youth, a mystical horse, a Civil War landscape -- Robert Olmstead uses these familiar elements to fashion ''Coal Black Horse,'' an exciting if periodically overwrought coming-of-age novel. They are all brought together at Gettysburg when his 14-year-old protagonist, Robey Childs, is confronted with the grim aftermath of the fighting, in which there were ''50,000 men who were killed, and wounded and missing from the rolls. They were in parts and pieces. They were whole and seemingly unscathed and wandering about as the future dead while others were vapor or grease or but rags of flesh and pulverized bone.''</p>
+        <p>Unlike Henry Fleming in ''The Red Badge of Courage,'' who enlisted despite his mother's protestations, Robey leaves for the battlefield at his mother's behest. ''My mother sent me to fetch home my pap,'' he tells a woman as he helps ''plant the dead'' after the carnage in Pennsylvania. Robey's search for his father results in a colorful if often bloody picaresque. As Charles Frazier demonstrated in ''Cold Mountain,'' a journey along back roads during the 1860s almost guarantees a rogue's gallery of characters -- which here includes a ''strange and ugly woman'' who turns out to be a man and a diabolical preacher whose eyeballs reputedly ''roll around backward inside his head.'' And Olmstead, whose memoir, ''Stay Here With Me,'' told of his boyhood on a New Hampshire farm, has a gift for depicting animals, sketching ''gyring vultures'' and dogs that ''shivered and mewled and clacked their jaws.'' Even shotgun-toting men lope with ''the canted walk of traveling wolves.''</p>
+        <p>Perhaps inescapably, the black horse of the title is both a real stallion that ''stood 16 hands'' and ''suffered no lack of self-possession'' and a potent symbol, kin to the ''winged horse'' of mythology. Like one of Jonathan Swift's Houyhnhnms, Robey's horse can seem the most rational creature on the horizon. It is men, destroying one another in ways Olmstead describes with gory extravagance -- ''hair, brains, entrails and shreds of human flesh cooking black in the heated air'' -- who come off as beasts.</p>
+        <p>Yet for all the novel's success as a grueling adventure, its depiction of Robey's inner journey from boy to man works less well. Near the start, a shopkeeper tells him he's ''in for an education,'' but that education is too heavily underscored. Though Robey sets out merely distrustful of what he's been taught, he quickly loses his faith in God and comes to believe, in one of this young teenager's several improbable formulations, that ''we have chosen ourselves to be the chosen.'' When the quest story shifts into a pat psychological drama, he and his father are described as ''a teaching father and a learning son, timeless in their existence.''</p>
+        <p>''This is humanity,'' Robey's savagely wounded, dying father tells him. ''This is mankind, son.'' Dwarfed by the enormity of Gettysburg -- ''holocaust'' is a term Shelby Foote uses in describing those days of 1863 -- this crucial dialogue, in an otherwise unbridled narrative, seems too studied, and thus too small.</p>
+        <p>Roy Hoffman is a staff writer for The Press-Register in Mobile, Ala. His most recent novel is ''Chicken Dreaming Corn.''</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Roy Hoffman is a staff writer for The Press-Register in Mobile, Ala. His most recent novel is ''Chicken Dreaming Corn.''</tagline>
+    </body.end>
+  </body>
+</nitf>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Testing New Lights at the Top of the City</title>
+    <meta content="21empire" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/21/nyregion/21empire.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1841815"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Empire State Building (NYC)</classifier>
+        <classifier class="online_producer" type="descriptor">Lighting</classifier>
+        <classifier class="online_producer" type="descriptor">Color</classifier>
+        <classifier class="online_producer" type="descriptor">Buildings (Structures)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Color</classifier>
+        <classifier class="online_producer" type="general_descriptor">Lighting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Office Buildings and Commercial Properties</classifier>
+        <classifier class="online_producer" type="general_descriptor">Historic Buildings and Sites</classifier>
+        <classifier class="online_producer" type="general_descriptor">Buildings (Structures)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+        <location class="online_producer">Manhattan (NYC)</location>
+        <org class="online_producer">Color Kinetics Incorporated</org>
+        <org class="online_producer">Philips Electronics</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070421T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B02EEDA163EF932A15757C0A9619C8B63" item-length="941" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Testing New Lights at the Top of the City</hl1>
+        <hl2 class="online_headline">Seeking a High-Tech Way to Put Fresh Colors at the Top of the City</hl2>
+      </hedline>
+      <byline class="print_byline">By GLENN COLLINS</byline>
+      <byline class="normalized_byline">Collins, Glenn</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Before most of Manhattan could shake itself out of bed, the great Empire State Building light-show smackdown -- an eerily silent rainbow of shifting color high above the city that continued for 71 predawn minutes yesterday -- had its finale an hour before sunrise.</p>
+        <p>At stake was a $5 million contract to bring 21st-century illumination to the city's tallest skyscraper. And so, four blocks away from the building that jutted into the clear night sky, in a command center 28 floors above depopulated streets, walkie-talkies squawked as the building's management witnessed a Kong vs. Godzilla face-off between two lighting behemoths.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>At stake in Friday's multihued predawn face-off was a $5 million contract to bring 21st-century illumination to Manhattan’s tallest skyscraper.</p>
+      </block>
+      <block class="full_text">
+        <p>Before most of Manhattan could shake itself out of bed, the great Empire State Building light-show smackdown -- an eerily silent rainbow of shifting color high above the city that continued for 71 predawn minutes yesterday -- had its finale an hour before sunrise.</p>
+        <p>At stake was a $5 million contract to bring 21st-century illumination to the city's tallest skyscraper. And so, four blocks away from the building that jutted into the clear night sky, in a command center 28 floors above depopulated streets, walkie-talkies squawked as the building's management witnessed a Kong vs. Godzilla face-off between two lighting behemoths.</p>
+        <p>''Now that's a red,'' said James T. Connors, the general manager of the Empire State Building Company, observing solid test-pattern blocks of color as they bathed nine floors in light. Primary hues soon yielded to vibrant stripes, spectrum cascades, strobe effects and programmed sequences called ''Fourth of July,'' ''New Year's Eve'' and ''Fireworks.''</p>
+        <p>Above, on the narrow 72nd floor parapet of the skyscraper at Fifth Avenue and West 34th Street -- which is ordinarily dark after midnight -- the two contenders, Color Kinetics Inc. and Philips Electronics, had installed test stands of high-brightness light-emitting diodes, or L.E.D.'s.</p>
+        <p>The test marked the beginning of a high-tech future for the landmark skyscraper. For more than a quarter century, the color of the floodlights has been changed by teams of maintenance workers. More than 200 times a year, the workers brave the elements for six hours to install, by hand, colored plastic lenses on 208 10,000-watt upward-facing floodlights on the 72nd and 81st floors, and more lights in the spire.</p>
+        <p>In the future, the building will be flooded in ''intelligent illumination,'' employing a new generation of computer-controlled L.E.D.'s capable of producing millions of colors and an infinity of patterns.</p>
+        <p>Yesterday's test began at 3:58 a.m. Floors 72 to 81 on the western face were illuminated: Color Kinetics on the northern portion of the face, and Philips to the south.</p>
+        <p>The competition demonstrates ''nothing less than the digitalization of an entire major industry, replacing archaic mechanical illumination with smarter lighting,'' said William Sims, president of Color Kinetics Inc. of Boston, which has lighted the Hollywood Bowl, Los Angeles International Airport and the Broadway musical ''Wicked.''</p>
+        <p>The new L.E.D.'s ''would allow us to showcase the building in many new ways,'' said Mr. Connors in the command center at West 38th Street and Broadway.</p>
+        <p>Lighting is part of a years-long, $400 million refurbishment of the building's infrastructure and interiors that, he hopes, will ''positively affect the perception of the commercial aspects of the building,'' which has 102 public floors and was visited by four million tourists last year.</p>
+        <p>Lighting at the Empire, as its employees call the building, has long marked a complex annual ritual: blue and white for Hanukkah, red and green for the December holiday season, yellow and white for spring, and green for St. Patrick's Day. Often the calendar has been punctuated by special events, as when the building went blue in honor of the passing of Frank Sinatra, Ol' Blue Eyes. And it has been lights-out for decades during migratory seasons for birds.</p>
+        <p>The skyscraper's lights were first turned on by President Herbert Hoover on May 1, 1931, when he pressed a button in Washington, D.C. By 1956, revolving beacons, called Freedom Lights, were installed to symbolize peace. Floodlights washed the side of the building in white for the 1964 World's Fair, and colors arrived in 1976 for the Bicentennial.</p>
+        <p>In January, at a previous face-off, both companies were sent back to the drawing board to improve their colors, especially white. This time, ''we were psyched and excited'' about the test, said Govi V. Rao, general manager of Philips's North American solid-state lighting division. The company, which is based in Amsterdam, has lighted such places as Buckingham Palace in London and Dolmabahce Palace in Istanbul.</p>
+        <p>The test lights -- light-emitting silicon chips encased in plastic and glass lenses less than an inch wide -- are grouped in frames, and can be switched on and off thousands of times a second in various computer-controlled sequences that the brain interprets as distinct colors.</p>
+        <p>The lights are expected to last 5 to 10 years; they have cut the cost of illuminating other buildings 10 to 50 percent.</p>
+        <p>Mr. Connors said the test was a success, and that ''the L.E.D.'s outperformed the floodlights,'' but he reserved opinion on the winner, which will not be decided until the companies bid for the job. Installation could begin as early as the fall for a debut in 2008.</p>
+        <p>As a beacon, the building has a civic role, Mr. Connors emphasized, and ''we're not planning for this to be a billboard or a commercial venue.''</p>
+        <p>But the new illumination ''would give us the flexibility to change colors at the push of a few buttons,'' he said, on a computer console, laptop, or even a hand-held computer. ''The building could change color on the hour, so that you could have a clock tower without a clock. Or we could have a light show -- in sync with music that could be simulcast on radio.''</p>
+        <p>Not every New Yorker may welcome a transformation from the stately former lighting. Ric Burns, the filmmaker who directed the World Trade Center documentary ''The Center of the World,'' said, ''It's scary to think that we could have a zebra-striped or a leopard-spotted Empire State Building. However, if they do something garish and vulgar, the people will make their voice felt.''</p>
+        <p>He added: ''But when they changed the lighting on the George Washington Bridge, it was fantastic. And if you've seen the Eiffel Tower sparkling with lights -- it takes your breath away.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

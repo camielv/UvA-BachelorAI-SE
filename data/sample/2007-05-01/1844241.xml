@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Separation Of Church and a Book By L. Ron Hubbard</title>
+    <meta content="01pitem" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="21" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S.; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1844241"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CAUCUS: READING"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Presidential Election of 2008</classifier>
+        <classifier class="indexing_service" type="descriptor">Scientology</classifier>
+        <classifier class="indexing_service" type="descriptor">Church-State Relations</classifier>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Mormons (Church of Jesus Christ of Latter-Day Saints)</classifier>
+        <person class="indexing_service">Romney, Mitt</person>
+        <person class="indexing_service">Hubbard, L Ron (1911-86)</person>
+        <person class="indexing_service">Rutenberg, Jim</person>
+        <object.title class="indexing_service">Battlefield Earth (Book)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Church-State Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Church-State Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mormons (Church of Jesus Christ of Latter-Day Saints)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Christians and Christianity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Religion and Churches</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070501T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05EED8133EF932A35756C0A9619C8B63" item-length="143" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Separation Of Church and a Book By L. Ron Hubbard</hl1>
+      </hedline>
+      <byline class="print_byline">By JIM RUTENBERG</byline>
+      <byline class="normalized_byline">Rutenberg, Jim</byline>
+      <abstract>
+        <p>Mitt Romney, Republican presidential candidate and Mormon, says his favorite novel is Battlefield Earth by L Ron Hubbard, founder of Scientology; says he is not in favor of Scientology but thinks book is fun science-fiction (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>''What's your favorite novel?'' is a perennial campaign question, the answer to which presumably gives insight into leadership.</p>
+        <p>A ''Moby-Dick'' lover may understand the perils of obsessively chasing of a goal. A fan of ''To Kill a Mockingbird'' may well focus on racial justice.</p>
+      </block>
+      <block class="full_text">
+        <p>''What's your favorite novel?'' is a perennial campaign question, the answer to which presumably gives insight into leadership.</p>
+        <p>A ''Moby-Dick'' lover may understand the perils of obsessively chasing of a goal. A fan of ''To Kill a Mockingbird'' may well focus on racial justice.</p>
+        <p>When asked his favorite novel in an interview shown yesterday on the Fox News Channel, Mitt Romney pointed to ''Battlefield Earth,'' a novel by L. Ron Hubbard, the founder of Scientology. That book was turned into a film by John Travolta, a Scientologist.</p>
+        <p>A spokesman said later it was one of Mr. Romney's favorite novels.</p>
+        <p>''I'm not in favor of his religion by any means,'' Mr. Romney, a Mormon, said. ''But he wrote a book called 'Battlefield Earth' that was a very fun science-fiction book.'' Asked about his favorite book, Mr. Romney cited the Bible.</p>
+        <p>JIM RUTENBERG</p>
+        <p>CAUCUS: READING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

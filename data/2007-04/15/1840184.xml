@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   CLEMENT, GREGORY, III</title>
+    <meta content="dn041507.3" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="27" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1840184"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">CLEMENT, GREGORY, III</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9502EFDC123AF936A25757C0A9619C8B63" item-length="98" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   CLEMENT, GREGORY, III</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>CLEMENT--Gregory, III, Architect, died at home in Weston, CT, on Wednesday, April 11th, 2007, of melanoma, at 56. Managing Principal of Kohn Pedersen Fox and Fellow of the AIA. Graduate of St. George's School in Newport, RI, and The University of Pennsylvania. Oversaw numerous international and award-winning projects. Respected for his integrity and character. Survived by wife Elizabeth, daughter Lili, sister Tina, and nephews Anawa, Shane and Devin. Donations may be made to the Gregory and Elizabeth Clement Melanoma Research Fund, Abramson Cancer Center of The University of Pennsylvania, 3535 Market St., Suite 750, Philadelphia, PA 19104.</p>
+      </block>
+      <block class="full_text">
+        <p>CLEMENT--Gregory, III, Architect, died at home in Weston, CT, on Wednesday, April 11th, 2007, of melanoma, at 56. Managing Principal of Kohn Pedersen Fox and Fellow of the AIA. Graduate of St. George's School in Newport, RI, and The University of Pennsylvania. Oversaw numerous international and award-winning projects. Respected for his integrity and character. Survived by wife Elizabeth, daughter Lili, sister Tina, and nephews Anawa, Shane and Devin. Donations may be made to the Gregory and Elizabeth Clement Melanoma Research Fund, Abramson Cancer Center of The University of Pennsylvania, 3535 Market St., Suite 750, Philadelphia, PA 19104.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>An Accounting of Daily Gun Deaths</title>
+    <meta content="22myersbox" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Week in Review" name="online_sections"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20070429T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1842223"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE NATION"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Suicides and Suicide Attempts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Firearms</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suicides and Suicide Attempts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E4D9163EF931A15757C0A9619C8B63" item-length="211" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>An Accounting of Daily Gun Deaths</hl1>
+      </hedline>
+      <byline class="print_byline">By BILL MARSH</byline>
+      <byline class="normalized_byline">Marsh, Bill</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>As a single event, the shootings last week at Virginia Tech were horrific in scale. But every day in the United States, dozens of people die from gunfire.</p>
+        <p>In 2004, the most recent year for which figures are available, an average of about 81 people died everyday from gunfire in the United States. The chart below gives a rough accounting of who was killed, and how.</p>
+      </block>
+      <block class="full_text">
+        <p>As a single event, the shootings last week at Virginia Tech were horrific in scale. But every day in the United States, dozens of people die from gunfire.</p>
+        <p>In 2004, the most recent year for which figures are available, an average of about 81 people died everyday from gunfire in the United States. The chart below gives a rough accounting of who was killed, and how.</p>
+        <p>All told, 29,569 people were killed that year by firearms, according to the Centers for Disease Control and Prevention. Another 64,389 were injured, about 176 per day.</p>
+        <p>On the chart, each bullet represents one of the those 81 deaths. They are grouped by the age of the victims, and color-coded to indicate the cause of each fatality:</p>
+        <p>The daily figures are approximations, rounded to the nearest whole number from this calculation: Total 2004 deaths in each group, divided by the 366 days that year.</p>
+        <p>Because some minority groups have relatively fewer gun deaths, they don't appear in a daily tally. But 281 American Indians were killed by guns in 2004, the same proportion of that population as whites; 398 Asians were killed, a rate one-third of whites.</p>
+        <p>To view more statistics on deaths and injuries by gunfire and other causes, visit cdc.gov/ncipc/wisqars/.</p>
+        <p>THE NATION</p>
+        <p>Correction:  April 29, 2007, Sunday  A chart last Sunday on daily gun deaths in the United States included an extraneous symbol in some editions. The symbol, a bullet, represented a single death of a person over 40. There should have been 39 bullets depicted, as the text indicated, not 40.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: April 29, 2007, Sunday</p>
+        <p>A chart last Sunday on daily gun deaths in the United States included an extraneous symbol in some editions. The symbol, a bullet, represented a single death of a person over 40. There should have been 39 bullets depicted, as the text indicated, not 40.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

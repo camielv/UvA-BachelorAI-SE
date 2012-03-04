@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Giant Leap Forward in Computing? Maybe Not</title>
+    <meta content="08slip" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/08/business/yourmoney/08slip.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1838825"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="SLIPSTREAM"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Innovation</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Management</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Operations</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/California</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./West</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/California</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070408T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E1D8173FF93BA35757C0A9619C8B63" item-length="1118" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Giant Leap Forward in Computing? Maybe Not</hl1>
+        <hl2 class="online_headline">A Giant Leap Forward in Computing? Maybe Not</hl2>
+      </hedline>
+      <byline class="print_byline">By JASON PONTIN</byline>
+      <byline class="normalized_byline">Pontin, Jason</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>DID D-Wave Systems achieve the incredible -- a startling advance in computing that would radically expand human capacities for industrial activity and scientific discovery, long before experts believed it possible?</p>
+        <p>It says it did, and many concurred. According to the company and publications like The Economist, D-Wave, a start-up company in Burnaby, British Columbia, demonstrated ''the world's first commercial quantum computer'' in February.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>If a “practical quantum computer” had been built and demonstrated, it would be a wonderful thing.</p>
+      </block>
+      <block class="full_text">
+        <p>DID D-Wave Systems achieve the incredible -- a startling advance in computing that would radically expand human capacities for industrial activity and scientific discovery, long before experts believed it possible?</p>
+        <p>It says it did, and many concurred. According to the company and publications like The Economist, D-Wave, a start-up company in Burnaby, British Columbia, demonstrated ''the world's first commercial quantum computer'' in February.</p>
+        <p>Something certainly happened. At a crowded event at the Computer History Museum in Mountain View, Calif., in the heart of Silicon Valley, a proud and beaming Geordie Rose, the company's founder and chief technology officer, showed how the Orion computer could search for a protein in a database and find the closest match, figure out the optimal seating arrangement for wedding guests and solve a Sudoku puzzle.</p>
+        <p>The purpose of the demonstration, Dr. Rose told me, was ''to run commercially relevant applications on a quantum computer, which has never even been done before -- not even close.''</p>
+        <p>Quantum computing is powerfully glamorous stuff: it partakes of the unworldly weirdness of quantum mechanics, and it promises a new class of quantum algorithms that could solve certain problems exponentially faster than any computer today.</p>
+        <p>If a ''practical quantum computer'' -- as Dr. Rose, who has a doctorate in physics, often describes Orion -- had been built and demonstrated, it would be a wonderful thing: analogous, according to quantum computing's most ardent promoters, to the development of the transistor, or even the harnessing of electricity.</p>
+        <p>But as soon as D-Wave completed its demonstration, there were indignant objections from the people who know quantum computing best: the scientists who spend their lives thinking about such a machine. That's because most academics believed that it would be many more years before anyone could construct one.</p>
+        <p>What was more frustrating, D-Wave provided no evidence to back up its claims: it has released only the sketchiest details about the inner workings of Orion. Something solved the problems at the demonstration, but it might not have been a quantum computer.</p>
+        <p>Scott Aaronson, a theoretical computer scientist at the Institute for Quantum Computing at the University of Waterloo in Canada, fired the first shot. He wrote in his much-read blog, called ''Shtetl-Optimized,'' that Orion would be as useful at problem-solving as ''a roast beef sandwich.'' In an e-mail message to me, Dr. Aaronson denounced Orion as ''hype.'' He said that he could not ''think of any interpretation under which'' Dr. Rose was ''telling the truth.''</p>
+        <p>Many quantum mechanics -- as some like to call themselves -- agree.</p>
+        <p>''D-Wave is misleading the public by calling their device 'a practical quantum computer,' '' said Umesh Vazirani, a computer science professor at the University of California, Berkeley. ''The whole point of quantum computing is achieving a large speedup over classical computers, something that D-Wave hasn't accomplished.''</p>
+        <p>Dr. Rose dismissed such criticism. He characterized D-Wave's approach as bluntly commercial: he expects the marketplace to endorse Orion and doesn't care about evaluations in peer-reviewed journals.</p>
+        <p>''Our approach is to have it start solving problems; how fast it does that becomes the metric by which you're judged,'' he said. ''Compared to the academic approaches, ours is quick and dirty, although I don't think it's any less careful.''</p>
+        <p>The high emotions inspired by the D-Wave controversy derive, perhaps, from the almost metaphysical allure of the field, an allure that has existed since the physicists Paul Benioff and Richard P. Feynman proposed the idea of quantum computing in the early 1980s.</p>
+        <p>In theory, a quantum computer in less than a minute could solve problems that would take millennia for a classical computer to solve.</p>
+        <p>For instance, a practical quantum computer could easily factor large integers, allowing them to break most cryptographic systems. A quantum computer could also simulate the behavior of nanosized structures like drug molecules; such ''quantum simulations'' would mean that biotechnologists could model drugs outside of a laboratory, potentially helping them to develop new therapies.</p>
+        <p>Dr. Rose is not shy about making even grander assertions. He said he believes that a bigger and better Orion computer could also speedily provide optimal solutions to difficult problems with many variables, potentially reshaping such diverse activities as investment, scheduling, logistics, and supply chain management. (Most computer scientists are more cautious: they say the dramatic speedups that Dr. Rose dreams of may be impossible with any quantum computer with a design similar to the Orion.)</p>
+        <p>But real, useful quantum computers, for all their interest and potential, have proved fiendishly difficult to build. To date, quantum computers have been more-or-less successful lab experiments.</p>
+        <p>D-Wave says it has succeeded where others have failed by using a simple design, derived from technologies already used to make standard computer chips. The company describes the Orion as built around a chip made from a superconducting metal called niobium, which becomes a superconductor when chilled to nearly minus 273 degrees Celsius in a bath of liquid helium.</p>
+        <p>Herb Martin, the chief executive of D-Wave, contends that this uncomplicated design will allow the Orion to expand its computing powers so that, by mid-2008, it will be able to tackle real commercial applications. He says D-Wave would earn money by renting time on the Orion as a Web service to businesses that need the power of quantum computing. Additionally, the company might build and rent quantum machines.</p>
+        <p>BUT does Orion work as advertised? No one knows, except for the people at D-Wave. According to the most skeptical of D-Wave's detractors, because Orion can function as a slow analog computer, it's possible that Orion was not really performing quantum operations at all when it was demonstrated at the Computer History Museum.</p>
+        <p>Dr. Rose concedes that his machine is still primitive. ''In terms of the actual time it takes to solve problems, Orion as it currently stands is about 100 times slower than a PC running the best algorithms,'' he says. But he argues that the demonstration in February showed that quantum computing was not merely a research project, and proved that there was a real and imminent value to businesses.</p>
+        <p>At the very least, his investors agree. Dr. Rose has raised $44 million in funding since starting his company in 1999, attracting the backing of venture capitalists like Steve Jurvetson of Draper Fisher Jurvetson.</p>
+        <p>At this point, we can say that Orion may be a demonstration of a quantum computer that can solve a limited set of specific problems. One day, it may offer significant increases in speed.</p>
+        <p>But for now, in lieu of direct evidence, it is very slow and not very useful. When D-Wave begins to allow outsiders to play with the Orion later this year, and if its inventors explain how the marvelous machine actually works, the company's critics may become more generous.</p>
+        <p>SLIPSTREAM Jason Pontin is the editor in chief and publisher of Technology Review, a magazine and Web site owned by M.I.T. E-mail: pontin@nytimes.com.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Jason Pontin is the editor in chief and publisher of Technology Review, a magazine and Web site owned by M.I.T. E-mail: pontin@nytimes.com.</tagline>
+    </body.end>
+  </body>
+</nitf>

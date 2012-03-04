@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>BARS</title>
+    <meta content="25dbrie-3" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining, Dining Out/Cultural Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Arts; Dining and Wine" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1842852"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="DINING BRIEFS"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer and Video Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bars</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070425T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E3D8143EF936A15757C0A9619C8B63" item-length="331" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>BARS</hl1>
+      </hedline>
+      <byline class="print_byline">By PETER MEEHAN</byline>
+      <byline class="normalized_byline">Meehan, Peter</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>This week the Dining section introduces Dining Briefs, short reviews that include first looks at new restaurants, updates on places that have been reviewed or overlooked and critiques of bars and lounges that offer noteworthy drinks and food. The feature will provide an informed opinion on places around New York City that are worth consideration even if they don't receive a full review in Frank Bruni's Restaurants column or in $25 and Under. Dining Briefs will alternate every other week with $25 and Under.</p>
+        <p>BARCADE  388 Union Avenue (Ainslie Street), Williamsburg, Brooklyn; (718) 302-6464, barcadebrooklyn.com.</p>
+        <p>If one were to construct a Venn diagram of different types of dorkiness, there would certainly be an overlap between the circles drawn for beer geeks and for video gamers.</p>
+      </block>
+      <block class="full_text">
+        <p>This week the Dining section introduces Dining Briefs, short reviews that include first looks at new restaurants, updates on places that have been reviewed or overlooked and critiques of bars and lounges that offer noteworthy drinks and food. The feature will provide an informed opinion on places around New York City that are worth consideration even if they don't receive a full review in Frank Bruni's Restaurants column or in $25 and Under. Dining Briefs will alternate every other week with $25 and Under.</p>
+        <p>BARCADE  388 Union Avenue (Ainslie Street), Williamsburg, Brooklyn; (718) 302-6464, barcadebrooklyn.com.</p>
+        <p>If one were to construct a Venn diagram of different types of dorkiness, there would certainly be an overlap between the circles drawn for beer geeks and for video gamers.</p>
+        <p>Barcade, in Williamsburg, is aimed at that demographic -- people who spent too much time tinkering with carboys and Mega Men in their youth -- as well as those who have moved on to gainful employment and unpixelated life partners (but who still enjoy a good pint and a sore thumb the morning after).</p>
+        <p>The bar, housed in a sprawling old garage with 25-foot ceilings, is lined on one side with an excellent selection of quarter-operated video games from the '80s.</p>
+        <p>Opposite them is a row of 25 taps dedicated exclusively to American craft beers, including one cask ale line. Much of the beer is from the Northeast, from breweries (like Climax, Brick House and Middle Ages) that aren't represented in even the city's best watering holes.</p>
+        <p>Barcade serves no bottles and no pandering mass market brews. (Like it light and easy? Try Victory Prima Pils.) The bar regularly turns over most of its taps to beers from a single producer.</p>
+        <p>The often loud and frequently packed (especially on weekends) spot isn't for everyone. But for some the opportunity to pound a pint of Druid Fluid while the Gauntlet machine robotically sputters ''Remember, don't shoot food!'' is too good to pass by.</p>
+        <p>PETER MEEHAN</p>
+        <p>DINING BRIEFS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

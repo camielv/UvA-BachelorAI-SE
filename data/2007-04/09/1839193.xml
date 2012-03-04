@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Critic's Choice: New CDs</title>
+    <meta content="09choi-4" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1839193"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070409T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E00EED6143FF93AA35757C0A9619C8B63" item-length="229" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Critic's Choice: New CDs</hl1>
+      </hedline>
+      <byline class="print_byline">By JON PARELES</byline>
+      <byline class="normalized_byline">Pareles, Jon</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Laura Veirs  ''Saltbreakers'' (Nonesuch)</p>
+        <p>Laura Veirs starts her sixth album with an apology -- ''Sorry I was cruel/I was protecting myself'' -- and she goes on to sing often about the heartbroken aftermath of a breakup. Her voice is girlish and unassuming, sometimes breathless, and her songs often begin with acoustic guitar picking. But she's no coffeehouse folkie all wrapped up in herself.</p>
+      </block>
+      <block class="full_text">
+        <p>Laura Veirs  ''Saltbreakers'' (Nonesuch)</p>
+        <p>Laura Veirs starts her sixth album with an apology -- ''Sorry I was cruel/I was protecting myself'' -- and she goes on to sing often about the heartbroken aftermath of a breakup. Her voice is girlish and unassuming, sometimes breathless, and her songs often begin with acoustic guitar picking. But she's no coffeehouse folkie all wrapped up in herself.</p>
+        <p>On ''Saltbreakers,'' as on her previous albums, her inner thoughts are inseparable from the natural world. She envisions herself amid woodlands, mountains, starry skies and, as the album title suggests, the sea. In the song ''Saltbreakers'' she's ''a fallen leaf who keeps her green,'' and in ''Wrecking'' she's flotsam in a vast ocean: ''I wondered if the waves/Had taken all of me.''</p>
+        <p>The music expands to reflect the landscapes and skyscapes. Her guitar picking can intertwine with her band in cozily hypnotic minimalistic patterns, or it can carry her toward bright pop choruses like the one that counters the apocalyptic thoughts in ''Don't Lose Yourself.''</p>
+        <p>Pain flickers in her new songs, especially in a distortion-edged indie-rocker, ''Phantom Mountain,'' where she obsessively repeats ''I could not tell the truth'' before adding ''from a mirage.'' But she also finds the consolation of seeing her own sorrows within natural cycles of destruction and rebirth: ''The sun's been known to shine,'' she insists, ''on our wandering kind.''</p>
+        <p>JON PARELES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

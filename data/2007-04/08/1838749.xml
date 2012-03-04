@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Vehicles Thieves Covet</title>
+    <meta content="08TECH" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Automobiles" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="12" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Automobiles" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/08/automobiles/08TECH.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1838749"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="descriptor">Robberies and Thefts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Robberies and Thefts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070408T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9805E5DE173FF93BA35757C0A9619C8B63" item-length="206" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Vehicles Thieves Covet</hl1>
+        <hl2 class="online_headline">The Vehicles Thieves Covet</hl2>
+      </hedline>
+      <byline class="print_byline">By ROBERT PEELE</byline>
+      <byline class="normalized_byline">Peele, Robert</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>TWO reports on auto theft offer different views on which models are most popular with car thieves.</p>
+        <p>The National Insurance Crime Bureau's study is based on theft reports compiled by the National Crime Information Center. It ranks the total number of vehicles stolen by make, model and year. The bureau does not adjust its listing to reflect the rate of theft for each model.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Two reports on auto theft offer different views on which models are most popular with car thieves.</p>
+      </block>
+      <block class="full_text">
+        <p>TWO reports on auto theft offer different views on which models are most popular with car thieves.</p>
+        <p>The National Insurance Crime Bureau's study is based on theft reports compiled by the National Crime Information Center. It ranks the total number of vehicles stolen by make, model and year. The bureau does not adjust its listing to reflect the rate of theft for each model.</p>
+        <p>Its most-stolen vehicles for 2005:</p>
+        <p>1. 1991 Honda Accord</p>
+        <p>2. 1995 Honda Civic</p>
+        <p>3. 1989 Toyota Camry</p>
+        <p>4. 1994 Dodge Caravan</p>
+        <p>5. 1994 Nissan Sentra</p>
+        <p>6. 1997 Ford F-150 series</p>
+        <p>7. 1990 Acura Integra</p>
+        <p>8. 1986 Toyota pickup</p>
+        <p>9. 1993 Saturn SL</p>
+        <p>10. 2004 Dodge Ram</p>
+        <p>The Highway Loss Data Institute, an affiliate of the Insurance Institute for Highway Safety, ranks the vehicles by the number of theft claims in relation to the total number of each make and model insured.</p>
+        <p>Cars with the highest claim rates in 2003-5:</p>
+        <p>1. Cadillac Escalade</p>
+        <p>2. Mitsubishi Lancer Evolution</p>
+        <p>3. Dodge Ram 1500 Quad Cab</p>
+        <p>4. Ford F-250/350 SuperCrew 4WD (2005 only)</p>
+        <p>5. Chrysler Sebring (2004-5)</p>
+        <p>Cars with the lowest rates:</p>
+        <p>1. Ford Taurus</p>
+        <p>2. Pontiac Vibe AWD</p>
+        <p>3. Buick LeSabre</p>
+        <p>4. Buick Park Avenue</p>
+        <p>5. Toyota Sienna AWD (2004-5)</p>
+        <p>ROBERT PEELE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

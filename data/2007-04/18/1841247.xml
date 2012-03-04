@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>World Briefing | Europe: Germany: Army Trainer Dismissed</title>
+    <meta content="18briefs-2" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1841247"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070418T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D04E7DA1E3FF93BA25757C0A9619C8B63" item-length="65" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>World Briefing | Europe: Germany: Army Trainer Dismissed</hl1>
+      </hedline>
+      <byline class="print_byline">By VICTOR HOMOLA</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The German Army dismissed an instructor who was filmed in a training exercise telling a recruit to imagine he was firing his machine gun at African-Americans in the Bronx. The Defense Ministry said the instructor, a lance corporal, had been stripped of his rank and pay. The soldier who filmed the scenes with his camera phone is still under investigation.</p>
+        <p>VICTOR HOMOLA</p>
+      </block>
+      <block class="full_text">
+        <p>The German Army dismissed an instructor who was filmed in a training exercise telling a recruit to imagine he was firing his machine gun at African-Americans in the Bronx. The Defense Ministry said the instructor, a lance corporal, had been stripped of his rank and pay. The soldier who filmed the scenes with his camera phone is still under investigation.</p>
+        <p>VICTOR HOMOLA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

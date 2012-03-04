@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Seeking a Car That Gets 100 Miles a Gallon</title>
+    <meta content="02xprize" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/02/business/02xprize.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837494"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Innovation</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles/Topics/Green Tech</classifier>
+        <classifier class="online_producer" type="descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="descriptor">Contests and Prizes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gas (Fuel)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Inventions and Patents</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Contests and Prizes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+        <org class="online_producer">X Prize Foundation</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070402T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04E0D91E30F931A35757C0A9619C8B63" item-length="499" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Seeking a Car That Gets 100 Miles a Gallon</hl1>
+        <hl2 class="online_headline">Seeking a Car That Gets 100 Miles a Gallon</hl2>
+      </hedline>
+      <byline class="print_byline">By NICK BUNKLEY</byline>
+      <byline class="normalized_byline">Bunkley, Nick</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The race is on to develop a commercially viable car that can travel 100 miles on a gallon of gasoline.</p>
+        <p>The same group that awarded $10 million to a team that built the first private spacecraft to leave the earth's atmosphere is expected to announce today the rules  for its automotive competition.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The X Prize Foundation is expected to announce a competition to develop a commercially viable car that can travel 100 miles on a gallon of gasoline.</p>
+      </block>
+      <block class="full_text">
+        <p>The race is on to develop a commercially viable car that can travel 100 miles on a gallon of gasoline.</p>
+        <p>The same group that awarded $10 million to a team that built the first private spacecraft to leave the earth's atmosphere is expected to announce today the rules  for its automotive competition.</p>
+        <p>The group, the X Prize Foundation, says that the automotive contest, expected to carry a prize of more than $10 million, could have a significant effect on the automobile industry by speeding up efforts to use alternative fuels and reduce consumption. The average fuel economy of vehicles sold in the United States has remained nearly stagnant -- around 20 miles a gallon -- for decades.</p>
+        <p>''The industry is stuck, and we think a prize is perfect to disrupt that dynamic,'' said Mark Goodstein, executive director of the Automotive X Prize. ''Failure is frowned upon in this industry, and that doesn't make for big advances. It makes for incrementalism.''</p>
+        <p>Even before it began publicizing a draft of the rules for the competition, the foundation had fielded inquiries from more than 1,000 potential contestants and institutions willing to participate. Many major automakers have also expressed interest in monitoring the contest, including some that are considering competing themselves.</p>
+        <p>Ideally, Mr. Goodstein said, some of the top teams would see their designs purchased and used in some form by automakers.</p>
+        <p>A General Motors spokeswoman, Susan Garavaglia, said the company had not determined its level of participation in the contest but would pay close attention to it.</p>
+        <p>''G.M. is always looking for new innovative technology to improve fuel economy and performance and reduce emissions of our vehicles,'' Ms. Garavaglia said. ''The key is whether or not it can be provided to the customer in a way that's affordable to them and in a way that we can make it in a high-volume application.''</p>
+        <p>Indeed, the organizers want to ensure that vehicles entered in the contest, which will compete in races in 2009 to determine the winner, are commercially viable. Entries must be production-ready, unlike many of the fantastical concept cars that are presented at auto shows. Each team must prepare a business plan for building at least 10,000 of the vehicles at a cost comparable to that of cars available now.</p>
+        <p>In fact, several cars have been built that could travel more than 100 miles on a gallon, but they were expensive and were used only for demonstration.</p>
+        <p>''Building a one-off that can go 100 miles per gallon, I think any of the automakers could do that,'' said James A. Croce, chief executive of NextEnergy, a nonprofit organization in Detroit that promotes alternative energy. ''It's mass-producing them that's the problem.''</p>
+        <p>But if the Automotive X Prize works as intended, that problem could be resolved much faster than the industry might on its own.</p>
+        <p>''This is not a question of curing cancer,'' Mr. Goodstein said. ''The technologies to build superefficient vehicles exist. It's just a matter of convincing manufacturers to build them.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   BAREISS, WALTER</title>
+    <meta content="dn042607.1" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1842896"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">BAREISS, WALTER</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070426T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9801E1DE163AF935A15757C0A9619C8B63" item-length="99" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   BAREISS, WALTER</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BAREISS--Walter, was not only a passionate collector with a remarkable eye for art, he was also an exceptional human being with an eye for people he could help along the way. With his unceasingly gracious and caring wife, the late Molly Stimson Bareiss, he touched and transformed the lives of a small army of people -many artists, many not -both here and abroad. Consequently, this passionate collector of art became an inadvertent, compassionate collector of friends who remain a living monument to his guidance, support, and caring. He will be greatly missed. Caryl Avery Les Zuke Joan FitzGerald</p>
+      </block>
+      <block class="full_text">
+        <p>BAREISS--Walter, was not only a passionate collector with a remarkable eye for art, he was also an exceptional human being with an eye for people he could help along the way. With his unceasingly gracious and caring wife, the late Molly Stimson Bareiss, he touched and transformed the lives of a small army of people -many artists, many not -both here and abroad. Consequently, this passionate collector of art became an inadvertent, compassionate collector of friends who remain a living monument to his guidance, support, and caring. He will be greatly missed. Caryl Avery Les Zuke Joan FitzGerald</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

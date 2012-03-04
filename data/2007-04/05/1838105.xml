@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Rove Influence</title>
+    <meta content="l05rove" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838105"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070405T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE7DB163FF936A35757C0A9619C8B63" item-length="137" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Rove Influence</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In your enumeration of many of the current Washington scandals, and the concomitant presence of Karl Rove's ''tracks'' everywhere (''The Rovian Era,'' editorial, April 1), the most significant scandal was unmentioned: the Iraq war.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In your enumeration of many of the current Washington scandals, and the concomitant presence of Karl Rove's ''tracks'' everywhere (''The Rovian Era,'' editorial, April 1), the most significant scandal was unmentioned: the Iraq war.</p>
+        <p>Many of us believe that the primary reason for the invasion was to facilitate the accumulation of overwhelming political capital and post-Desert-Storm-like favorability ratings, from the achievement of an easy and decisive military victory over a widely perceived embodiment of evil associated (falsely) with 9/11.</p>
+        <p>The aim was to manipulate post-9/11 anger and to then use postwar euphoria as a means to guarantee the implementation of the Bush administration's economic, social and political agenda.</p>
+        <p>Surely Mr. Rove's tracks are similarly omnipresent near the dice that were rolled toward that end.</p>
+        <p>Alan J. Ross  Newton, Mass., April 1, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

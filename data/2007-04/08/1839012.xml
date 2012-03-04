@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Up Front</title>
+    <meta content="Upfront.t" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/08/books/review/Upfront.t.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1839012"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="descriptor">Books and Literature</classifier>
+        <classifier class="online_producer" type="descriptor">Poetry and Poets</classifier>
+        <classifier class="online_producer" type="general_descriptor">Poetry and Poets</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+        <person class="online_producer">Logan, William</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070408T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9805E1D71130F93BA35757C0A9619C8B63" item-length="240" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Up Front</hl1>
+        <hl2 class="online_headline">Up Front</hl2>
+      </hedline>
+      <byline class="print_byline">By The Editors</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>William Logan, who wrote this week's cover review, is known in the poetry world as a critic who doesn't mince words. His recent and largely negative assessment in these pages of a volume of Hart Crane's poetry and letters, for example, brought in dozens of angry letters. Logan's response to those who don't like his plain-spoken reviews?</p>
+        <p>''I've never thought poetry critics ought to be publicity agents by another name,'' he explained in an e-mail message. ''Poetry is often treated as a poor stepchild of literature that needs to have its head patted.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>William Logan is known in the poetry world as a critic who doesn’t mince words.</p>
+      </block>
+      <block class="full_text">
+        <p>William Logan, who wrote this week's cover review, is known in the poetry world as a critic who doesn't mince words. His recent and largely negative assessment in these pages of a volume of Hart Crane's poetry and letters, for example, brought in dozens of angry letters. Logan's response to those who don't like his plain-spoken reviews?</p>
+        <p>''I've never thought poetry critics ought to be publicity agents by another name,'' he explained in an e-mail message. ''Poetry is often treated as a poor stepchild of literature that needs to have its head patted.''</p>
+        <p>Logan, who teaches at the University of Florida and has published several books of both poetry and criticism, began his career, he told us, as a rock critic for a now forgotten magazine. ''I became a poetry critic because I found I hated most of the lyrics I had to listen to, and the pay was a little better.'' One of the benefits of reviewing poetry, as opposed to novels, he said, is that ''the books tend to be shorter. Anyone who doesn't think this an advantage hasn't reviewed the latest Thomas Pynchon novel.''</p>
+        <p>One of the first poetry books Logan ever reviewed, he said, was a collection by Derek Walcott, this week's cover subject. ''Criticism has no greater pleasure than discovery, even if belated,'' Logan told us. ''When a critic stops making discoveries, it's time for him to hang up his pen.''</p>
+        <p>The Editors</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

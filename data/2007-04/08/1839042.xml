@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Gordon Ramsay Spreads His Culinary Tentacles</title>
+    <meta content="08transchef" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Travel" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1839042"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="IN TRANSIT"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Restaurants</classifier>
+        <location class="indexing_service">London (Eng)</location>
+        <org class="indexing_service">Narrow (London Restaurant)</org>
+        <org class="indexing_service">Warrington (London Restaurant)</org>
+        <person class="indexing_service">Ramsay, Gordon</person>
+        <person class="indexing_service">Colin, Jennifer</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Britain/England/London</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Britain</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Britain/England</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070408T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B03E0DE1F30F93BA35757C0A9619C8B63" item-length="177" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Gordon Ramsay Spreads His Culinary Tentacles</hl1>
+      </hedline>
+      <byline class="print_byline">By JENNIFER CONLIN</byline>
+      <abstract>
+        <p>Celebrity chef Gordon Ramsay opens upscale pub, Narrow, in London's East End; plans to open another 'gastropub,' Warrington, in Maida Vale section of London later this year; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Gordon Ramsay, the celebrity chef known for such food programs as ''Hell's Kitchen'' in the United States and ''The F-Word'' in Britain, has opened yet another eating establishment in a city already overpopulated with dining rooms bearing his brand. Adding to his roster of nine other London restaurants -- including one at Claridge's and another in the Savoy -- not to mention his outposts in New York, Dubai and Tokyo, Mr. Ramsay last month opened an upscale pub (above) on the banks of the Thames in the East End.</p>
+        <p>It is called the Narrow, and the menu features such dishes as potted Cromer crab and Gloucester pig cheeks with bashed neeps. Guests who don't fancy a pint of beer can always try the pub's original cocktails--though the Wallpaper (Cachaça, passion fruit, vanilla gomme and a touch of chili) sounds more like what the river just washed up than a tasty cocktail. What's next for Mr. Ramsay? Later this year he plans to open yet another ''gastropub,'' the Warrington, in the Maida Vale section of London.</p>
+      </block>
+      <block class="full_text">
+        <p>Gordon Ramsay, the celebrity chef known for such food programs as ''Hell's Kitchen'' in the United States and ''The F-Word'' in Britain, has opened yet another eating establishment in a city already overpopulated with dining rooms bearing his brand. Adding to his roster of nine other London restaurants -- including one at Claridge's and another in the Savoy -- not to mention his outposts in New York, Dubai and Tokyo, Mr. Ramsay last month opened an upscale pub (above) on the banks of the Thames in the East End.</p>
+        <p>It is called the Narrow, and the menu features such dishes as potted Cromer crab and Gloucester pig cheeks with bashed neeps. Guests who don't fancy a pint of beer can always try the pub's original cocktails--though the Wallpaper (Cachaça, passion fruit, vanilla gomme and a touch of chili) sounds more like what the river just washed up than a tasty cocktail. What's next for Mr. Ramsay? Later this year he plans to open yet another ''gastropub,'' the Warrington, in the Maida Vale section of London.  IN TRANSIT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

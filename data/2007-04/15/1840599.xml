@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>30 SECONDS WITH ANDREW FRIEDMAN</title>
+    <meta content="15seconds" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/15/sports/baseball/15seconds.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840599"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="30 Seconds"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Interview</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/Tampa Bay Devil Rays</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/Tampa Bay Rays</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="descriptor">Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+        <org class="online_producer">Tampa Bay Devil Rays</org>
+        <person class="online_producer">Friedman, Andrew</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E2DC103FF936A25757C0A9619C8B63" item-length="313" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>30 SECONDS WITH ANDREW FRIEDMAN</hl1>
+        <hl2 class="online_headline">With Andrew Friedman</hl2>
+      </hedline>
+      <byline class="print_byline">By MICHAEL S. SCHMIDT</byline>
+      <byline class="normalized_byline">Schmidt, Michael S</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Andrew Friedman became executive vice president for baseball operations with the Tampa Bay Devil Rays in 2005, when he was 28. Before that, he worked for investment and private equity firms.</p>
+        <p>MICHAEL S. SCHMIDT</p>
+        <p>WHAT DO YOU DO IN YOUR FREE TIME? -- In the last 16 months since I began this job, there has been a lot of change and turnover. Unfortunately, there is not a whole lot of exciting stuff to report. I try to travel and read as much as possible.</p>
+        <p>WHAT ARE YOU READING? -- I am reading Barack Obama's book ''The Audacity of Hope.''</p>
+        <p>DO YOU SUPPORT OBAMA? -- No, just learning and reading.</p>
+        <p>WHAT IS YOUR FAVORITE BOOK? -- Probably ''The Art of War.'' It has a message that is lasting. It was written long ago but is important to today and applicable to many things I do in my life.</p>
+        <p>DO YOU USE IT ON THE JOB? -- It is very good from a process standpoint and problem solving. It arms you with some pretty good ways to look at things.</p>
+        <p>MOST SURPRISING CHALLENGE WITH THE DEVIL RAYS -- How important it is to be prepared because of the fast-moving pace of things, where one week you may have an opportunity to do something and a week later you don't.</p>
+        <p>THE TEAM HAS NEVER HAD A WINNING RECORD IN ITS NINE SEASONS -- The last couple of years we have talked a lot about the future, but the future is upon us. Our 25-man roster is extremely talented, and the one thing it is lacking is experience. It's important to expedite that process. By the end of this year, we look forward to getting to the point where we can identify what we need to focus on in free agency and trades.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Andrew Friedman became executive vice president for baseball operations with the Tampa Bay Devil Rays in 2005, when he was 28.</p>
+      </block>
+      <block class="full_text">
+        <p>Andrew Friedman became executive vice president for baseball operations with the Tampa Bay Devil Rays in 2005, when he was 28. Before that, he worked for investment and private equity firms.</p>
+        <p>MICHAEL S. SCHMIDT</p>
+        <p>WHAT DO YOU DO IN YOUR FREE TIME? -- In the last 16 months since I began this job, there has been a lot of change and turnover. Unfortunately, there is not a whole lot of exciting stuff to report. I try to travel and read as much as possible.</p>
+        <p>WHAT ARE YOU READING? -- I am reading Barack Obama's book ''The Audacity of Hope.''</p>
+        <p>DO YOU SUPPORT OBAMA? -- No, just learning and reading.</p>
+        <p>WHAT IS YOUR FAVORITE BOOK? -- Probably ''The Art of War.'' It has a message that is lasting. It was written long ago but is important to today and applicable to many things I do in my life.</p>
+        <p>DO YOU USE IT ON THE JOB? -- It is very good from a process standpoint and problem solving. It arms you with some pretty good ways to look at things.</p>
+        <p>MOST SURPRISING CHALLENGE WITH THE DEVIL RAYS -- How important it is to be prepared because of the fast-moving pace of things, where one week you may have an opportunity to do something and a week later you don't.</p>
+        <p>THE TEAM HAS NEVER HAD A WINNING RECORD IN ITS NINE SEASONS -- The last couple of years we have talked a lot about the future, but the future is upon us. Our 25-man roster is extremely talented, and the one thing it is lacking is experience. It's important to expedite that process. By the end of this year, we look forward to getting to the point where we can identify what we need to focus on in free agency and trades.  30 Seconds</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

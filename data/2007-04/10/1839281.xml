@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Barnard President Will Step Down Next Year</title>
+    <meta content="10barnard" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Education; New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/10/education/10barnard.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1839281"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <org class="online_producer">Barnard College</org>
+        <person class="online_producer">Shapiro, Judith R</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070410T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F04EFDD153FF933A25757C0A9619C8B63" item-length="385" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Barnard President Will Step Down Next Year</hl1>
+        <hl2 class="online_headline">Barnard President Will Step Down</hl2>
+      </hedline>
+      <byline class="print_byline">By TAMAR LEWIN</byline>
+      <byline class="normalized_byline">Lewin, Tamar</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Judith R. Shapiro, who has been the president of Barnard College since 1994, announced at a faculty meeting yesterday that she plans to step down at the end of the 2007-8 school year.</p>
+        <p>''Fourteen years is a long run on Broadway or, for that matter, in any college or university,'' Ms. Shapiro said in a letter to be released today.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Judith R. Shapiro, who has been the president of Barnard College since 1994, announced that she plans to step down at the end of the 2007-8 school year.</p>
+      </block>
+      <block class="full_text">
+        <p>Judith R. Shapiro, who has been the president of Barnard College since 1994, announced at a faculty meeting yesterday that she plans to step down at the end of the 2007-8 school year.</p>
+        <p>''Fourteen years is a long run on Broadway or, for that matter, in any college or university,'' Ms. Shapiro said in a letter to be released today.</p>
+        <p>''The timing is right for this transition. We have arrived at a place where Barnard is among the strongest colleges in the country, and the most sought-after women's college.''</p>
+        <p>Ms. Shapiro, 65, a cultural anthropologist who specializes in gender differences, has been a champion of single-sex colleges. In 2001, she convened the Barnard Summit on women and leadership, with panelists who included former Attorney General Janet Reno; Marian Wright Edelman, the children's activist; and Lt. Gen. Claudia Kennedy, the Army's first female three-star general. She was one of the first college presidents to identify and discuss the advent of so-called ''helicopter parents,'' who are heavily involved in their children's college experience.</p>
+        <p>Barnard, which has 2,300 students and was founded in 1889, came close to being merged in the early 1980s with its affiliate, Columbia, the men's college directly across Broadway. After a decade of failed negotiations for a merger, Barnard and Columbia signed an agreement in 1982 allowing Barnard to retain its affiliation with Columbia, while remaining an independent women's college with its own trustees.</p>
+        <p>Applications to Barnard dropped in the first few years after Columbia began admitting women undergraduates, in 1983, but during Ms. Shapiro's tenure, Barnard has reported receiving a record number of applications. There were 4,599 applicants for this year's freshman class, up from 2,734 the year she took office. Last year, Barnard admitted 25 percent of its applicants, down from 55 percent in Ms. Shapiro's first year as president.</p>
+        <p>Barnard has been thriving financially. The endowment has grown to $171 million, from $70 million when Ms. Shapiro arrived, college officials said, and annual unrestricted gifts have doubled in the last five or six years.</p>
+        <p>Ms. Shapiro received her doctorate in anthropology from Columbia in 1972, and was provost of Bryn Mawr before coming to Barnard.</p>
+        <p>A search committee for her successor will be formed in a few weeks, college officials said, and will include trustees and faculty members.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

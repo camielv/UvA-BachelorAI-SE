@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   DOHERTY, DENNIS</title>
+    <meta content="dn050107" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1844139"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">DOHERTY, DENNIS</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070501T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402E3DB163AF932A35756C0A9619C8B63" item-length="72" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   DOHERTY, DENNIS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>DOHERTY--Dennis. Formerly of Inwood on April 28, 2007. Dear brother of John, Joan, Ellen and the late Kathleen. Loving uncle of Colin, Allison, Nicole and Daniel. Funeral mass Thursday, May 3 at 10am at Good Shepherd Church, NYC. Reposing at Riverdale Funeral Home, 5044 Broadway, New York, NY on Wednesday from 2-4 and 7-9pm. In lieu of flowers, donations to The Mary Manning Walsh home, 1339 York Avenue, NY, NY 10019.</p>
+      </block>
+      <block class="full_text">
+        <p>DOHERTY--Dennis. Formerly of Inwood on April 28, 2007. Dear brother of John, Joan, Ellen and the late Kathleen. Loving uncle of Colin, Allison, Nicole and Daniel. Funeral mass Thursday, May 3 at 10am at Good Shepherd Church, NYC. Reposing at Riverdale Funeral Home, 5044 Broadway, New York, NY on Wednesday from 2-4 and 7-9pm. In lieu of flowers, donations to The Mary Manning Walsh home, 1339 York Avenue, NY, NY 10019.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

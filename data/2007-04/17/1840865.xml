@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   FANNING, MARGARET FRUEAUFF</title>
+    <meta content="dn041707.1" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1840865"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">FANNING, MARGARET FRUEAUFF</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070417T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE2D91F3AF934A25757C0A9619C8B63" item-length="69" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   FANNING, MARGARET FRUEAUFF</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>FANNING--Margaret Frueauff, actress and director, known on the Broadway Stage as Margaret Perry. Daughter of Antoinette Perry and Frank Frueauff. Born in Denver in 1913 she passed away at home in Colorado at age 94. Survived by sons and daughter and numerous grandchildren and greatgrandchildren. She had a great run and will be deeply missed. Cards only, care of Salt Works Ranch, P.O. Box 26, Hartsel, CO, 80449.</p>
+      </block>
+      <block class="full_text">
+        <p>FANNING--Margaret Frueauff, actress and director, known on the Broadway Stage as Margaret Perry. Daughter of Antoinette Perry and Frank Frueauff. Born in Denver in 1913 she passed away at home in Colorado at age 94. Survived by sons and daughter and numerous grandchildren and greatgrandchildren. She had a great run and will be deeply missed. Cards only, care of Salt Works Ranch, P.O. Box 26, Hartsel, CO, 80449.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

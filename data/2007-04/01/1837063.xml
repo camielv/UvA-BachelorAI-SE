@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Theyre Big in Japan</title>
+    <meta content="04remix.cibone.t" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="T: Design Magazine" name="dsk"/>
+    <meta content="42" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Style; Magazine" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/01/style/tmagazine/04remix.cibone.t.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837063"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="The Remix"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/T: Style Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Japan</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Japan/Tokyo</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Japan</classifier>
+        <location class="online_producer">Tokyo (Japan)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F05EFDA1230F932A35757C0A9619C8B63" item-length="164" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Theyre Big in Japan</hl1>
+        <hl2 class="online_headline">They’re Big in Japan</hl2>
+      </hedline>
+      <byline class="print_byline">By Monica Khemsurov</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A new line of furniture at Cibone, the massive lifestyle store that sets the bar for cutting-edge design among Tokyo tastemakers, is meant to answer the question ''What do people really want?'' The answer, of course, isn't simple -- spare architectural couches by the retail design darlings Wonderwall, rough-hewn wooden tables by the Dutch craftsman Piet Hein Eek (above) and bizarre cabinets with fake-fur cabriole legs by the jewelry design duo e.m. Cibone has attempted to unite the diverse collection of 20 objects from eight international designers under the playfully vague heading of ''Non-design Design,'' but outsiders will be struck more by the subtle details that make many of the pieces uniquely Japanese: Eek used local woodworking techniques and scaled down his furnishings to fit the proportions of a Tokyo home, while the Israeli designer Ron Gilad's mummified lamps recall traditional rice-paper shades, but in prototypically Western silhouettes that look plucked from the set of ''The Golden Girls.'' Go to www.cibone.com.</p>
+        <p>Monica Khemsurov</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>International furniture stars fill a niche in Tokyo.</p>
+      </block>
+      <block class="full_text">
+        <p>A new line of furniture at Cibone, the massive lifestyle store that sets the bar for cutting-edge design among Tokyo tastemakers, is meant to answer the question ''What do people really want?'' The answer, of course, isn't simple -- spare architectural couches by the retail design darlings Wonderwall, rough-hewn wooden tables by the Dutch craftsman Piet Hein Eek (above) and bizarre cabinets with fake-fur cabriole legs by the jewelry design duo e.m. Cibone has attempted to unite the diverse collection of 20 objects from eight international designers under the playfully vague heading of ''Non-design Design,'' but outsiders will be struck more by the subtle details that make many of the pieces uniquely Japanese: Eek used local woodworking techniques and scaled down his furnishings to fit the proportions of a Tokyo home, while the Israeli designer Ron Gilad's mummified lamps recall traditional rice-paper shades, but in prototypically Western silhouettes that look plucked from the set of ''The Golden Girls.'' Go to www.cibone.com.</p>
+        <p>Monica Khemsurov  The Remix</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

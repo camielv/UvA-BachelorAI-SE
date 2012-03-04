@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New Cultural Commissioner For Los Angeles</title>
+    <meta content="18mana" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/18/arts/design/18mana.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1841100"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/California</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./West</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/California/Los Angeles</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/California</classifier>
+        <classifier class="online_producer" type="descriptor">Art</classifier>
+        <classifier class="online_producer" type="descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+        <classifier class="online_producer" type="general_descriptor">Culture</classifier>
+        <location class="online_producer">Los Angeles (Calif)</location>
+        <org class="online_producer">Duke, Doris, Charitable Foundation</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070418T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9901E5DE1E3FF93BA25757C0A9619C8B63" item-length="361" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New Cultural Commissioner For Los Angeles</hl1>
+        <hl2 class="online_headline">New Cultural Commissioner for Los Angeles</hl2>
+      </hedline>
+      <byline class="print_byline">By EDWARD WYATT</byline>
+      <byline class="normalized_byline">Wyatt, Edward</byline>
+      <dateline>LOS ANGELES, April 17</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Olga Garay, former director of the arts program for the Doris Duke Charitable Foundation and currently a consultant to New York arts institutions, has been nominated as general manager of the Los Angeles department of cultural affairs, the city's top public arts post.</p>
+        <p>Mayor Antonio Villaraigosa, who announced the appointment on Monday, said Ms. Garay would oversee the development of a new cultural master plan for the city. Her appointment is subject to confirmation by the Los Angeles City Council.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Olga Garay, former director of the arts program for the Doris Duke Charitable Foundation, has been nominated for the city’s top public arts post.</p>
+      </block>
+      <block class="full_text">
+        <p>Olga Garay, former director of the arts program for the Doris Duke Charitable Foundation and currently a consultant to New York arts institutions, has been nominated as general manager of the Los Angeles department of cultural affairs, the city's top public arts post.</p>
+        <p>Mayor Antonio Villaraigosa, who announced the appointment on Monday, said Ms. Garay would oversee the development of a new cultural master plan for the city. Her appointment is subject to confirmation by the Los Angeles City Council.</p>
+        <p>Ms. Garay (pronounced gah-RYE) will succeed Margie Reese, who stepped down last summer.</p>
+        <p>In an interview, Ms. Garay, 54, said that the mayor told her that the city needed to spend more on the department and the arts, while also promoting a diverse array of activities and organizations.</p>
+        <p>''Not enough attention is being paid to how to connect the city's vital and flourishing hubs of art and culture,'' she said. ''We have to figure out how to connect the dots, to create a picture for Angelenos of what the city can be.''</p>
+        <p>Though Mr. Villaraigosa made increased arts spending part of his campaign, he has been criticized for not moving quickly enough to fill the position or to promote the city's artistic communities. Calling Ms. Garay ''an internationally recognized dynamo,'' he said her task ''is to nurture and develop a healthy arts ecosystem, an inclusive community that recognizes and supports an array of cultures, artists, communities and opportunities in the city.''</p>
+        <p>Ms. Garay has never lived on the West Coast. Her family immigrated from Cuba in 1961, when she was a child; she graduated from the University of Florida with a bachelor's degree in psychology and from Florida International University with a master's in community psychology.</p>
+        <p>She has spent more than 20 years working in the arts, including 8 years, from 1997 to 2005, as manager of the arts program for the Duke Foundation, one of the country's largest arts donors. Before that, Ms. Garay worked as director of cultural affairs at Miami Dade College from 1990 to 1997. She has been a consultant for both the Lincoln Center Festival and El Museo del Barrio, in New York.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

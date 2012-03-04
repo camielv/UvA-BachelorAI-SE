@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Re-education</title>
+    <meta content="15letters.t-1" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Education; Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1840349"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Education and Schools</classifier>
+        <classifier class="indexing_service" type="descriptor">Colleges and Universities</classifier>
+        <location class="indexing_service">China</location>
+        <person class="indexing_service">clurman, michael</person>
+        <person class="indexing_service">Hulbert, Ann</person>
+        <person class="indexing_service">Gardner, Walt</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/China</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE6DD123FF936A25757C0A9619C8B63" item-length="136" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Re-education</hl1>
+      </hedline>
+      <abstract>
+        <p>Michael Clurman and Walt Gardner letters comment on April 1 article on overhauling education in China</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>I wish Ann Hulbert (April 1) had examined in greater detail the central dilemma of the intellectually daring citizens of the People's Republic of China. Those who would like to make a difference in today's China also know how dangerous free expression can be. How does one think outside the box when the simplest questions are dangerous?</p>
+      </block>
+      <block class="full_text">
+        <p>I wish Ann Hulbert (April 1) had examined in greater detail the central dilemma of the intellectually daring citizens of the People's Republic of China. Those who would like to make a difference in today's China also know how dangerous free expression can be. How does one think outside the box when the simplest questions are dangerous?</p>
+        <p>Michael Clurman</p>
+        <p>Sudbury, Mass.</p>
+        <p>Tang Meijie's schooling serves as a cautionary tale about the pitfalls in trying to compare international educational systems. Because China's system of differentiation is the antithesis of America's system of democratization, the results are altogether predictable. It is impossible to develop standards that are simultaneously challenging for and achievable by all students. Yet that is the quixotic goal of the accountability movement in the United States.</p>
+        <p>Walt Gardner</p>
+        <p>Los Angeles</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

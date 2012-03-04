@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Swedes Are Tracking a Rise In Fatter Children, Too</title>
+    <meta content="24scal" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Health&amp;Fitness" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/24/health/nutrition/24scal.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842538"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="VITAL SIGNS: ON THE SCALES"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Columns/Vital Signs</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Fitness and Nutrition</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Obesity</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Diet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Sweden</classifier>
+        <classifier class="online_producer" type="descriptor">Obesity</classifier>
+        <classifier class="online_producer" type="descriptor">Children and Youth</classifier>
+        <classifier class="online_producer" type="general_descriptor">Obesity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weight</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diet and Nutrition</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <location class="online_producer">Sweden</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070424T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE2D6173EF937A15757C0A9619C8B63" item-length="238" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Swedes Are Tracking a Rise In Fatter Children, Too</hl1>
+        <hl2 class="online_headline">On the Scales: Swedes Are Tracking a Rise in Fatter Children, Too</hl2>
+      </hedline>
+      <byline class="print_byline">By Nicholas Bakalar</byline>
+      <byline class="normalized_byline">Bakalar, Nicholas</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Swedish children, like their American counterparts, are growing fatter, researchers say.</p>
+        <p>Scientists writing in the April issue of Acta Paediatrica describe two groups of children in Uppsala, Sweden. The first included children who were 4, 10 and 16 in 1982. The second group had children who were the same ages in 2002, for a total of 1,066 participants. The researchers used medical records to gather statistics on weight and height.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Swedish children, like their American counterparts, are growing fatter, researchers say.</p>
+      </block>
+      <block class="full_text">
+        <p>Swedish children, like their American counterparts, are growing fatter, researchers say.</p>
+        <p>Scientists writing in the April issue of Acta Paediatrica describe two groups of children in Uppsala, Sweden. The first included children who were 4, 10 and 16 in 1982. The second group had children who were the same ages in 2002, for a total of 1,066 participants. The researchers used medical records to gather statistics on weight and height.</p>
+        <p>The prevalence of overweight and obese children as measured by body mass index increased among the 4-year-old girls, to 22 percent in 2002 from 10 percent in 1982, and among 10-year-old girls, to 30 percent in 2002 from 14 percent in 1982.</p>
+        <p>Among the boys, the differences were smaller; 10 percent of 4-year-olds had a B.M.I. of 25 or higher in 1982, and 18 percent in 2002. Among the 10-year-old boys, 8 percent were overweight in 1982 and 21 percent in 2002. But among 16-year-olds, there were no differences between the 1982 and 2002 groups.</p>
+        <p>Ulf Holmback, the lead author and a researcher in nutrition at Uppsala University, said the lack of a difference in the 16-year-olds could probably be explained by the reluctance of heavier adolescents to consent to being weighed.</p>
+        <p>The authors conceded that the study  was limited by the lack of data on parents' B.M.I. and ethnicity. The study's large size and dependence on medical data rather than self-reports are significant strengths.</p>
+        <p>VITAL SIGNS: ON THE SCALES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

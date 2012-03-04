@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   LEVINE, BARRY J.</title>
+    <meta content="dn040107.1" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="27" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1836984"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">LEVINE, BARRY J.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE4D9153AF932A35757C0A9619C8B63" item-length="212" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   LEVINE, BARRY J.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEVINE--Barry J. Myron and Barbara Nelkin and family mourn the loss of Mr. Levine, who passed away on March 21, 2007. He waged a gallant fight with cancer, but he was taken much too soon, at the age of 61. For many years he was attorney for the Garden City Hotel and our family attorney as well, and his loyalty and devotion to us and to our business endeavors will never be matched. We were touched and gratified to see so many people in attendance at his funeral on Sunday, March 25. He will never be forgotten by his loving family and friends. All of us</p>
+        <p>$(6$)LEVINE--Barry J. We at the Garden City Hotel note with sadness the death of Mr. Levine, on March 21, 2007. The hotels attorney for many years, he was much more than a co-worker; he was an inspiration and a true friend. No problem, professional or personal, was too minor for Mr. Levine to offer his advice and counsel. The funeral service on Sunday, March 25, was a fitting tribute to a man beloved by so many people, with over 300 friends and family members in attendance. He was always there for us, and we will miss him. The staff of the Garden City Hotel</p>
+      </block>
+      <block class="full_text">
+        <p>LEVINE--Barry J. Myron and Barbara Nelkin and family mourn the loss of Mr. Levine, who passed away on March 21, 2007. He waged a gallant fight with cancer, but he was taken much too soon, at the age of 61. For many years he was attorney for the Garden City Hotel and our family attorney as well, and his loyalty and devotion to us and to our business endeavors will never be matched. We were touched and gratified to see so many people in attendance at his funeral on Sunday, March 25. He will never be forgotten by his loving family and friends. All of us</p>
+        <p>$(6$)LEVINE--Barry J. We at the Garden City Hotel note with sadness the death of Mr. Levine, on March 21, 2007. The hotels attorney for many years, he was much more than a co-worker; he was an inspiration and a true friend. No problem, professional or personal, was too minor for Mr. Levine to offer his advice and counsel. The funeral service on Sunday, March 25, was a fitting tribute to a man beloved by so many people, with over 300 friends and family members in attendance. He was always there for us, and we will miss him. The staff of the Garden City Hotel</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

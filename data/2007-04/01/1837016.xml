@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Where Does It Hurt?</title>
+    <meta content="Crichton.t" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Health; Books" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/01/books/review/Crichton.t.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837016"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="descriptor">Books and Literature</classifier>
+        <classifier class="online_producer" type="descriptor">Doctors</classifier>
+        <classifier class="online_producer" type="descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="descriptor">Hospitals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Doctors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hospitals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+        <person class="online_producer">Groopman, Jerome</person>
+        <object.title class="online_producer">How Doctors Think (Book)</object.title>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A01E7DB1530F932A35757C0A9619C8B63" item-length="1264" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Where Does It Hurt?</hl1>
+        <hl2 class="online_headline">Where Does It Hurt?</hl2>
+      </hedline>
+      <byline class="print_byline">By MICHAEL CRICHTON</byline>
+      <byline class="normalized_byline">Crichton, Michael</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>HOW DOCTORS THINK</p>
+        <p>By Jerome Groopman.</p>
+        <p>307 pp. Houghton Mifflin Company. $26.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Doctors and patients don’t always communicate well, with serious consequences, says Jerome Groopman.</p>
+      </block>
+      <block class="full_text">
+        <p>HOW DOCTORS THINK</p>
+        <p>By Jerome Groopman.</p>
+        <p>307 pp. Houghton Mifflin Company. $26.</p>
+        <p>This elegant, tough-minded book recounts stories about how doctors and patients interact with one other. In the hands of Jerome Groopman, professor of medicine at Harvard and a staff writer for The New Yorker, these clinical episodes make absorbing reading and are often deeply affecting. At the same time, the author is commenting on some of the most profound problems facing modern medicine.</p>
+        <p>Groopman powerfully conveys the complexity of the physician's role, the anxiety and uncertainty that dog his every step, the difficulties that arise in understanding patients, eliciting their stories, making a diagnosis. One of the messages of ''How Doctors Think'' is that patients need to be active participants in their care; and without question the best physicians encourage, and even demand, the involvement of patients. Yet a paradox lies at the heart of Groopman's subject: although the medical profession has long recognized that doctors communicate poorly with patients, physicians receive little training to improve that interaction. Historically, medical education has regarded communication skills with an indifference that approaches contempt. It's unscientific, it's hand-holding, it's bedside manner. Yet it's clearly important.</p>
+        <p>Groopman focuses on one aspect of the doctor-patient interaction: how it influences a physician's diagnosis, and even his ability to make a diagnosis at all. His stories show us instances where a doctor makes snap judgments that are wrong -- and right; where past cases distort present perception; where rapport with, or dislike for, a patient alters diagnosis or care. (This leads Groopman to one of the few direct recommendations in this book: if you get the feeling your doctor doesn't like you, find another one.)</p>
+        <p>Unlike such simple errors as prescribing the wrong dose of medicine or reversing an X-ray, Groopman writes, misdiagnosis is ''a window into the medical mind,'' revealing ''why doctors fail to question their assumptions, why their thinking is sometimes closed or skewed, why they overlook the gaps in their knowledge.'' According to one study he cites, as many as 15 percent of patients receive inaccurate diagnoses, a finding that matches research based on autopsies.</p>
+        <p>In recent years, Groopman writes, there has been a sharp reaction against the ''catch as catch can'' approach to teaching diagnosis that prevailed when he was in medical school, where trainees would watch senior doctors and somehow absorb their way of thinking. But he is critical of much of the thinking now in vogue. Today's physicians are increasingly encouraged to behave as if they were computers, and to reason from flowcharts and algorithms. This is intended to produce better diagnoses and fewer errors; it is also embraced by insurance companies, who use it to decide which tests and treatments to approve. This approach can be useful for ''run-of-the-mill diagnosis and treatment -- distinguishing strep throat from viral pharyngitis, for example,'' Groopman writes. But for difficult cases he finds it limiting and dehumanizing. He is similarly critical of generic profiles, classification schemes that draw statistical portraits of disease states. They encourage the doctor to focus on the disease, not the patient, and so may lead him to miss the particular manifestation in the particular sufferer.</p>
+        <p>Groopman also discusses physician heuristics -- shortcuts to decision-making that he considers ''the foundation of all mature medical thinking,'' although they too ''can lead to grave errors.'' But Groopman points out that heuristics aren't taught in medical school and are in fact discouraged, in favor of a much more leisurely and extended kind of thinking, typified by Socratic dialogue between students and professors. This means that young doctors enter the hospital knowing little about either the advantages or the disadvantages of heuristics. Take, for example, what psychologists call ''availability,'' the tendency to judge the likelihood of an event by how readily it comes to mind. Thus physicians may mistake symptoms of one disease for those of another disease they've seen more often. Or they may fall prey to ''confirmation bias,'' which leads them to rapidly assemble information into an accurate diagnosis -- or misconstrue the evidence before them.</p>
+        <p>Cognitive errors are highlighted in Groopman's account of a Vietnamese infant he calls Shira Stein, brought home by her adoptive mother to Boston. Before departure, the baby was coughing. On landing, she seemed dehydrated and refused to drink; a day later she was in the I.C.U. at Children's Hospital with severe pneumonia. Her doctors, recognizing they might be up against an exotic infection from Vietnam, struggled to oxygenate her, but even on the respirator her condition deteriorated. Saved from death by extreme measures, she was found to be infected by five potentially lethal agents: pneumocystis, cytomegalovirus, Klebsiella, Candida and parainfluenzae. Such devastating multiple infections implied an immune deficiency. Doctors concluded that Shira had SCID, severe combined immunodeficiency disorder.</p>
+        <p>SCID is a rare, inherited condition. Because the gene is located on the X chromosome, it's especially rare in girls, who must inherit the gene from both parents. And because Shira's T-cells were only slightly low, she didn't show the usual SCID pattern. Her case was defined as ''atypical.''</p>
+        <p>Groopman's account focuses on Shira's extraordinary mother, who week after week stayed in the hospital, steadfast in her belief that her daughter would recover. ''Shira is going to live,'' Rachel tells him. ''I can feel it inside of me.''</p>
+        <p>After more than a month in the I.C.U., Shira was successfully weaned from the respirator, and plans were begun for a bone marrow transplant to treat her immune deficiency. With the child improving, Rachel conducted her own research on SCID, becoming ever more convinced that her daughter did not have it. Instead, she suspected Shira had a nutritional deficiency.</p>
+        <p>Rachel stubbornly insisted that immune testing be repeated, and the pediatricians reluctantly indulged her. Shira's T-cells were normal; she did not have SCID after all. The bone marrow transplant may well have killed her.</p>
+        <p>Groopman reviews the clinical conference where Shira's case was discussed. Such conferences occur at every teaching hospital in the country, Groopman writes, but they generally lack ''an in-depth examination of why the diagnosis was missed -- specifically, what cognitive errors occurred and how they could have been remedied.'' He observes that the doctors at Boston Children's Hospital, one of the best pediatric hospitals in the world, had extensive experience with SCID and similar genetic abnormalities: ''Familiarity breeds conclusions and sometimes a certain degree of contempt for alternatives.'' Physicians may be reluctant to pursue unlikely diagnoses, particularly if they will be criticized by colleagues for ordering too many tests or for being show-offs.</p>
+        <p>By contrast, Boston doctors have little experience with unusual nutritional deficiencies. ''I would wager that very few on the staff would know how to identify them,'' Groopman writes. ''I admit that I don't.'' Thus doctors were predisposed to dismiss Rachel's theory of a nutritional deficiency -- though it remains unclear whether that's what caused her condition. Finally, Shira's doctors experienced what Groopman calls ''diagnosis momentum.'' Once the diagnosis is made, it is passed on to other doctors with ever-increasing conviction. Contradictory evidence is brushed aside. Groopman says he has made all the same errors as Shira's doctors did. ''When all the pieces of the clinical puzzle did not fit tightly together,'' he writes, ''I moved some of those that didn't to the side. I made faulty assumptions, seeking to make an undefined condition conform to a well-defined prototype, in order to offer a familiar treatment.''</p>
+        <p>It is this direct and honest voice that drives the narratives of this remarkable book. Here is Groopman at the peak of his form, as a physician and as a writer. Readers will relish the result.</p>
+        <p>Michael Crichton's most recent novel is ''Next.''</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Michael Crichton's most recent novel is ''Next.''</tagline>
+    </body.end>
+  </body>
+</nitf>

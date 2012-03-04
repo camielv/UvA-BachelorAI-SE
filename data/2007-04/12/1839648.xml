@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Two Powerful Vacuums That Go Easy on Closet Space</title>
+    <meta content="12whoo" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1839648"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CURRENTS: WHO KNEW?"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Vacuum Cleaners</classifier>
+        <org class="indexing_service">Dyson (Co)</org>
+        <person class="indexing_service">Rohrlich, Marianne</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="general_descriptor">Home Appliances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070412T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9904E4DB123FF931A25757C0A9619C8B63" item-length="123" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Two Powerful Vacuums That Go Easy on Closet Space</hl1>
+      </hedline>
+      <byline class="print_byline">By MARIANNE ROHRLICH</byline>
+      <byline class="normalized_byline">Rohrlich, Marianne</byline>
+      <abstract>
+        <p>Dyson offers two new compact vacuum cleaners that have power of full-size models; photos (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Two new compact Dyson vacuums offer relief from dust and pet hair to anyone who needs a full-size model but does not have the space to store it. The Stowaway ($499.99), left, a canister with as much power as an upright, has a smallish body (11 inches wide by 17.7 inches deep) and a hose with attachments for hardwood and carpet that wraps around the machine when not in use. The Slim ($469.99), right, an upright, works on all types of floors and has a telescoping hose for hard-to-reach jobs. Both are bagless and have HEPA filters. At the Conran Shop, 407 East 59th Street, (866) 755-9079 or conranusa.com.</p>
+        <p>MARIANNE ROHRLICH</p>
+        <p>Good deals and secret sources may be reported to rohrlich@nytimes.com.</p>
+      </block>
+      <block class="full_text">
+        <p>Two new compact Dyson vacuums offer relief from dust and pet hair to anyone who needs a full-size model but does not have the space to store it. The Stowaway ($499.99), left, a canister with as much power as an upright, has a smallish body (11 inches wide by 17.7 inches deep) and a hose with attachments for hardwood and carpet that wraps around the machine when not in use. The Slim ($469.99), right, an upright, works on all types of floors and has a telescoping hose for hard-to-reach jobs. Both are bagless and have HEPA filters. At the Conran Shop, 407 East 59th Street, (866) 755-9079 or conranusa.com.</p>
+        <p>MARIANNE ROHRLICH</p>
+        <p>Good deals and secret sources may be reported to rohrlich@nytimes.com.  CURRENTS: WHO KNEW?</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

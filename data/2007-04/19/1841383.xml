@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Dozen Questions for Alberto Gonzales; A Little Discretion</title>
+    <meta content="19iglesias" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="27" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/19/opinion/19iglesias.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1841383"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Op-Ed Contributor"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Contributors</classifier>
+        <classifier class="online_producer" type="descriptor">United States Attorneys</classifier>
+        <classifier class="online_producer" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Legal Profession</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <org class="online_producer">Senate</org>
+        <org class="online_producer">House of Representatives</org>
+        <person class="online_producer">Iglesias, David C</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070419T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9500E4D81E3FF93AA25757C0A9619C8B63" item-length="241" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Dozen Questions for Alberto Gonzales; A Little Discretion</hl1>
+        <hl2 class="online_headline">A Little Discretion</hl2>
+      </hedline>
+      <byline class="print_byline">By David C. Iglesias</byline>
+      <byline class="normalized_byline">Iglesias, David C</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>With Attorney General Alberto Gonzales testifying before the Senate Judiciary Committee today, the Op-Ed page asked four legal experts to step into a senator's shoes and list three questions they would ask Mr. Gonzales.</p>
+        <p>1. Since 1981 there have been several hundred United States attorneys appointed by the president. According to the Congressional Research Service, before the recent firings, only a handful were dismissed or resigned under questionable circumstances. In light of this history, was it prudent to ask seven United States attorneys in December to resign where there have never been allegations of misconduct?</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Three questions for Attorney General Alberto Gonzalez from a former U.S. attorney general from New Mexico.</p>
+      </block>
+      <block class="full_text">
+        <p>With Attorney General Alberto Gonzales testifying before the Senate Judiciary Committee today, the Op-Ed page asked four legal experts to step into a senator's shoes and list three questions they would ask Mr. Gonzales.</p>
+        <p>1. Since 1981 there have been several hundred United States attorneys appointed by the president. According to the Congressional Research Service, before the recent firings, only a handful were dismissed or resigned under questionable circumstances. In light of this history, was it prudent to ask seven United States attorneys in December to resign where there have never been allegations of misconduct?</p>
+        <p>2. Do you agree with the following statement: ''The prosecutor has more control over life, liberty and reputation than any other person in America. His discretion is tremendous.  The citizen's safety lies in the prosecutor who tempers zeal with human kindness, who seeks truth and not victims, who serves the law and not factional purposes.'' Would it make a difference to your answer to know that Robert H. Jackson, the former United States attorney general and Supreme Court justice, said this in a speech in 1940? What does prosecutorial discretion mean to you?</p>
+        <p>3. Is it ever appropriate for a member of Congress to contact a United States attorney and, without identifying the constituent concerned, inquire about ''sealed indictments''? Or to ask about the timing of yet-to-be-filed indictments involving allegations of political corruption by members of the opposite political party?</p>
+        <p>Op-Ed Contributor David C. Iglesias was United States attorney for the District of New Mexico from October 2001 until February.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">David C. Iglesias was United States attorney for the District of New Mexico from October 2001 until February.</tagline>
+    </body.end>
+  </body>
+</nitf>

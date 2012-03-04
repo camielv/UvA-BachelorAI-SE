@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Baldness and Longevity</title>
+    <meta content="01qna" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1844193"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Q + A"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070501T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE1D9133EF932A35756C0A9619C8B63" item-length="190" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Baldness and Longevity</hl1>
+      </hedline>
+      <byline class="print_byline">By C. CLAIBORNE RAY</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Q. Is balding an indicator of more rapid aging and a shorter life span?</p>
+        <p>A. No evidence of a link between hair loss and premature death was found in a large and well-known Danish study published in 1998 in The Journals of Gerontology. Perhaps surprisingly, other signs of aging like wrinkles and gray hair were not linked to early deaths, either.</p>
+        <p>The study, involving a random sample of 20,000 men and women in the Copenhagen City Heart Study, recorded the extent of baldness, gray hair, wrinkles and a ring around the cornea, called arcus senilis, that often occurs in old age. The group was followed for 16 years.</p>
+      </block>
+      <block class="full_text">
+        <p>Q. Is balding an indicator of more rapid aging and a shorter life span?</p>
+        <p>A. No evidence of a link between hair loss and premature death was found in a large and well-known Danish study published in 1998 in The Journals of Gerontology. Perhaps surprisingly, other signs of aging like wrinkles and gray hair were not linked to early deaths, either.</p>
+        <p>The study, involving a random sample of 20,000 men and women in the Copenhagen City Heart Study, recorded the extent of baldness, gray hair, wrinkles and a ring around the cornea, called arcus senilis, that often occurs in old age. The group was followed for 16 years.</p>
+        <p>The authors concluded: ''We found no correlation between the mortality and the extent of graying of the hair or baldness or facial wrinkles in either of the sexes, irrespective of age. A single exception was observed in a small subgroup of men with no gray hair.'' Those lucky men had a slightly lower mortality rate, but the difference was statistically significant.</p>
+        <p>Arcus senilis was significantly correlated with a shorter life span in women.</p>
+        <p>C. CLAIBORNE RAY</p>
+        <p>Q + A</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

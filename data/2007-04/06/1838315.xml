@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>THE CHURN</title>
+    <meta content="06churn" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838315"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Human Resources</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Management</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070406T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9401EEDE173FF935A35757C0A9619C8B63" item-length="316" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>THE CHURN</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>People</p>
+        <p>Bruce Evans, formerly of Goldman Sachs, will join Deutsche Bank Securities as a managing director in the mergers and acquisitions group. Based in New York, Mr. Evans will oversee the origination and execution of transactions. Deutsche Bank has also hired two consumer investment bankers: Marco Habert, formerly of Citigroup, joins as a managing director to handle household and personal care companies, and Jane E. DeFlorio, formerly of UBS, joins as a managing director to handle mid- to large-cap retailers.</p>
+      </block>
+      <block class="full_text">
+        <p>People</p>
+        <p>Bruce Evans, formerly of Goldman Sachs, will join Deutsche Bank Securities as a managing director in the mergers and acquisitions group. Based in New York, Mr. Evans will oversee the origination and execution of transactions. Deutsche Bank has also hired two consumer investment bankers: Marco Habert, formerly of Citigroup, joins as a managing director to handle household and personal care companies, and Jane E. DeFlorio, formerly of UBS, joins as a managing director to handle mid- to large-cap retailers.</p>
+        <p>Credit Suisse has hired two managing directors in equity capital markets: Robert Santangelo will be responsible for the energy sector, while Sebastien Chatel will head the Latin American equity capital markets business. Mr. Santangelo joins from Banc of America Securities; Mr. Chatel joins from UBS Securities.</p>
+        <p>Barclays Capital has appointed Michael Graf as a managing director and head of United States dollar agency, supra sovereign and covered bond trading. Mr. Graf joins from Merrill Lynch.</p>
+        <p>Clifford Chance has elected 38 new partners, including three in New York:  Anthony Candido, Jeff Butler and Ness Cohen.</p>
+        <p>Morrison &amp; Foerster has selected Steven M. Kaufmann as global chairman of its 490-lawyer litigation department. Margaret A. Pierri has joined the firm's New York office. She was previously in the Fish &amp; Neave Intellectual Property Group of Ropes &amp; Gray, where she was co-developer of the firm's biotechnology intellectual property patent practice group.</p>
+        <p>Adrienne A. Scerbak, formerly of Akin Gump Strauss Hauer Feld, has joined Goodwin Procter as a partner in the firm's business law practice in New York.</p>
+        <p>Wood Mackenzie has appointed Jeffrey C. Fawcett as head of gas and power consulting Americas.</p>
+        <p>Lawrence J. Hurley has joined Bryan Cave as counsel in the firm's New York office.</p>
+        <p>Leeds Equity Partners has named Thomas J. Fitzpatrick to its board of advisers. Mr. Fitzpatrick is the chief executive of the SLM Corporation, the student loan company known as Sallie Mae.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

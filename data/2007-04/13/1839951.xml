@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Film in Review; Voice of a Murderer</title>
+    <meta content="13roun-3" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1839951"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Catsoulis, Jeannette</person>
+        <person class="indexing_service">Jin-pyo, Park</person>
+        <person class="indexing_service">Kim, Nam-ju</person>
+        <person class="indexing_service">Sol, Kyung-gu</person>
+        <object.title class="indexing_service">Voice of a Murderer (Movie)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/Reviews</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070413T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980DE4DA133FF930A25757C0A9619C8B63" item-length="227" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Film in Review; Voice of a Murderer</hl1>
+      </hedline>
+      <byline class="print_byline">By JEANNETTE CATSOULIS</byline>
+      <byline class="normalized_byline">Catsoulis, Jeannette</byline>
+      <abstract>
+        <p>Jeannette Catsoulis reviews film Voice of a Murderer, directed by Park Jin-pyo; Nam-ju Kim and Kyung-gu Sol star; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Opens today in Manhattan.  Directed by Park Jin-pyo  In Korean, with English subtitles  Not rated; 122 minutes</p>
+        <p>With ''Voice of a Murderer,'' the unpredictable Korean director Park Jin-pyo returns to the docudrama form he employed so provocatively in ''Too Young to Die,'' his 2002 examination of septuagenarian sex. That film was judged unfit for public viewing by the Korea Media Rating Board, but this time the filmmaker is playing it safe: ''Voice of a Murderer'' arrives complete with its own public-service announcement.</p>
+      </block>
+      <block class="full_text">
+        <p>Opens today in Manhattan.  Directed by Park Jin-pyo  In Korean, with English subtitles  Not rated; 122 minutes</p>
+        <p>With ''Voice of a Murderer,'' the unpredictable Korean director Park Jin-pyo returns to the docudrama form he employed so provocatively in ''Too Young to Die,'' his 2002 examination of septuagenarian sex. That film was judged unfit for public viewing by the Korea Media Rating Board, but this time the filmmaker is playing it safe: ''Voice of a Murderer'' arrives complete with its own public-service announcement.</p>
+        <p>A fictionalized account of the unsolved 1991 kidnapping and murder of a 9-year-old boy, ''Voice of a Murderer'' unfolds relentlessly from the point of view of the distraught parents (Sol Kyung-gu and Kim Nam-joo), a popular news anchor and his religious, stay-at-home wife. The snatching of their son precipitates endless, repetitive scenes of parental hysteria, punctuated by calls from the shadowy abductor and abortive cash-delivery attempts. Despite the actors' valiant emoting, by the 44th day and the umpteenth call, it's déjà vu all over again.</p>
+        <p>The movie's best scenes belong to the fabulously incompetent police, who bicker over the merits of voice-recognition software and bungle every stakeout. Though the director exploits Seoul's parking garages and alleyways to convincingly claustrophobic effect, ''Voice of a Murderer'' is an uninvolving melodrama more suited to the small screen than to the large.</p>
+        <p>JEANNETTE CATSOULIS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

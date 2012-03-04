@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Talk</title>
+    <meta content="04talk.opener.t" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="T: Design Magazine" name="dsk"/>
+    <meta content="73" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Style; Magazine" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/01/style/tmagazine/04talk.opener.t.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837080"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/T: Style Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402EEDA1230F932A35757C0A9619C8B63" item-length="166" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Talk</hl1>
+        <hl2 class="online_headline">The Talk</hl2>
+      </hedline>
+      <byline class="print_byline">By Pilar Viladas and Alix Browne</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>gorgeois / (gor jzhwa) / adj. / a neologism to express newfound appreciation for things once considered conventional or bourgeois, like the various Palms (Beach, Springs), porcelain figurines and flowery fabrics, as in,â ''Your poppy-print Oscar de la Renta is totally gorgeois.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>gorgeois / (gor jzhwa) / adj. / a neologism to express newfound appreciation for things once considered conventional or bourgeois, like the various Palms (Beach, Springs), porcelain figurines and flowery fabrics, as in,â “Your poppy-print Oscar de la Renta is totally gorgeois.”.</p>
+      </block>
+      <block class="full_text">
+        <p>gorgeois / (gor jzhwa) / adj. / a neologism to express newfound appreciation for things once considered conventional or bourgeois, like the various Palms (Beach, Springs), porcelain figurines and flowery fabrics, as in,â ''Your poppy-print Oscar de la Renta is totally gorgeois.''</p>
+        <p>brutalism / (broot l ism) / n. / a muscular style of socially conscious architecture practiced between the 1950s and the 1970s by the likes of Le Corbusier and Paulo Mendes da Rocha. Brutalism took its name from béton brut, the French phrase for ''raw concrete,'' its signature material, but ultimately became a term of derision. After 30-some years, however, it suddenly looks sexy again.</p>
+        <p>geek chic / (gek sheik) / n. / the revenge of the nerds has hit the design world, now that the most exciting developments in the field -- like rapid prototyping and mechatronics -- are technological rather than aesthetic. Printing a table? A dress that lights up? Now, that's geek chic</p>
+        <p>Pilar Viladas and Alix Browne</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

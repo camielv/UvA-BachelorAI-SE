@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Cindy Dodard, Vaishnav Krishnan</title>
+    <meta content="15dodard" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1840477"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Dodard, Cindy</person>
+        <person class="indexing_service">Krishnan, Vaishnav</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A03E1D9133FF936A25757C0A9619C8B63" item-length="209" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Cindy Dodard, Vaishnav Krishnan</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Cindy Dodard, a daughter of Marcia Dodard and Dr. Pierre Dodard of Glen Cove, N.Y., is to be married in Brooklyn today to Vaishnav Krishnan, the son of Vani Krishnan and Dr. Eshwaramani Krishnan of Manama, Bahrain. The Rev. Richard Hasselbach, a priest affiliated with CITI Ministries, is to officiate at Stage 6 at Steiner Studios, a film production complex at the Brooklyn Navy Yard.</p>
+        <p>The bride and bridegroom, both 25, are fourth-year medical students, she at New York University and he at the University of Texas Southwestern Medical Center in Dallas. They met at N.Y.U., from which they both graduated, the bridegroom summa cum laude.</p>
+      </block>
+      <block class="full_text">
+        <p>Cindy Dodard, a daughter of Marcia Dodard and Dr. Pierre Dodard of Glen Cove, N.Y., is to be married in Brooklyn today to Vaishnav Krishnan, the son of Vani Krishnan and Dr. Eshwaramani Krishnan of Manama, Bahrain. The Rev. Richard Hasselbach, a priest affiliated with CITI Ministries, is to officiate at Stage 6 at Steiner Studios, a film production complex at the Brooklyn Navy Yard.</p>
+        <p>The bride and bridegroom, both 25, are fourth-year medical students, she at New York University and he at the University of Texas Southwestern Medical Center in Dallas. They met at N.Y.U., from which they both graduated, the bridegroom summa cum laude.</p>
+        <p>The bride will continue to use her name professionally. She will be an intern in obstetrics and gynecology in July at Methodist Dallas Medical Center, a community hospital. The bride's father is an emergency medicine physician at Brookdale Hospital and a clinical assistant professor of emergency medicine at State University of New York Downstate College of Medicine, both in Brooklyn. Her mother is a substitute licensed practical nurse at St. Mary's Hospital for Children in Bayside, Queens.</p>
+        <p>The bridegroom is also a doctoral candidate in neuroscience at the University of Texas. His father is an otolaryngologist at the American Mission Hospital, in Manama.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

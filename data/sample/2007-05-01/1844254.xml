@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>To Nurture The Next Einstein</title>
+    <meta content="l01friedman" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1844254"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Education and Schools</classifier>
+        <classifier class="indexing_service" type="descriptor">Science and Technology</classifier>
+        <classifier class="indexing_service" type="descriptor">Mathematics</classifier>
+        <classifier class="indexing_service" type="descriptor">Creativity</classifier>
+        <location class="indexing_service">China</location>
+        <person class="indexing_service">Nelson, Beverly L</person>
+        <person class="indexing_service">Cobb, Vicki</person>
+        <person class="indexing_service">Parmlind, Emilie</person>
+        <person class="indexing_service">Friedman, Thomas L</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/China</classifier>
+        <classifier class="online_producer" type="general_descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mathematics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070501T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D07E5D7133EF932A35756C0A9619C8B63" item-length="420" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>To Nurture The Next Einstein</hl1>
+      </hedline>
+      <abstract>
+        <p>Three letters comment on Thomas L Friedman's April 27 column warning that authoritarianism could stifle Chinese people's ability to think creatively, but that China could still prevail over US economically because American young people are not pursuing math and science; Beverly L Nelson deplores impact of television on American children; Vicki Cobb says showing kids how to think like scientists brings light to their eyes; Emilie Parmlind says American schools need greater emphasis on creative forms of intelligence</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In ''China Needs an Einstein. So Do We'' (column, April 27), Thomas L. Friedman writes that ''if Einstein were alive today, he would be telling both America and China that they have homework to do.''</p>
+        <p>I suggest that a starting assignment might be to turn off the television for little children and read out loud to them, and give them open-ended questions and see what they come up with. Questions like ''What makes the sky blue?'' or ''Why does the grass grow up?'' or ''What is inside of a tire when it becomes flat?''</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In ''China Needs an Einstein. So Do We'' (column, April 27), Thomas L. Friedman writes that ''if Einstein were alive today, he would be telling both America and China that they have homework to do.''</p>
+        <p>I suggest that a starting assignment might be to turn off the television for little children and read out loud to them, and give them open-ended questions and see what they come up with. Questions like ''What makes the sky blue?'' or ''Why does the grass grow up?'' or ''What is inside of a tire when it becomes flat?''</p>
+        <p>Kids notice things like this, even ask these questions. With the TV on, kids, passively entertained, aren't as apt to be as curious.</p>
+        <p>The assignment for adults would be to encourage wonderment. Who knows, the children might awaken intellectual curiosity in the adults.</p>
+        <p>Beverly L. Nelson  Richmond, Va., April 27, 2007</p>
+        <p>To the Editor:</p>
+        <p>Once again, Thomas L. Friedman is right on target, this time linking freedom with creative science. As a children's science book author known for innovative ways to get kids into science, I grieve that my kind of book is so hard to sell to publishers when they make so much more money on celebrity books.</p>
+        <p>I have heard from several sources that we will be facing a shortage of skilled workers in science and math unless we start now getting kids interested in science and all of its creative possibilities.</p>
+        <p>Einstein may be intellectually out of reach for most children, but bring science into a kid's world and show kids how to think like scientists, and a light goes on in their eyes. I know because I see it all the time.</p>
+        <p>Vicki Cobb  White Plains, April 27, 2007</p>
+        <p>To the Editor:</p>
+        <p>As a sophomore in high school, I can say that I have a genuine love for learning. But too often it becomes a thoughtless process with rote memorization where I simply cram for tests and then discard the information.</p>
+        <p>Instead of learning for the sake of the knowledge, I'm learning because I want to see A's on my report card.</p>
+        <p>If America wants to foster an Einstein, as Thomas L. Friedman suggests, there needs to be less glorification of the perfect report card and SAT scores and a greater appreciation for the less obvious and more creative forms of intelligence that can't be measured by filling in the bubbles of an answer sheet.</p>
+        <p>Emilie Parmlind  Florham Park, N.J., April 29, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

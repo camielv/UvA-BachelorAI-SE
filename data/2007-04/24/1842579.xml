@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Microsoft, Trying to Avoid a European Fine, Defends Demand for Royalties</title>
+    <meta content="24soft" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/24/technology/24soft.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842579"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">Antitrust Actions and Laws</classifier>
+        <classifier class="online_producer" type="descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="descriptor">Royalties</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Antitrust Actions and Laws</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <org class="online_producer">Microsoft Corp</org>
+        <org class="online_producer">European Commission</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070424T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A02EEDF143EF937A15757C0A9619C8B63" item-length="437" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Microsoft, Trying to Avoid a European Fine, Defends Demand for Royalties</hl1>
+        <hl2 class="online_headline">Microsoft, Trying to Avoid a European Fine, Defends Demand for Royalties</hl2>
+      </hedline>
+      <byline class="print_byline">By KEVIN J. O'BRIEN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Microsoft, seeking to avoid another multimillion-dollar fine in its antitrust battle with the European Commission, filed documents with competition officials yesterday defending its demand to be paid royalties for releasing some software code to competitors.</p>
+        <p>Without disclosing what is in the documents, Tom Brookes, a Microsoft spokesman in Brussels, said the company filed its response to the commission's charge on March 1 that it was violating a 2004 order to share the code at ''reasonable terms'' so competitors could design software that worked seamlessly with Microsoft computer servers.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Microsoft filed documents defending its demand to be paid royalties for releasing some software code to competitors.</p>
+      </block>
+      <block class="full_text">
+        <p>Microsoft, seeking to avoid another multimillion-dollar fine in its antitrust battle with the European Commission, filed documents with competition officials yesterday defending its demand to be paid royalties for releasing some software code to competitors.</p>
+        <p>Without disclosing what is in the documents, Tom Brookes, a Microsoft spokesman in Brussels, said the company filed its response to the commission's charge on March 1 that it was violating a 2004 order to share the code at ''reasonable terms'' so competitors could design software that worked seamlessly with Microsoft computer servers.</p>
+        <p>The legal skirmishes over the European Commission's antitrust ruling against Microsoft are moving into a fourth year. In its original ruling, the commission ordered Microsoft to sell a version of its Windows operating system without its Windows Media Player. Microsoft did so, but the so-called N version, which sold for the same price as Windows with the Media Player included, was a commercial flop.</p>
+        <p>Microsoft maintains that the other remedy imposed in the 2004 ruling -- that it share its confidential server software code -- implied that it could charge royalties.</p>
+        <p>But competitors say that Microsoft is asking exorbitant fees, discouraging many from designing software to work with Microsoft products. According to its Web site, Microsoft is proposing royalty fees that range from $5.60 to $666.75 a server under a formula that ties the fee level to the revenue generated by any software designed using Microsoft's information.</p>
+        <p>In March 2004, the European Commission fined Microsoft 497.2 million euros (about $600 million at the time) for violating European antitrust law. Neelie Kroes, the European competition commissioner, imposed a further 280.5 million euros in fines in July 2006.</p>
+        <p>Under commission rules, Ms. Kroes could impose additional fines of up to 3 million euros a day, retroactive to last Aug. 1. Through Tuesday, that would add up to as much as 801 million euros (about $1.09 billion).</p>
+        <p>Jonathan Todd, a spokesman for Ms. Kroes, said that before she could levy more fines, she would have to consult an advisory committee of 27 European competition commissioners and, ultimately, win approval from the full European Commission.</p>
+        <p>Bradford L. Smith, Microsoft's senior vice president and general counsel, said that the company wanted to resolve the legal dispute quickly and had decided against requesting an arbiter's hearing, which would have caused further delays.</p>
+        <p>In a speech Friday to the American Bar Association in Washington, Ms. Kroes said the Microsoft case was unique. ''In 50 years of E.U. antitrust policy, we have never before encountered a company that has refused to comply with a commission decision,'' she said, according to a transcript of her speech.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

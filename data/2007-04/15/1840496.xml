@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Mirja Spooner, Edward Haffner</title>
+    <meta content="15spooner" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/15/fashion/weddings/15spooner.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840496"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Spooner, Mirja Catherine Laksmi (Mirja Catherine Laksmi Haffner)</person>
+        <person class="indexing_service">Haffner, Edward Charles</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03EFD9133FF936A25757C0A9619C8B63" item-length="250" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Mirja Spooner, Edward Haffner</hl1>
+        <hl2 class="online_headline">Mirja Spooner, Edward Haffner</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Mirja Catherine Laksmi Spooner and Edward Charles Haffner were married yesterday at the Church of the Transfiguration in New York. The Right Rev. Andrew St. John, the vicar of the church, performed the Episcopal ceremony.</p>
+        <p>Mrs. Haffner, 32, works in Chicago for JPMorgan Chase &amp; Company, where she helps market bank-sponsored cultural events to private clients. Until last June she was the director of fund-raising at the Neue Gallerie, an art museum in New York. She graduated from Barnard.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Mirja Catherine Laksmi Spooner and Edward Charles Haffner were married yesterday at the Church of the Transfiguration in New York. The Right Rev. Andrew St. John, the vicar of the church, performed the Episcopal ceremony.</p>
+      </block>
+      <block class="full_text">
+        <p>Mirja Catherine Laksmi Spooner and Edward Charles Haffner were married yesterday at the Church of the Transfiguration in New York. The Right Rev. Andrew St. John, the vicar of the church, performed the Episcopal ceremony.</p>
+        <p>Mrs. Haffner, 32, works in Chicago for JPMorgan Chase &amp; Company, where she helps market bank-sponsored cultural events to private clients. Until last June she was the director of fund-raising at the Neue Gallerie, an art museum in New York. She graduated from Barnard.</p>
+        <p>She is the daughter of Yanti Spooner of Washington and the late Thomas E. E. Spooner. Her mother is the senior acquisition specialist for Dutch and Norwegian printed materials at the Library of Congress in Washington. Her father was the deputy director of the office of academic programs in the bureau of educational and cultural affairs at the United States Information Agency in Washington.</p>
+        <p>Mr. Haffner, 35, is an associate designer at Terry Guen Design Associates, a landscape architecture firm in Chicago. He graduated from Cornell, where he also received a master's degree in landscape architecture and is a candidate for a master's in horticulture.</p>
+        <p>He is a son of Anne C. Haffner and Charles C. Haffner III of Chicago. His father, who is retired, was the vice chairman of R R Donnelley, the printing company in Chicago named for its founder, the bridegroom's paternal great-great grandfather. The bridegroom's father is a trustee of the Art Institute of Chicago and a trustee of the Newberry Library, a research library in Chicago.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

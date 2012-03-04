@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>FAKE NEWS NETWORK</title>
+    <meta content="01suits-4" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837330"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="OPENERS: SUITS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Suits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Immigration and Refugees</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9805E7D81130F932A35757C0A9619C8B63" item-length="187" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>FAKE NEWS NETWORK</hl1>
+      </hedline>
+      <byline class="print_byline">By DAMON DARLIN</byline>
+      <byline class="normalized_byline">Darlin, Damon</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The narrator of the news segment on immigration intones, in the purest Lou Dobbsian tones, that the report will look ''at the human cost of Mexicans.''</p>
+        <p>The subject of the profile is one Raymond Boyle, a former senior vice president of Lucent Technologies who lost his $840,000-a-year job to a Mexican migrant worker, Alberto Fuentes, who was willing to work for a mere $600,000. Mr. Boyle, who has had to retrench, says, ''Unless you've been through it, you have no idea what it is like to live year-round in your second home.''</p>
+      </block>
+      <block class="full_text">
+        <p>The narrator of the news segment on immigration intones, in the purest Lou Dobbsian tones, that the report will look ''at the human cost of Mexicans.''</p>
+        <p>The subject of the profile is one Raymond Boyle, a former senior vice president of Lucent Technologies who lost his $840,000-a-year job to a Mexican migrant worker, Alberto Fuentes, who was willing to work for a mere $600,000. Mr. Boyle, who has had to retrench, says, ''Unless you've been through it, you have no idea what it is like to live year-round in your second home.''</p>
+        <p>The video, a put-on of CNN's breathless reports on immigration, was The Onion's first effort at producing fake TV news to complement the fake print and online stories that made it famous.</p>
+        <p>In the video, Mr. Fuentes has turned around the company. But in reality, Lucent is no more. Since last year, it has been part of Alcatel-Lucent, based in Paris.</p>
+        <p>Alcatel-Lucent, for its part, said it was not annoyed by the video. ''It's clearly a spoof,'' said Mary Ward, a company spokeswoman. ''We take it for what it is.''</p>
+        <p>DAMON DARLIN</p>
+        <p>OPENERS: SUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

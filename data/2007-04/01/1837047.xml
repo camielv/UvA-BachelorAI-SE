@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Mind Reader</title>
+    <meta content="01wwln--Q4.t" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Education; Magazine; Books" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/01/magazine/01wwlnQ4.t.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837047"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE WAY WE LIVE NOW: 4-01-07: QUESTIONS FOR DOUGLAS HOFSTADTER"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Psychology and Psychologists</classifier>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <person class="indexing_service">Hofstadter, Douglas R</person>
+        <person class="indexing_service">Solomon, Deborah</person>
+        <object.title class="indexing_service">I Am A Strange Loop (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Interview</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Midwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Mental Health and Behavior</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Psychology and Psychologists</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="descriptor">Books and Literature</classifier>
+        <classifier class="online_producer" type="descriptor">Artificial Intelligence</classifier>
+        <classifier class="online_producer" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="descriptor">Pulitzer Prizes</classifier>
+        <classifier class="online_producer" type="descriptor">Nobel Prizes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Psychology and Psychologists</classifier>
+        <classifier class="online_producer" type="general_descriptor">Nobel Prizes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Awards, Decorations and Honors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Intelligence</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+        <org class="online_producer">Indiana University</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E4DA1230F932A35757C0A9619C8B63" item-length="670" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Mind Reader</hl1>
+        <hl2 class="online_headline">The Mind Reader</hl2>
+      </hedline>
+      <byline class="print_byline">By DEBORAH SOLOMON</byline>
+      <byline class="normalized_byline">Solomon, Deborah</byline>
+      <abstract>
+        <p>Deborah Solomon interview with Douglas Hofstadter, professor of cognitive science at Indiana University, who comments on his latest book, I Am a Strange Loop; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Q: As a professor of cognitive science at Indiana University who spends his time thinking about the process of thinking, what do you make of Descartes's famed pronouncement, ''I think, therefore I am''? Who knows what that means? It's a tiny, little aphorism. You can interpret it any way you want and say, ''What a wise man he was!''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The scientist and cult author talks about how our souls live on after us, why artificial intelligence is an oxymoron and why mosquitoes deserve to die.</p>
+      </block>
+      <block class="full_text">
+        <p>Q: As a professor of cognitive science at Indiana University who spends his time thinking about the process of thinking, what do you make of Descartes's famed pronouncement, ''I think, therefore I am''? Who knows what that means? It's a tiny, little aphorism. You can interpret it any way you want and say, ''What a wise man he was!''</p>
+        <p>You first became known in 1979, when you published ''GÃ</p>
+        <p>del, Escher, Bach,'' a campus classic, which finds parallels between the brains of Bach, M. C. Escher and the mathematician Kurt GÃ</p>
+        <p>del. In your new book, ''I Am a Strange Loop,'' you seem mainly interested in your own brain. This book is much straighter. It's less crazy. Less daring, maybe.</p>
+        <p>You really know how to plug a book. Well, O.K., I don't know. Questions of consciousness and soul -- that is what the new book was motivated by.</p>
+        <p>You write movingly about your wife, Carol, who died tragically in 1993, and suggest that her soul remains embedded in your consciousness. You can imagine a soul as being a detailed, elaborate pattern that exists very clearly in one brain. When a person dies, the original is no longer around. But there are other versions of it in other people's brains. It's a less detailed copy, it's coarse-grained.</p>
+        <p>You make it sound as if a soul can be Xeroxed. You can't duplicate someone exactly. I didn't say exactly. I said coarse-grained and approximate. Lower-resolution.</p>
+        <p>Aren't you just putting a clever gloss on the phenomenon of memory? Many people believe that our lives end not when we die but when the very last person who knew us dies. Memory is part of it, yes, but I think it's much more than memory. It's the fact that my wife and I, for example, became so intimately engaged that her essence was imported into my brain.</p>
+        <p>Why do you think you are still in mourning after all these years? She died when our children were so young. The chance to watch her children grow up was taken away from her, and that was the thing that absolutely destroyed me.</p>
+        <p>In your book, you also discuss the souls of animals and your conversion to vegetarianism. I don't feel I have the right to snuff the lives of chicken and fish.</p>
+        <p>What about mosquitoes? If a mosquito has a soul, it is mostly evil. So I don't have too many qualms about putting a mosquito out of its misery. I'm a little more respectful of ants.</p>
+        <p>Your father, Robert Hofstadter, won the Nobel Prize in Physics in 1961 for his efforts on behalf of neutrons and electrons. I was 16 when he won. It was a good boost for my shaky ego. I was worried about whether I was a bright person or not.</p>
+        <p>Did you feel reassured when you yourself won a prize -- the Pulitzer, in 1980, for ''Godel, Escher, Bach''? I don't like the idea of prizes, which make too much of a binary distinction between people. But in this case, the prize did me some tangible good. What I gained was academic freedom, the respect of my university.</p>
+        <p>Your entry in Wikipedia says that your work has inspired many students to begin careers in computing and artificial intelligence. I have no interest in computers. The entry is filled with inaccuracies, and it kind of depresses me.</p>
+        <p>So fix it. The next day someone will fix it back.</p>
+        <p>You don't have any interest in artificial intelligence? I've taught a course called ''Hype vs. Hope in A.I.'' Why does this field inspire such nonsense? People who claim that computer programs can understand short stories, or compose great pieces of music -- I find that stuff ridiculously overblown.</p>
+        <p>What does a computer lack that a person has? It has no concepts.</p>
+        <p>I know some people who have no concepts. They do have concepts. People are filled to the brim with concepts. You don't have to know what a concept is in order to have one.</p>
+        <p>DEBORAH SOLOMON</p>
+        <p>THE WAY WE LIVE NOW: 4-01-07: QUESTIONS FOR DOUGLAS HOFSTADTER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

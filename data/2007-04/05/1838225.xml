@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>BMW Puts On a Happy Face</title>
+    <meta content="NUGGET--BMW--5" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Automobiles" name="dsk"/>
+    <meta content="" name="print_section"/>
+    <meta content="Automobiles" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838225"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070405T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0CE1DB173FF936A35757C0A9619C8B63" item-length="279" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>BMW Puts On a Happy Face</hl1>
+      </hedline>
+      <byline class="print_byline">By JAMES SCHEMBARI</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Introduced on Wednesday: BMW 5 Series</p>
+        <p>Is it real? Yes, indeed.</p>
+      </block>
+      <block class="full_text">
+        <p>Introduced on Wednesday: BMW 5 Series</p>
+        <p>Is it real? Yes, indeed.</p>
+        <p>What's the point? Tweaking an already established star with a few more bells, a few more whistles and an engine for the 535i that has already turned heads in the 335i. The 525i becomes the 528i, and the 530i has been renamed the 535i.</p>
+        <p>What they said: "When you look at the car coming down the road, it has a happier face," Rich Brekus, general manager of product planning and strategy, told us.</p>
+        <p>What they didn't say: For those unhappy that the 5 Series has been turning over more of the driving to computers, there's still no relief in sight. New technowidgets include a more precise cruise control and a lane departure warning system.</p>
+        <p>What makes it tick? The 3-liter, twin-turbocharged in-line 6-cylinder brings a 300-horsepower wallop to the 535i. The 528i has a 230 horsepower 3-liter six and the 550i gets a 4.8-liter 360-horsepower V-8. There is, of course, a standard 6-speed manual transmission and an updated six-speed automatic with the electronic gear selector lever found in the X5. There is also an optional sports transmission with shift paddles on the steering wheel for the 535i and 550i. Say goodbye to the Sequential Manual Gearbox, at least for these models.</p>
+        <p>How much, how soon? About $50,000 for the 535i and $60,000 for the 550i. Available now.</p>
+        <p>How's it look? Pretty much like they have since 2004, but that happier face comes from a redesigned air dam and headlights that curve more sharply around the front of the car. The eyelid that gave the old models a Tammy Faye Bakker look has, thankfully, been redesigned.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Rejected Whole Foods Was Simply Too Big</title>
+    <meta content="l22conn-2" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Connecticut Weekly Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="14CN" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1842324"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Food</classifier>
+        <classifier class="indexing_service" type="descriptor">Supermarkets</classifier>
+        <location class="indexing_service">Darien (Conn)</location>
+        <org class="indexing_service">Whole Foods Market Inc</org>
+        <person class="indexing_service">Tallis, Natalie</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Connecticut</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Connecticut</classifier>
+        <classifier class="online_producer" type="general_descriptor">Supermarkets</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D07E0DE173EF931A15757C0A9619C8B63" item-length="195" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Rejected Whole Foods Was Simply Too Big</hl1>
+      </hedline>
+      <abstract>
+        <p>Natalie Tallis letter on April 15 article on rejection of plans for Whole Foods store in Darien, Conn</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>''For Whole Foods, Rejection and Invitation'' (April 15) correctly reports that plans for a Whole Foods store in Darien were rejected because the location was not zoned for a grocery store. But you also write that there was only ''some opposition to the Darien location by residents of a neighboring condominium complex.''</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>''For Whole Foods, Rejection and Invitation'' (April 15) correctly reports that plans for a Whole Foods store in Darien were rejected because the location was not zoned for a grocery store. But you also write that there was only ''some opposition to the Darien location by residents of a neighboring condominium complex.''</p>
+        <p>Saying the condominium residents were the only opposition to the proposed 50,000-square-foot store is comparable to saying the Whole Foods local attorney and public relations team were the only advocates.</p>
+        <p>Christina Minardi, Whole Foods's Northeast regional president, is quoted as saying that first among the criteria the company uses to determine store placement is population density. Whole Foods lobbied residents on what they would do for the town and convinced many people it would be a local and not a regional store. If Whole Foods's interest were the Darien consumer, would not a smaller store like Greenwich's 23,000 square feet do?</p>
+        <p>I am a supporter of a Whole Foods store coming to Darien, but not the behemoth initially proposed. I should mention I am also not a resident of the condominiums mentioned in your article.</p>
+        <p>Natalie Tallis  Darien</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

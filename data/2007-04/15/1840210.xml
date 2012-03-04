@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   SAVER, HARRY N.</title>
+    <meta content="dn041507.3" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="27" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1840210"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">SAVER, HARRY N.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A06E6DB123AF936A25757C0A9619C8B63" item-length="119" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   SAVER, HARRY N.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>SAVER--Harry N., 77, of Scarsdale, NY and Palm Beach, FL died April 10. Graduate of Harvard College and Tufts Medical School, he practiced for many years as an internist in the NYC Hospital system, well-respected by colleagues and students and loved by patients. Devoted husband, father, grandfather, friend, and colleague, he leaves his beloved wife, Esther; his loving sons, daughters-in-law, and grandchildren, Jeffrey and wife Kay Young and their son Dashiell; Richard and wife Joan Krause and their daughter Mikaela. An extraordinarily warm, intelligent, and empathetic man, he was much loved and will be greatly missed. Funeral service Sunday, 1:00pm, Westchester Reform Temple, Scarsdale. Donations in his memory may be made to a medical charity of your choice.</p>
+      </block>
+      <block class="full_text">
+        <p>SAVER--Harry N., 77, of Scarsdale, NY and Palm Beach, FL died April 10. Graduate of Harvard College and Tufts Medical School, he practiced for many years as an internist in the NYC Hospital system, well-respected by colleagues and students and loved by patients. Devoted husband, father, grandfather, friend, and colleague, he leaves his beloved wife, Esther; his loving sons, daughters-in-law, and grandchildren, Jeffrey and wife Kay Young and their son Dashiell; Richard and wife Joan Krause and their daughter Mikaela. An extraordinarily warm, intelligent, and empathetic man, he was much loved and will be greatly missed. Funeral service Sunday, 1:00pm, Westchester Reform Temple, Scarsdale. Donations in his memory may be made to a medical charity of your choice.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TRANSACTIONS</title>
+    <meta content="26trans" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1843029"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070426T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9806EFDD153EF935A15757C0A9619C8B63" item-length="227" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TRANSACTIONS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>M.L.B.--Suspended minor league player Cedrick Brooks for 50 games for testing positive for a drug of abuse in violation of the Minor League Drug Prevention and Treatment Program.</p>
+        <p>American League  YANKEES--Optioned RHP Colter Bean to Scranton-Wilkes Barre (IL). Purchased the contract of RHP Philip Hughes from Scranton-Wilkes Barre.  OAKLAND ATHLETICS--Activated 1B Dan Johnson from the 15-day DL. Optioned C Adam Melhuse to Sacramento (PCL).  TORONTO BLUE JAYS--Placed G Gregg Zaun on the 15-day DL. Purchased the contract of C Sal Fasano from Syracuse (IL).</p>
+        <p>National League  FLORIDA MARLINS--Purchased the contract of RHP Nate Field from Albuquerque (PCL). Transferred RHP Logan Kensing from the 15- to the 60-day DL.  MILWAUKEE BREWERS--Placed RHP Greg Aquino on the 15-day DL, retroactive to April 21.</p>
+        <p>International League  INDIANAPOLIS INDIANS--Released RHP Jim Brower. Recalled C Einar Diaz from Lynchburg (Carolina).  American Association  EL PASO DIABLOS--Agreed to terms with RHP Ned Darley.  LINCOLN SALTDOGS--Agreed to terms with OF Pichi Balet.  ST. JOE BLACKSNAKES--Agreed to terms with INF Brian Rios.</p>
+        <p>Can-Am League  NASHUA PRIDE--Traded LHP Aric Leclair to Camden (Atlantic) for future considerations.  NEW JERSEY JACKALS--Agreed to terms with OF-1B Jeremy Pickrel.  NORTH SHORE SPIRIT--Agreed to terms with OF Chad Gabriel.</p>
+        <p>Northern League  EDMONTON CRACKER-CATS--Agreed to terms with RHP Juan Carlos Ovalles.</p>
+      </block>
+      <block class="full_text">
+        <p>M.L.B.--Suspended minor league player Cedrick Brooks for 50 games for testing positive for a drug of abuse in violation of the Minor League Drug Prevention and Treatment Program.</p>
+        <p>American League  YANKEES--Optioned RHP Colter Bean to Scranton-Wilkes Barre (IL). Purchased the contract of RHP Philip Hughes from Scranton-Wilkes Barre.  OAKLAND ATHLETICS--Activated 1B Dan Johnson from the 15-day DL. Optioned C Adam Melhuse to Sacramento (PCL).  TORONTO BLUE JAYS--Placed G Gregg Zaun on the 15-day DL. Purchased the contract of C Sal Fasano from Syracuse (IL).</p>
+        <p>National League  FLORIDA MARLINS--Purchased the contract of RHP Nate Field from Albuquerque (PCL). Transferred RHP Logan Kensing from the 15- to the 60-day DL.  MILWAUKEE BREWERS--Placed RHP Greg Aquino on the 15-day DL, retroactive to April 21.</p>
+        <p>International League  INDIANAPOLIS INDIANS--Released RHP Jim Brower. Recalled C Einar Diaz from Lynchburg (Carolina).  American Association  EL PASO DIABLOS--Agreed to terms with RHP Ned Darley.  LINCOLN SALTDOGS--Agreed to terms with OF Pichi Balet.  ST. JOE BLACKSNAKES--Agreed to terms with INF Brian Rios.</p>
+        <p>Can-Am League  NASHUA PRIDE--Traded LHP Aric Leclair to Camden (Atlantic) for future considerations.  NEW JERSEY JACKALS--Agreed to terms with OF-1B Jeremy Pickrel.  NORTH SHORE SPIRIT--Agreed to terms with OF Chad Gabriel.</p>
+        <p>Northern League  EDMONTON CRACKER-CATS--Agreed to terms with RHP Juan Carlos Ovalles.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Film in Review; Downtown -- A Street Tale</title>
+    <meta content="20roun-2" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1841620"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Catsoulis, Jeannette</person>
+        <person class="indexing_service">Zielinski, Rafal</person>
+        <person class="indexing_service">Dedio, Joey</person>
+        <person class="indexing_service">Bujold, Genevive</person>
+        <object.title class="indexing_service">Downtown: A Street Tale (Movie)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/Reviews</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070420T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9403E0D71F3FF933A15757C0A9619C8B63" item-length="246" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Film in Review; Downtown -- A Street Tale</hl1>
+      </hedline>
+      <byline class="print_byline">By JEANNETTE CATSOULIS</byline>
+      <byline class="normalized_byline">Catsoulis, Jeannette</byline>
+      <abstract>
+        <p>Jeannette Catsoulis reviews film Downtown: A Street Tale, directed by Rafal Zielinski; Joey Dedio and Genevive Bujold star (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Opens today in Manhattan.  Directed by Rafal Zielinski  103 minutes</p>
+        <p>A hackneyed melodrama partly redeemed by a cast convinced that it's performing Tennessee Williams, ''Downtown: A Street Tale'' follows a bunch of stereotypically damaged people in an abandoned building in New York. Rehashing characters and plots from the ''Law &amp; Order'' playbook, the director, Rafal Zielinski, supplements his material with religious iconography and more gauzy close-ups than a Barbra Streisand marathon. Prostitution, heroin and mental impairment have never looked so pretty.</p>
+      </block>
+      <block class="full_text">
+        <p>Opens today in Manhattan.  Directed by Rafal Zielinski  103 minutes</p>
+        <p>A hackneyed melodrama partly redeemed by a cast convinced that it's performing Tennessee Williams, ''Downtown: A Street Tale'' follows a bunch of stereotypically damaged people in an abandoned building in New York. Rehashing characters and plots from the ''Law &amp; Order'' playbook, the director, Rafal Zielinski, supplements his material with religious iconography and more gauzy close-ups than a Barbra Streisand marathon. Prostitution, heroin and mental impairment have never looked so pretty.</p>
+        <p>Acting as surrogate parents to this makeshift family are Angelo (Joey Dedio, who also wrote the story), the oldest-looking rent boy in town, and Aimee (Geneviève Bujold), a saintly shelter proprietor. Burt Young and John Savage also show up briefly -- as a genial sugar daddy and a wheelchair-bound pimp -- and Martin Scorsese's daughter, Domenica Cameron Scorsese, appears in a central role as a pregnant runaway. No amount of name recognition, however, can distract from the script's banalities; this tale, set at Christmas, is like a cross between ''West Side Story'' and a Nativity play.</p>
+        <p>Filmed in 2004 and only now drifting into limited release, ''Downtown: A Street Tale'' presents its broken protagonists as fallen angels, complete with fuzzy halos. In these not-so-mean streets, salvation is only a cinematographer away.</p>
+        <p>JEANNETTE CATSOULIS</p>
+        <p>''Downtown: A Street Tale'' is rated R (Under 17 requires accompanying parent or adult guardian). It has shooting up, beating up and a whole bunch of acting up.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

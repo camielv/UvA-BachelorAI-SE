@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Power Of Negative Thinking</title>
+    <meta content="01gawande" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Health; Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/05/01/opinion/01gawande.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1844233"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Guest Columnist"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <classifier class="indexing_service" type="descriptor">Hospitals</classifier>
+        <classifier class="indexing_service" type="descriptor">Veterans</classifier>
+        <classifier class="indexing_service" type="descriptor">United States Armament and Defense</classifier>
+        <org class="indexing_service">Walter Reed Army Medical Center (Washington, DC)</org>
+        <person class="indexing_service">Gawande, Atul</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Contributors</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Hospitals</classifier>
+        <classifier class="online_producer" type="descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Veterans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hospitals</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <org class="online_producer">Reed, Walter, Army Medical Center</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070501T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04EFD8133EF932A35756C0A9619C8B63" item-length="679" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Power Of Negative Thinking</hl1>
+        <hl2 class="online_headline">The Power of Negative Thinking</hl2>
+      </hedline>
+      <byline class="print_byline">By ATUL GAWANDE</byline>
+      <byline class="normalized_byline">Gawande, Atul</byline>
+      <abstract>
+        <p>Op-Ed article by Atul Gawande says scandal at Walter Reed Army Medical Center is example of power of negative thinking; holds that Walter Reed's trauma care did excellent job of lowering death rate for wounded soldiers by tracking weekly data on injuries and survival rates, and actively looking for failures and how to overcome them; says medical staff members were encouraged by leaders to think negative, allowing them to pinpoint failures and address them; contends that there was no data on soldiers in rehabilitation and since no one pushed to discover failures, they went unrecognized; says negative thinking is painful but helpful when caring for sick and injured (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>We Americans believe instinctively in the power of positive thinking. Whether one is fighting a cancer, an insurgency or just an unyielding problem at work, the prevailing wisdom is that thinking positive is the key -- The Secret, even -- to success. But the key, it seems to me, is actually negative thinking: looking for, and sometimes expecting, failure.</p>
+        <p>We were given a revealing and, for a surgeon like me, disheartening example recently with the scandal at the Walter Reed Army Medical Center. The real puzzle was how one institution could be responsible for helping to save the highest percentage of battle-wounded soldiers in history and for providing such disturbingly neglectful care afterward.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>We Americans believe instinctively in the power of positive thinking. But the real key is looking for, and sometimes expecting, failure.</p>
+      </block>
+      <block class="full_text">
+        <p>We Americans believe instinctively in the power of positive thinking. Whether one is fighting a cancer, an insurgency or just an unyielding problem at work, the prevailing wisdom is that thinking positive is the key -- The Secret, even -- to success. But the key, it seems to me, is actually negative thinking: looking for, and sometimes expecting, failure.</p>
+        <p>We were given a revealing and, for a surgeon like me, disheartening example recently with the scandal at the Walter Reed Army Medical Center. The real puzzle was how one institution could be responsible for helping to save the highest percentage of battle-wounded soldiers in history and for providing such disturbingly neglectful care afterward.</p>
+        <p>Soldiers told of extraordinary care at Walter Reed that had saved them despite multiple limbs blown away, burns over 90 percent of their bodies, brain injuries previously considered unsurvivable. And then they told of outpatient facilities, at the same hospital, where wheelchair-bound soldiers were stranded without food, the brain-injured denied aid because they couldn't fill out forms.</p>
+        <p>What explains this? The final report recently released by the military's independent review group did not find good people in one department and bad people in another. The soldiers testified over and over about how ''caring'' and ''dedicated'' they found Walter Reed's personnel to be. ''The staff here is great,'' a wounded officer insisted.</p>
+        <p>But in one part of the hospital good people succeeded, and in the other good people failed.</p>
+        <p>The review revealed severe strains -- from plans to close Walter Reed in four years and orders to privatize certain services -- but these pressures applied everywhere at the hospital. The primary difference was whether leaders accepted the value of negative thinking or not.</p>
+        <p>Consider how Walter Reed helped lower the death rate for wounded soldiers. It was 25 percent in the first Persian Gulf war; today it is less than 10 percent. Trauma care did not change. Medical personnel are actually stretched thinner than before. But they have tracked weekly data on injuries and survival rates, and actively looked for failures and how to overcome them.</p>
+        <p>Nothing was too trivial. During a visit with colleagues at Walter Reed early in the Iraq war, I was struck, for example, by their attention to eye-injury statistics. Instead of being proud of saving some soldiers from blindness, the doctors asked a harder, more unnerving question: why had so many injuries occurred? They discovered that the young soldiers weren't wearing their protective goggles. Too ugly, the soldiers said. So the military switched to cooler-looking Wiley X ballistic eyewear. The soldiers wore their eyegear more consistently, and the eye-injury rate dropped immediately.</p>
+        <p>Encouraged by leaders to think negative, medical staff members also reported on transport problems for the injured, soldiers' not wearing their Kevlar, communication glitches, unexpected infections -- and instituted changes to address them. The result: they are saving soldiers who'd never have been saved before.</p>
+        <p>Contrast this with the same leaders' approach to care afterward. The independent review group found zero effort to track how soldiers were doing in rehabilitation. No one pushed to discover failures. As a result, failures were unrecognized, yet everywhere to be seen. The review group found the same problems The Washington Post had: disorganized, bureaucratic care with glaring gaps; dismal living conditions; dangerous staff shortages.</p>
+        <p>''It was a one-sided representation,'' said the Army medical chief and former Walter Reed commander Lt. Gen. Kevin Kiley when the atrocious conditions were first exposed. ''While we have some issues here, this is not a horrific, catastrophic failure.'' He was just trying to think positive.</p>
+        <p>Negative thinking is unquestionably painful. It involves finding and exposing your inadequacies, which can be overwhelming. And not every problem discovered can be solved. You live in a state of perpetual dissatisfaction.</p>
+        <p>That's an unhealthy way to be in large parts of life: you don't want to constantly seek out the inadequacies of your children, your looks, your abilities as you age. But in running schools or businesses, in planning war, in caring for the sick and injured? Negative thinking may be exactly what we need.</p>
+        <p>Guest Columnist Atul Gawande, a general surgeon at Harvard Medical School and a New Yorker staff writer, is the author of ''Better: A Surgeon's Notes on Performance.'' He is a guest columnist this month.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Atul Gawande, a general surgeon at Harvard Medical School and a New Yorker staff writer, is the author of ''Better: A Surgeon's Notes on Performance.'' He is a guest columnist this month.</tagline>
+    </body.end>
+  </body>
+</nitf>

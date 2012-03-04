@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="27corrections-10" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Theater; Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1843305"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Theater</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <person class="indexing_service">Easton, Richard</person>
+        <person class="indexing_service">Plimpton, Martha</person>
+        <object.title class="indexing_service">Coast of Utopia, the (Play)</object.title>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/Plays</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/Plays/Coast of Utopia</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070427T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE3DD123EF934A15757C0A9619C8B63" item-length="83" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of Oct 19 (2006) article about collapse of actor Richard Easton during performance of The Coast of Utopia; his final line quoted; Martha Plimpton was also onstage</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An article on Oct. 19 about the collapse of the actor Richard Easton during a performance of ''The Coast of Utopia'' at Lincoln Center misidentified his final line before he collapsed, and also misidentified an actor onstage at the time. The line was ''That is my last word,'' not ''You can't go to Berlin!'' One of the actors onstage was Martha Plimpton, not Amy Irving. The errors were discovered last week during the editing of an article about distractions actors encounter during performances.</p>
+      </block>
+      <block class="full_text">
+        <p>An article on Oct. 19 about the collapse of the actor Richard Easton during a performance of ''The Coast of Utopia'' at Lincoln Center misidentified his final line before he collapsed, and also misidentified an actor onstage at the time. The line was ''That is my last word,'' not ''You can't go to Berlin!'' One of the actors onstage was Martha Plimpton, not Amy Irving. The errors were discovered last week during the editing of an article about distractions actors encounter during performances.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

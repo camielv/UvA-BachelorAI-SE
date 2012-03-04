@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Writing Poems in Human Calligraphy</title>
+    <meta content="24yang" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/24/arts/dance/24yang.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842523"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="DANCE REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/China/Tibet</classifier>
+        <classifier class="online_producer" type="descriptor">Dancing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dancing</classifier>
+        <location class="online_producer">Tibet</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070424T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9400E4D6173EF937A15757C0A9619C8B63" item-length="362" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Writing Poems in Human Calligraphy</hl1>
+        <hl2 class="online_headline">Writing Poems in Human Calligraphy</hl2>
+      </hedline>
+      <byline class="print_byline">By JENNIFER DUNNING</byline>
+      <byline class="normalized_byline">Dunning, Jennifer</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>There were no cutting-edge eruptions, just the quiet pleasure of well-made art, in four dances performed by Kun-Yang Lin/Dancers on Friday night at Queens Theater in the Park.</p>
+        <p>The evening's premiere, ''Traces of Brush,'' explored the parallels between dance and ancient Chinese calligraphy. Set to charged, atmospheric music by Andy Teirstein, ''Traces'' began with a starkly suggestive poem about calligraphic art, written and read by Myrna Patterson on a dim stage, which she shared with a mysterious, crouching male dancer in a long white skirt.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>There were no cutting-edge eruptions, just the quiet pleasure of well-made art, in four dances performed by Kun-Yang Lin/Dancers on Friday at Queens Theater in the Park.</p>
+      </block>
+      <block class="full_text">
+        <p>There were no cutting-edge eruptions, just the quiet pleasure of well-made art, in four dances performed by Kun-Yang Lin/Dancers on Friday night at Queens Theater in the Park.</p>
+        <p>The evening's premiere, ''Traces of Brush,'' explored the parallels between dance and ancient Chinese calligraphy. Set to charged, atmospheric music by Andy Teirstein, ''Traces'' began with a starkly suggestive poem about calligraphic art, written and read by Myrna Patterson on a dim stage, which she shared with a mysterious, crouching male dancer in a long white skirt.</p>
+        <p>Their move into the wings drew on six other dancers -- Jillian Harris, Adam Klotz, Mr. Lin, Kimberly Miller, Wendy Joy Reinert and Jennifer Rose -- dressed in loose white costumes and moving through what looked like a physicalization of the poem.</p>
+        <p>A solo followed for Chi-Tsung Kuo, a powerful performer whose wearing and manipulation of a soft-feathered fan was filled with as much mystery as his presence at the start.</p>
+        <p>The group then returned for a closing section that looked more like a finale than what was so compellingly suggested at the start: the evocation of the stroke of a brush, the energy of that stroke and what it produced on paper, and the flow and abrupt completion of painted lines.</p>
+        <p>The program, part of the theater's Asian Cultural Festival, also featured ''Moon Dance,'' a solo performed to music by Dead Can Dance, in which Mr. Kuo suggested, and then seemed to become, a bird, the bird's environment and the darkly unpredictable forces of nature, all on a dimly lighted stage under a projected full moon.</p>
+        <p>Mr. Lin's eye for plotting and handsome thematic symmetry was evident in ''Chi.''</p>
+        <p>His ''Emptiness of Snow'' stood out for his gift for moving his dancers fluidly and concisely through sculptural individual body shapes and massed groups. This last piece, to a score by Kenneth Kirschner and Tibetan bell meditation music, was inspired in part by the Asian tsunami of 2004 and by the Zen Buddhist state of an emptiness of mind that leads to spiritual fullness.</p>
+        <p>At their best, Mr. Lin's dances, simultaneously abstract and specific, create and inhabit worlds of their own, informed by that empty fullness.</p>
+        <p>DANCE REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

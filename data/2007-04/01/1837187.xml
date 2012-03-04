@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>QUICK BITE/Saugerties; A 3-Generation Taste for Chocolate</title>
+    <meta content="01weqbiteWC" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Westchester Weekly Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="14WC" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/01/nyregion/nyregionspecial2/01weqbite.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837187"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Westchester"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Chocolate</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <org class="indexing_service">Krause's Chocolates (Saugerties, NY)</org>
+        <person class="indexing_service">Denitto, Emily</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Westchester</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="descriptor">Chocolate</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chocolate</classifier>
+        <location class="online_producer">Westchester County (NY)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E2DC1030F932A35757C0A9619C8B63" item-length="289" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>QUICK BITE/Saugerties; A 3-Generation Taste for Chocolate</hl1>
+        <hl2 class="online_headline">A 3-Generation Taste for Chocolate</hl2>
+      </hedline>
+      <byline class="print_byline">By EMILY DeNITTO</byline>
+      <byline class="normalized_byline">Denitto, Emily</byline>
+      <abstract>
+        <p>Emily DeNitto reviews Krause's Chocolates in Saugerties, NY (Quick Bite column) (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Karl Krause remembers his first chocolate -- a coconut-filled piece of chocolate, to be precise -- as a clandestine thrill he discovered at age 5 in his family's hallway closet.</p>
+        <p>Today, Mr. Krause, 41, is free to start every day with a piece of dark-chocolate-covered nut and caramel. And as the third-generation owner of Krause's Chocolates in Saugerties, that is exactly what he does.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Karl Krause remembers his first chocolate  a coconut-filled piece of chocolate, to be precise  as a clandestine thrill he discovered at age 5 in his family’s hallway closet.</p>
+      </block>
+      <block class="full_text">
+        <p>Karl Krause remembers his first chocolate -- a coconut-filled piece of chocolate, to be precise -- as a clandestine thrill he discovered at age 5 in his family's hallway closet.</p>
+        <p>Today, Mr. Krause, 41, is free to start every day with a piece of dark-chocolate-covered nut and caramel. And as the third-generation owner of Krause's Chocolates in Saugerties, that is exactly what he does.</p>
+        <p>Chocolate aficionados have reason to be envious.</p>
+        <p>Krause's chocolates are handmade daily with fresh ingredients (many of them are also organic), so they always have a just-made, deliciously fragrant taste.</p>
+        <p>The myriad centers, from creams to butter crunch to peanut brittle, are cooked in a big copper pot, then individually hand dipped with special implements so that each chocolate looks slightly different from the next. There are 45 varieties ($9.95 a pound for most; $17.90 a pound for hand-rolled truffles). An extra-dark version, recently added, has a high cocoa content that makes for a stronger, pleasantly bitter taste.</p>
+        <p>The Krause family recipes have been around for nearly 80 years. Mr. Krause's grandfather, Alfred Krause, apprenticed as a candy maker in Germany before immigrating to the United States and eventually opening a shop in Forest Hills, Queens. His son, Manfred, opened the Saugerties store in 1972, and Karl Krause took over in 2001.</p>
+        <p>Krause's is a sunny, lively, well laid-out place just off Esopus Creek that always offers some kind of seasonal treat. Chocolate-covered strawberries were available for Valentine's Day, and chocolate bunnies currently abound.</p>
+        <p>If you can't make it to Saugerties, orders can be made online. Internet-based purchases, first offered about two years ago, now make up 10 percent of sales.</p>
+        <p>Krause's Chocolates, 41 South Partition Street, Saugerties; (845) 246-8377 or krauseschocolates.com.</p>
+        <p>EMILY DeNITTO</p>
+        <p>Westchester</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

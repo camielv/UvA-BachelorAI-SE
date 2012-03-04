@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Out of Albany, in the Money</title>
+    <meta content="16empire-4" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1840854"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE EMPIRE ZONE"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070416T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E1DC113FF935A25757C0A9619C8B63" item-length="145" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Out of Albany, in the Money</hl1>
+      </hedline>
+      <byline class="print_byline">By DANNY HAKIM</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Former Assemblyman Ryan S. Karben left the capital under a cloud last year, but he continues to serve as a fund-raiser for Governor Spitzer, above right.</p>
+        <p>Mr. Karben, 32, was at a breakfast last week at which the governor discussed, among other things, his new federal political action committee, which he plans to use to support Congressional candidates.</p>
+      </block>
+      <block class="full_text">
+        <p>Former Assemblyman Ryan S. Karben left the capital under a cloud last year, but he continues to serve as a fund-raiser for Governor Spitzer, above right.</p>
+        <p>Mr. Karben, 32, was at a breakfast last week at which the governor discussed, among other things, his new federal political action committee, which he plans to use to support Congressional candidates.</p>
+        <p>''He's got a really exciting vision for the state that I first saw when he was running for attorney general in 1998, and I've been supporting him ever since,'' said Mr. Karben, who resigned last year after being accused of improperly fraternizing with interns.</p>
+        <p>Mr. Karben also has been invited to serve on the governor's 2010 re-election finance committee.</p>
+        <p>''I would anticipate committing to raise a minimum of $100,000 for his election,'' said Mr. Karben, who has a law practice in Monsey, N.Y.</p>
+        <p>DANNY HAKIM</p>
+        <p>THE EMPIRE ZONE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

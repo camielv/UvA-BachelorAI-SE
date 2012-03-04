@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Memorials   MUKHADZE, NANA</title>
+    <meta content="dn043007" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1843992"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">MUKHADZE, NANA</person>
+        <classifier class="online_producer" type="types_of_material">Paid Memorial Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070430T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E00E7DB163AF933A05757C0A9619C8B63" item-length="57" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Memorials   MUKHADZE, NANA</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>MUKHADZE--Nana. On May 2, at 2pm at the Columbarium of the Cathedral of St. John Divine there will be a memorial gathering to mark the one year anniversary of Nana Mukhadze's tragic death. Her grieving mother and brother, her many loving friends, and the public that was inspired by her pianism continue to miss her terribly.</p>
+      </block>
+      <block class="full_text">
+        <p>MUKHADZE--Nana. On May 2, at 2pm at the Columbarium of the Cathedral of St. John Divine there will be a memorial gathering to mark the one year anniversary of Nana Mukhadze's tragic death. Her grieving mother and brother, her many loving friends, and the public that was inspired by her pianism continue to miss her terribly.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Famously Sharp Eye, and Appetite, for Artistic Masterpieces</title>
+    <meta content="25coll" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/25/movies/25coll.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842741"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="FILM REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Seitz, Matt Zoller</person>
+        <person class="indexing_service">Stone, Olympia</person>
+        <object.title class="indexing_service">Collector, The (Movie)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="descriptor">Art</classifier>
+        <classifier class="online_producer" type="descriptor">Motion Pictures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+        <person class="online_producer">Stone, Allan</person>
+        <object.title class="online_producer">Collector, The (Movie)</object.title>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070425T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B00E6DB143EF936A15757C0A9619C8B63" item-length="277" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Famously Sharp Eye, and Appetite, for Artistic Masterpieces</hl1>
+        <hl2 class="online_headline">A Famously Sharp Eye, and Appetite, for Artistic Masterpieces</hl2>
+      </hedline>
+      <byline class="print_byline">By MATT ZOLLER SEITZ</byline>
+      <byline class="normalized_byline">Seitz, Matt Zoller</byline>
+      <abstract>
+        <p>Matt Zoller Seitz reviews Olympia Stone documentary film The Collector; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The title of the documentary ''The Collector'' undersells its subject, the influential New York art gallery owner Allan Stone, who died in December after a long career spent introducing the world to his discoveries.</p>
+        <p>As depicted by the filmmaker, Mr. Stone's daughter Olympia, the man's taste in art was breathtakingly eclectic, from African fetish pieces and cigar store Indians to works by Andy Warhol, Willem de Kooning, Franz Kline, Wayne Thiebaud and John Chamberlain. His urge to acquire and display his belongings was so insistent that it crowded the rest of his life, literally.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>“The Collector,” a documentary about influential New York art gallery owner Allan Stone, is fascinating for its nonstop parade of significant 20th-century art.</p>
+      </block>
+      <block class="full_text">
+        <p>The title of the documentary ''The Collector'' undersells its subject, the influential New York art gallery owner Allan Stone, who died in December after a long career spent introducing the world to his discoveries.</p>
+        <p>As depicted by the filmmaker, Mr. Stone's daughter Olympia, the man's taste in art was breathtakingly eclectic, from African fetish pieces and cigar store Indians to works by Andy Warhol, Willem de Kooning, Franz Kline, Wayne Thiebaud and John Chamberlain. His urge to acquire and display his belongings was so insistent that it crowded the rest of his life, literally.</p>
+        <p>When not interviewing Mr. Stone, the artists he championed and the patrons and critics who appreciated his enthusiasm (including Michael Kimmelman, chief art critic for The New York Times), Ms. Stone takes her camera through Mr. Stone's Westchester County home, so packed with notable items that it might be a secret annex of the Smithsonian.</p>
+        <p>Mr. Stone's compulsion was not without unfortunate consequences. His wife and six daughters could feel marginalized by the objects piled around them, and you wish this generally rosy movie had explored those feelings more pointedly. But the film is still fascinating for its nonstop parade of significant 20th-century art, and for Jason Graves's playfully jumbled, sometimes borderline-cacophonous jazz score, which could be the music Mr. Stone heard in his head as he wandered the globe in search of one more acquisition.</p>
+        <p>The Collector  Opens today in Manhattan.</p>
+        <p>Directed and edited by Olympia Stone; music by Jason Graves. At the Two Boots Pioneer Theater, 155 East Third Street, at Avenue A, East Village. Running time: 62 minutes. This film is not rated.</p>
+        <p>FILM REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

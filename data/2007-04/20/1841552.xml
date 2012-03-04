@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>THE CHURN</title>
+    <meta content="20churn" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/20/business/20churn.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1841552"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="The Churn"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Human Resources</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Management</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Executive</classifier>
+        <classifier class="online_producer" type="descriptor">Executives and Management</classifier>
+        <classifier class="online_producer" type="general_descriptor">Executives and Management</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070420T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE3DA1F3FF933A15757C0A9619C8B63" item-length="323" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>THE CHURN</hl1>
+        <hl2 class="online_headline">People</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>People  Eric R. Mason is joining the Carlyle Group as a managing director in the leveraged finance group. He will be based in Hong Kong. He was a managing director and co-head of JPMorgan Chase's syndicated and leveraged finance business in the Asia Pacific region.</p>
+        <p>Morgan Stanley has appointed Blair Pickerell, formerly of HSBC, as a managing director and head of Morgan Stanley Investment Management for Asia.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>People.</p>
+      </block>
+      <block class="full_text">
+        <p>People  Eric R. Mason is joining the Carlyle Group as a managing director in the leveraged finance group. He will be based in Hong Kong. He was a managing director and co-head of JPMorgan Chase's syndicated and leveraged finance business in the Asia Pacific region.</p>
+        <p>Morgan Stanley has appointed Blair Pickerell, formerly of HSBC, as a managing director and head of Morgan Stanley Investment Management for Asia.</p>
+        <p>HSBC Securities (USA) has hired Alexander Shepard and Carmine Gizze. Mr. Shepard, formerly of ABN Amro, joins as a managing director and head of equity trading and sales trading for the Americas. Mr. Gizze, formerly of ICAP Securities, joins the international equity trading team as a senior vice president.</p>
+        <p>Charles Rule, formerly of Fried, Frank, Harris, Shriver and Jacobson, is joining Cadwalader, Wickersham &amp; Taft as head of the firm's antitrust practice.</p>
+        <p>Alan J. Stone has joined Milbank, Tweed, Hadley &amp; McCloy as a partner in the New York office. Mr. Stone was a partner in the Wilmington, Del., office of Morris, Nichols, Arsht &amp; Tunnell.</p>
+        <p>John White  has joined the structured finance practice of Jones Day as a counsel in its Atlanta office. Bruce Luna has joined as an associate. Both were with Cadwalader Wickersham &amp; Taft. Carey Gabay, formerly of Schulte Roth &amp; Zabel, and Katherine Bushueff, formerly of Cadwalader, are joining the structured finance practice of Jones Day in New York as associates.</p>
+        <p>Barry McCarty, a former senior counsel with the Securities and Exchange Commission, has joined Schulte Roth &amp; Zabel as special counsel in the business transactions group.</p>
+        <p>Ken Breen, formerly of Fulbright &amp; Jaworski and a former assistant United States attorney in Brooklyn, joins Paul, Hastings, Janofsky &amp; Walker as a partner.</p>
+        <p>Andrew Silver has joined Houlihan Lokey as a managing director in the basic industrials group.</p>
+        <p>Ralph Miles, formerly of McCarter &amp; English, has joined Venable as a partner to direct the firm's real estate work in New York.</p>
+        <p>The Churn</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

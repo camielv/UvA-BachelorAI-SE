@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Critic's Choice: New CDs</title>
+    <meta content="30choi-1" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1844096"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070430T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9504E3DA133EF933A05757C0A9619C8B63" item-length="363" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Critic's Choice: New CDs</hl1>
+      </hedline>
+      <byline class="print_byline">By KELEFA SANNEH</byline>
+      <byline class="normalized_byline">Sanneh, Kelefa</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Ne-Yo  Because of You (Def Jam)</p>
+        <p>Pity the R&amp;B star Ne-Yo. All he really wants to do is write a few hits (he helped compose Beyoncé's ''Irreplaceable''), croon a few slow jams (his breakthrough single was ''So Sick,'' a winsome ode to a loser), sell a few million albums (he's getting there). But it's never that easy. Mere months after he recorded his heavy-breathed treatise on the importance of bedroom mirrors, a shocking rumor started circulating: it was whispered that the young singer suffered -- not unhappily, perhaps -- from sex addiction.</p>
+      </block>
+      <block class="full_text">
+        <p>Ne-Yo  Because of You (Def Jam)</p>
+        <p>Pity the R&amp;B star Ne-Yo. All he really wants to do is write a few hits (he helped compose Beyoncé's ''Irreplaceable''), croon a few slow jams (his breakthrough single was ''So Sick,'' a winsome ode to a loser), sell a few million albums (he's getting there). But it's never that easy. Mere months after he recorded his heavy-breathed treatise on the importance of bedroom mirrors, a shocking rumor started circulating: it was whispered that the young singer suffered -- not unhappily, perhaps -- from sex addiction.</p>
+        <p>No one can know for sure who started this rumor. (Surely the culprit couldn't possibly be a guy known as Ne-Yo.) No matter: on his second album, ''Because of You,'' this crooner steps up to correct the record. In ''Addicted,'' he sighs about the wages of fame, announces he has ''gotta get some stuff off my chest,'' then -- accompanied by a pleasantly cheap-sounding fake horn section -- works his way up to the grand declaration: ''No. I. Am. Not. I'm not addicted to sex.'' Good to know. One warning, though: ''Girl, I guarantee/That if you lay with me/You just might be.''</p>
+        <p>Ne-Yo has found an enthusiastic audience among the young female listeners who watch BET's ''106 and Park'' and buy tickets for the teenager-friendly ''Scream'' tour. The new album will keep them happy, but it's clearly an attempt to win over their parents: Ne-Yo is drawn to lush arrangements and woo-woo-woo ad libs; he's devoted to the venerable genre known as baby-making music.</p>
+        <p>The title track (and lead single), propelled by a steady kick-drum, seems designed to accompany couples twirling across a dance floor, or a roller rink; ''Can We Chill'' mines similar territory, while giving Ne-Yo yet another chance to demonstrate his love for Michael Jackson. He's got a silky voice and a clear knack for chronicling obsessive love and lust; maybe one day he'll create a half-crazed R&amp;B masterpiece. (''Leaving Tonight,'' a perfectly pulpy duet with Jennifer Hudson, hints at this possibility.) But in the meantime, ''Because of You'' is a likable little album: 12 girl-crazy songs from a boy who can stop anytime he wants. Honest.</p>
+        <p>KELEFA SANNEH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

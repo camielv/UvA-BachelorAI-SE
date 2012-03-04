@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Important Small Fry</title>
+    <meta content="NJsmallfry" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/01/opinion/nyregionopinions/NJsmallfry.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837223"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="New Jersey"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Bribery</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <classifier class="indexing_service" type="descriptor">Government Employees</classifier>
+        <classifier class="indexing_service" type="descriptor">Politics and Government</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <location class="indexing_service">Paterson (NJ)</location>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="descriptor">Bribery</classifier>
+        <classifier class="online_producer" type="descriptor">Government Employees</classifier>
+        <classifier class="online_producer" type="descriptor">Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bribery</classifier>
+        <classifier class="online_producer" type="general_descriptor">Government Employees</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">New Jersey</location>
+        <org class="online_producer">Federal Bureau of Investigation</org>
+        <person class="online_producer">Christie, Christopher J</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0DEED91030F932A35757C0A9619C8B63" item-length="304" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Important Small Fry</hl1>
+        <hl2 class="online_headline">Important Small Fry</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial praises crackdown on 14 low-level city workers in Paterson, NJ, eight of them current or former employees with housing authority, for soliciting and taking bribes in exchange for performing various services, many of which were part of their jobs</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Maybe this is the type of crackdown that will break up the dark cloud of official corruption that has hung over New Jersey for generations. And maybe the crackdown will dispel the cynical attitude that ''everyone does it'' and ''nobody gets caught.''</p>
+        <p>Federal prosecutors last week charged 14 low-level Paterson city workers, eight of them current or former employees with the housing authority, with soliciting and taking bribes in exchange for performing various services, many of which were part of their jobs.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Federal prosecutors last week charged 14 low-level Paterson city workers with soliciting and taking bribes.</p>
+      </block>
+      <block class="full_text">
+        <p>Maybe this is the type of crackdown that will break up the dark cloud of official corruption that has hung over New Jersey for generations. And maybe the crackdown will dispel the cynical attitude that ''everyone does it'' and ''nobody gets caught.''</p>
+        <p>Federal prosecutors last week charged 14 low-level Paterson city workers, eight of them current or former employees with the housing authority, with soliciting and taking bribes in exchange for performing various services, many of which were part of their jobs.</p>
+        <p>One worker was accused of demanding $150 from a cooperating witness for making lead paint inspections that were among her official duties; another allegedly asked a government informant for a $200-a-week retainer for providing unlawful preferential treatment with housing violations.</p>
+        <p>The arrests capped a 14-month undercover investigation by the F.B.I., federal housing officials and the United States attorney's office in Newark. Recent federal convictions involved top officials; the Paterson operation focused on small fry. The highest-ranking employee was Benny Ramos, a former deputy director of the city housing program, who admitted taking up to $100,000.</p>
+        <p>But these are not unimportant arrests. For generations, the state's residents and business owners have been victimized by corrupt government workers who demanded a few hundred dollars for one service or another, and an attitude has taken hold that paying off bureaucrats is a normal cost of living or doing business in New Jersey. If arrests like the ones in Paterson do not scare off potential bribe takers, they should at least encourage some victims to go to the authorities.</p>
+        <p>In announcing the charges, the United States attorney, Christopher Christie, said that low-level government workers were ''sadly mistaken'' if they thought they could escape federal prosecutors' notice. Let's hope that the same is true in the case of all prosecutors -- state and local as well as federal.</p>
+        <p>New Jersey</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

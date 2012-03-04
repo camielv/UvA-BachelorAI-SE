@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="18yuan--refer" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1841183"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070418T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D01EFDC1E3FF93BA25757C0A9619C8B63" item-length="115" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>China Looks Beyond the U.S.  Chinese companies are finding their fastest growth in the world's rapidly growing economies, not the United States.</p>
+        <p>BUSINESS DAY, PAGE C1</p>
+        <p>Iran Arms Seized, U.S. Says  Iranian-made arms bound for the Taliban were seized in Afghanistan, the chairman of the Joint Chiefs of Staff said. It was not clear if Iran authorized the shipment.</p>
+        <p>PAGE A10</p>
+        <p>Signs of Economic Stability  New reports show the economy on an even keel, with inflation showing signs of easing and growth not slipping too far.</p>
+        <p>BUSINESS DAY, PAGE C1</p>
+        <p>N.B.A. Suspends Referee  The referee Joey Crawford was suspended indefinitely for his confrontation with the Spurs' Tim Duncan.</p>
+        <p>SPORTSWEDNESDAY, PAGE D1</p>
+      </block>
+      <block class="full_text">
+        <p>China Looks Beyond the U.S.  Chinese companies are finding their fastest growth in the world's rapidly growing economies, not the United States.</p>
+        <p>BUSINESS DAY, PAGE C1</p>
+        <p>Iran Arms Seized, U.S. Says  Iranian-made arms bound for the Taliban were seized in Afghanistan, the chairman of the Joint Chiefs of Staff said. It was not clear if Iran authorized the shipment.</p>
+        <p>PAGE A10</p>
+        <p>Signs of Economic Stability  New reports show the economy on an even keel, with inflation showing signs of easing and growth not slipping too far.</p>
+        <p>BUSINESS DAY, PAGE C1</p>
+        <p>N.B.A. Suspends Referee  The referee Joey Crawford was suspended indefinitely for his confrontation with the Spurs' Tim Duncan.</p>
+        <p>SPORTSWEDNESDAY, PAGE D1</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

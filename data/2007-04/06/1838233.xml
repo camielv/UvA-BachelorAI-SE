@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   COHEN, OSCAR J</title>
+    <meta content="dn040607" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838233"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">COHEN, OSCAR J</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070406T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9806E3D7153AF935A35757C0A9619C8B63" item-length="53" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   COHEN, OSCAR J</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>COHEN--Oscar J, on April 4th. Former assistant District Attorney for Frank Hogan. Loving husband of Shirley. Devoted father to Debbie Marcus. Dear brother to Millicent Aronoff. Adored grandfather to Danielle Gross and greatgrandfather to Jacob Tyler Gross. Services 11:30 today at Midwood Memorial Chapel 1625 Coney Island Ave, Brooklyn (corner Avenue M).</p>
+      </block>
+      <block class="full_text">
+        <p>COHEN--Oscar J, on April 4th. Former assistant District Attorney for Frank Hogan. Loving husband of Shirley. Devoted father to Debbie Marcus. Dear brother to Millicent Aronoff. Adored grandfather to Danielle Gross and greatgrandfather to Jacob Tyler Gross. Services 11:30 today at Midwood Memorial Chapel 1625 Coney Island Ave, Brooklyn (corner Avenue M).</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

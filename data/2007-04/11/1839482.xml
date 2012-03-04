@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Some Stilted Conversations, but Signs of a Cultural Shift</title>
+    <meta content="11englishside" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Education; New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/11/nyregion/11englishside.html" name="alternate_url"/>
+    <meta content="Education Page" name="feature_page"/>
+    <docdata>
+      <doc-id id-string="1839482"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/France</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/France/Paris</classifier>
+        <classifier class="online_producer" type="general_descriptor">English Language</classifier>
+        <classifier class="online_producer" type="general_descriptor">Business Schools</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Language and Languages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Graduate Schools and Students</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070411T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F06E6D6153FF932A25757C0A9619C8B63" item-length="446" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Some Stilted Conversations, but Signs of a Cultural Shift</hl1>
+        <hl2 class="online_headline">Some Stilted Conversations, but Signs of a Cultural Shift</hl2>
+      </hedline>
+      <byline class="print_byline">By DOREEN CARVAJAL</byline>
+      <byline class="normalized_byline">Carvajal, Doreen</byline>
+      <dateline>PARIS, April 7</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>New business students may yearn to chat with one another in Wall Street English, but the bottom line is that the conversations are a little stilted.</p>
+        <p>In the spacious student building at Essec, a business school in the Paris suburb of Cergy-Pontoise where a quarter of the instruction is in English, the hallways are plastered with fliers promoting local plays in English. But students gather in the common area to speak to one another in French.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>New business students may yearn to chat with one another in Wall Street English, but the bottom line is that the conversations are a little stilted.</p>
+      </block>
+      <block class="full_text">
+        <p>New business students may yearn to chat with one another in Wall Street English, but the bottom line is that the conversations are a little stilted.</p>
+        <p>In the spacious student building at Essec, a business school in the Paris suburb of Cergy-Pontoise where a quarter of the instruction is in English, the hallways are plastered with fliers promoting local plays in English. But students gather in the common area to speak to one another in French.</p>
+        <p>Karen Huggins, 28, a first-year American student in the M.B.A. program, said that when she arrived in September, she quickly realized that she had to change her own style of speaking.</p>
+        <p>''There are still a lot of French students who don't speak very fluent business English with all its terms,'' Ms. Huggins said, adding that a classmate once pulled her aside to urge her to speak more slowly.</p>
+        <p>The shift to English has also brought cultural change to the school, one of France's elite grandes écoles, said Bruno Heraud, director of international recruitment. English-speaking foreign students increase competition with French students, who traditionally believed that the toughest challenge was to pass the admissions test.</p>
+        <p>''Once you were in then, you were finished,'' said Mr. Heraud, describing the prevailing view, which is also being challenged at other grandes écoles. ''You could have fun because you will get the degree, and you will get all the best jobs.''</p>
+        <p>These days, recruiters say, students are conscious of the reality they face beyond the protected confines of the campus when they seek jobs in international companies.</p>
+        <p>Jean-Luc Decornoy, president for France of the global consulting firm KPMG and chairman of the Essec alumni association, said the shift to English at his own company started in 1998 -- coincidentally, the year France was host of the World Cup soccer tournament.</p>
+        <p>Resistance may still come from those over 50, he said, but he believes new students are comfortable with the basic concept that ''English is the language of business.''</p>
+        <p>There are other signs of cultural and linguistic change at Essec. This year, for the first time, an American student was accepted into Foy's, the school's exclusive bar club and the equivalent of a posh fraternity.</p>
+        <p>''For the first time, most of student life is moving into English,'' said Olivier Arnaud-Fenaud, 23, a second-year French student in the M.B.A. program. ''It's going on kind of slowly because Essec traditionally was very, very French.''</p>
+        <p>Many former club members, he said, were surprised to learn an American had been accepted, but the newcomer has already made an important cultural contribution to night life: introducing beer pong, a drinking game that is a staple of American fraternity life.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

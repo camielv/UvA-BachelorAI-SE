@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sarah Gilbert, Shane Tilston</title>
+    <meta content="01gilbert" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/01/fashion/weddings/01gilbert.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837255"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Gilbert, Sarah Charles (Sarah Charles Tilston)</person>
+        <person class="indexing_service">Tilston, Shane L'Estrange</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DEEDE1130F932A35757C0A9619C8B63" item-length="187" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sarah Gilbert, Shane Tilston</hl1>
+        <hl2 class="online_headline">Sarah Gilbert and Shane Tilston</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Sarah Charles Gilbert, a daughter of Mike and Peter Gilbert of Carbondale, Colo., was married on Friday to Shane L'Estrange Tilston, the son of Jennifer Tilston of Brevard, N.C. Marie R. Lennon, the Brooklyn deputy city clerk, officiated at the Municipal Building there.</p>
+        <p>Mrs. Tilston, 28, is the special education teacher and coordinator at the Community Roots Charter School in Brooklyn. She graduated cum laude from Wellesley and received a master's degree in childhood special education from Bank Street College.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The couple were married on Friday at the Municipal Building in Brooklyn.</p>
+      </block>
+      <block class="full_text">
+        <p>Sarah Charles Gilbert, a daughter of Mike and Peter Gilbert of Carbondale, Colo., was married on Friday to Shane L'Estrange Tilston, the son of Jennifer Tilston of Brevard, N.C. Marie R. Lennon, the Brooklyn deputy city clerk, officiated at the Municipal Building there.</p>
+        <p>Mrs. Tilston, 28, is the special education teacher and coordinator at the Community Roots Charter School in Brooklyn. She graduated cum laude from Wellesley and received a master's degree in childhood special education from Bank Street College.</p>
+        <p>Her father is an owner of Gilbert Manufacturing, an electrical device importer in Ipswich, Mass., and was until 1999 the president of the company, then a manufacturer in Long Island City, Queens. Her mother retired as an executive vice president and general manager of the North American subsidiary of Descente, a Japanese sportswear company.</p>
+        <p>Mr. Tilston, 33, is a founder of Hush/Roar Productions, a film production company in Manhattan. He is also a video producer at iThentic in Manhattan, which produces programming for mobile devices. He graduated from Tufts and received a Master of Fine Arts in theater from Sarah Lawrence.</p>
+        <p>His mother is a holistic practitioner.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

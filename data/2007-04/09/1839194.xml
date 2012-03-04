@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Critic's Choice: New CDs</title>
+    <meta content="09choi-5" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1839194"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070409T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03EED6143FF93AA35757C0A9619C8B63" item-length="222" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Critic's Choice: New CDs</hl1>
+      </hedline>
+      <byline class="print_byline">By NATE CHINEN</byline>
+      <byline class="normalized_byline">Chinen, Nate</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Kendrick Scott Oracle  ''The Source''  (World Culture Music)</p>
+        <p>Kendrick Scott is a jazz drummer conversant in an ultramodern sense of propulsion: lightweight yet heavy-gauge, with room for tumbling accents and textures. He has brought this feeling to a few contemporary groups, notably the one led by the trumpeter Terence Blanchard. Now he has planted it at the center of Oracle, a cohort of smart and sympathetic players.</p>
+      </block>
+      <block class="full_text">
+        <p>Kendrick Scott Oracle  ''The Source''  (World Culture Music)</p>
+        <p>Kendrick Scott is a jazz drummer conversant in an ultramodern sense of propulsion: lightweight yet heavy-gauge, with room for tumbling accents and textures. He has brought this feeling to a few contemporary groups, notably the one led by the trumpeter Terence Blanchard. Now he has planted it at the center of Oracle, a cohort of smart and sympathetic players.</p>
+        <p>''The Source,'' Mr. Scott's first album with the group, advances more than a rhythmic ideal: it consists almost entirely of his progressively sleek compositions. (And the lone cover, a Bjork song, is emblematic.) He makes his perspective clear on the opener, ''View From Above,'' a waltz that pairs the saxophonists Myron Walden and Seamus Blake in an intertwining melody, and features a cool investigation by the guitarist Mike Moreno.</p>
+        <p>At times the album has a glow reminiscent of another drummer-led band, Brian Blade Fellowship. (''Psalm'' might stump even Mr. Blade.) What distinguishes Oracle is Mr. Scott's more pronounced attraction to groove.</p>
+        <p>''Mantra'' presents a stealthy pulse in 5/4 meter; ''VCB,'' written with the pianist Robert Glasper, could be an interlude on a Q-Tip album. Those connections come as naturally to Mr. Scott as the post-bop he also explores, which explains why ''The Source'' works so well as a whole.</p>
+        <p>NATE CHINEN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Manhattan: Help For Troubled School</title>
+    <meta content="27mbrfs-5" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Education; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1843310"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Boards of Directors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Frauds and Swindling</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070427T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E03E2DD123EF934A15757C0A9619C8B63" item-length="159" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Manhattan: Help For Troubled School</hl1>
+      </hedline>
+      <byline class="print_byline">By KAREN W. ARENSON; Compiled by John Sullivan</byline>
+      <byline class="normalized_byline">Arenson, Karen W</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Robert F. Kennedy Jr. has joined the board of a holding company that owns a troubled commercial college in New York City, and will head a new educational oversight committee, the company announced yesterday. Mr. Kennedy, above, an environmental lawyer, is a director of the EVCI Career Colleges Holding Corporation, which owns Interboro Institute, a two-year business college that has come under scrutiny for improprieties involving student financial aid. In 2005, state education officials directed Interboro to reduce its size so it could better deal with the issue. The company said the problems were isolated, but its stock plummeted and it was sued by investors. Mr. Kennedy said visits to the college convinced him that it was an ''extraordinary'' school that outperformed ''virtually every school in the nation'' in helping disadvantaged minority students. EVCI also announced an agreement for a $17 million financial package with a private equity firm.</p>
+        <p>KAREN W. ARENSON</p>
+      </block>
+      <block class="full_text">
+        <p>Robert F. Kennedy Jr. has joined the board of a holding company that owns a troubled commercial college in New York City, and will head a new educational oversight committee, the company announced yesterday. Mr. Kennedy, above, an environmental lawyer, is a director of the EVCI Career Colleges Holding Corporation, which owns Interboro Institute, a two-year business college that has come under scrutiny for improprieties involving student financial aid. In 2005, state education officials directed Interboro to reduce its size so it could better deal with the issue. The company said the problems were isolated, but its stock plummeted and it was sued by investors. Mr. Kennedy said visits to the college convinced him that it was an ''extraordinary'' school that outperformed ''virtually every school in the nation'' in helping disadvantaged minority students. EVCI also announced an agreement for a $17 million financial package with a private equity firm.</p>
+        <p>KAREN W. ARENSON</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

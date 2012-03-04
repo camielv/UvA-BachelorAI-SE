@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Taping of Confessions</title>
+    <meta content="l13fbi" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1839901"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070413T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E05E4DB133FF930A25757C0A9619C8B63" item-length="190" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Taping of Confessions</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>You say the F.B.I., ''for practical purposes, forbids the taping of almost all confessions'' (''Battle Over F.B.I. Policy Against Taping of Suspects Comes to Light in Firing Inquiry,'' news article, April 2). While the bureau has and continues to oppose mandatory recording, we recognize that there are many situations in which recording a defendant's interview may benefit the investigation and prosecution.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>You say the F.B.I., ''for practical purposes, forbids the taping of almost all confessions'' (''Battle Over F.B.I. Policy Against Taping of Suspects Comes to Light in Firing Inquiry,'' news article, April 2). While the bureau has and continues to oppose mandatory recording, we recognize that there are many situations in which recording a defendant's interview may benefit the investigation and prosecution.</p>
+        <p>Since 1998, the heads of F.B.I. field offices have had the discretion to allow recording on a case-by-case basis. Last year, the special agents in charge of F.B.I. field offices were reminded in a bureau-wide memorandum that ''supervisors are encouraged to seek permission to record'' and special agents in charge are ''encouraged to grant it'' in any case where it would further the investigation and prosecution.</p>
+        <p>While F.B.I. agents have successfully testified to custodial defendants' statements for generations with only an occasional and rarely successful challenge, we continue to use the option to record if doing so best supports the interests and the goals of the criminal justice system.</p>
+        <p>John Miller  Asst. Director for Public Affairs  Federal Bureau of Investigation  Washington, April 9, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

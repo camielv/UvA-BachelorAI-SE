@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Roosevelt: Schools Chief Resigns</title>
+    <meta content="21mbrfs-6" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Education; New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/21/nyregion/21mbrfs-resignation.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1841858"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="New York"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="online_producer" type="descriptor">Education and Schools</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <person class="online_producer">Ross, Ronald O</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070421T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE7D8163EF932A15757C0A9619C8B63" item-length="108" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Roosevelt: Schools Chief Resigns</hl1>
+        <hl2 class="online_headline">Roosevelt: Schools Chief Resigns</hl2>
+      </hedline>
+      <byline class="print_byline">By WINNIE HU; Compiled by Karin Roberts</byline>
+      <byline class="normalized_byline">Hu, Winnie</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Ronald O. Ross has resigned as superintendent of the troubled Roosevelt Union Free School District, state education officials announced yesterday. Mr. Ross, who was appointed in 2004 by Richard P. Mills, the education commissioner, will step down on June 30, the end of the current school year. In recent weeks, Mr. Ross has come under increasing criticism from local residents as the 2,800-student district, the only one under state oversight, has run up a budget deficit of as much as $12.3 million, according to a state audit. Mr. Ross, who earned $200,000 a year, could not be reached for comment.</p>
+        <p>WINNIE HU</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Ronald O. Ross has resigned as superintendent of the troubled Roosevelt Union Free School District, state education officials announced yesterday. Mr. Ross, who was appointed in 2004 by Richard P. Mills, the education commissioner, will step down on June 30, the end of the current school year. In recent weeks, Mr. Ross has come under increasing criticism from local residents as the 2,800-student district, the only one under state oversight, has run up a budget deficit of as much as $12.3 million, according to a state audit. Mr. Ross, who earned $200,000 a year, could not be reached for comment.</p>
+      </block>
+      <block class="full_text">
+        <p>Ronald O. Ross has resigned as superintendent of the troubled Roosevelt Union Free School District, state education officials announced yesterday. Mr. Ross, who was appointed in 2004 by Richard P. Mills, the education commissioner, will step down on June 30, the end of the current school year. In recent weeks, Mr. Ross has come under increasing criticism from local residents as the 2,800-student district, the only one under state oversight, has run up a budget deficit of as much as $12.3 million, according to a state audit. Mr. Ross, who earned $200,000 a year, could not be reached for comment.</p>
+        <p>WINNIE HU</p>
+        <p>New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

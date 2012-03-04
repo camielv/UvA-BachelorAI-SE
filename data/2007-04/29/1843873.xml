@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>OUT-BOX</title>
+    <meta content="29outbox" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1843873"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990DE7DF133EF93AA15757C0A9619C8B63" item-length="150" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>OUT-BOX</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The five most e-mailed articles from nytimes.com/sports for April 21 to 27.</p>
+        <p>1. FOR N.F.L. DRAFT, THE BIGGEST (XXXXXXL) SLEEPER -- With speed and athleticism, a defensive lineman sheds his anonymity. (Published April 25)</p>
+        <p>2. FINDING THE SWEET SPOT IN A HALL OF FAME SWING -- Alex Rodriguez is off to one of the hottest starts in baseball history. (April 23)</p>
+        <p>3. BASEBALL LOOKS TO CREATE A POSSIBLE PORTAL TO CUBA -- Baseball is preparing to re-establish a relationship with Cuba if the United States lifts its trade embargo. (April 26)</p>
+        <p>4. FIVE HOME RUNS, ONE BIG SWEEP FOR RED SOX -- Boston beats the Yankees with the help of four straight homers. (April 23)</p>
+        <p>5. JOHNSON HAS NO BAGGAGE AND A SEAT IN FIRST CLASS -- Calvin Johnson, perhaps the best player in the N.F.L. draft, lets his receiving do his talking. (April 26)</p>
+      </block>
+      <block class="full_text">
+        <p>The five most e-mailed articles from nytimes.com/sports for April 21 to 27.</p>
+        <p>1. FOR N.F.L. DRAFT, THE BIGGEST (XXXXXXL) SLEEPER -- With speed and athleticism, a defensive lineman sheds his anonymity. (Published April 25)</p>
+        <p>2. FINDING THE SWEET SPOT IN A HALL OF FAME SWING -- Alex Rodriguez is off to one of the hottest starts in baseball history. (April 23)</p>
+        <p>3. BASEBALL LOOKS TO CREATE A POSSIBLE PORTAL TO CUBA -- Baseball is preparing to re-establish a relationship with Cuba if the United States lifts its trade embargo. (April 26)</p>
+        <p>4. FIVE HOME RUNS, ONE BIG SWEEP FOR RED SOX -- Boston beats the Yankees with the help of four straight homers. (April 23)</p>
+        <p>5. JOHNSON HAS NO BAGGAGE AND A SEAT IN FIRST CLASS -- Calvin Johnson, perhaps the best player in the N.F.L. draft, lets his receiving do his talking. (April 26)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

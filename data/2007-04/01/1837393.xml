@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>OFF THE DRIBBLE</title>
+    <meta content="01nbarail" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837393"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="N.B.A."/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Basketball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B06E0DE1E30F932A35757C0A9619C8B63" item-length="346" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>OFF THE DRIBBLE</hl1>
+      </hedline>
+      <byline class="print_byline">By FRED BIERMAN and BENJAMIN HOFFMAN</byline>
+      <byline class="normalized_byline">Hoffman, Benjamin; Bierman, Fred</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Duncan for 3</p>
+        <p>Known for his work in the paint, Spurs forward/center TIM DUNCAN showed his versatility Wednesday in a victory against the Hornets when he made a 3-pointer in the second quarter with the shot clock expiring.</p>
+        <p>It was the first 3-pointer of the season for Duncan, a 7-footer from Wake Forest.</p>
+      </block>
+      <block class="full_text">
+        <p>Duncan for 3</p>
+        <p>Known for his work in the paint, Spurs forward/center TIM DUNCAN showed his versatility Wednesday in a victory against the Hornets when he made a 3-pointer in the second quarter with the shot clock expiring.</p>
+        <p>It was the first 3-pointer of the season for Duncan, a 7-footer from Wake Forest.</p>
+        <p>''If they allowed me to, during the All-Star game I'd join the 3-point shooting contest,'' Duncan told reporters after the game.</p>
+        <p>Duncan may want to hold off though; it was the 23rd 3-pointer of his career. His teammate BRENT BARRY made five in the game to give him 1,291 in his career.</p>
+        <p>King James's Castle</p>
+        <p>LeBRON JAMES seems to be all about suburbia of late. Not only is he the new spokesman for Cub Cadet riding lawn mowers (take a peek at the advertisement on YouTube), but he is also building a huge new house in Bath Township, Ohio, about 20 minutes south of Cleveland.</p>
+        <p>According to The Akron Beacon Journal, the house will be more than 34,000 square feet and will have a two-lane bowling alley, a casino (no one seems quite sure how that is going to work), a barbershop, an aquarium, a recording studio, a six-car garage and a sports bar.</p>
+        <p>The house will come within 800 feet of 19 other houses. The neighbors are already complaining about people snapping pictures of the construction site.</p>
+        <p>The Olé Defense</p>
+        <p>On Thursday night on TNT, a commercial was broadcast showing a film of Red Auerbach discussing the virtues of team defense. It was unfortunate timing, coming during the Phoenix Suns-Golden State Warriors matchup, a game in which the Warriors scored 45 points in the first quarter and the halftime score was 77-63.</p>
+        <p>While Warriors guard JASON RICHARDSON, above, was on his way to a team-record eight 3-pointers and a game-high 36 points, the Suns didn't punish Golden State for venturing into the paint. The Warriors shot only 3 free throws in the first half and 14 in the game.</p>
+        <p>FRED BIERMAN and BENJAMIN HOFFMAN</p>
+        <p>N.B.A.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

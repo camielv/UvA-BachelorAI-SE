@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bid in Hand, IntelSat Looks for More</title>
+    <meta content="17intelsat" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/17/technology/17intelsat.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1841003"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Telephones and Telecommunications</classifier>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="indexing_service" type="descriptor">Satellites</classifier>
+        <org class="indexing_service">Intelsat</org>
+        <org class="indexing_service">Madison Dearborn Partners</org>
+        <org class="indexing_service">Apax Partners Worldwide</org>
+        <org class="indexing_service">Permira</org>
+        <org class="indexing_service">Apollo Management Lp</org>
+        <org class="indexing_service">Blackstone Group</org>
+        <org class="indexing_service">Credit Suisse Group</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Satellites</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070417T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F06EFD8113FF934A25757C0A9619C8B63" item-length="171" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bid in Hand, IntelSat Looks for More</hl1>
+        <hl2 class="online_headline">Bid in Hand, IntelSat Looks for More</hl2>
+      </hedline>
+      <abstract>
+        <p>IntelSat is put up for sale by private equity funds that own it; company was bought for $3.1 billion in 2004 by Madison Dearborn Partners, Apax Partners, Permira and Apollo Management; sale was prompted because it has been approached by Blackstone Group with offer to buy IntelSat for $6 billion; IntelSat has hired Credit Suisse to seek other bidders (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>IntelSat, which runs the world's largest network of communications satellites, has been put up for sale by the private equity funds that own it, according to people close to the company.</p>
+        <p>The company, which is based in Bermuda and managed from Washington, was bought for $3.1 billion in 2004 by Madison Dearborn Partners, Apax Partners, Permira and Apollo Management.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>IntelSat, which runs the world’s largest network of communications satellites, has been put up for sale by the private equity funds that own it.</p>
+      </block>
+      <block class="full_text">
+        <p>IntelSat, which runs the world's largest network of communications satellites, has been put up for sale by the private equity funds that own it, according to people close to the company.</p>
+        <p>The company, which is based in Bermuda and managed from Washington, was bought for $3.1 billion in 2004 by Madison Dearborn Partners, Apax Partners, Permira and Apollo Management.</p>
+        <p>The sale was prompted, the people said, because it had been approached by the Blackstone Group, another private equity fund, with an offer to buy IntelSat for $6 billion. IntelSat has hired Credit Suisse to seek other bidders, a process likely to take at least two months, the people said.</p>
+        <p>A spokeswoman for IntelSat did not return calls seeking comment.</p>
+        <p>The practice of a private equity firm buying a company from another, once relatively rare, is becoming more common, in what is called a secondary buyout. The current owners of IntelSat have already increased the company's debt to $11 billion, and if Blackstone followed its typical pattern, it would add even more.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

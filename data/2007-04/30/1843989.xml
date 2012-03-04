@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   YEARGANS, KAY (NEE SCHNEEWEISS)</title>
+    <meta content="dn043007" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1843989"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">YEARGANS, KAY (NEE SCHNEEWEISS)</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070430T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9507E7DB163AF933A05757C0A9619C8B63" item-length="43" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   YEARGANS, KAY (NEE SCHNEEWEISS)</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>YEARGANS--Kay (nee Schneeweiss). 80. Died unexpectedly on April 26, 2007. Beloved mother of Kara, devoted sister of Sam and Sarah, and aunt of Elliot and Sheryl Gordon. Service Tuesday, May 1st at 2pm at Gramercy Park Memorial Chapel, 152 2nd Ave., Manhattan.</p>
+      </block>
+      <block class="full_text">
+        <p>YEARGANS--Kay (nee Schneeweiss). 80. Died unexpectedly on April 26, 2007. Beloved mother of Kara, devoted sister of Sam and Sarah, and aunt of Elliot and Sheryl Gordon. Service Tuesday, May 1st at 2pm at Gramercy Park Memorial Chapel, 152 2nd Ave., Manhattan.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

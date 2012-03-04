@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>5 Cars Crash in S.I. Police Chase</title>
+    <meta content="27staten" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/27/nyregion/27staten.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1843280"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Law Enforcement and Security</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="descriptor">Police</classifier>
+        <classifier class="online_producer" type="descriptor">Roads and Traffic</classifier>
+        <classifier class="online_producer" type="general_descriptor">Roads and Traffic</classifier>
+        <classifier class="online_producer" type="general_descriptor">Police</classifier>
+        <location class="online_producer">Staten Island (NYC)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070427T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9900E6DD123EF934A15757C0A9619C8B63" item-length="246" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>5 Cars Crash in S.I. Police Chase</hl1>
+        <hl2 class="online_headline">5 Cars Crash in S.I. Police Chase</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A police chase on Staten Island yesterday afternoon ended with five crashed vehicles -- including three police cars -- and a fight between an officer and an occupant of the car being chased, the police said. Both suffered minor injuries in the fight.</p>
+        <p>The chase started on the West Shore Expressway around 5 p.m., when a highway patrol officer tried to pull over a gray Toyota Avalon in the Travis section of Staten island, the police said. They did not explain why the car was being stopped.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A police chase on Staten Island yesterday afternoon ended with five crashed vehicles  including three police cars  and a fight between an officer and an occupant of the car being chased, the police said. Both suffered minor injuries in the fight.</p>
+      </block>
+      <block class="full_text">
+        <p>A police chase on Staten Island yesterday afternoon ended with five crashed vehicles -- including three police cars -- and a fight between an officer and an occupant of the car being chased, the police said. Both suffered minor injuries in the fight.</p>
+        <p>The chase started on the West Shore Expressway around 5 p.m., when a highway patrol officer tried to pull over a gray Toyota Avalon in the Travis section of Staten island, the police said. They did not explain why the car was being stopped.</p>
+        <p>The Toyota, with two men inside, exited at Victory Boulevard and rear-ended a white Ford van, the police said. Two women in the van suffered minor injuries, and the Toyota's engine then caught fire.</p>
+        <p>One of the men in the Toyota fled and was arrested nearby, the police said. The other man forced out the women and drove their van down the expressway to the Glen Street exit, where he crashed, the police said.</p>
+        <p>The highway patrol officer pulled over nearby in pursuit of the driver. They started fighting, the police said. The man jumped into the patrol car, the police said, but two unmarked police cars then crashed into the police cruiser to prevent his escape. He was placed under arrest; the police said charges had not been determined.</p>
+        <p>The police did not give the names of those involved but said they were hospitalized at the North Site of Staten Island University Hospital and at St. Vincent's Staten Island Hospital.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

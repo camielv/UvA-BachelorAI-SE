@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>IN WITH THE NEW</title>
+    <meta content="22suits-4" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1842217"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="OPENERS: SUITS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Suits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F00EFDA163EF931A15757C0A9619C8B63" item-length="158" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>IN WITH THE NEW</hl1>
+      </hedline>
+      <byline class="print_byline">By ELIZABETH OLSON</byline>
+      <byline class="normalized_byline">Olson, Elizabeth</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>When James F. Davis bought New Balance, the athletic shoe company, he paid $100,000 for it. Now, 35 years later, Mr. Davis is stepping down as chief executive of the company, which had $1.55 billion in revenue last year.</p>
+        <p>Mr. Davis, 62, said that it was ''time to introduce younger and more progressive management'' to New Balance, known for offering several widths in its running shoes, and for manufacturing them in the United States, at five sites in Maine and Massachusetts; the company is based in Boston.</p>
+      </block>
+      <block class="full_text">
+        <p>When James F. Davis bought New Balance, the athletic shoe company, he paid $100,000 for it. Now, 35 years later, Mr. Davis is stepping down as chief executive of the company, which had $1.55 billion in revenue last year.</p>
+        <p>Mr. Davis, 62, said that it was ''time to introduce younger and more progressive management'' to New Balance, known for offering several widths in its running shoes, and for manufacturing them in the United States, at five sites in Maine and Massachusetts; the company is based in Boston.</p>
+        <p>Named as Mr. Davis's successor was Robert T. DeMartini, 45, who was vice president for consumer products at Tyson Foods and has worked at Procter &amp; Gamble and Gillette.</p>
+        <p>Mr. Davis, who has an estimated net worth of $2 billion, will not be idling away his days in retirement. He will remain chairman of the family-owned New Balance, where his wife, Anne Davis, is vice chairwoman.</p>
+        <p>ELIZABETH OLSON</p>
+        <p>OPENERS: SUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Adding Method to Judging Mayhem</title>
+    <meta content="02bar" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/02/us/02bar.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837551"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="SIDEBAR"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="indexing_service" type="descriptor">Capital Punishment</classifier>
+        <classifier class="indexing_service" type="descriptor">Jury System</classifier>
+        <classifier class="indexing_service" type="descriptor">Sentences (Criminal)</classifier>
+        <classifier class="indexing_service" type="descriptor">Public Opinion</classifier>
+        <person class="indexing_service">Liptak, Adam</person>
+        <person class="indexing_service">Welner, Michael (Dr)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">Decisions and Verdicts</classifier>
+        <classifier class="online_producer" type="descriptor">Capital Punishment</classifier>
+        <classifier class="online_producer" type="descriptor">Courts</classifier>
+        <classifier class="online_producer" type="descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Courts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Jury System</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sentences (Criminal)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Capital Punishment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Decisions and Verdicts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Public Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070402T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E7D71E30F931A35757C0A9619C8B63" item-length="827" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Adding Method to Judging Mayhem</hl1>
+        <hl2 class="online_headline">Adding Method to Judging Mayhem</hl2>
+      </hedline>
+      <byline class="print_byline">By ADAM LIPTAK</byline>
+      <byline class="normalized_byline">Liptak, Adam</byline>
+      <abstract>
+        <p>Adam Liptak Sidebar column notes New York University professor Dr Michael Welner is working on 'depravity scale' to aid juries in separating worst of worst criminals; study is based on Internet survey that asks respondents to rank various acts in order of heinousness; Welner's aim is to use objectivity of science to help jurors confronted with sentencing phase in capital trials to sentence consistently; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>There are, Dr. Michael H. Stone says, 22 varieties of killers, and he has ranked them in order of evil.</p>
+        <p>The worst are your psychopathic torture-murderers, at least where torture is the primary motive. Near the other end, at No. 4, are those who killed in self-defense ''but had been extremely provocative towards the victim.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Two scientific scales of evil and depravity being developed in New York might help juries make sentencing decisions.</p>
+      </block>
+      <block class="full_text">
+        <p>There are, Dr. Michael H. Stone says, 22 varieties of killers, and he has ranked them in order of evil.</p>
+        <p>The worst are your psychopathic torture-murderers, at least where torture is the primary motive. Near the other end, at No. 4, are those who killed in self-defense ''but had been extremely provocative towards the victim.''</p>
+        <p>Dr. Stone, a professor of clinical psychiatry at Columbia, said he had put the scale together based on the biographies of hundreds of killers. ''I have a very extensive spreadsheet,'' he said.</p>
+        <p>Dr. Michael Welner, a clinical associate professor of psychiatry at New York University, has even greater and much more practical ambitions. He is at work on a ''depravity scale'' to aid juries in separating the worst of the worst from the really bad. It is based on an Internet survey that asks respondents to rank various acts in order of heinousness.</p>
+        <p>I took the survey the other day, at www.depravityscale.org , but I found it hard and largely pointless to try to distinguish between, say, a contract killing and mailing anthrax.</p>
+        <p>It feels odd to put degrees of depravity up for a vote, but Dr. Welner's work follows the erratic logic of death penalty jurisprudence.</p>
+        <p>For ordinary crimes, we rely on legislatures to distinguish among blameworthy acts in criminal codes. Juries determine guilt. Judges decide sentences, often guided by sentencing laws.</p>
+        <p>But we ask more of juries in capital trials. They must decide whether convicted defendants deserve to die.</p>
+        <p>In the second, sentencing phase of a capital trial, juries weigh aggravating factors against mitigating ones. The sum of that calculation equals life or death.</p>
+        <p>Most states have long lists of possible aggravating factors, often including, for instance, killings committed during other felonies, torture and terrorism. But prosecutors are fond of relying on one aggravating factor in particular -- that the murder was heinous, atrocious or cruel.</p>
+        <p>That is pretty vague, and that is where Dr. Welner comes in. His aim is to use the objectivity of science to help jurors confronted with that phrase to sentence consistently.</p>
+        <p>Dr. Welner said he had collected 17,000 responses to one part of the survey. He wants more before he rolls out his depravity scale for use in the courts, but he gave me a tentative idea of what people are saying.</p>
+        <p>Almost everyone agrees that intending to inflict emotional trauma qualifies as depraved. But what racked up the biggest numbers as ''especially depraved,'' he said, was ''prolonging the duration of a victim's suffering.''</p>
+        <p>''The weakest supported item,'' Dr. Welner said, is an ''extreme response to a trivial irritant.'' The survey gives road rage as an example.</p>
+        <p>The survey could also help lawyers in selecting juries. Women, Dr. Welner said, are more likely to think particular acts are especially depraved. Defense lawyers and prosecutors, perhaps because they are inured to depravity, tend the opposite way.</p>
+        <p>Dr. Stone, who developed the 22-part taxonomy of evil, said his work was not meant for judges and juries. ''I don't much care about the legal system,'' Dr. Stone said. ''Welner is transfixed with the legal system. I'm not.''</p>
+        <p>The Supreme Court has never been particularly comfortable with vague phrases like ''heinous, atrocious and cruel.'' Justices have repeatedly mused that all murders can be said to be depraved, and the court has sometimes struck down death sentences based on that factor.</p>
+        <p>But in 1990 the court sustained an Arizona death sentence based on a finding that the murder had been committed ''in an especially heinous, cruel or depraved manner.'' The court said the sentence passed muster because Arizona courts had defined the phrase narrowly.</p>
+        <p>The list of what qualifies as depraved in Arizona, however, includes the senselessness of the crime, the helplessness of the victim, the apparent relishing of the murder, the age of the victim, ''needless mutilation'' (as opposed, one supposes, to the kind necessary to the murder), the fact that the victim had been kind to the killer, special bullets, ''gratuitous violence'' and ''total disregard for human life.''</p>
+        <p>As Justice Harry A. Blackmun said in dissent in the 1990 case, ''there would appear to be few first-degree murders the Arizona Supreme Court would not define as especially heinous or depraved.''</p>
+        <p>Dr. Welner intends to bring some order to this chaos, to sort out the mayhem.</p>
+        <p>Prof. Robert Blecker, an authority on the death penalty at New York Law School who sits on an advisory board assisting Dr. Welner, said the survey had the potential to focus attention on sadistic cruelty, which he said ''is the essence of who deserves to die.''</p>
+        <p>But Professor Blecker also worried about how a numerical scale would be used in practice. ''Would it remove the arbitrariness?'' he asked. ''Or merely give the illusion of objectivity?''</p>
+        <p>The current system of capital sentencing, which the Supreme Court likes to call guided discretion, is not quite an oxymoron. But, as efforts to make scientific sense of it demonstrate, it is something like one.</p>
+        <p>SIDEBAR</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

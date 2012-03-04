@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>30 SECONDS WITH COBI JONES</title>
+    <meta content="01seconds" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/01/sports/soccer/01seconds.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837368"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="30 Seconds"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Interview</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Soccer</classifier>
+        <classifier class="online_producer" type="descriptor">Soccer</classifier>
+        <classifier class="online_producer" type="general_descriptor">Soccer</classifier>
+        <org class="online_producer">Major League Soccer</org>
+        <org class="online_producer">Los Angeles Galaxy</org>
+        <person class="online_producer">Jones, Cobi</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B04EFD71130F932A35757C0A9619C8B63" item-length="309" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>30 SECONDS WITH COBI JONES</hl1>
+        <hl2 class="online_headline">With Cobi Jones</hl2>
+      </hedline>
+      <byline class="print_byline">By MICHAEL S. SCHMIDT</byline>
+      <byline class="normalized_byline">Schmidt, Michael S</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Midfielder Cobi Jones, the only player who has remained with his Major League Soccer team since the league's debut in 1996, has announced that he will retire at the end of the season. Jones, 36, has played 281 games for the Los Angeles Galaxy.</p>
+        <p>MICHAEL S. SCHMIDT</p>
+        <p>YOU HAVE A SPECIAL VIDEO GAME ROOM IN YOUR HOUSE? -- I am a kid from the '70s, when video games first started coming out, so I definitely have to say I am a video game junkie to this day. I am a rare breed of a guy in his 30s that still plays video games.</p>
+        <p>WHAT ARE YOU READING? -- I am in the middle of ''Fast Food Nation.'' That is the main one I am trying to get through. I am also reading ''Infidel.''</p>
+        <p>THREE DINNER GUESTS? -- It would have to be a great-great-great grandfather or grandmother on my mom or dad's side just to hear my own self history. The other one would have to be Jesus Christ, for obvious reasons. I am a big history buff, so I would have to go with an Egyptian pharaoh or a Roman emperor.</p>
+        <p>HOW WILL YOUR TEAMMATES RECEIVE DAVID BECKHAM? -- Everyone on our team will have the same response. We understand he is a big-time player. He is well known and internationally famous. It will bring a lot of attention to the team and he will take up most of the attention on the team, but that happens throughout your career in sports. I don't think anyone will have an adverse reaction to Beckham coming to the team.</p>
+        <p>RETIREMENT PLANS? Spending a lot more time in my video game room. But, it's uncharted territory for me. I wish to stay within the soccer world and grow the sport in this country.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Galaxy midfielder Cobi Jones is the only player who has remained with his M.L.S. team since the league’s debut in 1996. He will retire at the end of the season.</p>
+      </block>
+      <block class="full_text">
+        <p>Midfielder Cobi Jones, the only player who has remained with his Major League Soccer team since the league's debut in 1996, has announced that he will retire at the end of the season. Jones, 36, has played 281 games for the Los Angeles Galaxy.</p>
+        <p>MICHAEL S. SCHMIDT</p>
+        <p>YOU HAVE A SPECIAL VIDEO GAME ROOM IN YOUR HOUSE? -- I am a kid from the '70s, when video games first started coming out, so I definitely have to say I am a video game junkie to this day. I am a rare breed of a guy in his 30s that still plays video games.</p>
+        <p>WHAT ARE YOU READING? -- I am in the middle of ''Fast Food Nation.'' That is the main one I am trying to get through. I am also reading ''Infidel.''</p>
+        <p>THREE DINNER GUESTS? -- It would have to be a great-great-great grandfather or grandmother on my mom or dad's side just to hear my own self history. The other one would have to be Jesus Christ, for obvious reasons. I am a big history buff, so I would have to go with an Egyptian pharaoh or a Roman emperor.</p>
+        <p>HOW WILL YOUR TEAMMATES RECEIVE DAVID BECKHAM? -- Everyone on our team will have the same response. We understand he is a big-time player. He is well known and internationally famous. It will bring a lot of attention to the team and he will take up most of the attention on the team, but that happens throughout your career in sports. I don't think anyone will have an adverse reaction to Beckham coming to the team.</p>
+        <p>RETIREMENT PLANS? Spending a lot more time in my video game room. But, it's uncharted territory for me. I wish to stay within the soccer world and grow the sport in this country.  30 Seconds</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

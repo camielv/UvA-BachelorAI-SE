@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Up Front</title>
+    <meta content="Upfront.t" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/22/books/review/Upfront.t.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1841930"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="descriptor">Books and Literature</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+        <org class="online_producer">Times of London</org>
+        <person class="online_producer">Wagner, Erica</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E05E4D7123FF931A15757C0A9619C8B63" item-length="213" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Up Front</hl1>
+        <hl2 class="online_headline">Up Front</hl2>
+      </hedline>
+      <byline class="print_byline">By The Editors</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Erica Wagner, the literary editor of The Times of London, was born and raised in Manhattan. ''My first job was helping my parents answer all the fan mail for the Muppets,'' she told us in an e-mail message. ''That was their job when I was growing up.'' Wagner later attended Cambridge University and decided to stay in England after graduation. In addition to running The Times of London's books section, she's written several books herself, including ''Ariel's Gift: Ted Hughes, Sylvia Plath and the Story of 'Birthday Letters,' '' and a recently published novel, ''Seizure.''</p>
+        <p>Wagner has also, we are happy to note, become a regular contributor to the Book Review -- her recent pieces include reviews of books by Amy Hempel, Edna O'Brien and Roald Dahl, and in this issue she assesses Dani Shapiro's new novel, ''Black &amp; White.'' How does she get it all done? ''I get up early -- O.K., I try to -- and I've taught myself to write in the evenings, which I never used to do,'' Wagner says. ''My husband is a writer too, so he knows the drill, and we give each other space to work. I like to go away to write, if I can. France is good. Hard work followed by excellent cheese.''</p>
+        <p>The Editors</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Erica Wagner, the literary editor of The Times of London, also writes books and has become a a regular contributor to the Book Review.</p>
+      </block>
+      <block class="full_text">
+        <p>Erica Wagner, the literary editor of The Times of London, was born and raised in Manhattan. ''My first job was helping my parents answer all the fan mail for the Muppets,'' she told us in an e-mail message. ''That was their job when I was growing up.'' Wagner later attended Cambridge University and decided to stay in England after graduation. In addition to running The Times of London's books section, she's written several books herself, including ''Ariel's Gift: Ted Hughes, Sylvia Plath and the Story of 'Birthday Letters,' '' and a recently published novel, ''Seizure.''</p>
+        <p>Wagner has also, we are happy to note, become a regular contributor to the Book Review -- her recent pieces include reviews of books by Amy Hempel, Edna O'Brien and Roald Dahl, and in this issue she assesses Dani Shapiro's new novel, ''Black &amp; White.'' How does she get it all done? ''I get up early -- O.K., I try to -- and I've taught myself to write in the evenings, which I never used to do,'' Wagner says. ''My husband is a writer too, so he knows the drill, and we give each other space to work. I like to go away to write, if I can. France is good. Hard work followed by excellent cheese.''</p>
+        <p>The Editors</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

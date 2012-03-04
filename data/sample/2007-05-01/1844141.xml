@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   GEWIRTZ, GERALDINE</title>
+    <meta content="dn050107" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1844141"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">GEWIRTZ, GERALDINE</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070501T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE3DB163AF932A35756C0A9619C8B63" item-length="47" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   GEWIRTZ, GERALDINE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>GEWIRTZ--Geraldine. Died April 30th, 2007. Beloved mother and grandmother and devoted wife of the late Seymour Gewirtz. Survived by children Henry, Elliot, Alan, and David, and grandchildren Aaron, Rebekah, Lisa, Eric, Jamie, Emily, Joshua and Andrew. Mother-inlaw to Barbara, Liz and Lisa, and the late Nancy.</p>
+      </block>
+      <block class="full_text">
+        <p>GEWIRTZ--Geraldine. Died April 30th, 2007. Beloved mother and grandmother and devoted wife of the late Seymour Gewirtz. Survived by children Henry, Elliot, Alan, and David, and grandchildren Aaron, Rebekah, Lisa, Eric, Jamie, Emily, Joshua and Andrew. Mother-inlaw to Barbara, Liz and Lisa, and the late Nancy.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Q &amp; A</title>
+    <meta content="12askk" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/12/technology/12askk.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1839683"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Q &amp; A"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070412T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE4DA123FF931A25757C0A9619C8B63" item-length="720" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Q &amp; A</hl1>
+        <hl2 class="online_headline">Custom Icons for Windows Vista</hl2>
+      </hedline>
+      <byline class="print_byline">By J. D. BIERSDORFER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Custom Icons For Windows Vista</p>
+        <p>Q. Is there a way to change folder icons in Windows Vista from something besides those annoying manila folders?</p>
+        <p>A. As in previous versions of Microsoft Windows (and on the Macintosh), you can change many of the desktop and folder icons to other images.</p>
+        <p>One way to change the standard Windows desktop icons (like the Recycle Bin) is by right-clicking on the desktop and selecting Personalize from the menu. On the left side of the next window, choose ''Change desktop icons'' and select the icon you want to change. Click on the Change Icon button to open a window to select a new icon from the offerings, or browse to a file or folder of icons you may have downloaded from the Web already.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Is there a way to change folder icons in Windows Vista from something besides those annoying manila folders?</p>
+      </block>
+      <block class="full_text">
+        <p>Custom Icons For Windows Vista</p>
+        <p>Q. Is there a way to change folder icons in Windows Vista from something besides those annoying manila folders?</p>
+        <p>A. As in previous versions of Microsoft Windows (and on the Macintosh), you can change many of the desktop and folder icons to other images.</p>
+        <p>One way to change the standard Windows desktop icons (like the Recycle Bin) is by right-clicking on the desktop and selecting Personalize from the menu. On the left side of the next window, choose ''Change desktop icons'' and select the icon you want to change. Click on the Change Icon button to open a window to select a new icon from the offerings, or browse to a file or folder of icons you may have downloaded from the Web already.</p>
+        <p>You can change a folder's icon by right-clicking on it and selecting Properties from the resulting menu. Click on the Customize tab in the Properties box and then click on the Change Icon button at the bottom of the box. If you don't want to use one of the standard Windows icon options, click the Browse button to hunt around your hard drive for the icon you want and click the Open button to select it. Click on the O.K. button to complete the process.</p>
+        <p>If you're interesting in getting new icons, the IconFactory Web site is a good place to start. It offers free icon downloads for both Windows and Macintosh systems. (For Mac OS X users wanting to change their desktop icons, the site also has instructions at iconfactory.com/help/help--mac.html.) If you'd like to make your own icons, there are plenty of programs to choose from, including Microangleo's Toolset 6 (www.microangelo.us) and Axialis IconWorkshop (www.axialis.com/iconworkshop).</p>
+        <p>Writing Locally, Sending Globally</p>
+        <p>Q. Does it cost the same to send a text message from my mobile phone to a phone in Europe as it does to send a message locally?</p>
+        <p>A. Most wireless phones can now exchange short text messages of about 160 characters or less. Messages typed on the phone's keypad can be sent to a phone number or to an e-mail address. Some carriers charge about 15 cents a message domestically.</p>
+        <p>Check with your wireless carrier for specific rates or what your phone plan includes in your monthly bill. If you are paying a fee for each message, the rate for sending a text note internationally might be about 5 or 10 cents higher than the price of sending a message to a phone number in the United States.</p>
+        <p>Some Protection For Work on Web</p>
+        <p>Q. I noticed some Web sites have a ''Creative Commons license'' on the page? What does this mean?</p>
+        <p>A. Many Web sites guard their content with a Creative Commons license, which is a legal protection based on copyright laws. A Creative Commons license states how other people may use the content, and it applies to the same types of works that are protected under copyright law. Along with Web sites, things like blogs, videos, photographs and audio recordings are among the content types covered.</p>
+        <p>If you apply for a free Creative Commons license, you have the chance to state how other people may use your work -- including adapting it, attributing it, distributing it or using it for commercial purposes. The license does not give you the power to stop people from using your material in ways that are protected by standard copyright law, like fair use of the work.</p>
+        <p>(The concept of fair use, described at www.copyright.gov/fls/fl102.html, includes the ability to reproduce a short excerpt or quotation of a work for the purpose of education or criticism.)</p>
+        <p>Creative Commons itself is a nonprofit corporation founded in 2001. More information is available on its Web site at www.creativecommons.org. For those considering a Creative Commons license, detailed information on the types of licenses and what rights each type protects can be found at wiki.creativecommons.org/FAQ.</p>
+        <p>The Creative Commons license has held up in court. A notable case in 2006 involved Adam Curry, a former MTV video jockey, who sued a Dutch tabloid that published the family photos Mr. Curry had displayed under a Creative Commons license on the Flickr photo-sharing site. The District Court of Amsterdam ruled in Mr. Curry's favor.</p>
+        <p>J. D. BIERSDORFER</p>
+        <p>Q &amp; A</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

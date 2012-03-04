@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Mining a Design School's Archives, Reinterpreting the Work of Women</title>
+    <meta content="12fabric" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1839645"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CURRENTS: FABRIC"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Textiles</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">Pollack (Textile Co)</org>
+        <org class="indexing_service">Rhode Island School of Design Museum</org>
+        <person class="indexing_service">Treffinger, Stephen</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Textiles</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070412T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990DE5DB123FF931A25757C0A9619C8B63" item-length="131" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Mining a Design School's Archives, Reinterpreting the Work of Women</hl1>
+      </hedline>
+      <byline class="print_byline">By STEPHEN TREFFINGER</byline>
+      <byline class="normalized_byline">Treffinger, Stephen</byline>
+      <abstract>
+        <p>Pollack, New York-based company, is offering 21 fabrics inspired by handmade textiles from archives at Museum of Art of the Rhode Island School of Design; photos (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Women's Work: A Common Thread, a collection of 21 fabrics from Pollack, a company based in New York, was inspired by handmade textiles from the archives at the Museum of Art of the Rhode Island School of Design. Mark Pollack, the company's design director and an alumnus of the school, said he was ''amazed by the range of techniques'' he found there, and by ''the amount of labor that went into them.'' Hmong Plush ($130 a yard), below left, is a viscose jacquard based on a batik skirt made by women in Southeast Asia. A Touch of the Bubbly ($125 a yard), below right, a wool upholstery fabric, was suggested by pompoms on a 1960s American blouse. Gracious Home, 1217 Third Avenue (70th Street), (212) 517-6300.</p>
+        <p>STEPHEN TREFFINGER</p>
+      </block>
+      <block class="full_text">
+        <p>Women's Work: A Common Thread, a collection of 21 fabrics from Pollack, a company based in New York, was inspired by handmade textiles from the archives at the Museum of Art of the Rhode Island School of Design. Mark Pollack, the company's design director and an alumnus of the school, said he was ''amazed by the range of techniques'' he found there, and by ''the amount of labor that went into them.'' Hmong Plush ($130 a yard), below left, is a viscose jacquard based on a batik skirt made by women in Southeast Asia. A Touch of the Bubbly ($125 a yard), below right, a wool upholstery fabric, was suggested by pompoms on a 1960s American blouse. Gracious Home, 1217 Third Avenue (70th Street), (212) 517-6300.</p>
+        <p>STEPHEN TREFFINGER  CURRENTS: FABRIC</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

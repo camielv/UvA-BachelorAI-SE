@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Smart-Pill Solution</title>
+    <meta content="01nathan" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health; Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/01/opinion/01nathan.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837352"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Op-Ed Contributor"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Contributors</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Cancer</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="descriptor">Cancer</classifier>
+        <classifier class="online_producer" type="descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="descriptor">Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="descriptor">DNA (Deoxyribonucleic Acid)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cancer</classifier>
+        <classifier class="online_producer" type="general_descriptor">DNA (Deoxyribonucleic Acid)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9902E1D81130F932A35757C0A9619C8B63" item-length="633" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Smart-Pill Solution</hl1>
+        <hl2 class="online_headline">The Smart-Pill Solution</hl2>
+      </hedline>
+      <byline class="print_byline">By David G. Nathan</byline>
+      <byline class="normalized_byline">Nathan, David G</byline>
+      <dateline>Boston</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>OUR sympathy for Elizabeth Edwards and Tony Snow is understandably shadowed by worry and frustration. Will they be saved, and will our own loved ones be saved as well? Since 1971, when President Nixon declared war on cancer, the budget of the National Cancer Institute has increased to $4.8 billion from half a billion, and private donations have likewise increased. Why don't we have more to show for this generous effort?</p>
+        <p>The simplest answer is that it has taken us this long to begin to decipher the genetic mutations involved in cancer. Until we could see how changes in DNA actually drive the disease, we could do nothing to interfere with it beyond surgery, radiation therapy and standard chemotherapy. But in recent years we have created and begun to apply so-called targeted-therapy drugs. And though progress is slow, it is fair to say that we have finally turned an important corner.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Targeted-therapy drugs are helping us turn a corner.</p>
+      </block>
+      <block class="full_text">
+        <p>OUR sympathy for Elizabeth Edwards and Tony Snow is understandably shadowed by worry and frustration. Will they be saved, and will our own loved ones be saved as well? Since 1971, when President Nixon declared war on cancer, the budget of the National Cancer Institute has increased to $4.8 billion from half a billion, and private donations have likewise increased. Why don't we have more to show for this generous effort?</p>
+        <p>The simplest answer is that it has taken us this long to begin to decipher the genetic mutations involved in cancer. Until we could see how changes in DNA actually drive the disease, we could do nothing to interfere with it beyond surgery, radiation therapy and standard chemotherapy. But in recent years we have created and begun to apply so-called targeted-therapy drugs. And though progress is slow, it is fair to say that we have finally turned an important corner.</p>
+        <p>For most of the past half-century, medical treatment of invasive tumors like those of the breast and colon has relied mainly on drugs, radiation or both, in effect carpet-bombing the DNA of cancer cells. This highly toxic treatment is effective in many cases, but it does not address the root causes of cancer.</p>
+        <p>Fortunately, the revolution in genetics of the past 30 years has taught us how cancer results from defects in DNA repair that arise when certain genes are damaged by solar radiation, tobacco smoke and the chemical products of intestinal bacteria and cell metabolism. Cancer cell genes depend on only a very small number of mutated genes to ensure their own survival. These are typically the genes responsible for repairing other genes and for controlling growth and death. Our challenge is to outsmart the cancer by determining which genes are keeping the cancer going, and to design drugs that can inhibit them.</p>
+        <p>The first such ''smart'' agent to see action in patients has been trastuzumab, better known as Herceptin, which is not a drug in the strict sense but rather a large protein, an antibody that binds to a growth-controlling protein found in about 20 percent of patients with a highly aggressive form of breast cancer. When it is administered with standard chemotherapy and radiation, Herceptin ties up the protein, and thus markedly improves the survival of such patients.</p>
+        <p>Gleevec (imatinib), the first smart anticancer pill, inhibits a protein produced by a single gene that is key to the growth of a form of leukemia. Even more remarkable has been Gleevec's effect on an intractable bowel cancer known as gastrointestinal stromal tumor, a ravaging tumor derived from nerve cells in the bowel wall. In its early stages, this cancer is driven by a single gene and its protein, and it can be inhibited overnight by a single dose of Gleevec. A substantial number of patients who have received this drug have remained in remission for years.</p>
+        <p>There are now at least 100 such smart antibodies and drugs in practice, clinical trials or development. Among them are Iressa (gefitinid) and Tarceva (erlotinib), which are effective in treating about 10 percent of lung cancers, those that are initiated by a specific mutation in a growth-controlling gene. But we need many more, because cancer cells are wily foes that readily develop further mutations to help them evade such drugs. Also, because cancer cells are genetically unstable and vary slightly from one to the next, it is difficult for a single drug attacking a single protein to do the whole job. We need multiple smart drugs, and creating them will take time.</p>
+        <p>Patients, organizations that finance research and the public want faster progress. So do cancer researchers and clinicians. We are trying, and we are succeeding. The pace is slow because the problem is difficult, but we will get there.</p>
+        <p>Op-Ed Contributor David G. Nathan, the president emeritus of the Dana Farber Cancer Institute, is the author of ''The Cancer Treatment Revolution.''</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">David G. Nathan, the president emeritus of the Dana Farber Cancer Institute, is the author of ''The Cancer Treatment Revolution.''</tagline>
+    </body.end>
+  </body>
+</nitf>

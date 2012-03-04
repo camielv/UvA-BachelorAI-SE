@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project basedir="." name="ArchiveGenerator" default="main">
+	<property environment="env" />
+	<property name="debuglevel" value="source,lines,vars" />
+	<property name="target" value="1.5" />
+	<property name="source" value="1.5" />
+	<property name="jarfile-name" value="timestools.jar" />
+	<property name="build-dir-name" value="build" />
+	<property name="lib-dir-name" value="lib" />
+	<property name="bin-dir-name" value="bin" />
+	<path id="Application.classpath" />
+	<target name="clean">
+		<delete dir="${build-dir-name}" />
+		<delete dir="${bin-dir-name}" />
+		<mkdir dir="${bin-dir-name}" />
+	</target>
+	<target name="build-project">
+		<echo message="${ant.project.name}: ${ant.file}" />
+		<javac debug="true" debuglevel="${debuglevel}" destdir="bin" source="${source}" target="${target}">
+			<src path="src" />
+			<include name="com/" />
+		</javac>
+	</target>
+	<target name="jar" depends="build-project">
+		<delete file="MANIFEST.MF" />
+		<manifest file="MANIFEST.MF" />
+		<jar destfile="${jarfile-name}" basedir="bin" manifest="MANIFEST.MF">
+		</jar>
+		<delete file="MANIFEST.MF" />
+	</target>
+	<target name="copy">
+		<mkdir dir="${build-dir-name}" />
+		<copy file="${jarfile-name}" tofile="build/${jarfile-name}" />
+	</target>
+	<target name="cleanup">
+		<delete dir="${bin-dir-name}" />
+		<delete file="${jarfile-name}" />
+	</target>
+	<target name="main" depends="clean,build-project,jar,copy,cleanup" />
+</project>

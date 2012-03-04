@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Marci Etter, Andrew Stern</title>
+    <meta content="22etter" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/22/fashion/weddings/22etter.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842144"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Etter, Marci Ren�e (Marci Ren�e Stern)</person>
+        <person class="indexing_service">Stern, Andrew Howard</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D04E0DF163EF931A15757C0A9619C8B63" item-length="121" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Marci Etter, Andrew Stern</hl1>
+        <hl2 class="online_headline">Marci Etter, Andrew Stern</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Marci Renée Etter and Andrew Howard Stern were married last evening. Rabbi Leora Kaye officiated at Tappan Hill in Tarrytown, N.Y.</p>
+        <p>Mrs. Stern, 34, is a litigation associate in the New York office of Gibson, Dunn &amp; Crutcher, a Los Angeles law firm. She graduated cum laude from Duke and received her law degree cum laude from the University of Michigan. She is the daughter of Debbie and Jay S. Etter of New York.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Marci Renée Etter and Andrew Howard Stern were married last evening. Rabbi Leora Kaye officiated at Tappan Hill in Tarrytown, N.Y.</p>
+      </block>
+      <block class="full_text">
+        <p>Marci Renée Etter and Andrew Howard Stern were married last evening. Rabbi Leora Kaye officiated at Tappan Hill in Tarrytown, N.Y.</p>
+        <p>Mrs. Stern, 34, is a litigation associate in the New York office of Gibson, Dunn &amp; Crutcher, a Los Angeles law firm. She graduated cum laude from Duke and received her law degree cum laude from the University of Michigan. She is the daughter of Debbie and Jay S. Etter of New York.</p>
+        <p>Mr. Stern, 35, is the director of corporate development, in New York, for F5 Networks, a computer networking company in Seattle. He graduated cum laude from Princeton and has an M.B.A. from Harvard. He is the son of Phyllis and Richard D. Stern of Paradise Valley, Ariz.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

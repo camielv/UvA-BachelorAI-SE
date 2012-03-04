@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Up Front</title>
+    <meta content="Upfront.t-1" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/01/books/review/Upfront.t-1.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837027"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="descriptor">Books and Literature</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F05E6DD1230F932A35757C0A9619C8B63" item-length="254" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Up Front</hl1>
+        <hl2 class="online_headline">Up Front</hl2>
+      </hedline>
+      <byline class="print_byline">By The Editors</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Jim BOUTON, who went 21-7 for the Yankees in 1963 and won two games in the 1964 World Series, quit pitching altogether 10 years ago. ''Too many bulked-up kids with aluminum bats in dimly lit ballparks,'' he said in an e-mail message. ''The last game I pitched, I was wearing the uniform of the Saugerties Dutchmen. They got me in a trade with Mama's Pizza.'' Bouton, who reviews ''The Cheater's Guide to Baseball'' on Page 15, is unforgiving when it comes to steroids: ''I can't stand it that Bonds is breaking all these records. A blue-ribbon panel should determine the impact of steroids on home runs and have the numbers adjusted accordingly, with the SAN (steroid-adjusted number) put in parentheses next to the actual number hit. Time will tell which number is legitimate and which one should end up in parentheses, just as history removed the imaginary asterisk from Roger Maris's 61 home runs. Leave the other records to the statisticians.'' He added that ''the innocent players can blame themselves for not demanding that their union protect them from the users.''</p>
+        <p>These days Bouton is commissioner of the Vintage Base Ball Federation, which features a 19th-century game in which ''players in baggy uniforms'' swing fat-handled bats at lemon-peel-stitched balls. ''It's a gentleman's game in which there is no showboating or taunting, and the umpire is always addressed as 'Sir.' '' He's also working on ''Ball Four: The Musical.'' Who could play Joe Schultz, the bawdy, Budweiser-pounding manager? ''Nathan Lane.''</p>
+        <p>The Editors</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Jim Bouton is unforgiving when it comes to steroids.</p>
+      </block>
+      <block class="full_text">
+        <p>Jim BOUTON, who went 21-7 for the Yankees in 1963 and won two games in the 1964 World Series, quit pitching altogether 10 years ago. ''Too many bulked-up kids with aluminum bats in dimly lit ballparks,'' he said in an e-mail message. ''The last game I pitched, I was wearing the uniform of the Saugerties Dutchmen. They got me in a trade with Mama's Pizza.'' Bouton, who reviews ''The Cheater's Guide to Baseball'' on Page 15, is unforgiving when it comes to steroids: ''I can't stand it that Bonds is breaking all these records. A blue-ribbon panel should determine the impact of steroids on home runs and have the numbers adjusted accordingly, with the SAN (steroid-adjusted number) put in parentheses next to the actual number hit. Time will tell which number is legitimate and which one should end up in parentheses, just as history removed the imaginary asterisk from Roger Maris's 61 home runs. Leave the other records to the statisticians.'' He added that ''the innocent players can blame themselves for not demanding that their union protect them from the users.''</p>
+        <p>These days Bouton is commissioner of the Vintage Base Ball Federation, which features a 19th-century game in which ''players in baggy uniforms'' swing fat-handled bats at lemon-peel-stitched balls. ''It's a gentleman's game in which there is no showboating or taunting, and the umpire is always addressed as 'Sir.' '' He's also working on ''Ball Four: The Musical.'' Who could play Joe Schultz, the bawdy, Budweiser-pounding manager? ''Nathan Lane.''</p>
+        <p>The Editors</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

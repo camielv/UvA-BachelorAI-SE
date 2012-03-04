@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TRANSACTIONS</title>
+    <meta content="07tranz" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838554"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070407T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9907E7DF143FF934A35757C0A9619C8B63" item-length="138" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TRANSACTIONS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BASKETBALL</p>
+        <p>N.B.A.  LOS ANGELES CLIPPERS--Signed G Will Conroy. Waived C Zeljko Rebraca.</p>
+        <p>FOOTBALL  N.F.L.--Announced the establishment player council consisting of six members: Troy Vincent; Donovin Darius of Jacksonville; Tony Richardson of Minnesota; Jeff Saturday of Indianapolis; Takeo Spikes of Philadelphia and James Thrash of Washington.  CAROLINA PANTHERS--Agreed to terms with QB David Carr.</p>
+        <p>HOCKEY</p>
+        <p>N.H.L.  BOSTON BRUINS--Sent G Hannu Toivonen to Providence (AHL).  BUFFALO SABRES--Sent F Clarke MacArthur to Rochester (AHL).  DETROIT RED WINGS--Signed C Pavel Datsyuk to a seven-year contract extension.  TAMPA BAY LIGHTNING--Signed D Vladmir Mihalik.</p>
+        <p>SOCCER</p>
+        <p>Major League Soccer  TORONTO FC--Traded MF Jose Cancela to the Colorado Rapids for a youth development roster spot that is secured until 2009.</p>
+        <p>COLLEGE</p>
+        <p>ARKANSAS--Named Zenarae Antoine women's assistant basketball coach.</p>
+      </block>
+      <block class="full_text">
+        <p>BASKETBALL</p>
+        <p>N.B.A.  LOS ANGELES CLIPPERS--Signed G Will Conroy. Waived C Zeljko Rebraca.</p>
+        <p>FOOTBALL  N.F.L.--Announced the establishment player council consisting of six members: Troy Vincent; Donovin Darius of Jacksonville; Tony Richardson of Minnesota; Jeff Saturday of Indianapolis; Takeo Spikes of Philadelphia and James Thrash of Washington.  CAROLINA PANTHERS--Agreed to terms with QB David Carr.</p>
+        <p>HOCKEY</p>
+        <p>N.H.L.  BOSTON BRUINS--Sent G Hannu Toivonen to Providence (AHL).  BUFFALO SABRES--Sent F Clarke MacArthur to Rochester (AHL).  DETROIT RED WINGS--Signed C Pavel Datsyuk to a seven-year contract extension.  TAMPA BAY LIGHTNING--Signed D Vladmir Mihalik.</p>
+        <p>SOCCER</p>
+        <p>Major League Soccer  TORONTO FC--Traded MF Jose Cancela to the Colorado Rapids for a youth development roster spot that is secured until 2009.</p>
+        <p>COLLEGE</p>
+        <p>ARKANSAS--Named Zenarae Antoine women's assistant basketball coach.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

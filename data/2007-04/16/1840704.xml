@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   HIRSH, BARBARA VIGDOR</title>
+    <meta content="dn041607.1" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1840704"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">HIRSH, BARBARA VIGDOR</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070416T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05E2DB123AF935A25757C0A9619C8B63" item-length="50" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   HIRSH, BARBARA VIGDOR</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>HIRSH--Barbara Vigdor. Beloved wife of the late Walter. Devoted mother of Steven and Alan. Devoted mother-inlaw of Alice. Sister of the late Burt. Loving grandmother to Jonathon, Becki, Jamie, Adam, Samantha, Bret, and Craig. Her love and caring will be missed. Her strength and grace will always be remembered.</p>
+      </block>
+      <block class="full_text">
+        <p>HIRSH--Barbara Vigdor. Beloved wife of the late Walter. Devoted mother of Steven and Alan. Devoted mother-inlaw of Alice. Sister of the late Burt. Loving grandmother to Jonathon, Becki, Jamie, Adam, Samantha, Bret, and Craig. Her love and caring will be missed. Her strength and grace will always be remembered.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

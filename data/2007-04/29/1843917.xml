@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Woman, 87, Dies in a Fire In the Bronx</title>
+    <meta content="29fire" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="32" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/29/nyregion/29fire.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1843917"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Fires and Firefighters</classifier>
+        <classifier class="online_producer" type="descriptor">Accidents and Safety</classifier>
+        <classifier class="online_producer" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fires and Firefighters</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+        <location class="online_producer">Bronx (NYC)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9805EFDE133EF93AA15757C0A9619C8B63" item-length="281" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Woman, 87, Dies in a Fire In the Bronx</hl1>
+        <hl2 class="online_headline">Woman, 87, Dies in a Fire in the Bronx</hl2>
+      </hedline>
+      <byline class="print_byline">By TIMOTHY WILLIAMS and STEPHEN HEYMAN</byline>
+      <byline class="normalized_byline">Heyman, Stephen; Williams, Timothy</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An 87-year-old Bronx woman preparing dinner for her daughter's surprise birthday party died yesterday after a kitchen fire erupted.</p>
+        <p>The blaze, which broke out about 3:30 p.m., occurred as several dozen relatives and friends, some from as far away as Allentown, Pa., had begun to gather at the apartment building where the woman, Carmen Davila, lived in Soundview.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>An 87-year-old Bronx woman died in a kitchen fire that erupted while she was preparing dinner for her daughter’s surprise 65th birthday party.</p>
+      </block>
+      <block class="full_text">
+        <p>An 87-year-old Bronx woman preparing dinner for her daughter's surprise birthday party died yesterday after a kitchen fire erupted.</p>
+        <p>The blaze, which broke out about 3:30 p.m., occurred as several dozen relatives and friends, some from as far away as Allentown, Pa., had begun to gather at the apartment building where the woman, Carmen Davila, lived in Soundview.</p>
+        <p>The party was to celebrate the 65th birthday of her daughter Antonia Povod, who lived in the same building. Ms. Povod had been unaware of the plans and was out getting her nails done, family members said.</p>
+        <p>She said that when she got home, the building was in flames. The fire, which Fire Department officials said spread quickly from Ms. Davila's ground-floor apartment, had already reached Ms. Povod's own apartment, on the third floor.</p>
+        <p>Seven people in the three-story building leaped to safety, including a family of five who lived on the second floor, said Craig Mosia, a Fire Department spokesman. None were seriously injured, but at least five people were left homeless.</p>
+        <p>Judith DeJesus, 17, a niece of Ms. Davila's who had been in Ms. Povod's apartment, said she and another relative climbed atop a window air-conditioning unit and jumped. Awnings broke their falls. ''It's just shocking,'' she said. ''It was supposed to be a birthday party.''</p>
+        <p>Firefighters found Ms. Davila, who had six children and 20 grandchildren, in her apartment after the fire was extinguished, Mr. Mosia said. She was pronounced dead at Jacobi Medical Center.</p>
+        <p>Ms. Davila had moved to the Bronx from Allentown about a year ago. Neighbors said she was a reassuring presence, waving hello as she smoked cigarette on the porch.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

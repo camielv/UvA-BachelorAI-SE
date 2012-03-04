@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Fifth Down; From Ivy to the Pros</title>
+    <meta content="30fifth-2" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1844116"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football/National Football League/New York Giants</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football</classifier>
+        <classifier class="online_producer" type="general_descriptor">Draft and Recruitment (Sports)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070430T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E02E1DA133EF933A05757C0A9619C8B63" item-length="122" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Fifth Down; From Ivy to the Pros</hl1>
+      </hedline>
+      <byline class="print_byline">By DAVID PICKER</byline>
+      <byline class="normalized_byline">Picker, David</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>With the 17th pick in the fourth round (116th over all), the Giants drafted Zak DeOssie, an outside linebacker from Brown. DeOssie, whose father, Steve, played in the N.F.L. for 12 seasons, was the only player drafted from the Ivy League this year, and he was the first from Brown since Sean Morey in 1999.</p>
+        <p>Since 1936, Brown has produced only 27 players who were drafted. But jumping to the N.F.L. from the Ivy League is not uncommon. The Giants have one Ivy Leaguer, Jim Finn, who went to Penn.</p>
+      </block>
+      <block class="full_text">
+        <p>With the 17th pick in the fourth round (116th over all), the Giants drafted Zak DeOssie, an outside linebacker from Brown. DeOssie, whose father, Steve, played in the N.F.L. for 12 seasons, was the only player drafted from the Ivy League this year, and he was the first from Brown since Sean Morey in 1999.</p>
+        <p>Since 1936, Brown has produced only 27 players who were drafted. But jumping to the N.F.L. from the Ivy League is not uncommon. The Giants have one Ivy Leaguer, Jim Finn, who went to Penn.</p>
+        <p>One player from the Ivy League was selected in last year's draft: Kevin Boothe, an offensive tackle from Cornell who went to the Raiders in the sixth round.</p>
+        <p>DAVID PICKER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

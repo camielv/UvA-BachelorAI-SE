@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Canada Clings To an Old Ford</title>
+    <meta content="22COLLECT" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Automobiles" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="12" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Automobiles" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/22/automobiles/collectibles/22COLLECT.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842108"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/Canada</classifier>
+        <classifier class="online_producer" type="descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="descriptor">Museums</classifier>
+        <classifier class="online_producer" type="general_descriptor">Museums</classifier>
+        <classifier class="online_producer" type="general_descriptor">Antiques</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <location class="online_producer">Canada</location>
+        <org class="online_producer">Ford Motor Co</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9405E3DA1F3FF931A15757C0A9619C8B63" item-length="321" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Canada Clings To an Old Ford</hl1>
+        <hl2 class="online_headline">Canada Clings to an Old Ford</hl2>
+      </hedline>
+      <byline class="print_byline">By IAN AUSTEN</byline>
+      <byline class="normalized_byline">Austen, Ian</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>CANADA'S government regularly steps in when major artworks are sold to foreigners. Now a 1905 Ford Model C is caught up in the country's control over cultural property exports.</p>
+        <p>The car was made by Ford Motor of Canada in its first year of operation, in what is now Windsor, Ontario. For 29 years, the Model C has been on loan to the Canadian Transportation Museum in nearby Essex.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A 1905 Model C, made by Ford Motor of Canada in its first year of operation, is caught up in a battle to preserve the country’s cultural treasures.</p>
+      </block>
+      <block class="full_text">
+        <p>CANADA'S government regularly steps in when major artworks are sold to foreigners. Now a 1905 Ford Model C is caught up in the country's control over cultural property exports.</p>
+        <p>The car was made by Ford Motor of Canada in its first year of operation, in what is now Windsor, Ontario. For 29 years, the Model C has been on loan to the Canadian Transportation Museum in nearby Essex.</p>
+        <p>Because the car is a direct link to the beginning of what became Windsor's dominant industry, it has been an important part of the museum. Mickey Moulder, the museum's co-chairman, said the institution did not know the car was a protected icon. ''It was a surprise,'' said Mr. Moulder, a retired manager for Ford Canada. ''We didn't know it had anything to do with culture.''</p>
+        <p>The Model C's newfound status followed the recent death of the car's 92-year-old owner, Ted Dudley. Mr. Moulder said the museum could not match a $75,000 offer for the car that Mr. Dudley's estate received from a collector in San Francisco.</p>
+        <p>After The Windsor Star newspaper reported that the car was moving on this summer, the Canadian government took notice and said the Ford could not leave Canada without a cultural property export permit.</p>
+        <p>Mr. Moulder said that he had never heard of that requirement and added that vintage cars regularly roll out of Canada without permits. But Len Westerberg, a spokesman for the Department of Canadian Heritage, said any vehicle more than 50 years old with a value of more than 3,000 Canadian dollars needed an export permit.</p>
+        <p>If the estate decides to proceed with the sale and applies for a permit, a number of steps can occur. Most likely, the government will give Canadians two months to four months to produce a matching offer that would keep the car in the country. Ford Canada owns the only other known Canadian-made Model C.</p>
+        <p>IAN AUSTEN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

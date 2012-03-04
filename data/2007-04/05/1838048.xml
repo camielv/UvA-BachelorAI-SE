@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   ZIEMAN, ISAAC</title>
+    <meta content="dn040507" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838048"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">ZIEMAN, ISAAC</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070405T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B07E5D7153AF936A35757C0A9619C8B63" item-length="81" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   ZIEMAN, ISAAC</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ZIEMAN--Isaac. The Dialogue Project will deeply miss the presence of Isaac. His experience, wisdom and spirit touched all of us. His concern and compassion for the rights and needs of all people, and his passionate commitment to social justice, made his a voice that Jews, Palestinians, Muslims, Christians and others, heard with the greatest respect. He helped us to understand more deeply. We send our condolences to his wife, Ingeborg, and his entire family. The Board of the Dialogue Project</p>
+      </block>
+      <block class="full_text">
+        <p>ZIEMAN--Isaac. The Dialogue Project will deeply miss the presence of Isaac. His experience, wisdom and spirit touched all of us. His concern and compassion for the rights and needs of all people, and his passionate commitment to social justice, made his a voice that Jews, Palestinians, Muslims, Christians and others, heard with the greatest respect. He helped us to understand more deeply. We send our condolences to his wife, Ingeborg, and his entire family. The Board of the Dialogue Project</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

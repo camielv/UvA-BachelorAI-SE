@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Meningitis Vaccine Provides Immunity to Ear Infections</title>
+    <meta content="10prev" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/10/health/10prev.html" name="alternate_url"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20070417T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1839251"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="VITAL SIGNS: PREVENTION"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Meningitis</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Vaccination and Immunization</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Viruses</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Ears and Hearing</classifier>
+        <classifier class="online_producer" type="descriptor">Vaccination and Immunization</classifier>
+        <classifier class="online_producer" type="descriptor">Ears and Hearing</classifier>
+        <classifier class="online_producer" type="descriptor">Meningitis</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Vaccination and Immunization</classifier>
+        <classifier class="online_producer" type="general_descriptor">Viruses</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ears and Hearing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070410T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9804EEDE153FF933A25757C0A9619C8B63" item-length="242" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Meningitis Vaccine Provides Immunity to Ear Infections</hl1>
+        <hl2 class="online_headline">Prevention: Meningitis Vaccine Provides Immunity to Ear Infections</hl2>
+      </hedline>
+      <byline class="print_byline">By Nicholas Bakalar</byline>
+      <byline class="normalized_byline">Bakalar, Nicholas</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The pneumococcal conjugate vaccine, originally designed to prevent meningitis and blood infections in infants, also provides immunity against the virus that causes ear infections, and may be even more effective at doing so than researchers first thought.</p>
+        <p>A study  of 150,000 children in Tennessee and 27,000 in New York State found that the benefits of the vaccine might extend even to children who are not fully vaccinated.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A new study found that the benefits of the vaccine might extend even to children who are not fully vaccinated.</p>
+      </block>
+      <block class="full_text">
+        <p>The pneumococcal conjugate vaccine, originally designed to prevent meningitis and blood infections in infants, also provides immunity against the virus that causes ear infections, and may be even more effective at doing so than researchers first thought.</p>
+        <p>A study  of 150,000 children in Tennessee and 27,000 in New York State found that the benefits of the vaccine might extend even to children who are not fully vaccinated.</p>
+        <p>Frequent ear infections declined by 17 percent in Tennessee and 28 percent in New York among children born in 2000 and 2001, after the vaccine was put into widespread use, compared with children born in 1998 and 1999. The surgical insertion of draining tubes, a common treatment for chronic ear infections, went down by 16 percent in Tennessee and 23 percent in New York. About 75 percent of the children were vaccinated in the 2000-1 cohort, compared with less than 1 percent in the older group.</p>
+        <p>The declines in frequent infections and tube insertions matched or exceeded those of randomized trials of the vaccine. That suggests that children other than those fully vaccinated are also benefiting, because vaccinated children are less likely to pass the disease to others.</p>
+        <p>The authors, writing in the April issue of Pediatrics, acknowledged that they did not know the vaccination status of individual children, and that difficulties in estimating vaccine coverage, incomplete reporting by health professionals and differences in diagnoses among doctors could have affected the results.</p>
+        <p>VITAL SIGNS: PREVENTION</p>
+        <p>Correction:  April 17, 2007, Tuesday  An article in Science Times last Tuesday about the benefits of the pneumococcal conjugate vaccine referred incorrectly to one of the causes of ear infections. Streptococcus pneumoniae is a kind of bacteria, not a virus.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: April 17, 2007, Tuesday</p>
+        <p>An article in Science Times last Tuesday about the benefits of the pneumococcal conjugate vaccine referred incorrectly to one of the causes of ear infections. Streptococcus pneumoniae is a kind of bacteria, not a virus.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

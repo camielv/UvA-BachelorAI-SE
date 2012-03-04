@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>NEW PLACES</title>
+    <meta content="25dbrie-2" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining, Dining Out/Cultural Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts; Dining and Wine" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1842851"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="DINING BRIEFS"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Restaurant Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bakeries and Baked Products</classifier>
+        <classifier class="online_producer" type="general_descriptor">Pizza Pies</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sushi</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070425T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D06E3D8143EF936A15757C0A9619C8B63" item-length="370" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>NEW PLACES</hl1>
+      </hedline>
+      <byline class="print_byline">By PETE WELLS</byline>
+      <byline class="normalized_byline">Wells, Pete</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>This week the Dining section introduces Dining Briefs, short reviews that include first looks at new restaurants, updates on places that have been reviewed or overlooked and critiques of bars and lounges that offer noteworthy drinks and food. The feature will provide an informed opinion on places around New York City that are worth consideration even if they don't receive a full review in Frank Bruni's Restaurants column or in $25 and Under. Dining Briefs will alternate every other week with $25 and Under.</p>
+        <p>NATSUMI  226 West 50th Street; (212) 258-2988.</p>
+        <p>In case you want to build a trap to catch food critics, the most effective bait by far would be a menu item that nobody else in their right mind would order. Spicy sushi pizza? Sniff. Sniff, sniff. Snap!</p>
+      </block>
+      <block class="full_text">
+        <p>This week the Dining section introduces Dining Briefs, short reviews that include first looks at new restaurants, updates on places that have been reviewed or overlooked and critiques of bars and lounges that offer noteworthy drinks and food. The feature will provide an informed opinion on places around New York City that are worth consideration even if they don't receive a full review in Frank Bruni's Restaurants column or in $25 and Under. Dining Briefs will alternate every other week with $25 and Under.</p>
+        <p>NATSUMI  226 West 50th Street; (212) 258-2988.</p>
+        <p>In case you want to build a trap to catch food critics, the most effective bait by far would be a menu item that nobody else in their right mind would order. Spicy sushi pizza? Sniff. Sniff, sniff. Snap!</p>
+        <p>At least that's how it worked for me when I ate at Natsumi, a new lounge and restaurant that subjects sushi to permutations that defy national boundaries, not to mention simple logic.</p>
+        <p>Natsumi bears a look if only because it traffics in Japanese-Italian fusion, which promises to be one of the stranger subplots in New York dining this year. It opened around the same time as Dieci, in the East Village, where a Japanese chef is cooking lamb Bolognese and saucing steak with a wasabi-fortified veal reduction. Elsewhere, a two-level restaurant is rumored to be in the works with sushi on the first floor and pasta above. So I went to Natsumi to look, sniff, taste and scratch my head.</p>
+        <p>A bursting-at-the-seams salmon roll was peculiarly outfitted with chips of an Asiago-like cheese. Thin ravioli of green-tea dough wrapped around lobster and porcini mushrooms and doused in a warm taleggio cheese sauce came off better, but the soft, floppy half-moons went limp under a pair of chopsticks, like a protester being hauled off by the cops.</p>
+        <p>Natsumi makes more sense as a bar. As a restaurant dish, that pizza's crazy mashup of mango, frisée, raw fish, caviar, mayonnaise and balsamic vinegar reads like a glitch in an online translation program. But after a few Zentinis it's as satisfying as a giant plate of nachos. Maybe Japanese-Italian cuisine just needs a little help from Mexico.</p>
+        <p>PETE WELLS</p>
+        <p>DINING BRIEFS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

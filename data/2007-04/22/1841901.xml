@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   WEISS, CAROL</title>
+    <meta content="dn042207.6" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="35" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1841901"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">WEISS, CAROL</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9404E1D61F3AF931A15757C0A9619C8B63" item-length="79" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   WEISS, CAROL</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WEISS--Carol, age 80, peacefully on April 19 at her home in East Williston after battling Alzheimers. Beloved wife of Robert Weiss. Carol graduated NYU School of Commerce in 1947. A skilled accountant and leader, she passionately loved and served her family. She is also survived by her loving children Larry (Wendy), and Susan (Ken). Brother Lewis Kaufman, and her adoring grandchildren Shennan, Sascha, Emily, and Daniel. She sought and found the good and beauty in everything she encountered.</p>
+      </block>
+      <block class="full_text">
+        <p>WEISS--Carol, age 80, peacefully on April 19 at her home in East Williston after battling Alzheimers. Beloved wife of Robert Weiss. Carol graduated NYU School of Commerce in 1947. A skilled accountant and leader, she passionately loved and served her family. She is also survived by her loving children Larry (Wendy), and Susan (Ken). Brother Lewis Kaufman, and her adoring grandchildren Shennan, Sascha, Emily, and Daniel. She sought and found the good and beauty in everything she encountered.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

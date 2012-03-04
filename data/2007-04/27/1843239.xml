@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sold on eBay, Shipped by Amazon.com</title>
+    <meta content="27amazon" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/27/technology/27amazon.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1843239"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Retail Stores and Trade</classifier>
+        <classifier class="indexing_service" type="descriptor">Delivery Services</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">Amazon.com Inc</org>
+        <org class="indexing_service">Google Inc</org>
+        <org class="indexing_service">Ebay</org>
+        <person class="indexing_service">Stone, Brad</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Shopping</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Retail</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Ships and Shipping</classifier>
+        <classifier class="online_producer" type="general_descriptor">Retail Stores and Trade</classifier>
+        <classifier class="online_producer" type="general_descriptor">Service Industries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ships and Shipping</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <org class="online_producer">Amazon.com Inc</org>
+        <org class="online_producer">eBay Inc</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070427T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990DE3DE123EF934A15757C0A9619C8B63" item-length="1407" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sold on eBay, Shipped by Amazon.com</hl1>
+        <hl2 class="online_headline">Sold on eBay, Shipped by Amazon.com</hl2>
+      </hedline>
+      <byline class="print_byline">By BRAD STONE</byline>
+      <byline class="normalized_byline">Stone, Brad</byline>
+      <abstract>
+        <p>Amazon.com expands Fulfillment by Amazon program to allow independent sellers who list items through Google or eBay to use its network of distribution centers to store and ship products; larger set of Web services tools is aimed at helping smaller companies benefit from its expertise; strategy is designed to ensure growth for online retailer; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Your next eBay purchase could arrive at your door in a brown Amazon.com box.</p>
+        <p>Amazon.com, the online retailer, is expanding a program designed to allow independent sellers to use its network of distribution centers to store and ship their products, according to Jeffrey P. Bezos, Amazon's founder and chief executive.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Amazon.com is expanding a program to allow independent sellers  even vendors who sell through eBay  to use its shipping services.</p>
+      </block>
+      <block class="full_text">
+        <p>Your next eBay purchase could arrive at your door in a brown Amazon.com box.</p>
+        <p>Amazon.com, the online retailer, is expanding a program designed to allow independent sellers to use its network of distribution centers to store and ship their products, according to Jeffrey P. Bezos, Amazon's founder and chief executive.</p>
+        <p>Since last fall, the program, Fulfillment by Amazon, has allowed independent sellers who list their goods on Amazon.com to use its network of more than 20 distribution centers around the world to fill orders. Now Amazon, which is based in Seattle, is opening the program to vendors who list their items elsewhere on the Web -- on their own site, through Google, or even on Amazon's e-commerce rival, eBay.</p>
+        <p>The program is part of a broader set of tools called Amazon Web Services, an effort by the e-commerce pioneer to rent out complicated parts of its infrastructure to smaller companies that might benefit from its hard-earned expertise, and who will pay for the privilege of lightening their workload.</p>
+        <p>Think of as it Amazon 2.0. Though the company's primary business appears to be booming -- it announced a 32 percent increase in revenue this week, which sent its stock soaring 40 percent in the last two days -- revenues will inevitably flatten as the company matures. If it wants to keep treating investors to torrid growth, the company needs to develop other ways to make money.</p>
+        <p>Wall Street has never liked Amazon's 10 million square feet of shipping space, far preferring eBay's frictionless role as a meeting place for buyers and sellers. But Mr. Bezos is now doubling down on his company's gritty infrastructure. He thinks that one day Amazon could do the dirty work of storing products and fulfilling online orders for many of the e-commerce companies on the Web.</p>
+        <p>''We have this beautiful, elegant, high-I.Q. part of our business that we have been working hard on for many years,'' he said. ''We've gotten good at it. Why not make money off it another way?'' In a conference call with Wall Street analysts on Tuesday, Mr. Bezos said that the overall Amazon Web Services initiative was growing rapidly, but was not yet profitable. Another Web services program, Amazon Simple Storage Service, or S3, allows businesses to store their data on Amazon's own computer servers. Mr. Bezos said S3 now held 5 billion ''objects,'' or pieces of data, up from 800 million last July.</p>
+        <p>Fulfillment by Amazon, in development for the last three years, is one of the oldest efforts in the company's stable of Web services. Unlike S3 and other recent initiatives, Fulfillment by Amazon involves the movement of physical goods instead of digital information.</p>
+        <p>Participants in the program, which is still in the experimental phase, can sign up on Amazon's Web site and print out stickers that they put on their goods. They then send their products to Amazon, which stores the items commingled with its own. Amazon ultimately ships them to customers when they are ordered online (and charges the seller a variable fee based partly on the weight of the item and the shipping cost).</p>
+        <p>Sellers are effectively paying to ship their goods twice. But the program is aimed at small online retailers who have filled up the space in their basements and attics but want to avoid buying and managing their own warehouses.</p>
+        <p>It also can increase revenues: using Fulfillment by Amazon to sell on Amazon's third-party marketplace qualifies products for the shipping discounts the company offers buyers, which typically improves sales. But the program's biggest benefit, Amazon says, is to relieve sellers of one of the most laborious parts of their business -- packaging products and getting them to customers promptly.</p>
+        <p>''This is the dirty secret of e-commerce,'' said Joe Walowski, a senior product manager who manages Fulfillment by Amazon. ''It's not just bits and bytes. You have to figure out this part of it.''</p>
+        <p>The program has some enthusiastic early customers. Barry Mark, who runs Treebeard Books from his home in Palm Beach County, Fla., buys surplus books and sells them on Amazon and other sites. Since he signed up for Fulfillment by Amazon last September, he says that his sales have jumped more than 30 percent, and a third of the orders that come in are from members of Amazon Prime, the company's premium discount shipping program.</p>
+        <p>But he says he sees the biggest benefit in the reduction of his workload, on peak days when 200 packages have to go out the door. ''Usually there's not enough hours in the week to ship everything,'' he said.</p>
+        <p>Mr. Mark is so enthusiastic, he says he bought stock in Amazon after it announced the program last year.</p>
+        <p>But not every online retailer is as excited. For two and a half years, John Brown of Lafayette, Ind., has sold rare books and educational audio and video programs on sites like Amazon, eBay's Half.com and his own site, Shelfmasters.com. To handle orders, he rents a 4,400-square-foot warehouse and employs two full-time workers.</p>
+        <p>Shifting fulfillment to Amazon's warehouses would save him $2,000 a month in rent and utilities for his warehouse, he estimates. But Mr. Brown has held back so far, in part because Amazon does not yet let Fulfillment by Amazon's customers in the United States ship their products internationally, or by overnight delivery.</p>
+        <p>He is also bothered by the use of brown Amazon.com boxes for the merchandise he sells on the other e-commerce sites. ''My other selling sites are not going to think well of that,'' he said, because it could lead to consumer confusion. ''And it's not like I can afford to anger those other sources.''</p>
+        <p>An Amazon spokesman said that the company was considering using blank boxes when it shipped products purchased on other sites.</p>
+        <p>Fulfilling orders for other companies is not a new business for Amazon. In 2004, Toys ''R'' Us contentiously dissolved a partnership after saying that Amazon had broken their exclusive agreement by letting other parties sell toys on the site.</p>
+        <p>Last month, the bookseller Borders parted ways with Amazon to create its own Web site and take a larger part of the revenue from online purchases. Amazon still manages the online store and order fulfillment for Target, the retail chain.</p>
+        <p>Scott Wingo, chief executive of ChannelAdvisor, which makes e-commerce software, says smaller companies have the same reasons as larger players to fear partnering with Amazon on warehouse distribution. Amazon might give its own orders priority during the busy holiday season. And if packages are shipped late, the small retailer, not Amazon, would suffer in the eyes of customers.</p>
+        <p>''When you are late, the feedback from customers is immediate and negative,'' he said. ''Losing control of that important aspect of business is a little scary, maybe even more so for small and medium-sized businesses.''</p>
+        <p>Then there's the unresolved question among many small retailers of whether Amazon has yet worked out the kinks in its fulfillment program.</p>
+        <p>DL Byron, the Seattle-based inventor of the Clip-n-Seal, a device that closes plastic bags, shipped several cases of products to Amazon last fall, but said the merchandise is currently lost in an Amazon facility. ''To their credit, Amazon is working with us to resolve the problem and assigned us a person to talk to,'' Mr. Byron said. ''But somewhere in their giant warehouse sits our product, and if it's not available to ship, it's not available for sale and not making us money.''</p>
+        <p>Mr. Bezos and other Amazon executives stressed that the program was still in its early stages. ''We will have to earn the reputation for doing this at such a high-quality way that people are willing to let us doit for them,'' he said.</p>
+        <p>Even if he proves that to sellers, Wall Street may still respond with a shrug. Already many analysts who cover the company have expressed more frustration than interest in Amazon Web Services.</p>
+        <p>Expanding the fulfillment program to include non-Amazon sellers ''almost suggests they are so confident with their core business that they can expend resources and management time on this,'' said Safa Rashtchy, an analyst with the investment bank Piper Jaffray &amp; Company. ''But the core challenges have never been larger. To some degree this is a distraction.''</p>
+        <p>Mr. Bezos noted that in the past, new company initiatives such as selling electronics and the expansion into overseas marketplaces were viewed with similar skepticism. ''We are willing to plant seeds that take time to grow,'' he said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

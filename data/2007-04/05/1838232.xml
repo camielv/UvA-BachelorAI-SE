@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Two-Stage Booster for Volvo's Wagons</title>
+    <meta content="NUGGETVolvoXC70" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Automobiles" name="dsk"/>
+    <meta content="" name="print_section"/>
+    <meta content="Automobiles" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838232"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070405T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E7DD123FF936A35757C0A9619C8B63" item-length="199" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Two-Stage Booster for Volvo's Wagons</hl1>
+      </hedline>
+      <byline class="print_byline">By LAWRENCE ULRICH</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Introduced on Wednesday: Volvo XC70</p>
+        <p>Is it real? Yes, live from Sweden, the XC70 is a genuine midsize wagon, with Volvo's new trapezoid-shape grille.</p>
+      </block>
+      <block class="full_text">
+        <p>Introduced on Wednesday: Volvo XC70</p>
+        <p>Is it real? Yes, live from Sweden, the XC70 is a genuine midsize wagon, with Volvo's new trapezoid-shape grille.</p>
+        <p>What's the point? To satisfy tenured academics, the incurably safety-conscious and possibly the entire state of Vermont.</p>
+        <p>What they said: "We've given the car a lot more character," Steve Mattin, Volvo's design director, said. Volvo spokesmen also touted the company's latest safety feature: a pair of booster seats in back with cushions that rise to either of two levels to fit children of different sizes.</p>
+        <p>What they didn't say: The Volvo's spacious, tasteful interior is a close cousin of the S80's, the luxury sedan whose platform supports the XC70.</p>
+        <p>What makes it tick? The previous model's forgettable five-cylinder engine is replaced by the 232-horsepower, 3.2-liter in-line 6-cylinder from the S80 sedan, mated to a six-speed automatic transmission. A fast-hauling R version is in the works, featuring the S80's optional, Yamaha-built 311-horsepower V-8.</p>
+        <p>How much, how soon? The XC70 goes on sale early next year, at a base price that should sneak a bit past $30,000.</p>
+        <p>How's it look? Shapely and handsome, if you're the rare American with a thing for station wagons.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

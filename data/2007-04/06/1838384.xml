@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>European Envoy Meets Hamas Official</title>
+    <meta content="06mideast" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838384"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Kidnapping</classifier>
+        <classifier class="indexing_service" type="descriptor">Palestinians</classifier>
+        <location class="indexing_service">Israel</location>
+        <location class="indexing_service">Gaza Strip</location>
+        <location class="indexing_service">Great Britain</location>
+        <org class="indexing_service">Hamas</org>
+        <org class="indexing_service">British Broadcasting Corp</org>
+        <person class="indexing_service">Makepeace, Richard</person>
+        <person class="indexing_service">Haniya, Ismail (Prime Min)</person>
+        <person class="indexing_service">Johnston, Alan</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/United Kingdom</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Israel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Great Britain</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Palestinian Authority</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Britain</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Gaza Strip</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Israel</classifier>
+        <classifier class="online_producer" type="general_descriptor">Kidnapping</classifier>
+        <classifier class="online_producer" type="general_descriptor">Palestinians</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070406T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0DEEDC173FF935A35757C0A9619C8B63" item-length="212" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>European Envoy Meets Hamas Official</hl1>
+      </hedline>
+      <dateline>JERUSALEM, April 5</dateline>
+      <abstract>
+        <p>Richard Makepeace, senior British diplomat, meets in Gaza with Palestinian Prime Min Ismail Haniya of Hamas to discuss fate of kidnapped BBC correspondent Alan Johnston; Palestinian officials present meeting as diplomatic breakthrough, but Israeli officials say they accept British explanation of talks as taking place on 'humanitarian grounds' and not as change of policy (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A senior British diplomat met with the Palestinian prime minister in Gaza on Thursday to discuss the fate of a kidnapped BBC correspondent, Alan Johnston.</p>
+        <p>It was the first meeting between a senior Hamas official and an official European Union envoy since the new Palestinian unity government was formed in mid-March. European Union countries, along with the United States and Israel, have said they will not deal with Hamas because they consider it a terrorist group.</p>
+      </block>
+      <block class="full_text">
+        <p>A senior British diplomat met with the Palestinian prime minister in Gaza on Thursday to discuss the fate of a kidnapped BBC correspondent, Alan Johnston.</p>
+        <p>It was the first meeting between a senior Hamas official and an official European Union envoy since the new Palestinian unity government was formed in mid-March. European Union countries, along with the United States and Israel, have said they will not deal with Hamas because they consider it a terrorist group.</p>
+        <p>The meeting on Thursday between the Palestinian prime minister, Ismail Haniya of Hamas, and the diplomat, Richard Makepeace, the consul general in Jerusalem, was described by a British diplomat as having taken place on ''humanitarian grounds'' and not as a change of policy.</p>
+        <p>Israeli officials said they accepted the British explanation. Palestinian officials presented the meeting as a diplomatic breakthrough.</p>
+        <p>In Jerusalem, the Israeli military said soldiers shot and killed a Palestinian man while on patrol near Jericho in the West Bank. The military said the man was among a group of three who repeatedly refused orders to halt and ignored shots fired in the air. The other two were detained for questioning. The military said that it was unclear whether the men had been armed and that it had started an investigation of the incident.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

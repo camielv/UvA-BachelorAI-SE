@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>An Ugly Month Gets Even Uglier For Rivera</title>
+    <meta content="28mariano" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/28/sports/28mariano.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1843465"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="BASEBALL"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Yankees</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/Boston Red Sox</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="descriptor">Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+        <org class="online_producer">New York Yankees</org>
+        <person class="online_producer">Rivera, Mariano</person>
+        <person class="online_producer">Torre, Joe</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070428T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E4D6123EF93BA15757C0A9619C8B63" item-length="308" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>An Ugly Month Gets Even Uglier For Rivera</hl1>
+        <hl2 class="online_headline">An Ugly Month Gets Even Uglier for Rivera</hl2>
+      </hedline>
+      <byline class="print_byline">By PAT BORZI</byline>
+      <byline class="normalized_byline">Borzi, Pat</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Even on his worst days, Mariano Rivera rarely suffered the indignity of handing the baseball to Manager Joe Torre in the middle of an inning. But this has been an April of indignities for the Yankees' closer, and Rivera had another such moment Friday night.</p>
+        <p>Torre brought in Rivera for the ninth inning even though the Yankees trailed by three runs, just to give Rivera his first work since Monday. But Rivera was not sharp. He struck out J. D. Drew, the leadoff hitter, but the next four batters reached base, forcing Torre to pull Rivera in the middle of an inning for the first time since April 6, 2005.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Even on his worst days, Mariano Rivera rarely suffered the indignity of handing the ball to Manager Joe Torre in the middle of an inning. This April is a different story.</p>
+      </block>
+      <block class="full_text">
+        <p>Even on his worst days, Mariano Rivera rarely suffered the indignity of handing the baseball to Manager Joe Torre in the middle of an inning. But this has been an April of indignities for the Yankees' closer, and Rivera had another such moment Friday night.</p>
+        <p>Torre brought in Rivera for the ninth inning even though the Yankees trailed by three runs, just to give Rivera his first work since Monday. But Rivera was not sharp. He struck out J. D. Drew, the leadoff hitter, but the next four batters reached base, forcing Torre to pull Rivera in the middle of an inning for the first time since April 6, 2005.</p>
+        <p>Rivera left with one run in and the bases loaded. Torre removed him after 21 pitches to keep him available for Saturday's game. Rivera spit as he left the mound, a rare show of disgust. Mike Myers permitted all three inherited runners to score, which left Rivera charged with four earned runs in one-third of an inning.</p>
+        <p>''It wasn't good at all,'' said Rivera, whose earned run average rose to 12.15.</p>
+        <p>Twenty-one games into the season, and Rivera is still looking for his, and the Yankees', first save. Since 1989, only the 2002 Detroit Tigers (26 games) have gone deeper into a season without one.</p>
+        <p>On Friday, Rivera's biggest problem was control. After Mike Lowell's one-out single, the left-handed-batting Jason Varitek and Coco Crisp laced singles on cut fastballs that Rivera failed to spot under their hands, the way he usually can. A walk to Dustin Pedroia, the No. 9 hitter, brought out Torre.</p>
+        <p>''I was missing up, missing down, missing everywhere,'' Rivera said.</p>
+        <p>Torre quickly dismissed any concern about Rivera. ''He hadn't pitched in four days,'' Torre said. ''He just needs to get regular work. Then he'll fall into what he needs to do.''</p>
+        <p>BASEBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

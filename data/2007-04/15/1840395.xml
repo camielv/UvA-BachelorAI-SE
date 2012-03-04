@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>When Complaining Isn't Enough</title>
+    <meta content="CTdmv" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Connecticut Weekly Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="14CN" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/15/opinion/CTdmv.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840395"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Connecticut"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Automobiles</classifier>
+        <classifier class="indexing_service" type="descriptor">Repair Services</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Electronic Mail</classifier>
+        <location class="indexing_service">Connecticut</location>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Connecticut</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles/Topics/Automobile Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Connecticut</classifier>
+        <classifier class="online_producer" type="descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Politics and Government</classifier>
+        <classifier class="online_producer" type="descriptor">Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Service Industries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electronic Mail</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">Connecticut</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9404E3D7123FF936A25757C0A9619C8B63" item-length="285" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>When Complaining Isn't Enough</hl1>
+        <hl2 class="online_headline">When Complaining Isn’t Enough</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial suggests Connecticut Department of Motor Vehicles, whose computer system is due for needed overhaul, to furnish e-mail address and phone number on its Web site to help consumers find relevant information about auto dealers and auto repair shops</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Connecticut makes it easy to find out if a contractor or even a doctor has been the target of complaints. But just try to discover whether an auto body shop has a history of shoddy service. The problem is not registering a complaint; the Department of Motor Vehicles Web site provides forms and links. The problem is getting relevant information before you bring the family jalopy in for repairs.</p>
+        <p>That, it turns out, is a a major hassle, wholly at odds with the state's largely successful attempt to make state agencies more responsive to consumers. With a few clicks of the mouse on the Department of Public Health Web site, for instance, you can find pertinent information about a doctor. If you want to hire a company to build a backyard patio, one call to the Department of Consumer Protection will tell you whether the company deserves its good reputation.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Since state residents pay for the Department of Motor Vehicles to collect information on auto dealers and garages, the least the agency can do is make the information accessible.</p>
+      </block>
+      <block class="full_text">
+        <p>Connecticut makes it easy to find out if a contractor or even a doctor has been the target of complaints. But just try to discover whether an auto body shop has a history of shoddy service. The problem is not registering a complaint; the Department of Motor Vehicles Web site provides forms and links. The problem is getting relevant information before you bring the family jalopy in for repairs.</p>
+        <p>That, it turns out, is a a major hassle, wholly at odds with the state's largely successful attempt to make state agencies more responsive to consumers. With a few clicks of the mouse on the Department of Public Health Web site, for instance, you can find pertinent information about a doctor. If you want to hire a company to build a backyard patio, one call to the Department of Consumer Protection will tell you whether the company deserves its good reputation.</p>
+        <p>But finding out about the local automobile repair shop requires writing a letter, mailing it to the D.M.V. (now, that's old-fashioned) and waiting for a reply. Why?</p>
+        <p>The culprit, we are told, is the department's creaky computer system, which is scheduled for a needed overhaul in the next several years. Updating the computers will ultimately make the Web site more interactive and the computer system in general more responsive.</p>
+        <p>But all that will take years. In the meantime, the department could get a start on the problem by furnishing an e-mail address on its Web site and -- this is truly radical -- an actual telephone number for consumers to call. Since state residents pay for the department to collect information on auto dealers and garages, the least the agency can do is make the information accessible.</p>
+        <p>Connecticut</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

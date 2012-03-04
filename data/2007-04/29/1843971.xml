@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Heft, but at What Price?</title>
+    <meta content="29inbox-2" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1843971"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weight</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F02E1DD133EF93AA15757C0A9619C8B63" item-length="144" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Heft, but at What Price?</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Re ''For N.F.L. Draft, the Biggest (XXXXXXL) Sleeper,'' April 25: Walter Thomas may turn out to be a great player in the N.F.L., but at what price?</p>
+        <p>After recent articles in The Times profiling former N.F.L. players who have Alzheimer's after sustaining head injuries, it seems absurd to put another 370-pound player on the field. The league should calculate the future medical costs of these clashing Goliaths.</p>
+      </block>
+      <block class="full_text">
+        <p>Re ''For N.F.L. Draft, the Biggest (XXXXXXL) Sleeper,'' April 25: Walter Thomas may turn out to be a great player in the N.F.L., but at what price?</p>
+        <p>After recent articles in The Times profiling former N.F.L. players who have Alzheimer's after sustaining head injuries, it seems absurd to put another 370-pound player on the field. The league should calculate the future medical costs of these clashing Goliaths.</p>
+        <p>Then there's the issue of how many calories need to be burned to keep someone like Thomas running as fast as he does. He is probably just a little less fuel efficient than his Ford Expedition. Not that the N.F.L. will ever care about anything besides ticket prices, licensing and the cost of a 30-second ad, but the conspicuous consumption the league promotes is as antiquated as a leather helmet.</p>
+        <p>Scott Sandell  Sag Harbor, N.Y.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

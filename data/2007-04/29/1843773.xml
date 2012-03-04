@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Elizabeth Denny, Daniel Oneglia</title>
+    <meta content="29denny" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/29/fashion/weddings/29denny.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1843773"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Denny, Elizabeth Whitney (Elizabeth Whitney Oneglia)</person>
+        <person class="indexing_service">Oneglia, Daniel Sterling</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0CE6DA123EF93AA15757C0A9619C8B63" item-length="161" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Elizabeth Denny, Daniel Oneglia</hl1>
+        <hl2 class="online_headline">Elizabeth Denny, Daniel Oneglia</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Elizabeth Whitney Denny, the daughter of Cassandra Hopkins Watson of Wilson, Wyo., and R. Breck Denny of New York, was married yesterday to Daniel Sterling Oneglia, a son of Catherine S. Oneglia and Gregory S. Oneglia of Litchfield, Conn. The Right Rev. J. Clark Grew II, who retired as the Episcopal bishop of Ohio, officiated at St. Andrew's Episcopal Church in Boca Grande, Fla., with the Rev. C. Read Heydt, also an Episcopal priest, taking part.</p>
+        <p>Mrs. Oneglia, 30, is a preschool teacher at the Episcopal School in New York. She graduated from Kenyon College and received a master's degree in early childhood and elementary education from Bank Street College of Education. Her father is a business consultant in New York.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Elizabeth Whitney Denny, the daughter of Cassandra Hopkins Watson of Wilson, Wyo., and R. Breck Denny of New York, was married yesterday to Daniel Sterling Oneglia, a son of Catherine S. Oneglia and Gregory S. Oneglia of Litchfield, Conn. The Right Rev. J. Clark Grew II, who retired as the Episcopal bishop of Ohio, officiated at St. Andrew’s Episcopal Church in Boca Grande, Fla., with the Rev. C. Read Heydt, also an Episcopal priest, taking part.</p>
+      </block>
+      <block class="full_text">
+        <p>Elizabeth Whitney Denny, the daughter of Cassandra Hopkins Watson of Wilson, Wyo., and R. Breck Denny of New York, was married yesterday to Daniel Sterling Oneglia, a son of Catherine S. Oneglia and Gregory S. Oneglia of Litchfield, Conn. The Right Rev. J. Clark Grew II, who retired as the Episcopal bishop of Ohio, officiated at St. Andrew's Episcopal Church in Boca Grande, Fla., with the Rev. C. Read Heydt, also an Episcopal priest, taking part.</p>
+        <p>Mrs. Oneglia, 30, is a preschool teacher at the Episcopal School in New York. She graduated from Kenyon College and received a master's degree in early childhood and elementary education from Bank Street College of Education. Her father is a business consultant in New York.</p>
+        <p>Mr. Oneglia, 30, is a vice president for bonds, currencies and commodities trading at Goldman Sachs, the New York investment bank. He graduated from Princeton. His father is the vice chairman of O&amp;G Industries, a construction company in Torrington, Conn.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

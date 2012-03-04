@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Queen Divulges Her Secrets In a Multinational Face-Off</title>
+    <meta content="12card" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/12/crosswords/bridge/12card.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1839652"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Bridge"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Crossword and Games/Bridge</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="descriptor">Cards and Card Games</classifier>
+        <classifier class="online_producer" type="descriptor">Bridge (Card Game)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cards and Card Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bridge (Card Game)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070412T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04E3DB123FF931A25757C0A9619C8B63" item-length="487" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Queen Divulges Her Secrets In a Multinational Face-Off</hl1>
+        <hl2 class="online_headline">A Queen Divulges Her Secrets in a Multinational Face-Off</hl2>
+      </hedline>
+      <byline class="print_byline">By Phillip Alder</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The fourth White House Teams took place in Amsterdam in February. Before the main event there was a 96-board exhibition match between a top Dutch team, comprising Sjoert Brink, Bas Drijver, Bauke Muller, Vincent Ramondt, Berry Westra and Simon de Wijs, and a team composed of four Americans, Rose Meltzer, Roger Bates, Kyle Larsen and Alan Sontag, and two Norwegians, Geir Helgemo and Tor Helness.</p>
+        <p>The match was unusual in that all 12 competitors played every board. The diagramed deal resulted in a gain for the Meltzer team when Helness (South) made three no-trump.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The fourth White House Teams took place in Amsterdam in February. Before the main event there was a 96-board exhibition match between a top Dutch team and a team composed of four Americans.</p>
+      </block>
+      <block class="full_text">
+        <p>The fourth White House Teams took place in Amsterdam in February. Before the main event there was a 96-board exhibition match between a top Dutch team, comprising Sjoert Brink, Bas Drijver, Bauke Muller, Vincent Ramondt, Berry Westra and Simon de Wijs, and a team composed of four Americans, Rose Meltzer, Roger Bates, Kyle Larsen and Alan Sontag, and two Norwegians, Geir Helgemo and Tor Helness.</p>
+        <p>The match was unusual in that all 12 competitors played every board. The diagramed deal resulted in a gain for the Meltzer team when Helness (South) made three no-trump.</p>
+        <p>The auction was natural. South's two-no-trump rebid invited game, and North, knowing that five of a minor would be impossible, hoped that his minor suits would provide useful tricks.</p>
+        <p>Note West's heart-four opening lead. When the contract is in no-trump and you have only two honors at the top of a suit, it is normally right to lead your fourth-highest card, not the top of those touching honors. Remember, if the lead is a high honor and leader's partner has honor-doubleton, he is supposed to play his honor card. When the leader cannot afford for that to happen, he should lead fourth-highest, not an honor. (Against a suit contract, though, it would be normal to lead the heart king, top of touching honors.)</p>
+        <p>Helness had an immediate decision to make. With this suit combination it is often right to take the first trick with dummy's ace to block the suit. That would have been correct if, for example, West had had the spade ace and three diamonds to the queen, and East had held the club king. But that play would have been fatal here. Perhaps deciding that West would have bid with five hearts and 11 high-card points, declarer ducked the first trick to East's jack and won the heart return on the board.</p>
+        <p>Next came a spade to declarer's king. (It does not help East to rise with his ace.) Now South wanted to maximize his chances in the minors. First he tried the clubs. He could have cashed the ace and continued with the queen, but he felt that he would learn more about the suit's distribution if he immediately led the queen. When East paused for a few moments before ducking the trick, declarer was confident that the club ten would fall in three rounds. So Helness cashed his club ace, played a diamond to dummy's ace and led the club eight to drive out East's king.</p>
+        <p>This was the end position, with declarer having won five tricks:</p>
+        <p>East, who was endplayed, cashed the spade ace and played another spade. Declarer won with his queen, played a diamond to dummy's king and cashed the two clubs for plus 400.</p>
+        <p>At the other tables de Wijs failed in three no-trump after winning the first trick with dummy's heart ace, and Bates made three clubs with an overtrick.</p>
+        <p>Bridge</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

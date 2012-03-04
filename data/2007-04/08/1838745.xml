@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Making Sense of All the Math</title>
+    <meta content="08mort" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Real Estate Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="11" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Real Estate" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/08/realestate/08mort.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1838745"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MORTGAGES"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Housing</classifier>
+        <classifier class="indexing_service" type="descriptor">Mortgages</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <person class="indexing_service">Tedeschi, Bob</person>
+        <person class="indexing_service">Wachter, Susan M (Dr)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="descriptor">Mortgages</classifier>
+        <classifier class="online_producer" type="descriptor">Banks and Banking</classifier>
+        <classifier class="online_producer" type="descriptor">Credit</classifier>
+        <classifier class="online_producer" type="general_descriptor">Credit</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mortgages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Banks and Banking</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070408T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9400E6DE173FF93BA35757C0A9619C8B63" item-length="608" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Making Sense of All the Math</hl1>
+        <hl2 class="online_headline">Making Sense of All the Math</hl2>
+      </hedline>
+      <byline class="print_byline">By BOB TEDESCHI</byline>
+      <byline class="normalized_byline">Tedeschi, Bob</byline>
+      <abstract>
+        <p>Mortgages column on tracking and comparing rates discusses Dr Wachter's US Mortgage Payment Index, created by Dr Susan M Wachter (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THERE is a cruel logic in the fact that the most important purchase of a person's life is also the most daunting. Mortgage products, especially in recent years, have grown complex enough to strain the mathematical capacities of many borrowers, and shifting market conditions only add to the complexity.</p>
+        <p>A new quarterly index of mortgage rates created by Susan M. Wachter, an assistant secretary of housing and urban development in the Clinton administration who is now a professor of real estate and finance at the Wharton School of the University of Pennsylvania, aims to simplify that process. Dr. Wachter's U.S. Mortgage Payment Index, which can be found at www.genworth.com/mortgageinfo, lists five common mortgages and shows how their payments will change over five years.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Mortgage products have grown complex enough to strain the mathematical capacities of many borrowers, and shifting market conditions only add to the complexity.</p>
+      </block>
+      <block class="full_text">
+        <p>THERE is a cruel logic in the fact that the most important purchase of a person's life is also the most daunting. Mortgage products, especially in recent years, have grown complex enough to strain the mathematical capacities of many borrowers, and shifting market conditions only add to the complexity.</p>
+        <p>A new quarterly index of mortgage rates created by Susan M. Wachter, an assistant secretary of housing and urban development in the Clinton administration who is now a professor of real estate and finance at the Wharton School of the University of Pennsylvania, aims to simplify that process. Dr. Wachter's U.S. Mortgage Payment Index, which can be found at www.genworth.com/mortgageinfo, lists five common mortgages and shows how their payments will change over five years.</p>
+        <p>While other indexes track current rates for specific mortgages separately, or track rates tied to a borrower's specific finances, the Mortgage Payment Index seeks to provide an apples-to-apples comparison.</p>
+        <p>''Borrowers really cannot competitively price mortgages,'' Dr. Wachter said. ''There's no effective way for them to comparison-shop and look at five different mortgages and think through what's best for them.''</p>
+        <p>The first index, published late last month, features 30-year fixed mortgages at 6.25 percent interest with two types of mortgage insurance. In all cases, the loan is for $200,000.</p>
+        <p>For comparison, there is an interest-only loan at 6.5 percent, on which borrowers begin paying principal only after 10 years, and a ''pay-option ARM'' at 6.875 percent, on which borrowers can pay even less than the nominal interest rate in the loan's early stages.</p>
+        <p>The fifth mortgage is an ''80-15 combo,'' on which borrowers make a down payment of 5 percent and take out a first mortgage at 6.25 percent for 80 percent of the principal and a second mortgage or a home-equity line of credit for the remaining 15 percent at 9.875 percent for five years.</p>
+        <p>The index shows that at the stated interest rates, which reflect the current market, borrowers with the fixed-rate loans would pay $1,269 or $1,361 initially, depending on the insurance plan selected, and $1,269 and $1,231 after five years. Those with the interest-only loan would pay $1,172 initially and $1,277 in five years, and those with the pay-option ARM would pay $739 now, but $2,109 after five years.</p>
+        <p>With the combo loan, also known as a piggyback loan, borrowers would pay about $1,300 now and roughly $1,400 after five years.</p>
+        <p>The index also includes analysis and advice from Dr. Wachter. Piggyback loans, for instance, suit buyers ''who may have a windfall of funds to pay off the second mortgage,'' Dr. Wachter writes, or those with poor credit ''who can withstand a rising rate environment.''</p>
+        <p>Heather Dougherty, an analyst with Nielsen//NetRatings in New York, a consulting firm specializing in Internet issues, said the index ''is a very good place to start if you're looking for a mortgage.''</p>
+        <p>''It's simple, which is very important,'' Ms. Dougherty said. ''There's a ton of data online on mortgages, but people often don't know what to make of it.''</p>
+        <p>Ms. Dougherty pointed out that Genworth Financial, a mortgage insurance company, provides financial backing for the site. ''There's always skepticism when a site is backed by a company that could benefit from the information,'' she said. But given Dr. Wachter's credentials, Ms. Dougherty contends that consumers can have confidence in the information.</p>
+        <p>Dan Duffy, the immediate past president of the Connecticut Association of Mortgage Brokers, agreed in general, but said that borrowers should look carefully at Dr. Wachter's assumptions to be sure they cannot do better. For instance, he questions whether rates will go as high as Dr. Wachter thinks they will in five years.</p>
+        <p>MORTGAGES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

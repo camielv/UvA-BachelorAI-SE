@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Brooke Agulnick, Todd Wise</title>
+    <meta content="29AGULNICK" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/29/fashion/weddings/29AGULNICK.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1843752"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Agulnick, Brooke Regan (Brooke Regan Wise)</person>
+        <person class="indexing_service">Wise, Todd Andrew</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9901EEDD123EF93AA15757C0A9619C8B63" item-length="197" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Brooke Agulnick, Todd Wise</hl1>
+        <hl2 class="online_headline">Brooke Agulnick, Todd Wise</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Brooke Regan Agulnick, the daughter of Arlene Agulnick and Bruce H. Agulnick of Manalapan, N.J., was married last evening to Todd Andrew Wise, the son of Lesly Wise and Dr. Jonathan F. Wise of Hollywood, Fla. Rabbi Donald Weber officiated at the Crystal Plaza in Livingston, N.J.</p>
+        <p>Mrs. Wise, 28, works in New York as a vice president of the Royal Bank of Canada; she sells research on stocks to institutional clients. She graduated magna cum laude from the University of Pennsylvania and received an M.B.A. from New York University.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Brooke Regan Agulnick, the daughter of Arlene Agulnick and Bruce H. Agulnick of Manalapan, N.J., was married last evening to Todd Andrew Wise, the son of Lesly Wise and Dr. Jonathan F. Wise of Hollywood, Fla. Rabbi Donald Weber officiated at the Crystal Plaza in Livingston, N.J.</p>
+      </block>
+      <block class="full_text">
+        <p>Brooke Regan Agulnick, the daughter of Arlene Agulnick and Bruce H. Agulnick of Manalapan, N.J., was married last evening to Todd Andrew Wise, the son of Lesly Wise and Dr. Jonathan F. Wise of Hollywood, Fla. Rabbi Donald Weber officiated at the Crystal Plaza in Livingston, N.J.</p>
+        <p>Mrs. Wise, 28, works in New York as a vice president of the Royal Bank of Canada; she sells research on stocks to institutional clients. She graduated magna cum laude from the University of Pennsylvania and received an M.B.A. from New York University.</p>
+        <p>Her father is a certified public accountant with offices in Manalapan and Union, N.J. Her mother is an English teacher at the Millstone Township Middle School in New Jersey.</p>
+        <p>Mr. Wise, also 28, is a stock trader at Trillium Trading in New York. He graduated magna cum laude from the University of Pennsylvania.</p>
+        <p>His mother retired as a partner in L.T.J.'s, a watch distribution company in Hollywood. His father is an ophthalmologist in private practice there.</p>
+        <p>The bridegroom is a great-grandson of Isaac Mayer Wise, the founder of organized Reform Judaism in the United States who established Hebrew Union College and the Union of American Hebrew Congregations.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

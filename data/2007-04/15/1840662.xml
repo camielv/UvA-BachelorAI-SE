@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bomber Kills 9 in East Afghanistan</title>
+    <meta content="15kabul" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="World; Washington" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/15/world/asia/15kabul.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840662"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Bombs and Explosives</classifier>
+        <classifier class="indexing_service" type="descriptor">United States International Relations</classifier>
+        <classifier class="indexing_service" type="descriptor">United States Armament and Defense</classifier>
+        <classifier class="indexing_service" type="descriptor">Terrorism</classifier>
+        <location class="indexing_service">Afghanistan</location>
+        <location class="indexing_service">Khost (Afghanistan)</location>
+        <org class="indexing_service">Taliban (Afghan Group)</org>
+        <person class="indexing_service">Wafa, Abdul Waheed</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Afghanistan</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Afghanistan</classifier>
+        <classifier class="online_producer" type="descriptor">Bombs and Explosives</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bombs and Explosives</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">Afghanistan</location>
+        <org class="online_producer">Taliban</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B06E6D8103FF936A25757C0A9619C8B63" item-length="265" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bomber Kills 9 in East Afghanistan</hl1>
+        <hl2 class="online_headline">Bomber Kills 9 in East Afghanistan</hl2>
+      </hedline>
+      <byline class="print_byline">By ABDUL WAHEED WAFA</byline>
+      <byline class="normalized_byline">Wafa, Abdul Waheed</byline>
+      <dateline>KABUL, Afghanistan, April 14</dateline>
+      <abstract>
+        <p>Taliban claims responsibility for attack by suicide bomber in eastern Afghanistan; attack kills nine people, including eight policemen; Taliban vows to increase use of suicide attacks (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A suicide bomber walked to the gate of a border police unit in eastern Afghanistan on Saturday and detonated his explosives, killing at least nine people -- eight policemen and one civilian, local officials said. Five other policemen were wounded.</p>
+        <p>The Taliban claimed responsibility for the attack, which took place at midmorning outside Khost, a town in eastern Afghanistan, news agencies reported.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Taliban claimed responsibility for the attack and have vowed to increase their use of suicide attacks.</p>
+      </block>
+      <block class="full_text">
+        <p>A suicide bomber walked to the gate of a border police unit in eastern Afghanistan on Saturday and detonated his explosives, killing at least nine people -- eight policemen and one civilian, local officials said. Five other policemen were wounded.</p>
+        <p>The Taliban claimed responsibility for the attack, which took place at midmorning outside Khost, a town in eastern Afghanistan, news agencies reported.</p>
+        <p>The Taliban have vowed to increase their use of suicide attacks, and NATO has said it expects a spring offensive by the group after a traditional winter lull in fighting.</p>
+        <p>Initial reports of the Khost attacks said eight people had been killed, but one policeman later died in the hospital, said Dr. Gul Muhammadin Muhammadi, the director of the public hospital in Khost. One of the dead was a civilian who was near the gate when the explosion occurred, he said.</p>
+        <p>The violence occurred amid reports of fighting in Ghazni Province, south of Kabul. Three bombing suspects died when explosives they were carrying detonated before they reached their targets, a local police chief said Saturday, according to Agence France-Presse. Two Afghan soldiers were also killed in Ghazni Province when their vehicle was hit by a roadside bomb, AFP reported.</p>
+        <p>Violence has been rising across the country. Twelve NATO soldiers have been killed in the past week, most of them in roadside bomb explosions. A suicide bombing in Kabul killed six people last Friday; another bomb in Kandahar, a southern town, wounded eight civilians on Wednesday.</p>
+        <p>Two French aid workers, with three Afghan colleagues, remain captives of kidnappers in southern Afghanistan.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

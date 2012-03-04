@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Colleges Review Aid Practices As Loan Inquiry Gains Steam</title>
+    <meta content="19loan" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Education; U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/19/us/19loan.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1841404"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="descriptor">Student Loans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <org class="online_producer">Education Department</org>
+        <person class="online_producer">Miller, George</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070419T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0DE0D81E3FF93AA25757C0A9619C8B63" item-length="484" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Colleges Review Aid Practices As Loan Inquiry Gains Steam</hl1>
+        <hl2 class="online_headline">Colleges Review Aid Practices as Loan Inquiry Gains Steam</hl2>
+      </hedline>
+      <byline class="print_byline">By JONATHAN D. GLATER; Sam Dillon contributed reporting.</byline>
+      <byline class="normalized_byline">Glater, Jonathan D</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Colleges and universities are scrambling to review the practices of their financial aid offices as a result of an expanding investigation into the ties between university officials and lenders.</p>
+        <p>The growing concern also prompted a leading Congressional Democrat yesterday to call on the federal Education Department to ''take emergency action'' to ban colleges from creating lists of lenders that they recommend to students.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Colleges and universities are scrambling to review the practices of their financial aid offices as a result of an expanding investigation into the ties between university officials and lenders.</p>
+      </block>
+      <block class="full_text">
+        <p>Colleges and universities are scrambling to review the practices of their financial aid offices as a result of an expanding investigation into the ties between university officials and lenders.</p>
+        <p>The growing concern also prompted a leading Congressional Democrat yesterday to call on the federal Education Department to ''take emergency action'' to ban colleges from creating lists of lenders that they recommend to students.</p>
+        <p>Representative George Miller, Democrat of California, spoke out a day after the Education Department announced that it was temporarily barring loan companies from accessing a database holding personal financial information on millions of applicants for federal student aid. Education Secretary Margaret Spellings said she had acted because of concerns that loan companies or other marketers were improperly gaining access to the database to identify potential borrowers.</p>
+        <p>Mr. Miller, the chairman of the Education and Labor Committee, said Wednesday, ''It is absolutely my intention to exhaustively investigate the abuses of the database system.'' He added that he planned to investigate how many students' records were improperly viewed.</p>
+        <p>He urged Ms. Spellings to ban the university lender lists, clearly define incentives that loan companies cannot offer universities and require that universities end any relationships with lenders that create conflicts of interest.</p>
+        <p>Recent weeks have brought a flood of revelations about university financial aid directors getting stock, consultant fees or tuition payments from student loan companies. Dozens of universities also get payments from the industry to increase student loan volume.</p>
+        <p>''The Department of Education has been delinquent in its oversight,'' Mr. Miller wrote to Ms. Spellings.</p>
+        <p>Katherine McLane, a spokeswoman for the Education Department, noted that the department was studying potential rules on a range of topics, including preferred lending lists. Ms. McLane warned against sudden changes in the student loan program.</p>
+        <p>''Rather than abruptly pulling the plug on systems American families rely on, as the chairman suggests, the department has taken a more deliberative and comprehensive approach,'' she said.</p>
+        <p>Universities are scrambling to deal with fallout from the spreading scandal. The president of the University of California system, Robert C. Dynes, sent a letter this week to the system's chancellors, advising them that the university's auditor would conduct internal reviews at each campus to ensure that ''individuals who are in positions to influence student and family decisions regarding student aid'' are complying ''with law, policy and the highest standards of ethical conduct.''</p>
+        <p>At the University of Texas system the general counsel, Barry D. Burgdorf, is carrying out a similar review. He said the process would take months. ''Given the current environment, every university would be wise to look at their procedures and make sure they are in line with current expectations,'' Mr. Burgdorf said.</p>
+        <p>The State University of New York recently reached an agreement with State Attorney General Andrew M. Cuomo, adopting a code of conduct governing financial aid offices and their relationships with lenders.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

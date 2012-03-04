@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Warner Music Chairman Sued</title>
+    <meta content="24music" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/24/business/media/24music.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842592"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <org class="online_producer">Warner Music Group</org>
+        <org class="online_producer">Simon &amp; Schuster Inc</org>
+        <person class="online_producer">Bronfman, Edgar M Jr</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070424T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E3DE143EF937A15757C0A9619C8B63" item-length="315" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Warner Music Chairman Sued</hl1>
+        <hl2 class="online_headline">Warner Music Chairman Sued</hl2>
+      </hedline>
+      <byline class="print_byline">By JEFF LEEDS</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A dispute between two top figures in the corporate media establishment spilled into public view yesterday when Richard Snyder, the former chairman of Simon &amp; Schuster, sued Edgar Bronfman Jr., the chairman of the Warner Music Group, saying he had not compensated him for his role in Mr. Bronfman's $2.6 billion acquisition of the music company three years ago.</p>
+        <p>Mr. Snyder, who was forced from his post at Simon &amp; Schuster in 1994 after building it into a publishing powerhouse, said in the lawsuit, filed in New York Supreme Court, that Mr. Bronfman had recruited him to look for prospective investments after the two men met in Anguilla in late 2001. Mr. Snyder said Mr. Bronfman had promised him ''fair and equitable'' compensation from any deal they consummated, then rebuffed him when he sought payment from the Warner Music deal.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The former chairman of Simon &amp; Schuster alleged he was not compensated for his role in the $2.6 billion acquisition of the music company three years ago.</p>
+      </block>
+      <block class="full_text">
+        <p>A dispute between two top figures in the corporate media establishment spilled into public view yesterday when Richard Snyder, the former chairman of Simon &amp; Schuster, sued Edgar Bronfman Jr., the chairman of the Warner Music Group, saying he had not compensated him for his role in Mr. Bronfman's $2.6 billion acquisition of the music company three years ago.</p>
+        <p>Mr. Snyder, who was forced from his post at Simon &amp; Schuster in 1994 after building it into a publishing powerhouse, said in the lawsuit, filed in New York Supreme Court, that Mr. Bronfman had recruited him to look for prospective investments after the two men met in Anguilla in late 2001. Mr. Snyder said Mr. Bronfman had promised him ''fair and equitable'' compensation from any deal they consummated, then rebuffed him when he sought payment from the Warner Music deal.</p>
+        <p>Orin Snyder, a lawyer who represents Mr. Bronfman and is not related to Richard Snyder, called the claims in the lawsuit ''absolute fiction.''</p>
+        <p>''Simply put, Dick Snyder did not work on'' the Warner Music deal ''and there was never an agreement to compensate him for anything,'' Orin Snyder said, adding that the plaintiff was ''attempting to rewrite history.''</p>
+        <p>In his lawsuit, Richard Snyder said that he had played a crucial role in lining up financing and obtaining financial information to aid Mr. Bronfman's bid for Warner Music in 2003, when it was being sold by its corporate parent, Time Warner. Before the deal closed, Mr. Snyder said, he also tried to broker a merger between Warner Music and the EMI Group, the British music giant, even holding a meeting between Mr. Bronfman and EMI's chief, Eric Nicoli, at his country house.</p>
+        <p>Also in the suit, Mr. Snyder said that he had approached Mr. Bronfman about compensation for the Warner deal and had been turned away. He is seeking $100 million in damages.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

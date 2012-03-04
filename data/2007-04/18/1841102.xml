@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Stylistic Wanderings and Flirtations With Multimedia and Jazz</title>
+    <meta content="18sequ" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/18/arts/music/18sequ.html" name="alternate_url"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20070425T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1841102"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MUSIC REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="descriptor">Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <org class="online_producer">Sequitur</org>
+        <org class="online_producer">Merkin Concert Hall</org>
+        <person class="online_producer">Andriessen, Louis</person>
+        <person class="online_producer">Wyner, Yehudi</person>
+        <person class="online_producer">Bainbridge, Simon</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070418T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D03E5DE1E3FF93BA25757C0A9619C8B63" item-length="312" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Stylistic Wanderings and Flirtations With Multimedia and Jazz</hl1>
+        <hl2 class="online_headline">Stylistic Wanderings and Flirtations With Multimedia and Jazz</hl2>
+      </hedline>
+      <byline class="print_byline">By ALLAN KOZINN</byline>
+      <byline class="normalized_byline">Kozinn, Allan</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>New-music ensembles, like individual players, have traditionally maintained stylistic allegiances, and many still do. But as dogmatic loyalties break down, performers are wandering through the repertory and playing whatever strikes them.</p>
+        <p>Sequitur, in past seasons, has leaned mainly toward post-tonal composers, serial and otherwise, but the group has also occasionally looked in on more immediately accessible styles. And if its program on Monday evening at Merkin Concert Hall was devoted largely to music with a tart edge, it also included a post-Minimalist multimedia work by Louis Andriessen, and a flirtation with jazz by Yehudi Wyner.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>On Monday at Merkin Concert Hall, the new-music ensemble Sequitur moved toward more accessible styles of composition, alternating melancholy with zest.</p>
+      </block>
+      <block class="full_text">
+        <p>New-music ensembles, like individual players, have traditionally maintained stylistic allegiances, and many still do. But as dogmatic loyalties break down, performers are wandering through the repertory and playing whatever strikes them.</p>
+        <p>Sequitur, in past seasons, has leaned mainly toward post-tonal composers, serial and otherwise, but the group has also occasionally looked in on more immediately accessible styles. And if its program on Monday evening at Merkin Concert Hall was devoted largely to music with a tart edge, it also included a post-Minimalist multimedia work by Louis Andriessen, and a flirtation with jazz by Yehudi Wyner.</p>
+        <p>Daniel Koontz scored his ''Causerie'' (2005) for the unusual combination of piano, accordion, guitar and percussion, and gave each player fragmentary, pointillistic lines that yield appealingly tactile textures. The scoring is light and delicate at first, but Mr. Koontz gradually increases the weight and density of each instrument's line so that eventually the individual contributions merge into an explosive whole.</p>
+        <p>Steven Burke's ''Untitled Universe'' (2005), a quartet for English horn and strings, is more conventional, with a lyrical, plaintive English horn melody (played with an almost vocal inflection by Jacqueline Leclair) set against melancholy, mildly dissonant string scoring.</p>
+        <p>That dark character cropped up again with a more overtly mournful and sometimes eerie cast in Simon Bainbridge's ''Four Primo Levi Settings'' (1996) for mezzo-soprano, clarinet, viola and piano. These Italian settings dance between gracefulness and ponderousness, and Mary Nessinger moved deftly between those extremes, giving her best performance in ''Da RM Rilke,'' the cycle's haunting, gently chromatic finale.</p>
+        <p>Quirkiest scores: Mr. Andriessen's ''New Maths'' (2000), a sometimes angular, sometimes rhythmically insistent work accompanied by a gritty, peculiar film in which three geeky young mathematicians ponder and clash. And Mr. Wyner's ''Trapunto Junction'' (1991), for brass and percussion, which offered a sporting challenge, with its fanfarelike opening and the rhythmically zesty, jam-session sensibility of its finale.</p>
+        <p>MUSIC REVIEW</p>
+        <p>Correction:  April 25, 2007, Wednesday  A picture caption last Wednesday with a music review of Sequitur, at Merkin Concert Hall, included outdated program information about the violinist shown. She was Miranda Cuckson -- not Andrea Schultz, another Sequitur violinist.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: April 25, 2007, Wednesday</p>
+        <p>A picture caption last Wednesday with a music review of Sequitur, at Merkin Concert Hall, included outdated program information about the violinist shown. She was Miranda Cuckson -- not Andrea Schultz, another Sequitur violinist.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

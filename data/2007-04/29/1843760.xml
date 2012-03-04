@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Jenelle DeCoteau, Greg Baker</title>
+    <meta content="29decoteau" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/29/fashion/weddings/29decoteau.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1843760"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">DeCoteau, Jenelle June</person>
+        <person class="indexing_service">Baker, Howard Gregory</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E7DC123EF93AA15757C0A9619C8B63" item-length="182" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Jenelle DeCoteau, Greg Baker</hl1>
+        <hl2 class="online_headline">Jenelle DeCoteau and Greg Baker</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Jenelle June DeCoteau, a daughter of Patricia and Collis A. DeCoteau of Miami, was married yesterday to Howard Gregory Baker, the son of Carolyn Saunders Baker and Howard L. Baker of Tinton Falls, N.J. The Rev. Norbert M. Cooper, an Episcopal priest, officiated at the Palms South Beach hotel in Miami Beach.</p>
+        <p>Ms. DeCoteau, 27, is keeping her name. She is an associate at Skadden, Arps, Slate, Meagher &amp; Flom, the New York law firm. She graduated from Columbia and received her law degree from Harvard.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The couple were married on Saturday at the Palms South Beach hotel in Miami Beach.</p>
+      </block>
+      <block class="full_text">
+        <p>Jenelle June DeCoteau, a daughter of Patricia and Collis A. DeCoteau of Miami, was married yesterday to Howard Gregory Baker, the son of Carolyn Saunders Baker and Howard L. Baker of Tinton Falls, N.J. The Rev. Norbert M. Cooper, an Episcopal priest, officiated at the Palms South Beach hotel in Miami Beach.</p>
+        <p>Ms. DeCoteau, 27, is keeping her name. She is an associate at Skadden, Arps, Slate, Meagher &amp; Flom, the New York law firm. She graduated from Columbia and received her law degree from Harvard.</p>
+        <p>Her father retired as a sales representative in Miami for NorVergence, a telephone services provider. Her mother is an emergency room nurse at Jackson South Community Hospital in Palmetto Bay, Fla.</p>
+        <p>Mr. Baker, 28, is an associate in the New York office of Quinn Emanuel Urquhart Oliver &amp; Hedges, a Los Angeles law firm. He graduated from Amherst and received his law degree from Columbia.</p>
+        <p>His mother is a social worker at Monmouth Regional High School in Tinton Falls. His father is a consultant in Tinton Falls who provides advice on recruiting executives and other staff.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

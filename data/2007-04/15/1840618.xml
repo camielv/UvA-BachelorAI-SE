@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TRANSACTIONS</title>
+    <meta content="15transact" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1840618"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E5D9103FF936A25757C0A9619C8B63" item-length="99" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TRANSACTIONS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BASKETBALL</p>
+        <p>N.B.A.  TORONTO RAPTORS--Signed F Luke Jackson for the remainder of this season and the 2007-08 season.</p>
+        <p>FOOTBALL</p>
+        <p>N.F.L.  CLEVELAND BROWNS--Signed TE Steve Heiden to a four-year contract extension.  INDIANAPOLIS COLTS--Re-signed QB Jim Sorgi.</p>
+        <p>HOCKEY</p>
+        <p>N.H.L.  NHL--Suspended Nashville F Alexander Radulov one game for a hitting-from-behind incident involving San Jose F Steve Bernier in a game on April 13.</p>
+        <p>American Hockey League  GRAND RAPIDS GRIFFINS--Signed LW Jan Mursak.</p>
+        <p>COLLEGE</p>
+        <p>WICHITA STATE--Named Gregg Marshall men's basketball coach.  WINTHROP--Named Randy Peele men's basketball coach.</p>
+      </block>
+      <block class="full_text">
+        <p>BASKETBALL</p>
+        <p>N.B.A.  TORONTO RAPTORS--Signed F Luke Jackson for the remainder of this season and the 2007-08 season.</p>
+        <p>FOOTBALL</p>
+        <p>N.F.L.  CLEVELAND BROWNS--Signed TE Steve Heiden to a four-year contract extension.  INDIANAPOLIS COLTS--Re-signed QB Jim Sorgi.</p>
+        <p>HOCKEY</p>
+        <p>N.H.L.  NHL--Suspended Nashville F Alexander Radulov one game for a hitting-from-behind incident involving San Jose F Steve Bernier in a game on April 13.</p>
+        <p>American Hockey League  GRAND RAPIDS GRIFFINS--Signed LW Jan Mursak.</p>
+        <p>COLLEGE</p>
+        <p>WICHITA STATE--Named Gregg Marshall men's basketball coach.  WINTHROP--Named Randy Peele men's basketball coach.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

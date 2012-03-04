@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Government Keeps a Secret After Studying Spy Agencies</title>
+    <meta content="26contracting" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="21" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/26/washington/26contracting.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842980"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Intelligence Services</classifier>
+        <classifier class="indexing_service" type="descriptor">Privatization</classifier>
+        <person class="indexing_service">Shane, Scott</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">Espionage</classifier>
+        <classifier class="online_producer" type="descriptor">Classification of Information</classifier>
+        <classifier class="online_producer" type="descriptor">Intelligence Services</classifier>
+        <classifier class="online_producer" type="general_descriptor">Privatization</classifier>
+        <classifier class="online_producer" type="general_descriptor">Classification of Information</classifier>
+        <classifier class="online_producer" type="general_descriptor">Espionage</classifier>
+        <classifier class="online_producer" type="general_descriptor">Intelligence</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <org class="online_producer">Central Intelligence Agency</org>
+        <org class="online_producer">Federal Bureau of Investigation</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070426T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04E3DE153EF935A15757C0A9619C8B63" item-length="466" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Government Keeps a Secret After Studying Spy Agencies</hl1>
+        <hl2 class="online_headline">Government Keeps a Secret After Studying Spy Agencies</hl2>
+      </hedline>
+      <byline class="print_byline">By SCOTT SHANE</byline>
+      <byline class="normalized_byline">Shane, Scott</byline>
+      <dateline>WASHINGTON, April 25</dateline>
+      <abstract>
+        <p>Top intelligence officials, concerned about growing dependence of nation's spy agencies on private contractors, determine number of contractors at agencies; officials say contractor count cannot be revealed, because personnel numbers and agency budgets are classified (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Concerned about the growing dependence of the nation's spy agencies on private contractors, top intelligence officials have spent months determining just how many contractors work at the C.I.A., D.I.A., F.B.I., N.S.A. and the rest of the spook alphabet soup.</p>
+        <p>Now they have an answer. But they cannot reveal it, they say, because America's enemies might be listening.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Top intelligence officials say they cannot reveal a study of the number of contractors working at spy agencies because of security concerns.</p>
+      </block>
+      <block class="full_text">
+        <p>Concerned about the growing dependence of the nation's spy agencies on private contractors, top intelligence officials have spent months determining just how many contractors work at the C.I.A., D.I.A., F.B.I., N.S.A. and the rest of the spook alphabet soup.</p>
+        <p>Now they have an answer. But they cannot reveal it, they say, because America's enemies might be listening.</p>
+        <p>Ronald P. Sanders, chief human capital officer for the director of national intelligence, said that because personnel numbers and agency budgets were classified, he could not reveal the contractor count.</p>
+        <p>''I can't give you anything that would allow you to impute the size of the I.C. civilian work force,'' Mr. Sanders said, using shorthand for ''intelligence community'' in a telephone briefing that covered everything about the contractor survey except its core findings.</p>
+        <p>Mr. Sanders said the study did find that about 25 percent of the intelligence work now contracted out resulted from personnel ceilings imposed by Congress. But 25 percent of what, he said he could not disclose.</p>
+        <p>Steven Aftergood of the Project on Government Secrecy at the Federation of American Scientists, said the decision not to reveal the numbers was a sign of dysfunctional policies.</p>
+        <p>''It reveals how confused the government is about what is really sensitive and what is not,'' Mr. Aftergood said. ''What would Osama bin Laden do with the fraction of intelligence workers who are contractors? Absolutely nothing.''</p>
+        <p>The government's use of contractors has accelerated greatly during the Bush administration. Nowhere has the increase been more striking than in the spy agencies, like Central Intelligence, Defense Intelligence and National Security, whose budgets were cut sharply in the 1990s and then faced huge new demands after the 2001 terrorist attacks.</p>
+        <p>Members of the House and Senate Intelligence Committees have expressed concern about the cost of contracting and its impact on agencies in luring away skilled employees. The intelligence director's office set out last year, as a first step, to get a handle on the scale of contracting.</p>
+        <p>The agencies have long fought efforts to make public their budgets and work force numbers.</p>
+        <p>But not all officials have been punctilious about keeping the secrets. At a conference in 2005, Mary Margaret Graham, a deputy director of national intelligence, let slip that the annual spy budget was $44 billion. Last year, John D. Negroponte, then the intelligence director, said in a speech ''almost 100,000 patriotic, talented and hard-working Americans'' work for the agencies.</p>
+        <p>Why was Mr. Negroponte permitted to reveal that number? ''It was an estimate,'' said Ross Feinstein, a spokesman for the current intelligence chief, Mike McConnell.</p>
+        <p>Asked why no estimate of contractors can be revealed, Mr. Feinstein said in a statement: ''Administrations and Congressional majorities of both parties have supported classifying intelligence budgets, personnel and contractor numbers to protect our national security interests.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

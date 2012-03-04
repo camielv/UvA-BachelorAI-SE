@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Kramnik Flexes His Muscles In Blindfold and Rapid Play</title>
+    <meta content="01chess" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="33" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/01/crosswords/chess/01chess.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837370"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Chess"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Chess</classifier>
+        <person class="indexing_service">Kramnik, Vladimir</person>
+        <person class="indexing_service">Morozevich, Alexander</person>
+        <person class="indexing_service">Mcclain, Dylan Loeb</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Crossword and Games/Chess</classifier>
+        <classifier class="online_producer" type="descriptor">Chess</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chess</classifier>
+        <person class="online_producer">Kramnik, Vladimir</person>
+        <person class="online_producer">Anand, Viswanathan</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D06E7D61130F932A35757C0A9619C8B63" item-length="502" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Kramnik Flexes His Muscles In Blindfold and Rapid Play</hl1>
+        <hl2 class="online_headline">Kramnik Flexes His Muscles in Blindfold and Rapid Play</hl2>
+      </hedline>
+      <byline class="print_byline">By Dylan Loeb McClain</byline>
+      <byline class="normalized_byline">Mcclain, Dylan Loeb</byline>
+      <abstract>
+        <p>Chess column on Vladimir Kramnik's sixth victory at Melody Amber tournament in Monaco where each competitor plays one rapid game and one blindfolded game against each of the other competitors; diagram of Kramnik's win over Alexander Morozevich in blindfold game (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>One of the most unusual events of the year is the Melody Amber tournament in Monaco.</p>
+        <p>The tournament was started in 1992 by Joop van Oosterom, a billionaire software designer, and is named for his daughter. Oosterom is not only a patron of chess, but a strong player. In 2005, he became the 18th world correspondence champion.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Melody Amber tournament in Monaco is one of the most unusual chess events of the year.</p>
+      </block>
+      <block class="full_text">
+        <p>One of the most unusual events of the year is the Melody Amber tournament in Monaco.</p>
+        <p>The tournament was started in 1992 by Joop van Oosterom, a billionaire software designer, and is named for his daughter. Oosterom is not only a patron of chess, but a strong player. In 2005, he became the 18th world correspondence champion.</p>
+        <p>With a large prize fund -- $288,000 this year -- the Melody Amber tournament usually attracts most of the world's best players.</p>
+        <p>It also features an unusual format: Each competitor plays one rapid game and one blindfold game against each of the other competitors. In the blindfold games, the players type their moves into a computer but cannot see the pieces.</p>
+        <p>Over the years, a few who excel at one or both disciplines have dominated the tournament. Viswanathan Anand of India, poised to become the world's top-ranked player and generally acknowledged as the best rapid player, has won or tied for first six times. Alexander Morozevich, a Russian who is a whiz at blindfold chess, has won or tied for first three times.</p>
+        <p>Vladimir Kramnik, another Russian, who is the current world champion, has won or tied for first five times. At this year's tournament, which ended Thursday, Kramnik ran away from the rest of the field for his sixth victory. Along the way, he displayed a facility for blindfold chess that even Morozevich could not match, as in their third-round game.</p>
+        <p>The opening was unusual: Morozevich chose a somewhat passive system that let him gain the advantage of the two bishops, but allowed Kramnik free rein for development.</p>
+        <p>After Kramnik castled queenside, each player began an attack against the other's king.</p>
+        <p>The safest course would have been for Morozevich to play 15 Ne4. By playing 15 Nc4, he was gambling that having the two bishops against Kramnik's two knights would make up for his slight material deficit.</p>
+        <p>Instead of 18 de, perhaps Morozevich should have tried 18 b4. Kramnik cannot take the pawn (18  Qb4 19 Ba3 Qc3 20 Bd6 Ka8 21 Ra3 Qb2 22 Rb3 Qa2 23 Rdb1 gives White a tremendous attack), and after 18  ed 19 Be3 Qb4 20 Rd4 Qb2 21 Qd1, White has a lot of play.</p>
+        <p>Morozevich's 21 Rad1 was not the best as it allowed Kramnik to solidify his center and retain his extra material. But even if he had tried 21 c4 he would still have been struggling after 21  Ne3 22 Re4 Qc5 23 Qe3 Qe3 24 fe Re4 25 Be4 Ne5, when Black has a big advantage.</p>
+        <p>Morozevich missed his last chance with 25 Rc4. Instead, 25 c4 Ne6 26 R4d2 Nb4 27 Rd8 Nd8 (not 27  Rd8 28 Rd8 Kd8 29 Bg5 Ng5 30 Qd2) 28 Bg5 allows White to restore material equality, but Black is still better.</p>
+        <p>At the end, Morozevich was down two pawns, and his own king was facing an attack (38 Qe2 Rh7 39 Kg1 Nf4 40 gf Rf4), so he gave up.</p>
+        <p>Chess</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

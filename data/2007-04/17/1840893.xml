@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>REALLY?</title>
+    <meta content="17real" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Health&amp;Fitness" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/17/health/17real.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840893"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Really?"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Columns/Really?</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Alternative and Complementary Medicine</classifier>
+        <classifier class="online_producer" type="descriptor">Smoking and Tobacco</classifier>
+        <classifier class="online_producer" type="descriptor">Alternative and Complementary Medicine</classifier>
+        <classifier class="online_producer" type="general_descriptor">Alternative and Complementary Medicine</classifier>
+        <classifier class="online_producer" type="general_descriptor">Smoking and Tobacco</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070417T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9500E7DA113FF934A25757C0A9619C8B63" item-length="249" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>REALLY?</hl1>
+        <hl2 class="online_headline">The Claim: Acupuncture Can Help You Stop Smoking</hl2>
+      </hedline>
+      <byline class="print_byline">By ANAHAD O'CONNOR</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE CLAIM -- Acupuncture can help you stop smoking.</p>
+        <p>THE FACTS -- Smokers looking for a way to beat the habit have been using acupuncture for several decades now -- but does it actually work?</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Smokers looking for a way to beat the habit have been using acupuncture for several decades now  but does it actually work?</p>
+      </block>
+      <block class="full_text">
+        <p>THE CLAIM -- Acupuncture can help you stop smoking.</p>
+        <p>THE FACTS -- Smokers looking for a way to beat the habit have been using acupuncture for several decades now -- but does it actually work?</p>
+        <p>According to those who endorse it, the technique helps stimulate the release of endorphins and other brain chemicals, blotting out cravings and easing the symptoms of nicotine withdrawal. A 2006 survey by the Mayo Clinic found that about 27 percent of smokers looking to quit had tried acupuncture at least once, and many others said they hoped to try it in the future.</p>
+        <p>Most studies, however, suggest they could just as well try something else. One of the most extensive studies, published in the Cochrane Database of Systematic Reviews, looked at more than a dozen past studies, most comparing acupuncture with sham, or fake, acupuncture and other control conditions. The scientists who led the study found that acupuncture and similar interventions -- acupressure and electrostimulation, for example -- were better in the short term than no treatment at all, but that over all they were not very effective.</p>
+        <p>Still, other studies show that more than three-quarters of smokers will relapse a few times no matter what. And because the effects of different techniques vary from one person to the next, most scientists recommend combining interventions, particularly those that involve behavioral modification and nicotine replacement.</p>
+        <p>THE BOTTOM LINE -- Most studies have not found acupuncture very effective in helping smokers quit.</p>
+        <p>ANAHAD O'CONNOR</p>
+        <p>Really?</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

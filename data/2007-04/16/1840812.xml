@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Man Is Sought After Assault On a Woman In Her Home</title>
+    <meta content="16attack" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/16/nyregion/16attack.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840812"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Law Enforcement and Security</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Sex Crimes</classifier>
+        <classifier class="online_producer" type="descriptor">Fires and Firefighters</classifier>
+        <classifier class="online_producer" type="descriptor">Police</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sex Crimes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Arson</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hostages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fires and Firefighters</classifier>
+        <classifier class="online_producer" type="general_descriptor">Police</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070416T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01EFDD113FF935A25757C0A9619C8B63" item-length="362" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Man Is Sought After Assault On a Woman In Her Home</hl1>
+        <hl2 class="online_headline">Man Is Sought After Assault on a Woman in Her Home</hl2>
+      </hedline>
+      <byline class="print_byline">By MICHAEL WILSONand KATE HAMMER; Fernanda Santos contributed reporting.</byline>
+      <byline class="normalized_byline">Wilson, Michael; Hammer, Kate</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Detectives continued searching a building in Hamilton Heights yesterday for clues in their hunt for a man who the police said held a 23-year-old woman hostage in her apartment for 17 hours, beating and raping her before setting the apartment ablaze.</p>
+        <p>The attack began about 11:30 p.m. on Friday, after the woman, whose name was not released because of the nature of the crime, entered an elevator in her building, on Hamilton Terrace near West 141st Street. A man got on the elevator with her, and when they reached her floor he forced his way into her apartment and attacked her, the police said.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Detectives continued searching for clues Sunday in their hunt for a man who police said raped and beat a woman before setting her apartment ablaze.</p>
+      </block>
+      <block class="full_text">
+        <p>Detectives continued searching a building in Hamilton Heights yesterday for clues in their hunt for a man who the police said held a 23-year-old woman hostage in her apartment for 17 hours, beating and raping her before setting the apartment ablaze.</p>
+        <p>The attack began about 11:30 p.m. on Friday, after the woman, whose name was not released because of the nature of the crime, entered an elevator in her building, on Hamilton Terrace near West 141st Street. A man got on the elevator with her, and when they reached her floor he forced his way into her apartment and attacked her, the police said.</p>
+        <p>On Saturday about 4:30 p.m., he set a futon in the apartment on fire and fled, and the woman escaped to the basement, the police said. A neighbor said he saw her there as the building superintendent struggled to free her from with what appeared to be electrical cord and pillowcases around her neck, face and hands.</p>
+        <p>''She was crying,'' said the neighbor, Ronald Ward, 19, who lives in the building. ''She was saying, 'I got raped. I got raped.' It was the only thing she could say.'' She was wearing jeans and a tank top, he said. Upstairs, ''there was lots of thick black smoke coming out her door,'' he said.</p>
+        <p>Firefighters quickly extinguished the blaze, and damage was confined to the woman's apartment. Police Commissioner Raymond W. Kelly said yesterday that the woman was in serious but stable condition at a nearby hospital with burns on her face and cuts on her eyelids. He said she had used the flames to burn her restraints and flee the apartment.</p>
+        <p>The woman moved into the building only a couple of months ago, neighbors said.</p>
+        <p>The police said the suspect was a black man in his 30s, about 6-foot-1 and 180 pounds. He is bald with a goatee and has a scar on his abdomen.</p>
+        <p>Teddy Perkins, 55, a financial planner who lives in the building, said it was generally safe. ''This is terrible,'' he said. ''I've been living in this building 30 years and nothing happened like this before.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

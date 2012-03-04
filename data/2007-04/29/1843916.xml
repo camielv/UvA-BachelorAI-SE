@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Crash Injures 18, and a Driver Is Charged</title>
+    <meta content="29crash" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="32" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/29/nyregion/29crash.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1843916"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Accidents and Safety</classifier>
+        <classifier class="online_producer" type="general_descriptor">Buses</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drunken and Reckless Driving</classifier>
+        <classifier class="online_producer" type="general_descriptor">Roads and Traffic</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+        <location class="online_producer">Queens (NYC)</location>
+        <org class="online_producer">Metropolitan Transportation Authority</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE0DE133EF93AA15757C0A9619C8B63" item-length="459" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Crash Injures 18, and a Driver Is Charged</hl1>
+        <hl2 class="online_headline">Crash Injures 18, and a Driver Is Charged</hl2>
+      </hedline>
+      <byline class="print_byline">By KAREEM FAHIM and ANN FARMER</byline>
+      <byline class="normalized_byline">Farmer, Ann; Fahim, Kareem</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Eighteen people were injured, one of them critically, after a car ran a red light and was hit by a city bus at a Queens intersection early yesterday, the police said.</p>
+        <p>The driver of the car, David Cho, 25, was arrested and charged with drunken driving and disobeying a traffic device, the police said.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Sixteen people were injured, one of them critically, after a car ran a red light and collided with a city bus at a Queens intersection.</p>
+      </block>
+      <block class="full_text">
+        <p>Eighteen people were injured, one of them critically, after a car ran a red light and was hit by a city bus at a Queens intersection early yesterday, the police said.</p>
+        <p>The driver of the car, David Cho, 25, was arrested and charged with drunken driving and disobeying a traffic device, the police said.</p>
+        <p>Mr. Cho and his two passengers were taken to New York Hospital Medical Center of Queens, where they were being treated last night. One of the passengers, whom relatives identified as Tung Wa Ma, 29, was in critical condition after coming out of surgery yesterday afternoon. Mr. Cho and the second passenger, whose name was not released, were in stable condition.</p>
+        <p>None of the 15 people on the Q65 bus had life-threatening injuries, the authorities said. Two were treated at the scene, and the others, including the driver, were taken to local hospitals, a spokesman for the Metropolitan Transportation Authority said.</p>
+        <p>The accident occurred about 5:45 a.m. at Booth Memorial Avenue and 164th Street in Flushing. The bus, which had a green light, was headed north on 164th Street when it struck the passenger side of a 1995 black Nissan Maxima driven by Mr. Cho, the police said. Mr. Cho had been driving east on Booth Memorial Avenue and apparently ran a red light, according to the police.</p>
+        <p>''It sounded like an explosion,'' said Anthony DeRobertis, 36, who lives at the intersection and said he was awakened by the impact. ''I ran to my bay window. I saw the bus and car in the position they're in right now.''</p>
+        <p>The entangled vehicles ended up hitting a chain-link fence at the Kissena Park Golf Course. Windows in both were shattered, and the Nissan's two air bags deployed. The front passenger's seat, where Mr. Ma was sitting, was crumpled.</p>
+        <p>The impact knocked Mr. Cho unconscious, and Mr. DeRobertis said he tapped on his cheek after the accident, trying to wake him up. The passenger in the back drifted in and out of consciousness, Mr. DeRobertis said, and Mr. Ma was slumped against Mr. Cho. ''They were all bleeding,'' Mr. DeRobertis said.</p>
+        <p>A passenger on the bus, Ebony Pile, 23, who hobbled out of New York Hospital Medical Center of Queens on crutches, said there seemed to be three impacts: when the bus hit the car, then a lamppost and, finally, the golf course fence. ''I thought I was going to die,'' she said.</p>
+        <p>Mr. Ma's relatives said he lived in Coney Island and was studying at Queens College.</p>
+        <p>''On Friday, he gets together with friends,'' said his grandmother, Yuk Hint Chen. ''On Saturday morning, he comes home and goes to college.''</p>
+        <p>He was due in class at 9 a.m., she said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

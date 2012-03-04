@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Giants Add Backup for Manning</title>
+    <meta content="14giants" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1840165"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="PRO FOOTBALL"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football/National Football League/New York Giants</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070414T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A02EEDD103FF937A25757C0A9619C8B63" item-length="264" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Giants Add Backup for Manning</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>After two seasons of backing up Eli Manning with a pair of inexperienced quarterbacks, the Giants have added a passer with more comprehensive credentials.</p>
+        <p>Anthony Wright, 31, who started 19 games for the Dallas Cowboys and the Baltimore Ravens, has agreed to a two-year contract, instantly turning Manning's backup into one of the intriguing position tussles during training camp.</p>
+      </block>
+      <block class="full_text">
+        <p>After two seasons of backing up Eli Manning with a pair of inexperienced quarterbacks, the Giants have added a passer with more comprehensive credentials.</p>
+        <p>Anthony Wright, 31, who started 19 games for the Dallas Cowboys and the Baltimore Ravens, has agreed to a two-year contract, instantly turning Manning's backup into one of the intriguing position tussles during training camp.</p>
+        <p>In eight seasons, Wright has completed 331 of 598 passes for 3,578 yards, with 20 touchdowns and 25 interceptions. Wright appeared in four games with Cincinnati last season as a backup to Carson Palmer. He played the previous four seasons with the Ravens, starting seven games in both 2003 and 2005. Wright played for Dallas in 2000 and 2001.</p>
+        <p>Tim Hasselbeck served as Manning's backup in 2005, with Jared Lorenzen on the third team. The two flopped positions in 2006. Hasselbeck, 29, has started five games in five seasons, all with Washington in 2003. He has not thrown an N.F.L. pass since. Lorenzen, 26, has never thrown an N.F.L. pass.</p>
+        <p>The Giants also signed defensive tackle Marcus Bell and defensive back Michael Stone. Bell, a fourth-round selection of Arizona in 2001, appeared in 86 games for the Cardinals and the Detroit Lions. He started seven times last year, and could vie for a starting position.</p>
+        <p>Stone, Arizona's second-round pick in 2001, has played mostly on special teams and as a reserve.</p>
+        <p>The Giants met with the former Lions receiver Charles Rogers yesterday. Rogers was the second overall pick in the 2003 draft, but has played only 15 games and was out of football last season.</p>
+        <p>PRO FOOTBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

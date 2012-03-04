@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Intel Seen Using China Forum To Detail Plans on Hand-Helds</title>
+    <meta content="16chip" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/16/technology/16chip.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840735"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Innovation</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/China</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/John Markoff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/China/Beijing</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/China</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Wireless Communications</classifier>
+        <classifier class="online_producer" type="general_descriptor">Inventions and Patents</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+        <location class="online_producer">Beijing (China)</location>
+        <org class="online_producer">Intel Corp</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070416T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9900EFDF113FF935A25757C0A9619C8B63" item-length="558" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Intel Seen Using China Forum To Detail Plans on Hand-Helds</hl1>
+        <hl2 class="online_headline">Intel Seen Using China Forum to Detail Plans on Hand-Helds</hl2>
+      </hedline>
+      <byline class="print_byline">By JOHN MARKOFF</byline>
+      <byline class="normalized_byline">Markoff, John</byline>
+      <dateline>SAN FRANCISCO, April 15</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Intel is planning to announce a number of technology advances this week at a conference in Beijing, including an initiative that could give rise to a new class of wireless hand-held computers, according to several people close to the efforts.</p>
+        <p>The conference, the Intel Developer Forum, is held three times a year, and its convening in China underscores the growing significance of the Chinese market in the computer industry. Last month, Intel announced that it would build its first chip-making factory in China.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A number of technology advances will be announced, including an initiative that could give rise to a new class of wireless hand-held computers.</p>
+      </block>
+      <block class="full_text">
+        <p>Intel is planning to announce a number of technology advances this week at a conference in Beijing, including an initiative that could give rise to a new class of wireless hand-held computers, according to several people close to the efforts.</p>
+        <p>The conference, the Intel Developer Forum, is held three times a year, and its convening in China underscores the growing significance of the Chinese market in the computer industry. Last month, Intel announced that it would build its first chip-making factory in China.</p>
+        <p>The effort on hand-held computers is aimed at creating what Intel is calling mobile Internet devices, larger than current palmtops and smaller than notebooks. They are seen as the next generation of the Ultra Mobile PC, introduced last year by Microsoft.</p>
+        <p>Although that class of computer has so far been commercially disappointing, both companies maintain that the growing reliance on mobile broadband access to the Internet will eventually create a large consumer market for data-oriented devices.</p>
+        <p>The Intel-designed hand-helds will be based on a new low-power version of the company's X86 microprocessor designs code-named McCaslin, intended to increase the battery life of the ultra-mobile computer class. The new chips will come with wireless standards including Wi-Fi, WiMax and Bluetooth as well as satellite navigation and television tuner capabilities. The processor will consume an average of one-half watt of power, less than half of that used by current Intel chips.</p>
+        <p>Intel executives and others have described these computers -- which are too big to fit into shirt pockets, but slide comfortably into jacket pockets -- as 4-G computers, surpassing the capabilities of the latest cellphone technology known as 3-G, or third generation. They are intended to take advantage of wireless networks like those using WiMax technology, a long-range version of Wi-Fi that Intel is heavily promoting.</p>
+        <p>The devices are also the showcase for Intel's effort to achieve drastic reductions in power requirements for future portable computers. The chief executive, Paul S. Otellini, said last year that Intel would have a tenfold reduction in its processors' power consumption by the end of the decade.</p>
+        <p>One reason Intel is pushing its version of the wireless hand-held computer is that the market for data-oriented cellphones and wireless palmtops is now dominated by a competing chip standard controlled by ARM, a British microprocessor design firm. Intel hopes that by creating another class of devices independent of the cellphone market, it can displace the ARM-based hand-helds. It hopes to build support for its version of the hand-held computer in China based on partnerships with producers like Lenovo and Acer.</p>
+        <p>The computers foreseen by Intel, which will have 5- to 7-inch screens, will run a version of Microsoft's Vista operating system that is designed for hand-helds, or possibly a version of the free Linux operating system. Intel has an active effort to develop a mobile version of Linux being led by a group run by Shane D. Wall, vice president for the company's Mobility Group, according to an Intel business partner, who spoke on condition that he not be identified.</p>
+        <p>That software effort does not have the support of Mr. Otellini, who is concerned about incurring Microsoft's wrath, the executive said. The two companies have a long history of tension over who controls the hardware and software direction of the ''Wintel standard.'' Intel has said it is supporting both operating systems.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

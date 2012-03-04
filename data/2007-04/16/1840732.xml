@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>LOOKING AHEAD</title>
+    <meta content="16ahead" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1840732"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070416T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07EFDF113FF935A25757C0A9619C8B63" item-length="166" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>LOOKING AHEAD</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>EARNINGS REPORTS -- The following companies are scheduled to release earnings reports this week: Citigroup, Eli Lilly, Mattel and Wachovia (Monday); TD Ameritrade Holding, Comerica, CSX, Dow Jones, EMC, Intel, I.B.M., Johnson &amp; Johnson, Mellon Financial, Northern Trust, Wells Fargo and Yahoo (Tuesday); Abbott Laboratories, Commerce Bancorp, E*Trade Financial, eBay, JPMorgan Chase, Motorola, PNC Financial Services, Allstate, Bank of New York, Tribune and United Technologies (Wednesday); Advanced Micro Devices, Altria Group, Continental Airlines, D. R. Horton, First Data, Gannett, Google, Merck, Merrill Lynch, Nokia, Schering-Plough, Southwest Airlines, UnitedHealth Group and Wyeth (Thursday); Caterpillar, Honeywell, McDonald's, SAP, Schlumberger and Xerox (Friday).</p>
+        <p>REMARKS ON COMPETITION -- The European Union's commissioner for competition, Neelie Kroes, at left, will speak at the American Bar Association conference in Washington (Tuesday through Thursday).</p>
+        <p>F.D.A. PANEL -- A Food and Drug Administration advisory panel on cardiovascular and renal drugs will discuss Bristol-Myers Squibb's supplemental drug application to sell Avalide as a first-line treatment for patients with high blood pressure (Wednesday).</p>
+      </block>
+      <block class="full_text">
+        <p>EARNINGS REPORTS -- The following companies are scheduled to release earnings reports this week: Citigroup, Eli Lilly, Mattel and Wachovia (Monday); TD Ameritrade Holding, Comerica, CSX, Dow Jones, EMC, Intel, I.B.M., Johnson &amp; Johnson, Mellon Financial, Northern Trust, Wells Fargo and Yahoo (Tuesday); Abbott Laboratories, Commerce Bancorp, E*Trade Financial, eBay, JPMorgan Chase, Motorola, PNC Financial Services, Allstate, Bank of New York, Tribune and United Technologies (Wednesday); Advanced Micro Devices, Altria Group, Continental Airlines, D. R. Horton, First Data, Gannett, Google, Merck, Merrill Lynch, Nokia, Schering-Plough, Southwest Airlines, UnitedHealth Group and Wyeth (Thursday); Caterpillar, Honeywell, McDonald's, SAP, Schlumberger and Xerox (Friday).</p>
+        <p>REMARKS ON COMPETITION -- The European Union's commissioner for competition, Neelie Kroes, at left, will speak at the American Bar Association conference in Washington (Tuesday through Thursday).</p>
+        <p>F.D.A. PANEL -- A Food and Drug Administration advisory panel on cardiovascular and renal drugs will discuss Bristol-Myers Squibb's supplemental drug application to sell Avalide as a first-line treatment for patients with high blood pressure (Wednesday).</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

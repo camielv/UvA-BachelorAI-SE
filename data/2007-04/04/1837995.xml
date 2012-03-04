@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Square Feet; TRANSACTIONS</title>
+    <meta content="04trsale" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837995"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070404T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E0D71F30F937A35757C0A9619C8B63" item-length="191" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Square Feet; TRANSACTIONS</hl1>
+      </hedline>
+      <byline class="print_byline">By ROSALIE R. RADOMSKY</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Recent Sale  $5.75 million  13-15 Bay Ridge Avenue  (at Owls Head Court)  Brooklyn  A Brooklyn investment firm has bought a two-story corner building in Bay Ridge, leased by MetLife through 2011, and plans to build another floor for the tenant.  Buyer: Philips International  Seller: Andy Nathan  Brokers: Brian Leary and Stephen Palmese, Massey Knakal Realty</p>
+        <p>Recent Lease  $33/sq. ft.  approximate annual rent $189,950  75 Broad Street  Manhattan  A designer and developer of geographic information technology has expanded into 5,756 square feet on the fourth floor in this 33-story financial district building.  Tenant: ESRI  Landlord: JEMB Realty  Brokers: Mike McKenna and Frank Cento, Cushman &amp; Wakefield</p>
+        <p>For Lease  $45/sq. ft.  The Colorado  201 East 86th Street  (at Third Avenue)  Manhattan  A lease is available on the ground floor and three floors below for as many as 27,135 square feet or as few as 4,000 square feet in this 36-story residential building.  Owner: The Related Companies  Brokers: Chris Mongeluzo, Eric Zemachson and Jason Vacker, Newmark Knight Frank</p>
+        <p>ROSALIE R. RADOMSKY</p>
+      </block>
+      <block class="full_text">
+        <p>Recent Sale  $5.75 million  13-15 Bay Ridge Avenue  (at Owls Head Court)  Brooklyn  A Brooklyn investment firm has bought a two-story corner building in Bay Ridge, leased by MetLife through 2011, and plans to build another floor for the tenant.  Buyer: Philips International  Seller: Andy Nathan  Brokers: Brian Leary and Stephen Palmese, Massey Knakal Realty</p>
+        <p>Recent Lease  $33/sq. ft.  approximate annual rent $189,950  75 Broad Street  Manhattan  A designer and developer of geographic information technology has expanded into 5,756 square feet on the fourth floor in this 33-story financial district building.  Tenant: ESRI  Landlord: JEMB Realty  Brokers: Mike McKenna and Frank Cento, Cushman &amp; Wakefield</p>
+        <p>For Lease  $45/sq. ft.  The Colorado  201 East 86th Street  (at Third Avenue)  Manhattan  A lease is available on the ground floor and three floors below for as many as 27,135 square feet or as few as 4,000 square feet in this 36-story residential building.  Owner: The Related Companies  Brokers: Chris Mongeluzo, Eric Zemachson and Jason Vacker, Newmark Knight Frank</p>
+        <p>ROSALIE R. RADOMSKY  E-mail: realprop@nytimes.com</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">E-mail: realprop@nytimes.com</tagline>
+    </body.end>
+  </body>
+</nitf>

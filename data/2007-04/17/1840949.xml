@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>POLL</title>
+    <meta content="17PPoll" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="25" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1840949"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="HEADING TOWARD 2008: THE CAUCUS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070417T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9505E5D9113FF934A25757C0A9619C8B63" item-length="156" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>POLL</hl1>
+      </hedline>
+      <byline class="print_byline">By MARJORIE CONNELLY</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>As President Bush and Congress square off over the Iraq war, most Americans agree with Democrats that a timetable should be set to withdraw troops, and they approve measures to link financing with such a timetable, a CBS News poll finds.</p>
+        <p>Fifty-seven percent of the respondents said a withdrawal timetable should be set for some time next year, and 38 percent disagreed. One-third said all the troops should be removed now, and 37 percent favored lowering troop levels.</p>
+      </block>
+      <block class="full_text">
+        <p>As President Bush and Congress square off over the Iraq war, most Americans agree with Democrats that a timetable should be set to withdraw troops, and they approve measures to link financing with such a timetable, a CBS News poll finds.</p>
+        <p>Fifty-seven percent of the respondents said a withdrawal timetable should be set for some time next year, and 38 percent disagreed. One-third said all the troops should be removed now, and 37 percent favored lowering troop levels.</p>
+        <p>Almost half, 49 percent, said Congress should have the final say on troop levels, and 44 percent said it should be the president. Eighty-three percent of those surveyed said the administration should take the views of Congress into account when making decisions about Iraq.</p>
+        <p>The report was based on telephone interviews conducted last Monday through Thursday with 994 adults nationwide. It has a margin of sampling error of plus or minus three percentage points.</p>
+        <p>MARJORIE CONNELLY</p>
+        <p>HEADING TOWARD 2008: THE CAUCUS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>One Call to Tell the World All About You</title>
+    <meta content="30social" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/30/technology/30social.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1843996"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="TECHNOLOGY"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/World Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Wireless Communications</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cellular Telephones</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+        <org class="online_producer">Twitter</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070430T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05E6DC133EF933A05757C0A9619C8B63" item-length="1204" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>One Call to Tell the World All About You</hl1>
+        <hl2 class="online_headline">Social Networking Leaves Confines of the Computer</hl2>
+      </hedline>
+      <byline class="print_byline">By BRAD STONE and MATT RICHTEL</byline>
+      <byline class="normalized_byline">Stone, Brad; Richtel, Matt</byline>
+      <dateline>SAN FRANCISCO, April 29</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>While Walter Zai was in South Africa watching the wild animals recently, people around the world were watching him.</p>
+        <p>Mr. Zai, a 37-year-old Swiss engineer, used his mobile phone to send out constant updates and images from his safari for an online audience.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Powerful new mobile devices are allowing people to send round-the-clock updates about every detail of their lives.</p>
+      </block>
+      <block class="full_text">
+        <p>While Walter Zai was in South Africa watching the wild animals recently, people around the world were watching him.</p>
+        <p>Mr. Zai, a 37-year-old Swiss engineer, used his mobile phone to send out constant updates and images from his safari for an online audience.</p>
+        <p>''You feel like you are instantly broadcasting your own life and experiences to your friends at home, and to anyone in the world who wants to join,'' said Mr. Zai, who used a new online service called Kyte to create his digital diary.</p>
+        <p>The social networking phenomenon is leaving the confines of the personal computer. Powerful new mobile devices are allowing people to send round-the-clock updates about their vacations, their moods or their latest haircut.</p>
+        <p>New online services, with names like Twitter, Radar and Jaiku, hope people will use their ever-present gadget to share (or, inevitably, to overshare) the details of their lives in the same way they have become accustomed to doing on Web sites like MySpace.</p>
+        <p>Unlike the older networking sites, which are still largely used on PCs, these new phone-oriented services are bringing the burgeoning culture of exhibitionism to more exotic and more personal locations. They are also contributing to the general barrage of white noise and information overload -- something that even some participants say they feel ambivalent about.</p>
+        <p>But such services have the same addictive appeal for young people as BlackBerrys do for busy professionals, said Howard Hartenbaum, a partner at the venture capital firm Draper Richards, which is an investor in Kyte.</p>
+        <p>''Kids want to be connected to their friends at all times,'' Mr. Hartenbaum said. ''They can't do that when you turn off the computer.''</p>
+        <p>Central to the technology of Kyte and similar services is the marriage of mobile phones and the Web. Users download Kyte software for their phones at www.kyte.tv and can send their photos and videos -- however grainy -- from the phone to their online Kyte ''channel.''</p>
+        <p>Viewers can tune into the programming on their own phones or on the Kyte site, or they can have the channel show up on their own Web site or social network page. In some cases the video stream can be watched live. Those who are watching the same channel can swap messages with each other and with the channel's creator, even if he or she is silently stalking wild animals.</p>
+        <p>Daniel Graf, Kyte's 32-year-old co-founder, sees each of the world's hundreds of millions of camera-phone owners as a potential television broadcaster.</p>
+        <p>''To run a television network used to require expensive cameras, a satellite connection and studios,'' Mr. Graf said. ''But the production costs have gone down to zero. Now you can share your life over a mobile phone, and someone is always connected, watching.''</p>
+        <p>Mr. Graf said he was considering several approaches to making money from the service. They include charging companies that want to contribute promotional programming, or advertisements in or alongside the most popular channels. He said he would share that revenue with the channels' creators. ''Whatever works in traditional TV works here,'' he said.</p>
+        <p>Another company proving the potency of the sharing impulse is Twitter (www.twitter.com), which is also based in San Francisco and has lately captured the enthusiasm of bloggers and tech insiders. Twitter, spun off this month from a company called Obvious, lets people broadcast short text messages from their phones and computers to those of friends and strangers.</p>
+        <p>Mobile phone companies in the United States have long tried to get users to send text messages, but with limited success, especially in comparison to the ubiquity of text messaging in Europe and Asia.</p>
+        <p>But for many Twitter users, text messages have become a form of self-expression and public performance. They are flinging messages that would seem to be of slight interest to anyone: notifications that they are online, or listening to music, or going shopping, or even performing activities of a historically more discreet nature.</p>
+        <p>''About to head out to the gym. Sweet!'' wrote Chris Messina, a 26-year-old San Francisco resident, in a recent Twitter post visible to his group of friends on the service. And a few hours later: ''Wow, totally rocking out to Led Zeppelin.''</p>
+        <p>Twitter's fans include some high-profile technology pundits and even John Edwards, the former senator who uses it to inform followers of his whereabouts on the campaign trail.</p>
+        <p>Jack Dorsey, a co-founder of Twitter, said high-speed social networking can become a moneymaker.</p>
+        <p>''I believe it can be profitable,'' Mr. Dorsey said. But it is not entirely clear how, and how soon, he added. Twitter, which says it has several hundred thousand users, could ultimately consider displaying advertisements, or charging frequent users, especially those who send out promotional messages. Social networking sites like Facebook are largely supported by advertising.</p>
+        <p>Mr. Dorsey said that whatever business model the company decided to employ, it would not be effective until more people got on board.</p>
+        <p>''We have a few business models in mind right now. But they're not interesting until we have a massive number of users,'' he said. ''We are entirely focused on growth right now.''</p>
+        <p>The mobile phone companies themselves are trying to get into the mobile networking game. Chief among them is Helio, a year-old mobile phone carrier aimed at young people. The company, a joint venture of Earthlink and SK Telecom of South Korea and based in Los Angeles, is making social networking a central part of its business and is betting it will be fundamental to attracting new subscribers.</p>
+        <p>Helio has an exclusive deal to offer MySpace features on its phones, which tend to be slicker and more multimedia-focused than those from more mainstream cellphone companies. At the end of 2006 (the last time Helio publicized its subscriber figures), 70 percent of its 70,000 members used MySpace, said Michael Grossi, senior vice president of strategy and business development at Helio.</p>
+        <p>Social networking ''is at the core of the company strategy,'' Mr. Grossi said.</p>
+        <p>To further capitalize on the trend, Helio plans to introduce a handset by the summer that has a fold-out standard keyboard for easier typing and socializing.</p>
+        <p>Tiny Pictures, a San Francisco start-up company, is taking a slightly different approach. Its service, Radar (www.radar.net), is similar to Kyte in that users send their camera-phone photos to the Web or to the phones of other Radar members. But users share their pictures only with friends they have invited to view them.</p>
+        <p>John Poisson, chief executive of Tiny Pictures, said the service was explicitly intended to be private because mobile social networking works best and will be most lucrative if users know the people they are sharing with. ''Exhibitionism will exist as long as there is voyeurism,'' he said. ''But we are in the business of helping people stay in touch with the people who are close to them.''</p>
+        <p>Of course, there is such a thing as being too in touch. Mr. Zai was disconcerted by the instant feedback to his safari photos that popped up on his phone.</p>
+        <p>''Getting all kinds of communication in such a remote place is a bit confusing,'' he said. ''I kept responding, 'I don't really have the time to talk to you now. I have to make photos of these elephants.' ''</p>
+        <p>TECHNOLOGY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

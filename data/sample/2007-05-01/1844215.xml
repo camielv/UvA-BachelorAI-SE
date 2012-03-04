@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Magazine Learns to Heed Its Own Advice</title>
+    <meta content="01mag" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/05/01/business/media/01mag.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1844215"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Magazines</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">Business 2.0 (Magazine)</org>
+        <org class="indexing_service">Time Inc</org>
+        <person class="indexing_service">Perez-Pena, Richard</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Magazines</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Magazines</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <org class="online_producer">Business 2.0</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070501T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E5D8133EF932A35756C0A9619C8B63" item-length="388" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Magazine Learns to Heed Its Own Advice</hl1>
+        <hl2 class="online_headline">Magazine Learns to Heed Its Own Advice</hl2>
+      </hedline>
+      <byline class="print_byline">By RICHARD P�REZ-PE�A</byline>
+      <abstract>
+        <p>Business 2.0's editorial system crashed on April 23, wiping out all work that had been done for its June issue; backup server failed to back up; recovery was made and magazine will go to press on schedule next week; magazine, published by Time Inc, periodically reminds readers of importance of backing up computer files (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Business 2.0, the technology-aware magazine published by Time Inc., periodically reminds readers of the importance of backing up computer files. A 2003 article likened backups to flossing -- everyone knows it's important, but few devote enough thought or energy to it.</p>
+        <p>Last week, Business 2.0 got caught forgetting to floss.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Business 2.0 failed to heed its own advice about backing up computer files when its editorial system crashed and the backup server failed to back up.</p>
+      </block>
+      <block class="full_text">
+        <p>Business 2.0, the technology-aware magazine published by Time Inc., periodically reminds readers of the importance of backing up computer files. A 2003 article likened backups to flossing -- everyone knows it's important, but few devote enough thought or energy to it.</p>
+        <p>Last week, Business 2.0 got caught forgetting to floss.</p>
+        <p>On the night of Monday, April 23, the magazine's editorial system crashed, wiping out all the work that had been done for its June issue. The backup server failed to back up.</p>
+        <p>Good thing the magazine, based in San Francisco, is a monthly. ''If it had happened a week later, we would have been in trouble,'' said Josh Quittner, the editor.</p>
+        <p>But all is well, he said, and the magazine will go to press on schedule next week. The recovery was made much easier, paradoxically, by a bane of modern business, litigation -- or at least the fear of it.</p>
+        <p>''The text had all been copy-edited and sent off to the lawyers, so it had been saved as e-mail,'' Mr. Quittner said.</p>
+        <p>But the artwork, the page layouts, were truly gone, he said, and ''our heroic art department had to rebuild all the art assets.'' He said they had caught up by Thursday.</p>
+        <p>The night of the crash, Mr. Quittner said, ''our tech guy was here until 4 o'clock in the morning, but the patient died.'' Until then, the magazine had never had to rely on its backup server, he said, so no one had noticed that its programming was either obsolete or dysfunctional, or both.</p>
+        <p>Just last November, the magazine had listed off-site backup as being among ''the usual precautions.''</p>
+        <p>Mr. Quittner said that Time Inc., a division of Time Warner, now has Business 2.0 linked to a more sophisticated -- and, presumably, more frequently checked -- backup server in New York, ''so if we crash here, the worst that would happen is we would lose a half-hour's worth of work.''</p>
+        <p>Business 2.0 has drawn attention for skewering companies, including, occasionally, other magazines, in its annual list of the ''101 Dumbest Moments in Business.''</p>
+        <p>So is Business 2.0 now a candidate for its own list?</p>
+        <p>''I think we would be if we didn't make it to press, but we've done far dumber things than this,'' Mr. Quittner said. ''We were lucky. It could have been a lot worse.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

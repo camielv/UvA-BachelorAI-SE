@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>WHY WE TRAVEL | HAMPI, INDIA</title>
+    <meta content="01why" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <docdata>
+      <doc-id id-string="1837107"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Travel and Vacations</classifier>
+        <classifier class="indexing_service" type="descriptor">Hinduism</classifier>
+        <location class="indexing_service">Hampi (India)</location>
+        <location class="indexing_service">India</location>
+        <location class="indexing_service">Vijayanagar (India)</location>
+        <person class="indexing_service">England, Andy</person>
+        <person class="indexing_service">Considine, Austin</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/India</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hinduism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Religion and Churches</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05EFD91230F932A35757C0A9619C8B63" item-length="181" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>WHY WE TRAVEL | HAMPI, INDIA</hl1>
+      </hedline>
+      <byline class="print_byline">As told to Austin Considine</byline>
+      <byline class="normalized_byline">Considine, Austin</byline>
+      <dateline>EXPLORING THE RUINS OF VIJAYANAGAR, JAN. 23, 2007</dateline>
+      <abstract>
+        <p>Briton Andy England comments on his visit to Hampi, India, and Hindu temple ruins of Vijayangar; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Andy England, 39, a jewelry seller from Portsmouth, England, near the remains of a capital city that was pillaged in 1565: ''I went with some friends through Goa for a three-week getaway, but we wanted to get a bit more of the cultural flavor of India, so we drove our small rental car inland to the modern city of Hampi and the ruins of Vijayanagar. We realized we should have been in a 4x4 when 22 kilometers of road that was meant to be a national highway just disappeared without warning. There is a spectacular train from Goa that we should have taken. When we finally got there, we were shown around this enormous rocky site with hundreds of temples. It's one of the most important Hindu pilgrimage sites in India. You got a real sense that it was once a cultural epicenter for that part of India. On another level, you're just blown away by the scenery and the integration of the archaeology with the geology. It was an epic journey.''</p>
+        <p>As told to Austin Considine</p>
+      </block>
+      <block class="full_text">
+        <p>Andy England, 39, a jewelry seller from Portsmouth, England, near the remains of a capital city that was pillaged in 1565: ''I went with some friends through Goa for a three-week getaway, but we wanted to get a bit more of the cultural flavor of India, so we drove our small rental car inland to the modern city of Hampi and the ruins of Vijayanagar. We realized we should have been in a 4x4 when 22 kilometers of road that was meant to be a national highway just disappeared without warning. There is a spectacular train from Goa that we should have taken. When we finally got there, we were shown around this enormous rocky site with hundreds of temples. It's one of the most important Hindu pilgrimage sites in India. You got a real sense that it was once a cultural epicenter for that part of India. On another level, you're just blown away by the scenery and the integration of the archaeology with the geology. It was an epic journey.''</p>
+        <p>As told to Austin Considine</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

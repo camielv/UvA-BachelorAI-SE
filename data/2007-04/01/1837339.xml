@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Japan's Whaling Obsession</title>
+    <meta content="01sun2" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/01/opinion/01sun2.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837339"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Wildlife</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Japan</classifier>
+        <classifier class="online_producer" type="descriptor">Whales and Whaling</classifier>
+        <classifier class="online_producer" type="descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="online_producer" type="descriptor">Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fishing, Commercial</classifier>
+        <classifier class="online_producer" type="general_descriptor">Whales and Whaling</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+        <location class="online_producer">Japan</location>
+        <person class="online_producer">Onishi, Norimitsu</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9906E2D81130F932A35757C0A9619C8B63" item-length="292" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Japan's Whaling Obsession</hl1>
+        <hl2 class="online_headline">Japan’s Whaling Obsession</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Humans should be careful when criticizing other humans about the industrial slaughter of animal species. It is hard to find moral ground.</p>
+        <p>There was one small, bright spot of global consensus: whales. It took a very long time, but most of the world agreed that these wonderful, sociable mammals, at least, should be granted a stay of extinction. Most of the world, but not all. A few outlying countries continue commercial or dubiously scientific whale hunts, notably Japan, which clings to its whaling ways long past the expiration of any defensible reasons for doing so.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Nationalism seems hard-wired into Japan’s insistence on maintaining the right to exploit any and all ocean resources.</p>
+      </block>
+      <block class="full_text">
+        <p>Humans should be careful when criticizing other humans about the industrial slaughter of animal species. It is hard to find moral ground.</p>
+        <p>There was one small, bright spot of global consensus: whales. It took a very long time, but most of the world agreed that these wonderful, sociable mammals, at least, should be granted a stay of extinction. Most of the world, but not all. A few outlying countries continue commercial or dubiously scientific whale hunts, notably Japan, which clings to its whaling ways long past the expiration of any defensible reasons for doing so.</p>
+        <p>Japanese officials defend the slaughter as a matter of tradition and science. But as Norimitsu Onishi explained recently in The Times, the everyday consumption of whale meat became a national habit in Japan only in the lean years after World War II, when officials of the American occupation promoted it as cheap protein. Japan's appetite for whale plummeted after the 1960s and never returned, Mr. Onishi reported.</p>
+        <p>As for the research that Japan insists can be performed only on dead whales, which are then butchered and sold for meat, biologists around the globe dismiss that as a sham.</p>
+        <p>Still, nationalism seems hard-wired into Japan's insistence on maintaining the right to exploit any and all ocean resources; its continual efforts to end the international moratorium on commercial whaling; and its reluctance to bow to what many Japanese see as the late-blooming sanctimony of nations like the United States.</p>
+        <p>Revulsion at whaling may take hold in Japan someday, but it will have to spring from the Japanese, perhaps among the many tourists who go to Hawaii this time of year, when the gentle humpbacks breach and calve under the gaze of people who can no longer imagine slaughtering them.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

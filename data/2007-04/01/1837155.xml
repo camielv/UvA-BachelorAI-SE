@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Tale of Two Suburbs</title>
+    <meta content="01LIintro" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Long Island Weekly Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="14LI" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837155"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="OP-CHART"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Long Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Contributors</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B05E0D61330F932A35757C0A9619C8B63" item-length="194" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Tale of Two Suburbs</hl1>
+      </hedline>
+      <byline class="print_byline">By Nancy Rauch Douzinas, Ann Golob and Nigel Holmes</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WHEN local taxes grow so burdensome that they drive away the young professionals that businesses need, a region loses competitiveness. That's a threat now facing Long Island.</p>
+        <p>Long Island shares the problem of high taxes with many suburban counties throughout the country. But two stand apart: Fairfax and Loudoun Counties in northern Virginia have far lower property taxes and the differences are significant. Local governments spend 45 percent, or $1,722, more per capita on Long Island than in northern Virginia.</p>
+      </block>
+      <block class="full_text">
+        <p>WHEN local taxes grow so burdensome that they drive away the young professionals that businesses need, a region loses competitiveness. That's a threat now facing Long Island.</p>
+        <p>Long Island shares the problem of high taxes with many suburban counties throughout the country. But two stand apart: Fairfax and Loudoun Counties in northern Virginia have far lower property taxes and the differences are significant. Local governments spend 45 percent, or $1,722, more per capita on Long Island than in northern Virginia.</p>
+        <p>Many have suggested that a more streamlined government -- Long Island has 439 cities, towns, villages, school districts and special districts; northern Virginia has 17 -- could reduce Long Island's costs and address problems more effectively. But some fear that a centralized government would provide worse services and be less responsive to citizens' concerns. Our poll revealed, on the contrary, that residents of northern Virginia are more satisfied with the quality of government services, including schools, and have more favorable attitudes toward local government and their access to it.</p>
+        <p>As Long Islanders discuss how to remain competitive, the situation in northern Virginia offers new and provocative ideas.</p>
+        <p>OP-CHART Nancy Rauch Douzinas is the president of the Rauch Foundation. Ann Golob is the project director of the Long Island Index, which compiles data about the region. Nigel Holmes is a graphic designer.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Nancy Rauch Douzinas is the president of the Rauch Foundation. Ann Golob is the project director of the Long Island Index, which compiles data about the region. Nigel Holmes is a graphic designer.</tagline>
+    </body.end>
+  </body>
+</nitf>

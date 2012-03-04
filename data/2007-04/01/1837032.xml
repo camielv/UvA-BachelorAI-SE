@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>'Sacred Causes'</title>
+    <meta content="Letters.t-4" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837032"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9800E6DD1230F932A35757C0A9619C8B63" item-length="306" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>'Sacred Causes'</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Tony Judt's bitter criticism of Michael Burleigh's ''Sacred Causes'' (March 11) needs to be questioned. Could the reviewer of this ''depressing and unpleasant book'' have had in mind Burleigh's respectful but less-than-exuberant review of Judt's own work, ''Postwar,'' in The Tablet of London (Jan.7, 2006)? ''In an avowedly 'opinionated' book, perhaps the only thing missing is the author's capacity to examine his own assumptions and prejudices. These are evident whenever Judt discusses the Catholic Church, Christian Democracy or any form of conservatism.''</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Tony Judt's bitter criticism of Michael Burleigh's ''Sacred Causes'' (March 11) needs to be questioned. Could the reviewer of this ''depressing and unpleasant book'' have had in mind Burleigh's respectful but less-than-exuberant review of Judt's own work, ''Postwar,'' in The Tablet of London (Jan.7, 2006)? ''In an avowedly 'opinionated' book, perhaps the only thing missing is the author's capacity to examine his own assumptions and prejudices. These are evident whenever Judt discusses the Catholic Church, Christian Democracy or any form of conservatism.''</p>
+        <p>Is there not a conflict of interest here? Surely, it is unusual for an author who has been severely criticized by a reviewer to then turn around and even more severely attack the reviewer's own book. What ever happened to the principle of ''full disclosure''?</p>
+        <p>William Doino  Weston, Conn.</p>
+        <p>Tony Judt replies:</p>
+        <p>William Doino should not be so quick to jump to conclusions. I don't read The Tablet -- I was unaware of its existence -- and I didn't know that Burleigh had reviewed my book there. My only conflict of interest when reviewing ''Sacred Causes'' arose from Burleigh's obsession with ''the visceral anti-Catholicism of many Jews and among the secular left intelligentsia'' (e.g., me) and my inability to take seriously a historian who describes Jürgen Habermas as ''a sinisterly silly guru of revolution.'' But I could not have known of Burleigh's prejudices until I read his book.</p>
+        <p>The editor replies:</p>
+        <p>The Book Review's policy is to ask prospective reviewers if they are aware of any possible or theoretical conflicts that might prejudice their reviews of a particular book, as the editor did in the case of Tony Judt's assignment. Judt satisfied the Book Review that there was no conflict, and we are confident that he was unaware of Burleigh's review of ''Postwar,'' which was in fact largely positive.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

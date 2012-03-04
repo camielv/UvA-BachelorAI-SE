@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; National Symphony Selects Interim Conductor</title>
+    <meta content="13arts-1" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1839943"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070413T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9502E5DA133FF930A25757C0A9619C8B63" item-length="172" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; National Symphony Selects Interim Conductor</hl1>
+      </hedline>
+      <byline class="print_byline">By DANIEL J. WAKIN; Compiled by Lawrence Van Gelder</byline>
+      <byline class="normalized_byline">Wakin, Daniel J</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The National Symphony Orchestra in Washington, unable to find a successor to its music director, Leonard Slatkin, has put off the change for two years. In the interim, the orchestra said yesterday it would turn to Ivan Fischer, right, its principal guest conductor, for leadership. The orchestra will upgrade his title starting in the 2008-9 season to principal conductor and keep him on for an extra year after that. The National Symphony said in November 2004 that Mr. Slatkin would not renew his contract beyond next season, his final year. ''We haven't found the right person yet,'' said Patricia O'Kelly, a symphony spokeswoman. ''These things take time.'' She declined to elaborate. The Philadelphia Orchestra has done something similar, appointing Charles Dutoit as chief conductor while it looks to replace Christoph Eschenbach, who departs as music director after next season. The New York Philharmonic and Chicago Symphony Orchestras are also looking for music directors, suggesting that it is a sellers' market.</p>
+        <p>DANIEL J. WAKIN</p>
+      </block>
+      <block class="full_text">
+        <p>The National Symphony Orchestra in Washington, unable to find a successor to its music director, Leonard Slatkin, has put off the change for two years. In the interim, the orchestra said yesterday it would turn to Ivan Fischer, right, its principal guest conductor, for leadership. The orchestra will upgrade his title starting in the 2008-9 season to principal conductor and keep him on for an extra year after that. The National Symphony said in November 2004 that Mr. Slatkin would not renew his contract beyond next season, his final year. ''We haven't found the right person yet,'' said Patricia O'Kelly, a symphony spokeswoman. ''These things take time.'' She declined to elaborate. The Philadelphia Orchestra has done something similar, appointing Charles Dutoit as chief conductor while it looks to replace Christoph Eschenbach, who departs as music director after next season. The New York Philharmonic and Chicago Symphony Orchestras are also looking for music directors, suggesting that it is a sellers' market.</p>
+        <p>DANIEL J. WAKIN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

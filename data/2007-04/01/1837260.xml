@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Kathleen Walsh, John von Rosenberg</title>
+    <meta content="01walsh" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/01/fashion/weddings/01walsh.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837260"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Walsh, Kathleen Anne</person>
+        <person class="indexing_service">Rosenberg, John William von</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9901E7DD1130F932A35757C0A9619C8B63" item-length="194" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Kathleen Walsh, John von Rosenberg</hl1>
+        <hl2 class="online_headline">Kathleen Walsh, John von Rosenberg</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Kathleen Anne Walsh and John William von Rosenberg were married yesterday evening at the Hay-Adams, the hotel in Washington. The Rev. Anne Troy, a Presbyterian minister, officiated.</p>
+        <p>The bride, 37, will continue to use her name professionally. She is a lawyer. Until last month she worked on the rights of the disabled at the Equal Rights Center, a nonprofit civil rights organization in Washington. She graduated from Brown and received her law degree cum laude from Harvard.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Kathleen Anne Walsh and John William von Rosenberg were married yesterday evening at the Hay-Adams, the hotel in Washington. The Rev. Anne Troy, a Presbyterian minister, officiated.</p>
+      </block>
+      <block class="full_text">
+        <p>Kathleen Anne Walsh and John William von Rosenberg were married yesterday evening at the Hay-Adams, the hotel in Washington. The Rev. Anne Troy, a Presbyterian minister, officiated.</p>
+        <p>The bride, 37, will continue to use her name professionally. She is a lawyer. Until last month she worked on the rights of the disabled at the Equal Rights Center, a nonprofit civil rights organization in Washington. She graduated from Brown and received her law degree cum laude from Harvard.</p>
+        <p>She is the daughter of Anne C. and Ronald E. Walsh of Fairfield, Conn. Her father, who is retired, worked in Voorhees, N.J., as a vice president and the general counsel at Thames Water Americas, a former subsidiary of Thames Water, the British utility company. Her mother retired as a third-grade teacher at McKinley Elementary School in Fairfield.</p>
+        <p>The bridegroom, 39, is a bathymetrist in Bethesda, Md., compiling data on ocean depth for the National Geospatial-Intelligence Agency, which is part of the Defense Department. He graduated from Louisiana State University.</p>
+        <p>He is a son of Caroline and Charles von Rosenberg of Rock Hill, S.C. His father retired as a minister at Covington Presbyterian Church in Covington, La.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

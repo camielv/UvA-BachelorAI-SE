@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Laugh Lines</title>
+    <meta content="22laugh" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Week in Review" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/22/weekinreview/22laugh.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842212"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950CE0DA163EF931A15757C0A9619C8B63" item-length="187" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Laugh Lines</hl1>
+        <hl2 class="online_headline">Laugh Lines: Jay Leno</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Jay Leno</p>
+        <p>I'm from New England and they call this storm a Nor'easter. Which really confused President Bush. When he heard a Nor'easter was coming, he said, ''Great, let's get the eggs out again.''</p>
+        <p>How many people weren't sure how to file taxes this year because their job is in India? I'm just curious.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>JAY LENO.</p>
+      </block>
+      <block class="full_text">
+        <p>Jay Leno</p>
+        <p>I'm from New England and they call this storm a Nor'easter. Which really confused President Bush. When he heard a Nor'easter was coming, he said, ''Great, let's get the eggs out again.''</p>
+        <p>How many people weren't sure how to file taxes this year because their job is in India? I'm just curious.</p>
+        <p>Today on Capitol Hill, Attorney General Alberto Gonzales raised his right hand and swore to tell the truth. Then everybody had a good laugh and went back to business.</p>
+        <p>Campaign records now reveal that John Edwards was using his campaign money to get $400 haircuts in Beverly Hills.  But Edwards insists this is in keeping with his view that there are two Americas: one that pays $400 for a haircut, and the other America that spends its money on stupid things like rent and food.</p>
+        <p>A man who was shot in the chest 40 years ago during the Vietnam war just had the bullet removed by surgeons this week. He said: ''That's the last time I sit in the waiting room at the Walter Reed Medical Center. They are so slow.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Q &amp; A</title>
+    <meta content="08qna.1" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="http://www.nytimes.com/2007/04/08/travel/08qna.1.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1839038"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Q &amp; A"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Industry News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="descriptor">Travel and Vacations</classifier>
+        <classifier class="online_producer" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070408T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0DE1DE1F30F93BA35757C0A9619C8B63" item-length="385" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Q &amp; A</hl1>
+        <hl2 class="online_headline">Options for Sending Excess Baggage Home From Abroad</hl2>
+      </hedline>
+      <byline class="print_byline">By ROGER COLLIS</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>I am returning to the United States after a lengthy stay in Germany and wonder how best to transport the things I have acquired. Books, for example, are heavy, and last time Lufthansa made me take stuff out of my bags to meet the weight limit. But it's expensive to mail packages. Would it be cheaper to take these things as excess baggage? -- Louis Marvick, Lüneburg, Germany</p>
+        <p>Probably not. New airline excess baggage charges can be punitive, as I have reported (Feb. 18), which means that shipping luggage can be a cost-effective alternative.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A reader is returning home after a lengthy stay in Germany would would like to know the best way to transport his newly acquired belongings.</p>
+      </block>
+      <block class="full_text">
+        <p>I am returning to the United States after a lengthy stay in Germany and wonder how best to transport the things I have acquired. Books, for example, are heavy, and last time Lufthansa made me take stuff out of my bags to meet the weight limit. But it's expensive to mail packages. Would it be cheaper to take these things as excess baggage? -- Louis Marvick, Lüneburg, Germany</p>
+        <p>Probably not. New airline excess baggage charges can be punitive, as I have reported (Feb. 18), which means that shipping luggage can be a cost-effective alternative.</p>
+        <p>Luggage Forward (luggageforward.com), a Boston-based baggage and sports equipment delivery service, for example, compares its charges for shipping a second or third extra bag with the new British Airways' charges of £120, or $240, for each excess bag on long-haul flights; Luggage Forward charges $187 for a ''small'' bag; $250 for a ''medium'' bag and $355 for a ''large'' bag for door-to-door shipment between the United States and Europe. Charges are based on size (and weight), distance and level of service.</p>
+        <p>British Airways on its Web site (ba.com) recommends a partner, First Luggage (Firstluggage.com), a British-based company that offers an international door-to-door luggage collection and delivery service for passengers who wish to avoid extra charges for turning up with an extra bag, or one weighing more than the new 23-kilogram (51-pound) limit.</p>
+        <p>First Luggage says it will ensure that your baggage is delivered to your destination before you arrive. Prices are charged per item, each with a maximum weight allowance. For example, the cost of shipping a 30-kilogram (66-pound) suitcase from France to the United States is £141.55, or $283.10. A golf bag weighing 15 kilograms (33 pounds) costs £113, and a 10-kilogram (22-pound) stroller costs £99.75. First Luggage offers a 5 percent discount if you book through British Airways.</p>
+        <p>Excess Baggage (www.excessbaggage.com), based in Britain, ships bags from offices and homes all over the world, charging $4 to $10 per kilogram (2.2 pounds) for most destinations. The company has a network of agents that include Contour USA (www.contour-usa.com) for shipments from the United States, and Baltrans (www.bim.com.hk) for shipments from Hong Kong.</p>
+        <p>It is also worth checking out the luggage courier services of Skycapinternational.com, Virtualbellhop.com and Luggage Express (www.usxpluggageexpress.com), all based in the United States.</p>
+        <p>ROGER COLLIS</p>
+        <p>Q &amp; A</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

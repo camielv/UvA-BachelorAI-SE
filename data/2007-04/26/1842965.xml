@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Not Light, but Worth a Look For Those Who Like Sleek, Loaded Notebook Computers</title>
+    <meta content="26laptop" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/26/technology/26laptop.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842965"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CIRCUITS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <org class="online_producer">Toshiba Corporation</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070426T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E5DE153EF935A15757C0A9619C8B63" item-length="203" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Not Light, but Worth a Look For Those Who Like Sleek, Loaded Notebook Computers</hl1>
+        <hl2 class="online_headline">Not Light, but Worth a Look for Those Who Like Sleek, Loaded Notebook Computers</hl2>
+      </hedline>
+      <byline class="print_byline">By STEPHEN C. MILLER</byline>
+      <byline class="normalized_byline">Miller, Stephen C</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It would be impossible to build one computer to please everyone, but Toshiba's new Satellite A205-S4617 notebook sure takes a whack at it. It is powered by an Intel Core 2 Duo processor running at 1.66 gigahertz and has 2 gigabytes of RAM, which is what you need to run all the features of Windows Vista's Home Premium edition.</p>
+        <p>The computer has four USB 2.0 ports and one FireWire port. Toshiba says it set the USB ports far enough apart to accommodate bulky devices that would normally block the use of the adjacent port.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>It would be impossible to build one computer to please everyone, but Toshiba’s new Satellite A205-S4617 notebook sure takes a whack at it.</p>
+      </block>
+      <block class="full_text">
+        <p>It would be impossible to build one computer to please everyone, but Toshiba's new Satellite A205-S4617 notebook sure takes a whack at it. It is powered by an Intel Core 2 Duo processor running at 1.66 gigahertz and has 2 gigabytes of RAM, which is what you need to run all the features of Windows Vista's Home Premium edition.</p>
+        <p>The computer has four USB 2.0 ports and one FireWire port. Toshiba says it set the USB ports far enough apart to accommodate bulky devices that would normally block the use of the adjacent port.</p>
+        <p>For audiophiles, the S4617 has built-in Harman Kardon speakers. The 15.4-inch screen is in the 16:9 format that is favored for viewing and editing high-definition widescreen video, and it has a resolution of 1280 by 800 pixels. To help the budding filmmaker handle all that video, the unit comes with a 250-gigabyte hard drive. The 5-in-1 media reader can handle the most common storage cards used in digital cameras and camcorders.</p>
+        <p>The S4617 is available for less than $1,250. While it is not the lightest notebook, weighing less than 7 pounds, it does have a shiny black case with electric-green display lights.</p>
+        <p>STEPHEN C. MILLER</p>
+        <p>CIRCUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

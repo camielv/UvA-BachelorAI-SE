@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Victory for Voters</title>
+    <meta content="LI--Districts" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Long Island Weekly Desk" name="dsk"/>
+    <meta content="21" name="print_page_number"/>
+    <meta content="14LI" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/29/opinion/nyregionopinions/LIDistricts.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1843648"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Long Island"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Politics and Government</classifier>
+        <classifier class="indexing_service" type="descriptor">Law and Legislation</classifier>
+        <classifier class="indexing_service" type="descriptor">Reapportionment</classifier>
+        <location class="indexing_service">Suffolk County (NY)</location>
+        <person class="indexing_service">Levy, Steve (County Exec)</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Long Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="descriptor">Politics and Government</classifier>
+        <classifier class="online_producer" type="descriptor">Reapportionment</classifier>
+        <classifier class="online_producer" type="descriptor">Voter Registration and Requirements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Reapportionment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Voter Registration and Requirements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">New York State</location>
+        <person class="online_producer">Levy, Steve</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9506E3DE153EF93AA15757C0A9619C8B63" item-length="343" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Victory for Voters</hl1>
+        <hl2 class="online_headline">A Victory for Voters</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial praises Suffolk County Executive Steve Levy and county legislators who united behind his bill to establish independent redistricting commission</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Bravo to the Suffolk county executive, Steve Levy, and to the county legislators who united behind his plan to reduce the role of politics in the creation of legislative voting districts. Mr. Levy's bill to establish an independent redistricting commission passed the County Legislature last week 11 to 0, with seven members abstaining.</p>
+        <p>Nonpartisan redistricting is the kind of reform that good-government groups love, and rightly so. It goes to the heart of the democratic process, thwarting one of the prime ways that lawmakers steer power to themselves and away from the voters. When legislators have the power to shape their own voting districts, they invariably use it -- with the help of powerful computer programs -- to draw lines that create the mix of ethnicity, class and political affiliation most likely to lead to their re-elections. Lawmakers choose their voters, in other words, instead of the other way around.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Nonpartisan redistricting is the kind of reform that good-government groups love, and rightly so.</p>
+      </block>
+      <block class="full_text">
+        <p>Bravo to the Suffolk county executive, Steve Levy, and to the county legislators who united behind his plan to reduce the role of politics in the creation of legislative voting districts. Mr. Levy's bill to establish an independent redistricting commission passed the County Legislature last week 11 to 0, with seven members abstaining.</p>
+        <p>Nonpartisan redistricting is the kind of reform that good-government groups love, and rightly so. It goes to the heart of the democratic process, thwarting one of the prime ways that lawmakers steer power to themselves and away from the voters. When legislators have the power to shape their own voting districts, they invariably use it -- with the help of powerful computer programs -- to draw lines that create the mix of ethnicity, class and political affiliation most likely to lead to their re-elections. Lawmakers choose their voters, in other words, instead of the other way around.</p>
+        <p>Egregious examples of partisan redistricting, like a highly contentious redistricting engineered by Representative Tom DeLay in Texas in 2003, have focused attention on the problem and have led governors like Arnold Schwarzenegger in California and Eliot Spitzer in New York to propose independent commissions. As might be expected, resistance from mapmaker-lawmakers has been ferocious.</p>
+        <p>Suffolk County's commission would consist of four retired judges, two members of minority groups and two members of voting rights organizations. The Legislature's majority and minority leaders would evenly split the choices. The Legislature could reject a commission's map, but if it did so twice, the job would then go to a special master appointed by a judge.</p>
+        <p>Critics of the Suffolk plan point out, correctly, that it does not remove politics completely. Judges, after all, can be partisan, too. Still, it is a vast improvement over the political horse trading of the status quo. An independent commission that drew fair and (mostly) square districts, instead of crazily concocted gerrymanders, would help to restore sagging public confidence in the electoral system. Suffolk County, which has often been an incubator of good political initiatives, has set an example that Albany should follow.</p>
+        <p>Long Island</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

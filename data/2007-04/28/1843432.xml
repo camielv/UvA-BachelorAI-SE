@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Film in Review; Wind Chill</title>
+    <meta content="28roun-2" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1843432"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Webster, Andy</person>
+        <person class="indexing_service">Jacobs, Gregory</person>
+        <person class="indexing_service">Holmes, Ashton</person>
+        <person class="indexing_service">Blunt, Emily</person>
+        <object.title class="indexing_service">Wind Chill (Movie)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070428T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9904E4D7123EF93BA15757C0A9619C8B63" item-length="246" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Film in Review; Wind Chill</hl1>
+      </hedline>
+      <byline class="print_byline">By ANDY WEBSTER</byline>
+      <byline class="normalized_byline">Webster, Andy</byline>
+      <abstract>
+        <p>Andy Webster reviews film Wind Chill, directed by Gregory Jacobs; Ashton Holmes and Emily Blunt star; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Opened yesterday in New York, Los Angeles, Phoenix, Seattle, Dallas, Houston, Atlanta, Miami, Chicago and Minneapolis.  Directed by Gregory Jacobs  87 minutes</p>
+        <p>Of Gregory Jacobs's thriller ''Wind Chill,'' let us first give thanks for what it isn't: a procession of teenage corpses, and, to avoid the more vulgar expression, torture-tainment. That said, let us give thanks for what it largely is: a moody, spooky tale, rendered with laudable economy.</p>
+      </block>
+      <block class="full_text">
+        <p>Opened yesterday in New York, Los Angeles, Phoenix, Seattle, Dallas, Houston, Atlanta, Miami, Chicago and Minneapolis.  Directed by Gregory Jacobs  87 minutes</p>
+        <p>Of Gregory Jacobs's thriller ''Wind Chill,'' let us first give thanks for what it isn't: a procession of teenage corpses, and, to avoid the more vulgar expression, torture-tainment. That said, let us give thanks for what it largely is: a moody, spooky tale, rendered with laudable economy.</p>
+        <p>A college student (Emily Blunt) hooks up with another (Ashton Holmes) for a ride home at Christmas break, and gradually learns of his hidden past. After a hit and run on a remote, snow-swept country road, the two discover that their route has its secrets too.</p>
+        <p>The principals' badinage has charm and understated perversity, and the production values display the finesse fitting a movie counting George Clooney and Steven Soderbergh among its producers. Though it reaches its climax, after the requisite jolts, with undue haste, ''Wind Chill'' mostly has a measured, frosty ambience that lets its performances warm the screen.</p>
+        <p>While Mr. Holmes vacillates fluidly between cherubic innocence and veiled menace, this is Ms. Blunt's movie. The actress, a strong asset in ''The Devil Wears Prada,'' has a winning way with melting hauteur, and she easily carries this spare diversion. Expect her to carry much bigger movies before long.</p>
+        <p>ANDY WEBSTER</p>
+        <p>''Wind Chill'' is rated R (Under 17 requires accompanying parent or adult guardian). It has strong language and mild violence.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>World Briefing | Middle East: Gaza: Palestinians In Border Fight; 1 Dead</title>
+    <meta content="28briefs-6" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1843458"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Palestinians</classifier>
+        <location class="indexing_service">Israel</location>
+        <location class="indexing_service">Gaza Strip</location>
+        <location class="indexing_service">Rafah (Gaza Strip)</location>
+        <person class="indexing_service">Kershner, Isabel</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Palestinian Authority</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Gaza Strip</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Israel</classifier>
+        <classifier class="online_producer" type="general_descriptor">Palestinians</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070428T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05E5D6123EF93BA15757C0A9619C8B63" item-length="129" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>World Briefing | Middle East: Gaza: Palestinians In Border Fight; 1 Dead</hl1>
+      </hedline>
+      <byline class="print_byline">By ISABEL KERSHNER</byline>
+      <byline class="normalized_byline">Kershner, Isabel</byline>
+      <abstract>
+        <p>Palestinian security officer is shot dead in clash with local residents at Rafah border crossing (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A Palestinian security officer was shot dead in a clash with local residents at the Rafah border crossing in southern Gaza, Palestinian officials said. The officer, Abdulrahman Abu Teir, 24, was killed after armed members of a family tried to barge into the terminal without waiting in line, witnesses said. Palestinian security forces control the passenger crossing into Egypt, under the supervision of European monitors, but Israel determines when it will be open. The crossing was opened Thursday for the first time since April 19, but it was too crowded to operate, a spokeswoman for the European monitoring mission said. Up to 5,000 Gazans arrived at the crossing yesterday. It remained open all day, the spokeswoman said, because the unrest occurred outside the terminal itself.</p>
+        <p>ISABEL KERSHNER</p>
+      </block>
+      <block class="full_text">
+        <p>A Palestinian security officer was shot dead in a clash with local residents at the Rafah border crossing in southern Gaza, Palestinian officials said. The officer, Abdulrahman Abu Teir, 24, was killed after armed members of a family tried to barge into the terminal without waiting in line, witnesses said. Palestinian security forces control the passenger crossing into Egypt, under the supervision of European monitors, but Israel determines when it will be open. The crossing was opened Thursday for the first time since April 19, but it was too crowded to operate, a spokeswoman for the European monitoring mission said. Up to 5,000 Gazans arrived at the crossing yesterday. It remained open all day, the spokeswoman said, because the unrest occurred outside the terminal itself.</p>
+        <p>ISABEL KERSHNER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

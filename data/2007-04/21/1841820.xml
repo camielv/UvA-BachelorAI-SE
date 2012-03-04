@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>In Boston, Yanks' Rotation Often Has Unfamiliar Face</title>
+    <meta content="21pins" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/21/sports/baseball/21pins.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1841820"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="BASEBALL"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Yankees</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/Boston Red Sox</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="descriptor">Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+        <org class="online_producer">New York Yankees</org>
+        <org class="online_producer">Boston Red Sox</org>
+        <person class="online_producer">Wright, Chase</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070421T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9902E6D9163EF932A15757C0A9619C8B63" item-length="526" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>In Boston, Yanks' Rotation Often Has Unfamiliar Face</hl1>
+        <hl2 class="online_headline">In Boston, Yanks’ Rotation Often Has Unfamiliar Face</hl2>
+      </hedline>
+      <byline class="print_byline">By TYLER KEPNER</byline>
+      <byline class="normalized_byline">Kepner, Tyler</byline>
+      <dateline>BOSTON, April 20</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Yankees have been desperate for pitchers at Fenway Park before. Two years ago, they started Tim Redding here. Last season, they gave the ball to Sidney Ponson. Neither veteran pitched for the Yankees again.</p>
+        <p>This weekend, the Yankees have different alternatives. With three starters on the disabled list, they will start Jeff Karstens on Saturday and Chase Wright on Sunday. Both are products of a farm system that the Yankees plan to rely on more and more.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>With three starters on the disabled list, the Yankees will start Jeff Karstens on Saturday and Chase Wright on Sunday.</p>
+      </block>
+      <block class="full_text">
+        <p>The Yankees have been desperate for pitchers at Fenway Park before. Two years ago, they started Tim Redding here. Last season, they gave the ball to Sidney Ponson. Neither veteran pitched for the Yankees again.</p>
+        <p>This weekend, the Yankees have different alternatives. With three starters on the disabled list, they will start Jeff Karstens on Saturday and Chase Wright on Sunday. Both are products of a farm system that the Yankees plan to rely on more and more.</p>
+        <p>''At least you feel there's a growing process,'' General Manager Brian Cashman said. ''No matter what takes place, something's going to happen that they will be able to utilize and benefit from. There's a learning process here.''</p>
+        <p>The Yankees optioned Darrell Rasner to Class AAA Scranton/Wilkes-Barre to add a fresh reliever, Colter Bean, for Friday's game. Bean's stay could be brief because the Yankees need to activate Karstens from the disabled list to start Saturday.</p>
+        <p>Karstens threw 42 strikes among his 52 pitches Monday for Class A Tampa, and he watched Wright's major league debut the next night at the home of Billy Connors, the organization's pitching troubleshooter.</p>
+        <p>''Billy pointed out to me, 'You're getting Boston on Saturday,' '' Karstens said. ''I said, All right. I'll be ready for it.''</p>
+        <p>Karstens went 2-1 with a 3.80 earned run average in eight games for the Yankees last season, but he has never pitched at Fenway. Neither has reliever Sean Henn, who said that he looked around the ballpark and noticed it was quite small.</p>
+        <p>''I hear out in the pen, once they say, 'Play ball!' it becomes a little crazy,'' Henn said.</p>
+        <p>Wright and Henn are close friends -- both are from Texas -- and Wright wears Henn's glove when he pitches. Wright said that he believed the glove brought him luck; he had not one, but two Henn models on the top shelf of his locker Thursday.</p>
+        <p>''I used it a couple of years ago, and it's worked for me,'' Wright said. ''So I've used his glove ever since.''</p>
+        <p>Henn earned his first major league victory in Thursday's 8-6 victory against the Cleveland Indians at Yankee Stadium. He received the lineup card, a standard souvenir, but the Yankees' bullpen catchers retrieved something else for him: the home run ball hit by Alex Rodriguez to win the game.</p>
+        <p>The Yankees came back from a four-run deficit with two outs in the ninth inning to win. According to the Elias Sports Bureau, it was the first time that had happened in the major leagues since Pittsburgh came back to beat Houston on July 28, 2001.</p>
+        <p>TORRE CHECKS IN WITH MURCER -- Joe Torre was late for his pregame meeting with reporters, but he had a good excuse: He was talking on the telephone with Bobby Murcer, the former Yankees center fielder and current YES broadcaster who is recovering from an operation to remove a brain tumor.</p>
+        <p>Murcer visited the Yankees' clubhouse opening day. He has completed his chemotherapy treatments and is now undergoing a clinical trial.</p>
+        <p>''He just said he wished he was here with us, but he'll see us in Texas,'' Torre said. ''That's very good news.''</p>
+        <p>BASEBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

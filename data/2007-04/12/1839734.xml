@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="12email--refer" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1839734"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070412T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F06E0D9123FF931A25757C0A9619C8B63" item-length="163" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Bush Advisers' Approach On E-Mail Draws Fire  Political advisers to the president may have improperly used Republican National Committee e-mail accounts to conduct government business, and some communications that are required to be preserved may be lost, officials said.  PAGE A17</p>
+        <p>Rebuke on Walter Reed Woes  A panel assessing dilapidated facilities and red tape for Iraq war veterans at Walter Reed Army Medical Center issued a sweeping indictment of leadership failures.  PAGE A14</p>
+        <p>McCain Faults Democrats  Senator John McCain accused his potential Democratic presidential rivals of playing ''small politics'' by opposing the war in Iraq, saying withdrawal would lead to chaos.</p>
+        <p>PAGE A18</p>
+        <p>How to Fulfill Iraq Policy  Four years into the war, the White House struggles with this problem: Who is in charge of carrying out policy?</p>
+        <p>NEWS ANALYSIS, PAGE A12</p>
+        <p>Citigroup Cuts 17,000 Jobs  Citigroup announced a restructuring plan that eliminates 17,000 jobs and shifts another 9,500 positions overseas.  BUSINESS DAY, PAGE C1</p>
+      </block>
+      <block class="full_text">
+        <p>Bush Advisers' Approach On E-Mail Draws Fire  Political advisers to the president may have improperly used Republican National Committee e-mail accounts to conduct government business, and some communications that are required to be preserved may be lost, officials said.  PAGE A17</p>
+        <p>Rebuke on Walter Reed Woes  A panel assessing dilapidated facilities and red tape for Iraq war veterans at Walter Reed Army Medical Center issued a sweeping indictment of leadership failures.  PAGE A14</p>
+        <p>McCain Faults Democrats  Senator John McCain accused his potential Democratic presidential rivals of playing ''small politics'' by opposing the war in Iraq, saying withdrawal would lead to chaos.</p>
+        <p>PAGE A18</p>
+        <p>How to Fulfill Iraq Policy  Four years into the war, the White House struggles with this problem: Who is in charge of carrying out policy?</p>
+        <p>NEWS ANALYSIS, PAGE A12</p>
+        <p>Citigroup Cuts 17,000 Jobs  Citigroup announced a restructuring plan that eliminates 17,000 jobs and shifts another 9,500 positions overseas.  BUSINESS DAY, PAGE C1</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

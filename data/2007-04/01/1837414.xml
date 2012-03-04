@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Hospital Sets Its Sights On Pennsylvania</title>
+    <meta content="l01jersey-1" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837414"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <classifier class="indexing_service" type="descriptor">Hospitals</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Relocation of Business</classifier>
+        <location class="indexing_service">New Jersey</location>
+        <location class="indexing_service">Hopewell (NJ)</location>
+        <location class="indexing_service">Bucks County (Pa)</location>
+        <location class="indexing_service">Mercer County (NJ)</location>
+        <org class="indexing_service">Capital Health Systems</org>
+        <person class="indexing_service">Goldman, Norm</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Pennsylvania/Bucks County</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hospitals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Relocation of Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE4DD1E30F932A35757C0A9619C8B63" item-length="165" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Hospital Sets Its Sights On Pennsylvania</hl1>
+      </hedline>
+      <abstract>
+        <p>Norm Goldman letter on March 25 editorial notes Capital Health System in Mercer County, NJ, wants to relocate hospital to Hopewell Township, near Pennsylvania border, and target Bucks County, Pa, residents</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>If I can't top them, at least I can add to ''Superfluous Hospitals'' (editorial, March 25).</p>
+        <p>Capital Health System in Mercer County, serving mostly the capital city of Trenton, is also in poor financial health, according to Standard &amp; Poor's, the credit rating firm. It wants to pull out of its major urban facility and relocate to the bucolic, sparsely populated Hopewell Township, bordering the Delaware River.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>If I can't top them, at least I can add to ''Superfluous Hospitals'' (editorial, March 25).</p>
+        <p>Capital Health System in Mercer County, serving mostly the capital city of Trenton, is also in poor financial health, according to Standard &amp; Poor's, the credit rating firm. It wants to pull out of its major urban facility and relocate to the bucolic, sparsely populated Hopewell Township, bordering the Delaware River.</p>
+        <p>Capital Health System views it as a money-making move. Marketing will be targeted to residents of Bucks County, Pa., as a result of Route 95 access across the river.</p>
+        <p>New Jersey residents, who pay state income taxes to support hospitals, look with great suspicion at subsidizing Pennsylvania residents at a projected facility with private rooms and all the accouterments of a luxury hotel. It appears the state has to be more realistic and cost-effective as it focuses its fiscal support on existing viable hospitals serving the underserved population.</p>
+        <p>NORM GOLDMAN  Hopewell Township</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

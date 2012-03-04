@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   WEINGRAD, IRVING</title>
+    <meta content="dn041507.3" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="27" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1840216"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">WEINGRAD, IRVING</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0CE6DB123AF936A25757C0A9619C8B63" item-length="99" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   WEINGRAD, IRVING</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WEINGRAD--Irving, 90, of Lake Worth, Florida passed away peacefully at home on April 10, 2007. Beloved husband of Sylvia for 67 years. Devoted father of Mitchell Weingrad (Jane), Dr. Daniel Weingrad (Elizabeth) and Heidi Leon (Juan). Loving grandfather of Harris, Marlon, Julie, Marc and Rachel. Irving was adored by all for his generosity of spirit, sense of humor and passion for life. He will be deeply missed by the Weingrad and Garfinkel families. We will love and remember him always. Memorial donations can be made to the American Cancer Society or the American Israel Public Affairs Committee (AIPAC).</p>
+      </block>
+      <block class="full_text">
+        <p>WEINGRAD--Irving, 90, of Lake Worth, Florida passed away peacefully at home on April 10, 2007. Beloved husband of Sylvia for 67 years. Devoted father of Mitchell Weingrad (Jane), Dr. Daniel Weingrad (Elizabeth) and Heidi Leon (Juan). Loving grandfather of Harris, Marlon, Julie, Marc and Rachel. Irving was adored by all for his generosity of spirit, sense of humor and passion for life. He will be deeply missed by the Weingrad and Garfinkel families. We will love and remember him always. Memorial donations can be made to the American Cancer Society or the American Israel Public Affairs Committee (AIPAC).</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

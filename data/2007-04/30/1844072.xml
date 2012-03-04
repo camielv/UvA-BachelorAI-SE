@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sri Lanka Rebels Bomb Fuel Depot, Closing Airport</title>
+    <meta content="30lanka" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/30/world/asia/30lanka.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1844072"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Bombs and Explosives</classifier>
+        <classifier class="indexing_service" type="descriptor">Blackouts and Brownouts (Electrical)</classifier>
+        <location class="indexing_service">Sri Lanka</location>
+        <location class="indexing_service">Colombo (Sri Lanka)</location>
+        <org class="indexing_service">Liberation Tigers of Tamil Eelam</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Sri Lanka</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Sri Lanka</classifier>
+        <classifier class="online_producer" type="descriptor">Bombs and Explosives</classifier>
+        <classifier class="online_producer" type="descriptor">Civil War and Guerrilla Warfare</classifier>
+        <classifier class="online_producer" type="general_descriptor">Civil War and Guerrilla Warfare</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blackouts and Brownouts (Electrical)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bombs and Explosives</classifier>
+        <classifier class="online_producer" type="general_descriptor">War and Revolution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+        <location class="online_producer">Sri Lanka</location>
+        <org class="online_producer">Liberation Tigers of Tamil Eelam</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070430T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03EEDB133EF933A05757C0A9619C8B63" item-length="232" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sri Lanka Rebels Bomb Fuel Depot, Closing Airport</hl1>
+        <hl2 class="online_headline">Sri Lanka Rebels Bomb Fuel Depot, Closing Airport</hl2>
+      </hedline>
+      <byline class="print_byline">By ANTHONY DAVID</byline>
+      <dateline>COLOMBO, Sri Lanka, April 29</dateline>
+      <abstract>
+        <p>Tamil rebel warplanes bomb two fuel storage depots near Colombo, Sri Lanka, tripping defenses that temporarily black out city and close airport; no major damage or injuries are reported; raid is third in five weeks; government hints it intends to get much tougher to stop further air attacks (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Tamil rebel warplanes bombed two fuel storage depots near this capital early Sunday, and the military said the raid tripped defenses that temporarily blacked out the city and closed the airport.</p>
+        <p>Power was restored after a few hours and no major damage or injuries were reported. But the raid caused some panic in Colombo, where authorities instructed five-star luxury hotels not to use their backup power, to lessen the chance of the buildings becoming bombing targets.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Tamil rebel warplanes bombed two fuel storage depots early Sunday, tripping defenses that temporarily blacked out the city and closed the airport.</p>
+      </block>
+      <block class="full_text">
+        <p>Tamil rebel warplanes bombed two fuel storage depots near this capital early Sunday, and the military said the raid tripped defenses that temporarily blacked out the city and closed the airport.</p>
+        <p>Power was restored after a few hours and no major damage or injuries were reported. But the raid caused some panic in Colombo, where authorities instructed five-star luxury hotels not to use their backup power, to lessen the chance of the buildings becoming bombing targets.</p>
+        <p>The raiding aircraft, described as light-propeller planes, dropped four bombs on the fuel depots, situated in the Muthurajawela area, just north of Colombo, witnesses and government officials said. A rebel spokesman, Rasiah Illanthiriyan, said the planes had returned successfully.</p>
+        <p>The Air Force said it responded by bombing suspected Tamil rebel targets in the Vishvamadu and Iranamadu areas, about 190 miles north of Colombo. Further details about the retaliation were not disclosed.</p>
+        <p>The rebel attack was the third in five weeks by the Liberation Tigers of Tamil Eelam, which has been fighting for years to gain an independent homeland for ethnic minority Tamils in the northern and eastern parts of Sri Lanka.</p>
+        <p>The government hinted strongly on Sunday that it intended to get much tougher to stop further air attacks.</p>
+        <p>''We will take effective measures to control the air capability'' of the Tamil Tigers, said Anura Priyadharshana Yapa, the mass media and information minister.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

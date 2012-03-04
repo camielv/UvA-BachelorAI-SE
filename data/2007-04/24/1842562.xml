@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Gun Laws and Handgun Violence</title>
+    <meta content="24ppoll" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1842562"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="HEADING TOWARD 2008: THE ISSUES"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Firearms</classifier>
+        <classifier class="indexing_service" type="descriptor">Election Issues</classifier>
+        <classifier class="indexing_service" type="descriptor">Law and Legislation</classifier>
+        <classifier class="indexing_service" type="descriptor">Public Opinion</classifier>
+        <classifier class="indexing_service" type="descriptor">New York Times/cbs News Poll</classifier>
+        <classifier class="indexing_service" type="descriptor">Gun Control</classifier>
+        <classifier class="indexing_service" type="descriptor">Presidential Election of 2008</classifier>
+        <person class="indexing_service">Connelly, Marjorie</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Legal</classifier>
+        <classifier class="online_producer" type="general_descriptor">Firearms</classifier>
+        <classifier class="online_producer" type="general_descriptor">Election Issues</classifier>
+        <classifier class="online_producer" type="general_descriptor">Public Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gun Control</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070424T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9507E3DF143EF937A15757C0A9619C8B63" item-length="186" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Gun Laws and Handgun Violence</hl1>
+      </hedline>
+      <byline class="print_byline">By MARJORIE CONNELLY</byline>
+      <byline class="normalized_byline">Connelly, Marjorie</byline>
+      <abstract>
+        <p>New York Times/CBS News poll finds 66 percent of Americans surveyed say laws covering sale of handguns should be stricter, and 27 percent say laws should be kept as they are now; other survey results noted; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Most Americans favor stricter handgun control, but few say it would have done a lot to prevent the shootings last week at Virginia Tech, according to the latest New York Times/CBS News poll.</p>
+        <p>Two-thirds of the adults surveyed Friday through Sunday said the laws covering the sale of handguns should be stricter, and 27 percent said the laws should be kept as they are now.</p>
+      </block>
+      <block class="full_text">
+        <p>Most Americans favor stricter handgun control, but few say it would have done a lot to prevent the shootings last week at Virginia Tech, according to the latest New York Times/CBS News poll.</p>
+        <p>Two-thirds of the adults surveyed Friday through Sunday said the laws covering the sale of handguns should be stricter, and 27 percent said the laws should be kept as they are now.</p>
+        <p>Three-quarters of Democrats surveyed support stricter handgun laws, compared with about half of Republicans and 60 percent of independents.</p>
+        <p>The public does not support banning handguns altogether, the poll found. Thirty-two percent of those surveyed approved of a ban on the sale of handguns, with the exception of those needed for law enforcement, with 64 percent opposed.</p>
+        <p>Thirty-one percent said stricter gun control would have done a lot to prevent the bloodshed last week, 23 percent said there would have been little effect and 41 percent said tougher laws would have made no difference.</p>
+        <p>The telephone poll was conducted with 644 adults nationwide and has a margin of sampling error of plus or minus four percentage points.</p>
+        <p>MARJORIE CONNELLY</p>
+        <p>HEADING TOWARD 2008: THE ISSUES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

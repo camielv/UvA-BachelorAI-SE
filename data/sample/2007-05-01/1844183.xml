@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Study Finds That Cutting Salt Also Cuts Cardiovascular Risk</title>
+    <meta content="01outc" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Health&amp;Fitness" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1844183"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="VITAL SIGNS: OUTCOMES"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Columns/Vital Signs</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070501T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9806E4D9133EF932A35756C0A9619C8B63" item-length="255" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Study Finds That Cutting Salt Also Cuts Cardiovascular Risk</hl1>
+      </hedline>
+      <byline class="print_byline">By Eric Nagourney</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>If lowering sodium intake reduces the risk of high blood pressure, and high blood pressure can lead to heart disease, does eating less salt improve the health of one's heart?</p>
+        <p>It seems obvious that it would, but in a new study, researchers offer what they say is some of the first good evidence that it really does.</p>
+      </block>
+      <block class="full_text">
+        <p>If lowering sodium intake reduces the risk of high blood pressure, and high blood pressure can lead to heart disease, does eating less salt improve the health of one's heart?</p>
+        <p>It seems obvious that it would, but in a new study, researchers offer what they say is some of the first good evidence that it really does.</p>
+        <p>The study, which appears online in The British Medical Journal, looked at two groups of people more than a decade after they were asked to reduce their salt intake for up to 48 months. There were more than 3,000 participants, 30 to 54, all of whom had a condition that put them at special risk for high blood pressure.</p>
+        <p>The researchers, led by Nancy R. Cook of Brigham and Women's Hospital, found that those who had significantly reduced their salt intake had a 25 percent lower risk of developing cardiovascular disease. Their risk of death from the disease was also cut, by as much as a fifth.</p>
+        <p>Earlier studies have found that less salt in a diet is associated with lower blood pressure, but the researchers said it had been harder to establish what that meant for heart disease.</p>
+        <p>The study pointed to other research showing that a lot of salt in the diet can cause cardiovascular problems on its own, apart from its role in high blood pressure.</p>
+        <p>''Our study,'' they said, ''provides unique evidence that sodium reduction might prevent cardiovascular disease and should dispel any residual concern that sodium reduction might be harmful.''</p>
+        <p>VITAL SIGNS: OUTCOMES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>AN INSIDER CONVICTION</title>
+    <meta content="21five-5" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1841825"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="FIVE DAYS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Accounting and Accountants</classifier>
+        <classifier class="indexing_service" type="descriptor">Securities and Commodities Violations</classifier>
+        <classifier class="indexing_service" type="descriptor">Insider Trading</classifier>
+        <classifier class="indexing_service" type="descriptor">Frauds and Swindling</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <classifier class="indexing_service" type="descriptor">Decisions and Verdicts</classifier>
+        <org class="indexing_service">Qwest Communications International</org>
+        <person class="indexing_service">Nacchio, Joseph P</person>
+        <person class="indexing_service">Frosch, Dan</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Accounting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insider Trading</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accounting and Accountants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Frauds and Swindling</classifier>
+        <classifier class="online_producer" type="general_descriptor">Decisions and Verdicts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Futures and Options Trading</classifier>
+        <classifier class="online_producer" type="general_descriptor">Securities and Commodities Violations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070421T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E02E5D9163EF932A15757C0A9619C8B63" item-length="292" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>AN INSIDER CONVICTION</hl1>
+      </hedline>
+      <byline class="print_byline">By DAN FROSCH
+&lt;br&gt;</byline>
+      <abstract>
+        <p>Five Days column; Qwest Communications' former chief executive Joseph P Nacchio was convicted on 19 of 42 counts of insider trading (S)0</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BLACKBERRY users' thumbs were idle; private equity investors got a thumbs up from Sallie Mae; and a jury turned thumbs down on Joseph P. Nacchio, the former chief executive of Qwest.</p>
+        <p>Qwest's former chief executive, Joseph P. Nacchio, was convicted on 19 of 42 counts of insider trading on Thursday, the latest corporate titan to take a fall for profiting in ways that juries agreed were unacceptable.</p>
+      </block>
+      <block class="full_text">
+        <p>BLACKBERRY users' thumbs were idle; private equity investors got a thumbs up from Sallie Mae; and a jury turned thumbs down on Joseph P. Nacchio, the former chief executive of Qwest.</p>
+        <p>Qwest's former chief executive, Joseph P. Nacchio, was convicted on 19 of 42 counts of insider trading on Thursday, the latest corporate titan to take a fall for profiting in ways that juries agreed were unacceptable.</p>
+        <p>During the 15-day trial in Denver, federal prosecutors painted Mr. Nacchio as a greedy executive who hid warnings about Qwest's money troubles from investors, while dumping over $100 million worth of stock in 2001. Defense lawyers argued that Mr. Nacchio stood by the positive financial forecasts he proclaimed in public and was forced to unload his stock because the options were set to expire.</p>
+        <p>The conviction carries a penalty of up to 10 years in prison and a fine of $1 million for each count. Sentencing has been set for July 27; Mr. Nacchio's lawyers have vowed an appeal.</p>
+        <p>It's not the only uphill legal battle the once-lauded executive now faces. Mr. Nacchio must also reckon with a hearing on the forfeiture of assets sought by the prosecution and a 2005 civil fraud lawsuit filed by the Securities and Exchange Commission regarding revenue reports during his time at Qwest.</p>
+        <p>DAN FROSCH</p>
+        <p>MOST POPULAR -- Following are the most-popular business news articles on nytimes.com from April 14 through April 20:  1. I.R.S. Audits Middle Class More Often, More Quickly  2. Pill That Eliminates the Period Gets Mixed Reviews  3. Housing Slump Takes a Toll on Illegal Immigrants  4. Baby on Board, and a Photography Business, Too  5. Stung by a Fraud Indictment, a Power Broker Punches Back  Links are at nytimes.com/business.</p>
+        <p>FIVE DAYS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Carbon Gas Is Explored As a Source Of Ethanol</title>
+    <meta content="24ethanol" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Science; Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/24/business/worldbusiness/24ethanol.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842600"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="descriptor">Ethanol</classifier>
+        <classifier class="online_producer" type="descriptor">Carbon Monoxide</classifier>
+        <classifier class="online_producer" type="descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Carbon Monoxide</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethanol</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070424T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A01E1DE143EF937A15757C0A9619C8B63" item-length="549" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Carbon Gas Is Explored As a Source Of Ethanol</hl1>
+        <hl2 class="online_headline">Carbon Gas Is Explored as a Source of Ethanol</hl2>
+      </hedline>
+      <byline class="print_byline">By LAWRENCE M. FISHER</byline>
+      <dateline>SAN FRANCISCO, April 23</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A New Zealand company said Monday that it had secured financing from an investor in Silicon Valley to produce ethanol from an untapped source -- carbon monoxide gas.</p>
+        <p>The company, LanzaTech, based in Auckland, said it had developed a fermentation process in which bacteria consume carbon monoxide and produce ethanol. Ethanol can be used as an alternative fuel or an octane-boosting, pollution-reducing additive to gasoline.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A New Zealand company said it secured financing to produce ethanol from an untapped source  carbon monoxide gas.</p>
+      </block>
+      <block class="full_text">
+        <p>A New Zealand company said Monday that it had secured financing from an investor in Silicon Valley to produce ethanol from an untapped source -- carbon monoxide gas.</p>
+        <p>The company, LanzaTech, based in Auckland, said it had developed a fermentation process in which bacteria consume carbon monoxide and produce ethanol. Ethanol can be used as an alternative fuel or an octane-boosting, pollution-reducing additive to gasoline.</p>
+        <p>Sean Simpson, LanzaTech's co-founder and chief scientific officer, said the company would use the $3.5 million investment from the venture firm, Khosla Ventures, to establish a pilot plant and perform the engineering work to prepare for commercial-scale ethanol production.</p>
+        <p>Vinod Khosla, a co-founder of Sun Microsystems who formed Khosla Ventures in 2004, has invested in more than a dozen start-ups involved in ''clean fuel'' technologies. He said in a telephone interview that LanzaTech stood out from the scores of proposals he sees each day for both its ability to scale up to industrial proportions and the credibility of the company's founding scientists.</p>
+        <p>''When I passed it on to my partners for due diligence, the technology stood up to every test, and the intellectual property protection was awesome,'' Mr. Khosla said.</p>
+        <p>Then, referring to the bacteria that are key to the process, he said, ''The performance of the bugs was frankly mind-boggling to me, not something I would have expected from a tiny research effort in New Zealand.'' He said his firm ''sent the best process engineers we know to evaluate the technology and could it be industrialized, and the answer was yes.''</p>
+        <p>People have been using yeast to turn sugar into alcohol for thousands of years. Corn, the main source of ethanol in this country, provides carbohydrates that are easily broken into sugars.</p>
+        <p>LanzaTech's innovation lies in using a bacterium to produce ethanol not from a carbohydrate, but from a gas, carbon monoxide. Carbon monoxide is a waste product of a number of industrial processes, including the production of steel.</p>
+        <p>''The feed stock of corn ethanol accounts for 60 percent of the cost, so we felt that the place to attack was to move away from a farmed crop,'' said Mr. Simpson of LanzaTech. ''We started to focus on high-volume industrial waste, which led to carbon monoxide. The steel industry globally makes around half a ton of carbon monoxide per ton of steel made.''</p>
+        <p>A spokesman for the American Iron and Steel Institute said that the industry does not monitor the total volume of carbon monoxide it produces, some of which is recycled and reused.</p>
+        <p>Regardless of how it is made or what it is made from, ethanol as a fuel has its detractors. Some plastics and rubber materials commonly used in fuel lines are degraded by ethanol, and depending on the blend of ethanol and gasoline, ethanol may raise levels of nitrogen oxides produced. Ethanol also contains less energy than an equivalent amount of gasoline, so mileage may be reduced.</p>
+        <p>For Mr. Khosla, the positives of ethanol fuel, including reduced pollution and freedom from oil dependence, far outweigh the negatives. ''There are many more weapons in the war on oil than the narrow-minded folks who do prognostication imagine,'' Mr. Khosla said. ''Most of the action in energy is coming from biotechnology, and the most interesting work in biotechnology is energy.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

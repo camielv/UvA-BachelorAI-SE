@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>ABN Amro Agrees to Sell To Barclays For $80 Billion</title>
+    <meta content="23bank" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1842430"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070423T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DEFD9173EF930A15757C0A9619C8B63" item-length="364" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>ABN Amro Agrees to Sell To Barclays For $80 Billion</hl1>
+      </hedline>
+      <byline class="print_byline">By JULIA WERDIGIER and MICHAEL J. de la MERCED; Julia Werdigier reported from London and Michael de la Merced from New York. Eric Dash and Andrew Ross Sorkin contributed reporting from New York.</byline>
+      <dateline>LONDON, April 22</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ABN Amro, the largest Dutch bank, was near a deal Sunday night to be acquired by Barclays of Britain for more than $80 billion, in what would be one of the largest European banking deals ever. The deal is expected to be announced on Monday, according to people briefed on the negotiations.</p>
+        <p>To fend off a rival group of bidders seeking to break up the 183-year-old bank, ABN Amro and Barclays struck a separate deal on Sunday to sell LaSalle Bank, a unit of ABN, to Bank of America for more than $21 billion. That deal requires shareholder approval, so it is possible that the rival bidders, led by the Royal Bank of Scotland, may still try to woo ABN. That group is scheduled to meet with ABN on Monday.</p>
+      </block>
+      <block class="full_text">
+        <p>ABN Amro, the largest Dutch bank, was near a deal Sunday night to be acquired by Barclays of Britain for more than $80 billion, in what would be one of the largest European banking deals ever. The deal is expected to be announced on Monday, according to people briefed on the negotiations.</p>
+        <p>To fend off a rival group of bidders seeking to break up the 183-year-old bank, ABN Amro and Barclays struck a separate deal on Sunday to sell LaSalle Bank, a unit of ABN, to Bank of America for more than $21 billion. That deal requires shareholder approval, so it is possible that the rival bidders, led by the Royal Bank of Scotland, may still try to woo ABN. That group is scheduled to meet with ABN on Monday.</p>
+        <p>If successful, the Barclays deal would cap a monthlong race to acquire ABN, after a London hedge fund agitated for a sale to raise the bank's flagging share price. The two had been in exclusive talks until Friday.</p>
+        <p>But last week, the group led by Barclays' largest rival, Royal Bank of Scotland, arose to crash the talks. The group, which also includes Banco Santander Central Hispano of Spain and Fortis of Belgium sought to break up ABN Amro and extend its foothold in the United States. By acquiring LaSalle, which has more than 400 branches in the midwestern United States, Bank of America would fill in a major gap in its national banking network. It would increase its market share in Chicago, vaulting it past the longtime leader in the region, JPMorgan Chase.</p>
+        <p>The deal comes at an important time for Bank of America, the nation's biggest retail bank. It has long been an acquisition machine, but has been adjusting its strategy to focus on internal growth as its deposits approach the federal cap.</p>
+        <p>Bank of America has faced slowing revenue growth and rising expenses. Some Wall Street analysts say that this latest deal could help the bank regain its momentum.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

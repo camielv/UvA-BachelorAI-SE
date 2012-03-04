@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Counting the Poor</title>
+    <meta content="17tue4" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/17/opinion/17tue4.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1841011"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">United States Economy</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Income</classifier>
+        <org class="indexing_service">Census Bureau</org>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="descriptor">Census</classifier>
+        <classifier class="online_producer" type="descriptor">Population</classifier>
+        <classifier class="online_producer" type="general_descriptor">Income</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Economy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Census</classifier>
+        <classifier class="online_producer" type="general_descriptor">Population</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <org class="online_producer">Census Bureau</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070417T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E07EED8113FF934A25757C0A9619C8B63" item-length="356" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Counting the Poor</hl1>
+        <hl2 class="online_headline">Counting the Poor</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial calls on Congress to instruct Census Bureau to adopt more realistic criteria for gauging poverty; says poverty in US is much more widespread than has been previously acknowledged and federal antipoverty programs are some of best investments nation can make</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It's not official, but it's virtually indisputable. Poverty in America is much more widespread than has been previously acknowledged.</p>
+        <p>According to the Census Bureau, nearly 37 million Americans -- 12.6 percent of the population -- were living in poverty in 2005. That means that four years into an economic expansion, the percentage of Americans defined as poor was higher than at the bottom of the last recession in late 2001, when it was 11.7 percent. But that's not the worst of it. Recently, the bureau released 12 alternative measures of poverty, and all but one are higher than the official rate.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Poverty in America is much more widespread than has been previously acknowledged.</p>
+      </block>
+      <block class="full_text">
+        <p>It's not official, but it's virtually indisputable. Poverty in America is much more widespread than has been previously acknowledged.</p>
+        <p>According to the Census Bureau, nearly 37 million Americans -- 12.6 percent of the population -- were living in poverty in 2005. That means that four years into an economic expansion, the percentage of Americans defined as poor was higher than at the bottom of the last recession in late 2001, when it was 11.7 percent. But that's not the worst of it. Recently, the bureau released 12 alternative measures of poverty, and all but one are higher than the official rate.</p>
+        <p>The alternative that hews most closely to the measurement criteria recommended by the National Academy of Sciences yields a 2005 poverty rate of 14.1 percent. That works out to 41.3 million poor Americans, 4.4 million more than were officially counted. Those higher figures indicate that millions of needy Americans are not getting government services linked to official poverty levels.</p>
+        <p>The census's official measure basically looks only at whether a family has enough pretax income, plus cash benefits from the government, to pay for bare necessities. The academy's criteria called for adding in the value of noncash government benefits like food stamps, and for subtracting expenses like out-of-pocket medical costs and work-related outlays, including child care expenses.</p>
+        <p>They also take into account geographical differences in the cost of living and the fact that poverty is relative. To be accurate, a poverty gauge cannot simply measure a family's ability (or lack thereof) to subsist. It must also capture the extent to which the poor cannot afford the requisites of modern life.</p>
+        <p>All told, under the official measure, the poverty line for a family with two parents and two children is $19,806. Under the alternative it's $22,841.</p>
+        <p>Lawmakers must listen to what the new numbers are telling them and, as a first step, instruct the Census Bureau to adopt the academy's more realistic criteria. They must also realize that improvements in antipoverty programs -- such as expanding the earned income tax credit for the working poor and providing better early education -- are some of the best investments the nation can make.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

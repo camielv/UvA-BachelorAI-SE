@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Art in Review; Neil Farber</title>
+    <meta content="06gall-7" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="33" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838399"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070406T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E4DB173FF935A35757C0A9619C8B63" item-length="275" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Art in Review; Neil Farber</hl1>
+      </hedline>
+      <byline class="print_byline">By BRIDGET L. GOODBODY</byline>
+      <byline class="normalized_byline">Goodbody, Bridget L</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Blubbering  Clementine Gallery  623 West 27th Street, Chelsea  Through April 21</p>
+        <p>''Blubbering,'' a collection of Neil Farber's latest mixed-media works on paper, brings to mind Dante's ''Divine Comedy.'' But instead of focusing on the experience of hell and purgatory in the afterlife, Mr. Farber takes on the madness of contemporary civilization.</p>
+      </block>
+      <block class="full_text">
+        <p>Blubbering  Clementine Gallery  623 West 27th Street, Chelsea  Through April 21</p>
+        <p>''Blubbering,'' a collection of Neil Farber's latest mixed-media works on paper, brings to mind Dante's ''Divine Comedy.'' But instead of focusing on the experience of hell and purgatory in the afterlife, Mr. Farber takes on the madness of contemporary civilization.</p>
+        <p>He is a founding member of the mostly male Royal Art Lodge, an art collective based in Winnipeg, Manitoba, that since 1996 has gathered regularly to create drawings, videos and puppet shows. Their most famous member is Marcel Dzama, whose drawings of mythical creatures, both humanoid and animal, recall Henry Darger's strange forays into male psychosexual fantasies.</p>
+        <p>Mr. Farber is also concerned with male troubles, but he demonstrates a keen interest in paint's expressive qualities. Take his picture of a sea of male heads made from blobs of gesso the size of a thumbtack: their hardheadedness enhances the picture's sense that the march toward civilization is aimless. In his picture of a decapitated man and howling dogs, the gushing blood is created by red paint let loose in resin and left to dry, so it looks as if the bleeding will never stop.</p>
+        <p>The show's pièce de résistance is a contemporary update of Hieronymus Bosch's painting ''Ship of Fools.'' Bosch portrayed the world as falling apart amid human debauchery; Mr. Farber shows a group of men going down in a sinking ship, drowned by the weight of their own neurosis (the exact nature of which is written in tiny script across the sky). Hell, it seems, is not somewhere else, but in the reality you create for yourself.</p>
+        <p>BRIDGET L. GOODBODY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

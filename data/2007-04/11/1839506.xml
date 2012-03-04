@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Names of the Dead</title>
+    <meta content="11list" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="World; Washington" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1839506"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">United States Armament and Defense</classifier>
+        <classifier class="indexing_service" type="descriptor">United States International Relations</classifier>
+        <location class="indexing_service">Iraq</location>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Iraq</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070411T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9904EED6153FF932A25757C0A9619C8B63" item-length="169" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Names of the Dead</hl1>
+      </hedline>
+      <abstract>
+        <p>Defense Department releases names of 11 more American service members killed in Iraq</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Department of Defense has identified 3,280 American service members who have died since the start of the Iraq war. It confirmed the deaths of the following Americans this week:</p>
+        <p>BROWN, Harrison, 31, Staff Sgt., Army; Prichard, Ala.; Third Infantry Division.</p>
+        <p>EMOLO, Ebe F., 33, Specialist, Army; Greensboro, N.C.; 82nd Airborne Division.</p>
+        <p>GRASSBAUGH, Jonathan D., 25, Capt., Army; East Hampstead, N.H.; 82nd Airborne Division.</p>
+        <p>HOOVER, Levi K., 23, Specialist, Army; Midland, Mich.; 82nd Airborne Division.</p>
+        <p>KENNEDY, Adam P., 25, Sgt., Army; Norfolk, Mass.; 25th Infantry Division.</p>
+        <p>McCANDLESS, Rodney L., 21, Pfc., Army; Camden, Ark.; 82nd Airborne Division.</p>
+        <p>MURPHY-SWEET, Philip A., 42, Cmdr., Navy; Caldwell, Idaho; Naval Inventory Control Point, Mechanicsburg, Pa.</p>
+        <p>SIMMONS, David N., 20, Pfc., Army; Kokomo, Ind.; Third Infantry Division.</p>
+        <p>SINGLETON, Todd A., 24, Sgt., Army; Muskegon, Mich.; First Cavalry Division.</p>
+        <p>SPOHN, Clifford A. III, 21, Specialist, Army; Albuquerque; 25th Infantry Division.</p>
+        <p>WILLIAMS, Jesse L., 25, Staff Sgt., Army; Santa Rosa, Calif.; Second Infantry Division.</p>
+      </block>
+      <block class="full_text">
+        <p>The Department of Defense has identified 3,280 American service members who have died since the start of the Iraq war. It confirmed the deaths of the following Americans this week:</p>
+        <p>BROWN, Harrison, 31, Staff Sgt., Army; Prichard, Ala.; Third Infantry Division.</p>
+        <p>EMOLO, Ebe F., 33, Specialist, Army; Greensboro, N.C.; 82nd Airborne Division.</p>
+        <p>GRASSBAUGH, Jonathan D., 25, Capt., Army; East Hampstead, N.H.; 82nd Airborne Division.</p>
+        <p>HOOVER, Levi K., 23, Specialist, Army; Midland, Mich.; 82nd Airborne Division.</p>
+        <p>KENNEDY, Adam P., 25, Sgt., Army; Norfolk, Mass.; 25th Infantry Division.</p>
+        <p>McCANDLESS, Rodney L., 21, Pfc., Army; Camden, Ark.; 82nd Airborne Division.</p>
+        <p>MURPHY-SWEET, Philip A., 42, Cmdr., Navy; Caldwell, Idaho; Naval Inventory Control Point, Mechanicsburg, Pa.</p>
+        <p>SIMMONS, David N., 20, Pfc., Army; Kokomo, Ind.; Third Infantry Division.</p>
+        <p>SINGLETON, Todd A., 24, Sgt., Army; Muskegon, Mich.; First Cavalry Division.</p>
+        <p>SPOHN, Clifford A. III, 21, Specialist, Army; Albuquerque; 25th Infantry Division.</p>
+        <p>WILLIAMS, Jesse L., 25, Staff Sgt., Army; Santa Rosa, Calif.; Second Infantry Division.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

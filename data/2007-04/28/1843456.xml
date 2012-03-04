@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>World Briefing | Europe: Italy: Berlusconi's 2004 Acquittal Upheld</title>
+    <meta content="28briefs-2" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1843456"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Politics and Government</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <classifier class="indexing_service" type="descriptor">Bribery</classifier>
+        <location class="indexing_service">Italy</location>
+        <location class="indexing_service">Milan (Italy)</location>
+        <person class="indexing_service">Povoledo, Elisabetta</person>
+        <person class="indexing_service">Berlusconi, Silvio</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Italy/Milan</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Italy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bribery</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070428T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9403E6D6123EF93BA15757C0A9619C8B63" item-length="80" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>World Briefing | Europe: Italy: Berlusconi's 2004 Acquittal Upheld</hl1>
+      </hedline>
+      <byline class="print_byline">By ELISABETTA POVOLEDO</byline>
+      <byline class="normalized_byline">Povoledo, Elisabetta</byline>
+      <abstract>
+        <p>Court in Milan, Italy, upholds acquittal of former Prime Min Silvio Berlusconi on corruption charges (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A court in Milan upheld the acquittal of the former prime minister, Silvio Berlusconi, on corruption charges. The court upheld a 2004 decision that cleared Mr. Berlusconi, who is Italy's richest man. He had been accused of paying a $434,000 bribe to a Rome judge in 1991 to rule in his favor during the takeover battle for an Italian food conglomerate. The prosecutors had challenged the earlier acquittal and had asked for a five-year sentence.</p>
+        <p>ELISABETTA POVOLEDO</p>
+      </block>
+      <block class="full_text">
+        <p>A court in Milan upheld the acquittal of the former prime minister, Silvio Berlusconi, on corruption charges. The court upheld a 2004 decision that cleared Mr. Berlusconi, who is Italy's richest man. He had been accused of paying a $434,000 bribe to a Rome judge in 1991 to rule in his favor during the takeover battle for an Italian food conglomerate. The prosecutors had challenged the earlier acquittal and had asked for a five-year sentence.</p>
+        <p>ELISABETTA POVOLEDO</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

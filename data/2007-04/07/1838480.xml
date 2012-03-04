@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Congressional Vote</title>
+    <meta content="l07pork" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838480"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <classifier class="indexing_service" type="descriptor">Budgets and Budgeting</classifier>
+        <classifier class="indexing_service" type="descriptor">Military Equipment</classifier>
+        <location class="indexing_service">Iraq</location>
+        <location class="indexing_service">United States</location>
+        <person class="indexing_service">Defazio, Peter (Rep)</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Iraq</classifier>
+        <classifier class="online_producer" type="general_descriptor">Budgets and Budgeting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070407T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940CE7D7173FF934A35757C0A9619C8B63" item-length="162" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Congressional Vote</hl1>
+      </hedline>
+      <abstract>
+        <p>Rep Peter DeFazio letter holds that while he voted against authorizing war and against first two spending bills for Iraq, he voted for five following bills that included financing for Iraq after it became clear that our troops were not coming home right away and they had been sent into combat by Bush administration without adequate protective equipment (Thomas Schatz March 30 Op-Chart)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In ''Pork Goes to War'' (Op-Chart, March 30), Thomas Schatz challenges my motives for voting in favor of the recent spending bill for Iraq.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In ''Pork Goes to War'' (Op-Chart, March 30), Thomas Schatz challenges my motives for voting in favor of the recent spending bill for Iraq.</p>
+        <p>While I voted against authorizing the war and against the first two spending bills for Iraq, I voted for the five following bills that included financing for Iraq after it became clear that our troops were not coming home right away and they had been sent into combat by the Bush administration without adequate protective equipment.</p>
+        <p>Therefore, my recent vote in favor of the Iraq supplemental spending bill was consistent with my previous voting record.</p>
+        <p>It would be a mistake to attribute my vote in favor of the bill to the inclusion of $400 million that benefits 615 rural counties and 4,400 schools in 39 states. I voted in favor of the bill because it will end the war.</p>
+        <p>Peter DeFazio  Member of Congress, 4th Dist., Ore.  Washington, March 30, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

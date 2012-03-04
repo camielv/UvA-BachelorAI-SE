@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A CONVERSATION WITH: Susan L. Lindquist; On the Trail of Parkinson's, Through Yeast Cells</title>
+    <meta content="24conv" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Technology; Science; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/24/science/24conv.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842511"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Expert Voices"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Interview</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./New England</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Conversations</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Parkinson's Disease</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Alzheimer's</classifier>
+        <classifier class="online_producer" type="descriptor">Parkinson's Disease</classifier>
+        <classifier class="online_producer" type="descriptor">Biology and Biochemistry</classifier>
+        <classifier class="online_producer" type="descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="descriptor">Alzheimer's Disease</classifier>
+        <classifier class="online_producer" type="descriptor">Proteins</classifier>
+        <classifier class="online_producer" type="general_descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Biology and Biochemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Proteins</classifier>
+        <classifier class="online_producer" type="general_descriptor">Alzheimer's Disease</classifier>
+        <classifier class="online_producer" type="general_descriptor">Parkinson's Disease</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070424T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9404E5D6173EF937A15757C0A9619C8B63" item-length="1311" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A CONVERSATION WITH: Susan L. Lindquist; On the Trail of Parkinson's, Through Yeast Cells</hl1>
+        <hl2 class="online_headline">On the Trail of Parkinson's, Through Yeast Cells</hl2>
+      </hedline>
+      <byline class="print_byline">By CLAUDIA DREIFUS</byline>
+      <byline class="normalized_byline">Dreifus, Claudia</byline>
+      <dateline>CAMBRIDGE, Mass.</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Short of a Nobel Prize, there are few scientific honors that the biologist Susan L. Lindquist has not won.</p>
+        <p>Among other accolades, she is a Howard Hughes Medical Investigator, a member of the National Academies of Science and the American Academy of Arts and Sciences, and the 2006 recipient of the Sigma Xi William Procter Prize for Scientific Achievement.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Susan L. Lindquist performs imaginative research into how proteins function that reveals clues to how diseases like Parkinson's and Alzheimer's develop.</p>
+      </block>
+      <block class="full_text">
+        <p>Short of a Nobel Prize, there are few scientific honors that the biologist Susan L. Lindquist has not won.</p>
+        <p>Among other accolades, she is a Howard Hughes Medical Investigator, a member of the National Academies of Science and the American Academy of Arts and Sciences, and the 2006 recipient of the Sigma Xi William Procter Prize for Scientific Achievement.</p>
+        <p>It has all come her way because of her imaginative research into how proteins function. Dr. Lindquist, the former director of the Whitehead Institute for Biomedical Research at the Massachusetts Institute of Technology, studies how molecular proteins change shape in cell division. The process, called protein folding, can-- when it goes wrong -- lead to diseases like Alzheimer's and Parkinson's.</p>
+        <p>Last June, Dr. Lindquist and a group of colleagues published a paper in the journal Science reporting new clues about how Parkinson's develops and how it might be treated.</p>
+        <p>''Afterward, we received many calls here from people with Parkinson's,'' she recalled in her office at M.I.T.</p>
+        <p>''It was heartbreaking,'' said Dr. Lindquist, 57, who is a founder of FoldRx Pharmaceuticals, a startup biotechnology company seeking to develop drugs to fight Parkinson's. ''We are still many, many years away from a drug. I hated telling people that.''</p>
+        <p>Q. Your research specialty is a cellular function called protein folding. What exactly is that?</p>
+        <p>A. The DNA that is within every cell has the task of coding the proteins that carry out a cell's activities. DNA is made up of the long molecular strings, sort of like a cassette tape containing the code for a symphony. When that tape, the DNA, is plugged into the cell, it instructs the proteins in how to carry out their different functions.</p>
+        <p>But these proteins, which begin as long strings, have to fold into very specific shapes to do their job. Cells are crowded places, and millions of proteins have to fold into them perfectly. If a protein doesn't fold up just right, terrible things can happen.</p>
+        <p>Cystic fibrosis -- that's a loss of function disease caused by a protein not folding correctly. Parkinson's, Alzheimer's, Huntington's disease and some types of cancers are diseases of protein misfolding. With them, the misfolded proteins accumulate inside the cell, interact with things they shouldn't and send off the wrong chemical signals. That's what I've been studying lately.</p>
+        <p>Q. Have you found a key to Parkinson's disease?</p>
+        <p>A. I think we found a pathway, rather than a key.</p>
+        <p>We had this idea. We took the gene from a human brain cell that was malfunctioning and was thought to be a cause of Parkinson's. We inserted it into a yeast cell. The yeast died. Next, we did a very broad genetic analysis and asked, ''Which genes can save that cell from the Parkinson's protein?'' We took 5,000 different genes and we tested them one by one. From that, we found several genes, and one that is particularly strong, that express a protein that can save yeast cells from the Parkinson's gene.</p>
+        <p>To take the experiment further, we collaborated with some other labs. Together, we took this gene and put it into the brains of nematodes that were engineered to express a human Parkinson's gene. Sure enough, it saved their neurons from dying. We tried the same thing with fruit flies and then with rat embryonic neurons. The anti-Parkinson's gene saved them, too. Later, we screened through some 150,000 chemical compounds to see if we could find a substance that saved yeast from Parkinson's. And we did.</p>
+        <p>Q. Why start your experiment with yeast, of all things?</p>
+        <p>A. (Laughs) I know. Even people in my laboratory thought we were crazy to try to study neurodegenerative diseases with a yeast cell. It's not a neuron. But I thought we might be looking at a very general problem in the way proteins were being managed in a cell. And yeasts are easy to study because they are such simple cells.</p>
+        <p>As biology has moved forward, we've come to realize that the same rules apply to all living things. If there's a defect in basic cell biology, it might be shared by other cells. So we can learn a lot about complicated organisms from studying very simple cells like yeast.</p>
+        <p>Q. Did always you want to be a biologist?</p>
+        <p>A. When I was young, I thought I'd become a nurse or a social worker. Those were the jobs open to women. In college in the late 1960s, there was a lot of hard-core prejudice against women doing science. That's still somewhat true, though the prejudicial attitudes are more submerged now. Today, about 50 percent of the graduate biology students at the prestigious institutions are female. Yet, only 10 to 15 percent of the professors are.</p>
+        <p>When I was young, it didn't seem like the world was open to me. When I got to graduate school, Harvard, there were 1 or 2 women professors among the 65 in the biological sciences department. You could not look at that and think you had a chance.</p>
+        <p>Sometimes, the bias freed me to take risks. Once early in my career, I wanted to change my research focus from fruit flies to yeast. As you can see, I've long been interested in exploiting the special properties of yeast. Someone very senior advised me: ''Don't change your specialty. You'll never get tenure.'' Well, I didn't think I was going to get tenure anyway. So I made the switch. It led to a big leap in my research.</p>
+        <p>Q. Lawrence Summers, in his notorious speech, suggested that female scientists might be hindered in their careers because of motherhood. As the mother of two, would you agree?</p>
+        <p>A. Oh, having children is a lot of work. But one's circuits are also recharged by them. I do believe that coming home to them, watching them grow, has helped my science. Kids change your thought patterns around. That's good for your brain.</p>
+        <p>Q. You give lectures to younger women scientists about career building. What do you advise?</p>
+        <p>A. I talk about the personal aspects. I tell them if they want to have a family, they'd better pick a partner who's going to support their work.</p>
+        <p>Another thing, they have to make mindful financial choices.</p>
+        <p>For example, when I had my two children, I was at the University of Chicago. I saw how a lot of my female colleagues, as soon as they got tenure, bought houses in the suburbs, which ate up their money and spare time. My husband and I stayed in our Hyde Park apartment, which was near the lab. We used my salary to hire a really good nanny. I always put my resources into things that kept me from falling apart and helped my kids.</p>
+        <p>Q. How did you find a supportive life partner?</p>
+        <p>A. I put a lot of careful thought into this. I had an earlier marriage which didn't work out. When I started dating again, I knew I wanted children. So I consciously looked for a man who'd be a great partner for that.</p>
+        <p>I tried blind dates, I went to parties I had no interest in. Eventually, I met my husband at a party that some students gave for their favorite professors. He taught medieval French literature. I had wanted a nonscientist. I have a lot of nonscientific interests and I wanted my partner to be someone who brought different intellectual content to my life.</p>
+        <p>Q. Is this an exciting time to be a biologist?</p>
+        <p>A. Unbelievable. I have to tell you that the sheer intellectual joy of finding out how life works is really cool. This is the greatest intellectual revolution, and it is happening right now, and I'm lucky enough to be in the middle of it.</p>
+        <p>Expert Voices</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

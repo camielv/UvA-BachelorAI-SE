@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Manhattan: Cultural Development Studied For Ground Zero</title>
+    <meta content="17mbrfs-7" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/17/nyregion/17mbrfs-ZERO.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1841061"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="New York"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Area Planning and Renewal</classifier>
+        <location class="indexing_service">New York City</location>
+        <location class="indexing_service">New York State</location>
+        <org class="indexing_service">Joyce Theater (NYC)</org>
+        <org class="indexing_service">Signature Theater Co (NYC)</org>
+        <person class="indexing_service">Pogrebin, Robin</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features/Companies and Organizations</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features/Companies and Organizations/Signature Theater Co</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Construction and Maintenance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">World Trade Center (NYC)</classifier>
+        <classifier class="online_producer" type="descriptor">Building (Construction)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Building (Construction)</classifier>
+        <classifier class="online_producer" type="general_descriptor">World Trade Center (NYC)</classifier>
+        <classifier class="online_producer" type="general_descriptor">World Trade Center (NYC)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Area Planning and Renewal</classifier>
+        <classifier class="online_producer" type="general_descriptor">Office Buildings and Commercial Properties</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+        <org class="online_producer">Signature Theater Co</org>
+        <org class="online_producer">Joyce Theater</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070417T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9401EFD7113FF934A25757C0A9619C8B63" item-length="115" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Manhattan: Cultural Development Studied For Ground Zero</hl1>
+        <hl2 class="online_headline">Manhattan: Cultural Development Studied for Ground Zero</hl2>
+      </hedline>
+      <byline class="print_byline">By ROBIN POGREBIN; Compiled by John Sullivan</byline>
+      <byline class="normalized_byline">Pogrebin, Robin</byline>
+      <abstract>
+        <p>New York City officials pledge to work with state, Signature Theater and Joyce Theater to produce feasibility study in eight weeks on cultural development at ground zero; hope to have better sense of artistic programming, construction costs and timetable; Joyce will be sole occupant of performing center; Signature Theater was to share space but is considering move to nearby hall (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>City officials pledged at a City Council hearing yesterday to work with the state, the Signature Theater and the Joyce Theater to produce a feasibility study in eight weeks on cultural development at ground zero. The cultural affairs commissioner, Kate D. Levin, said she hoped to have a better sense of the artistic programming, construction costs and a timetable in the next two months. The Joyce, which presents dance, will be the sole occupant of a performing arts center at the ground zero site; the Signature Theater was supposed to share the center, but is considering a move into nearby Fiterman Hall because sharing seems too complicated.</p>
+        <p>ROBIN POGREBIN</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>City officials pledged at a City Council hearing yesterday to work with the state, the Signature Theater and the Joyce Theater to produce a feasibility study in eight weeks on cultural development at ground zero. The cultural affairs commissioner, Kate D. Levin, said she hoped to have a better sense of the artistic programming, construction costs and a timetable in the next two months. The Joyce, which presents dance, will be the sole occupant of a performing arts center at the ground zero site; the Signature Theater was supposed to share the center, but is considering a move into nearby Fiterman Hall because sharing seems too complicated.</p>
+      </block>
+      <block class="full_text">
+        <p>City officials pledged at a City Council hearing yesterday to work with the state, the Signature Theater and the Joyce Theater to produce a feasibility study in eight weeks on cultural development at ground zero. The cultural affairs commissioner, Kate D. Levin, said she hoped to have a better sense of the artistic programming, construction costs and a timetable in the next two months. The Joyce, which presents dance, will be the sole occupant of a performing arts center at the ground zero site; the Signature Theater was supposed to share the center, but is considering a move into nearby Fiterman Hall because sharing seems too complicated.</p>
+        <p>ROBIN POGREBIN</p>
+        <p>New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

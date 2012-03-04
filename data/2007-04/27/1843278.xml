@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Art in Review; Kathy Butterly</title>
+    <meta content="27gall-5" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="28" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1843278"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070427T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E6DD123EF934A15757C0A9619C8B63" item-length="269" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Art in Review; Kathy Butterly</hl1>
+      </hedline>
+      <byline class="print_byline">By ROBERTA SMITH</byline>
+      <byline class="normalized_byline">Smith, Roberta</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Between a Rock and a Soft Place  Tibor de Nagy  724 Fifth Avenue, at 57th Street  Through May 19</p>
+        <p>The title of the 10th New York gallery show of Kathy Butterly, the immensely talented and original ceramic sculptor, announces a problem borne out by its contents. Wonderful as they are, her latest efforts seem suspended between the rock of genuine risk and the soft place of tried-and-true success. They are too much like their predecessors: radiantly colored, exquisitely detailed, suggestively deflated, discreetly lascivious and rife with decorative, corporeal and stylistic asides.</p>
+      </block>
+      <block class="full_text">
+        <p>Between a Rock and a Soft Place  Tibor de Nagy  724 Fifth Avenue, at 57th Street  Through May 19</p>
+        <p>The title of the 10th New York gallery show of Kathy Butterly, the immensely talented and original ceramic sculptor, announces a problem borne out by its contents. Wonderful as they are, her latest efforts seem suspended between the rock of genuine risk and the soft place of tried-and-true success. They are too much like their predecessors: radiantly colored, exquisitely detailed, suggestively deflated, discreetly lascivious and rife with decorative, corporeal and stylistic asides.</p>
+        <p>While not quite up to the level of her previous shows, this one may thrill first-time viewers. For long-term observers, however, it indicates that it is time for Ms. Butterly to turn the page and try something completely different.</p>
+        <p>She may be trying. All the pieces are larger than her past work and several are more pared down, which emphasizes their collapsed, sculptural volumes. Unexpected twists, turns and apertures also encourage a degree of in-the-round perusal unusual for works that are still no more than nine inches high.</p>
+        <p>But in busier pieces the details seem off and hokey, especially in the handlike forms of ''Grabber'' and the ruffled parts of ''More Plenty'' and the tellingly titled ''Mesmerchandize.'' A new note is struck only by the elaborate ''Blue Crawl,'' with its extravagantly crackled blue-brown glaze and piled, sometimes oozing forms strapped on top.</p>
+        <p>Ms. Butterly, however, needs an entirely new song. The shifts and about-faces of Ken Price's extraordinary career in ceramics are the precedent. Maybe straight edges and corners are worth trying.</p>
+        <p>ROBERTA SMITH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

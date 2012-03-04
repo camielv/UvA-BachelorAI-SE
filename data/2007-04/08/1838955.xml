@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Nassau to Transfer 9 Parks And 12 Roads to Town</title>
+    <meta content="08liweekLI-3" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Long Island Weekly Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="14LI" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838955"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE WEEK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Parks and Other Recreation Areas</classifier>
+        <classifier class="indexing_service" type="descriptor">Roads and Traffic</classifier>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <location class="indexing_service">Nassau County (NY)</location>
+        <location class="indexing_service">North Hempstead (NY)</location>
+        <person class="indexing_service">Saslow, Linda</person>
+        <person class="indexing_service">Suozzi, Thomas R (County Exec)</person>
+        <person class="indexing_service">Kaiman, Jon</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Long Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Leisure</classifier>
+        <classifier class="online_producer" type="general_descriptor">Parks and Other Recreation Areas</classifier>
+        <classifier class="online_producer" type="general_descriptor">Roads and Traffic</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070408T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402E2DB143FF93BA35757C0A9619C8B63" item-length="319" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Nassau to Transfer 9 Parks And 12 Roads to Town</hl1>
+      </hedline>
+      <byline class="print_byline">By LINDA SASLOW</byline>
+      <byline class="normalized_byline">Saslow, Linda</byline>
+      <abstract>
+        <p>Nassau County Executive Thomas Suozzi and Town Supervisor Jon Kaiman announce plan to transfer 9 parks and 12 roads from county to North Hempstead, NY; county will pay town $3 million to take over properties and assume all repairs and maintenance (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In a move that government officials call economical, logical and mutually beneficial, the Town of North Hempstead will acquire 9 parks and 12 roads from Nassau County.</p>
+        <p>County Executive Thomas R. Suozzi and Town Supervisor Jon Kaiman announced a plan on March 29 to transfer 230 acres and 26 miles of roads from the county to the town.</p>
+      </block>
+      <block class="full_text">
+        <p>In a move that government officials call economical, logical and mutually beneficial, the Town of North Hempstead will acquire 9 parks and 12 roads from Nassau County.</p>
+        <p>County Executive Thomas R. Suozzi and Town Supervisor Jon Kaiman announced a plan on March 29 to transfer 230 acres and 26 miles of roads from the county to the town.</p>
+        <p>If it is approved by the County and State Legislatures, the county will pay the town $3 million to take over the properties and to assume all repairs and maintenance, effective in September. The money is expected to cover the costs of equipment and extra crews needed by the town.</p>
+        <p>The action will save county taxpayers millions of dollars in road and park maintenance expenses, Mr. Suozzi said. Although he said he could not predict the annual savings, he said that by no longer resurfacing the 12 roads, the county would save $1.7 million in capital funds.</p>
+        <p>The transfer will give the town more control of local parks and roads.</p>
+        <p>''We are in need of additional recreational space for ball fields and other uses, and to acquire more land would be very expensive,'' Mr. Kaiman said. ''Taking over county land that is now underutilized makes perfect sense.''</p>
+        <p>He cited Bar Beach, a town beach that is separated from Hempstead Harbor, a county property, by only a fence. ''Since the beaches are used mostly by residents of the Town of North Hempstead, we will be able to take down the fence and use the entire area more effectively,'' Mr. Kaiman said.</p>
+        <p>The other largest parks planned for transfer are Manhasset Valley and Whitney Pond, both in Manhasset.</p>
+        <p>Among the roads to be transferred are Plandome Road in Manhasset and Main Street in Port Washington.</p>
+        <p>''Since we're responsible for the sidewalks and the curbs, we might as well be responsible for the roads as well,'' Mr. Kaiman said.</p>
+        <p>LINDA SASLOW</p>
+        <p>THE WEEK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

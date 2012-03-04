@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; Cooper-Hewitt Selects An Architect</title>
+    <meta content="14arts-3" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1840117"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070414T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9902E0DE103FF937A25757C0A9619C8B63" item-length="154" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; Cooper-Hewitt Selects An Architect</hl1>
+      </hedline>
+      <byline class="print_byline">By ROBIN POGREBINCompiled by Peter Edidin</byline>
+      <byline class="normalized_byline">Pogrebin, Robin</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Cooper-Hewitt National Design Museum has chosen Richard Gluckman as the architect for its renovation and has raised $21.5 million toward the project, the museum's director said yesterday. The renovation is part of a $43 million capital campaign to double the museum's exhibition space, expand the permanent collection, enhance education programs and increase the endowment. Construction is expected to start toward the end of the year. The Cooper-Hewitt also announced the appointment of Cara McCarty as the museum's new curatorial director. Ms. McCarty, who will start on July 10, is the curator of decorative arts and design at the St. Louis Art Museum. Mr. Gluckman's firm, Gluckman Mayner Architects, designed the Andy Warhol Museum in Pittsburgh; the new Museum of Contemporary Art, San Diego; and the Perelman Building of the Philadelphia Museum of Art. The Beyer Blinder Belle firm will be the executive architect on the project.</p>
+        <p>ROBIN POGREBIN</p>
+      </block>
+      <block class="full_text">
+        <p>The Cooper-Hewitt National Design Museum has chosen Richard Gluckman as the architect for its renovation and has raised $21.5 million toward the project, the museum's director said yesterday. The renovation is part of a $43 million capital campaign to double the museum's exhibition space, expand the permanent collection, enhance education programs and increase the endowment. Construction is expected to start toward the end of the year. The Cooper-Hewitt also announced the appointment of Cara McCarty as the museum's new curatorial director. Ms. McCarty, who will start on July 10, is the curator of decorative arts and design at the St. Louis Art Museum. Mr. Gluckman's firm, Gluckman Mayner Architects, designed the Andy Warhol Museum in Pittsburgh; the new Museum of Contemporary Art, San Diego; and the Perelman Building of the Philadelphia Museum of Art. The Beyer Blinder Belle firm will be the executive architect on the project.</p>
+        <p>ROBIN POGREBIN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

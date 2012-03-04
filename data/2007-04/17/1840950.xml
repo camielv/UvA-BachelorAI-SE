@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Starting to Address the Big Questions</title>
+    <meta content="17pissues" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="25" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1840950"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="HEADING TOWARD 2008: ISSUES"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070417T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F06E5D9113FF934A25757C0A9619C8B63" item-length="150" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Starting to Address the Big Questions</hl1>
+      </hedline>
+      <byline class="print_byline">By ADAM NAGOURNEY</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>For those who crave a little substance -- impatient with the often who's-up, who's-down nature of the presidential campaign -- the time has come. These days, it is hard to take a step without bumping into a candidate delivering a major policy address and seeking to establish credentials on the big issues. Senator John McCain, Republican of Arizona, talked yesterday in Memphis about his economic policies. A speech by Senator Hillary Rodham Clinton, Democrat of New York, on ''women and leadership'' at Rutgers was postponed because of the weather. Senator Barack Obama, Democrat of Illinois, is speaking about foreign policy today in Chicago, and former Gov. Mitt Romney of Massachusetts will deliver what he bills as a major address tomorrow in Washington. His campaign is keeping the topic a secret. And if it's Thursday, it must be Senator Christopher J. Dodd, Democrat of Connecticut, talking about energy.</p>
+        <p>ADAM NAGOURNEY</p>
+      </block>
+      <block class="full_text">
+        <p>For those who crave a little substance -- impatient with the often who's-up, who's-down nature of the presidential campaign -- the time has come. These days, it is hard to take a step without bumping into a candidate delivering a major policy address and seeking to establish credentials on the big issues. Senator John McCain, Republican of Arizona, talked yesterday in Memphis about his economic policies. A speech by Senator Hillary Rodham Clinton, Democrat of New York, on ''women and leadership'' at Rutgers was postponed because of the weather. Senator Barack Obama, Democrat of Illinois, is speaking about foreign policy today in Chicago, and former Gov. Mitt Romney of Massachusetts will deliver what he bills as a major address tomorrow in Washington. His campaign is keeping the topic a secret. And if it's Thursday, it must be Senator Christopher J. Dodd, Democrat of Connecticut, talking about energy.</p>
+        <p>ADAM NAGOURNEY</p>
+        <p>HEADING TOWARD 2008: ISSUES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

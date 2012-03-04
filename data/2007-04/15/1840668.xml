@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Walter Reed Story</title>
+    <meta content="15pubedlets-2" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1840668"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="LETTERS TO THE PUBLIC EDITOR"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/The Public Editor/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Veterans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hospitals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07E5D8103FF936A25757C0A9619C8B63" item-length="347" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Walter Reed Story</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Re ''Reporting the News Even When a Competitor Gets There First'' (March 11):</p>
+        <p>You write: ''The reality is that when significant news breaks -- even in the form of an exclusive in a competing publication -- The Times must be committed to getting on the story. Anything less seriously damages the paper's value to readers.''</p>
+      </block>
+      <block class="full_text">
+        <p>Re ''Reporting the News Even When a Competitor Gets There First'' (March 11):</p>
+        <p>You write: ''The reality is that when significant news breaks -- even in the form of an exclusive in a competing publication -- The Times must be committed to getting on the story. Anything less seriously damages the paper's value to readers.''</p>
+        <p>You may be a little too hard on The Times. After all, the Walter Reed Army Medical Center story took place on The Washington Post's home turf.</p>
+        <p>The angle that Times reporters could work on would be why, in the past four years, Congressional oversight committees hadn't looked into the matter. It was on Congress's home turf, too, and the senators and representatives must have received mail from constituents. I know that my Democratic congressman was fighting to keep the White House from cutting the budget dealing with veterans' care.</p>
+        <p>JOHN EASTLUND  Bryan, Tex., March 18, 2007</p>
+        <p>The desire to break news first is understandable. But those who read the papers, both in print and on the Web, often do not have the time or the inclination to know who printed a story first. Journalists cheapen the view of their profession by concentrating so much on what is invisible to the public. Rather than emphasizing who gets information first, they would serve their readers better by competing for who covers it best.</p>
+        <p>JOE RUSSO  Ridgewood, N.J., March 11, 2007</p>
+        <p>After nearly 40 years in journalism, I agree that neither journalists nor their organizations like to have to match a competitor's story. And yes, pride is primarily the reason.</p>
+        <p>But those who think this way should realize that by failing to take the matter up, they often help take a misbehaving public figure off the hook of impropriety, as one of the first considerations of the spinmeisters to whom a politician or businessman turns for advice is whether a story has so-called legs. If they feel it does not, their advice will be to not respond in any substantive way.</p>
+        <p>JAMES RUSK  Toronto, March 14, 2007</p>
+        <p>LETTERS TO THE PUBLIC EDITOR</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

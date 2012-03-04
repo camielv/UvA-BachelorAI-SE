@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Cortney Konner, Jamison Weinbaum</title>
+    <meta content="22konner" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/22/fashion/weddings/22konner.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842151"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Konner, Cortney Lee (Cortney Lee Weinbaum)</person>
+        <person class="indexing_service">Weinbaum, Jamison</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE0DF163EF931A15757C0A9619C8B63" item-length="117" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Cortney Konner, Jamison Weinbaum</hl1>
+        <hl2 class="online_headline">Cortney Konner, Jamison Weinbaum</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Cortney Lee Konner, a daughter of Randi Konner of New York and Jeffrey Konner of Fort Lee, N.J., was married last evening to Jamison Weinbaum, the son of Judith Robbins DiPierro of Ossining, N.Y., and George Weinbaum of Greenwich, Conn. Cantor Ilan Mamber officiated at the Grand Hyatt New York.</p>
+        <p>Mrs. Weinbaum, 25, is a consultant in Washington for Toffler Associates, which advises businesses and government agencies. She graduated from the University of Michigan. The bride is a stepdaughter of Barry Kirsch.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Cortney Lee Konner, a daughter of Randi Konner of New York and Jeffrey Konner of Fort Lee, N.J., was married last evening to Jamison Weinbaum, the son of Judith Robbins DiPierro of Ossining, N.Y., and George Weinbaum of Greenwich, Conn. Cantor Ilan Mamber officiated at the Grand Hyatt New York.</p>
+      </block>
+      <block class="full_text">
+        <p>Cortney Lee Konner, a daughter of Randi Konner of New York and Jeffrey Konner of Fort Lee, N.J., was married last evening to Jamison Weinbaum, the son of Judith Robbins DiPierro of Ossining, N.Y., and George Weinbaum of Greenwich, Conn. Cantor Ilan Mamber officiated at the Grand Hyatt New York.</p>
+        <p>Mrs. Weinbaum, 25, is a consultant in Washington for Toffler Associates, which advises businesses and government agencies. She graduated from the University of Michigan. The bride is a stepdaughter of Barry Kirsch.</p>
+        <p>Mr. Weinbaum, 30, is an associate at Seyfarth Shaw, a law firm in Washington. He graduated from Wake Forest and received his law degree from George Washington. The bridegroom is the stepson of John DiPierro.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

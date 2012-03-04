@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Disability Assistance For the Homeless</title>
+    <meta content="l08city-2" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="14" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838837"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Homeless Persons</classifier>
+        <classifier class="indexing_service" type="descriptor">Disability Insurance</classifier>
+        <classifier class="indexing_service" type="descriptor">Social Security (US)</classifier>
+        <org class="indexing_service">Social Security Administration</org>
+        <person class="indexing_service">Herr, Carl</person>
+        <person class="indexing_service">Garbiras, Patrick</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Homeless Persons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Social Security (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070408T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B06E4D6173FF93BA35757C0A9619C8B63" item-length="119" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Disability Assistance For the Homeless</hl1>
+      </hedline>
+      <abstract>
+        <p>Center for Independence of the Disabled peer advocate Carl Herr letter on April 1 article about homeless man Patrick Garbiras and his difficulty in trying to receive disability assistance</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Patrick Garbiras, the homeless man profiled in ''Marking Time, Making Do'' (April 1), may be in a desperate situation, but he is not without hope. There are agencies that can assist him with his Social Security issues.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Patrick Garbiras, the homeless man profiled in ''Marking Time, Making Do'' (April 1), may be in a desperate situation, but he is not without hope. There are agencies that can assist him with his Social Security issues.</p>
+        <p>Independent living centers, which exist in every borough, can provide representation for Social Security hearings free of charge and assist with a wide variety of disability-related issues, from coordinating with housing and vocational issues to all manner of benefits issues. I would strongly urge that Mr. Garbiras contact his local independent living center for these services.</p>
+        <p>Carl Herr  Flushing, Queens</p>
+        <p>The writer is a peer advocate, Center for Independence of the Disabled, New York-Queens.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

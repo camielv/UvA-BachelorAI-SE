@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Spirit of Ol' Ez</title>
+    <meta content="Letters.t-2" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1839014"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Poetry and Poets</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070408T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9900E1D71130F93BA35757C0A9619C8B63" item-length="187" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Spirit of Ol' Ez</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Both David Orr's apt critique of The New Yorker (''Annals of Poetry,'' March 11) and Dana Goodyear's excellent New Yorker article about Poetry magazine would have us believe that the battle for poetry's survival is being waged in the pages of magazines with, respectively, millions of subscribers or millions of dollars in Eli Lilly stock. This is not true. With few exceptions, the best contemporary poetry is being published by hundreds of small presses and little magazines across the country. To name just a few: Ugly Duckling Presse and Circumference in New York, Flood Editions and LVNG in Chicago, and Atelos and Hambone in the Bay Area. Readers who explore these venues will find that poetry is alive and well. Indeed, they'll find the spirit (and the financial uncertainty) of Ezra Pound's collaboration with Poetry magazine's founder, Harriet Monroe.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Both David Orr's apt critique of The New Yorker (''Annals of Poetry,'' March 11) and Dana Goodyear's excellent New Yorker article about Poetry magazine would have us believe that the battle for poetry's survival is being waged in the pages of magazines with, respectively, millions of subscribers or millions of dollars in Eli Lilly stock. This is not true. With few exceptions, the best contemporary poetry is being published by hundreds of small presses and little magazines across the country. To name just a few: Ugly Duckling Presse and Circumference in New York, Flood Editions and LVNG in Chicago, and Atelos and Hambone in the Bay Area. Readers who explore these venues will find that poetry is alive and well. Indeed, they'll find the spirit (and the financial uncertainty) of Ezra Pound's collaboration with Poetry magazine's founder, Harriet Monroe.</p>
+        <p>Joshua Kotin  Chicago</p>
+        <p>The writer edits Chicago Review.</p>
+        <p>To the Editor:</p>
+        <p>David Orr attributes the disparagement of Amy Lowell as a ''hippopoetess'' to Ezra Pound. The original quote belongs to Witter Bynner, although Pound often repeated it.</p>
+        <p>Jason Powers  Chicago</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

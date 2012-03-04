@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sun and I.B.M. to Offer New Class of High-End Servers</title>
+    <meta content="26compute" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/26/technology/26compute.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1843073"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/John Markoff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Recordings and Downloads (Video)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <org class="online_producer">Sun Microsystems Inc</org>
+        <org class="online_producer">International Business Machines Corp</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070426T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D01E0DC153EF935A15757C0A9619C8B63" item-length="938" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sun and I.B.M. to Offer New Class of High-End Servers</hl1>
+        <hl2 class="online_headline">Sun and I.B.M. to Offer New Class of High-End Servers</hl2>
+      </hedline>
+      <byline class="print_byline">By JOHN MARKOFF</byline>
+      <byline class="normalized_byline">Markoff, John</byline>
+      <dateline>SAN FRANCISCO, April 25</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Sun Microsystems and I.B.M. plan to introduce specialized high-end server systems on Thursday that provide fresh evidence of a new era in computing.</p>
+        <p>The Sun machine -- an ultra-fast video server designed by the company's co-founder, Andreas Bechtolsheim -- is potentially powerful enough to transmit different standard video streams simultaneously to everyone watching TV in a city the size of New York.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The companies plan to introduce specialized high-end server systems that provide fresh evidence of a new era in computing.</p>
+      </block>
+      <block class="full_text">
+        <p>Sun Microsystems and I.B.M. plan to introduce specialized high-end server systems on Thursday that provide fresh evidence of a new era in computing.</p>
+        <p>The Sun machine -- an ultra-fast video server designed by the company's co-founder, Andreas Bechtolsheim -- is potentially powerful enough to transmit different standard video streams simultaneously to everyone watching TV in a city the size of New York.</p>
+        <p>In contrast, I.B.M.'s new video game server blends a mainframe computer with the company's Cell microprocessors, which sit at the heart of Sony's PlayStation 3 video-game console. The result is a server system capable of permitting hundreds of thousands of computer users to interact in a three-dimensional simulated on-screen world described as a ''metaverse.''</p>
+        <p>The Sun and I.B.M. machines will be priced at hundreds of thousands or millions of dollars. But their arrival indicates that the modern computing world is changing as computer designers hunt for ways to break out of the era of the ''killer micros.''</p>
+        <p>The development is a reversal of a computing trend that began two decades ago, when engineers and scientists began putting together cheap microprocessors by the hundreds and thousands. Those systems outpaced the processing power of customized supercomputing equipment made by computer designers like Seymour Cray.</p>
+        <p>The new computers also suggest the advent of a more creative approach after a period that computer scientists have described as ''the end of architecture.'' In their view, the industry appeared to have run out of ideas for gaining more processor power and chose instead to use free space on silicon chips to place multiple processors, or cores.</p>
+        <p>Both the I.B.M. and the Sun machines are designed to exploit vast new consumer-oriented computing markets made possible by the global expansion of the high-speed Internet. Emerging Web services increasingly require vast new amounts of centralized computing to support new applications springing up in desktop computers, living-room set-top boxes and wireless mobile personal digital assistants.</p>
+        <p>''It's a new era -- it's the era of application-specific computing,'' said Bernard S. Meyerson, chief technologist of I.B.M.'s Systems and Technology Group. I.B.M. has already quietly introduced its first salvo into the market for such machines, he said. The Cell microprocessor embodies much of the specialized design idea on a single chip, sold at Best Buy prices.</p>
+        <p>Now those principles are coming to the world of high-end computing, he said.</p>
+        <p>''We introduced the concept of hybrid computing,'' he said. ''You admit that one shoe doesn't fit all people. Now we're saying there will be special shoes.''</p>
+        <p>Some designers feel the new machines may provide only one of several models for the next wave of computers. Google, for example, has built its data empire out of a sea of cheap microprocessor-based systems on a once unimaginable scale. Its computing prowess has now reached several million processors, according to one person with detailed knowledge of the system.</p>
+        <p>David Patterson, a computer scientist at the University of California, Berkeley, said he did not feel that the simple lashing together of more and more microprocessors had run its course. But he did say that ''if the future of computing is the data center and the consumer gadget'' -- rather than on the desktop, for example -- then I.B.M. and Sun's machines could be the wave of the future.</p>
+        <p>I.B.M. said its new video game server, which it is calling a ''gameframe,'' is being designed in collaboration with Hoplon Infotainment, a Brazilian game developer interested in creating a software layer it calls a ''bitverse'' to support virtual online worlds.</p>
+        <p>There are already multiplayer games that support hundreds of thousands of simultaneous players, but the I.B.M. system will add an unparalleled level of realism to visual interactions, Mr. Meyerson said.</p>
+        <p>He argued that in addition to gaming applications, this kind of technology could be used to enhance the performance and scalability of existing virtual worlds like Second Life, an Internet-based service that crosses the boundary between online entertainment and workplace collaboration.</p>
+        <p>In contrast to the I.B.M. mainframe gaming machine, the Sun system is intended to offer a new level of performance to the cable and telephone carriers intent on deploying advanced interactive television systems.</p>
+        <p>Mr. Bechtolsheim, who designed the hardware for the first Sun workstation while he was a graduate student at Stanford University in the early 1980s, left the computer maker in 1995 to found Granite Systems, which he later sold to Cisco Systems. Mr. Bechtolsheim, one of the first investors in Google, co-founded Kealia in 2001 with David Cheriton, a Stanford professor who was another early Google investor. In 2004 Sun acquired Kealia, and Mr. Bechtolsheim returned to Sun as a designer.</p>
+        <p>Sun plans to unveil the new system at the TriBeCa Film Festival, now taking place in New York. The heart of the new system is a specialized computer called the Sun Fire X4950 Streaming Switch. The device is capable of output of up to 320 billion bits of data per second and can be bulked up with two trillion bytes of computer memory, which is used to encode and decode video streams.</p>
+        <p>Content is stored on specialized server computers that can each hold up to 24 terabytes of data, enough storage capacity to hold up to 9,400 hours of non-HDTV digital video content.</p>
+        <p>Sun executives said they thought the system would be attractive to cable and telephone companies because it makes it possible for carriers to insert individualized advertisements into digital streams of video going to homes. That capability could change the nature of television advertising, making it both more targeted and more profitable.</p>
+        <p>''This is about entertainment,'' Mr. Bechtolsheim said. ''The real issue is that it only works when you have significant volume.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Part Timers' Full-Time Polish</title>
+    <meta content="21rive" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/21/arts/music/21rive.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1841720"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MUSIC REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews/Classical</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="descriptor">Music</classifier>
+        <classifier class="online_producer" type="descriptor">Classical Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Classical Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <org class="online_producer">Riverside Symphony</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070421T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0DE5DC163EF932A15757C0A9619C8B63" item-length="342" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Part Timers' Full-Time Polish</hl1>
+        <hl2 class="online_headline">Part Timers’ Full-Time Polish</hl2>
+      </hedline>
+      <byline class="print_byline">By ALLAN KOZINN</byline>
+      <byline class="normalized_byline">Kozinn, Allan</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Riverside Symphony's performance at Alice Tully Hall on Wednesday evening showed yet again how superb New York's pool of freelance musicians can be. The orchestra, as such, plays only a few programs every year, and this was its final concert this season. But its musicians work together in other orchestras, chamber groups and new-music ensembles, and when the music engages them, they produce a tightly focused, fully polished sound that is as good as you'll hear from many full-time orchestras.</p>
+        <p>George Rothman, the ensemble's music director, opened the program with Haydn's Piano Concerto in D (Hob. XVIII:11), with Christopher Taylor as the soloist. Mr. Taylor is more typically heard in heavier repertory, from Liszt to Messiaen and Pierre Boulez, and this concerto seemed easy work for him. In the fast outer movements, especially, the solo line was clean, bright and crisply articulated, and it danced off the page.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Riverside Symphony’s performance at Alice Tully Hall on Wednesday evening showed yet again how superb New York’s pool of freelance musicians can be.</p>
+      </block>
+      <block class="full_text">
+        <p>The Riverside Symphony's performance at Alice Tully Hall on Wednesday evening showed yet again how superb New York's pool of freelance musicians can be. The orchestra, as such, plays only a few programs every year, and this was its final concert this season. But its musicians work together in other orchestras, chamber groups and new-music ensembles, and when the music engages them, they produce a tightly focused, fully polished sound that is as good as you'll hear from many full-time orchestras.</p>
+        <p>George Rothman, the ensemble's music director, opened the program with Haydn's Piano Concerto in D (Hob. XVIII:11), with Christopher Taylor as the soloist. Mr. Taylor is more typically heard in heavier repertory, from Liszt to Messiaen and Pierre Boulez, and this concerto seemed easy work for him. In the fast outer movements, especially, the solo line was clean, bright and crisply articulated, and it danced off the page.</p>
+        <p>Mr. Rothman's players mirrored those qualities, surrounding the piano with a trim string tone and much the same energy as Mr. Taylor provided.</p>
+        <p>The orchestra also gave Sibelius's Fifth Symphony a vivid reading. Though most striking for Mr. Rothman's flexible tempos, it featured fleet, precise string and woodwind playing, and brass work that, after a few unsteady moments at the start, proved solid and richly textured.</p>
+        <p>Between the Haydn and the Sibelius, Mr. Rothman led the premiere of the Symphony No. 3 by Anthony Korf, the orchestra's artistic director. In a lengthy, reflective program note, Mr. Korf wrote that he had been inspired partly by a nostalgia evoked by old photographs of his farmhouse in the Hudson Valley.</p>
+        <p>That longing for a simpler time seems to have tempered Mr. Korf's style, which in the past has yielded works with a harder, more dissonant edge. Here his writing is firmly structured but unabashedly Romantic. The string writing, lush and shimmering, only occasionally veers toward gentle angularity. And solo woodwind and brass passages crop up everywhere, all essentially lyrical and some soaring. Accessibility is turning up in the oddest places these days.</p>
+        <p>MUSIC REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Meredith Evans, Matthew Raiford</title>
+    <meta content="01evans" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/01/fashion/weddings/01evans.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837254"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Evans, Meredith R. (Meredith R. Raiford)</person>
+        <person class="indexing_service">Raiford, Matthew L.</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9502EEDE1130F932A35757C0A9619C8B63" item-length="246" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Meredith Evans, Matthew Raiford</hl1>
+        <hl2 class="online_headline">Meredith Evans, Matthew Raiford</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Meredith R. Evans and Matthew L. Raiford were married yesterday  in Atlanta. The Rev. Timothy McDonald III performed the ceremony at the First Iconium Baptist Church, with the Rev. Chauncey Newsome, also a Baptist minister, taking part.</p>
+        <p>The bride, 35, is a curator at the Robert W. Woodruff Library in the Atlanta University Center. She received a Ph.D. in library science from the University of North Carolina and holds two master's degrees, one in library service from Clark Atlanta University and another in public history from North Carolina State University. She also received her undergraduate degree from Clark Atlanta.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Meredith R. Evans and Matthew L. Raiford were married yesterday in Atlanta. The Rev. Timothy McDonald III performed the ceremony at the First Iconium Baptist Church, with the Rev. Chauncey Newsome, also a Baptist minister, taking part.</p>
+      </block>
+      <block class="full_text">
+        <p>Meredith R. Evans and Matthew L. Raiford were married yesterday  in Atlanta. The Rev. Timothy McDonald III performed the ceremony at the First Iconium Baptist Church, with the Rev. Chauncey Newsome, also a Baptist minister, taking part.</p>
+        <p>The bride, 35, is a curator at the Robert W. Woodruff Library in the Atlanta University Center. She received a Ph.D. in library science from the University of North Carolina and holds two master's degrees, one in library service from Clark Atlanta University and another in public history from North Carolina State University. She also received her undergraduate degree from Clark Atlanta.</p>
+        <p>She is a daughter of Rochelle W. Evans of New York and the late Melvin E. Evans, who lived in Sugar Land, Tex. Her mother, who is retired, worked in New York as the director of human resources at the Times Mirror Company's Eastern region corporate office. The bride's father was a vice president for marketing at Shell Oil in Houston.</p>
+        <p>The bridegroom, 39, is the executive chef and an owner of Satin &amp; Savory, a catering company in Atlanta. He graduated from the Culinary Institute of America in Hyde Park, N.Y. From 1985 to 1995 he served in the Army, reaching the rank of sergeant.</p>
+        <p>He is the son of Affie B. Holmes of Crescent, Ga., and Ulious L. Raiford of Brunswick, Ga. His mother is a seamstress in Crescent. His father retired as a baker in Brunswick.</p>
+        <p>The bridegroom's three previous marriages ended in divorce.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

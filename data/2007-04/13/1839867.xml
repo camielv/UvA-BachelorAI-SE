@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Some PBS Stations Plan to Show War Film Uncensored</title>
+    <meta content="13words" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/13/arts/television/13words.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1839867"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="descriptor">Public Television</classifier>
+        <classifier class="online_producer" type="descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">Public Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Censorship</classifier>
+        <classifier class="online_producer" type="general_descriptor">Profanity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+        <org class="online_producer">Public Broadcasting Service</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070413T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE2DE133FF930A25757C0A9619C8B63" item-length="362" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Some PBS Stations Plan to Show War Film Uncensored</hl1>
+        <hl2 class="online_headline">Some PBS Stations Plan to Show War Film Uncensored</hl2>
+      </hedline>
+      <byline class="print_byline">By ELIZABETH JENSEN</byline>
+      <byline class="normalized_byline">Jensen, Elizabeth</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It is language that would not be out of place on cable, but the raw epithets of the battlefield are usually censored by broadcast stations worried about upsetting viewers and running afoul of the Federal Communications Commission. On PBS's broadcast of ''Operation Homecoming: Writing the Wartime Experience'' on Monday, a handful of stations, including WNET in New York, have chosen not to bleep out eight words and not to obscure a few crude images, none of which the stations would normally put on the air.</p>
+        <p>The stations that are showing the film unfiltered, which also include WETA in Washington, WGBH in Boston and WMHT in Albany, will broadcast it at 10 p.m. Eastern time, outside the so-called safe harbor zone of 6 a.m. to 10 p.m., when the F.C.C. has determined there are likely to be children in the audience.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The decision to broadcast “Operation Homecoming” unfiltered comes at a time when many stations have chosen to be overly cautious to avoid tangling with the F.C.C. on indecency issues.</p>
+      </block>
+      <block class="full_text">
+        <p>It is language that would not be out of place on cable, but the raw epithets of the battlefield are usually censored by broadcast stations worried about upsetting viewers and running afoul of the Federal Communications Commission. On PBS's broadcast of ''Operation Homecoming: Writing the Wartime Experience'' on Monday, a handful of stations, including WNET in New York, have chosen not to bleep out eight words and not to obscure a few crude images, none of which the stations would normally put on the air.</p>
+        <p>The stations that are showing the film unfiltered, which also include WETA in Washington, WGBH in Boston and WMHT in Albany, will broadcast it at 10 p.m. Eastern time, outside the so-called safe harbor zone of 6 a.m. to 10 p.m., when the F.C.C. has determined there are likely to be children in the audience.</p>
+        <p>''There is unanimity among lawyers we have screened this with that certainly we are safe'' in showing the program after 10 p.m., said Joseph B. Bruns, executive vice president and chief operating officer of WETA.</p>
+        <p>The move comes at a time when many public television stations have chosen to be overly cautious to avoid tangling with the F.C.C. on indecency issues, given the hefty fines that have been imposed when viewers complain.</p>
+        <p>The film, which originated as a project of the National Endowment for the Arts and has been released theatrically in New York and a few other cities, features interviews with veterans of the United States military who have served in Iraq and Afghanistan. It also includes dramatizations of their firsthand written accounts of war.</p>
+        <p>''We're not doing it to be provocative of the F.C.C.; we're doing it because we believe in the merits of the film as it's been done,'' Mr. Bruns said, adding that, as a Vietnam War veteran himself, ''I think it's important that people do feel the raw emotions of people who were sent to war.''</p>
+        <p>Although some stations have requested an unedited film, the official version that PBS will distribute to its stations will be edited to cover up the offending words. The vast majority of stations are expected to use that version.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

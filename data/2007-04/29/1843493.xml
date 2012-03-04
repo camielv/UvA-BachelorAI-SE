@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   HALBERSTAM, DAVID</title>
+    <meta content="dn042907.4" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="27" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1843493"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">HALBERSTAM, DAVID</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E06E4DC163AF93AA15757C0A9619C8B63" item-length="173" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   HALBERSTAM, DAVID</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>HALBERSTAM--David. His family and friends wish to express heartfelt gratitude to all those who mourn his untimely death. A memorial service will be held Tuesday, June 12 at 4:00pm in Riverside Church (490 Riverside Dr. at 121st Street), Manhattan. In lieu of flowers, contributions may be made in David's name to Teach For America, Mississippi Delta, 299 South 9th Street, Suite 212, Oxford, Mississippi 38655. $(6$)HALBERSTAM--David. The Brearley School community deeply mourns the passing of David Halberstam, a Brearley past parent, former Trustee and great friend of the School. We extend our profound sympathies to his family. $(6$)HALBERSTAM--David. On behalf of Columbia University's Graduate School of Journalism and the John Chancellor Award, which we administer, we are saddened by the sudden passing of David Halberstam, and extend sincere condolences to his family. David, a past winner of the Columbia Journalism Award, a member of the board of the John Chancellor Award, and frequent guest speaker for our students, will be deeply missed. Nicholas Lemann, Dean Ira A. Lipman, Founder, John Chancellor Award</p>
+      </block>
+      <block class="full_text">
+        <p>HALBERSTAM--David. His family and friends wish to express heartfelt gratitude to all those who mourn his untimely death. A memorial service will be held Tuesday, June 12 at 4:00pm in Riverside Church (490 Riverside Dr. at 121st Street), Manhattan. In lieu of flowers, contributions may be made in David's name to Teach For America, Mississippi Delta, 299 South 9th Street, Suite 212, Oxford, Mississippi 38655. $(6$)HALBERSTAM--David. The Brearley School community deeply mourns the passing of David Halberstam, a Brearley past parent, former Trustee and great friend of the School. We extend our profound sympathies to his family. $(6$)HALBERSTAM--David. On behalf of Columbia University's Graduate School of Journalism and the John Chancellor Award, which we administer, we are saddened by the sudden passing of David Halberstam, and extend sincere condolences to his family. David, a past winner of the Columbia Journalism Award, a member of the board of the John Chancellor Award, and frequent guest speaker for our students, will be deeply missed. Nicholas Lemann, Dean Ira A. Lipman, Founder, John Chancellor Award</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

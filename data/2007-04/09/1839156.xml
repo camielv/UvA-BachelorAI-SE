@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Debate Over Homework: Two Views</title>
+    <meta content="l09homework" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1839156"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Education and Schools</classifier>
+        <classifier class="indexing_service" type="descriptor">Homework</classifier>
+        <person class="indexing_service">Thompson, Natalia</person>
+        <person class="indexing_service">Krauthammer, Anna</person>
+        <person class="indexing_service">Kurz, Mitch</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Homework</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070409T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01EFD7143FF93AA35757C0A9619C8B63" item-length="383" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Debate Over Homework: Two Views</hl1>
+      </hedline>
+      <abstract>
+        <p>Three letters respond to April 4 article on homework; Natalia Thompson, high school sophomore, says less homework during vacations keeps her rejuvenated; Anna Krauthammer holds homework is valuable teaching tool that should be used thoughtfully and reasonably; Mitch Kurz says homework is one of few tools teachers control that can help them provide individualized instruction</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''In Homework Wars, Student Wins a Battle: More Time to Unwind on Vacation'' (On Education column, April 4):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''In Homework Wars, Student Wins a Battle: More Time to Unwind on Vacation'' (On Education column, April 4):</p>
+        <p>As a 15-year-old high school sophomore with a demanding course load, I read your article with interest.</p>
+        <p>On regular weekdays, my evenings fill up quickly with daily homework assignments and extracurricular activities. My weekends are my opportunity to catch up on projects and essays, review notes and study for upcoming tests -- which leaves hardly any time to relax.</p>
+        <p>Spring break is a rare occasion for me to unwind, reflect, rejuvenate and prepare for the onslaught of work when I return to school. It's the only way I keep going.</p>
+        <p>Natalia Thompson  Madison, Wis., April 4, 2007</p>
+        <p>To the Editor:</p>
+        <p>Homework is essential for students to review, reinforce and apply skills and concepts learned in school. The questions we should be asking are about length, amount and content of assignments, not whether or not homework should be assigned.</p>
+        <p>A good homework assignment should be interesting, relevant and challenging. Like a good lesson, it should also develop the student's thinking skills.</p>
+        <p>As for those students who cannot get help at home, who do not have a space to study and work, or who have language problems or lack motivation, schools should make use of resources they already have: before-school and after-school help, use of school library or quiet areas, and teacher training workshops.</p>
+        <p>Homework is a valuable teaching tool. To be effective, it should be used carefully, thoughtfully and reasonably.</p>
+        <p>Anna Krauthammer  New York, April 4, 2007</p>
+        <p>To the Editor:</p>
+        <p>I wonder if the educators cited in the article have ever tried to teach the New York City-mandated math curriculum to students who enter high school at a sixth-grade level. Perhaps gifted students can ''chill'' during vacations.</p>
+        <p>But the 98 percent of students who don't attend Stuyvesant and the other specialized high schools need to catch up -- and homework is one of the few tools we teachers control that can help us provide individualized instruction.</p>
+        <p>We either raise the level of homework for these kids or lower our expectations of them -- the choice is obvious.</p>
+        <p>Mitch Kurz  New York, April 4, 2007</p>
+        <p>The writer is a math teacher at the Bronx Center for Science and Math.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

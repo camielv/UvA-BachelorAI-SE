@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Q &amp; A</title>
+    <meta content="19askk" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/19/technology/19askk.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1841334"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Q &amp; A"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <org class="online_producer">Microsoft Corp</org>
+        <org class="online_producer">iTunes</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070419T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE6D91E3FF93AA25757C0A9619C8B63" item-length="719" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Q &amp; A</hl1>
+        <hl2 class="online_headline">Closing a Stubborn Folder</hl2>
+      </hedline>
+      <byline class="print_byline">By J. D. BIERSDORFER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Closing A Stubborn Folder</p>
+        <p>Q. When I turn on my Windows XP computer, the folder C:windowssystem32 opens automatically every time. Why is this and how do I stop it?</p>
+        <p>A. If you find the System32 folder window opening all by itself each time you start up, it may be because a leftover piece of an uninstalled program is causing problems in the Windows Registry or with your computer's start-up process. (The Registry is the database of software and hardware information Windows relies upon to function properly.)</p>
+        <p>Microsoft has an article about how to fix the problem at support.microsoft.com/kb/170086. This solution, which is somewhat technical, involves editing your computer's Registry file and deleting incomplete entries -- like quotation marks on a line by themselves instead of file path information in the Data column of the Registry Editor window.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>When I turn on my Windows XP computer, the folder C:\windows\system32 opens automatically every time. Why is this and how do I stop it?</p>
+      </block>
+      <block class="full_text">
+        <p>Closing A Stubborn Folder</p>
+        <p>Q. When I turn on my Windows XP computer, the folder C:windowssystem32 opens automatically every time. Why is this and how do I stop it?</p>
+        <p>A. If you find the System32 folder window opening all by itself each time you start up, it may be because a leftover piece of an uninstalled program is causing problems in the Windows Registry or with your computer's start-up process. (The Registry is the database of software and hardware information Windows relies upon to function properly.)</p>
+        <p>Microsoft has an article about how to fix the problem at support.microsoft.com/kb/170086. This solution, which is somewhat technical, involves editing your computer's Registry file and deleting incomplete entries -- like quotation marks on a line by themselves instead of file path information in the Data column of the Registry Editor window.</p>
+        <p>Editing the Registry improperly can result in a malfunctioning system, so the company advises that you proceed with caution and back up your Registry file before starting; a link to another article about backing up and editing the Registry is also included on the page.</p>
+        <p>Backing up your PC or creating a restore point (a snapshot of your system that you can roll back to, if need be) with System Restore in the Start menu's Help &amp; Support section is a good idea before extensive tinkering.</p>
+        <p>If you find the idea of poking the Windows Registry too nerve-racking, there are other options. A free script from Kelly's Korner, a site devoted to tweaking Windows XP, might fix the problem for you; look for the link called ''System32 Folder Opens Upon Boot'' at www.kellys-korner-xp.com/xp--tweaks.htm. Double-click on the downloaded script file to run it.</p>
+        <p>If that doesn't fix the problem, registry-cleaning utilities like Registry Mechanic (www.pctools.com/registry-mechanic) might help.</p>
+        <p>If the System32 folder still opens after you check your Registry for damaged entries, a program fragment may be interfering with your PC's start-up process. You can use the System Configuration utility to see what programs are starting up with Windows and what might be affecting the System32 folder, and to turn off unwanted processes.</p>
+        <p>Using the System Configuration utility may result in some Windows alerts about configuration changes, and you should proceed with caution. Microsoft has another article that describes the tool at support.microsoft.com/kb/310560, and the Net Squirrel site illustrates the process in detail at www.netsquirrel.com/msconfig.</p>
+        <p>Pauses Are Normal In DVD Movies</p>
+        <p>Q. Why do store-bought DVD movies always seem to have a noticeable pause at some point during the film?</p>
+        <p>A. A standard DVD can hold about 4.7 gigabytes of data on a single layer on one side of the disc. To fit the movie and all the extra features on a single disc, many commercial DVDs have two layers of data on one side of the disc, doubling its capacity.</p>
+        <p>When a dual-layer disc needs to switch to the next layer of information, a pause usually occurs, sometimes in the middle of a film scene. Some DVD boxes even carry the fine-print warning, ''Layer transition may trigger a slight pause.''</p>
+        <p>Cutting Chatter In iTunes Tracks</p>
+        <p>Q. I have some tracks from live concert CDs in my iTunes library. Is there a way to edit out the applause and on-stage chatting between the songs so the track just begins and ends with the music?</p>
+        <p>A. To cut out extraneous concert chatter, you can adjust the Start and Stop times of the track in iTunes. Before you start, play the song you want to edit. Use the time counter in the iTunes window to note when you want the track to start and stop to avoid hearing the unwanted parts.</p>
+        <p>Click on a song you want to edit, go to the iTunes File menu and choose Get Info. Click on the Options tab in the Information box that appears. Here, there are boxes to check for adjusting the Start and Stop times of the selected song. Check which end (or both) of the song you want to edit and then type in the time-counter numbers you noted to have the song start and stop at those points.</p>
+        <p>If you decide you'd like to revert back to the original song length, go back to the Information box and undo your changes.</p>
+        <p>J. D. BIERSDORFER</p>
+        <p>Q &amp; A</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

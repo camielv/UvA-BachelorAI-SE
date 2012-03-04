@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Laugh Lines</title>
+    <meta content="29laugh" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Week in Review" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1843818"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F02E1D9123EF93AA15757C0A9619C8B63" item-length="213" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Laugh Lines</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Jay Leno</p>
+        <p>Some sad news, I'm sure you've heard. The former president of Russia, Boris (Buy Me a Drink) Yeltsin, has passed away. He left behind a bar tab of $3.2 billion.</p>
+        <p>In a speech Sunday, before a church group, San Francisco mayor Gavin Newsom said that he is going to make San Francisco a sanctuary for illegal immigrants so they can go there and not worry about being deported to their home country of Los Angeles.</p>
+      </block>
+      <block class="full_text">
+        <p>Jay Leno</p>
+        <p>Some sad news, I'm sure you've heard. The former president of Russia, Boris (Buy Me a Drink) Yeltsin, has passed away. He left behind a bar tab of $3.2 billion.</p>
+        <p>In a speech Sunday, before a church group, San Francisco mayor Gavin Newsom said that he is going to make San Francisco a sanctuary for illegal immigrants so they can go there and not worry about being deported to their home country of Los Angeles.</p>
+        <p>The story that has rocked show business: Rosie O'Donnell announced that she's leaving ''The View.'' The sad part: None of the other hosts on ''The View'' heard what she said because they were all talking at the same time.</p>
+        <p>President Bush sent out an e-mail today asking people to send money to the Republican Party. How come those e-mails never get deleted?</p>
+        <p>David Letterman</p>
+        <p>Were you aware of the fact that George W. Bush is in town? He attended a big fundraiser on Park Avenue. It's part of his pet program, ''No Cash Left Behind.''</p>
+        <p>The mayor of New York City, Mayor Bloomberg, has announced that he wants to plant a million trees in New York City. A million trees in New York City. Or as Donald Trump calls it, a blight on the landscape.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

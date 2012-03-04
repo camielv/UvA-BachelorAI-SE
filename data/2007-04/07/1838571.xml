@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>SUBPRIME MELTDOWN</title>
+    <meta content="07five-5" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838571"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="FIVE DAYS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Housing</classifier>
+        <classifier class="indexing_service" type="descriptor">Mortgages</classifier>
+        <classifier class="indexing_service" type="descriptor">Interest Rates</classifier>
+        <classifier class="indexing_service" type="descriptor">Bankruptcies</classifier>
+        <org class="indexing_service">New Century Financial</org>
+        <person class="indexing_service">Bajaj, Vikas</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Markets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Subprime Lending</classifier>
+        <classifier class="online_producer" type="general_descriptor">Interest Rates</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bankruptcies</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mortgages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070407T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE3DF143FF934A35757C0A9619C8B63" item-length="130" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>SUBPRIME MELTDOWN</hl1>
+      </hedline>
+      <byline class="print_byline">By VIKAS BAJAJ</byline>
+      <byline class="normalized_byline">Bajaj, Vikas</byline>
+      <abstract>
+        <p>Five Days column; New Century Financial became largest mortgage company to file for bankruptcy protection since market for loans to people with weak, or subprime, credit collapsed this year; company plans to auction its three principal assets in next 45 days (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>After failing to line up new financing, New Century Financial became the largest mortgage company to file for bankruptcy protection since the market for loans to people with weak, or subprime, credit collapsed this year.</p>
+        <p>In the next 45 days, the company plans to auction its three principal assets: its mortgage lending business, its servicing platform and its loan portfolio. It is unclear, however, how much the company will make from the sales since many other lenders are also up for sale.</p>
+      </block>
+      <block class="full_text">
+        <p>After failing to line up new financing, New Century Financial became the largest mortgage company to file for bankruptcy protection since the market for loans to people with weak, or subprime, credit collapsed this year.</p>
+        <p>In the next 45 days, the company plans to auction its three principal assets: its mortgage lending business, its servicing platform and its loan portfolio. It is unclear, however, how much the company will make from the sales since many other lenders are also up for sale.</p>
+        <p>Shareholders are expected to be wiped out in the bankruptcy case and many creditors could also lose significant sums. Auctions of loans seized by the company's banks before the bankruptcy filing will provide an important estimate of how much the assets are worth.</p>
+        <p>VIKAS BAJAJ</p>
+        <p>FIVE DAYS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Old Tenants, New Home, Artsy Neighbors</title>
+    <meta content="20ancient--refer" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Front Page; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1841606"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070420T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE3D71F3FF933A15757C0A9619C8B63" item-length="169" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Old Tenants, New Home, Artsy Neighbors</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Metropolitan Museum of Art's Greek and Roman galleries reopen to the public today. The space, used for the last half-century as a dining area, has been redesigned and expanded to 57,000 square feet, enabling the Met to restore thousands of ancient artifacts to public view.</p>
+        <p>The heart of the $220 million, 15-year project is a two-story peristyle court, left, lined with columns, populated with statuary and with a pool and fountain in its center.</p>
+        <p>The galleries display treasures ranging from frescoes to intricately carved sarcophagi to monumental busts to a bronze chariot.</p>
+        <p>Western antiquity from the Bronze Age through the reign of Constantine unfolds in logical, stately order, as was intended from the museum's early days, Michael Kimmelman writes [Review, Page E25].</p>
+        <p>A huge array of objects has been exhumed from storage and animated by new touch-screen computers -- and by air and sun -- in the vast, skylighted new space.</p>
+        <p>A graphic guide to the new galleries, with a selection of highlights from the collection, is on Page E31.</p>
+      </block>
+      <block class="full_text">
+        <p>The Metropolitan Museum of Art's Greek and Roman galleries reopen to the public today. The space, used for the last half-century as a dining area, has been redesigned and expanded to 57,000 square feet, enabling the Met to restore thousands of ancient artifacts to public view.</p>
+        <p>The heart of the $220 million, 15-year project is a two-story peristyle court, left, lined with columns, populated with statuary and with a pool and fountain in its center.</p>
+        <p>The galleries display treasures ranging from frescoes to intricately carved sarcophagi to monumental busts to a bronze chariot.</p>
+        <p>Western antiquity from the Bronze Age through the reign of Constantine unfolds in logical, stately order, as was intended from the museum's early days, Michael Kimmelman writes [Review, Page E25].</p>
+        <p>A huge array of objects has been exhumed from storage and animated by new touch-screen computers -- and by air and sun -- in the vast, skylighted new space.</p>
+        <p>A graphic guide to the new galleries, with a selection of highlights from the collection, is on Page E31.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Manhattan: Councilman-Elect On Ballot</title>
+    <meta content="13mbrfs-2" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1840012"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Decisions and Verdicts</classifier>
+        <classifier class="online_producer" type="general_descriptor">City Councils</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Local Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070413T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D03E3D9133FF930A25757C0A9619C8B63" item-length="162" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Manhattan: Councilman-Elect On Ballot</hl1>
+      </hedline>
+      <byline class="print_byline">By JONATHAN P. HICKS; Compiled by John Sullivan</byline>
+      <byline class="normalized_byline">Hicks, Jonathan P</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A State Supreme Court justice declined yesterday to take any action on a lawsuit to remove Dr. Mathieu Eugene from the ballot in a special election for the 40th Council District in Brooklyn. The ruling means that Dr. Eugene is one of two candidates who will remain on the ballot for the election, which is set for April 24. Dr. Eugene won a special election for the seat in February, but he declined to take the seat after the City Council asked for information verifying that he lived within the 40th District, which includes Crown Heights and Flatbush. A second special election was scheduled, and Dr. Eugene said he would be a candidate. John Ravitz, executive director of the New York City Board of Elections, said yesterday that only Dr. Eugene and Harry L. Schiffman, the director of government and community relations at Kingsbrook Jewish Medical Center, remained on the ballot.</p>
+        <p>JONATHAN P. HICKS</p>
+      </block>
+      <block class="full_text">
+        <p>A State Supreme Court justice declined yesterday to take any action on a lawsuit to remove Dr. Mathieu Eugene from the ballot in a special election for the 40th Council District in Brooklyn. The ruling means that Dr. Eugene is one of two candidates who will remain on the ballot for the election, which is set for April 24. Dr. Eugene won a special election for the seat in February, but he declined to take the seat after the City Council asked for information verifying that he lived within the 40th District, which includes Crown Heights and Flatbush. A second special election was scheduled, and Dr. Eugene said he would be a candidate. John Ravitz, executive director of the New York City Board of Elections, said yesterday that only Dr. Eugene and Harry L. Schiffman, the director of government and community relations at Kingsbrook Jewish Medical Center, remained on the ballot.</p>
+        <p>JONATHAN P. HICKS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

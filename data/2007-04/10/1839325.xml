@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Senators Press For More Files On Removing Prosecutors</title>
+    <meta content="10attorneys" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1839325"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <classifier class="indexing_service" type="descriptor">United States Attorneys</classifier>
+        <org class="indexing_service">Justice Department</org>
+        <person class="indexing_service">Schumer, Charles E (Sen)</person>
+        <person class="indexing_service">Feinstein, Dianne (Sen)</person>
+        <person class="indexing_service">Leahy, Patrick J (Sen)</person>
+        <person class="indexing_service">Specter, Arlen (Sen)</person>
+        <person class="indexing_service">Johnston, David</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Legal Profession</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070410T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F07E6DB153FF933A25757C0A9619C8B63" item-length="309" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Senators Press For More Files On Removing Prosecutors</hl1>
+      </hedline>
+      <byline class="print_byline">By DAVID JOHNSTON</byline>
+      <byline class="normalized_byline">Johnston, David</byline>
+      <dateline>WASHINGTON, April 9</dateline>
+      <abstract>
+        <p>Sens Arlen Spector, Patrick Leahy, Dianne Feinstein and Charles Schumer say they suspect Justice Dept has failed to turn over all relevant documents related to dismissals of eight US attorneys; Justice Dept declines to comment (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Four senators said Monday that they suspected that the Justice Department had failed to turn over all relevant documents related to the dismissals of eight United States attorneys.</p>
+        <p>The department has released more than 3,000 pages of e-mail messages and other files. But, the senators wrote in a letter to Attorney General Alberto R. Gonzales, ''We are concerned that additional documents relevant to the committee's investigations are missing or have been withheld.''</p>
+      </block>
+      <block class="full_text">
+        <p>Four senators said Monday that they suspected that the Justice Department had failed to turn over all relevant documents related to the dismissals of eight United States attorneys.</p>
+        <p>The department has released more than 3,000 pages of e-mail messages and other files. But, the senators wrote in a letter to Attorney General Alberto R. Gonzales, ''We are concerned that additional documents relevant to the committee's investigations are missing or have been withheld.''</p>
+        <p>The letter expressed skepticism about whether lawmakers had all the material they needed to evaluate the motives for the removals and raised questions on the scope and methods used to assemble the material. A spokesman for the department, Brian Roehrkasse, said officials would not comment until they had reviewed the letter.</p>
+        <p>Justice Department officials have previously said they turned over all relevant materials, but held back sensitive personnel information about most prosecutors other than those who were removed last year.</p>
+        <p>The signers of the letter were one Republican, Arlen Specter of Pennsylvania, and three Democrats, Patrick J. Leahy of Vermont, the Judiciary Committee chairman; Dianne Feinstein of California; and Charles E. Schumer of New York.</p>
+        <p>Among the missing documents the senators mentioned was a chart cited in a Feb. 12, 2007, e-mail message from Monica Goodling, a former aide to Mr. Gonzales, to other department officials.</p>
+        <p>The senators suggested that other documents had been withheld, like biographies of each of the 93 prosecutors in briefing books provided for Mr. Gonzales in December in preparation for a meeting of United States attorneys. The meeting was held to start an initiative against child exploitation.</p>
+        <p>The documents were disclosed last week in The American Spectator. A department official said briefing documents were not turned over because they did not assess prosecutors or did not relate to the removals and were to familiarize Mr. Gonzales with prosecutors' backgrounds.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

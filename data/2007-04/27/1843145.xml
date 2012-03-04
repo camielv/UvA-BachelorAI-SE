@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Look at Opera's Past and Possible Future</title>
+    <meta content="27cima" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/27/arts/music/27cima.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1843145"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MUSIC REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews/Classical</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="descriptor">Classical Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Classical Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Opera</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <org class="online_producer">Manhattan School of Music</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070427T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E4D8153EF934A15757C0A9619C8B63" item-length="414" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Look at Opera's Past and Possible Future</hl1>
+        <hl2 class="online_headline">A Look at Opera’s Past and Possible Future</hl2>
+      </hedline>
+      <byline class="print_byline">By ANNE MIDGETTE</byline>
+      <byline class="normalized_byline">Midgette, Anne</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Italian girl in search of her beloved arrives in a foreign country, alone, spunky and resolved to get what she wants. In the end she manages to extricate her lover from unwanted entanglements and go off with him into the sunset. She is also the heroine of a comic opera that was a considerable hit in its day.</p>
+        <p>This sounds like a description of Isabella, Rossini's ''Italiana in Algeri,'' but this ''Italiana'' is a generation older: she is Livia, the heroine of Cimarosa's ''Italiana in Londra,'' which had its first performance in Rome in 1778 and came to the Manhattan School of Music on Wednesday night.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>There was much to enjoy in watching the students learn focus and support in their performance of Cimarosa’s “Italiana in Londra” on Wednesday.</p>
+      </block>
+      <block class="full_text">
+        <p>The Italian girl in search of her beloved arrives in a foreign country, alone, spunky and resolved to get what she wants. In the end she manages to extricate her lover from unwanted entanglements and go off with him into the sunset. She is also the heroine of a comic opera that was a considerable hit in its day.</p>
+        <p>This sounds like a description of Isabella, Rossini's ''Italiana in Algeri,'' but this ''Italiana'' is a generation older: she is Livia, the heroine of Cimarosa's ''Italiana in Londra,'' which had its first performance in Rome in 1778 and came to the Manhattan School of Music on Wednesday night.</p>
+        <p>Student opera productions allow a look into the genesis of opera, catching aspiring singers partway along their trajectory toward either a career or the lack of one. This ''Italiana'' gives an additional peek into opera's evolution: Cimarosa's influence on Rossini. The sparkling music, the high mezzo heroine, the two-act form bisected by an Act I finale in which all the characters clutch their heads and complain of the complexity of their predicament: at the very least this is a form that Rossini inherited, rather than inventing it.</p>
+        <p>Student operas also serve a functional purpose. They give young singers an invaluable chance to practice their craft and learn things they could never glean from a weekly voice lesson: how to pace yourself so you don't run out of stamina and voice by the end of an aria; how to act and sing at the same time so that your intonation does not drift south at moments of particularly intricate stage business; how to hold an audience and create a character truly worth listening to.</p>
+        <p>The five cast members on Wednesday were all learning these things, to greater or lesser degrees. All had moments of showing basically attractive voices, all were audibly learning more about focus and support, and all needed to concentrate on details so that pitch did not sag or runs grow muddy. There was much to enjoy in watching them take on the exercise, aided by Steven Mosteller in the pit (where one of the horns was having a bad night on Wednesday) and by a competently lighthearted production by Albert Sherman, nudged into Edwardian England by Peter Harrison's sets.</p>
+        <p>''L'Italiana in Londra'' will be performed again tonight and Sunday afternoon in the John C. Borden Auditorium of the Manhattan School of Music, 122nd Street and Broadway, Morningside Heights; (917) 493-4428.</p>
+        <p>MUSIC REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Muscular, Enthusiastic Strings and Piano (Note the Influences)</title>
+    <meta content="29holl" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="25" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1843615"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CLASSICAL RECORDINGS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <classifier class="indexing_service" type="descriptor">Recordings and Downloads (Audio)</classifier>
+        <person class="indexing_service">Holland, Bernard</person>
+        <person class="indexing_service">Adams, John (Composer)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B01EEDB143EF93AA15757C0A9619C8B63" item-length="323" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Muscular, Enthusiastic Strings and Piano (Note the Influences)</hl1>
+      </hedline>
+      <byline class="print_byline">By BERNARD HOLLAND</byline>
+      <byline class="normalized_byline">Holland, Bernard</byline>
+      <abstract>
+        <p>Bernard Holland reviews new recording John Adams: Complete Piano Music; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>John Adams: Complete Piano Music  Ralph van Raat and Maarten van Veen, pianists. Naxos 8.559285; CD.</p>
+        <p>JOHN ADAMS does not write a lot of piano music, but ''Phrygian Gates,'' ''China Gates,'' ''Hallelujah Junction'' and ''American Berserk'' offer looks at his trajectory as a composer since the two ''Gates'' pieces from 1977. Ralph van Raat plays all four items for Naxos, with Maarten van Veen as the second pianist in ''Hallelujah Junction.''</p>
+      </block>
+      <block class="full_text">
+        <p>John Adams: Complete Piano Music  Ralph van Raat and Maarten van Veen, pianists. Naxos 8.559285; CD.</p>
+        <p>JOHN ADAMS does not write a lot of piano music, but ''Phrygian Gates,'' ''China Gates,'' ''Hallelujah Junction'' and ''American Berserk'' offer looks at his trajectory as a composer since the two ''Gates'' pieces from 1977. Ralph van Raat plays all four items for Naxos, with Maarten van Veen as the second pianist in ''Hallelujah Junction.''</p>
+        <p>Mr. Adams can't be called an orphan of Minimalism because he keeps going home to it. The early ''Phrygian Gates'' is a monster, at almost 25 minutes. It adheres to familiar patterns of gathering repeated notes and slow, measured trills, and it moves by way of creeping intrusions that propel one meter into a new one. The tones vary from pastels to Romantic piano sound to a racing, thundering finale. ''China Gates,'' a companion piece, is more elegant geometry: quieter, more contained and a fourth as long.</p>
+        <p>''Hallelujah Junction'' is from 1996, but its repetitions share much with the ''Gates'' pieces. Two pianos at full tilt reproduce multiple church bells very nicely. Indeed, this music rings both literally and figuratively. It also wears its American-ness on its sleeve, or at least the American myth of clean industrial-strength energy and untroubled confidence.</p>
+        <p>''American Berserk,'' from 2001, sits on a foundation of stride and boogie piano. Its heavy hand and sharp elbows make brutality into a compositional tool. There are whiffs of nostalgia for the 1930s and for Gershwin in particular. Listen for ''I Got Rhythm'' in a cameo appearance; those bruising upward chord progressions sound an awful lot like Gershwin's Concerto in F. Mr. Adams, once described as a Minimalist bored by Minimalism, might not mind Mr. van Raat's repeated notes, which are not always steady and immaculate. He would surely like Mr. van Raat's hard work and enthusiasm in music that is sometimes very complicated indeed.</p>
+        <p>BERNARD HOLLAND</p>
+        <p>CLASSICAL RECORDINGS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

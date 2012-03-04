@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bloggers Cast Doubt on Fox's Generosity</title>
+    <meta content="30idol" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/30/business/media/30idol.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1844019"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MEDIA TALK"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Africa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa</classifier>
+        <classifier class="online_producer" type="descriptor">Blogs and Blogging (Internet)</classifier>
+        <classifier class="online_producer" type="descriptor">Philanthropy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blogs and Blogging (Internet)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Philanthropy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <org class="online_producer">News Corporation Limited</org>
+        <org class="online_producer">Fox Broadcasting Co</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070430T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9902E3DC133EF933A05757C0A9619C8B63" item-length="335" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bloggers Cast Doubt on Fox's Generosity</hl1>
+        <hl2 class="online_headline">Bloggers Cast Doubt on Fox’s Generosity</hl2>
+      </hedline>
+      <byline class="print_byline">By JUSTON JONES</byline>
+      <byline class="normalized_byline">Jones, Juston</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In hailing its generosity to poor children, ''American Idol'' has drawn some complaints that it has acted a bit stingily.</p>
+        <p>The show, on the Fox network, devoted two episodes last week to raising money to fight poverty in Africa and the United States. Fox's owner, the News Corporation, pledged $5 million to the effort, but some bloggers wondered why the company that owns one of the must lucrative franchises in television history couldn't have opened its wallet a bit more.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The News Corporation last week pledged $5 million to fight poverty in Africa and the United States, but some bloggers wondered why it didn’t open its wallet a bit more.</p>
+      </block>
+      <block class="full_text">
+        <p>In hailing its generosity to poor children, ''American Idol'' has drawn some complaints that it has acted a bit stingily.</p>
+        <p>The show, on the Fox network, devoted two episodes last week to raising money to fight poverty in Africa and the United States. Fox's owner, the News Corporation, pledged $5 million to the effort, but some bloggers wondered why the company that owns one of the must lucrative franchises in television history couldn't have opened its wallet a bit more.</p>
+        <p>After all, given the price of commercials on ''American Idol'' (which Forbes magazine recently pegged at an average of $745,000 for 30 seconds), the News Corporation was donating the equivalent of less than five minutes of advertising time, even as it implored viewers to give generously.</p>
+        <p>And the show made it unclear whether the News Corporation would donate the whole $5 million to the Charity Projects Entertainment Fund, its nonprofit partner, unless 50 million votes were cast for ''American Idol'' contestants.</p>
+        <p>Todd Cohen, the editor of the Philanthropy Journal, a Web publication based in Raleigh, N.C., was critical on his blog. ''I was basically calling them to task over their challenge system to point out that they could do more,'' he said in a telephone interview.</p>
+        <p>Several bloggers who follow ''American Idol'' echoed his view, complaining, among other things, that the show did not provide much detail upfront about how much the corporate sponsors were donating.</p>
+        <p>But viewers responded, and Ryan Seacrest, the show's host, announced Wednesday night that 70 million votes had been cast, ensuring the $5 million donation. As for the additional 20 million votes, a spokeswoman for Fox said that the News Corporation had always intended to donate $5 million, no matter how many votes came in.</p>
+        <p>Even if some viewers felt misled, Mr. Cohen said, some good was done. ''They devoted a lot of time to focus on poverty in the United States and Africa, and they did it as the top show on television,'' he said.</p>
+        <p>JUSTON JONES</p>
+        <p>MEDIA TALK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

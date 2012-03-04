@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Fabulist</title>
+    <meta content="22letters.t-3" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Magazine; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1841971"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <person class="indexing_service">leung, brian</person>
+        <person class="indexing_service">Englander, Nathan</person>
+        <person class="indexing_service">Solomon, Deborah</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B07E6D6113FF931A15757C0A9619C8B63" item-length="57" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Fabulist</hl1>
+      </hedline>
+      <abstract>
+        <p>Brian Leung letter comments on Deborah Solomon's April 8 interview with writer Nathan Englander</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Nathan Englander's coolness in the face of questioning about why he hasn't published a book in eight years was refreshing (Deborah Solomon, April 8). If more editors and more writers agreed that it's healthy to take time between books, the shelves at bookstores would be stocked with fewer, but undoubtedly better, books.</p>
+      </block>
+      <block class="full_text">
+        <p>Nathan Englander's coolness in the face of questioning about why he hasn't published a book in eight years was refreshing (Deborah Solomon, April 8). If more editors and more writers agreed that it's healthy to take time between books, the shelves at bookstores would be stocked with fewer, but undoubtedly better, books.</p>
+        <p>Brian Leung</p>
+        <p>Louisville, Ky.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Rinse Off in Style Before Going Into the House</title>
+    <meta content="12shower" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1839646"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CURRENTS: OUTDOOR ACCESSORIES"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Showers</classifier>
+        <person class="indexing_service">Louie, Elaine</person>
+        <person class="indexing_service">Sieger, Michael</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070412T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE5DB123FF931A25757C0A9619C8B63" item-length="121" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Rinse Off in Style Before Going Into the House</hl1>
+      </hedline>
+      <byline class="print_byline">By ELAINE LOUIE</byline>
+      <byline class="normalized_byline">Louie, Elaine</byline>
+      <abstract>
+        <p>Michael Sieger designs outdoor shower with multiple shower heads; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Under the Tree, an aptly named eight-foot-tall stainless steel outdoor shower, has multiple limbs. One is a shower head; the others can be used to hold towels, swimsuits or a bar of soap on a string. A garden hose can be screwed into the base of the shower, which is held in place by a 12-inch spike.</p>
+      </block>
+      <block class="full_text">
+        <p>Under the Tree, an aptly named eight-foot-tall stainless steel outdoor shower, has multiple limbs. One is a shower head; the others can be used to hold towels, swimsuits or a bar of soap on a string. A garden hose can be screwed into the base of the shower, which is held in place by a 12-inch spike.</p>
+        <p>Michael Sieger, a partner at Sieger Design, a German industrial design firm, created the shower in 2002 for a design fair in Bologna, Italy, as part of a futuristic bathroom. It is being introduced to the United States by Conmoto, a German manufacturer of fireplace accessories and garden furniture. The shower sells for $2,600. For information: 011-49-5245-92192-0 or conmoto.com.</p>
+        <p>ELAINE LOUIE</p>
+        <p>CURRENTS: OUTDOOR ACCESSORIES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

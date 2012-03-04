@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Hitler the Vegetarian?</title>
+    <meta content="Letters.t-4" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1840255"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B02E0DF143FF936A25757C0A9619C8B63" item-length="132" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Hitler the Vegetarian?</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>I must take issue with the tradition reflected in Edward Rothstein's review of ''The Bloodless Revolution,'' by Tristram Stuart (Feb. 25), that Hitler and many of his Nazi henchmen were vegetarians. In my book ''Hitler: Neither Vegetarian Nor Animal Lover,'' I cite numerous primary sources attesting that Hitler indulged in sausages, stuffed squab, liver dumplings, ham and caviar -- hardly what most people today would consider vegetarian.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>I must take issue with the tradition reflected in Edward Rothstein's review of ''The Bloodless Revolution,'' by Tristram Stuart (Feb. 25), that Hitler and many of his Nazi henchmen were vegetarians. In my book ''Hitler: Neither Vegetarian Nor Animal Lover,'' I cite numerous primary sources attesting that Hitler indulged in sausages, stuffed squab, liver dumplings, ham and caviar -- hardly what most people today would consider vegetarian.</p>
+        <p>To be sure, Hitler professed vegetarianism, but he was not consistent in his practice of the diet. Hitler may have been a quasi-vegetarian, a would-be vegetarian or a flexitarian, but the truth is that not one top Nazi was a thoroughgoing vegetarian, not even Hitler himself.</p>
+        <p>Rynn Berry  Brooklyn</p>
+        <p>The writer is historical adviser to the North American Vegetarian Society.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Allison Brachlow, Benjamin Golnik</title>
+    <meta content="22brachlow" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/22/fashion/weddings/22brachlow.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842161"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Brachlow, Dr. Allison Elizabeth (Dr. Allison Elizabeth Golnik)</person>
+        <person class="indexing_service">Golnik, Benjamin Adam</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9800EFDD163EF931A15757C0A9619C8B63" item-length="220" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Allison Brachlow, Benjamin Golnik</hl1>
+        <hl2 class="online_headline">Allison Brachlow, Benjamin Golnik</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Dr. Allison Elizabeth Brachlow and Benjamin Adam Golnik were married yesterday. The Rev. Thomas W. Forster-Smith performed the ceremony at House of Hope Presbyterian Church in St. Paul, with the Rev. Dr. Arthur A. Rouner Jr., a Congregational minister, taking part.</p>
+        <p>Dr. Golnik, 31, is a pediatrician. She is a research fellow, studying the medical care of children with autism at the University of Minnesota Medical School in Minneapolis. She and Mr. Golnik graduated from Middlebury College, where they met. She received her medical degree from the University of South Dakota and is studying for a master's in public health at Minnesota.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Dr. Allison Elizabeth Brachlow and Benjamin Adam Golnik were married yesterday. The Rev. Thomas W. Forster-Smith performed the ceremony at House of Hope Presbyterian Church in St. Paul, with the Rev. Dr. Arthur A. Rouner Jr., a Congregational minister, taking part.</p>
+      </block>
+      <block class="full_text">
+        <p>Dr. Allison Elizabeth Brachlow and Benjamin Adam Golnik were married yesterday. The Rev. Thomas W. Forster-Smith performed the ceremony at House of Hope Presbyterian Church in St. Paul, with the Rev. Dr. Arthur A. Rouner Jr., a Congregational minister, taking part.</p>
+        <p>Dr. Golnik, 31, is a pediatrician. She is a research fellow, studying the medical care of children with autism at the University of Minnesota Medical School in Minneapolis. She and Mr. Golnik graduated from Middlebury College, where they met. She received her medical degree from the University of South Dakota and is studying for a master's in public health at Minnesota.</p>
+        <p>She is the daughter of the Rev. Dixie Walker Brachlow and Stephen J. Brachlow of Mechanicsville, Va. The bride's father is a professor of spirituality at Baptist Theological Seminary in Richmond, Va. Her mother is the associate pastor at Fairfield Presbyterian Church in Mechanicsville.</p>
+        <p>Mr. Golnik, 30, is the Midwest political director of Senator John McCain's presidential campaign and, until March, was the executive director of the Republican Party of Minnesota.</p>
+        <p>He is a son of Kathleen Mahon Golnik of Wethersfield, Conn., and Herman K. Golnik Jr. of Middletown, Conn. The bridegroom's mother is the art teacher at Thomas J. McDonough Elementary School in Hartford. His father retired as a social studies teacher at Bulkeley High School there.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

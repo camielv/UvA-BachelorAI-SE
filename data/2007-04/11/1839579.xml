@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>World Briefing | Europe: Turkey: Hijacking Ends Peacefully</title>
+    <meta content="11briefs-1" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1839579"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="indexing_service" type="descriptor">Hijacking</classifier>
+        <location class="indexing_service">Turkey</location>
+        <location class="indexing_service">Ankara (Turkey)</location>
+        <location class="indexing_service">Istanbul (Turkey)</location>
+        <person class="indexing_service">Tavernise, Sabrina</person>
+        <person class="indexing_service">Goksin, Mehmet</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Turkey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Turkey/Istanbul</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Turkey/Ankara</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hijacking</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070411T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0CE2DE123FF932A25757C0A9619C8B63" item-length="112" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>World Briefing | Europe: Turkey: Hijacking Ends Peacefully</hl1>
+      </hedline>
+      <byline class="print_byline">By SABRINA TAVERNISE</byline>
+      <byline class="normalized_byline">Tavernise, Sabrina</byline>
+      <abstract>
+        <p>Turkish man, identified as Mehmet Goksin by Anatolian news agency, hijacks domestic airliner en route to Istanbul but surrenders in Ankara; plane's 178 passengers are unhurt (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A man hijacked a domestic airliner en route to Istanbul but surrendered to the authorities shortly after the plane made an emergency landing in Ankara, its 178 passengers unhurt, the authorities said. The man, identified by the Anatolian news agency as Mehmet Goksin, a Turk, boarded the plane with the rest of the passengers in southeastern Diyarbakir. Government forces are fighting Kurdish separatists in the area, and the hijacker was initially suspected of political motives. But he made no clear political demands, after falsely claiming that he was wearing explosives, the authorities said. The arrested man has a criminal record and a troubled family background, they said.</p>
+        <p>SABRINA TAVERNISE</p>
+      </block>
+      <block class="full_text">
+        <p>A man hijacked a domestic airliner en route to Istanbul but surrendered to the authorities shortly after the plane made an emergency landing in Ankara, its 178 passengers unhurt, the authorities said. The man, identified by the Anatolian news agency as Mehmet Goksin, a Turk, boarded the plane with the rest of the passengers in southeastern Diyarbakir. Government forces are fighting Kurdish separatists in the area, and the hijacker was initially suspected of political motives. But he made no clear political demands, after falsely claiming that he was wearing explosives, the authorities said. The arrested man has a criminal record and a troubled family background, they said.</p>
+        <p>SABRINA TAVERNISE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

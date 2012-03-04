@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>$3 Million Lost To Fraud Ring, Authorities Say</title>
+    <meta content="21theft" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/21/nyregion/21theft.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1841757"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="descriptor">Frauds and Swindling</classifier>
+        <classifier class="online_producer" type="descriptor">Credit and Money Cards</classifier>
+        <classifier class="online_producer" type="general_descriptor">Credit</classifier>
+        <classifier class="online_producer" type="general_descriptor">Credit and Money Cards</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Frauds and Swindling</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070421T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B01E2DB163EF932A15757C0A9619C8B63" item-length="305" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>$3 Million Lost To Fraud Ring, Authorities Say</hl1>
+        <hl2 class="online_headline">$3 Million Lost to Fraud Ring, Authorities Say</hl2>
+      </hedline>
+      <byline class="print_byline">By ANEMONA HARTOCOLLIS</byline>
+      <byline class="normalized_byline">Hartocollis, Anemona</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>More than 1,000 restaurant customers on the East Coast paid a higher price than they thought for their entrees: the theft of credit card information, the Manhattan district attorney said yesterday.</p>
+        <p>A counterfeiting ring recruited waiters and waitresses in restaurants from Connecticut to Florida to work as ''skimmers,'' prosecutors said. They used small hand-held devices, about the size of a cigarette package that could be kept in a pocket, to record information encoded in the magnetic strips of credit cards.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>More than 1,000 restaurant customers on the East Coast have had their credit card information stolen, the Manhattan district attorney said yesterday.</p>
+      </block>
+      <block class="full_text">
+        <p>More than 1,000 restaurant customers on the East Coast paid a higher price than they thought for their entrees: the theft of credit card information, the Manhattan district attorney said yesterday.</p>
+        <p>A counterfeiting ring recruited waiters and waitresses in restaurants from Connecticut to Florida to work as ''skimmers,'' prosecutors said. They used small hand-held devices, about the size of a cigarette package that could be kept in a pocket, to record information encoded in the magnetic strips of credit cards.</p>
+        <p>Skimmers were paid $35 to $50 for each card's information, prosecutors said. That information was then used to make counterfeit credit cards and forged driver's licenses that were used to buy laptops, PlayStations, iPods, digital cameras and other merchandise for resale, prosecutors said.</p>
+        <p>The ring of 12 men and a woman was responsible for more than $3 million in fraudulent credit card charges from November 2005 until this week, Robert M. Morgenthau, the district attorney, said at a press conference announcing their indictment on charges of grand larceny and conspiracy.</p>
+        <p>The thieves were able to put new names on the forged cards because the magnetic strips keep the name of the cardholder on a separate track from the account authentication information, prosecutors said.</p>
+        <p>Workers at about 40 restaurants in Manhattan, Brooklyn, Long Island, Florida, New Hampshire, New Jersey and Connecticut were involved in the operation, Aaron Karczmer, an assistant district attorney, said. He would not disclose the names of the restaurants. He said the managements of the restaurants had not been implicated in the scheme.</p>
+        <p>Antonia Merzon, another assistant district attorney, said some customers thought something was amiss when they saw a waiter swiping their card on a skimmer, but they were usually reluctant to say anything.</p>
+        <p>Billings of most of the customers were corrected by their credit card companies, prosecutors said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

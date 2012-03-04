@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Dark Chocolate Similar To Blood Pressure Drugs</title>
+    <meta content="24reme" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Health&amp;Fitness" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/24/health/24reme.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842536"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="VITAL SIGNS: REMEDIES"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Columns/Vital Signs</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Fitness and Nutrition</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Blood Pressure</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Diet</classifier>
+        <classifier class="online_producer" type="descriptor">Chocolate</classifier>
+        <classifier class="online_producer" type="descriptor">Blood Pressure</classifier>
+        <classifier class="online_producer" type="descriptor">Tea</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chocolate</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tea</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blood</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blood Pressure</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diet and Nutrition</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070424T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9502E2D6173EF937A15757C0A9619C8B63" item-length="270" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Dark Chocolate Similar To Blood Pressure Drugs</hl1>
+        <hl2 class="online_headline">Remedies: Dark Chocolate Similar to Blood Pressure Drugs</hl2>
+      </hedline>
+      <byline class="print_byline">By Nicholas Bakalar</byline>
+      <byline class="normalized_byline">Bakalar, Nicholas</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Eating dark chocolate may be almost as effective at lowering blood pressure as taking the most common antihypertensive drugs, a review of studies has found. Tea, on the other hand, appears to be ineffective.</p>
+        <p>The article says a diet rich in fruits and vegetables is healthy partly because plants contain chemical substances called polyphenols that help control blood pressure. In Western countries, the major sources of dietary polyphenols are tea and chocolate, but studies of their ties to blood pressure have had mixed results.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Four out of five studies on chocolate found reduced blood pressure after eating, a report says.</p>
+      </block>
+      <block class="full_text">
+        <p>Eating dark chocolate may be almost as effective at lowering blood pressure as taking the most common antihypertensive drugs, a review of studies has found. Tea, on the other hand, appears to be ineffective.</p>
+        <p>The article says a diet rich in fruits and vegetables is healthy partly because plants contain chemical substances called polyphenols that help control blood pressure. In Western countries, the major sources of dietary polyphenols are tea and chocolate, but studies of their ties to blood pressure have had mixed results.</p>
+        <p>From more than 3,000 papers, researchers picked the largest randomized and controlled prospective studies and used statistical techniques to combine the data. The analysis  included four studies of black tea, one of green tea and five of dark chocolate. It appears in the April 9 issue of The Archives of Internal Medicine.</p>
+        <p>Four of the five studies on chocolate found reduced blood pressure after eating, but none of the tea studies showed significant benefit. The magnitude of the effect of eating three and a half ounces of dark chocolate a day was clinically significant, comparable to that of beta-blockers like atenolol, known by the brand name Tenormin, or propranolol, known as Inderal. The authors acknowledge that the studies were short and that results may not apply to habitual use.</p>
+        <p>Milk proteins prevent the absorption of polyphenols, so milk chocolate is not effective. ''I've been eating a little more dark chocolate,'' said Dr. Dirk Taubert, the lead author and a professor of pharmacology at University Hospital in Cologne, Germany. ''And my blood pressure has gone down. But I have no dietary recommendations for others.''</p>
+        <p>VITAL SIGNS: REMEDIES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

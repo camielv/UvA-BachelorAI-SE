@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Tools to Keep The Web Safe For Children</title>
+    <meta content="14shortcuts" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/14/technology/14shortcuts.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840043"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="SHORTCUTS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Children and Youth</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <person class="indexing_service">Tugend, Alina</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Children and Youth</classifier>
+        <classifier class="online_producer" type="descriptor">Filters</classifier>
+        <classifier class="online_producer" type="general_descriptor">Filters</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070414T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940CE4D6133FF937A25757C0A9619C8B63" item-length="1257" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Tools to Keep The Web Safe For Children</hl1>
+        <hl2 class="online_headline">Tools to Keep the Web Safe for Children</hl2>
+      </hedline>
+      <byline class="print_byline">By ALINA TUGEND</byline>
+      <byline class="normalized_byline">Tugend, Alina</byline>
+      <abstract>
+        <p>Shortcuts article on filters and monitoring software to keep Internet safe for children; various computer programs detailed; photo (L)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>RECENTLY, a friend's 9-year-old son stumbled onto some all-too-vivid pornography while playing games on a children's Web site.</p>
+        <p>At first he was scared to let his mom know. But unable to hold it in any longer he blurted out that the images were ''haunting'' him.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>In learning about parental controls and filters for the Internet, one first has to learn the language.</p>
+      </block>
+      <block class="full_text">
+        <p>RECENTLY, a friend's 9-year-old son stumbled onto some all-too-vivid pornography while playing games on a children's Web site.</p>
+        <p>At first he was scared to let his mom know. But unable to hold it in any longer he blurted out that the images were ''haunting'' him.</p>
+        <p>''I can't get these pictures out of my head,'' he told her. ''I think about them all the time.''</p>
+        <p>My friend was stunned, especially since she thought she had some fairly strong controls on her computer to prevent such a thing from happening. ''I felt like a terrible mother,'' she said.</p>
+        <p>Listening to her, I felt like a fairly ignorant one. I had heard of Internet parental controls and filters, but had never checked them out. Telling our sons that they could visit only certain Web sites -- and as our computer is in a common room, keeping an eye on what they are doing -- seemed adequate to me.</p>
+        <p>But hearing my friend's story, I began to wonder whether I needed to investigate further. But first, I had to learn the language.</p>
+        <p>Broadly, filtering allows parents to control access to Web sites in different ways: some companies decide what is blocked; some let parents pick among predetermined categories; some provide a list that allows parents to add or remove sites.</p>
+        <p>A blacklist filters out Web sites usually based on categories, like sexually explicit material, hate groups or graphic violence. Filters generally do this by using one or a combination of the following methods: searching Web addresses or U.R.L.'s; keyword searches; or ''context sensitive'' keywords so that in the most common example, a chicken breast recipe or information about breast cancer would not be blocked when the word ''breast'' pops up.</p>
+        <p>Filtering can also be based on a ''white list,'' that is, allowing your child to use only approved Web sites.</p>
+        <p>There are different ways to install controls on a computer. The two most common are buying software or using what is available through your Internet service provider, which offers parental controls. The software -- many different types are available -- usually runs about $50 annually, while some service providers offer filters free. The newest version of Microsoft Windows, Windows Vista, has parental controls built into its system for the first time.</p>
+        <p>''When a parent calls, I say, check out what you already have before buying anything,'' said Danielle Yates, a spokeswoman for GetNetWise.org, which is part of the nonprofit organization, the Internet Education Foundation.</p>
+        <p>GetNetWise.org provides a wealth of information about Internet controls, including the debate surrounding the issue and details about specific products. I found out, for example, that most of the Internet search engines, like Google, AOL and Yahoo, have a simple process allowing you to set strict, moderate or no filter on your search engine to weed out explicit sexual content.</p>
+        <p>In a telephone survey conducted last year of 935 parents and teenagers -- to be released in a coming report -- the Pew Internet and American Life Project found that 53 percent of parents said they used filters and 45 percent said they used monitoring devices.</p>
+        <p>The survey also found that 50 percent of the teenagers thought that their parents were blocking Web sites, while 35 percent thought that they were being monitored.</p>
+        <p>Amanda Lenhart, a senior research specialist who oversaw the report, said in some cases the teenagers did not know their parents were snooping on them; in other cases they wrongly assumed their parents were using monitoring devices.</p>
+        <p>Installing a filter, however, is ''not a silver bullet,'' Ms. Yates said. Although they are usually fairly effective, bad stuff gets through, as my friend learned.</p>
+        <p>And although most of the opposition to blocking software is aimed at its use in public spaces like libraries and schools, some critics object in general to the technology. There are a myriad of reasons: it is censorship plain and simple; it leaves parents with a false sense of security; and by relying too much on technology, rather than education and supervision, children will be unprepared to deal with exposure to inappropriate content when it does eventually occur.</p>
+        <p>Neil Rubenking, lead analyst for operating systems and security for PC Magazine, reviews filtering and monitoring software. The best filter, he said, is his own eyes and ears.</p>
+        <p>''I work at home and I can look out at their computer, which is in a niche in the hall,'' he said, speaking of the computer his teenagers use.</p>
+        <p>And a tech-savvy child who is determined to get around a block will always find a way to do it, he said.</p>
+        <p>''They'll find another place if your home is totally locked down,'' Mr. Rubenking said. ''They will go to Jimmy's house next door.''</p>
+        <p>As every Web site on safe Internet use stresses, nothing replaces talking to your children about what they should and should not do on the computer; what Web sites they are allowed to visit; and ideally having the computer in a common room so you can keep an eye on it.</p>
+        <p>A step beyond filtering is monitoring software. Safe Eyes, for example, was top-rated by PC Magazine last year and Consumer Reports in 2005, both for its protection and for its minimal interference with legitimate research activity.</p>
+        <p>Safe Eyes blocks Web sites, but that is only the beginning; it can also log Internet activity, limit time spent on the computer, alert parents of inappropriate computer activity and read details of instant-messaging chats. It costs $49.95 a year (www.safeeyes.com).</p>
+        <p>''It certainly changes the climate of trust in the household, although a lot of parents do it when there are a lot of problems and they're trying to keep their children safe,'' Ms. Lenhart said.</p>
+        <p>Filtering I understand. The monitoring -- or let us call it what it is, spying -- seems far more repellent. But my oldest is just coming up to the teen years; when I hear parents of teenagers talking about MySpace and blogs and instant messaging, I want to bypass the monitoring software altogether and just toss the computer out the window.</p>
+        <p>The problem with snooping on your child, as Lawrence Balter, professor of applied psychology at New York University said, is: ''How do they develop common sense if someone is breathing down their neck? Then they spend all their time trying to evade you.''</p>
+        <p>But many parents I know say the world is too scary, especially the online world, and they want to exercise all the control they can.</p>
+        <p>Emma, the 14-year-old daughter of a good friend, said her parents blocked her access to various Web sites, including YouTube and MySpace. First of all, she let me know, she knows how to get around the AOL filters by getting access to the Internet through another provider, but she chooses not to do that.</p>
+        <p>''I don't really care that much, except it is really annoying that YouTube is blocked,'' Emma said. ''I just want to listen to music. I used to think it was unfair that I couldn't go on MySpace, but now I'm O.K. with it, because not a lot of my friends are on MySpace anymore.</p>
+        <p>''My parents clamp down more than my other friends' parents,'' she continued, ''and I don't think they should be able to do it. I'm smart enough not to do stupid things.''</p>
+        <p>The war between parents and children over control of the Internet is mirrored in the technological world's battles over filters and monitoring software; there are anticensorship Web sites like peacefire.org that show how to circumvent blocking software.</p>
+        <p>But of course, many filters now block the site.</p>
+        <p>SHORTCUTS E-mail: shortcuts@nytimes.com</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">E-mail: shortcuts@nytimes.com</tagline>
+    </body.end>
+  </body>
+</nitf>

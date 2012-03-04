@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Technology To Dissect Every Dunk And Drive</title>
+    <meta content="29digi" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/29/business/yourmoney/29digi.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1843807"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="DIGITAL DOMAIN"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Digital Domain</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball/National Basketball Association</classifier>
+        <classifier class="online_producer" type="descriptor">Basketball</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Statistics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Statistics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Basketball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <org class="online_producer">National Basketball Assn</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04EFDA123EF93AA15757C0A9619C8B63" item-length="1458" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Technology To Dissect Every Dunk And Drive</hl1>
+        <hl2 class="online_headline">Technology to Dissect Every Dunk and Drive</hl2>
+      </hedline>
+      <byline class="print_byline">By RANDALL STROSS</byline>
+      <byline class="normalized_byline">Stross, Randall</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WITH player salaries in the National Basketball Association running about $5 million, on average, the N.B.A. playoffs are putting on display employees who just happen to be the best-paid union members in the world. Though we may envy their pay, we shouldn't begrudge it: N.B.A. players are arguably the most gifted group of athletes in any professional sport.</p>
+        <p>They can be pitied, too. They work for employers who have embraced digital technology with intense fervor, which gives the N.B.A.'s 450 players the distinction of being perhaps the most closely scrutinized employees in the world.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The N.B.A.’s 450 players, arguably the most gifted group of athletes in any professional sport, are probably the most closely scrutinized employees in the world.</p>
+      </block>
+      <block class="full_text">
+        <p>WITH player salaries in the National Basketball Association running about $5 million, on average, the N.B.A. playoffs are putting on display employees who just happen to be the best-paid union members in the world. Though we may envy their pay, we shouldn't begrudge it: N.B.A. players are arguably the most gifted group of athletes in any professional sport.</p>
+        <p>They can be pitied, too. They work for employers who have embraced digital technology with intense fervor, which gives the N.B.A.'s 450 players the distinction of being perhaps the most closely scrutinized employees in the world.</p>
+        <p>Sports statistics have been avidly collected for almost as long as sports have existed -- baseball's box score, invented some 150 years ago, long predated the invention of basketball itself. After motion pictures arrived in the late 19th century, sports helped push the technology so that the performances of professional athletes could be recorded and enjoyed afterward. In 1894, Thomas Edison's laboratory expanded the capacity of the 20-second movie reel to a whopping 60 seconds so that a single, albeit abbreviated, round of boxing could be captured on one reel. Later, ''watching film'' of football and basketball teams would become so entrenched in the lives of coaches and players that the term lives on decades after the switch to videotape.</p>
+        <p>Through the 1980s, coaches watched videotape as they had film, but were unable to reorder quickly the essential elements of a game or to blend visuals with statistics. As long as editing tools were limited to linear techniques -- laboriously playing one videotape forward or backward to a particular spot to copy a short segment to a second tape -- the process severely limited coaches' ability to look at particular players or plays.</p>
+        <p>A coach would have to ask a video coordinator to assemble a tape of a certain play; the coordinator would stay up all night to complete it, but by the time the tape was delivered, the coach might have lost interest and moved on to something else.</p>
+        <p>Beginning in the late 1980s and early 1990s, digital editing arrived, allowing a team's video coordinator to move instantaneously to any point in a game. Still, searching for appropriate snippets was hard, so long as no index had been prepared to list which players were in which frame.</p>
+        <p>Particularly for basketball, a game in which many players interact with one another at any given moment, a highly granular description of what happens in every play was needed. Traditional statistics failed to capture the complexity.</p>
+        <p>Garrick Barr, who was video coordinator for the Phoenix Suns for 11 years, said, ''Coaches wanted to know, 'Which play types are hurting us?' '' Box scores were of little help.</p>
+        <p>In 1998, Mr. Barr founded a company that logged every N.B.A. game, closely tracking every offensive play and then generating an ''offensive tendency report'' for every player.</p>
+        <p>Eleven teams subscribed in the first year, but these reports offered only numbers. What his system needed were the videos, too.</p>
+        <p>In 2000, Mr. Barr and Nils B. Lahr, a former Microsoft engineer, started Synergy Sports Technology in Phoenix, to bring together for N.B.A. coaches fine-grained statistics matched with associated video clips. Want to stop Dirk Nowitzki of the Dallas Mavericks? Synergy's system has recorded every offensive step Mr. Nowitzki has made since he joined the league in 1998. Synergy has captured, for example, how successful he is driving right, or left, differentiating between home and away games, and further slicing and dicing into sub-sub-sub-categories. Click on any statistic and you can get video clips from the last three seasons of 20, or 50, or even 2,000 plays that show Nowitzki making that particular move.</p>
+        <p>Four teams signed up for Synergy's beta service in the 2004-05 season. Mark Cuban, the owner of one of those intrepid first teams, the Dallas Mavericks, liked what he saw and became Synergy's primary outside investor. When the service was formally rolled out for the 2005-06 season, the two teams that reached the finals happened to be the Mavericks and the Miami Heat, another Synergy client.</p>
+        <p>Most teams, however, did not jump to subscribe, and Mr. Barr groped for the most effective way of describing the value of his service to general managers. When he tried the phrase ''it's Google for basketball,'' one manager excitedly said, ''Now that's something I can take to my owner.''</p>
+        <p>This season, Synergy's client list expanded to 14 N.B.A. teams from 4. As always happens with new technology, the first customers have a momentary edge over competitors, but the lead disappears when the others decide that paying up is an unavoidable cost of being in the business.</p>
+        <p>While Synergy concentrated on a niche by addressing the needs of coaches, the N.B.A. two years ago began an eight-year digitization project for all of its constituencies, including fans, to absorb 400,000 hours of games and highlights from videotape. The project currently has available 1.2 petabytes of storage. (A petabyte is about one million gigabytes.)</p>
+        <p>This season, the league gave its teams access to its growing digital video library. It now has 3,650 games, which covers the last two seasons of N.B.A. games, as well as some archival footage and non-N.B.A. games. Each game is dissected and tagged, play by play, using about 200 descriptive categories, including some for offensive possessions, but these are not as finely drawn as Synergy's. Nor are the league's videos integrated with its statistics.</p>
+        <p>The video archive excels, however, in its comprehensive coverage of visually interesting aspects of the game, including those used for sportscasts: dunks (five subcategories), no-look passes, buzzer beaters, chest bumps and a gamut of categories of emotion ranging from ''Angry, Bored, Celebrating'' to ''Shocked, Smiling, Tired.''</p>
+        <p>A preliminary version of a video index was introduced three seasons ago for the use of league officials who oversee officiating. When a particular official is criticized by the news media for a lame game-deciding charging call, Stu Jackson, the N.B.A. executive who oversees operations, can now call up -- instantly -- every similar call by that official.</p>
+        <p>The usefulness of the N.B.A. archive depends on the detailed descriptions written by its staff for every play of a game. The specialized needs of Synergy's clients -- coaches -- require the addition of still more details to the N.B.A.'s play-by-play narrative.</p>
+        <p>The company offers an easy way for a team's coaching staff to prepare a set of clips that can be downloaded to an iPod.</p>
+        <p>Some players appreciate the convenience of being able to prepare privately for the defensive assignment in the next game. Others resist having their pregame ritual usurped by a homework assignment. One N.B.A. team bought iPods for every player; that naturally removed an excuse a player might have for not ''watching film'' to prepare for a game.</p>
+        <p>David Griffin, the assistant general manager for the Phoenix Suns and one of Synergy's customers, is excited about integrating statistics, video and a third component -- a scouting database -- as Synergy has begun to record and log college games for this purpose. ''In a way, that's never happened before,'' Mr. Griffin said. ''We're able to dissect a player like never before.''</p>
+        <p>If coverage can expand from the professional to the college level, maybe high school and junior high will eventually follow. Similar tools will be adopted by other sports, too. Mr. Barr said his company has been approached by individuals who want to gauge his company's interest in building out parallel services for football in the United States and soccer in England. Mr. Barr has discovered that the insight shared within the basketball fraternity is shared by coaches in other sports. ''The statistics point you in the right direction,'' he said, ''but to understand, you have to watch the video.'' Mr. Griffin, of the Phoenix Suns, predicted, ''Eventually, everybody will be able to see anything you want to see, any time.''</p>
+        <p>PROFESSIONAL basketball provides a working example of the unblinking eye that someday may hover above all workplaces. Until now, we have enjoyed protection from continuous scrutiny simply because subsequent watching of raw, unedited video was too time-consuming to be worth the trouble to supervisors.</p>
+        <p>The breakthrough in professional sports was the development of technology that strips away the inessential and dispenses with the time-consuming editing of linear narrative. By fusing statistics with visuals, a well-indexed digital archive provides answers to an infinite universe of questions quickly, painlessly and compactly.</p>
+        <p>In the past, without digital technology, no large company could make use of a multimedia archive documenting employee performance, unless, that is, the company could afford to hire a full-time video coordinator for every employee. In the future, however, the employer will be able, with just a click, to watch a Tube starring just You.</p>
+        <p>Control of that edit will not be in your hands.</p>
+        <p>DIGITAL DOMAIN Randall Stross is an author based in Silicon Valley and a professor of business at San Jose State University. E-mail: stross@nytimes.com.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Randall Stross is an author based in Silicon Valley and a professor of business at San Jose State University. E-mail: stross@nytimes.com.</tagline>
+    </body.end>
+  </body>
+</nitf>

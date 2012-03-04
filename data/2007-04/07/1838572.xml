@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>FREE TRADE</title>
+    <meta content="07five-6" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838572"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="FIVE DAYS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">International Trade and World Market</classifier>
+        <classifier class="indexing_service" type="descriptor">Automobiles</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="indexing_service" type="descriptor">Customs (Tariff)</classifier>
+        <location class="indexing_service">South Korea</location>
+        <org class="indexing_service">Hyundai Motor Co</org>
+        <org class="indexing_service">Kia Motor Corp</org>
+        <person class="indexing_service">Sang-Hun, Choe</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/South Korea</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/South Korea</classifier>
+        <classifier class="online_producer" type="general_descriptor">Customs (Tariff)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Customs (Tariff)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Trade and World Market</classifier>
+        <classifier class="online_producer" type="general_descriptor">Taxation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070407T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9905E2DF143FF934A35757C0A9619C8B63" item-length="179" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>FREE TRADE</hl1>
+      </hedline>
+      <byline class="print_byline">By CHOE SANG-HUN</byline>
+      <byline class="normalized_byline">Sang-Hun, Choe</byline>
+      <abstract>
+        <p>Five Days column; US reached free trade agreement with South Korea; deal, if ratified by Congress, means cheaper Hyundai and Kia cars for American consumers; US agreed to lift 2.5 percent tariffs on South Korean cars; deal will also remove South Korea's 8 percent import duty on cars; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The United States reached a free trade agreement with South Korea, its biggest since the North American Free Trade Agreement with Canada and Mexico.</p>
+        <p>The deal, if ratified by Congress, means cheaper Hyundai and Kia cars for American consumers; Washington agreed to lift 2.5 percent tariffs on South Korean cars. The deal will also remove South Korea's 8 percent import duty on cars and phase out heavier tariffs on beef and oranges, helping American car companies, ranchers and farmers expand in South Korea, where consumers are developing a taste for foreign goods.</p>
+      </block>
+      <block class="full_text">
+        <p>The United States reached a free trade agreement with South Korea, its biggest since the North American Free Trade Agreement with Canada and Mexico.</p>
+        <p>The deal, if ratified by Congress, means cheaper Hyundai and Kia cars for American consumers; Washington agreed to lift 2.5 percent tariffs on South Korean cars. The deal will also remove South Korea's 8 percent import duty on cars and phase out heavier tariffs on beef and oranges, helping American car companies, ranchers and farmers expand in South Korea, where consumers are developing a taste for foreign goods.</p>
+        <p>American cattle farmers, kicked out of the South Korean beef market three years ago after an outbreak of mad cow disease, lobbied for an immediate re-entry. That wish was not fulfilled during the trade talks.</p>
+        <p>In coming months, each government faces the task of persuading its legislature to agree to the pact, which they say will add $20 billion to bilateral trade. They will continue to talk, meanwhile, on whether, and how fast, South Korea should lift its ban on American beef.</p>
+        <p>CHOE SANG-HUN</p>
+        <p>FIVE DAYS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

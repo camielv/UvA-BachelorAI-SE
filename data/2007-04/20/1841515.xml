@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>BREAKING GROUND</title>
+    <meta content="20break1" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Escapes" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="http://www.nytimes.com/2007/04/20/realestate/greathomes/20break2_ready.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1841515"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Breaking Ground"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Escapes</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Great Homes</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Great Homes/Destinations/Hawaii</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Locations/Regions</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Locations/Regions/Western States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Real Estate</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Wisconsin</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Hawaii</classifier>
+        <classifier class="online_producer" type="descriptor">Housing</classifier>
+        <classifier class="online_producer" type="descriptor">Real Estate</classifier>
+        <classifier class="online_producer" type="general_descriptor">Real Estate</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+        <location class="online_producer">Hawaii</location>
+        <location class="online_producer">Wisconsin</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070420T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E3DB1F3FF933A15757C0A9619C8B63" item-length="512" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>BREAKING GROUND</hl1>
+        <hl2 class="online_headline">Maluaka and the Cottages at Canoe Bay</hl2>
+      </hedline>
+      <byline class="print_byline">By NICK KAYE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Cottages at Canoe Bay</p>
+        <p>WHAT -- Residences at a well-known resort.  WHERE -- Chetek, Wis.  AMENITIES -- Lake activities, a restaurant and concierge service, among others.  PRICES -- From just under $500,000.  STATUS -- Planned to begin opening around the end of this year.  DEVELOPER -- Canoe Bay.  CONTACT -- (715) 924-4594 or www.canoebay.com.  DETAILS -- In northwest Wisconsin about two hours east of Minneapolis, this project consists of 10 residences in cottages at Canoe Bay, a 280-acre Relais &amp; Châteaux resort. The residences, 1,000 to 1,600 square-foot studio to two-bedroom units, will fill six buildings overall, with no more than two units per building. Designed to reflect the architecture of Frank Lloyd Wright, the cottages will have cedar exteriors, and the residences, which will be sold furnished, will have cedar decks, red oak floors, limestone fireplaces, vaulted ceilings, two-person whirlpools, flat-screen televisions and climate-controlled wine storage. A rental program will be available to owners, who will have personal concierges to provide services like pre-arrival grocery shopping. The resort, which has only 21 cottages, rooms and suites for guests, is on three lakes. There are canoes, kayaks, rowboats and a swim dock, as well as hiking trails throughout its site. A fitness center overlooks one of the lakes, and the fine-dining restaurant has a wine cellar with about 10,000 bottles. Children are not allowed at the resort, which also prohibits smoking and pets. Nonstop flights to the Minneapolis-St. Paul airport leave from most major American cities, including New York.</p>
+        <p>Maluaka</p>
+        <p>WHAT -- Oceanfront residential community.  WHERE -- On Maui in Hawaii.  AMENITIES -- Beach access and a full-service spa, among others.  PRICES -- Residences, all full-ownership, from about $5 million to more than $15 million.  STATUS -- Construction started recently and is planned to be completed in 2009.  DEVELOPER -- Dowling Company.  CONTACT -- (808) 879-0009 or www.maluaka.com.  DETAILS -- This 11-acre gated project is on southern Maui's western coast at Makena Bay, with the 18th hole of a golf course designed by Robert Trent Jones, Jr., separating it from the coastline. There will be 69 total residences: 2,300 to 3,500 square-foot, two- to three-bedroom units in 11 two- to four-story buildings and two three-bedroom, 4,500-square-foot bungalows. All the residences will have stone floors, wine storage, wireless Internet access and lanais with water views and grills, and the bungalows will feature private swimming pools and whirlpools. A private clubhouse with an infinity pool, a lounge, a restaurant, a fitness center and the full-service spa will be built, and adjacent to the project is a white sand beach where kayaks, snorkels, surfboards and other equipment will be available. Culinary classes and wine tastings will be offered, and a concierge service will arrange golf and other activities. The project's plan includes many green building features like solar power and recycled materials. Kahului Airport, on the island about 35 minutes away, has nonstop flights from the mainland.</p>
+        <p>NICK KAYE</p>
+        <p>Breaking Ground is a weekly look at projects, planned or under construction, that include weekend or vacation homes.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>An oceanfront residential community on Maui and residences at a well-known resort in Wisconsin.</p>
+      </block>
+      <block class="full_text">
+        <p>The Cottages at Canoe Bay</p>
+        <p>WHAT -- Residences at a well-known resort.  WHERE -- Chetek, Wis.  AMENITIES -- Lake activities, a restaurant and concierge service, among others.  PRICES -- From just under $500,000.  STATUS -- Planned to begin opening around the end of this year.  DEVELOPER -- Canoe Bay.  CONTACT -- (715) 924-4594 or www.canoebay.com.  DETAILS -- In northwest Wisconsin about two hours east of Minneapolis, this project consists of 10 residences in cottages at Canoe Bay, a 280-acre Relais &amp; Châteaux resort. The residences, 1,000 to 1,600 square-foot studio to two-bedroom units, will fill six buildings overall, with no more than two units per building. Designed to reflect the architecture of Frank Lloyd Wright, the cottages will have cedar exteriors, and the residences, which will be sold furnished, will have cedar decks, red oak floors, limestone fireplaces, vaulted ceilings, two-person whirlpools, flat-screen televisions and climate-controlled wine storage. A rental program will be available to owners, who will have personal concierges to provide services like pre-arrival grocery shopping. The resort, which has only 21 cottages, rooms and suites for guests, is on three lakes. There are canoes, kayaks, rowboats and a swim dock, as well as hiking trails throughout its site. A fitness center overlooks one of the lakes, and the fine-dining restaurant has a wine cellar with about 10,000 bottles. Children are not allowed at the resort, which also prohibits smoking and pets. Nonstop flights to the Minneapolis-St. Paul airport leave from most major American cities, including New York.</p>
+        <p>Maluaka</p>
+        <p>WHAT -- Oceanfront residential community.  WHERE -- On Maui in Hawaii.  AMENITIES -- Beach access and a full-service spa, among others.  PRICES -- Residences, all full-ownership, from about $5 million to more than $15 million.  STATUS -- Construction started recently and is planned to be completed in 2009.  DEVELOPER -- Dowling Company.  CONTACT -- (808) 879-0009 or www.maluaka.com.  DETAILS -- This 11-acre gated project is on southern Maui's western coast at Makena Bay, with the 18th hole of a golf course designed by Robert Trent Jones, Jr., separating it from the coastline. There will be 69 total residences: 2,300 to 3,500 square-foot, two- to three-bedroom units in 11 two- to four-story buildings and two three-bedroom, 4,500-square-foot bungalows. All the residences will have stone floors, wine storage, wireless Internet access and lanais with water views and grills, and the bungalows will feature private swimming pools and whirlpools. A private clubhouse with an infinity pool, a lounge, a restaurant, a fitness center and the full-service spa will be built, and adjacent to the project is a white sand beach where kayaks, snorkels, surfboards and other equipment will be available. Culinary classes and wine tastings will be offered, and a concierge service will arrange golf and other activities. The project's plan includes many green building features like solar power and recycled materials. Kahului Airport, on the island about 35 minutes away, has nonstop flights from the mainland.</p>
+        <p>NICK KAYE</p>
+        <p>Breaking Ground is a weekly look at projects, planned or under construction, that include weekend or vacation homes.  Breaking Ground</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Newspaper Circulation In Steep Slide Across Nation</title>
+    <meta content="01paper" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/05/01/business/media/01paper.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1844228"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Newspapers</classifier>
+        <classifier class="indexing_service" type="descriptor">Sales</classifier>
+        <org class="indexing_service">Audit Bureau of Circulations</org>
+        <org class="indexing_service">New York Post</org>
+        <org class="indexing_service">New York Daily News</org>
+        <org class="indexing_service">Usa Today</org>
+        <org class="indexing_service">Wall Street Journal</org>
+        <org class="indexing_service">New York Times</org>
+        <org class="indexing_service">Los Angeles Times</org>
+        <person class="indexing_service">Perez-Pena, Richard</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Sales and Business Development</classifier>
+        <classifier class="online_producer" type="descriptor">Newspapers</classifier>
+        <classifier class="online_producer" type="descriptor">Sales</classifier>
+        <classifier class="online_producer" type="general_descriptor">Newspapers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sales</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+        <org class="online_producer">New York Post</org>
+        <org class="online_producer">New York Daily News</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070501T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E1D8133EF932A35756C0A9619C8B63" item-length="592" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Newspaper Circulation In Steep Slide Across Nation</hl1>
+        <hl2 class="online_headline">Newspaper Circulation in Steep Slide Across Nation</hl2>
+      </hedline>
+      <byline class="print_byline">By RICHARD PEREZ-PENA</byline>
+      <byline class="normalized_byline">Perez-Pena, Richard</byline>
+      <abstract>
+        <p>Audit Bureau of Circulations figures show newspaper sales continued steep slide in six months ended March 31, but New York Post and New York Daily News continued to buck trend, posting largest gains among major papers; industry as whole reports 2.1 percent drop in weekday circulation, and 3.1 percent on Sundays; circulation at New York Post rose 7.6 percent on weekdays and 6.2 percent on Sundays; New York Daily News circulation rose 1.4 percent on weekdays, but slipped 2.5 percent on Sundays; USA Today and Wall Street Journal posted fractional gains in period, while New York Times's circulation dropped 1.9 percent on weekdays and 3.4 percent on Sundays; Los Angeles Times lost 4.2 percent of its weekday sales, and 4.7 percent on Sundays; weekday circulation averaged 815,000, almost 300,000 below where it stood seven year earlier (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Newspaper sales continue a steep slide nationally, figures released Monday show, but two New York City tabloids continued to buck the trend, posting the largest gains among major papers.</p>
+        <p>The industry as a whole reported a 2.1 percent drop in weekday circulation, and 3.1 percent on Sundays, in the six months ended March 31, compared with the period a year earlier. The figures, compiled by the Audit Bureau of Circulations but not yet audited, reflect 745 of the nation's more than 1,400 daily newspapers.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Despite the slide, two New York City tabloids continued to buck the trend, posting the largest gains among major papers.</p>
+      </block>
+      <block class="full_text">
+        <p>Newspaper sales continue a steep slide nationally, figures released Monday show, but two New York City tabloids continued to buck the trend, posting the largest gains among major papers.</p>
+        <p>The industry as a whole reported a 2.1 percent drop in weekday circulation, and 3.1 percent on Sundays, in the six months ended March 31, compared with the period a year earlier. The figures, compiled by the Audit Bureau of Circulations but not yet audited, reflect 745 of the nation's more than 1,400 daily newspapers.</p>
+        <p>The figures follow first-quarter reports for the nation's major newspaper companies that showed falling earnings, declines in advertising and plans for continued staff cuts, heightening fears about the future of newspapers. Circulation figures have dropped gradually for two decades, beginning in the 1980s, but since 2004, the decline has picked up speed as readers and advertisers have migrated to the Internet.</p>
+        <p>But The New York Post, and its rival, The Daily News, defied the industry's gravity. Circulation at The Post jumped 7.6 percent on weekdays and 6.2 percent on Sundays, and at The News it rose 1.4 percent on weekdays, but slipped 2.5 percent on Sundays.</p>
+        <p>Sales have held fairly steady in recent years at the nation's three largest-circulation newspapers, USA Today (more than 2.2 million), The Wall Street Journal (more than 2 million) and The New York Times (more than 1.1 million). In the most recent period, USA Today and The Journal, which do not print Sunday issues, posted fractional gains, while The Times's circulation dropped 1.9 percent on weekdays and 3.4 percent on Sundays.</p>
+        <p>The Los Angeles Times, roiled by internal dissension, leadership turnover and a recent deal by its owner, the Tribune Company, to take the company private, lost 4.2 percent of its weekday sales, and 4.7 percent on Sundays. The Times's weekday circulation averaged 815,000, almost 300,000 below where it stood seven years earlier.</p>
+        <p>In New York City, The Daily News and The Post have long sparred with promotions, games and articles belittling each other, in a contest that often seems as much a reflection of their executives' egos as any business strategy. As of yesterday, the newsstand price of The Post rose to 50 cents, while The News dropped its weekday price from 50 cents to 25 cents for at least a week.</p>
+        <p>Last year, The Post, owned by Rupert Murdoch's News Corporation, overtook The News in weekday circulation for the first time in memory, and it continued to hold a slim lead in yesterday's report, 725,000 to 718,000. But The News, owned by Mortimer Zuckerman, remains far ahead in Sunday sales, 776,000 to 439,000, and in advertising.</p>
+        <p>In interviews, executives at each paper sought to poke holes in the other's figures.</p>
+        <p>The editor of The Post, Col Allan, pointed to a large increase in Daily News copies paid for by someone other than readers, including those bought by hotels for guests, or advertisers for promotional giveaways. ''The Daily News is using third-party sales to cover up the collapse of their paid circulation,'' he said.</p>
+        <p>The chief executive of The Daily News, Marc Z. Kramer, cited a recent Scarborough Research report that far more people read his paper, and he disparaged The Post's campaign to bolster circulation in other parts of the country as a failed strategy.</p>
+        <p>Neither tabloid's financial information is public; The News is privately held and the News Corporation does not break out figures for The Post. But analysts believe The News turns a small profit, while The Post loses tens of millions of dollars a year.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

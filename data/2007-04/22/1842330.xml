@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Affordable Europe: Florence</title>
+    <meta content="22florenceweb" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="" name="print_section"/>
+    <meta content="Travel" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/22/travel/22florenceweb.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842330"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <location class="indexing_service">Florence (Italy)</location>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Italy/Tuscany and Umbria</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Italy/Tuscany and Umbria/Florence</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Italy</classifier>
+        <classifier class="online_producer" type="descriptor">Travel and Vacations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+        <location class="online_producer">Florence (Italy)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9807E1D61631F931A15757C0A9619C8B63" item-length="517" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Affordable Europe: Florence</hl1>
+        <hl2 class="online_headline">Affordable Europe: Florence</hl2>
+      </hedline>
+      <byline class="print_byline">By DANIELLE PERGAMENT</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Florence is the land of the Renaissance, the home of the intelligentsia and masterworks, the purveyors of handmade shoes and the finest leather, and the stage for exquisite food and top-flight wine. In other words, it'll cost you. But if you know where to look, you'll see that some euros go farther than others.</p>
+        <p>Where to Stay for Under 125 Euros</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>If you know where to look, you’ll see that some euros go farther than others.</p>
+      </block>
+      <block class="full_text">
+        <p>Florence is the land of the Renaissance, the home of the intelligentsia and masterworks, the purveyors of handmade shoes and the finest leather, and the stage for exquisite food and top-flight wine. In other words, it'll cost you. But if you know where to look, you'll see that some euros go farther than others.</p>
+        <p>Where to Stay for Under 125 Euros</p>
+        <p>You're as likely to find an affordable hotel in Florence as you are to find a bad meal -- they exist, but you really have to dig for them. Joanna I, Antiche Dimore Fiorentine (Via Bonifacio Lupi, 14; 39-055-481-896, www.johanna.it), is the exception. Smack in the center of town, this tiny hotel feels more like the 200-year-old palazzo of a really chic Florentine friend than it is a recently renovated pensione. The 10 rooms -- starting at 100 euros, or $136, in high season -- have elegant touches like canopy beds, gauzy curtains, colorful sheets and hardwood floors. Adding to the homey touch, guests are given their own front-door keys to let themselves in, after hours, and the hotel bar works on the honor system.</p>
+        <p>Where to Eat  One of the liveliest spots in town is also one of the cheapest. Cibreo Teatro del Sale(Via dei Macci 111/r; 39-055-200-1492, www.teatrodelsale.com) is a private club that offers one-time memberships at the door (5 euros). Once inside, 25 euros buys you all the food and wine you can eat and drink. Get there early, around 7:30 p.m., so you don't miss all the great dishes that the kitchen continually lays out on the buffet: fresh pastas, grilled meats, sautéed vegetables and all kinds of salads. Plates are small but no one is shy about going back for seconds, thirds and fourths. Around 9:30 p.m., all chairs turn to face the stage for the evening's performance, which could be anything from ''Macbeth'' to Gershwin.</p>
+        <p>Where to Shop  Yes, the flea market in Piazza San Lorenzo is a zoo, but it's a zoo with amazing deals -- if you're willing to roll up your sleeves and follow a few tips. First, avoid any stands where the merchant doesn't speak Italian -- that's a sign that those soft leather gloves were actually imported from China. Then, be sure to avoid anyone who barks or wants to haggle -- true Florentine craftsmen won't do either. The flea market is best for small leather accessories, like hand-bound journals and wallets, which should cost between 3 and 30 euros, depending on the size and quality.</p>
+        <p>Best Money-Saving Tip  Just before the sun sets, make your way up, up, up to Piazzale Michelangelo, the best view of Florence from anywhere -- the entire city spreads before you like a flawless architectural model. During the day, the Piazzale swarms with tourists, but in the evening, the cafes fill up with local residents who come to watch the sun dip over their city. While you're there, visit the San Miniato al Monte (via Monte alle Croci 34, 39-055-234-2731), an 11th-century church famed for its Romanesque architecture. Listen for the chants of the Benedictine monks during vespers.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

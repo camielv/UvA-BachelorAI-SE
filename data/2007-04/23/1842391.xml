@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>More Staff Cuts Expected at Chicago Tribune and Los Angeles Times</title>
+    <meta content="23paper" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/23/business/media/23paper.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842391"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MEDIA"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="descriptor">Layoffs and Job Reductions</classifier>
+        <classifier class="online_producer" type="descriptor">Newspapers</classifier>
+        <classifier class="online_producer" type="descriptor">News and News Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Newspapers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Layoffs and Job Reductions</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+        <org class="online_producer">Tribune Company</org>
+        <org class="online_producer">Chicago Tribune</org>
+        <org class="online_producer">Los Angeles Times</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070423T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9903E2DA173EF930A15757C0A9619C8B63" item-length="504" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>More Staff Cuts Expected at Chicago Tribune and Los Angeles Times</hl1>
+        <hl2 class="online_headline">More Staff Cuts Expected at Chicago Tribune and Los Angeles Times</hl2>
+      </hedline>
+      <byline class="print_byline">By STEPHANIE SAUL</byline>
+      <byline class="normalized_byline">Saul, Stephanie</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Tribune Company is expected to announce staffing reductions as early as today at its flagship Chicago Tribune as well as its largest-circulation newspaper, The Los Angeles Times, as revenue in the newspaper industry declines.</p>
+        <p>While no official announcement had been made about the cuts, reports in both newspapers late last week, citing informants they did not identify, said they were imminent and would be carried out mostly through voluntary buyout packages.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Reports in both newspapers said job cuts were imminent and would be carried out mostly through voluntary buyout packages.</p>
+      </block>
+      <block class="full_text">
+        <p>The Tribune Company is expected to announce staffing reductions as early as today at its flagship Chicago Tribune as well as its largest-circulation newspaper, The Los Angeles Times, as revenue in the newspaper industry declines.</p>
+        <p>While no official announcement had been made about the cuts, reports in both newspapers late last week, citing informants they did not identify, said they were imminent and would be carried out mostly through voluntary buyout packages.</p>
+        <p>The editor of The Los Angeles Times, James O'Shea, confirmed yesterday that an announcement of cutbacks at his newspaper was to come today.</p>
+        <p>''The whole industry is going through this,'' said Mr. O'Shea, reached by telephone yesterday in Washington where he had attended the annual White House Correspondents' Association dinner Saturday night. ''There are staff reductions everywhere you look. Unfortunately, we aren't exempt from the laws of economic nature.''</p>
+        <p>Many newspaper companies, including Tribune, have reduced their staffs in recent years in an effort to cut costs in response to declining revenue. A shift toward online advertising and away from print media has hurt ad sales at newspapers.</p>
+        <p>The Chicago Tribune reported Friday that its staff was anticipating an announcement that buyout packages would be offered, with the goal of reducing the staff by about 100.</p>
+        <p>Mr. O'Shea said he could not provide details of anticipated reductions at The Los Angeles Times, but the newspaper had reported that the reduction was expected to involve 150 staff members, including 70 from the newsroom. That would amount to 7.6 percent of the news staff, according to a report in the paper on Saturday.</p>
+        <p>A spokesman for the Tribune Company, Gary Weitman, declined to comment on any planned staff reductions.</p>
+        <p>While revenue is down at most newspapers, the Tribune Company, whose papers also include Newsday and The Baltimore Sun, reported quarterly results last Thursday that lagged behind its peers, with a net loss of $15.6 million in the quarter and a 12 percent reduction in operating cash flow.</p>
+        <p>The latest round of cutbacks followed announcement early this month of a complex $8.2 billion deal in which Tribune is to be taken private at a price of $34 a share. That agreement would place the Chicago real estate magnate Samuel Zell at the helm of the company. It is subject to regulatory and shareholder approval and is not expected to be made final until the end of the year. The vast debt load in that arrangement, about $13 billion, makes budget cutting even more critical.</p>
+        <p>Last July, the chairman of the Tribune Company, Dennis J. FitzSimons, told investors that the company planned to save $200 million in expenses over the next 24 months.</p>
+        <p>Further staff cutbacks at The Los Angeles Times have been rumored since the fall, when the newspaper's publisher, Jeffrey M. Johnson, and its editor, Dean Baquet, were forced out after opposing plans by the Tribune Company to cut the staff any further. Mr. Baquet is now the Washington bureau chief and an assistant managing editor for The New York Times.</p>
+        <p>MEDIA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="30ireland--refer" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1844069"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070430T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9504EEDB133EF933A05757C0A9619C8B63" item-length="164" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Irish Leader Calls Election  Prime Minister Bertie Ahern of Ireland, who with his centrist party, Fianna Fail, has governed in a parliamentary coalition since 1997, has called for a general election to take place on May 24.</p>
+        <p>PAGE A6</p>
+        <p>Saddling Up For a Final Ride  Patrons said goodbye and some got in one last ride on the final day of operations for the Claremont Riding Academy on the Upper West Side. The academy, a patch of un-Manhattan in the middle of Manhattan, was the oldest continuously operated stable in New York City.</p>
+        <p>PAGE B1</p>
+        <p>Social Networking by Phone  The social networking experience is going mobile, with powerful new devices that allow people to share round-the-clock updates about their vacations, their moods or their latest haircut.</p>
+        <p>BUSINESS DAY, PAGE C1</p>
+        <p>Bay Area Overpass Collapses  A fiery tanker truck accident caused the collapse of an overpass near downtown Oakland, Calif., hobbling a vital interchange. The driver had second-degree burns; no other injuries were reported.</p>
+        <p>PAGE A14</p>
+      </block>
+      <block class="full_text">
+        <p>Irish Leader Calls Election  Prime Minister Bertie Ahern of Ireland, who with his centrist party, Fianna Fail, has governed in a parliamentary coalition since 1997, has called for a general election to take place on May 24.</p>
+        <p>PAGE A6</p>
+        <p>Saddling Up For a Final Ride  Patrons said goodbye and some got in one last ride on the final day of operations for the Claremont Riding Academy on the Upper West Side. The academy, a patch of un-Manhattan in the middle of Manhattan, was the oldest continuously operated stable in New York City.</p>
+        <p>PAGE B1</p>
+        <p>Social Networking by Phone  The social networking experience is going mobile, with powerful new devices that allow people to share round-the-clock updates about their vacations, their moods or their latest haircut.</p>
+        <p>BUSINESS DAY, PAGE C1</p>
+        <p>Bay Area Overpass Collapses  A fiery tanker truck accident caused the collapse of an overpass near downtown Oakland, Calif., hobbling a vital interchange. The driver had second-degree burns; no other injuries were reported.</p>
+        <p>PAGE A14</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

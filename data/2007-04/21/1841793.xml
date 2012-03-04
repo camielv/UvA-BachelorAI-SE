@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bless the Blackout</title>
+    <meta content="21sat3" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/21/opinion/21sat3.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1841793"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Electronic Mail</classifier>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="descriptor">Wireless Communications</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electronic Mail</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070421T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F01E2DA163EF932A15757C0A9619C8B63" item-length="278" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bless the Blackout</hl1>
+        <hl2 class="online_headline">Bless the Blackout</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial holds that some five million of eight million BlackBerry subscribers were forced to take stock of their reliance on little mobile devices when large chunk of wireless e-mail system unexpectedly went down; says that usefulness and persistence of devices are by now undeniable--only need to check them constantly in most churlish manner possible is under debate</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Some five million of the eight million BlackBerry subscribers were forced to take stock of their (over)reliance on the little mobile devices earlier this week when a large chunk of the wireless e-mail system unexpectedly went down. At least one highly interested group of people could be forgiven for sudden bouts of schadenfreude: the significant others of these BlackBerry dependents who find it nearly impossible to carry on a conversation without having to endure the distracted downward glances and covert typing that say, ''My interest lies elsewhere.''</p>
+        <p>The addictive quality of BlackBerry messages is well documented. Users call them CrackBerrys as a kind of homage to the addictive quality of the service. One user told The Times that it was harder to quit than smoking, while another spoke of feeling ''phantom vibrations'' -- like twinges from a missing limb -- even when he wasn't carrying his.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A glitch in the BlackBerry system accomplished temporarily what some had, in their darkest moments, considered effecting with a hammer.</p>
+      </block>
+      <block class="full_text">
+        <p>Some five million of the eight million BlackBerry subscribers were forced to take stock of their (over)reliance on the little mobile devices earlier this week when a large chunk of the wireless e-mail system unexpectedly went down. At least one highly interested group of people could be forgiven for sudden bouts of schadenfreude: the significant others of these BlackBerry dependents who find it nearly impossible to carry on a conversation without having to endure the distracted downward glances and covert typing that say, ''My interest lies elsewhere.''</p>
+        <p>The addictive quality of BlackBerry messages is well documented. Users call them CrackBerrys as a kind of homage to the addictive quality of the service. One user told The Times that it was harder to quit than smoking, while another spoke of feeling ''phantom vibrations'' -- like twinges from a missing limb -- even when he wasn't carrying his.</p>
+        <p>Somewhat less attention has been given to the innocent bystanders: the spouses, friends and lovers whose evenings and weekends have been ruined by the buzz, the ring or the blinking light. The pull is so strong that it can wipe away all courtesy in a flash. Both the usefulness and the persistence of the devices are by now undeniable. Only the need to check them constantly in the most churlish manner possible is now under debate.</p>
+        <p>As the rules of the road are negotiated (an hourly limit of three checks may be ideal but a simple ''excuse me'' once in a while may have to do), BlackBerry co-dependents could enjoy a rueful laugh at the suddenly severed tether. A glitch accomplished temporarily what some had, in their darkest moments, considered effecting with a hammer.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

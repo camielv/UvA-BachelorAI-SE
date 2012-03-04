@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Interactive Imaginings Of a Spaniard in the Spotlight</title>
+    <meta content="03cata" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/03/arts/dance/03cata.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837660"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="DANCE REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Spain</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Spain/Catalonia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Spain</classifier>
+        <classifier class="online_producer" type="descriptor">Dancing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dancing</classifier>
+        <location class="online_producer">Catalonia (Spain)</location>
+        <org class="online_producer">Baryshnikov Arts Center</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070403T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9400E7DE1F30F930A35757C0A9619C8B63" item-length="313" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Interactive Imaginings Of a Spaniard in the Spotlight</hl1>
+        <hl2 class="online_headline">The Interactive Imaginings of a Spaniard in the Spotlight</hl2>
+      </hedline>
+      <byline class="print_byline">By JENNIFER DUNNING</byline>
+      <byline class="normalized_byline">Dunning, Jennifer</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It was fitting that Cesc Gelabert should close the dance component of ''Made in Catalunya,'' a festival celebrating the rich, idiosyncratic Catalan cultural history. Mr. Gelabert is one of the earliest modern-dance artists of a generation based in Barcelona that came of age in the 1980s. He is also sui generis, as his solo, ''Glimpse,'' suggested in a performance on Saturday night at the Baryshnikov Arts Center.</p>
+        <p>In ''Glimpse,'' set to a score by Carlos Miranda, Mr. Gelabert danced in front of a handsome video created by Charles Atlas, sometimes interacting with the images. Program notes described those images as representing the performer's thoughts and emotions, but it was never clear exactly what Mr. Gelabert might be thinking or feeling as blocky forms used in computer choreography sprawled, reached and twisted behind him -- along with abstract patterns, replications of himself dancing and a variety of odd objects, including a tomato, an orange and a large snail amid mushrooms. (At one point, the live Mr. Gelabert reached toward a screen full of fire, and a slow-slithering snake crawled from where his finger pointed.)</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>In “Glimpse” on Saturday at the Baryshnikov Arts Center, Mr. Gelabert was as fluid as ever, but it was unclear what he might be thinking or feeling.</p>
+      </block>
+      <block class="full_text">
+        <p>It was fitting that Cesc Gelabert should close the dance component of ''Made in Catalunya,'' a festival celebrating the rich, idiosyncratic Catalan cultural history. Mr. Gelabert is one of the earliest modern-dance artists of a generation based in Barcelona that came of age in the 1980s. He is also sui generis, as his solo, ''Glimpse,'' suggested in a performance on Saturday night at the Baryshnikov Arts Center.</p>
+        <p>In ''Glimpse,'' set to a score by Carlos Miranda, Mr. Gelabert danced in front of a handsome video created by Charles Atlas, sometimes interacting with the images. Program notes described those images as representing the performer's thoughts and emotions, but it was never clear exactly what Mr. Gelabert might be thinking or feeling as blocky forms used in computer choreography sprawled, reached and twisted behind him -- along with abstract patterns, replications of himself dancing and a variety of odd objects, including a tomato, an orange and a large snail amid mushrooms. (At one point, the live Mr. Gelabert reached toward a screen full of fire, and a slow-slithering snake crawled from where his finger pointed.)</p>
+        <p>Mr. Gelabert momentarily sprouted from the snail's shell. That moment of laughter was welcome, and his final bows suggested he has a wry, sweet sense of humor as he spotted friends in the audience and smiled at them. The hourlong solo was otherwise a little dry and lacked spontaneity.</p>
+        <p>The point of Mr. Gelabert's performing and choreographic style has long seemed to be the way he moves and looks onstage. In ''Glimpse'' he was as fluid as ever, his gestures clear, acute and even poetic and his gaze piercing. Here, he had the look of a particularly ascetic guru, lean, agile and able, it seems, to unlock the secrets of the universe. But one secret remained unrevealed in ''Glimpse,'' and that was the inner life of the performer.</p>
+        <p>DANCE REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

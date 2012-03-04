@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Drums, Bells and Auto Parts, but Nary a String to Be Seen</title>
+    <meta content="18perc" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/18/arts/18perc.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1841101"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MUSIC REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews/Classical</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="descriptor">Musical Instruments</classifier>
+        <classifier class="online_producer" type="descriptor">Classical Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Classical Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Musical Instruments</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <person class="online_producer">Wuorinen, Charles</person>
+        <person class="online_producer">Stravinsky, Igor</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070418T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F00E5DE1E3FF93BA25757C0A9619C8B63" item-length="400" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Drums, Bells and Auto Parts, but Nary a String to Be Seen</hl1>
+        <hl2 class="online_headline">Drums, Bells and Auto Parts, but Nary a String to Be Seen</hl2>
+      </hedline>
+      <byline class="print_byline">By STEVE SMITH</byline>
+      <byline class="normalized_byline">Smith, Steve</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The stage of Alice Tully Hall was awash on Monday night with objects meant to be struck -- from marimbas, vibraphones and timpani to auto parts. The occasion was a joint performance by the percussion ensembles of the Juilliard School and the Manhattan School of Music, which combined to present Charles Wuorinen's Percussion Symphony (1976) for the second time this month. An earlier performance at the Manhattan School served as a dry run for Monday's more widely publicized presentation.</p>
+        <p>The piece, among the most significant works in Mr. Wuorinen's oeuvre, is seldom encountered in the concert hall, for the simple reason that it requires some 20 agile, skilled percussionists and three keyboardists, along with an imposing phalanx of instruments.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Charles Wuorinen’s Percussion Symphony brought an ebullient ebb and flow of texture and dynamic angular melodies to Alice Tully Hall.</p>
+      </block>
+      <block class="full_text">
+        <p>The stage of Alice Tully Hall was awash on Monday night with objects meant to be struck -- from marimbas, vibraphones and timpani to auto parts. The occasion was a joint performance by the percussion ensembles of the Juilliard School and the Manhattan School of Music, which combined to present Charles Wuorinen's Percussion Symphony (1976) for the second time this month. An earlier performance at the Manhattan School served as a dry run for Monday's more widely publicized presentation.</p>
+        <p>The piece, among the most significant works in Mr. Wuorinen's oeuvre, is seldom encountered in the concert hall, for the simple reason that it requires some 20 agile, skilled percussionists and three keyboardists, along with an imposing phalanx of instruments.</p>
+        <p>Mr. Wuorinen has held up Stravinsky's composition ''Les Noces'' (''The Wedding,'' 1923) and Edgard Varèse's ''Ionisation'' (1929-31) as bellwether works in which percussion instruments were elevated to a primary musical function. In the early 20th century percussion became an increasingly vital component of classical music, and composers like John Cage, Carlos Chavez, Lou Harrison and Henry Cowell, following Varèse, also created all-percussion pieces as a means to bridge the gap between music composed for conventional instruments and an idealized idiom based on the organization of sounds, however they were made.</p>
+        <p>The Percussion Symphony extends the line of those latter works on a grand scale. And few composers write for percussion as idiomatically and imaginatively as Mr. Wuorinen.</p>
+        <p>In his symphony, for example, the ebullient ebb and flow of texture and dynamic angular melodies on shimmering vibraphones, celeste (a set of tuned orchestral bells with a keyboard), woody marimbas and pianos with dampened strings are answered by rowdy drum outbursts, gleeful splashes on cymbals and tam-tams, and gamelanlike counterpoints clanged out on brake drums. (Yes, car parts.)</p>
+        <p>Two tuneful entr'actes -- haunting transcriptions of a medieval melody by Guillaume Dufay -- offered moments of repose between the work's three busy movements.</p>
+        <p>Under the guidance of the exacting conductor Jeffrey Milarsky, these student musicians offered a lively, polished performance, well balanced even when the amplification of the pianos seemed to swell in the final movement.</p>
+        <p>Before the symphony, the Juilliard musicians Michael Caterisano, June Han, Zachary Knight and Jacob Nissly presented an exceptionally athletic account of Mr. Wuorinen's Percussion Quartet (1993-94). Not even an escaped mallet could slow the barreling momentum of a work that shifted constantly between full-group utterances and smaller consorts.</p>
+        <p>MUSIC REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

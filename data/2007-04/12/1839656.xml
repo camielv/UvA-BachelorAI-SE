@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Strong Expression, Delivered With Spirit and Teamwork</title>
+    <meta content="12chan" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/12/arts/music/12chan.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1839656"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MUSIC REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews/Classical</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="descriptor">Classical Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Classical Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <org class="online_producer">Carnegie Hall</org>
+        <person class="online_producer">Chang, Sarah</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070412T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE2DB123FF931A25757C0A9619C8B63" item-length="395" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Strong Expression, Delivered With Spirit and Teamwork</hl1>
+        <hl2 class="online_headline">Strong Expression, Delivered With Spirit and Teamwork</hl2>
+      </hedline>
+      <byline class="print_byline">By STEVE SMITH</byline>
+      <byline class="normalized_byline">Smith, Steve</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Sarah Chang, a onetime child prodigy who has grown up in the public eye, is at 26 one of the most consistently satisfying violinists currently active. In her recital on Tuesday at Carnegie Hall it appeared that she had met her match in Ashley Wass, the bright young British pianist who played with her in works by Beethoven, Richard Danielpour and Prokofiev.</p>
+        <p>The performance had its uneven moments, most of which cropped up during the opening work, Beethoven's Violin Sonata No. 9 (''Kreutzer''). This heady, complex three-movement span of 40 minutes is hard work for its players. Here it sometimes sounded that way. The piece opened with a tone of exquisite introversion; Mr. Wass's playing was clean and elegant, ideally balancing animation and decorum.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>In her recital at Carnegie Hall, it appeared that Ms. Chang had met her match in Ashley Wass, the bright young British pianist who played with her.</p>
+      </block>
+      <block class="full_text">
+        <p>Sarah Chang, a onetime child prodigy who has grown up in the public eye, is at 26 one of the most consistently satisfying violinists currently active. In her recital on Tuesday at Carnegie Hall it appeared that she had met her match in Ashley Wass, the bright young British pianist who played with her in works by Beethoven, Richard Danielpour and Prokofiev.</p>
+        <p>The performance had its uneven moments, most of which cropped up during the opening work, Beethoven's Violin Sonata No. 9 (''Kreutzer''). This heady, complex three-movement span of 40 minutes is hard work for its players. Here it sometimes sounded that way. The piece opened with a tone of exquisite introversion; Mr. Wass's playing was clean and elegant, ideally balancing animation and decorum.</p>
+        <p>Ms. Chang clearly felt every passage of the music and had a firm conception of what she wanted to say. And if notes went astray or an attack was coarse now and again in the first movement, overall that was a small price to pay for spirit delivered in such abundance. Ms. Chang and Mr. Wass forged an attractive unanimity of expression in the central Andante con Variazioni. The finale was a playful romp.</p>
+        <p>Mr. Danielpour's ''River of Light,'' which had its premiere with these players last month in California, was composed in memory of the violinist Isaac Stern. Conservative in idiom and succinct at 11 minutes, the piece opened with ruminative unison passages. The violin line tumbled down to a despairing tremolo over rumbling piano; a slashing, stamping climax resolved into a stately, luminous conclusion. Mr. Wass, provided with little to do but accompany Ms. Chang's flights, did so with feeling and grace.</p>
+        <p>It was Prokofiev's Violin Sonata No. 2 that finally cut to the heart of what makes Ms. Chang such a vital, rewarding artist. The long-lined, songful melodies of the first and second movements brought out her best. Her playing was technically brilliant, lively and characterful, imbued with a sense of mastery and commitment.</p>
+        <p>The hushed, haunted Andante was filled with genuine mystery, while the visceral kick of the Allegro con Brio was amplified by Ms. Chang's excitable stomps and full-arm bow flourishes. Mr. Wass's contributions, equally exciting, were finely balanced with those of Ms. Chang. As an encore the players offered a tidy, sweetly spun Largo from the ''Winter'' concerto of Vivaldi's ''Four Seasons.''</p>
+        <p>MUSIC REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

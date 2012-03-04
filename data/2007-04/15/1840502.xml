@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Hilary Johnston, Jeremy Desmon</title>
+    <meta content="15johnston" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/15/fashion/weddings/15johnston.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840502"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Johnston, Hilary Michelle (Hilary Michelle Desmon)</person>
+        <person class="indexing_service">Desmon, Jeremy Carl</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9805EFD7133FF936A25757C0A9619C8B63" item-length="175" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Hilary Johnston, Jeremy Desmon</hl1>
+        <hl2 class="online_headline">Hilary Johnston, Jeremy Desmon</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Hilary Michelle Johnston, a daughter of Becky and John Johnston of Belleville, Ill., was married yesterday to Jeremy Carl Desmon, the son of Janet and David Desmon of Williamsville, N.Y. Joyann Ferguson-Pratt, a marriage officer and deputy register general with the Commonwealth of the Bahamas, officiated in Lucaya on Grand Bahama Island.</p>
+        <p>Mrs. Desmon, 29, is an account manager in real estate advertising at The New York Times. She graduated from the University of Kansas.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Hilary Michelle Johnston, a daughter of Becky and John Johnston of Belleville, Ill., was married yesterday to Jeremy Carl Desmon, the son of Janet and David Desmon of Williamsville, N.Y. Joyann Ferguson-Pratt, a marriage officer and deputy register general with the Commonwealth of the Bahamas, officiated in Lucaya on Grand Bahama Island.</p>
+      </block>
+      <block class="full_text">
+        <p>Hilary Michelle Johnston, a daughter of Becky and John Johnston of Belleville, Ill., was married yesterday to Jeremy Carl Desmon, the son of Janet and David Desmon of Williamsville, N.Y. Joyann Ferguson-Pratt, a marriage officer and deputy register general with the Commonwealth of the Bahamas, officiated in Lucaya on Grand Bahama Island.</p>
+        <p>Mrs. Desmon, 29, is an account manager in real estate advertising at The New York Times. She graduated from the University of Kansas.</p>
+        <p>Her father is a partner in Dixon &amp; Johnston, a law firm in Belleville.</p>
+        <p>Mr. Desmon, 32, is a musical theater writer, composer and lyricist. His ''Girl in the Frame'' was performed in fall 2005 at Goodspeed Musicals in Chester, Conn. He worked on the book and lyrics of ''If You Give a Mouse a Cookie and Other Story Books,'' produced Off Broadway by Theatreworks USA last summer. He graduated from Stanford and received a master's in musical theater writing from New York University.</p>
+        <p>His father is a senior vice president and wealth management adviser at Merrill Lynch, in Buffalo.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

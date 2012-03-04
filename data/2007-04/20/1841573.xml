@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Film Venture Is Formed</title>
+    <meta content="20film" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Movies; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/20/business/20film.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1841573"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="descriptor">Motion Pictures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+        <org class="online_producer">Merrill Lynch &amp; Company Inc</org>
+        <person class="online_producer">Friedman, Robert G</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070420T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE7D81F3FF933A15757C0A9619C8B63" item-length="131" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Film Venture Is Formed</hl1>
+        <hl2 class="online_headline">Film Venture Is Formed</hl2>
+      </hedline>
+      <dateline>LOS ANGELES, April 19</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Robert G. Friedman, who resigned in 2005 as vice chairman of the Paramount Motion Picture Group, and Patrick Wachsberger, chief of the foreign film sales company Summit Entertainment, joined a group of investors led by Merrill Lynch to acquire Summit and make it part of a new movie production and distribution company called Summit Entertainment L.L.C., the executives said Thursday.</p>
+        <p>The new company, which has access to over $1 billion in financing, expects to make and distribute work in various media, including as many as 12 feature films annually, according to the executives.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A group of investors led by Merrill Lynch will acquire Summit Entertainment and make it part of a new movie production and distribution company.</p>
+      </block>
+      <block class="full_text">
+        <p>Robert G. Friedman, who resigned in 2005 as vice chairman of the Paramount Motion Picture Group, and Patrick Wachsberger, chief of the foreign film sales company Summit Entertainment, joined a group of investors led by Merrill Lynch to acquire Summit and make it part of a new movie production and distribution company called Summit Entertainment L.L.C., the executives said Thursday.</p>
+        <p>The new company, which has access to over $1 billion in financing, expects to make and distribute work in various media, including as many as 12 feature films annually, according to the executives.</p>
+        <p>Summit has helped finance such films as ''Babel'' and ''Mr. and Mrs. Smith.'' In the new company, Mr. Friedman will be chief; Mr. Wachsberger will be president of Summit Entertainment and chief executive of the Summit International unit.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

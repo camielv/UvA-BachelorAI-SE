@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Art in Review; Anj Smith</title>
+    <meta content="06gall-5" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="33" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838397"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070406T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE5DB173FF935A35757C0A9619C8B63" item-length="266" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Art in Review; Anj Smith</hl1>
+      </hedline>
+      <byline class="print_byline">By MARTHA SCHWENDENER</byline>
+      <byline class="normalized_byline">Schwendener, Martha</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Nyehaus  15 Gramercy Park South, Manhattan  Through April 14</p>
+        <p>Decadence, decay and the dark side have become the province of horror films and death-metal bands, but artists like Albrecht Dürer and Hieronymus Bosch laid the foundation for this centuries before record bins overflowed with kitsch versions of ''The Four Horsemen of the Apocalypse.'' Now Anj Smith, a young British painter, is trying to reclaim part of that legacy.</p>
+      </block>
+      <block class="full_text">
+        <p>Nyehaus  15 Gramercy Park South, Manhattan  Through April 14</p>
+        <p>Decadence, decay and the dark side have become the province of horror films and death-metal bands, but artists like Albrecht Dürer and Hieronymus Bosch laid the foundation for this centuries before record bins overflowed with kitsch versions of ''The Four Horsemen of the Apocalypse.'' Now Anj Smith, a young British painter, is trying to reclaim part of that legacy.</p>
+        <p>Diminutive canvases roughly the size of Dürer prints carry brooding, portentous titles like ''Carnivora Delux,'' ''Death of Dandahah'' and ''Detritus of Half Lives'' and include immaculately rendered images of foxes, monkeys, animal skulls, bleeding birds, opulent, tattered fabrics and a few sphinxlike women posing in barren landscapes.</p>
+        <p>There is also a great deal of creeper activity: plants, threads and small animals attaching themselves to larger things, clinging to or smothering their hosts. Paint itself is treated like a parasite as Ms. Smith sculptures impasto into bas-relief barnacles, bushes and roots that wrap around the edges of the canvas.</p>
+        <p>Ms. Smith's considerable graphic and compositional skills and the long hours spent achieving these painterly effects on a miniaturized scale are never far from mind. Yet academic chops and self-seriousness are also the hallmarks of kitsch. Ms. Smith attempts to defuse this by inserting a few knowing, ''modern'' cues: a grid of thread floating in space, a picture frame embedded in a rock face or a structure -- part post-Minimalist sculpture, part cat post -- planted in a wild landscape.</p>
+        <p>Sometimes this strategy works. At other times Ms. Smith's self-consciously mannered Gothic-Surrealist tableaus feel overly precious and pretentious.</p>
+        <p>MARTHA SCHWENDENER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

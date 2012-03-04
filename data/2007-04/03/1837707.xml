@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>My Life In The Army</title>
+    <meta content="03wright" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="21" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/03/opinion/03wright.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837707"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Guest Columnist"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">United States Armament and Defense</classifier>
+        <classifier class="indexing_service" type="descriptor">United States International Relations</classifier>
+        <location class="indexing_service">Iraq</location>
+        <person class="indexing_service">Wright, Robert</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Iraq</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Contributors</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Iraq</classifier>
+        <classifier class="online_producer" type="descriptor">Armament, Defense and Military Forces</classifier>
+        <classifier class="online_producer" type="descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="descriptor">Military Bases and Installations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Military Bases and Installations</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <org class="online_producer">New America Foundation</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070403T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F04E4DD1F30F930A35757C0A9619C8B63" item-length="762" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>My Life In The Army</hl1>
+        <hl2 class="online_headline">My Life in the Army</hl2>
+      </hedline>
+      <byline class="print_byline">By ROBERT WRIGHT</byline>
+      <byline class="normalized_byline">Wright, Robert</byline>
+      <abstract>
+        <p>Robert Wright Op-Ed column disputes stereotype of United States Army as right-wing institution; says compared with private sector, Army is bastion of egalitarianism; notes that as son of soldier, growing up on military base, he received same education and medical care as children of every other soldier, no matter their rank; says Army provides far better chance for social mobility than business world; says he is relieved that his father is no longer alive to see how Bush administration has treated Army in Iraq war (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In one sense, I was well positioned to enjoy the summer of love. In 1969, I was living in San Francisco, epicenter of hippiedom, antiwar fervor and utopian hope for perpetual peace.</p>
+        <p>Circumstances kept me from sharing the spirit. The part of San Francisco I lived in was the Presidio, which was then a military base. I was 12, and my father was an Army officer. I remember my family once driving toward the Presidio's Lombard Street gate past tens of thousands of protesters who seemed to think my father was part of a very bad outfit.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>People think of the Army as hierarchical, but compared with the private sector it’s a bastion of egalitarianism.</p>
+      </block>
+      <block class="full_text">
+        <p>In one sense, I was well positioned to enjoy the summer of love. In 1969, I was living in San Francisco, epicenter of hippiedom, antiwar fervor and utopian hope for perpetual peace.</p>
+        <p>Circumstances kept me from sharing the spirit. The part of San Francisco I lived in was the Presidio, which was then a military base. I was 12, and my father was an Army officer. I remember my family once driving toward the Presidio's Lombard Street gate past tens of thousands of protesters who seemed to think my father was part of a very bad outfit.</p>
+        <p>I was sure they were wrong, and I still am. In fact, the whole, larger stereotype -- that the military is a right-wing institution, best viewed with skepticism if not cynicism by the left -- is way off. Growing up in, or at least amid, the Army helped make me a liberal -- not because I reacted against my environment, but because I absorbed its values. If all of America were more like the Army, it would be a better country.</p>
+        <p>People think of the Army as hierarchical, but compared with the private sector it's a bastion of egalitarianism.</p>
+        <p>Yes, the Army's ''blue-collar workers'' -- privates, corporals, sergeants -- defer to its ''white-collar workers,'' the officers. That happens in corporations, too. But on an Army base you don't send the white-collar kids to good public schools and the blue-collar kids to bad public schools.</p>
+        <p>We all went to school together -- either on the base or at a public school near it. My claim to fame is having played basketball at the same high school, on Fort Sam Houston, where Shaquille O'Neal, son of a sergeant, later played. (I encountered O'Neal in a hotel lobby a few years ago, and it turns out he's less fascinated than I am by our intertwined histories. Puzzling.)</p>
+        <p>I had friends from the Army's biggest minority constituencies, blacks and Hispanics. Among soldiers, too, exposure to diversity, along with the practical need to live with it, could be benign. My father grew up in Texas in the 1920s, amid common use of the n-word, and I never heard him use it.</p>
+        <p>Which brings us to social mobility. My father was the son of a sharecropper, and he dropped out of high school after both of his parents and most of his siblings had died of various diseases. He lacked the polish to impress, say, a Morgan Stanley recruiter, but during World War II, the Army gave him a chance.</p>
+        <p>That meant better health care than his parents had gotten, thanks to socialized medicine. My ''blue collar'' friends and I went to the same doctors. The doctors weren't all great, but I'm still alive, and we avoided one creepy thing about inequality in America today: people like me get arthroscopic surgery lest stray cartilage impede our golf swings, while low-income people, in unseen ways, die for lack of good health care.</p>
+        <p>My father said Army people were as fine a group as you would ever meet, and the evidence was on his side. They were conscientious and unpretentious. And they can be surprisingly soft. Good commanders have a commitment to their troops that borders on love, a feeling that in the corporate world doesn't generally emanate from the executive suite downward. (I said love, not lust.)</p>
+        <p>That's partly because in the Army, the stakes are so high. Sending people into battle isn't something a good person does with detachment. Before the Iraq war, when the Army chief of staff, Gen. Eric Shinseki, testified that the postwar occupation would require hundreds of thousands of troops, he was showing not just prudence but devotion. He didn't want his soldiers needlessly imperiled.</p>
+        <p>As a reward for his devotion, General Shinseki was disparaged by Donald Rumsfeld and Paul Wolfowitz. Rumsfeld wanted to show how cheap war can be, and now our soldiers are paying the price. I wish some people on the left had a deeper respect for the military, but lately the left isn't where the most consequential disrespect has come from.</p>
+        <p>The crowning indignity was Abu Ghraib, an outrage that was initiated by civilians high in the Bush administration and has stained the U.S. military's hard-earned honor, strengthening stereotypes that I know are wrong.</p>
+        <p>My father, Col. Raymond J. Wright, retired several years after that summer in San Francisco, having given three decades to an institution he loved. He died in 1987. There are lots of things I wish he had lived to see, but the way the Army's been treated recently isn't one of them.</p>
+        <p>Guest Columnist Robert Wright, a senior fellow at the New America Foundation, runs the Web site Bloggingheads.tv. He is a guest columnist this month.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Robert Wright, a senior fellow at the New America Foundation, runs the Web site Bloggingheads.tv. He is a guest columnist this month.</tagline>
+    </body.end>
+  </body>
+</nitf>

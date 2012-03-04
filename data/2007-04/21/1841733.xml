@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Good News for Sad Songs: Hits Don't Need Happiness</title>
+    <meta content="21grif" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/21/arts/music/21grif.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1841733"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MUSIC REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="descriptor">Music</classifier>
+        <classifier class="online_producer" type="descriptor">Folk Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Folk Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <org class="online_producer">Beacon Theater</org>
+        <person class="online_producer">Griffin, Patty</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070421T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9806EFDC163EF932A15757C0A9619C8B63" item-length="443" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Good News for Sad Songs: Hits Don't Need Happiness</hl1>
+        <hl2 class="online_headline">Good News for Sad Songs: Hits Don’t Need Happiness</hl2>
+      </hedline>
+      <byline class="print_byline">By JON PARELES</byline>
+      <byline class="normalized_byline">Pareles, Jon</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Patty Griffin cheerfully admitted during her set at the Beacon Theater on Thursday night that she doesn't write many happy songs. Hardly any, in fact. Her folk-rock strummers and countryish waltzes are full of lonely travels and painful separations, of forebodings and sad memories.</p>
+        <p>She has had startling commercial luck. The Dixie Chicks regularly include Ms. Griffin's songs -- like ''Top of the World,'' a man's thoughts before death, and the defiant ''Truth No. 2'' -- on million-selling albums, singing them without oversweetening and drawing attention to the superb albums Ms. Griffin has been making for more than a decade.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Patty Griffin cheerfully admitted during her set at the Beacon Theater on Thursday night that she doesn’t write many happy songs. Hardly any, in fact.</p>
+      </block>
+      <block class="full_text">
+        <p>Patty Griffin cheerfully admitted during her set at the Beacon Theater on Thursday night that she doesn't write many happy songs. Hardly any, in fact. Her folk-rock strummers and countryish waltzes are full of lonely travels and painful separations, of forebodings and sad memories.</p>
+        <p>She has had startling commercial luck. The Dixie Chicks regularly include Ms. Griffin's songs -- like ''Top of the World,'' a man's thoughts before death, and the defiant ''Truth No. 2'' -- on million-selling albums, singing them without oversweetening and drawing attention to the superb albums Ms. Griffin has been making for more than a decade.</p>
+        <p>Some of Ms. Griffin's songs tell stories about characters, like the female aerialist in ''Trapeze'' who knows ''what it feels like to fly'' before the song warns, ''One of these nights the old girl's going down.'' Some set out their woes in language that's almost biblical: ''There's a war and a plague, smoke and disaster/Lions in the coliseum, screams of laughter,'' she sang in ''Love Throw a Line.'' That song has a relatively happy ending; others don't.</p>
+        <p>Yet sooner or later tribulation turned into something else: determination, resolution, a kind of melancholy redemption.</p>
+        <p>It happened in the lyrics, as it became clear that she was not so much complaining as speaking forthrightly: ''You never get what you want/ And I don't think it's my fault.''</p>
+        <p>And it happened even more strongly in the music. Ms. Griffin's voice is high and reedy, akin to Emmylou Harris's in the way it flutters or rushes a line at the beginning of a phrase, and in the way it holds reserves of strength behind frailty. (Her voice doesn't have to be bound to folksy Americana; early in the set she sang a slow, torchy version of the Sam Cooke song ''Get Yourself Another Fool.'')</p>
+        <p>As she moved through each song, her voice firmed up; Doug Lancio led the band into crescendos behind reverberating guitar lines; a cello or piano eased in to buttress the melody; and somehow the songs became peals: encompassing, reverberating, uplifting.</p>
+        <p>There's a touch of gospel in that transformation, one Ms. Griffin makes explicit in songs like ''Up to the Mountains'' (based on a speech by the Rev. Dr. Martin Luther King Jr.) or ''Heavenly Day.'' In ''Mary'' she sang about Jesus' mother as an archetype of loss: ''You're covered in babies, you're covered in slashes/You're covered in wilderness, you're covered in stains.''</p>
+        <p>But the solace and renewal in her songs aren't a reward for worship. They are earned privately, by facing up to sorrows and insisting, despite them, on the possibility of hope, the way a major chord can chime through tears.</p>
+        <p>MUSIC REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

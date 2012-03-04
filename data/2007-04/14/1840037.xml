@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Tibet They Never Knew</title>
+    <meta content="14lhas" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/14/movies/14lhas.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840037"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="FILM REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Seitz, Matt Zoller</person>
+        <person class="indexing_service">Sarin, Ritu</person>
+        <person class="indexing_service">Sonam, Tenzing</person>
+        <person class="indexing_service">Gyatso, Tenzin Chokyi</person>
+        <person class="indexing_service">Kalsang, Jampa</person>
+        <object.title class="indexing_service">Dreaming Lhasa (Movie)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="descriptor">Motion Pictures</classifier>
+        <classifier class="online_producer" type="descriptor">Documentary Films and Programs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Documentary Films and Programs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+        <object.title class="online_producer">Dreaming Lhasa (Movie)</object.title>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070414T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04E4D6133FF937A25757C0A9619C8B63" item-length="289" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Tibet They Never Knew</hl1>
+        <hl2 class="online_headline">The Tibet They Never Knew</hl2>
+      </hedline>
+      <byline class="print_byline">By MATT ZOLLER SEITZ</byline>
+      <byline class="normalized_byline">Seitz, Matt Zoller</byline>
+      <abstract>
+        <p>Matt Zoller Seitz reviews film Dreaming Lhasa, directed by Ritu Sarin and Tenzing Sonam; Tenzin Chokyi Gyatso and Jampa Kalsang star (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>''Dreaming Lhasa,'' a dramatic feature film from the documentarians Ritu Sarin and Tenzing Sonam, is about a Tibetan-American documentary filmmaker named Karma (Tenzin Chokyi Gyatso) making a movie about the plight of Tibetans who fled persecution by the Chinese and settled in Dharamsala, the Dalai Lama's exile headquarters in northern India.</p>
+        <p>The movie is filled with heartbreaking moments. Most draw on documentary footage collected and inserted by the filmmakers, in which Tibetan victims of political and religious persecution recount their harrowing stories of wrongful imprisonment, torture and exile.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>“Dreaming Lhasa” is a fine example of how feature films can be used to deliver urgent political messages, but its dramatic elements waver.</p>
+      </block>
+      <block class="full_text">
+        <p>''Dreaming Lhasa,'' a dramatic feature film from the documentarians Ritu Sarin and Tenzing Sonam, is about a Tibetan-American documentary filmmaker named Karma (Tenzin Chokyi Gyatso) making a movie about the plight of Tibetans who fled persecution by the Chinese and settled in Dharamsala, the Dalai Lama's exile headquarters in northern India.</p>
+        <p>The movie is filled with heartbreaking moments. Most draw on documentary footage collected and inserted by the filmmakers, in which Tibetan victims of political and religious persecution recount their harrowing stories of wrongful imprisonment, torture and exile.</p>
+        <p>Unfortunately, the film is also schematic and filled with baldly declamatory lines delivered by a hit-and-miss ensemble. The main story finds Karma falling for one of her subjects, Dhondup (Jampa Kalsang), an ex-monk who has come to Dharamsala to honor his dying mother's last request to locate a missing resistance fighter and give him a charm box.</p>
+        <p>This plotline is compelling despite its overt sentimentality, but for sheer emotional force, it just can't match the movie's documentary moments.</p>
+        <p>''Dreaming Lhasa'' is a fine example of how feature films can be used to deliver urgent political messages, but as drama, it doesn't quite work.</p>
+        <p>Dreaming Lhasa  Opened yesterday in Manhattan.</p>
+        <p>Directed by Ritu Sarin and Tenzing Sonam; written (in Tibetan and English, with English subtitles) by Mr. Sonam; director of photography, Ranjan Palit; edited by Paul Dosaj; music by Andy Spence; produced by Ms. Sarin; released by First Run Features. At the Imaginasian Theater, 239 East 59th Street, Manhattan. Running time: 90 minutes. This film is not rated.</p>
+        <p>WITH: Tenzin Chokyi Gyatso (Karma), Jampa Kalsang (Dhondup), Tenzin Jigme (Jigme), Phuntsok Namgyal Dhumkhang (Loga), Tsering Topgyal Phurpatsang (Tse Topgyal) and Tenzin Wangdrak (Ghen Rabga).</p>
+        <p>FILM REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

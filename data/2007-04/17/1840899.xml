@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A New Look at Impressionists' Failing Vision</title>
+    <meta content="17eye" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Health&amp;Fitness" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/17/health/17eye.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840899"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Cataracts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="descriptor">Eyes and Eyesight</classifier>
+        <classifier class="online_producer" type="descriptor">Art</classifier>
+        <classifier class="online_producer" type="descriptor">Cataracts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cataracts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Eyes and Eyesight</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+        <person class="online_producer">Monet, Claude</person>
+        <person class="online_producer">Degas, Edgar</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070417T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E6DA113FF934A25757C0A9619C8B63" item-length="233" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A New Look at Impressionists' Failing Vision</hl1>
+        <hl2 class="online_headline">A New Look at Impressionists’ Failing Vision</hl2>
+      </hedline>
+      <byline class="print_byline">By NICHOLAS BAKALAR</byline>
+      <byline class="normalized_byline">Bakalar, Nicholas</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The later years of both Claude Monet and Edgar Degas were marked by failing vision and corresponding changes in the style of their paintings, creating an ambivalence about their later work among both their contemporaries and today's critics.</p>
+        <p>Monet had cataracts that severely limited his color discrimination, which may help explain the increasingly muddied tone of his paintings from 1912 to 1923, when he had a cataract removed. After his surgery, he destroyed many later canvases.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Computer simulations help researchers imagine what Claude Monet and Edgar Degas might have seen as their vision declined.</p>
+      </block>
+      <block class="full_text">
+        <p>The later years of both Claude Monet and Edgar Degas were marked by failing vision and corresponding changes in the style of their paintings, creating an ambivalence about their later work among both their contemporaries and today's critics.</p>
+        <p>Monet had cataracts that severely limited his color discrimination, which may help explain the increasingly muddied tone of his paintings from 1912 to 1923, when he had a cataract removed. After his surgery, he destroyed many later canvases.</p>
+        <p>And in Degas's work, the shading lines and details of the faces became increasingly blurred as his disease, probably a form of macular degeneration, progressed over 20 years. A French critic called his later sketches ''the tragic witnesses of the battle of the artist against his infirmity.''</p>
+        <p>In a recent article in The Archives of Ophthalmology, Dr. Michael F. Marmor, a professor of ophthalmology at Stanford, used computer simulations to create images of what these artists might have seen as their vision declined.</p>
+        <p>''Here we can see ourselves what they were seeing through their eyes,'' Dr. Marmor said. ''Critics have known that these men had failing vision, but I don't think they could appreciate what it meant to these artists. It gives both new respect for what they could do with limited vision, but also gives us reason to re-examine perhaps what these paintings mean in the evolution of these artists' style and work.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

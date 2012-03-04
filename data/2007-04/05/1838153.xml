@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Change in Qualifications for the Masters Tournament</title>
+    <meta content="05masters" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/05/sports/golf/05masters.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1838153"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Golf</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Golf</classifier>
+        <classifier class="online_producer" type="descriptor">Golf</classifier>
+        <classifier class="online_producer" type="descriptor">Masters Golf Tournament</classifier>
+        <classifier class="online_producer" type="general_descriptor">Masters Golf Tournament</classifier>
+        <classifier class="online_producer" type="general_descriptor">Golf</classifier>
+        <person class="online_producer">Payne, Billy</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070405T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9904E6DA163FF936A35757C0A9619C8B63" item-length="348" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Change in Qualifications for the Masters Tournament</hl1>
+        <hl2 class="online_headline">Change in Qualifications for the Masters Tournament</hl2>
+      </hedline>
+      <byline class="print_byline">By DAMON HACK</byline>
+      <byline class="normalized_byline">Hack, Damon</byline>
+      <dateline>AUGUSTA, Ga., April 4</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Billy Payne has made few alterations to Augusta National Golf Club, but he did decide to change the qualifications for invitations to the Masters tournament.</p>
+        <p>Beginning with next week's PGA Tour event at Harbour Town Golf Links, the winners of PGA Tour tournaments on the FedEx Cup schedule will gain automatic entry into the Masters. Players who qualify for the previous year's Tour Championship will also receive invitations, and so will the top 30 players on the final official PGA Tour money list.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Beginning with next week, the winners of PGA Tour tournaments on the FedEx Cup schedule will gain automatic entry into the Masters.</p>
+      </block>
+      <block class="full_text">
+        <p>Billy Payne has made few alterations to Augusta National Golf Club, but he did decide to change the qualifications for invitations to the Masters tournament.</p>
+        <p>Beginning with next week's PGA Tour event at Harbour Town Golf Links, the winners of PGA Tour tournaments on the FedEx Cup schedule will gain automatic entry into the Masters. Players who qualify for the previous year's Tour Championship will also receive invitations, and so will the top 30 players on the final official PGA Tour money list.</p>
+        <p>''Our goal is to have the strongest field possible, and these qualifications accomplish that objective,'' Payne, the chairman of Augusta National, said. ''We missed the excitement of the winner of a PGA Tour event immediately qualifying for the Masters. Our qualifications also reflect golf's current landscape and we think they will serve the Masters well.''</p>
+        <p>From 1972-1999, PGA Tour winners automatically qualified for the Masters.</p>
+        <p>EXPANDED COVERAGE -- The Masters, which once broadcast only the final nine holes on television, is finding new ways to let viewers inside its gates. Beginning Thursday, masters.org will have a new feature called Masters Extra, which will show one hour of play by play of bonus coverage of the tournament before the cable and network broadcasts.</p>
+        <p>''One of the great mandates that Bobby Jones and Clifford Roberts embraced was that the Masters golf tournament can be a vehicle that attracts people to golf all around the world,'' Billy Payne said in a recent telephone interview. ''As time has passed, we see that there are so many ways to do that in ways that were not historically envisioned. In an abbreviated way, you can call it the new media.''</p>
+        <p>The online coverage times are: 3-4 p.m. Thursday and Friday; 2:30-3:30 p.m. Saturday; 1:30-2:30 p.m. Sunday (All times Eastern).</p>
+        <p>FAVORABLE FORECAST -- The forecast for the first round is for 68 degrees and sunny. The temperature is expected to fluctuate between 58 and 65 degrees for the rest of the tournament, with winds up to 15 miles an hour. No rain is in the forecast after play begins.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

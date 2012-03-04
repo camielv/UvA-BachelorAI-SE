@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ivy League or Bust? For Some, Anyway</title>
+    <meta content="l11ivy" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1839520"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="indexing_service" type="descriptor">Admissions Standards</classifier>
+        <classifier class="indexing_service" type="descriptor">Advertising and Marketing</classifier>
+        <classifier class="indexing_service" type="descriptor">Admissions Standards</classifier>
+        <person class="indexing_service">Wilson, Luke (St Davids, Pa)</person>
+        <person class="indexing_service">Lewis, Penelope</person>
+        <person class="indexing_service">Hanley, Thomas A Jr</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Admissions Standards</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070411T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E4DF123FF932A25757C0A9619C8B63" item-length="361" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ivy League or Bust? For Some, Anyway</hl1>
+      </hedline>
+      <abstract>
+        <p>Three letters comment on April 4 article about admissions process for Ivy League colleges; Luke Wilson says marketing, ranking and intense selectivity of schools create process where students look for name alone and not quality; Penelope Lewis says high schools should adopt policy that limits number of colleges to which students' can apply; Thomas A Hanley Jr says competitive admissions climate has encouraged students to discover lesser known first-rate colleges and universities; drawing</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''A Great Year for Ivy League Colleges, but Not So Good for Applicants to Them'' (Education page, April 4):</p>
+        <p>As highly respected colleges continue to receive record numbers of applications, the accessibility of education is being infused with an unhealthy competitive spirit.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''A Great Year for Ivy League Colleges, but Not So Good for Applicants to Them'' (Education page, April 4):</p>
+        <p>As highly respected colleges continue to receive record numbers of applications, the accessibility of education is being infused with an unhealthy competitive spirit.</p>
+        <p>Though scholarship programs and loans have made college an experience that almost every teenager can aspire to, the philosophy of education is changing.</p>
+        <p>Whereas students used to aspire to get the best education to prepare them for life, the marketing, ranking and intense selectivity of schools have created a process where students look for a name alone and ignore their own expectations for the experience, both academic and social, forgoing their own designs on happiness.</p>
+        <p>By creating a hierarchy of schools by validating rankings and harping on selectivity, we send the message that academic success is measured by the school name and not by the actual education or the personal growth.</p>
+        <p>This misdirection forces students to value illusion over reality.</p>
+        <p>Luke Wilson  St. Davids, Pa., April 7, 2007</p>
+        <p>To the Editor:</p>
+        <p>The specialized public high school I attended limited to five the number of schools we could apply to.</p>
+        <p>This policy served to decrease intraschool competition, encourage realistic choices and level the playing field (applications cost a lot of money).</p>
+        <p>We were also better served by our teachers and counselors, who could write more specialized recommendations for more students to more schools.</p>
+        <p>If high schools adopted this kind of policy, college admissions would be a great deal saner, and fair.</p>
+        <p>Penelope Lewis  Brooklyn, April 5, 2007</p>
+        <p>To the Editor:</p>
+        <p>Seniors admitted to these highly competitive schools this year are ecstatic. But equally contented are those who have been accepted by lesser known, first-rate colleges and universities in the United States and abroad (''A Great Year for Ivy League Colleges, but Not So Good for Applicants to Them,'' Education page, April 4).</p>
+        <p>This competitive admissions climate has encouraged students to discover, value and embrace them.</p>
+        <p>Thomas A. Hanley Jr.  New York, April 5, 2007</p>
+        <p>The writer is the director of college guidance at Loyola School, New York.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

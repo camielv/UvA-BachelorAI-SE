@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Jazz's Creation Myth</title>
+    <meta content="29alsmail-5" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1843654"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="BUDDY BOLDEN"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Jazz</classifier>
+        <person class="indexing_service">Furstenberg, Marc</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Jazz</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A06E6DB153EF93AA15757C0A9619C8B63" item-length="72" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Jazz's Creation Myth</hl1>
+      </hedline>
+      <abstract>
+        <p>Marc Furstenberg letter about Apr 22 article on jazz hypothesizes about possible reasons for deliberately obscuring its origins (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''In Search of the Man Who May Have Created Jazz,'' by Michael Cieply [April 22]:</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''In Search of the Man Who May Have Created Jazz,'' by Michael Cieply [April 22]:</p>
+        <p>The newspaperman Bat Masterson said he first heard jazz in Mamie Silk's Denver whorehouse in the 1880s. This squares with Jell Roll Morton's recollection in ''Mamie Desdume's Blues.'' Could this birth, on the wrong side of the bed, explain why jazz's origins may have been deliberately obscured?</p>
+        <p>Marc Furstenberg  Manhattan</p>
+        <p>BUDDY BOLDEN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Losing Homes and Neighborhoods</title>
+    <meta content="10tue2" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/10/opinion/10tue2.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1839331"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Housing</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Mortgages</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Subprime Lending</classifier>
+        <classifier class="online_producer" type="descriptor">Housing</classifier>
+        <classifier class="online_producer" type="descriptor">Foreclosures</classifier>
+        <classifier class="online_producer" type="descriptor">Sales</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Foreclosures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sales</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mortgages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <org class="online_producer">Housing and Urban Development Department</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070410T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9407E4DB153FF933A25757C0A9619C8B63" item-length="321" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Losing Homes and Neighborhoods</hl1>
+        <hl2 class="online_headline">Losing Homes and Neighborhoods</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial says subprime lending is complicit in net loss of homeownership for up to one million families; says Congress and state governments must assess extent of irresponsible and predatory lending in subprime market, and determine whom to hold accountable</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>As foreclosures escalate among subprime-mortgage borrowers, lenders defend their willfully lax standards by arguing that such an escalation is the price of expanded homeownership, especially among African-American and Hispanic families. That is the lenders' way of wrapping themselves in the flag, homeownership being up there with baseball among the things that make America great.</p>
+        <p>Take away the bunting, and the picture is not so pretty. The nonprofit Center for Responsible Lending analyzed 15.1 million subprime loans from 1998 through 2006 and found that only about 1.4 million were for first-time home buyers. Most were for refinancing. To date, more than 500,000 of those subprime borrowers have lost their homes to foreclosures. An additional 1.8 million are likely to follow as the market deteriorates. That's nearly 2.4 million lost homes.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Congress and state governments have to assess the extent of irresponsible and predatory lending in the subprime market, and determine whom to hold accountable.</p>
+      </block>
+      <block class="full_text">
+        <p>As foreclosures escalate among subprime-mortgage borrowers, lenders defend their willfully lax standards by arguing that such an escalation is the price of expanded homeownership, especially among African-American and Hispanic families. That is the lenders' way of wrapping themselves in the flag, homeownership being up there with baseball among the things that make America great.</p>
+        <p>Take away the bunting, and the picture is not so pretty. The nonprofit Center for Responsible Lending analyzed 15.1 million subprime loans from 1998 through 2006 and found that only about 1.4 million were for first-time home buyers. Most were for refinancing. To date, more than 500,000 of those subprime borrowers have lost their homes to foreclosures. An additional 1.8 million are likely to follow as the market deteriorates. That's nearly 2.4 million lost homes.</p>
+        <p>That means that subprime lending, which has been so profitable for brokers, lenders and investors, is complicit in a net loss of homeownership for up to one million families. It will take years for many of those families to regain their footing, and some may never recover. In a study from 2004, the Housing and Urban Development Department showed that homeowners who gave up their homes for any reason could take more than a decade -- longer for minorities -- to become homeowners again.</p>
+        <p>As families are ruined, whole neighborhoods are imperiled. A Chicago study found that a foreclosure on one home lowered the price of nearby single-family homes by 1.44 percent, on average. The more foreclosures, the greater the effect. Vacancies are a particular problem because home buyers and businesses shun areas with vacant homes, while the cost for abandoned property must be borne by municipal taxpayers, draining resources at a time of need.</p>
+        <p>Congress and state governments have to assess the extent of irresponsible and predatory lending in the subprime market, and determine whom to hold accountable. They must also come up with rescue plans for families and communities in harm's way.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

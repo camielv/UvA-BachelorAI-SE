@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Internet Use for Travel Plans Is Leveling Off</title>
+    <meta content="29transinternet--in--tra--24--19" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; Travel" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/29/travel/29transinternetintra2419.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1843574"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="IN TRANSIT"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Travel and Vacations</classifier>
+        <classifier class="indexing_service" type="descriptor">Advertising and Marketing</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Consumer Behavior</classifier>
+        <org class="indexing_service">Yesawich Pepperdine Brown &amp; Russell</org>
+        <org class="indexing_service">Yankelovich Partners</org>
+        <person class="indexing_service">Conlin, Jennifer</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="descriptor">Travel and Vacations</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Consumer Behavior</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9501E0D6173EF93AA15757C0A9619C8B63" item-length="216" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Internet Use for Travel Plans Is Leveling Off</hl1>
+        <hl2 class="online_headline">Internet Use for Travel Plans Is Leveling Off</hl2>
+      </hedline>
+      <byline class="print_byline">By JENNIFER CONLIN</byline>
+      <byline class="normalized_byline">Conlin, Jennifer</byline>
+      <abstract>
+        <p>Annual study conducted by Yesawich Pepperdine Brown &amp; Russell and Yankelovich Inc finds that increase in number of business and leisure travelers using Internet for travel planning is leveling off; cites proliferation of pop-ups, ads and links irritating users (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A survey shows that the growth of travel planning on the Internet is leveling off, in part because of the proliferation of pop-ups, advertisements and links irritating users.</p>
+        <p>The 2007 National Travel Monitor -- an annual study conducted by Yesawich, Pepperdine, Brown &amp; Russell, a travel marketing firm, and Yankelovich Inc., a marketing research company -- surveyed 2,800 business and leisure travelers. It found that in the first part of 2007, 66 percent of leisure travelers used the Internet regularly for travel planning, while in 2005, 59 percent used it, an increase of 7 percentage points. From 2002 through 2004, the percentage grew 10 points, from 53 to 63.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A survey shows that the growth of travel planning on the Internet is leveling off, in part because of the proliferation of pop-ups, advertisements and links irritating users.</p>
+      </block>
+      <block class="full_text">
+        <p>A survey shows that the growth of travel planning on the Internet is leveling off, in part because of the proliferation of pop-ups, advertisements and links irritating users.</p>
+        <p>The 2007 National Travel Monitor -- an annual study conducted by Yesawich, Pepperdine, Brown &amp; Russell, a travel marketing firm, and Yankelovich Inc., a marketing research company -- surveyed 2,800 business and leisure travelers. It found that in the first part of 2007, 66 percent of leisure travelers used the Internet regularly for travel planning, while in 2005, 59 percent used it, an increase of 7 percentage points. From 2002 through 2004, the percentage grew 10 points, from 53 to 63.</p>
+        <p>Use by business travelers actually dropped to 66 percent this year from 68 percent in 2005, while it rose from 55 percent in 2002 to 69 percent in 2004.</p>
+        <p>''The surge of growth we saw between 1998 and 2003 is gone,'' said Peter C. Yesawich, the chairman and chief executive of Yesawich, Pepperdine. ''To some extent, this happens with every technology as the novelty wears off.''</p>
+        <p>But he added that the ''contamination of sites,'' with links and advertisements crowding Web sites, was confirmed by the study to be an issue. ''Now consumers have to pick through all the results that get in front of their search.''</p>
+        <p>IN TRANSIT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

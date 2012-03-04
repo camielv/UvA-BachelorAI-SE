@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Man Arrested at Shea After Aiming Light at Players</title>
+    <meta content="22light" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1842280"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/Atlanta Braves</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Mets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stadiums and Arenas</classifier>
+        <classifier class="online_producer" type="general_descriptor">Lighting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9501EFDF173EF931A15757C0A9619C8B63" item-length="163" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Man Arrested at Shea After Aiming Light at Players</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A 40-year-old Bronx man was arrested at Shea Stadium on Friday night during the Mets' game after being accused of trying to blind Atlanta Braves players with a high-power flashlight, the Queens district attorney, Richard A. Brown, said yesterday.</p>
+        <p>Frank Martinez, who was sitting behind home plate, was accused of shining the flashlight at pitcher Tim Hudson and shortstop Édgar Rentería before Hudson pitched to the Mets' Endy Chávez in the eighth inning. The second-base umpire, Paul Emmel, who was also affected, alerted security officials, and the game was stopped while Martinez was taken to Shea's security office.</p>
+      </block>
+      <block class="full_text">
+        <p>A 40-year-old Bronx man was arrested at Shea Stadium on Friday night during the Mets' game after being accused of trying to blind Atlanta Braves players with a high-power flashlight, the Queens district attorney, Richard A. Brown, said yesterday.</p>
+        <p>Frank Martinez, who was sitting behind home plate, was accused of shining the flashlight at pitcher Tim Hudson and shortstop Édgar Rentería before Hudson pitched to the Mets' Endy Chávez in the eighth inning. The second-base umpire, Paul Emmel, who was also affected, alerted security officials, and the game was stopped while Martinez was taken to Shea's security office.</p>
+        <p>''In a game in which the ball can travel upwards of 110 miles per hour, the defendant's alleged actions were dangerous to both spectators and players,'' Brown said. ''This was definitely not the defendant's most shining moment.''</p>
+        <p>Martinez was charged with interference with a professional sporting event and second-degree reckless endangerment. If convicted, he faces up to a year in jail and a $5,000 fine.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

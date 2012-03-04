@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Circuits; Looking Perfect, One Pixel at a Time</title>
+    <meta content="26retouch" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/26/technology/26retouch.html" name="alternate_url"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20070428T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1842968"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Photography</classifier>
+        <classifier class="online_producer" type="general_descriptor">Photography</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cameras</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070426T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9806E5DE153EF935A15757C0A9619C8B63" item-length="1180" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Circuits; Looking Perfect, One Pixel at a Time</hl1>
+        <hl2 class="online_headline">Looking Perfect, One Pixel at a Time</hl2>
+      </hedline>
+      <byline class="print_byline">By PETER WAYNER</byline>
+      <byline class="normalized_byline">Wayner, Peter</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>December may be more than seven months away, but that is barely enough time for purists to lose 20 pounds, grow out bad haircuts, clean up those blemishes, and get the photos to the printer in time to mail out holiday cards.</p>
+        <p>Slackers, though, can relax because a burgeoning cottage industry in photo retouching is making it easier to clean up all of those problems with a few clicks of a mouse.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Web sites are selling professional retouching services to provide age progression, beauty enhancing or simple fixes.</p>
+      </block>
+      <block class="full_text">
+        <p>December may be more than seven months away, but that is barely enough time for purists to lose 20 pounds, grow out bad haircuts, clean up those blemishes, and get the photos to the printer in time to mail out holiday cards.</p>
+        <p>Slackers, though, can relax because a burgeoning cottage industry in photo retouching is making it easier to clean up all of those problems with a few clicks of a mouse.</p>
+        <p>Professional photographers have relied on clever hands and sophisticated software to turn a good picture into something that stands out. Now, Web sites are selling professional retouching services. For $20 to $200 or more, anyone can get a tighter stomach, smoother skin and brighter teeth -- at least in an image. In addition, a wide variety of programs make it possible for the average computer user to fix basic problems.</p>
+        <p>The marketplace is not dominated by human vanity, though, and many retouching outfits specialize in solving other problems, like fixing poorly preserved historical photographs, removing dust marks or simply balancing the colors. Emy Craciunescu, the co-owner of Phojoe.com, says 50 percent of his work is age progression, a photo alteration process to show people at different times in their lives.</p>
+        <p>''We do a lot for work for police agencies, missing people, someone who's been divorced and the mom took the kids to California,'' he said. ''It's part science, part art and a little bit intuition.''</p>
+        <p>When the problems are simple, most of the free software packages delivered with digital cameras or computers offer tools that can help. Apple's iPhoto, for instance, comes with a tool for fixing red eye. Kodak's EasyShare package includes a tools for tweaking the brightness, the contrast and the colors.</p>
+        <p>Many problems, though, demand more dexterity, more sophisticated software and a deeper understanding of how a computer represents an image.</p>
+        <p>Removing the wrinkles from under the eyes requires outlining the area and using a blending filter that eliminates the ripples by replacing each pixel with an average of the surrounding pixel. While the averaging is done automatically, it takes a deft hand to outline the area and choose the correct amount of blending.</p>
+        <p>Many professionals turn to Adobe's flagship product, Photoshop, and the aftermarket offering a range of plug-in enhancements. The newest version of the product, CS3, was just released and sells for around $700. The plug-ins are sold independently. Free software packages like GIMP (available at www.gimp.org) are also popular.</p>
+        <p>Bruce Kobrin runs the site Touch of Glamour, with his wife, Natalya, an artist who trained in painting natural scenes on porcelain in St. Petersburg. They specialize in ''glamorization,'' a process that includes standard effects like cleaning up the skin or trimming a few inches from the waist, as well as less obvious effects like reshaping parts of the face. They will enlarge lips, straighten teeth, rebuild eyelashes, whiten eyes and fix the shape of eyebrows.</p>
+        <p>Mr. Kobrin offers various levels of retouching, from light to extreme. ''The customer chooses it depending on the area of use: family photo, Web site presentation, pageant photogenic competition, magazine illustration'' and so on.</p>
+        <p>They provide a quote for each picture that varies according to the number of people, the complexity of the background and the quality of the image. Straightening a nose and removing a blemish on a portrait would cost $45, he estimated.</p>
+        <p>Some companies are trying to automate the process. Among them is Anthropics Technology, which makes a software program called PortraitProfessional (selling for $39.95) that gives the user about 80 ways to increase the ''beauty'' of a subject with algorithms that automatically shift and reshape the parts of a face.</p>
+        <p>''If they're looking a bit tubby, you can reduce their jawline,'' said Andrew Berend, the chief executive of Anthropics. ''You can make their lips larger and their eyes wider, which is always a way of making them more attractive.''</p>
+        <p>But with such a program, he said, ''its power to subtly alter appearance also raises some interesting moral questions.'' He has received e-mail messages that pointedly asked, ''Who made you the gods of beauty?''</p>
+        <p>Mr. Berend says that his researchers used numerous surveys to tweak the parameters used by their algorithms, a process he calls ''democratizing.'' His team tested the algorithms by posting some before-and-after shots to the ranking site HotOrNot.com, and found that they could turn some pictures rated 2 out of 10 into 8 out of 10.</p>
+        <p>Retouchers who specialize in restoring damaged photographs use many of the same basic techniques and software, but apply them with a different approach.</p>
+        <p>''I try to focus on what I do best, which is bring old or damaged photos back to life,'' said Kevin Winkler, who markets his work at bestphotorepair.com. ''My specialty is the hand-coloring of those photos after they've been restored. Colorizing, or hand coloring, truly is an art in and of itself, given you must have a feel for what the colors in an old photo might have been during that particular time period.''</p>
+        <p>Mr. Winkler's prices start at $9.99 and rise to $49.99 for detailed restoration. Other effects like hand coloring of a black-and-white photo begin at $12.99. As with most retouching, his prices cover a digital copy of the fixed image. He also subcontracts high-quality prints on canvas at prices beginning at $40.</p>
+        <p>There are limits, though, to what can be restored. Justin Langley, president of FixUpPix.com, says he was recently asked to enhance a surveillance camera picture of someone stealing a bike.</p>
+        <p>''It was a night shot, from what must have been 50 feet away,'' he said. ''I think he was under the impression that we would be able to take a very small image, blow it up, and press the magic button on the keyboard where it automatically enhances every little detail and brings out the faces of the bad guys, just like they do on TV shows like 'C.S.I.' ''</p>
+        <p>All of the restoration artists say it is crucial for users to provide as much detail as they can by scanning images at the highest possible resolution.</p>
+        <p>The restoration artists are also able to edit people in to and out of photographs. Many customers ask the services to edit former husbands or wives out of cherished family photos. One bride who came to FixUpPix.com (which charges $29.99 for any type of photo repair) was happy with her appearance only in the one picture in which her husband's eyes were closed.</p>
+        <p>This technique can lead to ethical questions. ''A boyfriend wanted to get back at an ex-girlfriend, and he wanted us to put her head on a nude body,'' Mr. Craciunescu said. ''We won't do things like that.''</p>
+        <p>Reputable news organizations have strict rules forbidding photographers or editors from using such tools to alter images.</p>
+        <p>But when it comes to family matters or simple vanity, the ethical equation is different.</p>
+        <p>''Most pictures are about memories,'' Mr. Berend said. ''They're to be looked at years later. When you show your kids your wedding picture, it's nice that they're nice. Harsh reality is not always what people want.''</p>
+        <p>Correction:  April 28, 2007, Saturday  An article in the Circuits pages of Business Day Thursday about online services for photo retouching misstated the given name of a proprietor of one such service, Touch of Glamour. He is Boris Kobrin, not Bruce.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: April 28, 2007, Saturday</p>
+        <p>An article in the Circuits pages of Business Day Thursday about online services for photo retouching misstated the given name of a proprietor of one such service, Touch of Glamour. He is Boris Kobrin, not Bruce.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

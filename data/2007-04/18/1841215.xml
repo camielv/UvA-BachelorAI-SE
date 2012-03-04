@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; Michigan Arts Groups Protest State Freeze</title>
+    <meta content="18arts-4" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1841215"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Michigan</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Midwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Michigan</classifier>
+        <classifier class="online_producer" type="general_descriptor">Demonstrations and Riots</classifier>
+        <classifier class="online_producer" type="general_descriptor">Budgets and Budgeting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Culture</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070418T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E2DB1E3FF93BA25757C0A9619C8B63" item-length="200" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; Michigan Arts Groups Protest State Freeze</hl1>
+      </hedline>
+      <byline class="print_byline">By MICHELINE MAYNARD; Compiled by Lawrence Van Gelder</byline>
+      <byline class="normalized_byline">Maynard, Micheline</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Groups representing Michigan's public museums, theaters, music halls and other cultural institutions plan to rally at the state capital in Lansing today in hopes of lifting a freeze on state spending for the arts. The moratorium was ordered last month by the state's governor, Jennifer M. Granholm, as part of efforts to head off a $686 million budget deficit. State law requires that any deficit must be wiped out by the end of the state's fiscal year on Sept. 30. The governor's action affects about $7.5 million of $10 million in state aid that was to be paid to cultural institutions this year. Many institutions say they have already planned their budgets in the expectation of state funding, and the spending freeze is forcing some to cut programs and consider job reductions. In an e-mail message to contributors, the Michigan Theater in Ann Arbor, which has lost $42,000 in state funding, said it was eliminating its Cinema Slam, a monthly showcase for short films. But some Michigan legislators already are proposing cuts in state arts spending for the next fiscal year, when the state's budget crisis is likely to deepen.</p>
+        <p>MICHELINE MAYNARD</p>
+      </block>
+      <block class="full_text">
+        <p>Groups representing Michigan's public museums, theaters, music halls and other cultural institutions plan to rally at the state capital in Lansing today in hopes of lifting a freeze on state spending for the arts. The moratorium was ordered last month by the state's governor, Jennifer M. Granholm, as part of efforts to head off a $686 million budget deficit. State law requires that any deficit must be wiped out by the end of the state's fiscal year on Sept. 30. The governor's action affects about $7.5 million of $10 million in state aid that was to be paid to cultural institutions this year. Many institutions say they have already planned their budgets in the expectation of state funding, and the spending freeze is forcing some to cut programs and consider job reductions. In an e-mail message to contributors, the Michigan Theater in Ann Arbor, which has lost $42,000 in state funding, said it was eliminating its Cinema Slam, a monthly showcase for short films. But some Michigan legislators already are proposing cuts in state arts spending for the next fiscal year, when the state's budget crisis is likely to deepen.</p>
+        <p>MICHELINE MAYNARD</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

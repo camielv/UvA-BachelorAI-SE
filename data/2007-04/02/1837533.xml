@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Taxing Private Equity</title>
+    <meta content="02mon1" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/02/opinion/02mon1.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837533"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Taxation</classifier>
+        <classifier class="indexing_service" type="descriptor">Venture Capital</classifier>
+        <classifier class="indexing_service" type="descriptor">Capital Gains Tax</classifier>
+        <classifier class="indexing_service" type="descriptor">Law and Legislation</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <location class="indexing_service">United States</location>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="descriptor">Wages and Salaries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Venture Capital</classifier>
+        <classifier class="online_producer" type="general_descriptor">Capital Gains Tax</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wages and Salaries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Taxation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070402T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D01E3D81E30F931A35757C0A9619C8B63" item-length="421" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Taxing Private Equity</hl1>
+        <hl2 class="online_headline">Taxing Private Equity</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial calls for end to taxing fees of venture capitalists and buyout specialists at less than half the top rate of ordinary income; says preferential rate for capital gains is excessive with no mechanism in tax code to ensure that it is not overused; says current system encourages wasteful gamesmanship, creates inequity and crowds out other ways to foster risk-taking</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In the world of private equity, ''2 and 20'' is a formula for making money. The mavens of the industry -- venture capitalists and buyout specialists -- generally collect a management fee of 2 percent of the assets they manage and a performance fee equal to 20 percent of any profits. With hundreds of billions of dollars flowing through the 2-and-20 structure, the megabucks pile up quickly.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Excessively favoring one form of income over another encourages wasteful gamesmanship, creates inequity and crowds out other ways to foster risk-taking.</p>
+      </block>
+      <block class="full_text">
+        <p>In the world of private equity, ''2 and 20'' is a formula for making money. The mavens of the industry -- venture capitalists and buyout specialists -- generally collect a management fee of 2 percent of the assets they manage and a performance fee equal to 20 percent of any profits. With hundreds of billions of dollars flowing through the 2-and-20 structure, the megabucks pile up quickly.</p>
+        <p>High fees, however, are only one reason that private equity lives by ''2 and 20.'' Another is low taxes.</p>
+        <p>Partners in private equity ventures treat their performance fees as capital gains -- in other words, like profits on the sale of a stock -- and thus pay tax on the fees at a rate of 15 percent, about the lowest in the tax code. According to federal partnership tax rules, that's legal. But the rules were developed before private equity became the force it is today, and mainly with small business and real estate partnerships in mind.</p>
+        <p>Some lawmakers -- notably Senator Max Baucus, the Democratic chairman of the Finance Committee, and Senator Charles Grassley, the committee's top Republican -- have begun to question whether those rules should apply to private equity.</p>
+        <p>Adding grist to lawmakers' skepticism is a recent paper by Victor Fleischer, an associate professor at the University of Colorado Law School. Mr. Fleischer makes several arguments against treating performance pay as capital gain, starting with the increasingly huge sums that private equity firms raise from tax-exempt investors, like pension funds and endowments.</p>
+        <p>In general, when corporate executives get performance-based pay, like stock options, they don't have to pay tax right away. That's a big tax benefit, but it leaves the government no worse off because the corporation also delays taking a deduction for the payment. There is no such offset when private equity partners are paid by tax-exempt investors. The nation in effect waits longer for its tax revenue and gets less, as private equity partners get more.</p>
+        <p>The deeper question in all this is whether capital gains -- which are currently taxed at less than half the top rate of ordinary income -- should continue to be so lavishly advantaged. The answer there is no. Today's preferential rate for capital gains is excessive, with no mechanism in the tax code to ensure that it is not overused. Excessively favoring one form of income over another encourages wasteful gamesmanship, creates inequity and crowds out other ways to foster risk-taking. Tackling the too-easy tax terms for private equity is a good way for Congress to begin addressing that bigger issue.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

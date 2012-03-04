@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ear-Tuning Helps Doctors Distinguish Heart Murmurs</title>
+    <meta content="03trai" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Health&amp;Fitness" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/03/health/03trai.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837674"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="VITAL SIGNS: TRAINING"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Columns/Vital Signs</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Doctors</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Ears and Hearing</classifier>
+        <classifier class="online_producer" type="descriptor">Heart</classifier>
+        <classifier class="online_producer" type="descriptor">Doctors</classifier>
+        <classifier class="online_producer" type="descriptor">Ears and Hearing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Doctors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Anatomy and Physiology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sound</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ears and Hearing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070403T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E5DE1F30F930A35757C0A9619C8B63" item-length="271" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ear-Tuning Helps Doctors Distinguish Heart Murmurs</hl1>
+        <hl2 class="online_headline">Training: Ear-Tuning Helps Doctors Distinguish Heart Murmurs</hl2>
+      </hedline>
+      <byline class="print_byline">By Eric Nagourney</byline>
+      <byline class="normalized_byline">Nagourney, Eric</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Listening to a patient's heart is a time-honored way for doctors to detect a variety of health problems. But it is not enough just to put a stethoscope to someone's chest, and studies have found that many doctors don't really know how to interpret what they are hearing.</p>
+        <p>A new study suggests that a single session of auditory training can make a difference, at least for a while.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A study suggests that a single session of auditory training can help doctors detect heart problems by listening to a patient’s chest.</p>
+      </block>
+      <block class="full_text">
+        <p>Listening to a patient's heart is a time-honored way for doctors to detect a variety of health problems. But it is not enough just to put a stethoscope to someone's chest, and studies have found that many doctors don't really know how to interpret what they are hearing.</p>
+        <p>A new study suggests that a single session of auditory training can make a difference, at least for a while.</p>
+        <p>The researchers, led by Dr. Michael J. Barrett, a cardiologist at the Temple University School of Medicine, took a group of general internists and tested their ability to detect heart murmurs. The average doctors got about 60 percent right.</p>
+        <p>Then for 90 minutes, the doctors were given MP3 devices and asked to listen to five common heart murmurs 400 times.</p>
+        <p>When retested, they got an average of about 80 percent right -- about the same as cardiologists, the researchers said.</p>
+        <p>Other research has shown that the effect lasts about nine months, Dr. Barrett said.</p>
+        <p>The murmurs that the doctors were trained to hear can indicate a number of problems. (Some can be heard at develop.temple.edu/temple--times/march07/DociPod.html.)</p>
+        <p>But the doctors were also taught to recognize the most common murmur, known as the innocent murmur. It poses no health threat, but some people who have it must take precautions before some medical procedures.</p>
+        <p>Doctors who misidentify it, however, may send patients for unnecessary tests. So it is important they trust their skills enough to tell a patient there is no problem, Dr. Barrett said.</p>
+        <p>''They're going to hear that murmur every day,'' he said, ''so it was really important for them to be confident.''</p>
+        <p>VITAL SIGNS: TRAINING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>OUTBOX</title>
+    <meta content="01outbox" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837367"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE0D71130F932A35757C0A9619C8B63" item-length="141" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>OUTBOX</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The five most e-mailed articles from nytimes.com/sports for March 24 to 30.</p>
+        <p>1. Mystery at Hong Kong Horse Racing Track Concerns have been raised about security for the six Olympic equestrian events that will be in Hong Kong. (Published March 27)</p>
+        <p>2. For Athletes, the Next Fountain of Youth? In a few years, stem cells may be used to grow knee ligaments and elbow tendons. (March 29)</p>
+        <p>3. So You Picked the Final Four? Join the Club This year's Final Four is the first since 1993 with no team seeded lower than No. 2. (March 26)</p>
+        <p>4. Swindal Divorce Shakes Up Yankee Hierarchy It is unlikely that Steve Swindal will succeed George Steinbrenner. (March 29)</p>
+        <p>5. Team Managers Expect Anything, and That's Not an Exaggeration Hundreds of team managers are the behind-the-scenes heroes of the basketball season. (March 25)</p>
+      </block>
+      <block class="full_text">
+        <p>The five most e-mailed articles from nytimes.com/sports for March 24 to 30.</p>
+        <p>1. Mystery at Hong Kong Horse Racing Track Concerns have been raised about security for the six Olympic equestrian events that will be in Hong Kong. (Published March 27)</p>
+        <p>2. For Athletes, the Next Fountain of Youth? In a few years, stem cells may be used to grow knee ligaments and elbow tendons. (March 29)</p>
+        <p>3. So You Picked the Final Four? Join the Club This year's Final Four is the first since 1993 with no team seeded lower than No. 2. (March 26)</p>
+        <p>4. Swindal Divorce Shakes Up Yankee Hierarchy It is unlikely that Steve Swindal will succeed George Steinbrenner. (March 29)</p>
+        <p>5. Team Managers Expect Anything, and That's Not an Exaggeration Hundreds of team managers are the behind-the-scenes heroes of the basketball season. (March 25)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

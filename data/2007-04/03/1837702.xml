@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Lawmakers Call for Ouster Of Top Inspector At Space Agency</title>
+    <meta content="03nasa" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/03/us/03nasa.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837702"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Law Enforcement and Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Security and Warning Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+        <org class="online_producer">National Aeronautics and Space Administration</org>
+        <org class="online_producer">Senate</org>
+        <org class="online_producer">House of Representatives</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070403T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9500E5DD1F30F930A35757C0A9619C8B63" item-length="326" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Lawmakers Call for Ouster Of Top Inspector At Space Agency</hl1>
+        <hl2 class="online_headline">Lawmakers Call for Ouster of Top Inspector at Space Agency</hl2>
+      </hedline>
+      <byline class="print_byline">By WARREN E. LEARY</byline>
+      <byline class="normalized_byline">Leary, Warren E</byline>
+      <dateline>WASHINGTON, April 2</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Leaders of Senate and House subcommittees overseeing NASA called for removal of its inspector general on Monday, saying he had abused his authority and created a hostile workplace that interfered with his office's doing its job.</p>
+        <p>In a letter to President Bush, Representative Brad Miller, a North Carolina Democrat who heads the Investigations and Oversight Subcommittee of the House Science and Technology Committee, and Senator Bill Nelson, a Florida Democrat who heads the Senate Subcommittee on Space, Aeronautics and Related Matters, called for removal of the NASA official, Robert W. Cobb.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Leaders of Senate and House subcommittees overseeing NASA said the agency’s inspector general had abused his authority and created a hostile workplace.</p>
+      </block>
+      <block class="full_text">
+        <p>Leaders of Senate and House subcommittees overseeing NASA called for removal of its inspector general on Monday, saying he had abused his authority and created a hostile workplace that interfered with his office's doing its job.</p>
+        <p>In a letter to President Bush, Representative Brad Miller, a North Carolina Democrat who heads the Investigations and Oversight Subcommittee of the House Science and Technology Committee, and Senator Bill Nelson, a Florida Democrat who heads the Senate Subcommittee on Space, Aeronautics and Related Matters, called for removal of the NASA official, Robert W. Cobb.</p>
+        <p>Mr. Cobb, a former White House ethics lawyer who was appointed inspector general in 2002, has been the subject of an investigation by the President's Council on Integrity and Efficiency on charges that he retaliated against whistle-blowers and failed to look properly into safety and security issues.</p>
+        <p>Representative Bart Gordon, the Tennessee Democrat who heads the full House Science and Technology Committee, said the investigation showed that Mr. Cobb created a work environment where subordinates were afraid to speak out and maintained too close a relationship with top NASA officials whom he should have been scrutinizing.</p>
+        <p>''If whistle-blowers and the inspector general's own staff do not feel that they can trust him or work with him, he cannot possibly be effective,'' Mr. Gordon said. Mr. Cobb could not be reached for comment.</p>
+        <p>David Mould, a NASA spokesman, said the agency administrator, Michael D. Griffin, had reviewed the investigators' report and made his recommendations on March 14. Mr. Griffin acknowledged concerns about management and supervisory issues in the inspector general's office and said he had taken action to address them, Mr. Mould said.</p>
+        <p>''The recommendations from Mr. Griffin do not include removal from office,'' Mr. Mould said, adding that Mr. Griffin found Mr. Cobb ''technically sound and fully engaged in his work.'' Mr. Mould said the report did not indicate that Mr. Cobb's methods had compromised investigations that affected space flight safety.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

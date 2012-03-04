@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Hot Hotel Town in the Arizona Desert</title>
+    <meta content="15transhotels" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Travel" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/15/travel/15transhotels.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840298"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="IN TRANSIT"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Hotels and Motels</classifier>
+        <classifier class="indexing_service" type="descriptor">Restoration and Rehabilitation</classifier>
+        <location class="indexing_service">Scottsdale (Ariz)</location>
+        <org class="indexing_service">Mondrian (Scottsdale, Ariz, Hotel)</org>
+        <person class="indexing_service">Conlin, Jennifer</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Locations/Arizona</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Arizona/Scottsdale</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Arizona</classifier>
+        <classifier class="online_producer" type="descriptor">Travel and Vacations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restoration and Rehabilitation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hotels and Motels</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+        <location class="online_producer">Scottsdale (Ariz)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9403E4DD153FF936A25757C0A9619C8B63" item-length="326" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Hot Hotel Town in the Arizona Desert</hl1>
+        <hl2 class="online_headline">A Hot Hotel Town in the Arizona Desert</hl2>
+      </hedline>
+      <byline class="print_byline">By JENNIFER CONLIN</byline>
+      <byline class="normalized_byline">Conlin, Jennifer</byline>
+      <abstract>
+        <p>Scottsdale, Ariz, is becoming one of hottest hotel towns with opening of Mondrian and renovation of other properties; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Watch out Los Angeles and South Beach. One of the hottest hotel towns right now seems to be Scottsdale, Ariz.</p>
+        <p>Even as the newest entry, the Mondrian -- a sister property to the hotel of the same name in West Hollywood -- has created serious buzz since it opened in January, many of the old-timers in this desert town have just completed multimillion-dollar face-lifts.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Watch out Los Angeles and South Beach. One of the hottest hotel towns right now seems to be Scottsdale, Ariz.</p>
+      </block>
+      <block class="full_text">
+        <p>Watch out Los Angeles and South Beach. One of the hottest hotel towns right now seems to be Scottsdale, Ariz.</p>
+        <p>Even as the newest entry, the Mondrian -- a sister property to the hotel of the same name in West Hollywood -- has created serious buzz since it opened in January, many of the old-timers in this desert town have just completed multimillion-dollar face-lifts.</p>
+        <p>The 250-acre Phoenician (800-888-8234; www.thephoenician.com), above, has just finished a $5.5 million renovation of its 60-room Canyon Suites building -- billed as a ''boutique hotel within a hotel.'' These accommodations offer guests personal concierges and chauffer service for trips to the spa, the golf course or to shops in town. Doubles start at $850, suites at $1,800.</p>
+        <p>The Sanctuary on Camelback Mountain (800-245-2051; www.sanctuaryoncamelback.com), a 1950s icon with a tennis clubhouse designed by a Frank Lloyd Wright protégé, Hiram Hudson Benedict, has just completed the final phase of a two-year renovation. It hasrefurbished the mountain casitas overlooking Paradise Valley to go with the largest infinity pool in Arizona , an indoor-outdoor Asian-inspired spa and a meditation garden. Doubles start at $325. One of the six private villas has been renovated: $3,500 a night ($2,000 May 21 through September).</p>
+        <p>The Caleo Resort and Spa in downtown Scottsdale has been renovated and transformed into the FireSky Resort and Spa (800-528-7867; www.fireskyresort.com). The hotel now has 204 rooms and suites with such amenities as flat-screen TVs and Frette sheets. The new lobby has daybeds for lounging, while the outdoor pool is lighted by torches, and there are secluded fire pits nearby. In low season, May to September, doubles start at $145.</p>
+        <p>Finally, the Mondrian Scottsdale (800-504-0370; www.mondrianscottsdale.com) took over and renovated the old James Hotel and bills itself as an ''urban resort'' in the heart of Old Town. The 194-room hotel has three bars, the Agua Spa and the Asia de Cuba restaurant. Doubles start at $225 a night, but discounts are offered in summer.</p>
+        <p>IN TRANSIT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

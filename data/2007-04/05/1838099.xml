@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Flying Toward Competitive Skies</title>
+    <meta content="05thu2" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/05/opinion/05thu2.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1838099"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Treaties</classifier>
+        <location class="indexing_service">European Union</location>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="descriptor">Politics and Government</classifier>
+        <classifier class="online_producer" type="descriptor">Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Treaties</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">United States</location>
+        <location class="online_producer">Europe</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070405T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E7DB163FF936A35757C0A9619C8B63" item-length="391" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Flying Toward Competitive Skies</hl1>
+        <hl2 class="online_headline">Flying Toward Competitive Skies</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial welcomes so-called open skies pact between European Union and United States to modernize governance of trans-Atlantic aviation market; says deal does not go far enough to open American market to foreign competition, which suggests that US airlines would suffer in competition with foreign ones; says industry and US politicians should embrace free-market principles they often tout</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>International air travel is an example of an industry where arcane, out-of-date rules have held back growth and investment for too long. The deal between the European Union and the United States to modernize and rationalize the governance of the $18 billion trans-Atlantic aviation market is a welcome one for consumers.</p>
+        <p>But it would have been even better if the Bush administration and Congress could have gone further and opened up the American market to more competition, and the superior service and lower prices that come with it. We hope that politicians will embrace the free-market principles they so frequently tout in the next round of negotiations, and not let protectionist and nationalist sentiments harm consumer choice.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The deal between the European Union and the United States to modernize and rationalize the governance of the trans-Atlantic aviation market is a welcome one for consumers.</p>
+      </block>
+      <block class="full_text">
+        <p>International air travel is an example of an industry where arcane, out-of-date rules have held back growth and investment for too long. The deal between the European Union and the United States to modernize and rationalize the governance of the $18 billion trans-Atlantic aviation market is a welcome one for consumers.</p>
+        <p>But it would have been even better if the Bush administration and Congress could have gone further and opened up the American market to more competition, and the superior service and lower prices that come with it. We hope that politicians will embrace the free-market principles they so frequently tout in the next round of negotiations, and not let protectionist and nationalist sentiments harm consumer choice.</p>
+        <p>Before the so-called open skies pact, the United States had separate agreements with individual European countries, or in some cases, none at all. As a result, a German airline like Lufthansa could not operate flights from Paris to New York. In the new environment, that kind of intra-European competition will soon be possible -- and should lead to vigorous new entrants in once-sheltered markets.</p>
+        <p>It is the consumer, cheaper ticket in hand, who benefits. The European Union transport commissioner says he expects that over the next five years the number of passengers flying between Europe and the United States will grow to 75 million annually -- an increase of 26 million. Even a fraction of that would be an enormous gain in business.</p>
+        <p>But while Americans like to think of Europeans as the stodgy ones with ossified markets, the United States did not go nearly as far in pulling down artificial barriers to competition as Europe did. American airlines will be allowed to operate flights between E.U. cities, say from London to Amsterdam, but European airlines will still be prohibited from flying, say, from Boston to Chicago. And the United States still limits a foreign company to owning 25 percent of voting shares in an airline operating here.</p>
+        <p>Embedded in these rules is a pessimistic assumption that American airlines would suffer in a competition with foreign ones. The United States has been at the forefront of aviation since the Wright Brothers flew at Kitty Hawk. On the manufacturing side, Boeing has enjoyed considerable success against its European rival Airbus. The industry should go back to thinking like the free-marketeers this country has always encouraged and valued.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

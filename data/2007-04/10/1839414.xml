@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Manhattan: President For Waterfront Group</title>
+    <meta content="10mbrfs-5" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1839414"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070410T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE7D9153FF933A25757C0A9619C8B63" item-length="127" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Manhattan: President For Waterfront Group</hl1>
+      </hedline>
+      <byline class="print_byline">By PATRICK McGEEHAN; Compiled by John Sullivan</byline>
+      <byline class="normalized_byline">Mcgeehan, Patrick</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>After 10 years as executive director of Habitat for Humanity-New York City, Roland Lewis, left, is leaving to become president and chief executive of the Metropolitan Waterfront Alliance. The alliance is a nonprofit group that advocates for public access to the city's shores and waterways. It had been a project of the Municipal Art Society of New York from 1999 until it was spun off as an independent entity last week, said Kent L. Barwick, president of the art society. Mr. Lewis, 46, who lives in Flatbush, Brooklyn, said yesterday that he hoped to build the alliance into a ''large not-for-profit agency that will be dedicated to finding common ground'' among waterfront developers, government officials and the public.</p>
+        <p>PATRICK McGEEHAN</p>
+      </block>
+      <block class="full_text">
+        <p>After 10 years as executive director of Habitat for Humanity-New York City, Roland Lewis, left, is leaving to become president and chief executive of the Metropolitan Waterfront Alliance. The alliance is a nonprofit group that advocates for public access to the city's shores and waterways. It had been a project of the Municipal Art Society of New York from 1999 until it was spun off as an independent entity last week, said Kent L. Barwick, president of the art society. Mr. Lewis, 46, who lives in Flatbush, Brooklyn, said yesterday that he hoped to build the alliance into a ''large not-for-profit agency that will be dedicated to finding common ground'' among waterfront developers, government officials and the public.</p>
+        <p>PATRICK McGEEHAN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

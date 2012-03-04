@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Troubled Theater Welcomes Support</title>
+    <meta content="08njweekNJ" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Theater; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838736"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE WEEK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Theater</classifier>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <org class="indexing_service">Paper Mill Playhouse (Millburn, NJ)</org>
+        <person class="indexing_service">Capuzzo, Jill P</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070408T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9403EEDF173FF93BA35757C0A9619C8B63" item-length="280" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Troubled Theater Welcomes Support</hl1>
+      </hedline>
+      <byline class="print_byline">By JILL P. CAPUZZO</byline>
+      <byline class="normalized_byline">Capuzzo, Jill P</byline>
+      <abstract>
+        <p>Outpouring of support for Paper Mill Playhouse in Milburn, NJ, has been overwhelming since it revealed that $2.8 million budget shortfall could prevent staging of its last two productions this season (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>From quarters in piggy banks to love letters from actors, the outpouring of support for the Paper Mill Playhouse in Millburn has been overwhelming since it was revealed last week that the theater was operating on life support.</p>
+        <p>''I'm elated, but it's exhausting,'' Kenneth H. Thorn, the theater board's chairman, said of the groundswell of support. ''I just wish we didn't have to have a crisis to generate this level of energy for getting the theater back on its feet.''</p>
+      </block>
+      <block class="full_text">
+        <p>From quarters in piggy banks to love letters from actors, the outpouring of support for the Paper Mill Playhouse in Millburn has been overwhelming since it was revealed last week that the theater was operating on life support.</p>
+        <p>''I'm elated, but it's exhausting,'' Kenneth H. Thorn, the theater board's chairman, said of the groundswell of support. ''I just wish we didn't have to have a crisis to generate this level of energy for getting the theater back on its feet.''</p>
+        <p>The crisis Mr. Thorn referred to was last week's revelation, first reported in The Star-Ledger of Newark, that the 1,200-seat theater's $2.8 million budget shortfall could prevent Paper Mill from staging its last two productions this season.</p>
+        <p>The status of ''Seven Brides for Seven Brothers,'' scheduled to begin performances on Wednesday, was up in the air late last week. Shayne A. Miller, a spokesman for Paper Mill, said the theater was reluctant to bring in actors whom it might not be able to pay for the show's full run.</p>
+        <p>State Senators Richard J. Codey and Tom Kean Jr. have proposed a grant of $300,000 to $400,000, but that money would not be available until August, Mr. Miller said.</p>
+        <p>While many smaller donations have come in since word of Paper Mill's troubled financial status began spreading, and two real estate developers have offered to guarantee a bank loan, no major donors had appeared to bail out the theater, Mr. Thorn said last Thursday.</p>
+        <p>Perhaps such a person will show up at a rally scheduled at the theater on Monday evening, where state legislators will rub elbows with Broadway actors to draw more attention to Paper Mill's plight.</p>
+        <p>THE WEEK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

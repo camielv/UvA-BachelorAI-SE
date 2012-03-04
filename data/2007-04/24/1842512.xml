@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Propeller Puzzles</title>
+    <meta content="24qna" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1842512"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Q + A"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070424T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07E5D6173EF937A15757C0A9619C8B63" item-length="235" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Propeller Puzzles</hl1>
+      </hedline>
+      <byline class="print_byline">By C. CLAIBORNE RAY</byline>
+      <byline class="normalized_byline">Ray, C Claiborne</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Q. I have heard of planes with five-bladed propellers. How do engineers decide how many blades to have?</p>
+        <p>A. The number of blades is but one choice an engineer designing propellers must make, and the others may be just as important or even more so, said Alan J. Friedman, consulting senior scientist for the New York Hall of Science in Queens.</p>
+      </block>
+      <block class="full_text">
+        <p>Q. I have heard of planes with five-bladed propellers. How do engineers decide how many blades to have?</p>
+        <p>A. The number of blades is but one choice an engineer designing propellers must make, and the others may be just as important or even more so, said Alan J. Friedman, consulting senior scientist for the New York Hall of Science in Queens.</p>
+        <p>''The shape of each section of the blades, their thickness, length, pitch -- which is often changeable in flight -- can all be varied,'' he said. ''Those choices in turn depend on many factors, such as how much power the engine produces, what rotation speed is optimum, how fast the plane will be going most of the time and how high (hence how thin the air), how much noise and vibration are tolerated, speed versus economy, and on and on.''</p>
+        <p>The famous Spitfire fighter of World War II, for example, had two-, three-, four- or five-blade propellers, each chosen for various models of the plane and engine. ''And there are even more options,'' Dr. Friedman said. ''Some planes have contra-rotating propellers, two propellers on the same shaft, but turning in opposite directions.''</p>
+        <p>Each factor is just one variable in a complex design equation. ''There is rarely one ideal answer,'' Dr. Friedman said. ''Instead, finding the right compromise for each situation is the nature of the game.''</p>
+        <p>C. CLAIBORNE RAY</p>
+        <p>Q + A</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

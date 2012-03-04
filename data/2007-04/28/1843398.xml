@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Elias Says He Feels Ready to Return Tonight</title>
+    <meta content="28nhl" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1843398"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Hockey/National Hockey League/New Jersey Devils</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Hockey/National Hockey League/Ottawa Senators</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Hockey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Playoff Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hockey, Ice</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070428T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980DE7D8123EF93BA15757C0A9619C8B63" item-length="142" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Elias Says He Feels Ready to Return Tonight</hl1>
+      </hedline>
+      <dateline>WEST ORANGE, N.J., April 27</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Only five Devils participated in an optional skate Friday afternoon, and one of them was Patrik Elias, their captain and top scorer.</p>
+        <p>Elias, who missed the Devils' 5-4 loss Thursday to the Ottawa Senators because of the flu, said after skating for 30 minutes Friday that he was optimistic that he would play in Game 2 of the N.H.L. Eastern Conference semifinal series Saturday at Continental Arena. ''I feel good enough to play now,'' he said.</p>
+      </block>
+      <block class="full_text">
+        <p>Only five Devils participated in an optional skate Friday afternoon, and one of them was Patrik Elias, their captain and top scorer.</p>
+        <p>Elias, who missed the Devils' 5-4 loss Thursday to the Ottawa Senators because of the flu, said after skating for 30 minutes Friday that he was optimistic that he would play in Game 2 of the N.H.L. Eastern Conference semifinal series Saturday at Continental Arena. ''I feel good enough to play now,'' he said.</p>
+        <p>Although he described his ailment as nothing more than a severe bug, with aches and a high fever, Elias's health is a sensitive issue because he contracted hepatitis A nearly two years ago. He missed the first 39 games of the 2005-6 season as a result.</p>
+        <p>Elias, the left wing on the Devils' top line, led the team with 69 points in 75 games this season.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

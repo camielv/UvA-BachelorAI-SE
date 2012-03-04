@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   MCDERMOTT, KEVIN J.</title>
+    <meta content="dn041207.1" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1839609"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">MCDERMOTT, KEVIN J.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070412T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9507E5DD123AF931A25757C0A9619C8B63" item-length="61" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   MCDERMOTT, KEVIN J.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>McDERMOTT--Kevin J., on April 11, 2007. Survived by loving daughters Lauren, Christine, and Jeanene. Also survived by his forever loving friend Susan Geiger. Former Ernst &amp; Young partner. Family will receive friends at Frank E. Campbell -The Funeral Chapel, 1076 Madison Ave. (81st St.) Friday 2-5 and 7-9pm. Mass of Christian Burial, Our Lady of Good Counsel Church, Saturday 10am.</p>
+      </block>
+      <block class="full_text">
+        <p>McDERMOTT--Kevin J., on April 11, 2007. Survived by loving daughters Lauren, Christine, and Jeanene. Also survived by his forever loving friend Susan Geiger. Former Ernst &amp; Young partner. Family will receive friends at Frank E. Campbell -The Funeral Chapel, 1076 Madison Ave. (81st St.) Friday 2-5 and 7-9pm. Mass of Christian Burial, Our Lady of Good Counsel Church, Saturday 10am.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

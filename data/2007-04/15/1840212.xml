@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   STECHER, BEATRICE (NEE SEELAV, BENEDICT)</title>
+    <meta content="dn041507.3" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="27" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1840212"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">STECHER, BEATRICE (NEE SEELAV, BENEDICT)</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9500E6DB123AF936A25757C0A9619C8B63" item-length="76" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   STECHER, BEATRICE (NEE SEELAV, BENEDICT)</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>STECHER--Beatrice (nee Seelav, Benedict). In Fort Myers, Florida, on April 12, 2007, after a brief illness. Survived by her daughter, Jo Anne Stecher, son-in-law Terrence Pardoe, and sister-inlaw, Jeanne Seelav. She served in the US Army for eight years during and after WWII at the Pentagon, in Frankfurt, Germany and Mitchell Field, ending her career as a Major. Contributions would be appreciated to Jewish National Fund or City of Hope Medical Center in Duarte, CA.</p>
+      </block>
+      <block class="full_text">
+        <p>STECHER--Beatrice (nee Seelav, Benedict). In Fort Myers, Florida, on April 12, 2007, after a brief illness. Survived by her daughter, Jo Anne Stecher, son-in-law Terrence Pardoe, and sister-inlaw, Jeanne Seelav. She served in the US Army for eight years during and after WWII at the Pentagon, in Frankfurt, Germany and Mitchell Field, ending her career as a Major. Contributions would be appreciated to Jewish National Fund or City of Hope Medical Center in Duarte, CA.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

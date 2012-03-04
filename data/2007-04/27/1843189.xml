@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>EMI Hires Executive to Lead Its North American Business</title>
+    <meta content="27music" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/27/business/media/27music.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1843189"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="INTERNATIONAL BUSINESS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="online_producer" type="descriptor">Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <org class="online_producer">EMI Group Plc</org>
+        <person class="online_producer">Ames, Roger</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070427T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D02EFD6153EF934A15757C0A9619C8B63" item-length="334" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>EMI Hires Executive to Lead Its North American Business</hl1>
+        <hl2 class="online_headline">EMI Hires Executive to Lead Its North American Business</hl2>
+      </hedline>
+      <byline class="print_byline">By JEFF LEEDS</byline>
+      <byline class="normalized_byline">Leeds, Jeff</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>EMI Group, the struggling British music giant, has hired the longtime industry executive Roger Ames, a former chairman of Warner Music Group, to revive its North American operation.</p>
+        <p>The appointment of Mr. Ames, a 57-year-old native of Trinidad, comes more than three months after a management shakeup in which EMI ousted the two senior executives overseeing its recorded music operation. Mr. Ames had been a consultant advising EMI on a range of issues for the last two years.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>EMI Group hired the longtime industry executive Roger Ames, a former chairman of Warner Music Group, to revive its North American operation.</p>
+      </block>
+      <block class="full_text">
+        <p>EMI Group, the struggling British music giant, has hired the longtime industry executive Roger Ames, a former chairman of Warner Music Group, to revive its North American operation.</p>
+        <p>The appointment of Mr. Ames, a 57-year-old native of Trinidad, comes more than three months after a management shakeup in which EMI ousted the two senior executives overseeing its recorded music operation. Mr. Ames had been a consultant advising EMI on a range of issues for the last two years.</p>
+        <p>Mr. Ames will oversee the company's labels in the United States, including the Capitol Music Group and Blue Note Records, but he is almost sure to play some role in determining EMI's strategies for future deal making. As head of Warner Music in 2000 -- when it was a unit of Time Warner -- Mr. Ames tried to orchestrate a merger with EMI, but the deal collapsed amid doubts that it would receive regulatory approval.</p>
+        <p>After Time Warner sold the music unit to an investor consortium led by Edgar Bronfman Jr. in 2003, Mr. Ames found himself in a diminished role, and soon left the company. Warner and EMI have talked on and off about merger or acquisition deals ever since. Most recently, talks between the two sides have been hung up on regulatory concerns.</p>
+        <p>EMI's chief, Eric Nicoli, took direct control of the company's music operation in a reorganization earlier this year and remains in that role. But the hiring of Mr. Ames puts an experienced record industry executive in charge of the company's labels in the world's biggest music market.</p>
+        <p>As part of the new arrangement, Ivan Gavin, EMI's chief operating officer for North America, is leaving the company.</p>
+        <p>EMI, which releases music by artists including Norah Jones and Joss Stone, has long ranked last among the major record corporations in sales in the United States, though its share of the ailing market has surged to 11.6 percent so far this year, up from 9.3 percent last year, according to Nielsen SoundScan data.</p>
+        <p>INTERNATIONAL BUSINESS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

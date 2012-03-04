@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Graceful Exit</title>
+    <meta content="NJconcession" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="25" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/22/opinion/nyregionopinions/NJconcession.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842100"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="New Jersey"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Endorsements</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <location class="indexing_service">New Jersey</location>
+        <location class="indexing_service">Bergen County (NJ)</location>
+        <person class="indexing_service">Ferriero, Joseph</person>
+        <person class="indexing_service">Weinberg, Loretta (Sen)</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="descriptor">Legislatures and Parliaments</classifier>
+        <classifier class="online_producer" type="descriptor">Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Legislatures and Parliaments</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">New Jersey</location>
+        <person class="online_producer">Weinberg, Loretta</person>
+        <person class="online_producer">Corzine, Jon S</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E03E5DA1F3FF931A15757C0A9619C8B63" item-length="152" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Graceful Exit</hl1>
+        <hl2 class="online_headline">Graceful Exit</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial lauds Bergen County Democratic chairman Joseph Ferriero for ending his opposition and backing re-election of New Jersey State Senator Loretta Weinberg</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Sometimes you can stand up to a political boss and win. Occasionally you can even do it twice.</p>
+        <p>Take the case of Loretta Weinberg of Bergen County, who as an assemblywoman two years ago challenged the State Senate candidate backed by Joseph Ferriero, the county Democratic chairman, and won.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Sometimes you can stand up to a political boss and win. Occasionally you can even do it twice.</p>
+      </block>
+      <block class="full_text">
+        <p>Sometimes you can stand up to a political boss and win. Occasionally you can even do it twice.</p>
+        <p>Take the case of Loretta Weinberg of Bergen County, who as an assemblywoman two years ago challenged the State Senate candidate backed by Joseph Ferriero, the county Democratic chairman, and won.</p>
+        <p>This year, Mr. Ferriero fielded a formidable slate of Democratic primary candidates to oppose Senator Weinberg and her running mates. His backers even tried to persuade Republicans to switch parties temporarily so they could vote against Ms. Weinberg in the primary. But that was insufficient to slow Ms. Weinberg. Internal polls showed her winning big. In a deal arranged by Gov. Jon Corzine just before his car accident, the chairman withdrew the challenge and publicly endorsed Ms. Weinberg.</p>
+        <p>Occasionally, a political boss knows enough to back down gracefully when he realizes he cannot win, and in so doing, he wins in other ways.</p>
+        <p>New Jersey</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

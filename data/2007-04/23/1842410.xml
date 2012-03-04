@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Mayor's Ode to Earth Day</title>
+    <meta content="23mon2" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/23/opinion/23mon2.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842410"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Environment</classifier>
+        <classifier class="online_producer" type="descriptor">Commuting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Commuting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <location class="online_producer">New York City</location>
+        <person class="online_producer">Bloomberg, Michael R</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070423T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9504E5D9173EF930A15757C0A9619C8B63" item-length="395" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Mayor's Ode to Earth Day</hl1>
+        <hl2 class="online_headline">The Mayor’s Ode to Earth Day</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Mayor Michael Bloomberg likes to talk about the big picture, even if it might not be pretty. Yesterday, he warned New Yorkers how their city could suffer by 2030 without his plans for the future. With a million new people coming into town, housing needs would soar. The sky could be as gray and toxic as London in the 50's. Every road into Manhattan would be above capacity -- a gridlock nightmare that would make today's traffic jams look tame.</p>
+        <p>Then, Mr. Bloomberg laid out his plan for what he calls ''a greener, greater New York.'' It is a broad, complicated and exciting blueprint that covers some 127 proposals ranging from more trees to better power plants to finally cleaning up brownfields enough to build safe parks and housing across the city.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Mayor Michael Bloomberg’s plan for what he calls “a greener, greater New York” is a broad, complicated and exciting blueprint.</p>
+      </block>
+      <block class="full_text">
+        <p>Mayor Michael Bloomberg likes to talk about the big picture, even if it might not be pretty. Yesterday, he warned New Yorkers how their city could suffer by 2030 without his plans for the future. With a million new people coming into town, housing needs would soar. The sky could be as gray and toxic as London in the 50's. Every road into Manhattan would be above capacity -- a gridlock nightmare that would make today's traffic jams look tame.</p>
+        <p>Then, Mr. Bloomberg laid out his plan for what he calls ''a greener, greater New York.'' It is a broad, complicated and exciting blueprint that covers some 127 proposals ranging from more trees to better power plants to finally cleaning up brownfields enough to build safe parks and housing across the city.</p>
+        <p>In that sweep of new plans, the most controversial and also the most crucial is a proposal to charge $8 for vehicles coming into Manhattan. This move to congestion pricing in New York City is long overdue. But it will still kick up lots of opposition, especially in the State Legislature, which is where too many good ideas like this one go to die.</p>
+        <p>One good thing: Mayor Bloomberg is known for sticking to his guns -- for better or worse. This time, it will be for the better, as Stockholm, Singapore and London can attest.</p>
+        <p>Mr. Bloomberg says the city must act now, rather than wait for Washington, and he wants to begin congestion pricing with a three-year pilot proposal. There would be all kinds of exceptions, but the $8 fee could generate more than $500 million a year, the mayor figures. That is the right way to make money. The question is how to spend it. The mayor and other public officials must take care that this money goes to improve public transit in the outer boroughs, especially for those who will need better buses or subways when they leave their autos behind. If people feel that this surcharge is going mostly to Manhattan, the plan will die on its shelf.</p>
+        <p>It is worth nothing that some public officials in Mr. Bloomberg's position, with less than 1,000 days left in office, might start to look beyond the present job. New Yorkers are fortunate to have a mayor willing to expend his energy and political clout to make their home a more livable city.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

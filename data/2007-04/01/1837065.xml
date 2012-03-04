@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Designs for Living</title>
+    <meta content="04remix.cooperhewitt.t" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="T: Design Magazine" name="dsk"/>
+    <meta content="44" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Style; Magazine" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/01/style/tmagazine/04remix.cooperhewitt.t.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837065"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="The Remix"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/T: Style Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">Farmers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Farmers</classifier>
+        <org class="online_producer">Cooper-Hewitt National Design Museum</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07EFDA1230F932A35757C0A9619C8B63" item-length="371" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Designs for Living</hl1>
+        <hl2 class="online_headline">Designs for Living</hl2>
+      </hedline>
+      <byline class="print_byline">By Marisa Bartolucci</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>I confess that when I heard the Cooper-Hewitt National Design Museum had scheduled an exhibition titled ''Design for the Other 90%,'' I thought it was a survey of the welcome trend of retailers marketing stylish furnishings at prices that freelance journalists like me could afford. What a solipsist! The ''90 %'' refers to the staggering 5.8 billion of the world's population whose lives are defined not by rarefied yearnings but by the pangs of need. The kinds of products they require for survival have been ignored by most designers -- until now. ''What's so exciting about this show is that it marks a sea change,'' says Cynthia E. Smith, who curated the exhibition, which opens May 4. ''It surveys the trend toward more socially responsible design. A whole range of nonprofits and for-profits, community groups and international organizations are getting involved to create products that can lift the marginalized out of a subsistence existence.'' Smith cites a treadle pump from International Development Enterprises (IDE) that farmers can use to lift water from deep below ground. IDE re-engineered the traditional pump out of inexpensive metal cylinders and a bamboo frame so that those earning as little as a dollar a day could afford to buy it. Since it was introduced some 20 years ago, nearly 1.25 million have been sold in Asia and Africa, enabling farmers to extend their growing season and often double their incomes. And it's not just groups that are making a difference -- individuals are, too. Wanting to find a way for subsistence farmers to refrigerate their food, a Nigerian teacher, Mohammed Bah Abba, looked to African pottery for a solution. His earthenware ''pot-in-pot'' system draws on principles of physics used by the ancient Egyptians for food preservation. Now farmers can preserve enough produce to sell at market. The South African team of P. J. and J. P. S. Hendrikse created the Q-Drum wheel (above), to simplify transporting water. By demonstrating how ingenious, sustainable products can transform lives, the exhibit underscores the critical role design has to play in ending world poverty. It's admittedly a bigger notion than those of us with Cassina dreams and Target budgets typically entertain, but surely one we can all embrace.</p>
+        <p>Marisa Bartolucci</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Cooper-Hewitt National Design Museum’s exhibition titled “Design for the Other 90%” surveys the trend toward more socially responsible design.</p>
+      </block>
+      <block class="full_text">
+        <p>I confess that when I heard the Cooper-Hewitt National Design Museum had scheduled an exhibition titled ''Design for the Other 90%,'' I thought it was a survey of the welcome trend of retailers marketing stylish furnishings at prices that freelance journalists like me could afford. What a solipsist! The ''90 %'' refers to the staggering 5.8 billion of the world's population whose lives are defined not by rarefied yearnings but by the pangs of need. The kinds of products they require for survival have been ignored by most designers -- until now. ''What's so exciting about this show is that it marks a sea change,'' says Cynthia E. Smith, who curated the exhibition, which opens May 4. ''It surveys the trend toward more socially responsible design. A whole range of nonprofits and for-profits, community groups and international organizations are getting involved to create products that can lift the marginalized out of a subsistence existence.'' Smith cites a treadle pump from International Development Enterprises (IDE) that farmers can use to lift water from deep below ground. IDE re-engineered the traditional pump out of inexpensive metal cylinders and a bamboo frame so that those earning as little as a dollar a day could afford to buy it. Since it was introduced some 20 years ago, nearly 1.25 million have been sold in Asia and Africa, enabling farmers to extend their growing season and often double their incomes. And it's not just groups that are making a difference -- individuals are, too. Wanting to find a way for subsistence farmers to refrigerate their food, a Nigerian teacher, Mohammed Bah Abba, looked to African pottery for a solution. His earthenware ''pot-in-pot'' system draws on principles of physics used by the ancient Egyptians for food preservation. Now farmers can preserve enough produce to sell at market. The South African team of P. J. and J. P. S. Hendrikse created the Q-Drum wheel (above), to simplify transporting water. By demonstrating how ingenious, sustainable products can transform lives, the exhibit underscores the critical role design has to play in ending world poverty. It's admittedly a bigger notion than those of us with Cassina dreams and Target budgets typically entertain, but surely one we can all embrace.</p>
+        <p>Marisa Bartolucci  The Remix</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Equity FirmIs Seen Ready To Sell a Stake To Investors</title>
+    <meta content="05deal" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/05/business/05deal.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1838160"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <org class="indexing_service">Apollo Management Lp</org>
+        <org class="indexing_service">Blackstone Group</org>
+        <person class="indexing_service">Sorkin, Andrew Ross</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <org class="online_producer">Apollo Management LP</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070405T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E4DA163FF936A35757C0A9619C8B63" item-length="414" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Equity FirmIs Seen Ready To Sell a Stake To Investors</hl1>
+        <hl2 class="online_headline">Equity Firm Is Seen Ready to Sell a Stake to Investors</hl2>
+      </hedline>
+      <byline class="print_byline">By ANDREW ROSS SORKIN; Peter Edmonston contributed reporting.</byline>
+      <byline class="normalized_byline">Sorkin, Andrew Ross</byline>
+      <abstract>
+        <p>Apollo Management, private equity firm founded by Leon D Black, is seeking to sell minority stake in business to private investors; planned sale, in form of private placement, would contradict earlier reports that Apollo was planning initial public offering similar to one proposed by Blackstone Group (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Apollo Management, the private equity firm founded by Leon D. Black, is seeking to sell a minority stake in the business to private investors, according to people close to the firm.</p>
+        <p>The planned sale, in the form of a private placement, would contradict earlier reports that Apollo was planning an initial public offering similar to one proposed by another equity firm, the Blackstone Group.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The planned sale would contradict earlier reports that Apollo Management was planning an initial public offering.</p>
+      </block>
+      <block class="full_text">
+        <p>Apollo Management, the private equity firm founded by Leon D. Black, is seeking to sell a minority stake in the business to private investors, according to people close to the firm.</p>
+        <p>The planned sale, in the form of a private placement, would contradict earlier reports that Apollo was planning an initial public offering similar to one proposed by another equity firm, the Blackstone Group.</p>
+        <p>Apollo, which recently agreed to acquire Harrah's Entertainment, the world's largest casino operator, has been working with Goldman Sachs and JPMorgan Chase to canvass for potential buyers, these people said yesterday.</p>
+        <p>The equity firm has approached several pension funds and other large investors that have previously invested in its funds about buying a stake as great as 10 percent of the firm for about $1.5 billion, these people added.</p>
+        <p>The sale process is in its initial stages and is expected to take several months, these people said, cautioning that it was possible that the firm could still decide against selling.</p>
+        <p>A private sale of a minority stake would allow Apollo to create liquidity for partners like Mr. Black, who is said to own about 50 percent of the firm, without being exposed to the public markets and the disclosures that requires.</p>
+        <p>The possibility of a private sale would also create value for the firm if it decided later to pursue a public offering, an option that people close to the firm said it might revisit after Blackstone's offering.</p>
+        <p>Unlike Blackstone, Apollo has tapped the public markets before. It sold shares in 2004 in the Apollo Investment Corporation, a fund that makes debt and equity investments in midsize companies. Last year, Apollo held an offering in Europe for another fund.</p>
+        <p>Those sales did not require the same levels of disclosure that Apollo would have to make if it sold shares in its management company to the public in the United States.</p>
+        <p>Mr. Black made his name in the 1980s as the head of leveraged buyouts at Drexel Burnham Lambert, the pioneer in using high-yield bonds to finance corporate takeovers. Although Drexel was brought down in financial scandals that followed, Mr. Black emerged unscathed.</p>
+        <p>Lately, Apollo has been an active deal maker. Over three days in December, it took part in two deals with a total value of $37 billion. Apollo acquired Realogy, a real estate franchiser that owns Coldwell Banker and Century 21, and joined with the Texas Pacific Group to buy Harrah's.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

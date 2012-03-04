@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Google Reaches Deal With Clear Channel to Sell Radio Ads</title>
+    <meta content="16radio" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/16/technology/16radio.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840738"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="descriptor">Radio</classifier>
+        <classifier class="online_producer" type="general_descriptor">Radio</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+        <org class="online_producer">Google Inc</org>
+        <org class="online_producer">Clear Channel Communications Inc</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070416T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DEFDF113FF935A25757C0A9619C8B63" item-length="612" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Google Reaches Deal With Clear Channel to Sell Radio Ads</hl1>
+        <hl2 class="online_headline">Google Reaches Deal With Clear Channel to Sell Radio Ads</hl2>
+      </hedline>
+      <byline class="print_byline">By LOUISE STORY</byline>
+      <byline class="normalized_byline">Story, Louise</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Google will begin selling advertisements across all of the stations of Clear Channel Communications, the No. 1 radio station owner in the United States, at the end of June, the companies will announce today.</p>
+        <p>Google has been working for months to expand its ad sales operation into traditional media like newspapers, radio and television. To do so, it needs traditional media companies to allow it to sell some of their ads, and it had seemed to be making little progress in radio.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Google will begin selling ads across all Clear Channel stations at the end of June, a partnership that represents a clear step forward.</p>
+      </block>
+      <block class="full_text">
+        <p>Google will begin selling advertisements across all of the stations of Clear Channel Communications, the No. 1 radio station owner in the United States, at the end of June, the companies will announce today.</p>
+        <p>Google has been working for months to expand its ad sales operation into traditional media like newspapers, radio and television. To do so, it needs traditional media companies to allow it to sell some of their ads, and it had seemed to be making little progress in radio.</p>
+        <p>But the partnership with Clear Channel represents a step forward for Google. The deal will run for several years, and will give Google access to just under 5 percent of Clear Channel's commercial time. That will include 30-second spots on all of Clear Channel's 675 stations during all programs and all times of the day, executives at both companies said in interviews yesterday.</p>
+        <p>The companies did not disclose the financial details of the arrangement, except to say that Clear Channel would receive the majority of the ad revenue.</p>
+        <p>''It represents an opportunity to put what is arguably the hottest sales organization in the world to work selling our inventory, and we're very excited about that,'' said John Hogan, the chief executive of Clear Channel.</p>
+        <p>Mr. Hogan said that Google would bring new advertisers to his stations and would work with those companies rather than with Clear Channel's existing advertisers. But, he said, the Google advertisers would have access to premium inventory -- in contrast to some of Google's deals with newspapers that are allowing Google to sell only leftover ad space. And, he left the door open for a broader deal.</p>
+        <p>''If it is a success, we would want to replicate it and expand it,'' Mr. Hogan said.</p>
+        <p>Google has already signed on to sell ads for 800 stations nationwide, but they tend to be in smaller markets, said Tim Armstrong, Google's president for North American advertising and commerce.</p>
+        <p>''Everybody from top to bottom at Google is excited about this partnership,'' Mr. Armstrong said.</p>
+        <p>The deal will most likely stir more fear among the media executives who are wary of Google's encroachment. Google may have an easier time becoming dominant in radio because of the importance of local advertisers there, said Gene DeWitt, chairman of DeWitt Media Strategies, a firm that buys ads.</p>
+        <p>''Most mediums tend to be driven by national advertisers, but not radio,'' Mr. DeWitt said. ''It's the national advertising community that has kind of been keeping Google at arm's length. These advertisers -- on radio -- may very likely be more willing and interested.''</p>
+        <p>Mr. DeWitt said that radio buying and selling generally had the most cumbersome processes.</p>
+        <p>Google's chief executive, Eric E. Schmidt, said last year that he planned to eventually have 1,000 employees working in the company's radio unit. Google paid as much as $1.24 billion to acquire dMarc Broadcasting early last year, and used that company's systems to expand its AdSense for Audio sales system to include radio capabilities. Advertisers log on to the AdSense Web site, choose what type of ad they want and submit their bids.</p>
+        <p>Google executives have said they hope to expand the offerings on their AdSense site to include all types of advertising, online and offline. On Friday, Google agreed to pay $3.1 billion to acquire DoubleClick, a company with display ad knowledge that Google hopes will help it move beyond the text and search ads that generate most of its revenue.</p>
+        <p>Google also recently started selling ads for the 125 national satellite channels on EchoStar Communications' DISH Network. And the company is testing ad sales for papers like The Chicago Tribune, The New York Times and newspaper chains.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Film in Review; Los Muertos</title>
+    <meta content="06roun-1" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838386"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Seitz, Matt Zoller</person>
+        <person class="indexing_service">Alonso, Lisandro</person>
+        <person class="indexing_service">Vargas, Argentino</person>
+        <object.title class="indexing_service">Los Muertos (Movie)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/Reviews</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070406T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E6DB173FF935A35757C0A9619C8B63" item-length="333" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Film in Review; Los Muertos</hl1>
+      </hedline>
+      <byline class="print_byline">By MATT ZOLLER SEIT</byline>
+      <abstract>
+        <p>Matt Zoller Seitz reviews film Los Muertos, directed by Lisandro Alonso; Argentino Vargas stars; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Opens today in Manhattan  Directed by Lisandro Alonso  In Spanish, with English subtitles  82 minutes; not rated</p>
+        <p>The mesmerizing two-minute opening shot of ''Los Muertos'' is filmed from the viewpoint of a man lost in the jungle, weaving among the tree trunks and underbrush, looking up at the sunlight streaming down, fleetingly glancing at two dead, butchered boys lying on the ground, then glimpsing the figure (but not the face) of a passing man holding a bloody knife.</p>
+      </block>
+      <block class="full_text">
+        <p>Opens today in Manhattan  Directed by Lisandro Alonso  In Spanish, with English subtitles  82 minutes; not rated</p>
+        <p>The mesmerizing two-minute opening shot of ''Los Muertos'' is filmed from the viewpoint of a man lost in the jungle, weaving among the tree trunks and underbrush, looking up at the sunlight streaming down, fleetingly glancing at two dead, butchered boys lying on the ground, then glimpsing the figure (but not the face) of a passing man holding a bloody knife.</p>
+        <p>That horrendous but beautiful sequence is only the first of many. This stunning second feature film by the Argentine director Lisandro Alonso has a relatively simple plot: a convicted murderer named Vargas (Argentino Vargas) is released from prison after 20 years and travels by boat through the jungle to see his daughter. But the movie doesn't pursue the story in the expected way.</p>
+        <p>Mr. Alonso divides most of the film into very long takes, some elaborately choreographed, others almost static, the better to plunge the viewer directly into the protagonist's world. Like a slowed-down, more realistic and psychologically penetrating cousin of a Werner Herzog or Terrence Malick film, ''Los Muertos'' is primarily concerned with the rhythms and textures of life.</p>
+        <p>The movie observes Vargas in real time as he has his hair cut, has graphic sex with a prostitute, visits an old friend, navigates his boat upriver, catches and butchers a wild goat; the shots last much longer than you expect, which forces you to appreciate the context of Vargas's actions and marvel that so much beauty could enfold such a supposedly awful human being.</p>
+        <p>Mr. Alonso lets us grasp the physical details of Vargas's life but little else. We have to intuit his reactions to his emotions and his changed circumstance and deduce his guilt or innocence. (The movie avoids confirming whether Vargas committed the murders, and when other characters mention the subject, he talks around it.) The phrase ''in the moment'' has rarely been illustrated so vividly.</p>
+        <p>MATT ZOLLER SEIT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

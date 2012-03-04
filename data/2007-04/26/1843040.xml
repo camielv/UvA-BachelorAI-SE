@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Surplus Is Larger Than City Thought</title>
+    <meta content="26budget" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/26/nyregion/26budget.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1843040"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <classifier class="indexing_service" type="descriptor">Budgets and Budgeting</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Bloomberg, Michael R (Mayor)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Finances</classifier>
+        <classifier class="online_producer" type="descriptor">Budgets and Budgeting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Budgets and Budgeting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <person class="online_producer">Bloomberg, Michael R</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070426T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F00E5DC153EF935A15757C0A9619C8B63" item-length="218" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Surplus Is Larger Than City Thought</hl1>
+        <hl2 class="online_headline">Surplus Is Larger Than City Thought</hl2>
+      </hedline>
+      <abstract>
+        <p>New York City's revenues are running $1.3 billion ahead of projections for this fiscal year, bringing current budget surplus to $1.4 billion; new projections also add $838 million to revenue expected in fiscal year that begins in July 2007; Mayor Michael R Bloomberg wants to use significant part of surplus toward paying down expected debt in future years (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>New York City's revenues are running $1.3 billion ahead of projections for this fiscal year, bringing the current budget surplus to $4.4 billion, according to new figures released yesterday in advance of Mayor Michael R. Bloomberg's executive budget announcement today.</p>
+        <p>The new projections, which also added $838 million to revenues expected in the fiscal year that begins in July, are buoyed in part by real estate taxes and the strength of the city's economy.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>New York City’s revenues are running $1.3 billion ahead of projections for this fiscal year, bringing the current budget surplus to $4.4 billion, according to new figures released yesterday in advance of Mayor Michael R. Bloomberg’s executive budget announcement today.</p>
+      </block>
+      <block class="full_text">
+        <p>New York City's revenues are running $1.3 billion ahead of projections for this fiscal year, bringing the current budget surplus to $4.4 billion, according to new figures released yesterday in advance of Mayor Michael R. Bloomberg's executive budget announcement today.</p>
+        <p>The new projections, which also added $838 million to revenues expected in the fiscal year that begins in July, are buoyed in part by real estate taxes and the strength of the city's economy.</p>
+        <p>Mr. Bloomberg has indicated that he wants to use a significant part of the $4.4 billion surplus toward paying down expected debt in future years. He would allocate $1.3 billion toward covering the projected deficit of $1.6 billion in the 2009 fiscal year, and $1 billion toward the deficit of $3.3 billion in the 2010 fiscal year, according to city officials.</p>
+        <p>Edward Skyler, the deputy mayor for administration, said, ''By taking action now, we can begin to reduce these deficits as opposed to jeopardizing our future with politically popular giveaways.''</p>
+        <p>In addition, the mayor's new budget proposal will include $32.5 million more over two years to address the health impacts of Sept. 11, 2001.</p>
+        <p>The release of the budget begins the negotiation process between the administration and the City Council, which must produce a completed budget by the start of the new fiscal year.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TRANSACTIONS</title>
+    <meta content="20trans" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1841578"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070420T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E5D81F3FF933A15757C0A9619C8B63" item-length="208" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TRANSACTIONS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>MAJOR LEAGUE BASEBALL</p>
+        <p>American League  LOS ANGELES ANGELS--Placed 2B Howie Kendrick on the 15-day DL. Optioned RHP Greg Jones to Salt Lake (PCL).  SEATTLE MARINERS--Recalled RHP Sean Green from Tacoma (PCL). Optioned LHP Jake Woods to Tacoma.  TEXAS RANGERS--Traded LHP Daniel Haigwood to the Boston Red Sox for RHP Scott Showmaker and cash.</p>
+        <p>National League  COLORADO ROCKIES--Placed RHP Rodrigo Lopez on the 15-day DL. Purchased the contract of RHP Matt Herges from Colorado Springs (PCL). Designated RHP Brian Lawrence for assignment.  SAN DIEGO PADRES--Recalled LHP Justin Hampson from Portland (PCL). Optioned RHP Mike Thompson to Portland.</p>
+        <p>N.F.L.</p>
+        <p>DENVER BRONCOS--Agreed to terms with P Todd Sauerbrun on a one-year contract.  INDIANAPOLIS COLTS--Signed G Jake Scott to a one-year contract.  NEW ORLEANS SAINTS--Signed CB Jason David to an offer sheet.</p>
+        <p>N.H.L.</p>
+        <p>COLUMBUS BLUE JACKETS--Fired Doug MacLean, president and general manager.</p>
+        <p>MAJOR LEAGUE SOCCER</p>
+        <p>COLUMBUS CREW--Signed M-F Guillermo Barros Schelotto to a two-year contract.  HOUSTON DYNAMO--Traded D Kevin Goldthwaite and a 2008 first-round draft pick to Toronto FC for M Richard Mulrooney.  RED BULLS--Traded D Marvell Wynne to Toronto FC for a partial allocation and a 2008 second-round draft pick.</p>
+      </block>
+      <block class="full_text">
+        <p>MAJOR LEAGUE BASEBALL</p>
+        <p>American League  LOS ANGELES ANGELS--Placed 2B Howie Kendrick on the 15-day DL. Optioned RHP Greg Jones to Salt Lake (PCL).  SEATTLE MARINERS--Recalled RHP Sean Green from Tacoma (PCL). Optioned LHP Jake Woods to Tacoma.  TEXAS RANGERS--Traded LHP Daniel Haigwood to the Boston Red Sox for RHP Scott Showmaker and cash.</p>
+        <p>National League  COLORADO ROCKIES--Placed RHP Rodrigo Lopez on the 15-day DL. Purchased the contract of RHP Matt Herges from Colorado Springs (PCL). Designated RHP Brian Lawrence for assignment.  SAN DIEGO PADRES--Recalled LHP Justin Hampson from Portland (PCL). Optioned RHP Mike Thompson to Portland.</p>
+        <p>N.F.L.</p>
+        <p>DENVER BRONCOS--Agreed to terms with P Todd Sauerbrun on a one-year contract.  INDIANAPOLIS COLTS--Signed G Jake Scott to a one-year contract.  NEW ORLEANS SAINTS--Signed CB Jason David to an offer sheet.</p>
+        <p>N.H.L.</p>
+        <p>COLUMBUS BLUE JACKETS--Fired Doug MacLean, president and general manager.</p>
+        <p>MAJOR LEAGUE SOCCER</p>
+        <p>COLUMBUS CREW--Signed M-F Guillermo Barros Schelotto to a two-year contract.  HOUSTON DYNAMO--Traded D Kevin Goldthwaite and a 2008 first-round draft pick to Toronto FC for M Richard Mulrooney.  RED BULLS--Traded D Marvell Wynne to Toronto FC for a partial allocation and a 2008 second-round draft pick.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

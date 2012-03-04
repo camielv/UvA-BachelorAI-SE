@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Dozen Questions for Alberto Gonzales; Loyalty First?</title>
+    <meta content="19rosen" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="27" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/19/opinion/19rosen.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1841386"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Op-Ed Contributor"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Contributors</classifier>
+        <classifier class="online_producer" type="descriptor">United States Attorneys</classifier>
+        <classifier class="online_producer" type="descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Legal Profession</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <org class="online_producer">Justice Department</org>
+        <person class="online_producer">Bush, George W</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070419T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE4D81E3FF93AA25757C0A9619C8B63" item-length="230" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Dozen Questions for Alberto Gonzales; Loyalty First?</hl1>
+        <hl2 class="online_headline">Loyalty First?</hl2>
+      </hedline>
+      <byline class="print_byline">By Jeffrey Rosen</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>With Attorney General Alberto Gonzales testifying before the Senate Judiciary Committee today, the Op-Ed page asked four legal experts to step into a senator's shoes and list three questions they would ask Mr. Gonzales.</p>
+        <p>1. Your determination to fire prosecutors who were not ''loyal Bushies'' has its intellectual roots in the theory of the ''unitary executive,'' which holds that the president should be able to extend his political control over all executive branch officers, including not only political appointees but also lower-level career officials. Are you familiar with the leading scholarly defenses of this theory, and do you agree with them?</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Three questions for Attorney General Alberto Gonzalez from the legal affairs editor of The New Republic.</p>
+      </block>
+      <block class="full_text">
+        <p>With Attorney General Alberto Gonzales testifying before the Senate Judiciary Committee today, the Op-Ed page asked four legal experts to step into a senator's shoes and list three questions they would ask Mr. Gonzales.</p>
+        <p>1. Your determination to fire prosecutors who were not ''loyal Bushies'' has its intellectual roots in the theory of the ''unitary executive,'' which holds that the president should be able to extend his political control over all executive branch officers, including not only political appointees but also lower-level career officials. Are you familiar with the leading scholarly defenses of this theory, and do you agree with them?</p>
+        <p>2. The original defenders of the unitary executive theory in the Reagan administration recognized the need for neutral, professional prosecutors in the Justice Department, but you and your aides evaluated prosecutors purely in terms of their political loyalty. Did that lead you to try to intervene in specific prosecutions for partisan ends, which everyone agrees would be improper if not illegal?</p>
+        <p>3. Because of your decision to screen all Justice Department appointees for their loyalty to President Bush, young lawyers who applied for even nonpolitical jobs have been routinely administered political litmus tests. How can Americans have faith in the ability of the Justice Department to defend the rule of law impartially and professionally when all of its employees are hired or fired for their politics?</p>
+        <p>Op-Ed Contributor Jeffrey Rosen, the legal affairs editor of The New Republic, is the author of ''The Supreme Court: The Personalities and Rivalries That Defined America.''</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Jeffrey Rosen, the legal affairs editor of The New Republic, is the author of ''The Supreme Court: The Personalities and Rivalries That Defined America.''</tagline>
+    </body.end>
+  </body>
+</nitf>

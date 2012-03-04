@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>DNA Results Announced In Smith Case</title>
+    <meta content="11anna" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/11/us/11anna.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1839545"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Dna (Deoxyribonucleic Acid)</classifier>
+        <person class="indexing_service">Smith, Anna Nicole</person>
+        <person class="indexing_service">Newman, Maria</person>
+        <person class="indexing_service">Birkhead, Larry</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">DNA (Deoxyribonucleic Acid)</classifier>
+        <classifier class="online_producer" type="descriptor">Child Custody and Support</classifier>
+        <classifier class="online_producer" type="general_descriptor">Child Custody and Support</classifier>
+        <classifier class="online_producer" type="general_descriptor">DNA (Deoxyribonucleic Acid)</classifier>
+        <person class="online_producer">Smith, Anna Nicole</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070411T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D07EEDF123FF932A25757C0A9619C8B63" item-length="320" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>DNA Results Announced In Smith Case</hl1>
+        <hl2 class="online_headline">DNA Results Announced in Smith Case</hl2>
+      </hedline>
+      <byline class="print_byline">By MARIA NEWMAN</byline>
+      <byline class="normalized_byline">Newman, Maria</byline>
+      <abstract>
+        <p>DNA test results indicate that Larry Birkhead is father of Anna Nicole Smith's child (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Larry Birkhead, the former boyfriend of the late Anna Nicole Smith who had been insisting that he was the father of her child, emerged from a courtroom in the Bahamas on Tuesday with his hands held high over his head and declared, ''I told you so.''</p>
+        <p>Dr. Michael Baird, who analyzed the results of a March 21 DNA test, said a Bahamian judge had accepted his conclusions about who was the father of Dannielynn, the child born to Ms. Smith in September.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A doctor who analyzed the results of a DNA test said Larry Birkhead, the former boyfriend of Anna Nicole Smith, was the father of her child.</p>
+      </block>
+      <block class="full_text">
+        <p>Larry Birkhead, the former boyfriend of the late Anna Nicole Smith who had been insisting that he was the father of her child, emerged from a courtroom in the Bahamas on Tuesday with his hands held high over his head and declared, ''I told you so.''</p>
+        <p>Dr. Michael Baird, who analyzed the results of a March 21 DNA test, said a Bahamian judge had accepted his conclusions about who was the father of Dannielynn, the child born to Ms. Smith in September.</p>
+        <p>''Essentially, he's the biological father,'' Dr. Baird said of Mr. Birkhead.</p>
+        <p>Ms. Smith, a former stripper and Playboy Playmate of the Year, died Feb. 8, apparently from an accidental overdose of prescription drugs.</p>
+        <p>Ms. Smith's companion and former lawyer, Howard K. Stern, had been listed on the birth certificate as the father of the baby and had been fighting for custody of the child, who was born in the Bahamas. After the judge's decision, he dropped the custody fight.</p>
+        <p>Mr. Birkhead, a freelance photographer from California, was clearly elated about the ruling. ''My baby's going to be coming home pretty soon,'' he said before television cameras outside the courtroom.</p>
+        <p>The baby has been in the custody of Mr. Stern, living in the house in the Bahamas that he shared with Ms. Smith.</p>
+        <p>Mr. Stern, who was also at the hearing, emerged from the courthouse and said he would not fight the decision declaring Mr. Birkhead the father. ''My feelings for Dannielynn have not changed,'' Mr. Stern said. ''I am not going to fight Larry Birkhead for custody. I'm going to do whatever I can do to make sure he gets sole custody.''</p>
+        <p>The infant girl stands to inherit millions of dollars from the estate of Ms. Smith, who was involved in litigation over whether she would share in the inheritance from her husband, J. Howard Marshall II, a Texas oil billionaire who died in 1995.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

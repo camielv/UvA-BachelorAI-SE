@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   HAUSMANN, ROSALIE L.</title>
+    <meta content="dn043007" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1843981"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">HAUSMANN, ROSALIE L.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070430T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9501EEDC163AF933A05757C0A9619C8B63" item-length="87" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   HAUSMANN, ROSALIE L.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>HAUSMANN--Rosalie L. On Sunday April 29, 2007, of Chevy Chase, MD. Wife of the late David S. Hausmann, mother of Beth Mauser, grandmother of Amy Mauser and Elizabeth (Eric) Goldstein, great-grandmother of Brittany, Dana and David. Graveside services on Tuesday, May 1, 2007, 2 pm at Mount Ararat Cemetery, Farmingdale, NY. Memorial contributions to The Barker Foundation, 7979 Old Georgetown Rd., Bethesda, MD 20814 or to Children's National Medical Center, 111 Michigan Ave. NW, Washington D.C., 20010. Services by Torchinsky Hebrew Funeral Home, Washington D.C., 1-800-5005401.</p>
+      </block>
+      <block class="full_text">
+        <p>HAUSMANN--Rosalie L. On Sunday April 29, 2007, of Chevy Chase, MD. Wife of the late David S. Hausmann, mother of Beth Mauser, grandmother of Amy Mauser and Elizabeth (Eric) Goldstein, great-grandmother of Brittany, Dana and David. Graveside services on Tuesday, May 1, 2007, 2 pm at Mount Ararat Cemetery, Farmingdale, NY. Memorial contributions to The Barker Foundation, 7979 Old Georgetown Rd., Bethesda, MD 20814 or to Children's National Medical Center, 111 Michigan Ave. NW, Washington D.C., 20010. Services by Torchinsky Hebrew Funeral Home, Washington D.C., 1-800-5005401.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

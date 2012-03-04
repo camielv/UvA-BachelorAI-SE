@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   KAPLAN, ARNOLD</title>
+    <meta content="dn040107.1" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="27" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1836979"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">KAPLAN, ARNOLD</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A01E4D9153AF932A35757C0A9619C8B63" item-length="117" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   KAPLAN, ARNOLD</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>KAPLAN--Arnold. The officers and staff of Rosen &amp; Company Inc. are saddened by the passing of our associate and friend Arnold Kaplan. We extend our deepest condolences to his wife Susan and children Michael and Lisa. David B. Rosen, Chairman Stephen B. Rosen, President</p>
+        <p>$(6$)KAPLAN--Arnold M., 70 of Palm City, FL and Monroe Twp, NJ on March 30. Loving and beloved husband of Susan, devoted father of Lisa and Michael, brother of Marcia Zajac, Roz Blinder, Sharon Golub. Graduate of Arts High School, Newark, and Rutgers University, CLU. Former President, Prestige Planning Corp. Services Sunday, April 1, Temple Shalom, Aberdeen, NJ. Remembrances to American Cancer Society. He will continue to live on in our hearts.</p>
+      </block>
+      <block class="full_text">
+        <p>KAPLAN--Arnold. The officers and staff of Rosen &amp; Company Inc. are saddened by the passing of our associate and friend Arnold Kaplan. We extend our deepest condolences to his wife Susan and children Michael and Lisa. David B. Rosen, Chairman Stephen B. Rosen, President</p>
+        <p>$(6$)KAPLAN--Arnold M., 70 of Palm City, FL and Monroe Twp, NJ on March 30. Loving and beloved husband of Susan, devoted father of Lisa and Michael, brother of Marcia Zajac, Roz Blinder, Sharon Golub. Graduate of Arts High School, Newark, and Rutgers University, CLU. Former President, Prestige Planning Corp. Services Sunday, April 1, Temple Shalom, Aberdeen, NJ. Remembrances to American Cancer Society. He will continue to live on in our hearts.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

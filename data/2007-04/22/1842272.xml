@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Man Is Held After Crash Kills Woman</title>
+    <meta content="22fatal" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="31" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/22/nyregion/22fatal.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842272"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Accidents and Safety</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drunken and Reckless Driving</classifier>
+        <classifier class="online_producer" type="general_descriptor">Roads and Traffic</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+        <location class="online_producer">Bronx (NYC)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F06E0DF173EF931A15757C0A9619C8B63" item-length="180" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Man Is Held After Crash Kills Woman</hl1>
+        <hl2 class="online_headline">Man Is Held After Crash Kills Woman</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A man was arrested after he ran from the scene of a fatal accident on the Cross Bronx Expressway, where his car had rear-ended a tractor-trailer, the police said yesterday.</p>
+        <p>The accident, which occurred about 9 p.m. on Friday, severely injured a woman riding in his car, who died from her injuries, according to the authorities.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A man was arrested after he ran from the scene of a fatal accident on the Cross Bronx Expressway, where his car had rear-ended a tractor-trailer, the police said.</p>
+      </block>
+      <block class="full_text">
+        <p>A man was arrested after he ran from the scene of a fatal accident on the Cross Bronx Expressway, where his car had rear-ended a tractor-trailer, the police said yesterday.</p>
+        <p>The accident, which occurred about 9 p.m. on Friday, severely injured a woman riding in his car, who died from her injuries, according to the authorities.</p>
+        <p>The police gave this account:</p>
+        <p>The man, Glenn Salera, 29, was speeding and apparently tried to swerve into the left lane to avoid hitting the truck, which was traveling in the right lane and had slowed down in traffic approaching the Westchester Avenue exit heading west.</p>
+        <p>Mr. Salera's car, a 1992 Nissan, struck the rear left side of the truck, which is owned by a transportation company based in Memphis.</p>
+        <p>The police said Mr. Salera was driving while drunk.</p>
+        <p>He and the truck's driver, who was not identified, were uninjured, but the woman, Carmen Irizarry, 36, was taken to Jacobi Medical Center, where she died.</p>
+        <p>Ms. Irizarry, of the Morris Park section of the Bronx, was not wearing a seat belt, the police said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

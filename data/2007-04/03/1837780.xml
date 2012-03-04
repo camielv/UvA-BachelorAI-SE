@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; News of TV News</title>
+    <meta content="03arts-2" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837780"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070403T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9504E5DB1F30F930A35757C0A9619C8B63" item-length="257" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; News of TV News</hl1>
+      </hedline>
+      <byline class="print_byline">By BILL CARTER; Compiled by Lawrence Van Gelder</byline>
+      <byline class="normalized_byline">Carter, Bill</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>NBC's weekend anchor, John Seigenthaler, above right, announced on his Sunday night newscast that he is leaving the network after 11 years there. Another prominent name from television news, Jeff Greenfield, below right, is leaving CNN for CBS, where he will be a senior political correspondent. CBS made Mr. Greenfield's appointment official yesterday. It was reported last week in The Washington Post. Mr. Seigenthaler had been the anchor for NBC's weekend newscast since 1999 and had also worked occasionally for NBC's cable news channel MSNBC. But executives at NBC News have said for some time that they have been looking for areas where it can combine jobs. Mr. Seigenthaler, who was well regarded by most of the executives at NBC News, had not been working on many assignments beyond the weekend anchor duties. His contract was expiring, and NBC declined to renew it. Mr. Seigenthaler did not announce any plans for future work, and NBC News has not yet chosen a replacement for him on the weekend anchor desk. But one senior NBC executive said it is likely whoever replaces Mr. Seigenthaler will have a number of other jobs in the news division. In signing on at CBS, where he will work on coverage of the 2008 presidential campaign, Mr. Greenfield will return to network television, where he was based for 20 years before joining CNN in 1998. Mr. Greenfield worked at CBS News from 1979 to 1983 before joining ABC News, where he worked until joining CNN.</p>
+        <p>BILL CARTER</p>
+      </block>
+      <block class="full_text">
+        <p>NBC's weekend anchor, John Seigenthaler, above right, announced on his Sunday night newscast that he is leaving the network after 11 years there. Another prominent name from television news, Jeff Greenfield, below right, is leaving CNN for CBS, where he will be a senior political correspondent. CBS made Mr. Greenfield's appointment official yesterday. It was reported last week in The Washington Post. Mr. Seigenthaler had been the anchor for NBC's weekend newscast since 1999 and had also worked occasionally for NBC's cable news channel MSNBC. But executives at NBC News have said for some time that they have been looking for areas where it can combine jobs. Mr. Seigenthaler, who was well regarded by most of the executives at NBC News, had not been working on many assignments beyond the weekend anchor duties. His contract was expiring, and NBC declined to renew it. Mr. Seigenthaler did not announce any plans for future work, and NBC News has not yet chosen a replacement for him on the weekend anchor desk. But one senior NBC executive said it is likely whoever replaces Mr. Seigenthaler will have a number of other jobs in the news division. In signing on at CBS, where he will work on coverage of the 2008 presidential campaign, Mr. Greenfield will return to network television, where he was based for 20 years before joining CNN in 1998. Mr. Greenfield worked at CBS News from 1979 to 1983 before joining ABC News, where he worked until joining CNN.</p>
+        <p>BILL CARTER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

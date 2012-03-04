@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Patients and Choices</title>
+    <meta content="10lett-4" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1839371"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Doctors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070410T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F05E6DA153FF933A25757C0A9619C8B63" item-length="108" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Patients and Choices</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''A Patient's Demands Versus a Doctor's Convictions'' (Essay, April 3): I do not agree with Dr. Sandeep Jauhar's essay. It's one thing to give patients a choice of several acceptable alternatives. But ultimately, the doctor needs to use his or her objective and educated judgment about what is acceptable.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''A Patient's Demands Versus a Doctor's Convictions'' (Essay, April 3): I do not agree with Dr. Sandeep Jauhar's essay. It's one thing to give patients a choice of several acceptable alternatives. But ultimately, the doctor needs to use his or her objective and educated judgment about what is acceptable.</p>
+        <p>Doctors shouldn't be treating themselves or their loved ones. Certainly, then, we shouldn't be letting the average patient tell their doctor to treat them in a way that the doctor feels is inappropriate. The patient can get a second (or third or fourth) opinion if they wish.</p>
+        <p>Elizabeth Korn  Basking Ridge, N.J.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

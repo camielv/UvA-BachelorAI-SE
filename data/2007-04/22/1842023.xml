@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Problem at Home</title>
+    <meta content="22alsmail-2" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1842023"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="PHILHARMONIC LEADER"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <org class="indexing_service">New York Philharmonic</org>
+        <person class="indexing_service">Landolfi, Mary</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B07E4D61E3FF931A15757C0A9619C8B63" item-length="139" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Problem at Home</hl1>
+      </hedline>
+      <abstract>
+        <p>Mary Landolfi letter about April 15 article on New York Philharmonic says US must match other countries in providing music education for disadvantaged children (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>The Los Angeles Philharmonic's choice for music director, Gustavo Dudamel, is remarkable for his youth, but one wonders why it is necessary to go abroad to find a leader.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>The Los Angeles Philharmonic's choice for music director, Gustavo Dudamel, is remarkable for his youth, but one wonders why it is necessary to go abroad to find a leader.</p>
+        <p>The answer, alas, can be found in the article. Mr. Dudamel is a product of a country (Venezuela) that places a high value on music education and sees the connection between providing access to the arts and the elevation of the disadvantaged. Unfortunately this is not the case in our country, and we are the poorer for it. The result is that talented young people will not be trained, future audiences will not be developed, and our country will be denied its own cultural heritage.</p>
+        <p>Mary Landolfi  West Orange, N.J.</p>
+        <p>The writer is president of the Local 802 of the American Federation of Musicians.</p>
+        <p>PHILHARMONIC LEADER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

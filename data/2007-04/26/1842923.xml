@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Flashy But Well Within The Lines</title>
+    <meta content="26CODES" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Thursday Styles" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/26/fashion/26CODES.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842923"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="DRESS CODES"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Thursday Styles</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Fashion, Beauty and Fitness</classifier>
+        <classifier class="online_producer" type="descriptor">Apparel</classifier>
+        <classifier class="online_producer" type="descriptor">Jeans (Apparel)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Men</classifier>
+        <classifier class="online_producer" type="general_descriptor">Apparel</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070426T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05E0D6143EF935A15757C0A9619C8B63" item-length="509" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Flashy But Well Within The Lines</hl1>
+        <hl2 class="online_headline">Flashy but Well Within the Lines</hl2>
+      </hedline>
+      <byline class="print_byline">By DAVID COLMAN</byline>
+      <byline class="normalized_byline">Colman, David</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>STYLE, at least when it comes to men's wear, is all about balance. As much as stylish men want to stand out, they also strive for understatement.</p>
+        <p>Strange as it sounds, the perfect evidence of this particular mind-set can be found in this spring's full-body embrace of horizontal stripes on all sorts of casual clothing: sweaters, polo shirts, T-shirts, cardigans.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Stripes: a little uptown prep, a little downtown slacker.</p>
+      </block>
+      <block class="full_text">
+        <p>STYLE, at least when it comes to men's wear, is all about balance. As much as stylish men want to stand out, they also strive for understatement.</p>
+        <p>Strange as it sounds, the perfect evidence of this particular mind-set can be found in this spring's full-body embrace of horizontal stripes on all sorts of casual clothing: sweaters, polo shirts, T-shirts, cardigans.</p>
+        <p>About as basic as a pattern can be, plain horizontal stripes manage to convey that sense of all-American style that made brands like Ralph Lauren, Abercrombie &amp; Fitch and American Eagle staples of young men's wardrobes. At the same time, stripes, when cast in not-so-preppy colors (gray and black rugby stripes from Calvin Klein), daring cuts (a clingy cotton polo shirt with a plunging placket from Dsquared) or unusual fabrications (an Op Art black-and-white pullover from Raf Simons), take on a look that is at once safe and sharp -- a wolf in prep's clothing.</p>
+        <p>''Stripes are an easy way to have some fun with your look,'' said John Bartlett, who said that the first garment he ever designed was a striped poor-boy turtleneck. ''I always think of David Hockney -- the way he dresses, with striped shirts and striped socks. It's a way to dress with flair but stay within the classic vernacular of men's wear.''</p>
+        <p>A striped shirt or sweater threads its way evenly between flamboyance and minimalism. And because of its associations with, say, the uniforms of '30s sports teams and the halls of '70s high schools, a bold striped shirt, counterintuitively, can be more low-key than a solid-color shirt in the same style.</p>
+        <p>''They're great for layering,'' said Tim Hamilton, a young designer who has made upgraded classics a hallmark of his line. ''They look so good under a blazer or a sweater.''</p>
+        <p>In short, they bring just enough novelty to a look, no more, no less. And as they have become popular, the usual rules about who should wear them (that is, the slimmer among us) are less important than finding a stripe that is cool and a cut that looks sharp, then wearing it with confidence, and perhaps a jacket.</p>
+        <p>''The stripe is the pattern now,'' said Tom Kalenderian, the vice president for men's wear at Barneys New York, who noted that the only patterns shown in the store's spring mailer were horizontal stripes. ''It's like the Converse sneaker in that it resonates with the fashion customer who's trying to have an unassuming, sophisticated wardrobe. It's nonfashion fashion.''</p>
+        <p>What's more, the stripe can almost magically convey nonnautical nautical, nonrugby rugby or non-'70s '70s; it's a kind of all-access pass of the style world. Take the small black-and-white checkerboard pattern so identified with punk and ska in the early '80s. Worn today, it summons up that era a little too well. But a black-and-white striped T-shirt manages to suggest the moment without blasting the Clash. It's a little uptown prep, a little downtown slacker, a bit middle-aged dad, a bit adolescent son -- all without too much commitment.</p>
+        <p>If only romance were so easy.</p>
+        <p>DRESS CODES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

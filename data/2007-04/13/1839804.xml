@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths  BRAUNSCHWEIGER, FLORA</title>
+    <meta content="dn041307.1" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1839804"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">BRAUNSCHWEIGER, FLORA</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070413T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E02E0DD123AF930A25757C0A9619C8B63" item-length="60" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths  BRAUNSCHWEIGER, FLORA</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BRAUNSCHWEIGER--Flora, 96, Hackensack, NJ and Aventura, FL. Wife of the late Leo, mother of the late Linda, survived by sons Leonard and Mark, daughter-in-law Leslie, sister of the late Albert, Walter and Herbert Frank. Graveside service 11am Friday, Mount Hope Cemetery, Westchester, NY. Donations Macular Degeneration Research, 22512 Gateway Center Drive, Clarksburg MD, 20871. For information Gutterman and Musicant 1-800-522-0588.</p>
+      </block>
+      <block class="full_text">
+        <p>BRAUNSCHWEIGER--Flora, 96, Hackensack, NJ and Aventura, FL. Wife of the late Leo, mother of the late Linda, survived by sons Leonard and Mark, daughter-in-law Leslie, sister of the late Albert, Walter and Herbert Frank. Graveside service 11am Friday, Mount Hope Cemetery, Westchester, NY. Donations Macular Degeneration Research, 22512 Gateway Center Drive, Clarksburg MD, 20871. For information Gutterman and Musicant 1-800-522-0588.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

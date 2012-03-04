@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Presenting Some Ballet Classics, or Unreasonable Facsimiles Thereof</title>
+    <meta content="18gran" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/18/arts/dance/18gran.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1841097"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="DANCE REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance</classifier>
+        <classifier class="online_producer" type="descriptor">Dancing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dancing</classifier>
+        <org class="online_producer">Les Ballets Grandiva</org>
+        <person class="online_producer">Tudor, Antony</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070418T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E5DE1E3FF93BA25757C0A9619C8B63" item-length="407" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Presenting Some Ballet Classics, or Unreasonable Facsimiles Thereof</hl1>
+        <hl2 class="online_headline">Presenting Some Ballet Classics, or Unreasonable Facsimiles Thereof</hl2>
+      </hedline>
+      <byline class="print_byline">By GIA KOURLAS</byline>
+      <byline class="normalized_byline">Kourlas, Gia</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Les Ballets Grandiva, founded in 1996 by Victor Trevino, is an all-male ballet company with a couple of secret weapons. One is Mr. Trevino himself, who dances under the stage name of Nina Minimaximova. He may be small, but he moves with a captivating power. The other is its resident costume designer, Jose Coronado, whose design workshop is his kitchen. (He doesn't cook.) From the cut of his tutus to the elegance of his silky gowns, he proves to be masterly at creating costumes that enhance the shape of a dancer -- no matter how unlikely that shape is.</p>
+        <p>At Symphony Space on Monday night, Les Ballets Grandiva offered a program of parodies, including ''Pas de Quatre,'' ''Spartacus'' and Allen Dennis's version of ''Dying Swan,'' which featured the towering redhead Karina (as Mr. Dennis calls himself onstage) in a tragically funny portrait of a noble bird with broken wings.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Les Ballets Grandiva offered a program of parodies, including “Pas de Quatre,” “Spartacus” and Allen Dennis’s version of “Dying Swan.”</p>
+      </block>
+      <block class="full_text">
+        <p>Les Ballets Grandiva, founded in 1996 by Victor Trevino, is an all-male ballet company with a couple of secret weapons. One is Mr. Trevino himself, who dances under the stage name of Nina Minimaximova. He may be small, but he moves with a captivating power. The other is its resident costume designer, Jose Coronado, whose design workshop is his kitchen. (He doesn't cook.) From the cut of his tutus to the elegance of his silky gowns, he proves to be masterly at creating costumes that enhance the shape of a dancer -- no matter how unlikely that shape is.</p>
+        <p>At Symphony Space on Monday night, Les Ballets Grandiva offered a program of parodies, including ''Pas de Quatre,'' ''Spartacus'' and Allen Dennis's version of ''Dying Swan,'' which featured the towering redhead Karina (as Mr. Dennis calls himself onstage) in a tragically funny portrait of a noble bird with broken wings.</p>
+        <p>But the biggest stretch was a new version of Antony Tudor's ''Lilac Garden.'' In ''They Who Wore White Flowers,'' by Brian Reeder, two couples with lengthy titles in the manner of Mr. Tudor (''She who loved him more before'' and ''He who thinks he looks good in a suit'') stroll through a park.</p>
+        <p>''White Flowers,'' like ''Lilac Garden,'' is about repressed desire, and Mr. Reeder, one of the most natural ballet choreographers to emerge in recent years, presented a wickedly funny portrait of lovers obsessed, but this time with members of their own sex.</p>
+        <p>Despite its sexually charged atmosphere, Mr. Reeder's ballet was full of innocence and romance, and Mr. Coronado's costumes, especially for the female characters -- long plum and crème dresses -- gave daring lifts and sweeping turns a beauty untapped in many comic works.</p>
+        <p>Just as Mr. Tudor used movement to externalize the emotions of his characters, Mr. Reeder, with the repeated vulnerable gesture of a flat palm sliding down the underside of an arm, imparts tension with a subtle touch. The work's triumph isn't just its humor, but Mr. Reeder's perceptive understanding of the poetic language of dance as well.</p>
+        <p>The concluding ''Who Dares?!,'' choreographed by Marcus Galante, was a takeoff on George Balanchine's ''Who Cares?'' and was less of a success. Oversaturated with references to many other Balanchine ballets, the work, though full of movement, was shapeless. More performances will most likely smooth its rough edges, yet the joyful spirit of Balanchine's jazzy world, at least at this point, seems out of reach.</p>
+        <p>DANCE REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

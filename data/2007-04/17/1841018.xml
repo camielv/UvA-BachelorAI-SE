@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Of Genes and Sexuality</title>
+    <meta content="17lett-1" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1841018"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sex</classifier>
+        <classifier class="online_producer" type="general_descriptor">Homosexuality</classifier>
+        <classifier class="online_producer" type="general_descriptor">Men</classifier>
+        <classifier class="online_producer" type="general_descriptor">Brain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Reproduction (Biological)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Women</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070417T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9506E6D7113FF934A25757C0A9619C8B63" item-length="249" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Of Genes and Sexuality</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Pas de Deux of Sexuality is Written in the Genes '' (April 10): Nicholas Wade concludes that sex differences in the brain are responsible for the differing ways that women and men express their sexuality. In assuming that brain structure ''is written in the genes,'' Mr. Wade completely overlooks environmental influences on brain development.</p>
+        <p>There is ample evidence from the field of neuroscience that patterns of neural connections, and therefore brain organization, change constantly with experience. Indeed, contrary to Mr. Wade's claim that distinct patterns in female and male brains exist ''despite the heavy influences of culture,'' culture may in fact be the cause of many of these differences. Mr. Wade's views notwithstanding, the nature/nurture controversy is far from being resolved.</p>
+        <p>Alison Nash  New Paltz, N.Y.</p>
+        <p>To the Editor:</p>
+        <p>Professor Anthony F. Bogaert speculates that ''the fraternal birth order effect'' in which ''each additional older brother increases the odds of same-sex attraction by 33 percent'' results from ''maternal immune response.'' Another possibility is fetal microchimerism. Mothers carry male fetal cells for decades. Male DNA has been detected in women 38 years after their last male birth. Fetal cells can even repair maternal brain damage.</p>
+        <p>On evolutionary biology grounds, microchimerism seems more likely than maternal immune response. The article notes that ''male and female neurons behave somewhat differently when kept in laboratory glassware.'' Perhaps male cells have evolved to infiltrate Mom and turn future brothers gay?</p>
+        <p>James Lavin  Stamford, Conn.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Pas de Deux of Sexuality is Written in the Genes '' (April 10): Nicholas Wade concludes that sex differences in the brain are responsible for the differing ways that women and men express their sexuality. In assuming that brain structure ''is written in the genes,'' Mr. Wade completely overlooks environmental influences on brain development.</p>
+        <p>There is ample evidence from the field of neuroscience that patterns of neural connections, and therefore brain organization, change constantly with experience. Indeed, contrary to Mr. Wade's claim that distinct patterns in female and male brains exist ''despite the heavy influences of culture,'' culture may in fact be the cause of many of these differences. Mr. Wade's views notwithstanding, the nature/nurture controversy is far from being resolved.</p>
+        <p>Alison Nash  New Paltz, N.Y.</p>
+        <p>To the Editor:</p>
+        <p>Professor Anthony F. Bogaert speculates that ''the fraternal birth order effect'' in which ''each additional older brother increases the odds of same-sex attraction by 33 percent'' results from ''maternal immune response.'' Another possibility is fetal microchimerism. Mothers carry male fetal cells for decades. Male DNA has been detected in women 38 years after their last male birth. Fetal cells can even repair maternal brain damage.</p>
+        <p>On evolutionary biology grounds, microchimerism seems more likely than maternal immune response. The article notes that ''male and female neurons behave somewhat differently when kept in laboratory glassware.'' Perhaps male cells have evolved to infiltrate Mom and turn future brothers gay?</p>
+        <p>James Lavin  Stamford, Conn.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Panel to Study Service Districts for Cost Savings</title>
+    <meta content="29weekliLI-1" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Long Island Weekly Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="14LI" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1843950"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE WEEK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Taxation</classifier>
+        <classifier class="indexing_service" type="descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <location class="indexing_service">New York State</location>
+        <person class="indexing_service">Spitzer, Eliot (Gov)</person>
+        <person class="indexing_service">Lundine, Stan (Former Lt Gov)</person>
+        <person class="indexing_service">Fessenden, Ford</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Long Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Taxation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F03E4DD133EF93AA15757C0A9619C8B63" item-length="317" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Panel to Study Service Districts for Cost Savings</hl1>
+      </hedline>
+      <byline class="print_byline">By FORD FESSENDEN</byline>
+      <byline class="normalized_byline">Fessenden, Ford</byline>
+      <abstract>
+        <p>New York Gov Eliot Spitzer names Stan Lundine to head new 15-member commission to study local taxing districts throughout state (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Syosset Sanitation District serves 762 homes in its affluent community in eastern Nassau County. In 2004, 14 people went to the polls to elect the three commissioners who run the district. Several voted from the same addresses as the commissioners.</p>
+        <p>The commissioners met 128 times in 2004, picking up $60 in pay per meeting, according to an audit by the office of the county comptroller, Howard S. Weitzman, who concluded that the district was wasting money. District officials said they were providing a valuable service, and no residents were complaining about the cost.</p>
+      </block>
+      <block class="full_text">
+        <p>The Syosset Sanitation District serves 762 homes in its affluent community in eastern Nassau County. In 2004, 14 people went to the polls to elect the three commissioners who run the district. Several voted from the same addresses as the commissioners.</p>
+        <p>The commissioners met 128 times in 2004, picking up $60 in pay per meeting, according to an audit by the office of the county comptroller, Howard S. Weitzman, who concluded that the district was wasting money. District officials said they were providing a valuable service, and no residents were complaining about the cost.</p>
+        <p>While the Syosset district is tiny, there are hundreds like it across the state, including 340 on Long Island. Gov. Eliot Spitzer, saying he suspects they could be run in a way that would save property tax dollars, announced the formation of a panel last week to study them.</p>
+        <p>About half the money collected in special service district taxes comes from districts on Long Island, and 5 percent comes from Westchester.</p>
+        <p>''We have the highest property taxes in the nation, and it really is a competitiveness issue,'' said Stan Lundine, a former lieutenant governor whom Mr. Spitzer tapped to head the 15-member commission. Mr. Weitzman and State Senator Craig M. Johnson, a Nassau Democrat, are also on the commission.</p>
+        <p>The commission has the authority to look into all local taxing districts, including those for schools, but is expected to focus on those providing municipal services like fire protection, water, sewers and refuse collection.</p>
+        <p>Many of the districts started when the suburbs were still mostly rural and were then a legitimate way to get services to expanding pockets of residential development, Mr. Weitzman said. His audits of the special districts over the last two years have uncovered millions of dollars in waste.</p>
+        <p>''Now, everybody in the county gets most of these services,'' he said. ''Why do we need all these districts?''</p>
+        <p>THE WEEK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

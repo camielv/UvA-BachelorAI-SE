@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="16nigeria--refer" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1840825"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070416T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9806E5DC113FF935A25757C0A9619C8B63" item-length="138" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Former Clinton Donors Sign On With Obama  As Senator Hillary Rodham Clinton seeks to reassemble the Democratic money machine her husband built, some of its major fund-raisers, including two who slept in the Lincoln Bedroom at the White House, have already signed on with Senator Barack Obama.</p>
+        <p>PAGE A15</p>
+        <p>Violence Mars Nigeria Vote  At least 21 people were killed in violent protests over state elections in Nigeria. Partial results appeared to hand most of the victories to the governing party.</p>
+        <p>PAGE A3</p>
+        <p>SPECIAL TODAY</p>
+        <p>Business Travel  With more in-flight food and entertainment options, airlines are giving their business customers the C.E.O. treatment.</p>
+        <p>SECTION H</p>
+        <p>A Number to Remember  Five Seattle Mariners players were among the major leaguers who wore Jackie Robinson's No. 42 to honor the 60th anniversary of his breaking the baseball color barrier.</p>
+        <p>SPORTSMONDAY, PAGE D2</p>
+      </block>
+      <block class="full_text">
+        <p>Former Clinton Donors Sign On With Obama  As Senator Hillary Rodham Clinton seeks to reassemble the Democratic money machine her husband built, some of its major fund-raisers, including two who slept in the Lincoln Bedroom at the White House, have already signed on with Senator Barack Obama.</p>
+        <p>PAGE A15</p>
+        <p>Violence Mars Nigeria Vote  At least 21 people were killed in violent protests over state elections in Nigeria. Partial results appeared to hand most of the victories to the governing party.</p>
+        <p>PAGE A3</p>
+        <p>SPECIAL TODAY</p>
+        <p>Business Travel  With more in-flight food and entertainment options, airlines are giving their business customers the C.E.O. treatment.</p>
+        <p>SECTION H</p>
+        <p>A Number to Remember  Five Seattle Mariners players were among the major leaguers who wore Jackie Robinson's No. 42 to honor the 60th anniversary of his breaking the baseball color barrier.</p>
+        <p>SPORTSMONDAY, PAGE D2</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

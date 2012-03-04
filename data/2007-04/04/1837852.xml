@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   SCHUMAN, SOL</title>
+    <meta content="dn040407" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837852"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">SCHUMAN, SOL</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070404T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E00E0D8153AF937A35757C0A9619C8B63" item-length="98" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   SCHUMAN, SOL</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>SCHUMAN--Sol, age 86. Peacefully in Rockville, MD, on Tuesday, April 3, 2007. Sol Schuman, formerly of New York and Pembroke Pines, FL. Husband of 54 years to Shirley (Moshinsky) Schuman. Father of Maxine (Stephen) Labovsky of San Francisco, CA, and Roberta (Fred) Kline of N. Potomac, MD. Brother of William (Thelma) Schuman and Joseph (Ruth) Schuman. Grandfather of Neila and Daniel Kline. Also survived by many nieces and nephews. Graveside funeral services will be held on April 5, 2007, 1 PM at Garden of Remembrance Cemetery, Clarksburg, MD. Services by Torchinsky Hebrew Funeral Home, Washington, DC. 1-800-500-5401.</p>
+      </block>
+      <block class="full_text">
+        <p>SCHUMAN--Sol, age 86. Peacefully in Rockville, MD, on Tuesday, April 3, 2007. Sol Schuman, formerly of New York and Pembroke Pines, FL. Husband of 54 years to Shirley (Moshinsky) Schuman. Father of Maxine (Stephen) Labovsky of San Francisco, CA, and Roberta (Fred) Kline of N. Potomac, MD. Brother of William (Thelma) Schuman and Joseph (Ruth) Schuman. Grandfather of Neila and Daniel Kline. Also survived by many nieces and nephews. Graveside funeral services will be held on April 5, 2007, 1 PM at Garden of Remembrance Cemetery, Clarksburg, MD. Services by Torchinsky Hebrew Funeral Home, Washington, DC. 1-800-500-5401.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="14compute--refer" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1840090"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070414T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9805E6DE103FF937A25757C0A9619C8B63" item-length="132" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Executive Accused of Fraud  CA, formerly known as Computer Associates, accused its founder, Charles B. Wang, of masterminding a huge accounting fraud at the company.</p>
+        <p>BUSINESS DAY, PAGE C1</p>
+        <p>G.O.P. Hopeful Spends Big  Mitt Romney, a Republican candidate for president, spent nearly 60 percent of the $20.7 million he raised in the first quarter.</p>
+        <p>PAGE A11</p>
+        <p>THIS WEEKEND</p>
+        <p>T: Beauty  The Times Style Magazine looks at everything you need to know about cosmetic laser treatments and the latest news at the spa: DNA testing.</p>
+        <p>The Greening of Geopolitics  How can America regain its international stature? By taking the lead in alternative energy and environmentalism. On nytimes.com: A video feature in which the article's author, Thomas L. Friedman, discusses how the immense challenge of a greener world can be met.</p>
+        <p>MAGAZINE</p>
+      </block>
+      <block class="full_text">
+        <p>Executive Accused of Fraud  CA, formerly known as Computer Associates, accused its founder, Charles B. Wang, of masterminding a huge accounting fraud at the company.</p>
+        <p>BUSINESS DAY, PAGE C1</p>
+        <p>G.O.P. Hopeful Spends Big  Mitt Romney, a Republican candidate for president, spent nearly 60 percent of the $20.7 million he raised in the first quarter.</p>
+        <p>PAGE A11</p>
+        <p>THIS WEEKEND</p>
+        <p>T: Beauty  The Times Style Magazine looks at everything you need to know about cosmetic laser treatments and the latest news at the spa: DNA testing.</p>
+        <p>The Greening of Geopolitics  How can America regain its international stature? By taking the lead in alternative energy and environmentalism. On nytimes.com: A video feature in which the article's author, Thomas L. Friedman, discusses how the immense challenge of a greener world can be met.</p>
+        <p>MAGAZINE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

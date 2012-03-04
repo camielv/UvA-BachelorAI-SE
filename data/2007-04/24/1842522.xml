@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Double Bass Has Its Long-Necked, Solo Moment</title>
+    <meta content="24meye" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/24/arts/music/24meye.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842522"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MUSIC REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews/Classical</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="descriptor">Classical Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Classical Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <person class="online_producer">Meyer, Edgar</person>
+        <person class="online_producer">Ax, Emanuel</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070424T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E4D6173EF937A15757C0A9619C8B63" item-length="404" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Double Bass Has Its Long-Necked, Solo Moment</hl1>
+        <hl2 class="online_headline">The Double Bass Has Its Long-Necked, Solo Moment</hl2>
+      </hedline>
+      <byline class="print_byline">By STEVE SMITH</byline>
+      <byline class="normalized_byline">Smith, Steve</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>How does a double bassist assemble an audience-friendly recital? Faced with a dearth of repertory, the performer has three options: borrow music written for other instruments, commission new works or take on the added chore of composing. Edgar Meyer explored all three avenues in the concert he shared with the pianist Emanuel Ax at Zankel Hall on Friday night. The program was decidedly eclectic, in keeping with Mr. Meyer's status as a formidable player whose interests range from chamber music to bluegrass and beyond.</p>
+        <p>The concert opened with five works in canonic form, including two elegant selections apiece by Bach and Haydn. Mr. Meyer's ''Canon,'' originally for bass and banjo, started off with a wistful whole-tone theme, which swelled to fast, intricate whorls in a tricky time signature.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Mr. Meyer’s eclectic program included works by Bach, Haydn, Bright Sheng and Saint-Saëns at Zankel Hall on Friday.</p>
+      </block>
+      <block class="full_text">
+        <p>How does a double bassist assemble an audience-friendly recital? Faced with a dearth of repertory, the performer has three options: borrow music written for other instruments, commission new works or take on the added chore of composing. Edgar Meyer explored all three avenues in the concert he shared with the pianist Emanuel Ax at Zankel Hall on Friday night. The program was decidedly eclectic, in keeping with Mr. Meyer's status as a formidable player whose interests range from chamber music to bluegrass and beyond.</p>
+        <p>The concert opened with five works in canonic form, including two elegant selections apiece by Bach and Haydn. Mr. Meyer's ''Canon,'' originally for bass and banjo, started off with a wistful whole-tone theme, which swelled to fast, intricate whorls in a tricky time signature.</p>
+        <p>Mr. Ax played Haydn's Piano Sonata in C (Hob. XVI:48) with characteristic polish. What followed was an arrangement of an arrangement: the cellist Gregor Piatigorsky's version of a Divertimento for Baryton, originally fashioned by German publishers from the hundred-plus pieces Haydn composed for this archaic instrument favored by a royal patron. Slight but gracious, this music elicited some of Mr. Meyer's most exacting articulation.</p>
+        <p>Mr. Meyer's ''Duo for Bass and Piano'' opened with melodies that ebbed and flowed in and out of sync with a slow, steady pulse. An animated second movement was colored by bluesy inflections as Mr. Meyer played growling low notes and lines that dashed across his instrument's surprisingly wide range.</p>
+        <p>Bright Sheng's ''Sweet May Again,'' inspired by a William Carlos Williams poem, offered a jazzy bustle punctuated by high, keening passages on bass and animated display from both players. The elegant Rondo for Bass and Piano by Chris Thile, a bluegrass mandolinist and composer whose diverse interests echo Mr. Meyer's, was filled with perky lines that raced in circles, with pauses for the performers to catch their breath.</p>
+        <p>Between the works by Mr. Sheng and Mr. Thile came a fastidious performance of Bach's Viola da Gamba Sonata No. 3. In a final grouping, Saint-Saëns's ''Elephants'' from ''Carnival of the Animals'' was surrounded by Mr. Meyer's ''Great Green Sea Snake'' and ''Please Don't Feed the Bear,'' which both fused rustic melody and elegant form. (The latter fell somewhere between ''Flight of the Bumblebee'' and ''Orange Blossom Special.'')</p>
+        <p>Fritz Kreisler's ''Tambourin Chinois,'' played as an encore, probably never sounded as close to Appalachian fiddle music as it did in this context.</p>
+        <p>MUSIC REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

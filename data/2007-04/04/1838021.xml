@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; Hoops and Dancing Share a TV Night</title>
+    <meta content="04arts-1" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838021"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ratings and Rating Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Basketball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070404T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9804EFD61F30F937A35757C0A9619C8B63" item-length="175" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; Hoops and Dancing Share a TV Night</hl1>
+      </hedline>
+      <byline class="print_byline">By BENJAMIN TOFF; Compiled by Lawrence Van Gelder</byline>
+      <byline class="normalized_byline">Toff, Benjamin</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ABC drew the most viewers on Monday with its combination of ''Dancing With the Stars'' and the premiere of the latest edition of ''The Bachelor,'' but CBS led the night among adults 18 to 49 with its coverage of the N.C.A.A. basketball championship. Because CBS's broadcast was live, Nielsen's preliminary estimates for the game's audience are unreliable, but Florida's victory over Ohio State appeared to dominate the television competition from 9:15 to 11:30 p.m., faring significantly better in the ratings than the year-ago championship game. ABC was most dominant earlier in the night as a 105-minute episode of ''Dancing With the Stars'' earned approximately 17.1 million viewers from 8 to 9:45. Following it on ABC, the debut of ''The Bachelor: Officer and a Gentleman,'' the 10th iteration of the series, garnered more than 10 million viewers from 9:45 to 11. Fox ranked third for the night as ''Prison Break'' at 8 (8 million) and ''24'' at 9 (10.9 million) posted relatively typical ratings. NBC finished fourth.</p>
+        <p>BENJAMIN TOFF</p>
+      </block>
+      <block class="full_text">
+        <p>ABC drew the most viewers on Monday with its combination of ''Dancing With the Stars'' and the premiere of the latest edition of ''The Bachelor,'' but CBS led the night among adults 18 to 49 with its coverage of the N.C.A.A. basketball championship. Because CBS's broadcast was live, Nielsen's preliminary estimates for the game's audience are unreliable, but Florida's victory over Ohio State appeared to dominate the television competition from 9:15 to 11:30 p.m., faring significantly better in the ratings than the year-ago championship game. ABC was most dominant earlier in the night as a 105-minute episode of ''Dancing With the Stars'' earned approximately 17.1 million viewers from 8 to 9:45. Following it on ABC, the debut of ''The Bachelor: Officer and a Gentleman,'' the 10th iteration of the series, garnered more than 10 million viewers from 9:45 to 11. Fox ranked third for the night as ''Prison Break'' at 8 (8 million) and ''24'' at 9 (10.9 million) posted relatively typical ratings. NBC finished fourth.</p>
+        <p>BENJAMIN TOFF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>George Jenkins, 98, Set Designer For 'All the President's Men'</title>
+    <meta content="12jenkins" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Obituaries" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/12/obituaries/12jenkins.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1839672"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="biographical_categories">Architecture</classifier>
+        <classifier class="indexing_service" type="names">George Jenkins</classifier>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/News and Features/Awards/Academy Awards</classifier>
+        <classifier class="online_producer" type="descriptor">Academy Awards (Oscars)</classifier>
+        <classifier class="online_producer" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Academy Awards (Oscars)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Academy Awards (Oscars)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Awards, Decorations and Honors</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070412T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05E5DA123FF931A25757C0A9619C8B63" item-length="333" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>George Jenkins, 98, Set Designer For 'All the President's Men'</hl1>
+        <hl2 class="online_headline">George Jenkins, 98, Set Designer for ‘All the President’s Men,’ Dies</hl2>
+      </hedline>
+      <byline class="print_byline">By JASON ZINOMAN</byline>
+      <byline class="normalized_byline">Zinoman, Jason</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>George Jenkins, an Academy Award-winning production designer and three-time Tony nominee known for his architectural eye and scrupulous attention to detail, died on Friday at his home in Santa Monica, Calif. He was 98.</p>
+        <p>He died of natural causes, said his granddaughter Wylie Griffin.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>George Jenkins was an Academy Award-winning production designer and three-time Tony nominee known for his architectural eye and scrupulous attention to detail.</p>
+      </block>
+      <block class="full_text">
+        <p>George Jenkins, an Academy Award-winning production designer and three-time Tony nominee known for his architectural eye and scrupulous attention to detail, died on Friday at his home in Santa Monica, Calif. He was 98.</p>
+        <p>He died of natural causes, said his granddaughter Wylie Griffin.</p>
+        <p>Among his most celebrated designs was the Tony-nominated set for the 1959 Broadway drama ''The Miracle Worker,'' a study in minimalism that turned Helen Keller's home into a confined space that gave the audience a sense of her imprisonment before a line of dialogue was spoken. But Mr. Jenkins is perhaps best known for his work on the 1976 film ''All the President's Men,'' which recreated the brightly lighted Washington Post newsroom down to the last worn notepad. It won him an Academy Award, which he shared with George Gaines.</p>
+        <p>In a career spanning seven decades Mr. Jenkins worked frequently in film and theater as well dabbling in television. He also designed the lighting for his own shows, and later in life was a professor at University of California, Los Angeles.</p>
+        <p>While he had long relationships with many directors -- including Arthur Penn, who staged ''The Miracle Worker'' -- Mr. Jenkins had a particularly fertile collaboration with Alan Pakula, including all three acclaimed 1970s films in what has become known as Pakula's ''paranoia trilogy'': ''Klute,'' ''The Parallax View'' and ''All the President's Men.''</p>
+        <p>Mr. Jenkins got his start during the Depression when he left architecture school at the University of Pennsylvania to design sets for summer stock and small troupes; he later assisted the legendary Broadway designer Jo Mielziner. One of his first independent jobs, designing the lights and sets for the 1944 comedy ''I Remember Mama,'' caught the eye of Samuel Goldwyn, and he was soon off to California to work on ''The Best Years of Our Lives.''</p>
+        <p>Mr. Jenkins was married twice; his wife of almost 50 years, Phyllis Adams, died in 2004. His survivors include a daughter, Jane Jenkins Dumais; three granddaughters; and two great-granddaughters.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

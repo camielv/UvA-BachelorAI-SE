@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   LERNER, MIMI</title>
+    <meta content="dn040707" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838434"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">LERNER, MIMI</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070407T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9500EFD7153AF934A35757C0A9619C8B63" item-length="119" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   LERNER, MIMI</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LERNER--Mimi. The New York City Opera deeply mourns the passing of mezzo-soprano Mimi Lerner after a long and valiant struggle with cancer. We fondly recall her rich, warm voice and memorable performances here in operas including Alcina, Norma, and Central Park; and just as vividly recollect her joie de vivre, generosity, sense of humor, and radiant smile. She shared those gifts with opera companies worldwide and, in recent years, with Pittsburgh's CarnegieMellon University as chair of its voice department; and Rodef Shalom Congregation as cantorial soloist and music director. We extend our deepest sympathy to her husband Martin, her son Daniel, and her scores of friends worldwide. She will truly be missed. Paul Kellogg General and Artistic Director</p>
+      </block>
+      <block class="full_text">
+        <p>LERNER--Mimi. The New York City Opera deeply mourns the passing of mezzo-soprano Mimi Lerner after a long and valiant struggle with cancer. We fondly recall her rich, warm voice and memorable performances here in operas including Alcina, Norma, and Central Park; and just as vividly recollect her joie de vivre, generosity, sense of humor, and radiant smile. She shared those gifts with opera companies worldwide and, in recent years, with Pittsburgh's CarnegieMellon University as chair of its voice department; and Rodef Shalom Congregation as cantorial soloist and music director. We extend our deepest sympathy to her husband Martin, her son Daniel, and her scores of friends worldwide. She will truly be missed. Paul Kellogg General and Artistic Director</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

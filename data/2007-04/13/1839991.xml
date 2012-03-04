@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Art in Review; Julian Lethbridge</title>
+    <meta content="13gall-5" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="34" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1839991"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070413T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE7D9133FF930A25757C0A9619C8B63" item-length="282" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Art in Review; Julian Lethbridge</hl1>
+      </hedline>
+      <byline class="print_byline">By BRIDGET L. GOODBODY</byline>
+      <byline class="normalized_byline">Goodbody, Bridget L</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Paula Cooper Gallery  534 West 21st Street, Chelsea  Through April 28</p>
+        <p>Writing about abstract painting is like trying to slice an atom: with 50-plus years of history, differences among artists can be hard to describe. Julian Lethbridge keeps the dialogue fresh, all the while reminding viewers of the pleasure to be derived from looking at paint on canvas.</p>
+      </block>
+      <block class="full_text">
+        <p>Paula Cooper Gallery  534 West 21st Street, Chelsea  Through April 28</p>
+        <p>Writing about abstract painting is like trying to slice an atom: with 50-plus years of history, differences among artists can be hard to describe. Julian Lethbridge keeps the dialogue fresh, all the while reminding viewers of the pleasure to be derived from looking at paint on canvas.</p>
+        <p>He divides his paintings into three luscious strata. His backgrounds are shades of a single color always darker than the second layer, which is made of a flurry of lightly applied brushstrokes. For the top he adds subtly hued, multicolored, finger-wide strokes. In some paintings the patterns look like strewn about pickup sticks; in others they resemble sea grass floating underwater.</p>
+        <p>At times Mr. Lethbridge reaches back to the beginnings of abstraction, giving a respectful nod, for example, to van Gogh. A yellow painting and another blue one recall the swirls of ''Starry Night.''</p>
+        <p>There are also elements that beg comparison to (and differentiation from) postwar abstraction. There are allusions to Jackson Pollock's all-over drip paintings, but Mr. Lethbridge uses hard edges and his brush connects directly with the canvas. His patterns also recall Brice Marden's, but his are more lyrical, in part because of his interest in three dimensions. Occasionally his paint applications look like those in Jasper Johns's encaustics, but he uses oil and his pictures never refer to popular culture.</p>
+        <p>So while Mr. Lethbridge might be expanding on abstract painting's past, he does so by making his own, idiosyncratic mark, suggesting that there is still a place for abstraction going forward, as long as there are artists who can do it well.</p>
+        <p>BRIDGET L. GOODBODY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

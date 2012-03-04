@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Allegra Cummings, Fredrick Redd</title>
+    <meta content="22Cummings" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/22/fashion/weddings/22Cummings.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842155"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Cummings, Dr. Allegra</person>
+        <person class="indexing_service">Redd, Fredrick</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE0DD163EF931A15757C0A9619C8B63" item-length="225" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Allegra Cummings, Fredrick Redd</hl1>
+        <hl2 class="online_headline">Allegra Cummings and Fredrick Redd</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Dr. Allegra Cummings and Fredrick Redd were married yesterday afternoon at St. Luke's Episcopal Church in East Hampton, N.Y. The Rev. Darwin Price, an Episcopal priest, performed the ceremony with the Rev. John Best, a Presbyterian minister.</p>
+        <p>Dr. Cummings, 35, is keeping her name. She is an obstetrician and gynecologist at St. Luke's-Roosevelt Hospital Center and teaches obstetrics and gynecology at the hospital as an assistant clinical professor with the Columbia University College of Physicians and Surgeons. She graduated from Barnard and received her medical degree from the Albert Einstein College of Medicine.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The couple were married Saturday afternoon at St. Luke’s Episcopal Church in East Hampton, N.Y.</p>
+      </block>
+      <block class="full_text">
+        <p>Dr. Allegra Cummings and Fredrick Redd were married yesterday afternoon at St. Luke's Episcopal Church in East Hampton, N.Y. The Rev. Darwin Price, an Episcopal priest, performed the ceremony with the Rev. John Best, a Presbyterian minister.</p>
+        <p>Dr. Cummings, 35, is keeping her name. She is an obstetrician and gynecologist at St. Luke's-Roosevelt Hospital Center and teaches obstetrics and gynecology at the hospital as an assistant clinical professor with the Columbia University College of Physicians and Surgeons. She graduated from Barnard and received her medical degree from the Albert Einstein College of Medicine.</p>
+        <p>She is the daughter of Lynne Barry Cummings of Montauk, N.Y., and William T. Cummings of Aurora, Colo. Her mother is the director of music education at the Stella Maris Regional School, a Roman Catholic school. Her father retired as the facilities manager of the Gove Middle School in Denver.</p>
+        <p>Mr. Redd, 45, is the founder and the chief executive of the Project Management Resource Group, an engineering management consulting firm in New York. He is also an baritone whose appearances have included ''Porgy and Bess'' with the New York City Opera.</p>
+        <p>He is the son of Hilda Redd of Beaumont, Tex., and Freddie Redd of Houston. His mother retired as a home health aide with the Beaumont Home Health agency. His father is the owner of Redd's Upholstery Shop in Houston.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

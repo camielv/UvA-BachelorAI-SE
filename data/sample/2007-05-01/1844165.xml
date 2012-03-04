@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Wider Screenings for H.I.V. Are Recommended</title>
+    <meta content="01std" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="PersonalHealth" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="H" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health" name="online_sections"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20070510T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1844165"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/AIDS</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070501T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9900E4DB1F3FF932A35756C0A9619C8B63" item-length="436" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Wider Screenings for H.I.V. Are Recommended</hl1>
+      </hedline>
+      <byline class="print_byline">By NICHOLAS BAKALAR</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WHILE the annual number of new H.I.V. infections is sharply lower than in the peak years of the 1980s, the effort to reduce the infection rate further has stalled in the last decade. So the federal Centers for Disease Control and Prevention now recommends screening for H.I.V. as a routine part of health care, and not just for people in known risk groups.</p>
+        <p>With other sexually transmitted diseases, or S.T.D.'s, the usefulness and cost effectiveness of testing depend on the population being screened. Although general screening for all S.T.D.'s is not recommended, pregnant women, adolescents and gay men require special attention, and there are times when even people who fall into none of these groups should also be tested.</p>
+      </block>
+      <block class="full_text">
+        <p>WHILE the annual number of new H.I.V. infections is sharply lower than in the peak years of the 1980s, the effort to reduce the infection rate further has stalled in the last decade. So the federal Centers for Disease Control and Prevention now recommends screening for H.I.V. as a routine part of health care, and not just for people in known risk groups.</p>
+        <p>With other sexually transmitted diseases, or S.T.D.'s, the usefulness and cost effectiveness of testing depend on the population being screened. Although general screening for all S.T.D.'s is not recommended, pregnant women, adolescents and gay men require special attention, and there are times when even people who fall into none of these groups should also be tested.</p>
+        <p>There is no controversy about the new H.I.V. recommendations. According to the C.D.C., 250,000 of the 1 million Americans with H.I.V. do not know they are infected. ''There's very good evidence that as soon as you know your status, you modify your behavior,'' said Dr. Carlos Del Rio, a professor of medicine at Emory University and head of the Emory AIDS International Training and Research Program. ''So getting people to know they're infected and getting them into care is the huge challenge.''</p>
+        <p>All pregnant women in the United States should be tested for H.I.V. infection as early as possible. Dr. Del Rio says that such screenings have greatly reduced the number of babies born infected. Pregnant women should also be screened for hepatitis B and chlamydia, and for gonorrhea if they live in an area where its prevalence is high.</p>
+        <p>Teenagers are biologically more susceptible to infection, they often have unprotected sex and are more likely to engage in sex with multiple partners for short periods of time. Chlamydia and gonorrhea are most prevalent among girls 15 to 19, and herpes, or H.P.V., the most common sexually transmitted disease in the United States, is often contracted during adolescence.</p>
+        <p>Still, screening all adolescents for S.T.D.'s is neither practical nor desirable, and the C.D.C. recommends relying on sex education and the guidance of health professionals to decide who should be tested. All states and the District of Columbia allow adolescents to receive medical care for S.T.D.'s without parental consent.</p>
+        <p>Gay men are at high risk for H.I.V. and other S.T.D.'s, and higher rates of unsafe sexual behavior have recently led to growing rates of infection with syphilis, gonorrhea and chlamydia in this population. The C.D.C. recommends routine screenings of gay men for H.I.V. and syphilis. This population should also be screened for urethral and rectal infections with gonorrhea and chlamydia and for throat infections with gonorrhea.</p>
+        <p>Correction:  May 10, 2007, Thursday  An article in the special Personal Health section on May 1, about sexually transmitted diseases, misidentified the viruses that cause herpes, the most common sexually transmitted disease in the United States. They are strains of H.S.V., or herpes simplex virus -- not H.P.V., or human papillomavirus.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: May 10, 2007, Thursday</p>
+        <p>An article in the special Personal Health section on May 1, about sexually transmitted diseases, misidentified the viruses that cause herpes, the most common sexually transmitted disease in the United States. They are strains of H.S.V., or herpes simplex virus -- not H.P.V., or human papillomavirus.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

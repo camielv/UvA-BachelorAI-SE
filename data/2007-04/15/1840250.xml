@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>On the Web</title>
+    <meta content="WEB.t" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1840250"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07E0DF143FF936A25757C0A9619C8B63" item-length="81" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>On the Web</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Podcast: Scheduled to appear this week are the translator Edith Grossman; Dave Itzkoff on science fiction in translation; and Joel Agee on Elfriede Jelinek. Dwight Garner, senior editor, is the guest host.</p>
+        <p>First Chapters: Excerpts from ''The Story of the Cannibal Woman,'' by Maryse Condé; ''Grotesque,'' by Natsuo Kirino; and other books.</p>
+        <p>Search: A free archive of book reviews since 1981.</p>
+        <p>Books Update E-Mail: Receive a selective overview of new book reviews and features every Sunday.</p>
+        <p>www.nytimes.com/books</p>
+      </block>
+      <block class="full_text">
+        <p>Podcast: Scheduled to appear this week are the translator Edith Grossman; Dave Itzkoff on science fiction in translation; and Joel Agee on Elfriede Jelinek. Dwight Garner, senior editor, is the guest host.</p>
+        <p>First Chapters: Excerpts from ''The Story of the Cannibal Woman,'' by Maryse Condé; ''Grotesque,'' by Natsuo Kirino; and other books.</p>
+        <p>Search: A free archive of book reviews since 1981.</p>
+        <p>Books Update E-Mail: Receive a selective overview of new book reviews and features every Sunday.</p>
+        <p>www.nytimes.com/books</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

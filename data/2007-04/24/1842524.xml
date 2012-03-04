@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>OBSERVATORY</title>
+    <meta content="24obse2" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/24/science/24observ.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842524"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Observatory"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Japan</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Observatory</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles/Topics/Motoring</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Japan</classifier>
+        <classifier class="online_producer" type="descriptor">Asteroids</classifier>
+        <classifier class="online_producer" type="descriptor">Smell</classifier>
+        <classifier class="online_producer" type="descriptor">Hazardous and Toxic Substances</classifier>
+        <classifier class="online_producer" type="descriptor">Paleontology</classifier>
+        <classifier class="online_producer" type="descriptor">Trees and Shrubs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hazardous and Toxic Substances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Asteroids</classifier>
+        <classifier class="online_producer" type="general_descriptor">Odors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Trees and Shrubs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Consumer Protection</classifier>
+        <classifier class="online_producer" type="general_descriptor">Photography</classifier>
+        <classifier class="online_producer" type="general_descriptor">Earth</classifier>
+        <classifier class="online_producer" type="general_descriptor">Smell</classifier>
+        <classifier class="online_producer" type="general_descriptor">Paleontology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Planets</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070424T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9802E4D6173EF937A15757C0A9619C8B63" item-length="900" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>OBSERVATORY</hl1>
+        <hl2 class="online_headline">That New Car Bouquet Is Intoxicating, Not Toxic</hl2>
+      </hedline>
+      <byline class="print_byline">By Henry Fountain</byline>
+      <byline class="normalized_byline">Fountain, Henry</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Shaken and Sorted On the Surface Of an Asteroid</p>
+        <p>While it has been rolling its way through the solar system, the near-Earth asteroid Itokawa has been shaking, too. That's the conclusion of Hideaki Miyamoto of the University of Tokyo and colleagues, who see evidence of vibrations at work in images of the asteroid's gravel-strewn surface.</p>
+        <p>The close-up images were taken in 2005 by the Japanese spacecraft Hayabusa as it hovered over and touched down briefly on the 1,000-foot asteroid in a sample-return mission. The images show the kinds of gravel migration, alignment and sorting that can be caused by shaking, and are often seen on Earth along riverbeds or after landslides.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The chemistry behind that new car smell, an asteroid Itokawa and the Gilboa tree.</p>
+      </block>
+      <block class="full_text">
+        <p>Shaken and Sorted On the Surface Of an Asteroid</p>
+        <p>While it has been rolling its way through the solar system, the near-Earth asteroid Itokawa has been shaking, too. That's the conclusion of Hideaki Miyamoto of the University of Tokyo and colleagues, who see evidence of vibrations at work in images of the asteroid's gravel-strewn surface.</p>
+        <p>The close-up images were taken in 2005 by the Japanese spacecraft Hayabusa as it hovered over and touched down briefly on the 1,000-foot asteroid in a sample-return mission. The images show the kinds of gravel migration, alignment and sorting that can be caused by shaking, and are often seen on Earth along riverbeds or after landslides.</p>
+        <p>On Itokawa, the researchers showed, the rubble tends to migrate toward several low areas that are filled with fine-grained material. The findings are reported online by the journal Science.</p>
+        <p>What might be causing the shaking? Itokawa is so tiny, with so little gravity, that the impact of even a small meteoroid, on the order of a half-inch in diameter, would be enough to cause seismic convulsions. Among other possibilities, the researchers say, are gravitational ''tides,'' caused by the tug of planets as the asteroid rolls along.</p>
+        <p>That New Car Bouquet Is Intoxicating, Not Toxic</p>
+        <p>Do you love the smell of a new car? Ever wondered what the heady mix of aldehydes, ketones and other volatile organic compounds from the dashboard and other interior components might be doing to you?</p>
+        <p>The answer, at least in terms of allergic reactions, is not much, according to a study by Jeroen T. M. Buters of the Technical University of Munich and colleagues in the journal Environmental Science and Technology.</p>
+        <p>The researchers looked at the toxicity of the air in cars that were exposed to simulated sunlight, heating the interiors to about 150 degrees Fahrenheit, or the equivalent of leaving a car parked in the sun. They tested two identical cars, one about a month old and the other three years old.</p>
+        <p>The air in both cars contained many compounds, with different mixes between new and old. (Dr. Buters pointed out that many of these compounds have no odor at all and that many of those responsible for ''new-car smell'' are present only in small concentrations.)</p>
+        <p>Tests on cell cultures showed no Type 4 allergic reactions like contact dermatitis, and tests of Type 1 reactions like those to pollen or dust mites showed just that new-car air might worsen allergies in people who already have them. ''There is something there, but it's slight,'' Dr. Buters said.</p>
+        <p>But realistically, when people enter a hot car, the first thing they do is open the windows. So Dr. Buters said health effects, if any, probably had more to do with other vehicles' exhaust entering the car. ''Our paper indicates it's not so much from the inside,'' he said.</p>
+        <p>Finding Crown Solves Puzzle In Paleobotany</p>
+        <p>About 130 years ago, workers in a quarry in upstate New York discovered a group of fossilized stumps, the remnants of an ancient stand of trees that was preserved in place in the late Devonian Period, about 385 million years ago. Called Eospermatopteris (but more commonly known as the Gilboa stumps, after the town in Schoharie County where they were found), they have puzzled paleobotanists ever since.</p>
+        <p>''They have been widely cited as the world's oldest forest,'' said William E. Stein, a paleobotanist at Binghamton University. ''The only problem is no one knew what they were.'' They were, after all, just stumps, with no sign of what their crowns looked like.</p>
+        <p>But that has now changed, thanks to painstaking work by Linda VanAller Hernick and Frank Mannolini of the New York State Museum in Albany. At another Schoharie County quarry, the two discovered fossils of a tree crown and a long trunk that they, Dr. Stein and others have identified as the same species as the Gilboa stumps.</p>
+        <p>The complete Eospermatopteris, as described in a paper in the journal Nature and reconstructed in the line drawing here, grew up to 25 feet or more, with shallow roots and a flared crown that consisted of flattened frondlike branches with tiny branchlets at the tips. ''More or less like a bottle brush,'' Dr. Stein said.</p>
+        <p>The discovery pushes another fossil plant, Archaeopteris, out of its position as the oldest known tree. Archaeopteris, a distant ancestor of current seed plants, had a more modern architecture, with long-lived branches along the trunk that sprouted leafy twigs. ''There's these two important morphologies,'' Dr. Stein said. ''Of the two, Eospermatopteris is in fact an older version.''</p>
+        <p>Knowing what Eospermatopteris looked like, he said, ''we can begin to visualize what these forests were like.'' For one thing, they wouldn't have been very dark, because the branchlets don't block much light. And with all the litter the trees produced, dropping branches as the trunk grew, the forests could have supported a vast community of arthropods.</p>
+        <p>But solving the puzzle of the Gilboa stumps also helps in understanding the broader changes that occurred during the Devonian, ''the age of the greening of the earth,'' as Dr. Stein described it.</p>
+        <p>''By the end of the Devonian, all the major classes of plants were present, except for flowering plants,'' he said. ''The modern ecology had been established.''</p>
+        <p>So knowing what plants like Eospermatopteris were really like, he said, ''is critical for understanding how the ecosystem becomes set.''</p>
+        <p>Observatory</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

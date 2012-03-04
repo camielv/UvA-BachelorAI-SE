@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Modern Life, in All Its Mystery and Madness</title>
+    <meta content="18moun" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1841098"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="FILM REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Seitz, Matt Zoller</person>
+        <person class="indexing_service">Jodorowsky, Alejandro</person>
+        <object.title class="indexing_service">Holy Mountain, The (Movie)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070418T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9507E5DE1E3FF93BA25757C0A9619C8B63" item-length="328" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Modern Life, in All Its Mystery and Madness</hl1>
+      </hedline>
+      <byline class="print_byline">By MATT ZOLLER SEITZ</byline>
+      <byline class="normalized_byline">Seitz, Matt Zoller</byline>
+      <abstract>
+        <p>Matt Zoller Seitz reviews re-release of Alejandro Jodorowsky film The Holy Mountain; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Alejandro Jodorowsky's 1973 film ''Holy Mountain'' starts in a mysterious room where a shaman figure known as the Alchemist undresses blond female twins, removes their false fingernails and jewelry and shaves their heads. From there, the movie gets really outré.</p>
+        <p>A scandal when first released, Mr. Jodorowsky's movie is a dazzling, rambling, often incoherent satire on consumerism, militarism and the exploitation of third world cultures by the West. It unfurls like a hallucinogenic daydream, which is to be expected, considering that it's the follow-up to Mr. Jodorowsky's midnight movie ''El Topo.''</p>
+      </block>
+      <block class="full_text">
+        <p>Alejandro Jodorowsky's 1973 film ''Holy Mountain'' starts in a mysterious room where a shaman figure known as the Alchemist undresses blond female twins, removes their false fingernails and jewelry and shaves their heads. From there, the movie gets really outré.</p>
+        <p>A scandal when first released, Mr. Jodorowsky's movie is a dazzling, rambling, often incoherent satire on consumerism, militarism and the exploitation of third world cultures by the West. It unfurls like a hallucinogenic daydream, which is to be expected, considering that it's the follow-up to Mr. Jodorowsky's midnight movie ''El Topo.''</p>
+        <p>The free-association narrative follows a Christ-like character, the Thief, first seen lying in a dusty street, covered with flies and marinating in his own urine. He is rescued (maybe resurrected) by a partial-limbed dwarf and a gang of naked boys, then wanders through the city observing the madness of modern life, including a massacre of protesters by riot soldiers (an event photographed by rich tourists) and a tribute to the Spanish conquest of Mexico, re-enacted by costumed lizards on a scale model of Aztec pyramids.</p>
+        <p>The second half finds the Thief joining a group of emblematic religious figures assembled by the Alchemist to attack the mountaintop fortress of society's rulers, the Immortals. The mission ends with a postmodern punch line suggesting that movies are drugs too, and the revolution can't happen until we kick our habits.</p>
+        <p>The Holy Mountain  Opens today in Manhattan.</p>
+        <p>Written (in Spanish, with English subtitles) and directed by Alejandro Jodorowsky; director of photography, Raphael Corkidi; edited by Federico Landeros; music by Mr. Jodorowsky, Ronald Frangipane and Don Cherry; produced by Robert Taicher; released by Abkco Films. At the IFC Center, 323 Avenue of the Americas, at Third Street, Greenwich Village. Running time: 114 minutes. This film is not rated.</p>
+        <p>WITH: Alejandro Jodorowsky (the Alchemist), Horacio Salinas (the Thief), Ramona Saunders (the Written Woman), Juan Ferrara (Fon), Adriana Page (Isla) and Burt Kleiner (Klen).</p>
+        <p>FILM REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

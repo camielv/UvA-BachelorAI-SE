@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>News Summary</title>
+    <meta content="29summary" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1843914"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D06E0DE133EF93AA15757C0A9619C8B63" item-length="390" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>News Summary</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>INTERNATIONAL 3-14</p>
+        <p>Rebuilt Iraq Projects Crumble  Inspectors for a federal oversight agency have found that some rebuilding projects in Iraq that the United States had declared successes were no longer operating as designed because of plumbing and electrical failures, apparent looting and equipment that lay idle.</p>
+        <p>1</p>
+        <p>Anbar Province, long the lawless heartland of Sunni Arab resistance, is undergoing a transformation as tribal leaders once hostile to the American presence have formed a fragile alliance with American and Iraqi government forces against Al Qaeda in Mesopotamia.</p>
+        <p>1</p>
+        <p>Bomber in Pakistan Kills 28  A suicide bomber blew himself up at a political rally, killing 28 people and narrowly missing Pakistan's interior minister Aftab Khan Sherpao and his son in the North West Frontier Province, officials said.</p>
+        <p>14</p>
+        <p>Documents in Wolfowitz Case  Recently released documents at the center of the World Bank's inquiry into the conduct of Paul Wolfowitz have become a matter of conflicting interpretations and will be used to support the positions by both Mr. Wolfowitz's critics at the World Bank and his defense team.</p>
+        <p>4</p>
+        <p>Nepal's Democratic Struggle  As Nepal struggles to recover from more than a decade of Maoist insurgency and redefine the ground rules of its nationhood, new fissures springing from old ethnic grievances have presented obstacles for the government.</p>
+        <p>3</p>
+        <p>NATIONAL 16-26</p>
+        <p>Paying for a Jail Upgrade  For offenders whose crimes are relatively minor and whose bank accounts remain lofty, a dozen or so city jails across California offer pay-to-stay upgrades.</p>
+        <p>1</p>
+        <p>Mental Fog After Treatment  Breast cancer survivors complaining of symptoms after undergoing chemotherapy -- including short-term memory loss and an inability to concentrate -- were once largely ignored.</p>
+        <p>1</p>
+        <p>Scripture and Finance  As Americans have run up nonmortgage debt of more than $2.4 trillion, churches and Christian radio stations are supplementing their spiritual counseling with financial counseling.</p>
+        <p>16</p>
+        <p>NEW YORK/REGION 29-33</p>
+        <p>Fatal Moment at Schoolyard  Guarionex Montas, 13, died after engaging in a form of horseplay called slap-boxing with another boy. But now that other boy faces a charge of third-degree assault, and the justice system will struggle to find an appropriate punishment for an act that falls into the murky area between play and violence. 29</p>
+        <p>Chess 33  Weather 24</p>
+      </block>
+      <block class="full_text">
+        <p>INTERNATIONAL 3-14</p>
+        <p>Rebuilt Iraq Projects Crumble  Inspectors for a federal oversight agency have found that some rebuilding projects in Iraq that the United States had declared successes were no longer operating as designed because of plumbing and electrical failures, apparent looting and equipment that lay idle.</p>
+        <p>1</p>
+        <p>Anbar Province, long the lawless heartland of Sunni Arab resistance, is undergoing a transformation as tribal leaders once hostile to the American presence have formed a fragile alliance with American and Iraqi government forces against Al Qaeda in Mesopotamia.</p>
+        <p>1</p>
+        <p>Bomber in Pakistan Kills 28  A suicide bomber blew himself up at a political rally, killing 28 people and narrowly missing Pakistan's interior minister Aftab Khan Sherpao and his son in the North West Frontier Province, officials said.</p>
+        <p>14</p>
+        <p>Documents in Wolfowitz Case  Recently released documents at the center of the World Bank's inquiry into the conduct of Paul Wolfowitz have become a matter of conflicting interpretations and will be used to support the positions by both Mr. Wolfowitz's critics at the World Bank and his defense team.</p>
+        <p>4</p>
+        <p>Nepal's Democratic Struggle  As Nepal struggles to recover from more than a decade of Maoist insurgency and redefine the ground rules of its nationhood, new fissures springing from old ethnic grievances have presented obstacles for the government.</p>
+        <p>3</p>
+        <p>NATIONAL 16-26</p>
+        <p>Paying for a Jail Upgrade  For offenders whose crimes are relatively minor and whose bank accounts remain lofty, a dozen or so city jails across California offer pay-to-stay upgrades.</p>
+        <p>1</p>
+        <p>Mental Fog After Treatment  Breast cancer survivors complaining of symptoms after undergoing chemotherapy -- including short-term memory loss and an inability to concentrate -- were once largely ignored.</p>
+        <p>1</p>
+        <p>Scripture and Finance  As Americans have run up nonmortgage debt of more than $2.4 trillion, churches and Christian radio stations are supplementing their spiritual counseling with financial counseling.</p>
+        <p>16</p>
+        <p>NEW YORK/REGION 29-33</p>
+        <p>Fatal Moment at Schoolyard  Guarionex Montas, 13, died after engaging in a form of horseplay called slap-boxing with another boy. But now that other boy faces a charge of third-degree assault, and the justice system will struggle to find an appropriate punishment for an act that falls into the murky area between play and violence. 29</p>
+        <p>Chess 33  Weather 24</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

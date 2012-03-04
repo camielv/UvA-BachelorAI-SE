@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Let's Go, Spring</title>
+    <meta content="08street" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/08/fashion/08street.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1838763"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="ON THE STREET"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Seasons and Months</classifier>
+        <classifier class="online_producer" type="descriptor">Awards, Decorations and Honors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Seasons and Months</classifier>
+        <classifier class="online_producer" type="general_descriptor">Easter and Holy Week</classifier>
+        <classifier class="online_producer" type="general_descriptor">Awards, Decorations and Honors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Holidays and Special Occasions</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070408T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9802EFDB173FF93BA35757C0A9619C8B63" item-length="139" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Let's Go, Spring</hl1>
+        <hl2 class="online_headline">Let’s Go, Spring</hl2>
+      </hedline>
+      <byline class="print_byline">By Bill Cunningham</byline>
+      <byline class="normalized_byline">Cunningham, Bill</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Shop windows and even houses are showing signs of spring, a tradition that began with the great 19th-century department stores. Fading from the scene after World War II, the Eastertime urge to decorate has revived with the 21st century.  1-5. Macy's celebrated spring with a street carnival last Sunday. Exotic flower dresses fill the Broadway windows.  6. The rabbit is king on the Bryant Park carousel.  7. Bunny from F.A.O. Schwarz.  8 and 16. At Linda Horn's shop on Madison Avenue and 93rd Street.  9. Floral rush hour near Penn Station.  10. Jacques Torres's chocolate shop, Hudson and King Streets.  11. Tiffany's pearlized ostrich eggs.  12. Surrealism at Bergdorf Goodman.  13. Marc Jacobs on Bleecker Street.  14. House of Cards &amp; Curiosities, Eighth Avenue, near Jane Street.  15. A town house on West 10th Street.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Shop windows and houses are showing signs of spring.</p>
+      </block>
+      <block class="full_text">
+        <p>Shop windows and even houses are showing signs of spring, a tradition that began with the great 19th-century department stores. Fading from the scene after World War II, the Eastertime urge to decorate has revived with the 21st century.  1-5. Macy's celebrated spring with a street carnival last Sunday. Exotic flower dresses fill the Broadway windows.  6. The rabbit is king on the Bryant Park carousel.  7. Bunny from F.A.O. Schwarz.  8 and 16. At Linda Horn's shop on Madison Avenue and 93rd Street.  9. Floral rush hour near Penn Station.  10. Jacques Torres's chocolate shop, Hudson and King Streets.  11. Tiffany's pearlized ostrich eggs.  12. Surrealism at Bergdorf Goodman.  13. Marc Jacobs on Bleecker Street.  14. House of Cards &amp; Curiosities, Eighth Avenue, near Jane Street.  15. A town house on West 10th Street.  ON THE STREET</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

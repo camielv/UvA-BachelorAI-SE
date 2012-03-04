@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Cure for Rich Candidates</title>
+    <meta content="NYmoney.1" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Westchester Weekly Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="14WC" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1843690"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Elections</classifier>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <location class="indexing_service">New York State</location>
+        <person class="indexing_service">Spitzer, Eliot (Gov)</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Westchester</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04EED9153EF93AA15757C0A9619C8B63" item-length="556" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Cure for Rich Candidates</hl1>
+      </hedline>
+      <abstract>
+        <p>Editorial praises New York Gov Eliot Spitzer's call to ban campaign contributions from limited liability companies, which are routinely used to avoid limits on contributions, and to reduce amount of money that parties can give candidates; holds only way to make election campaigns more competitive is through public financing</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It is no secret that some of the richest candidates are some of the most successful. The combined net worth of Mayor Michael Bloomberg, Gov. Jon Corzine of New Jersey and Gov. Eliot Spitzer of New York is enough to buy not just an election, but a small country.</p>
+        <p>The way to deal with this mega-millionaire's advantage is not to open the floodgates to large contributions from other wealthy people, companies and unions, the way New York State does now. It is to offer public financing to candidates who are qualified but not rich.</p>
+      </block>
+      <block class="full_text">
+        <p>It is no secret that some of the richest candidates are some of the most successful. The combined net worth of Mayor Michael Bloomberg, Gov. Jon Corzine of New Jersey and Gov. Eliot Spitzer of New York is enough to buy not just an election, but a small country.</p>
+        <p>The way to deal with this mega-millionaire's advantage is not to open the floodgates to large contributions from other wealthy people, companies and unions, the way New York State does now. It is to offer public financing to candidates who are qualified but not rich.</p>
+        <p>Governor Spitzer and the New York Legislature are locked in a debate -- mostly behind doors, as usual -- about how to change the state's campaign financing system. They are looking at ways to set contribution limits, which right now are, in the words of Rachel Leon of Common Cause New York, ''shameful,'' ''an embarrassment'' and ''among the very weakest laws in the nation.''</p>
+        <p>Progress on a campaign finance package has been slow, and it is not entirely clear which of the secretive agents in Albany is really holding things up. Governor Spitzer, a Democrat, blamed the Republican leader Joseph Bruno and his Senate majority, and the governor last week began one of his campaign swings through legislative districts around the state to criticize Mr. Bruno's Republican colleagues. Mr. Bruno accused the governor of having a ''tantrum'' because Republicans would not go along with the governor's plan to ''favor the wealthy.''</p>
+        <p>The real scandal, though, is not how the campaign finance systems -- current or proposed -- favor the wealthy. It is how tilted they are in favor of the already elected. Challengers to New York legislators are remarkably rare, and almost always badly underfunded. The legislators, not surprisingly, would like to keep it that way.</p>
+        <p>There are parts of Governor Spitzer's reform proposal that are clearly worthy of praise. He has called for ending a relatively new dodge, one that his own campaign abused to great advantage last year, by banning campaign contributions from limited liability companies or L.L.C.'s. Such companies are routinely used to evade limits on contributions.</p>
+        <p>He is also calling for reducing the amount of money that parties can give to candidates, though his proposed limits are still high.</p>
+        <p>The real test of any campaign finance reform is simple: whether it produces competitive elections. Tinkering with contribution rules can help on the margins. But the only way to inject substantially more competition into the process is through public financing. It is time for Governor Spitzer and legislators to look at the way other states -- including Maine, Arizona and Connecticut -- have managed to bring public money into campaigns. Instead of every dollar coming with a request for a special interest favor, these systems provide public dollars aimed at encouraging candidates to work for the public interest.</p>
+        <p>If state politicians really want reform -- always a big if in Albany -- they should set up a public vetting of the various campaign financing proposals. It might take a little longer to debate these issues in full daylight. But this could be one of the most important reforms out of New York State in decades. Mr. Spitzer and the Legislature say they want to create a campaign finance law that serves the public. If they really do, they should let the public participate in putting it together.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

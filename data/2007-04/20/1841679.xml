@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="20btmcxns-14-1" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1841679"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070420T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990DEED61F3FF933A15757C0A9619C8B63" item-length="137" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An obituary yesterday about the singer and actress Kitty Carlisle Hart referred incorrectly to her role in the 1935 Marx Brothers comedy ''A Night at the Opera.'' Her singing in the film was followed by at least two other operatic performances before she made her Metropolitan Opera debut, in 1967. One was on Broadway in Britten's ''Rape of Lucretia''; another, in Salt Lake City, was in ''Carmen.'' The film role was not ''as close as she came to opera'' until her Met debut.</p>
+        <p>Also, the obituary rendered incorrectly the name of the record label that re-released her operetta recordings from the 1940s and '50s. It is Decca Broadway, not Decca. And the obituary referred incorrectly to her appearances on the television game show ''What's My Line?'' She made guest appearances; she was not a regular cast member.</p>
+      </block>
+      <block class="full_text">
+        <p>An obituary yesterday about the singer and actress Kitty Carlisle Hart referred incorrectly to her role in the 1935 Marx Brothers comedy ''A Night at the Opera.'' Her singing in the film was followed by at least two other operatic performances before she made her Metropolitan Opera debut, in 1967. One was on Broadway in Britten's ''Rape of Lucretia''; another, in Salt Lake City, was in ''Carmen.'' The film role was not ''as close as she came to opera'' until her Met debut.</p>
+        <p>Also, the obituary rendered incorrectly the name of the record label that re-released her operetta recordings from the 1940s and '50s. It is Decca Broadway, not Decca. And the obituary referred incorrectly to her appearances on the television game show ''What's My Line?'' She made guest appearances; she was not a regular cast member.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

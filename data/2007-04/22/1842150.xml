@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Comer Ireland, Brandon Aebersold</title>
+    <meta content="22ireland" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1842150"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Ireland, Virginia Comer (Virginia Comer Aebersold)</person>
+        <person class="indexing_service">Aebersold, Robert Brandon</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E0DF163EF931A15757C0A9619C8B63" item-length="179" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Comer Ireland, Brandon Aebersold</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Virginia Comer Ireland was married yesterday to Robert Brandon Aebersold. The Rev. Andrew C. Mead, an Episcopal priest, officiated at St. Thomas Church in New York.</p>
+        <p>The bride, 28, and bridegroom, 30, received law degrees from the University of Virginia, where they met.</p>
+      </block>
+      <block class="full_text">
+        <p>Virginia Comer Ireland was married yesterday to Robert Brandon Aebersold. The Rev. Andrew C. Mead, an Episcopal priest, officiated at St. Thomas Church in New York.</p>
+        <p>The bride, 28, and bridegroom, 30, received law degrees from the University of Virginia, where they met.</p>
+        <p>The bride is an associate at Park Hill Real Estate Group in Manhattan, which raises money for investment in real estate funds. She graduated from the University of North Carolina.</p>
+        <p>She is the daughter of Jane Bennett Tolleson of Brentwood, Tenn., and William C. Ireland Jr. of Nashville. The bride's father retired as a salesman there at Vulcan Materials Company, a producer of crushed stone, gravel and sand.</p>
+        <p>The bridegroom received an M.B.A. in March from the University of Chicago. He is to become an associate in August at Lazard Frères, the New York investment bank. He graduated summa cum laude from Furman University in Greenville, S.C.</p>
+        <p>He is the son of Carol Varnadore Aebersold and Robert C. Aebersold of Marietta, Ga. His father owns Aebersold Technologies, an engineering and metal equipment company in Kennesaw, Ga.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

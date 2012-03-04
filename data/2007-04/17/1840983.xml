@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>E-Mail and Prozac</title>
+    <meta content="17wright" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="27" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Health; Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/17/opinion/17wright.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840983"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Guest Columnist"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Psychology and Psychologists</classifier>
+        <classifier class="indexing_service" type="descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="indexing_service" type="descriptor">Prozac (Drug)</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Electronic Mail</classifier>
+        <person class="indexing_service">Wright, Robert (New America Foundation)</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Contributors</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Drugs (Pharmaceuticals)/Prozac (Drug)</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Psychology and Psychologists</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Depression</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Mental Health and Disorders</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Electronic Mail</classifier>
+        <classifier class="online_producer" type="descriptor">Depression (Mental)</classifier>
+        <classifier class="online_producer" type="descriptor">Friendship</classifier>
+        <classifier class="online_producer" type="general_descriptor">Psychology and Psychologists</classifier>
+        <classifier class="online_producer" type="general_descriptor">Friendship</classifier>
+        <classifier class="online_producer" type="general_descriptor">Depression (Mental)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electronic Mail</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mental Health and Disorders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070417T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F04E5D8113FF934A25757C0A9619C8B63" item-length="734" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>E-Mail and Prozac</hl1>
+        <hl2 class="online_headline">E-Mail and Prozac</hl2>
+      </hedline>
+      <byline class="print_byline">By ROBERT WRIGHT</byline>
+      <byline class="normalized_byline">Wright, Robert (New America Foundation)</byline>
+      <abstract>
+        <p>Robert Wright Op-Ed article posits that human nature is being changed to accommodate technological evolution; notes e-mail does not allow for nonverbal cues like tone of voice and facial expressions; implies speed of e-mail and ability to communicate with many people at once leads to self-doubt and questions about one's place in social hierarchy; says Prozac boosts serotonin, which is linked to respect and self-esteem, so that elevated serotonin allows people to optimize e-mail unhindered by doubt and anxiety; says e-mail Prozac connection is example of how empowering information technology might shape human nature (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>I have a theory: the more e-mail there is, the more Prozac there will be, and the more Prozac there is, the more e-mail there will be. Maybe I should explain.</p>
+        <p>Twenty millenniums ago, communication was simple. Utterances were usefully accompanied by nonverbal cues: tone of voice, facial expression, nudging your fellow hunter-gatherer in the ribs upon reaching a punch line.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>It’s an old story. Technological change makes society more efficient and less personal.</p>
+      </block>
+      <block class="full_text">
+        <p>I have a theory: the more e-mail there is, the more Prozac there will be, and the more Prozac there is, the more e-mail there will be. Maybe I should explain.</p>
+        <p>Twenty millenniums ago, communication was simple. Utterances were usefully accompanied by nonverbal cues: tone of voice, facial expression, nudging your fellow hunter-gatherer in the ribs upon reaching a punch line.</p>
+        <p>Twenty years ago, communication was still pretty simple. Much of it was by phone -- no nudging, true, but intonation could help distinguish, say, wry irony from bitter resentment. Plus, when you asked a question, the answer came in seconds, as opposed to minutes, hours, or never.</p>
+        <p>Don't get me wrong. E-mail is great. It has vastly expanded my social horizons. Twenty years ago I rarely spoke by phone to more than five people in a day. Now I often send e-mail to dozens of people a day. I have so many friends!</p>
+        <p>Um, can you remind me of their names? Of course, it works both ways. My many e-mail ''friends'' also have many ''friends,'' and I'm just one of them. So they can't afford to treat me like a friend -- you know, reliably acknowledging my existence, that sort of thing.</p>
+        <p>So questions arise. Is Joe -- who once answered e-mail promptly but has fallen silent -- mad at me? Or has my social status, in Joe's view, dropped a bit, so I'm not quite worth his time? And if the latter: Who the hell does Joe think he is?</p>
+        <p>There are two cures for this condition: (1) Chanting, ''It's the spam filter.'' (2) Prozac (or one of its rivals).</p>
+        <p>Serotonin, the neurochemical Prozac boosts, was shaped by natural selection to help us handle social hierarchy. Respect and other forms of positive feedback elevate serotonin, raising self-esteem and leading to the sort of self-assured conduct that befits a high-status primate. Disrespect and criticism can lower serotonin, leaving us open to self-doubt.</p>
+        <p>Self-doubt can be valuable when it's reality-based -- if, say, Joe is really mad at you, and self-doubt leads you to wonder why and then make amends. So the serotonin gyroscope was a useful thing in the environment natural selection designed it for: the hunter-gatherer landscape of clear communication.</p>
+        <p>But the landscape of e-mail is full of noise and imagined signals. Serotonin can gyrate dysfunctionally.</p>
+        <p>Hence the Prozac temptation: Just open that serotonin throttle and cruise through your in-box, unhampered by fancied slights, groundless anxieties and other impediments to bliss. (Your mileage may vary.) And, bliss aside: Imagine the efficiency! With the time you don't spend worrying about Joe, you can crank out e-mail to Jim, Sally and Sue. And efficiency is what e-mail is about, right? By ending the need to coordinate schedules, it lets us interact with lots of people -- and interact along such narrow channels that we skip the bother of getting to know an entire human being.</p>
+        <p>It's an old story. Technological change makes society more efficient and less personal. We know more people more shallowly. The sociologist David Riesman's 1950 book about his era's part in this process was called ''The Lonely Crowd.''</p>
+        <p>To be sure, there are lots of to-be-sures I should throw into a column this full of blithe generalization, speculative fancy and jokey hyperbole. For example: Prozac is a serious drug, not to be taken lightly. Also: however much time people spend networking shallowly, they can find places for deeper contact. Some parts of the Internet foster that, and e-mail can enrich it.</p>
+        <p>But that gets at the one point I'm not joking about.</p>
+        <p>The reason we've always carved out a place for deep human contact is because we deeply need it. Some contours of the mind are so firm they lead us to selectively defy the imperative of growing efficiency. Ultimately, technological evolution has had to accommodate human nature.</p>
+        <p>Until now. Now we enter the age of pharmacology and approach the age of genetic engineering. We can, in effect, change human nature to accommodate technological evolution. If the deft use of e-mail makes each of us more successful, we may, one by one, amend the structure of our selves until we are the optimal e-mail animals. And so, too, with the next empowering information technology: bend us, shape us, anyway it wants us.</p>
+        <p>If we're indeed already entering this era, I can't say I'm especially enjoying it. Then again, I haven't tried Prozac. Yet.</p>
+        <p>Guest Columnist Robert Wright, a senior fellow at the New America Foundation, runs the Web site Bloggingheads.tv.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Robert Wright, a senior fellow at the New America Foundation, runs the Web site Bloggingheads.tv.</tagline>
+    </body.end>
+  </body>
+</nitf>

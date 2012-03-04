@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   FRANKS, DONALD</title>
+    <meta content="dn042207.6" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="35" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1841873"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">FRANKS, DONALD</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B06E4D61F3AF931A15757C0A9619C8B63" item-length="72" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   FRANKS, DONALD</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>FRANKS--Donald, age 83, died April 20th after a long struggle with Parkinson's disease. A WWII marine who fought at Iwo Jima. Survived by his wife Carol, nieces, nephew and their children. Services at The Plaza Community Chapel (Amsterdam Ave and 91st St). Monday, April 23rd at 9:45am. Contributions can be made to The Visiting Nurse Survice NY Hospice Care or American Parkinson's Disease Association, 135 Parkinson Ave, Staten Island, NY 10305-1425.</p>
+      </block>
+      <block class="full_text">
+        <p>FRANKS--Donald, age 83, died April 20th after a long struggle with Parkinson's disease. A WWII marine who fought at Iwo Jima. Survived by his wife Carol, nieces, nephew and their children. Services at The Plaza Community Chapel (Amsterdam Ave and 91st St). Monday, April 23rd at 9:45am. Contributions can be made to The Visiting Nurse Survice NY Hospice Care or American Parkinson's Disease Association, 135 Parkinson Ave, Staten Island, NY 10305-1425.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

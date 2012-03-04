@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Deadlines, War Money and Pork</title>
+    <meta content="23mon1" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/23/opinion/23mon1.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842409"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <person class="online_producer">Bush, George W</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070423T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E5D9173EF930A15757C0A9619C8B63" item-length="447" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Deadlines, War Money and Pork</hl1>
+        <hl2 class="online_headline">Deadlines, War Money and Pork</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>President Bush is taking every opportunity to rail against the troop withdrawal deadlines in the war-spending bills that Congress is readying for passage. He warns that Congressional attempts to set deadlines will harm the troops in Iraq, because a political fight over timetables will delay money needed for the frontlines.</p>
+        <p>The assertion is completely contrived. Mr. Bush voiced no such misgivings last year, when the Republican-led Congress took until June to complete a war financing bill. The $103 billion Mr. Bush wants-- and Congress is ready to provide -- is for spending through the end of September. It's not needed in a lump sum or on any particular date in the near future. In the end, the real obstacle to getting the money promptly to the troops will be the veto that the president has threatened to issue on the final bill.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>President Bush is taking every opportunity to rail against the troop withdrawal deadlines in the war-spending bills that Congress is readying for passage.</p>
+      </block>
+      <block class="full_text">
+        <p>President Bush is taking every opportunity to rail against the troop withdrawal deadlines in the war-spending bills that Congress is readying for passage. He warns that Congressional attempts to set deadlines will harm the troops in Iraq, because a political fight over timetables will delay money needed for the frontlines.</p>
+        <p>The assertion is completely contrived. Mr. Bush voiced no such misgivings last year, when the Republican-led Congress took until June to complete a war financing bill. The $103 billion Mr. Bush wants-- and Congress is ready to provide -- is for spending through the end of September. It's not needed in a lump sum or on any particular date in the near future. In the end, the real obstacle to getting the money promptly to the troops will be the veto that the president has threatened to issue on the final bill.</p>
+        <p>To further disparage the bills, Mr. Bush also accuses the Democrats of larding them up with ''pork.'' That's just as diversionary as Mr. Bush's attempts to convince Americans that Congress is withholding money from the troops. The bills include roughly $20 billion in extra spending. About a quarter of it, nearly $5 billion, is for health care for veterans and active-duty members of the military and for expanding some military bases while closing others. Billions of dollars more are for other federal responsibilities that have been chronically neglected during the Bush years, including $1.3 billion to pay for post-Katrina levee repairs in Louisiana, $750 million for the state and federal health care partnership that insures poor children and roughly $500 million to help the poor pay for heat in the winter. And on it goes, money for homeland security, wildfire suppression, avian flu preparedness and other national issues.</p>
+        <p>Relatively little of the extra spending is targeted to lawmakers' home districts -- a precondition for labeling something pork. Mr. Bush invariably chooses to mock $25 million allotted for spinach growers in California. But that money is intended to mitigate growers' losses from their voluntary recall of spinach during a bacterial contamination last September, which is the type of emergency that supplemental spending bills are supposed to address.</p>
+        <p>Ideally, all nonemergency government spending -- which obviously includes the Iraq war at this point -- would be included in the annual federal budget. But ever since he started the war in 2003, Mr. Bush has maneuvered to pay for it via separate emergency measures. That ploy created a false impression of urgency, which made lawmakers who questioned the spending seem irresponsible. The effect was to short-circuit real debate about the war. Now that Democrats are using the bill precisely to raise questions -- and pose answers -- Mr. Bush is desperate to derail it.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

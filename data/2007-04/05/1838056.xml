@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Thinking Outside The Gap</title>
+    <meta content="05ROW" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Thursday Styles" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/05/fashion/05ROW.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1838056"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="FRONT ROW"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Thursday Styles</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Shopping</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Retail</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Fashion, Beauty and Fitness</classifier>
+        <classifier class="online_producer" type="descriptor">Apparel</classifier>
+        <classifier class="online_producer" type="descriptor">Retail Stores and Trade</classifier>
+        <classifier class="online_producer" type="general_descriptor">Retail Stores and Trade</classifier>
+        <classifier class="online_producer" type="general_descriptor">Contests and Prizes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Apparel</classifier>
+        <org class="online_producer">Gap Inc</org>
+        <org class="online_producer">Council of Fashion Designers of America</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070405T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0DE4DE163FF936A35757C0A9619C8B63" item-length="384" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Thinking Outside The Gap</hl1>
+        <hl2 class="online_headline">Thinking Outside the Gap</hl2>
+      </hedline>
+      <byline class="print_byline">By Eric Wilson</byline>
+      <byline class="normalized_byline">Wilson, Eric</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>FASHION is like sudoku. For designers, it's a constant challenge of solving the same old problem. And for stores, it's always a numbers game.</p>
+        <p>In recent years, Gap Inc. made a series of fashion goofs that spiraled into a mess of gloomy financials and management purges. For a chain that makes basic khakis and T-shirts its stock in trade, staying fresh has become an eternal puzzle. What, after all, can one do to liven up a basic white button-down shirt?</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>This month the Gap will introduce limited-edition shirts designed by Doo-Ri Chung, Thakoon Panichgul and Laura and Kate Mulleavy of Rodarte.</p>
+      </block>
+      <block class="full_text">
+        <p>FASHION is like sudoku. For designers, it's a constant challenge of solving the same old problem. And for stores, it's always a numbers game.</p>
+        <p>In recent years, Gap Inc. made a series of fashion goofs that spiraled into a mess of gloomy financials and management purges. For a chain that makes basic khakis and T-shirts its stock in trade, staying fresh has become an eternal puzzle. What, after all, can one do to liven up a basic white button-down shirt?</p>
+        <p>Actually, a lot. This month the Gap will introduce limited-edition shirts designed by Doo-Ri Chung, Thakoon Panichgul and Laura and Kate Mulleavy of Rodarte, all winners of a fashion contest organized by the Council of Fashion Designers of America and Vogue magazine.</p>
+        <p>The project is meant to promote the careers of emerging talent, though the Gap could stand to benefit from what could be described as the Target effect -- the excitement of offering designer shirts for $68 to $88. Doo.Ri, Thakoon and Rodarte are labels with resonance among fashion followers, and their takes on the Gap classic, to those customers, will be interesting.</p>
+        <p>''It was a good challenge,'' Mr. Panichgul said. ''What I try to do in my collection is to add an interesting twist or a witty take on a classic, and that is what this project is about as well: to be able to breathe life into a shirt with fresh, new, witty ideas.''</p>
+        <p>Mr. Panichgul gave a patchwork effect to a shirt with ruffles, pin tucks and lantern sleeves; another he made into a shirtdress with a tiered skirt like the petal dresses of his signature collection. Ms. Chung's versions included a more severe camp shirt and a full mumsy shirtdress. The Mulleavys prettied up the season's trapeze shape with bow details.</p>
+        <p>Ms. Chung envisioned a camp shirt with a shawl of layered panels, but the effect ultimately had to be made with neat pleats. The Gap also had a stock pattern to make a shirtdress. But she split that pattern in half, added more volume and shortened the sleeves.</p>
+        <p>''It ended up looking very Claire McCardell,'' she said, ''which was not intentional, but I liked the way it looked.''</p>
+        <p>They may not be providing the Gap with all the answers, but at least they're giving a clue.</p>
+        <p>FRONT ROW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

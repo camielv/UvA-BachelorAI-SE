@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TWO PLAYERS MEET WITH COMMISSIONER</title>
+    <meta content="04sportsbriefs-1" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837909"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="SPORTS BRIEFING: PRO FOOTBALL"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070404T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE7DE163FF937A35757C0A9619C8B63" item-length="175" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TWO PLAYERS MEET WITH COMMISSIONER</hl1>
+      </hedline>
+      <byline class="print_byline">By JUDY BATTISTA</byline>
+      <byline class="normalized_byline">Battista, Judy</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Tennessee cornerback Pacman Jones and Cincinnati receiver Chris Henry met separately yesterday with Roger Goodell, the N.F.L. commissioner, as part of the process that could lead to lengthy suspensions for both players because of repeated off-the-field incidents.</p>
+        <p>Goodell is expected to rule on discipline for Jones and Henry within 10 days. Since he was drafted in 2005, Jones has been arrested five times and questioned by the police in 10 episodes. He could face a felony charge for his role in a melee that led to a triple shooting in a Las Vegas strip club. Henry was arrested four times between December 2005 and June 2006 and has already served a two-game suspension that Goodell issued last season. Goodell is expected to announce a tougher personal-conduct policy before the draft on April 28-29.</p>
+      </block>
+      <block class="full_text">
+        <p>Tennessee cornerback Pacman Jones and Cincinnati receiver Chris Henry met separately yesterday with Roger Goodell, the N.F.L. commissioner, as part of the process that could lead to lengthy suspensions for both players because of repeated off-the-field incidents.</p>
+        <p>Goodell is expected to rule on discipline for Jones and Henry within 10 days. Since he was drafted in 2005, Jones has been arrested five times and questioned by the police in 10 episodes. He could face a felony charge for his role in a melee that led to a triple shooting in a Las Vegas strip club. Henry was arrested four times between December 2005 and June 2006 and has already served a two-game suspension that Goodell issued last season. Goodell is expected to announce a tougher personal-conduct policy before the draft on April 28-29.</p>
+        <p>Gene Upshaw, the head of the players union, who also met yesterday with Goodell to discuss the personal conduct policy, said Monday night that he believed it would be difficult to persuade Goodell not to suspend Jones.</p>
+        <p>JUDY BATTISTA</p>
+        <p>SPORTS BRIEFING: PRO FOOTBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

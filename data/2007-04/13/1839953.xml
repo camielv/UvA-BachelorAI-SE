@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Film in Review; Modern Man</title>
+    <meta content="13roun-5" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1839953"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Seitz, Matt Zoller</person>
+        <person class="indexing_service">Swibel, Justin</person>
+        <object.title class="indexing_service">Modern Man (Movie)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/Reviews</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070413T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9804E3DA133FF930A25757C0A9619C8B63" item-length="229" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Film in Review; Modern Man</hl1>
+      </hedline>
+      <byline class="print_byline">By MATT ZOLLER SEITZ</byline>
+      <byline class="normalized_byline">Seitz, Matt Zoller</byline>
+      <abstract>
+        <p>Matt Zoller Seitz reviews film Modern Man, directed by Justin Swibel; Eric Becker stars (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Opens today in Manhattan.  Directed by Justin Swibel  Not rated; 61 minutes</p>
+        <p>This debut feature from Justin Swibel, which spends a little over an hour observing a young man silently cleaning a palatial suburban estate, is so minimalist that at times it feels as if a prank were being played on the audience. And yet Mr. Swibel's style is so assured, and the film's rhythms are so precise, that it would be a mistake to dismiss ''Modern Man'' as a pretentious goof.</p>
+      </block>
+      <block class="full_text">
+        <p>Opens today in Manhattan.  Directed by Justin Swibel  Not rated; 61 minutes</p>
+        <p>This debut feature from Justin Swibel, which spends a little over an hour observing a young man silently cleaning a palatial suburban estate, is so minimalist that at times it feels as if a prank were being played on the audience. And yet Mr. Swibel's style is so assured, and the film's rhythms are so precise, that it would be a mistake to dismiss ''Modern Man'' as a pretentious goof.</p>
+        <p>The opening section shows Eric Becker, who plays the film's unnamed and only character, cleaning a swimming pool for several minutes. The rest of the film shows our hero taking out the trash and rearranging the garbage cans, putting ceramic frogs into fun patterns, rooting around inside the house and the garage and otherwise trying to master his environment. The alternating documentary-style close-ups and monumental wide shots better suited to a Hollywood epic subtly imply that we're watching a droll parable of mankind at ease after having subdued nature, yet still not feeling in control of it.</p>
+        <p>If you go to movies expecting certain familiar elements -- plot, dialogue, relationships and so forth -- you'll want to throw popcorn at the screen. But if you tune into this film's rhythms, you'll leave the theater seeing the world with fresh eyes.</p>
+        <p>MATT ZOLLER SEITZ</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

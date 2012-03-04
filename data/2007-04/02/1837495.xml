@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Night for Breathing Fire Into Gestures of Flamenco</title>
+    <meta content="02flam" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/02/arts/dance/02flam.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837495"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="DANCE REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance</classifier>
+        <classifier class="online_producer" type="descriptor">Flamenco (Dance)</classifier>
+        <classifier class="online_producer" type="descriptor">Dancing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Flamenco (Dance)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dancing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070402T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9506E0D91E30F931A35757C0A9619C8B63" item-length="371" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Night for Breathing Fire Into Gestures of Flamenco</hl1>
+        <hl2 class="online_headline">A Night for Breathing Fire Into Gestures of Flamenco</hl2>
+      </hedline>
+      <byline class="print_byline">By CLAUDIA LA ROCCO</byline>
+      <byline class="normalized_byline">La Rocco, Claudia</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It's easy, when confronted with one souped-up, watered-down spectacle after another, to despair of ever seeing good-quality flamenco on a concert stage. All the steam machines, lurid lighting and thematic programming in the world can't make up for the absence of honesty and heat.</p>
+        <p>But just when you decide the form is too temperamental, too particular to survive in the theater, a troupe like the Paco Peña Flamenco Dance Company comes along as a reminder that great art can make a home for itself anywhere.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>This troupe is a reminder that great art can make a home for itself anywhere.</p>
+      </block>
+      <block class="full_text">
+        <p>It's easy, when confronted with one souped-up, watered-down spectacle after another, to despair of ever seeing good-quality flamenco on a concert stage. All the steam machines, lurid lighting and thematic programming in the world can't make up for the absence of honesty and heat.</p>
+        <p>But just when you decide the form is too temperamental, too particular to survive in the theater, a troupe like the Paco Peña Flamenco Dance Company comes along as a reminder that great art can make a home for itself anywhere.</p>
+        <p>Town Hall, which played host to the troupe in ''A Compás!'' (''Into the Rhythm'') on Friday night, is far from ideal for watching a footwork-heavy form like flamenco. But the annoyance of poor sight lines was the only barrier to experiencing the range and depth of artistry on display, from Mr. Peña's quiet but fierce leadership at the guitar to the regal, smoldering dancing of Ángel Muñoz, one of the more magnificent performers I've seen in recent memory. The clarity and complexity of his rhythms dazzled, but what truly astounded were his sense of pacing, his presence, and his ability to communicate through the simplest gesture. With a raised, curving palm or a sharply angled lunge, Mr. Muñoz told the audience everything it needed to know.</p>
+        <p>With ruffled skirts and jeweled accessories, women have the exotic plumage in flamenco. But the men are the real peacocks, and Ramón Martínez was the flashy standout of the night, from his heeled red boots to the crowd-pleasing showmanship of his steps. Like many younger American tap dancers Mr. Martínez favored an explosive, off-kilter style, working the sides of his shoes as well as the toes and the heels and punctuating pauses with intense staccato outbursts.</p>
+        <p>The third dancer was Charo Espino. Though her sophisticated castanet work in a duet with Mr. Peña was one of the show's highlights, she lacked her male counterparts' rhythmic authority. Her steps tended to get lost in ensemble work. But no matter. There was always something to delight in, including the light dexterity of the percussionist Nacho Lopez, or the earthy, mournful singing of Miguel Ortega and Inmaculada Rivero.</p>
+        <p>And then there was Mr. Muñoz, who should come back. Soon.</p>
+        <p>DANCE REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

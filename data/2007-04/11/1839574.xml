@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>NASA Delays Shuttle Launching Until June to Fix Hail Damage</title>
+    <meta content="11shuttle" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/11/science/space/11shuttle.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1839574"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Space</classifier>
+        <classifier class="indexing_service" type="descriptor">Space Shuttles</classifier>
+        <classifier class="indexing_service" type="descriptor">Atlantis (Space Shuttle)</classifier>
+        <classifier class="indexing_service" type="descriptor">Foam</classifier>
+        <org class="indexing_service">National Aeronautics and Space Administration</org>
+        <person class="indexing_service">Schwartz, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="descriptor">Space Shuttle</classifier>
+        <classifier class="online_producer" type="descriptor">Foam</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space Shuttle</classifier>
+        <classifier class="online_producer" type="general_descriptor">Foam</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+        <org class="online_producer">National Aeronautics and Space Administration</org>
+        <org class="online_producer">Kennedy Space Center</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070411T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E3DE123FF932A25757C0A9619C8B63" item-length="417" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>NASA Delays Shuttle Launching Until June to Fix Hail Damage</hl1>
+        <hl2 class="online_headline">NASA Delays Shuttle Launching Until June to Fix Hail Damage</hl2>
+      </hedline>
+      <byline class="print_byline">By JOHN SCHWARTZ</byline>
+      <byline class="normalized_byline">Schwartz, John</byline>
+      <abstract>
+        <p>NASA officials say that launching of space shuttle Atlantis is being delayed again until June in order to repair hail damage on craft's fuel tank; delicate foam at top of tank suffered thousands of dents when shuttle was on launching pad during February hailstorm; decision to delay launch again casts doubt on NASA's plans for four shuttle missions in 2007, down from five missions first announced (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The much-delayed launching of the space shuttle Atlantis is being pushed back again into June as NASA struggles to repair thousands of gouges on the craft's hail-pocked fuel tank, officials said yesterday.</p>
+        <p>The mission was to begin in mid-March, and the shuttle had already been rolled to the launching pad in February when the hailstorm occurred. Much of the shuttle is protected by a gantry that is moved away before launching, but the 15-story-tall external fuel tank, with its distinctive coating of orange insulating foam, pokes out well beyond the top of the structure.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The delicate foam at the top of a 15-story-tall external fuel tank suffered thousands of dings in a hailstorm in February.</p>
+      </block>
+      <block class="full_text">
+        <p>The much-delayed launching of the space shuttle Atlantis is being pushed back again into June as NASA struggles to repair thousands of gouges on the craft's hail-pocked fuel tank, officials said yesterday.</p>
+        <p>The mission was to begin in mid-March, and the shuttle had already been rolled to the launching pad in February when the hailstorm occurred. Much of the shuttle is protected by a gantry that is moved away before launching, but the 15-story-tall external fuel tank, with its distinctive coating of orange insulating foam, pokes out well beyond the top of the structure.</p>
+        <p>The delicate foam at the top of the tank suffered thousands of dings. Many have to be carved out and filled, one at a time, with new foam. Two areas of the tank were so peppered that workers were spraying on whole sections of foam, a process that had not been tried before at Kennedy Space Center. NASA has put that process through extensive testing to ensure that it is safe.</p>
+        <p>Officials had hoped that the mission might begin in May, but the pace of repair made that impossible, they said last night. They had also been weighing whether to swap the damaged tank for one that was intended for a later flight, which would have caused further delay.</p>
+        <p>Falling foam is a threat to the safety of the shuttle and its crew. In 2003, the shuttle Columbia and its crew were lost during the return to Earth because of a hole in the wing caused by a chunk of foam during ascent.</p>
+        <p>The delay means a later return to Earth for Cmdr. Sunita L. Williams of the Navy, who is aboard the International Space Station. Commander Williams's return was scheduled for the shuttle mission after this one, which was to occur in June. With the June launching of Atlantis, the next mission will not be until August at the earliest. William H. Gerstenmaier, who heads manned space operations for NASA, said the agency might bring Commander Williams back on the earlier flight if it was delayed ''into July or later.''</p>
+        <p>As for getting Atlantis off the pad by June, Mr. Gerstenmaier said, ''We don't see any showstoppers in front of us.''</p>
+        <p>The decision to push the launching into June also casts doubt on NASA's plans for four shuttle missions this year, down from the five missions first announced. N. Wayne Hale Jr., the manager of the shuttle program, said, ''Flying four flights is not outside the realm of possibility.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

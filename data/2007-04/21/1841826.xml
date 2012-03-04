@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>EARNINGS REPORT CARD</title>
+    <meta content="21five-6" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1841826"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="FIVE DAYS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Company Reports</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">Yahoo Inc</org>
+        <org class="indexing_service">Google Inc</org>
+        <person class="indexing_service">Helft, Miguel</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070421T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE5D9163EF932A15757C0A9619C8B63" item-length="297" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>EARNINGS REPORT CARD</hl1>
+      </hedline>
+      <byline class="print_byline">By MIGUEL HELFT</byline>
+      <byline class="normalized_byline">Helft, Miguel</byline>
+      <abstract>
+        <p>Five Days column; Yahoo said its profit for first three month of year fell 11 percent from year earlier, to $142 million, as sales grew 7 percent; Google reported its profit for same period grew 69 percent, to $1 billion, as sales rose 63 percent (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BLACKBERRY users' thumbs were idle; private equity investors got a thumbs up from Sallie Mae; and a jury turned thumbs down on Joseph P. Nacchio, the former chief executive of Qwest.</p>
+        <p>For Internet watchers, the week provided a study in contrasts.</p>
+      </block>
+      <block class="full_text">
+        <p>BLACKBERRY users' thumbs were idle; private equity investors got a thumbs up from Sallie Mae; and a jury turned thumbs down on Joseph P. Nacchio, the former chief executive of Qwest.</p>
+        <p>For Internet watchers, the week provided a study in contrasts.</p>
+        <p>On Tuesday, Yahoo said its profit for the first three months of the year fell 11 percent from a year earlier, to $142 million, as sales grew 7 percent. Investors dumped the company's stock and it closed Friday at $27.46 a share.</p>
+        <p>On Thursday, Google reported its profit for the same period grew 69 percent, to $1 billion, as sales rose 63 percent. Shares surged more than 3 percent and closed Friday at $482.48 a share.</p>
+        <p>The main story behind the numbers runs along the following lines: Yahoo is only now trying to figure out the best formula for linking search results with ads that users will click on; Google has been perfecting that formula for years.</p>
+        <p>But things could change. Yahoo said it expected that a new search advertising system, which it unveiled in February, would begin delivering positive results to its bottom line starting in the current quarter. If so, Yahoo's next challenge will be to increase its share of all searches, which has remained relatively steady over the last year, while Google's share has inched steadily upward.</p>
+        <p>MIGUEL HELFT</p>
+        <p>MOST POPULAR -- Following are the most-popular business news articles on nytimes.com from April 14 through April 20:  1. I.R.S. Audits Middle Class More Often, More Quickly  2. Pill That Eliminates the Period Gets Mixed Reviews  3. Housing Slump Takes a Toll on Illegal Immigrants  4. Baby on Board, and a Photography Business, Too  5. Stung by a Fraud Indictment, a Power Broker Punches Back  Links are at nytimes.com/business.</p>
+        <p>FIVE DAYS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

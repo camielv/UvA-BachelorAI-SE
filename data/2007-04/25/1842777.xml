@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Halberstam on Journalism</title>
+    <meta content="25weds4" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/25/opinion/25weds4.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842777"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="APPRECIATIONS"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Vietnam</classifier>
+        <classifier class="online_producer" type="descriptor">Newspapers</classifier>
+        <classifier class="online_producer" type="descriptor">News and News Media</classifier>
+        <classifier class="online_producer" type="descriptor">Awards, Decorations and Honors</classifier>
+        <classifier class="online_producer" type="descriptor">Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Newspapers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Awards, Decorations and Honors</classifier>
+        <location class="online_producer">Vietnam</location>
+        <org class="online_producer">New York Times</org>
+        <person class="online_producer">Halberstam, David</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070425T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9505E1DA143EF936A15757C0A9619C8B63" item-length="409" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Halberstam on Journalism</hl1>
+        <hl2 class="online_headline">Halberstam on Journalism</hl2>
+      </hedline>
+      <byline class="print_byline">By ELEANOR RANDOLPH</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Perhaps the best thing any young reporter could do after meeting David Halberstam was to imagine him sitting alongside, watching every interview, mulling over every verb or quotation or fact. Mr. Halberstam, who died in an automobile accident on Monday, counseled thousands of young reporters. And most who listened came away with some bit of advice that sounded positively oracular.</p>
+        <p>Winner of a Pulitzer Prize for his coverage of Vietnam for The Times and the author of more than 20 books, this restless journalist always said journalism should be a great and noble mission. ''It's not about the fame,'' he cautioned journalists at Columbia University. ''By and large, the more famous you are, the less of a journalist you are.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Those young reporters who listened to David Halberstam usually came away with some bit of advice that sounded positively oracular.</p>
+      </block>
+      <block class="full_text">
+        <p>Perhaps the best thing any young reporter could do after meeting David Halberstam was to imagine him sitting alongside, watching every interview, mulling over every verb or quotation or fact. Mr. Halberstam, who died in an automobile accident on Monday, counseled thousands of young reporters. And most who listened came away with some bit of advice that sounded positively oracular.</p>
+        <p>Winner of a Pulitzer Prize for his coverage of Vietnam for The Times and the author of more than 20 books, this restless journalist always said journalism should be a great and noble mission. ''It's not about the fame,'' he cautioned journalists at Columbia University. ''By and large, the more famous you are, the less of a journalist you are.''</p>
+        <p>As a famous but also remarkable journalist, he could often be found sitting across kitchen tables or standing before classrooms, donating hours of his wisdom to thousands of journalistic careers. He always counseled trust in the dignity of ordinary people, not in those who arrive at any event with predigested press releases. Covering cops, he decreed, is ''the best beat on the paper.'' He talked about marshaling a library of facts and interviews about any subject -- density, he sometimes called it -- before actually winnowing that thick mass to its essence.</p>
+        <p>But it was Halberstam on Halberstam that could be especially engaging, as when he talked about a press briefing in Vietnam in 1963. Mr. Halberstam recalled that the Army brass had been so angry about his coverage that a top officer had tried to order him not to ask to go with the troops. ''And I stood up, my heart beating wildly -- and told him that we were not his corporals or privates, that we worked for The New York Times and U.P. and A.P. and Newsweek, not for the Department of Defense.''</p>
+        <p>It is hard to imagine the seemingly fearless David Halberstam struggling with his nerves. His lesson to journalists everywhere, as relayed to students at Columbia in 2005, is still basic to the craft: ''Never let them intimidate you. Never. If someone tries, do me a favor and work just a little harder on your story.''</p>
+        <p>Those who sought his counsel must have wondered whether he lamented the gap between his lofty expectations and the way they delivered on them. After his death, his wife, Jean, offered what sounded like a general reprieve. The journalist he was hardest on, she said, was himself.</p>
+        <p>ELEANOR RANDOLPH</p>
+        <p>APPRECIATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

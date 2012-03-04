@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Is 'High School Musical' Enough of a Challenge?</title>
+    <meta content="l22conn-1" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Connecticut Weekly Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="14CN" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Education; Theater; New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1842323"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Education and Schools</classifier>
+        <classifier class="indexing_service" type="descriptor">Theater</classifier>
+        <person class="indexing_service">Jay, Arthur</person>
+        <object.title class="indexing_service">High School Musical (Play)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Connecticut</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/Plays</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F04E0DE173EF931A15757C0A9619C8B63" item-length="246" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Is 'High School Musical' Enough of a Challenge?</hl1>
+      </hedline>
+      <abstract>
+        <p>Children's Opera Company of Ossining founding director Arthur Jay letter on April 15 article about staging of High School Musical at schools across country</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>As a retired music theater educator, I read ''Calling All Jocks and Brainiacs Onstage'' (April 15), about ''High School Musical,'' with encouragement and a little dismay. Getting students involved in music theater yields many secondary benefits such as building self-esteem, being part of a group enterprise and even some improvement of study skills and grades. But it should also be meeting some primary artistic and educational goals as well.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>As a retired music theater educator, I read ''Calling All Jocks and Brainiacs Onstage'' (April 15), about ''High School Musical,'' with encouragement and a little dismay. Getting students involved in music theater yields many secondary benefits such as building self-esteem, being part of a group enterprise and even some improvement of study skills and grades. But it should also be meeting some primary artistic and educational goals as well.</p>
+        <p>It is commendable that these arts educators are taking into account where the students are. But one also hopes that they also move on to provide their students with artistic experiences beyond what is simply facile and commercially popular. Parents should encourage and even demand such artistic quality as well.</p>
+        <p>My experience is that students are quite capable of tackling works that are challenging, both musically and dramatically, as well as intellectually vigorous and even emotionally and spiritually moving.</p>
+        <p>It is very telling that some high school students were discerning enough to recognize some of the artistic limitations of ''High School Musical.''</p>
+        <p>I hope that two years from now these schools have used this experience to develop music theater programs that present works that truly challenge students. These programs can become be a vital and stimulating part of the school community and can offer students something that Disney and the rest of the mall culture cannot.</p>
+        <p>Arthur Jay  Ossining, N.Y.</p>
+        <p>The writer is founding director, Children's Opera Company of Ossining.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

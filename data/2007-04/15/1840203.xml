@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   MAUCK, WARD</title>
+    <meta content="dn041507.3" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="27" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1840203"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">MAUCK, WARD</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9503E7DB123AF936A25757C0A9619C8B63" item-length="100" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   MAUCK, WARD</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>MAUCK--Ward, of Stonington, CT, beloved brother, father, stepfather and grandfather died April 6th at age 78. He is survived by his sons, Alden, Parker and Andrew and his brothers, F. Taylor Mauck and Osborne Mauck. Ward was born in Bryn Mawr, PA and graduated from the Hotchkiss School, Williams College, and Harvard Law School. He retired as President of the American Institute of Marine Underwriters. A Memorial Service will be held at 11:30 on Friday, April 27th at Calvary Church, 27 Church Street in Stonington, 06378. In lieu of flowers, please send donations in Ward's memory to Calvary Church.</p>
+      </block>
+      <block class="full_text">
+        <p>MAUCK--Ward, of Stonington, CT, beloved brother, father, stepfather and grandfather died April 6th at age 78. He is survived by his sons, Alden, Parker and Andrew and his brothers, F. Taylor Mauck and Osborne Mauck. Ward was born in Bryn Mawr, PA and graduated from the Hotchkiss School, Williams College, and Harvard Law School. He retired as President of the American Institute of Marine Underwriters. A Memorial Service will be held at 11:30 on Friday, April 27th at Calvary Church, 27 Church Street in Stonington, 06378. In lieu of flowers, please send donations in Ward's memory to Calvary Church.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

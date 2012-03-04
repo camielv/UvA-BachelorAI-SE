@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Cooler Dialysis Fluids May Help With Insomnia and Fatigue</title>
+    <meta content="03tech" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Health&amp;Fitness" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/03/health/03tech.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837673"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="VITAL SIGNS: TECHNIQUES"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Columns/Vital Signs</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Sleep</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Insomnia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Dialysis</classifier>
+        <classifier class="online_producer" type="descriptor">Kidneys</classifier>
+        <classifier class="online_producer" type="descriptor">Sleep</classifier>
+        <classifier class="online_producer" type="descriptor">Insomnia</classifier>
+        <classifier class="online_producer" type="general_descriptor">Kidneys</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sleep</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mental Health and Disorders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070403T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9407E5DE1F30F930A35757C0A9619C8B63" item-length="228" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Cooler Dialysis Fluids May Help With Insomnia and Fatigue</hl1>
+        <hl2 class="online_headline">Techniques: Cooler Dialysis Fluids May Help With Insomnia and Fatigue</hl2>
+      </hedline>
+      <byline class="print_byline">By Eric Nagourney</byline>
+      <byline class="normalized_byline">Nagourney, Eric</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>For all the lives it has saved, kidney dialysis has drawbacks, among them insomnia. As many as 8 of 10 patients tell their doctors they have trouble sleeping and suffer from fatigue during the day.</p>
+        <p>A new study  suggests there may be a simple remedy. Writing in the current Journal of Sleep Research, scientists say the problem seems to be that dialysis treatment raises body temperature.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Temperature may be the key to solving one of the drawbacks to kidney dialysis, a new study suggests.</p>
+      </block>
+      <block class="full_text">
+        <p>For all the lives it has saved, kidney dialysis has drawbacks, among them insomnia. As many as 8 of 10 patients tell their doctors they have trouble sleeping and suffer from fatigue during the day.</p>
+        <p>A new study  suggests there may be a simple remedy. Writing in the current Journal of Sleep Research, scientists say the problem seems to be that dialysis treatment raises body temperature.</p>
+        <p>So why not lower the temperature of the dialysis fluids that help filter the blood of people with kidney failure?</p>
+        <p>''It is quite possible that significant improvement of sleep in a group of patients plagued with these problems may be as simple as adjusting the dialysate temperature setting on the machine,'' wrote the researchers, who were led by Kathy P. Parker of Emory University.</p>
+        <p>By convention, the temperature of the fluids is set at about body temperature. The researchers tried setting it about three degrees cooler. When the volunteers were given dialysis at lower temperatures, they fell asleep an hour earlier, on average, and slept an hour more.</p>
+        <p>The study was preliminary, involving only seven patients. But a bigger study is under way, and if the results are confirmed, the findings could affect a lot of people.</p>
+        <p>About half a million Americans are on dialysis, the researchers said, a figure that is expected to grow substantially in coming years.</p>
+        <p>VITAL SIGNS: TECHNIQUES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>What Happens in Las Vegas Stays in Swingin' Memories</title>
+    <meta content="05keel" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/05/arts/music/05keel.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1838067"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MUSIC REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="descriptor">Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <org class="online_producer">Carlyle Hotel</org>
+        <person class="online_producer">Smith, Keely</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070405T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D01E4DC163FF936A35757C0A9619C8B63" item-length="366" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>What Happens in Las Vegas Stays in Swingin' Memories</hl1>
+        <hl2 class="online_headline">What Happens in Las Vegas Stays in Swingin’ Memories</hl2>
+      </hedline>
+      <byline class="print_byline">By STEPHEN HOLDEN</byline>
+      <byline class="normalized_byline">Holden, Stephen</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Showbiz longevity has its perks. Whoever has the good luck to remain the last one standing gets to tell the uncensored version of what life was really like in the imperial playground. As the golden age of Las Vegas recedes into the gin-scented mists of Rat Pack lore, that eternal tomboy Keely Smith, now 79, is the one left standing. She is the kind of garrulous star witness dear to the hearts of showbiz historians and gossip mongers.</p>
+        <p>Now appearing at the Café Carlyle, ''the queen of swing,'' as she is now nicknamed, dispenses just enough nuggets of insider dish to whet your appetite for a marathon. As this still-boy-crazy tattletale alludes to all-night parties and juicy hookups, she looks back with few regrets. Hers is no sob story ending in redemption. Las Vegas in '58 or thereabouts was fun, fun, fun. We should have been there.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>“The queen of swing,” as Ms. Smith is now nicknamed, dispenses just enough nuggets of insider dish to whet your appetite for a marathon.</p>
+      </block>
+      <block class="full_text">
+        <p>Showbiz longevity has its perks. Whoever has the good luck to remain the last one standing gets to tell the uncensored version of what life was really like in the imperial playground. As the golden age of Las Vegas recedes into the gin-scented mists of Rat Pack lore, that eternal tomboy Keely Smith, now 79, is the one left standing. She is the kind of garrulous star witness dear to the hearts of showbiz historians and gossip mongers.</p>
+        <p>Now appearing at the Café Carlyle, ''the queen of swing,'' as she is now nicknamed, dispenses just enough nuggets of insider dish to whet your appetite for a marathon. As this still-boy-crazy tattletale alludes to all-night parties and juicy hookups, she looks back with few regrets. Hers is no sob story ending in redemption. Las Vegas in '58 or thereabouts was fun, fun, fun. We should have been there.</p>
+        <p>At Tuesday's opening-night show Ms. Smith and her seven-member band performed variations of the same set she has been doing for the last decade. As befits the staid Café Carlyle, the balance between hot swingers associated with Louis Prima and ballads from her early albums, tilted more toward the sedate. At Feinstein's at the Regency, her regular stomping ground until now, swingers dominated.</p>
+        <p>Ms. Smith's voice remains in reasonably good shape, but in the two years since I saw her last, signs of fatigue have set in. The evening's strongest performance was a quiet medley of ''When Day Is Done'' and ''When Your Lover Has Gone.'' The band, not the singer, pumped most of the excitement into Prima signature songs like ''Jump, Jive and Wail'' and ''Just a Gigolo.''</p>
+        <p>Those arrangements still define the galvanizing moment when swing and rock 'n' roll fused in the music of the two Louis (Prima and Jordan), and the saxophone began to honk and the guitar to twang.</p>
+        <p>But the glue holding the show together was less musical than verbal. After 65, Ms. Smith observed wryly, you can say anything you please and get away with it. She did, within limits.</p>
+        <p>Keely Smith appears through April 28 at Café Carlyle, Carlyle Hotel, 35 East 76th Street, Manhattan, (212) 744-1600.</p>
+        <p>MUSIC REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Far Past Time to Go</title>
+    <meta content="28sat2" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/28/opinion/28sat2.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1843373"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <org class="indexing_service">World Bank</org>
+        <person class="indexing_service">Wolfowitz, Paul D</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="descriptor">Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <org class="online_producer">World Bank</org>
+        <org class="online_producer">Defense Department</org>
+        <person class="online_producer">Wolfowitz, Paul D</person>
+        <person class="online_producer">Bush, George W</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070428T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D01E2D9123EF93BA15757C0A9619C8B63" item-length="316" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Far Past Time to Go</hl1>
+        <hl2 class="online_headline">Far Past Time to Go</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial contends that Paul Wolfowitz is waging unseemly fight to hang on to his job as head of World Bank; maintains that any hope he had of reforming bank has evaporated in face of allegations of conflicts of interest and undeniably poor judgment; holds that best thing Wolfowitz can do for bank, country and himself is to step down</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It is hard to figure out what Paul Wolfowitz is telling himself as he wages an unseemly fight to hang on to his job as head of the World Bank.</p>
+        <p>Any hope he had of reforming the bank has evaporated in the face of allegations of conflicts of interest and undeniably poor judgment. Any hope of expiating his sins for the disastrous Iraq war have also disappeared as once again he stubbornly denies reality and the damage that denial is causing to his reputation and to the bank's ability to do its work.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The best thing Paul Wolfowitz can do for the World Bank, the country and himself is to step down.</p>
+      </block>
+      <block class="full_text">
+        <p>It is hard to figure out what Paul Wolfowitz is telling himself as he wages an unseemly fight to hang on to his job as head of the World Bank.</p>
+        <p>Any hope he had of reforming the bank has evaporated in the face of allegations of conflicts of interest and undeniably poor judgment. Any hope of expiating his sins for the disastrous Iraq war have also disappeared as once again he stubbornly denies reality and the damage that denial is causing to his reputation and to the bank's ability to do its work.</p>
+        <p>In the latest no-confidence clamor, some 40 members of the bank's anticorruption team warned that their ability to do their work, Mr. Wolfowitz's signature priority, ''is eroding in the face of legitimate questions from our clients about the bank's ability to practice what it preaches on governance.''</p>
+        <p>In the past we have said that Mr. Wolfowitz deserved praise for championing debt relief for the world's poorest countries and that he was right in saying the bank needs to do a lot more to fight corruption, which can cripple any development effort.</p>
+        <p>Mr. Wolfowitz's claim that many at the bank blame him for his old job at the Pentagon is also true. But he has made things far worse -- with both the staff and the bank's shareholders -- by refusing to explain his decisions and surrounding himself with a tight group of former Bush administration officials who, true to their roots, have lashed out at anyone who dares to question their policies.</p>
+        <p>Mr. Wolfowitz's battle to hang on is doing even more damage, roiling the staff, wasting top officials' energies and further alienating big donors. At a meeting with his top managers last week, Mr. Wolfowitz said he wanted to regain their trust. That is no longer possible. The best thing he can do for the bank, the country and himself is to step down.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

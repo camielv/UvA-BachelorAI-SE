@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>European Central Bank Hints at a Rate Increase in June</title>
+    <meta content="13euro" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/13/business/worldbusiness/13euro.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1839906"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="descriptor">Interest Rates</classifier>
+        <classifier class="online_producer" type="descriptor">Currency</classifier>
+        <classifier class="online_producer" type="descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Interest Rates</classifier>
+        <classifier class="online_producer" type="general_descriptor">Currency</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Credit</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <org class="online_producer">European Central Bank</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070413T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D03E4DB133FF930A25757C0A9619C8B63" item-length="497" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>European Central Bank Hints at a Rate Increase in June</hl1>
+        <hl2 class="online_headline">European Bank Hints at Rate Increase in June</hl2>
+      </hedline>
+      <byline class="print_byline">By MARK LANDLER</byline>
+      <byline class="normalized_byline">Landler, Mark</byline>
+      <dateline>FRANKFURT, April 12</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>With Europe seeming to shrug off the recent rise in the euro, the European Central Bank on Thursday fed widespread expectations that it would raise interest rates again in June</p>
+        <p>An increase then would be its eighth since it began to tighten credit in December 2005.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Shrugging off the recent rise in the euro, the bank’s president said inflation would be monitored very closely  a phrase interpreted by financial markets to mean a rate increase in two months.</p>
+      </block>
+      <block class="full_text">
+        <p>With Europe seeming to shrug off the recent rise in the euro, the European Central Bank on Thursday fed widespread expectations that it would raise interest rates again in June</p>
+        <p>An increase then would be its eighth since it began to tighten credit in December 2005.</p>
+        <p>Sticking to a policy of ''no surprises,'' the bank left its key rate unchanged at 3.75 percent at its monthly meeting here. Its president, Jean-Claude Trichet, said the bank would monitor inflation very closely -- a phrase interpreted by financial markets to mean a rate increase in two months.</p>
+        <p>''I would not say anything today that would be aimed at changing expectations for the month of June,'' Mr. Trichet said, adding that the bank does not, as a policy, commit itself to any course in advance.</p>
+        <p>Mr. Trichet resolutely declined to comment on the recent rally in the euro against the dollar and the Japanese yen. Economists said that this reflected the bank's relative lack of concern that a buoyant currency would derail Europe's growth by hobbling its exports in important foreign markets.</p>
+        <p>''They're not particularly worried about the euro,'' said Holger Schmieding, an economist at Bank of America in London. ''It's a sign of confidence at the E.C.B. that Europe can grow on its own -- that its growth no longer hinges critically on the U.S., even if the U.S. is still important.''</p>
+        <p>With a rate increase all but confirmed, the euro briefly rose above $1.35 against the dollar in trading in New York. The euro was stable in trading against the yen, but at near-record levels.</p>
+        <p>Mr. Trichet did repeat statements by European officials that the yen should reflect the state of the newly robust Japanese economy. The yen's weakness has caused tension between Europe and Japan.</p>
+        <p>But the euro's rally has not elicited a chorus of anguished voices from European politicians, or calls for a response from the European Central Bank, as was the case with previous currency swings.</p>
+        <p>''What makes this euro rally stand out from the rallies in 2003 and 2004 is that the euro zone is showing a dose of domestic growth,'' said Ashraf Laidi, chief foreign exchange analyst at CMC Markets in New York. ''The euro zone is being driven by internal demand.''</p>
+        <p>Mr. Laidi said that there was little reason to expect a halt in the euro's upward march. On Thursday, three major economic institutes, in Germany, France and Italy, raised their projections for European growth in the first quarter of 2007, saying growth would accelerate.</p>
+        <p>''The key is whether the euro goes above $1.36 before the end of this month,'' Mr. Laidi said. ''Definitely, that might jolt Trichet into making some kind of comment about exchange rates.''</p>
+        <p>At a news conference here, Mr. Trichet appeared anything but jolted. He noted with satisfaction that in its latest World Economic Outlook, the International Monetary Fund projected that Europe would grow at roughly the same rate as the United States and Japan this year.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

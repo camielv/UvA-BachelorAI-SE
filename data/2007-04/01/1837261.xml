@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Aislinn Weidele, Jeffery Klier</title>
+    <meta content="01weidele" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837261"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Weidele, Aislinn</person>
+        <person class="indexing_service">Klier, Jeffery F.</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F00E7DD1130F932A35757C0A9619C8B63" item-length="136" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Aislinn Weidele, Jeffery Klier</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Aislinn Weidele and Jeffery F. Klier were married last evening at City Hall, a restaurant in New York. Judge Arlene Hahn of New York City Housing Court officiated.</p>
+        <p>The bride, 38, is keeping her name. She is a graphic designer at Polshek Partnership Architects in New York. She graduated from the University of Maryland and received a Master of Fine Arts in sculpture from Queens College.</p>
+      </block>
+      <block class="full_text">
+        <p>Aislinn Weidele and Jeffery F. Klier were married last evening at City Hall, a restaurant in New York. Judge Arlene Hahn of New York City Housing Court officiated.</p>
+        <p>The bride, 38, is keeping her name. She is a graphic designer at Polshek Partnership Architects in New York. She graduated from the University of Maryland and received a Master of Fine Arts in sculpture from Queens College.</p>
+        <p>She is the daughter of Roxanne Fern Weidele and Bruce Allen Weidele of Galesville, Md.</p>
+        <p>The bridegroom, 42, is a funeral director at Riverside Memorial Chapel in New York. He graduated from the University of California, Santa Barbara, and received a degree from the American Academy McAllister Institute of Funeral Service.</p>
+        <p>He is the son of Donna Lee Silva of Payette, Idaho, and Waldemar Sidney Klier of Castro Valley, Calif.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Lisa Kung, Brian Chun</title>
+    <meta content="08kung" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/08/fashion/weddings/08kung.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1838766"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Kung, Lisa (Lisa Chun)</person>
+        <person class="indexing_service">Chun, Brian Kris</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070408T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04EEDB173FF93BA35757C0A9619C8B63" item-length="202" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Lisa Kung, Brian Chun</hl1>
+        <hl2 class="online_headline">Lisa Kung, Brian Chun</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Lisa Kung, the daughter of Kim C. Kung of Warren, N.J., and Kit Kung of Franklin Lakes, N.J., was married yesterday to Brian Kris Chun, the son of Suzy I. Chun and the Rev. Dr. Sang E. Chun of Franklin, Tenn. The bridegroom's father, a United Methodist minister, performed the ceremony at Arcola Korean United Methodist Church in Paramus, N.J.</p>
+        <p>Mrs. Chun, 24, is the manager of special projects at Advocates for Children of New York, a nonprofit organization that assists parents in navigating the public school system. She graduated magna cum laude from Tufts University.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Lisa Kung, the daughter of Kim C. Kung of Warren, N.J., and Kit Kung of Franklin Lakes, N.J., was married yesterday to Brian Kris Chun, the son of Suzy I. Chun and the Rev. Dr. Sang E. Chun of Franklin, Tenn. The bridegroom’s father, a United Methodist minister, performed the ceremony at Arcola Korean United Methodist Church in Paramus, N.J.</p>
+      </block>
+      <block class="full_text">
+        <p>Lisa Kung, the daughter of Kim C. Kung of Warren, N.J., and Kit Kung of Franklin Lakes, N.J., was married yesterday to Brian Kris Chun, the son of Suzy I. Chun and the Rev. Dr. Sang E. Chun of Franklin, Tenn. The bridegroom's father, a United Methodist minister, performed the ceremony at Arcola Korean United Methodist Church in Paramus, N.J.</p>
+        <p>Mrs. Chun, 24, is the manager of special projects at Advocates for Children of New York, a nonprofit organization that assists parents in navigating the public school system. She graduated magna cum laude from Tufts University.</p>
+        <p>Her father is the owner of the Brighton Equipment Corporation in Paramus, which provides technology and heavy equipment to China. Her mother owns Kim's Beauty Salon in Scotch Plains, N.J.</p>
+        <p>Mr. Chun, 30, works in Andover, Mass., providing software support for the health care division of Misys, a software company based in London. He graduated from Ohio Wesleyan University.</p>
+        <p>His parents, who are retired, worked in Nashville. His mother was the manager of the dialysis nursing unit at St. Thomas Hospital, and his father was the team leader for racial ethnic ministries at the General Board of Discipleship, the national office of the United Methodist Church.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

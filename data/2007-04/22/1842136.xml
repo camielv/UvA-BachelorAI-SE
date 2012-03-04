@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Meaghan McNamara, Cameron Bruce III</title>
+    <meta content="22MCNAMARA" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/22/fashion/weddings/22MCNAMARA.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842136"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">McNamara, Meaghan Creighton (Meaghan Creighton Bruce)</person>
+        <person class="indexing_service">III, Bruce Cameron John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E1DF163EF931A15757C0A9619C8B63" item-length="241" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Meaghan McNamara, Cameron Bruce III</hl1>
+        <hl2 class="online_headline">Meaghan McNamara, Cameron Bruce III</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Meaghan Creighton McNamara and Cameron John Bruce III were married yesterday at the St. Aloysius Church in Washington. The Most Rev. Kevin J. Farrell, an auxiliary bishop of the Roman Catholic Archdiocese of Washington, performed the ceremony.</p>
+        <p>Mrs. Bruce, 26, is a special-education teacher at Public School 811 in New York. She graduated from Loyola University in Baltimore and received her master's degree, cum laude, from New York University.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Meaghan Creighton McNamara and Cameron John Bruce III were married yesterday at the St. Aloysius Church in Washington. The Most Rev. Kevin J. Farrell, an auxiliary bishop of the Roman Catholic Archdiocese of Washington, performed the ceremony.</p>
+      </block>
+      <block class="full_text">
+        <p>Meaghan Creighton McNamara and Cameron John Bruce III were married yesterday at the St. Aloysius Church in Washington. The Most Rev. Kevin J. Farrell, an auxiliary bishop of the Roman Catholic Archdiocese of Washington, performed the ceremony.</p>
+        <p>Mrs. Bruce, 26, is a special-education teacher at Public School 811 in New York. She graduated from Loyola University in Baltimore and received her master's degree, cum laude, from New York University.</p>
+        <p>She is a daughter of Jill and J. Paul McNamara of Bethesda, Md. Her father founded Sequoia Bank in Bethesda, which is now a part of United Bancshares, a regional financial institution in the Middle Atlantic States. He is also the chairman of the Washington Century Fund, a private real estate investment fund in Washington. Her mother owns Mostly Monograms, a company specializing in personalized embroidery items with two stores, one in Bethesda and the other in Bethany Beach, Del.</p>
+        <p>Mr. Bruce, 30, is a trading assistant on the floor of the New York Stock Exchange with LaBranche &amp; Company, a securities and specialist firm. He graduated from Quinnipiac University and also received a master's degree there in computer sciences.</p>
+        <p>He is a son of Marie Dorso Bruce and Mr. Bruce Jr. of Point Pleasant Beach, N.J. His father is a senior vice president with Marsh, an insurance brokerage firm in New York. His mother is an administrative coordinator with Work Out World, a chain of health clubs based in Brick, N.J.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Mimi van Wyck, Ham Morrison</title>
+    <meta content="29vanwyck" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/29/fashion/weddings/29vanwyck.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1843767"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Wyck, Mary Lynn van (Mary Lynn van Morrison)</person>
+        <person class="indexing_service">III, Morrison Ray Hamilton</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0CE7DC123EF93AA15757C0A9619C8B63" item-length="207" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Mimi van Wyck, Ham Morrison</hl1>
+        <hl2 class="online_headline">Mimi van Wyck, Ham Morrison</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Mary Lynn van Wyck, the daughter of Mary Lynn and Bronson van Wyck of Tuckerman, Ark., was married last evening to Ray Hamilton Morrison III, the son of Kiwi Hilliard of Oyster Bay, N.Y., and Mr. Morrison Jr. of Hobe Sound, Fla. The Right Rev. Marc Andrus, the bishop of the Episcopal diocese of California, officiated at Fenwick Hall Plantation on Johns Island, S.C.</p>
+        <p>The bride, 29, is known as Mimi. She is a partner in Van Wyck &amp; Van Wyck, an event planning company in New York that was founded by her mother and brother. The bride graduated from the University of North Carolina.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Mary Lynn van Wyck, the daughter of Mary Lynn and Bronson van Wyck of Tuckerman, Ark., was married last evening to Ray Hamilton Morrison III, the son of Kiwi Hilliard of Oyster Bay, N.Y., and Mr. Morrison Jr. of Hobe Sound, Fla. The Right Rev. Marc Andrus, the bishop of the Episcopal diocese of California, officiated at Fenwick Hall Plantation on Johns Island, S.C.</p>
+      </block>
+      <block class="full_text">
+        <p>Mary Lynn van Wyck, the daughter of Mary Lynn and Bronson van Wyck of Tuckerman, Ark., was married last evening to Ray Hamilton Morrison III, the son of Kiwi Hilliard of Oyster Bay, N.Y., and Mr. Morrison Jr. of Hobe Sound, Fla. The Right Rev. Marc Andrus, the bishop of the Episcopal diocese of California, officiated at Fenwick Hall Plantation on Johns Island, S.C.</p>
+        <p>The bride, 29, is known as Mimi. She is a partner in Van Wyck &amp; Van Wyck, an event planning company in New York that was founded by her mother and brother. The bride graduated from the University of North Carolina.</p>
+        <p>Her father is an investment manager in Tuckerman, specializing in agricultural real estate. The bride's mother is also the chairwoman of the Arkansas Cancer Research Center Foundation.</p>
+        <p>The bridegroom, 32, is a real estate investor in Charleston, S.C., and also races stock cars. He graduated from the College of Charleston.</p>
+        <p>His father, who is retired, was the founding partner of Morrison Williams Whittle, an advertising agency that was in Washington; he is now a restorer of historic buildings in Florida. The bridegroom is the stepson of Landon Hilliard, a partner in Brown Brothers Harriman &amp; Company, the private bank in New York.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

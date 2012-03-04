@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Southampton Sets Aside Spot for Day Laborers</title>
+    <meta content="08liweekLI-2" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Long Island Weekly Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="14LI" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838954"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE WEEK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Labor</classifier>
+        <classifier class="indexing_service" type="descriptor">Day Laborers</classifier>
+        <location class="indexing_service">Southampton (NY)</location>
+        <person class="indexing_service">Epley, Mark (Mayor)</person>
+        <person class="indexing_service">Saslow, Linda</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Long Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/Long Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/Long Island/The Hamptons</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070408T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E2DB143FF93BA35757C0A9619C8B63" item-length="330" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Southampton Sets Aside Spot for Day Laborers</hl1>
+      </hedline>
+      <byline class="print_byline">By LINDA SASLOW</byline>
+      <byline class="normalized_byline">Saslow, Linda</byline>
+      <abstract>
+        <p>Mayor Mark Epley announces plan to add hedges and gravel to empty lot next to 7-Eleven in Southampton, NY, where day laborers can wait for work; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A few hedges and some gravel will soon turn an empty lot next to a 7-Eleven in the Village of Southampton into a site where day laborers can wait for work.</p>
+        <p>''It's not a designated hiring site,'' said Mayor Mark Epley, who announced the plan on March 30. ''We're not changing the use of this lot, but trying to get it better organized and make it safer when trucks pull over to hire the workers.''</p>
+      </block>
+      <block class="full_text">
+        <p>A few hedges and some gravel will soon turn an empty lot next to a 7-Eleven in the Village of Southampton into a site where day laborers can wait for work.</p>
+        <p>''It's not a designated hiring site,'' said Mayor Mark Epley, who announced the plan on March 30. ''We're not changing the use of this lot, but trying to get it better organized and make it safer when trucks pull over to hire the workers.''</p>
+        <p>Mr. Epley said that in recent years 40 to 100 men had congregated on the lot every morning and had recently begun moving into nearby residential areas and toward the village center to wait for work.</p>
+        <p>The village plans to enact legislation in about six weeks that will make it illegal to solicit employment in a public right of way or a commercial parking lot. That would not affect the lot next to the 7-Eleven.</p>
+        <p>''This is not a solution,'' Mr. Epley said, ''but the result of severe failure of the federal government on immigration policy. Local governments have each had to deal with this problem in its own way. It's a very sensitive issue, and no matter what you do, people will criticize it.''</p>
+        <p>On Long Island there are three hiring sites for day workers -- in Glen Cove, Freeport and Huntington Station. A donated building, called the Shape-up Center, on Sea Cliff Avenue in Glen Cove is the only indoor meeting place.</p>
+        <p>Mayor Ralph V. Suozzi of Glen Cove said the center was a cooperative effort between the city and La Fuerza Unida, an outreach organization, and provides a building for day workers to wait in for contractors. Those who are not hired can stay at the center to learn English or computer skills, he said.</p>
+        <p>''We've tried to come up with a plan that would not ignore the situation but would keep day workers from congregating in our neighborhoods and in front of the local delis,'' Mr. Suozzi said.</p>
+        <p>LINDA SASLOW</p>
+        <p>THE WEEK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

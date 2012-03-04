@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Competition Begins for Public Radio 'Idol'</title>
+    <meta content="02radio" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/02/business/media/02radio.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837527"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Radio</classifier>
+        <classifier class="online_producer" type="general_descriptor">Radio</classifier>
+        <classifier class="online_producer" type="general_descriptor">Contests and Prizes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070402T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE6D81E30F931A35757C0A9619C8B63" item-length="279" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Competition Begins for Public Radio 'Idol'</hl1>
+        <hl2 class="online_headline">Competition Begins for Public Radio ‘Idol’</hl2>
+      </hedline>
+      <byline class="print_byline">By ELIZABETH JENSEN</byline>
+      <byline class="normalized_byline">Jensen, Elizabeth</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Aspiring pop stars can turn to ''American Idol''; budding screenwriters had ''Project Greenlight.'' So where do fledgling public radio hosts turn?</p>
+        <p>The Public Radio Exchange, a nonprofit organization based in Cambridge, Mass., that connects independent radio producers and public radio stations looking for programming, is holding an online contest to find a new national radio star.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Public Radio Exchange is holding an online contest to find a new national radio star.</p>
+      </block>
+      <block class="full_text">
+        <p>Aspiring pop stars can turn to ''American Idol''; budding screenwriters had ''Project Greenlight.'' So where do fledgling public radio hosts turn?</p>
+        <p>The Public Radio Exchange, a nonprofit organization based in Cambridge, Mass., that connects independent radio producers and public radio stations looking for programming, is holding an online contest to find a new national radio star.</p>
+        <p>Two-minute audio submissions in talk, entertainment and music genres will be accepted online beginning April 16 (at publicradioquest.com); winners will be chosen through four elimination rounds by a panel of radio professionals and public voting.</p>
+        <p>The competition, which will ultimately award pilot production money to three finalists, is financed by a grant from the Corporation for Public Broadcasting, the entity that administers federal subsidies for public radio and television.</p>
+        <p>A second grant went to a group of longtime public radio producers who call themselves Launch. That group is conducting a separate private search, aimed at ''people who are Oscar winners, MacArthur genius granters, and Grammy winners,'' among others, said Mary Beth Kirchner, a partner in Launch.</p>
+        <p>The three finalists identified by each group will submit pilot shows to the corporation, which has said it will choose one, and maybe more, to get development funds early next year, part of its push to broaden the public radio audience. Both teams said they expected that even some of the runners-up would find a place on the dial.</p>
+        <p>Jake Shapiro, the exchange's executive director, said he hopes to receive ''hundreds and hundreds'' of submissions for the ''American Idol''-style search, despite some online grumbling from podcasters, who in recent years have bypassed the radio distribution system and put their own shows on the Internet.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

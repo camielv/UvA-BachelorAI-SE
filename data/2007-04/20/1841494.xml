@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   POPA, ERVIN A.</title>
+    <meta content="dn042007" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1841494"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">POPA, ERVIN A.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070420T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E3D71F3AF933A15757C0A9619C8B63" item-length="95" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   POPA, ERVIN A.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>POPA--Ervin A., of New York City, on April 18th, age 98, formerly of Bucharest, Romania. Beloved father of Ingrid and Alda; grandfather of Domnica and Adriana; and father-in-law of Mircea. Beloved husband of his late wife Ariane. Visiting hours at Campbell Funeral Home, Friday 2-4pm and 7-9pm. A funeral service will be held on Saturday, April 21st, at St. Ignatius of Loyola Church on Park Avenue. The Board of Directors of the Iuliu Maniu American-Romanian Foundation are saddened by the passing of their respected and beloved member, who inspired us forever. Justin Liuba, President</p>
+      </block>
+      <block class="full_text">
+        <p>POPA--Ervin A., of New York City, on April 18th, age 98, formerly of Bucharest, Romania. Beloved father of Ingrid and Alda; grandfather of Domnica and Adriana; and father-in-law of Mircea. Beloved husband of his late wife Ariane. Visiting hours at Campbell Funeral Home, Friday 2-4pm and 7-9pm. A funeral service will be held on Saturday, April 21st, at St. Ignatius of Loyola Church on Park Avenue. The Board of Directors of the Iuliu Maniu American-Romanian Foundation are saddened by the passing of their respected and beloved member, who inspired us forever. Justin Liuba, President</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Neil Shine, 76, Former Publisher</title>
+    <meta content="04shine" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S.; Obituaries" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/04/business/media/04shine.html" name="alternate_url"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20070405T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1837964"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="biographical_categories">News and News Media</classifier>
+        <classifier class="indexing_service" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <classifier class="indexing_service" type="names">Neil Shine</classifier>
+        <person class="indexing_service">Shine, Neal</person>
+        <person class="indexing_service">Peters, Jeremy W</person>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+        <classifier class="online_producer" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="descriptor">Awards, Decorations and Honors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Awards, Decorations and Honors</classifier>
+        <org class="online_producer">Detroit Free Press</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070404T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F06E6D71F30F937A35757C0A9619C8B63" item-length="246" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Neil Shine, 76, Former Publisher</hl1>
+        <hl2 class="online_headline">Neal Shine, 76, Former Publisher, Dies</hl2>
+      </hedline>
+      <byline class="print_byline">By JEREMY W. PETERS</byline>
+      <byline class="normalized_byline">Peters, Jeremy W</byline>
+      <abstract>
+        <p>Neil Shine, former publisher and editor of Detroit Free Press, dies at age 76 (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Neil Shine, a former publisher and editor of The Detroit Free Press who played important roles as the newspaper won major awards and later as it weathered the industry's longest strike, died yesterday near Detroit. He was 76.</p>
+        <p>The cause was respiratory failure, the newspaper announced.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The former publisher and editor of The Detroit Free Press played important roles as the newspaper won major awards.</p>
+      </block>
+      <block class="full_text">
+        <p>Neil Shine, a former publisher and editor of The Detroit Free Press who played important roles as the newspaper won major awards and later as it weathered the industry's longest strike, died yesterday near Detroit. He was 76.</p>
+        <p>The cause was respiratory failure, the newspaper announced.</p>
+        <p>In nearly half a century at The Free Press, Mr. Shine worked his way up from copy boy to reporter to publisher. After helping to direct some of the paper's proudest accomplishments, he retired in 1995.</p>
+        <p>As city editor, he helped direct the coverage of the Detroit race riots, which won a Pulitzer Prize in 1968, and the reports on the shootings of students at Kent State University in Ohio in 1970, which won the paper a George Polk award.</p>
+        <p>By the time he retired, the paper was embroiled in a 19-month labor strike that put Mr. Shine on the opposite side of the picket line from some of his closest colleagues and friends.</p>
+        <p>Mr. Shine began working at The Free Press as a copy boy in 1950, left in 1953 to spend two years in the Army and then returned as a reporter. By 1965 he was city editor. He became managing editor in 1971 and senior managing editor in 1982. He retired in 1989, returning the next year as publisher.</p>
+        <p>He is survived by his wife, Phyllis; their 6 children, Jim, Dan, Tom, Peggy, Judy Heuvelman and Sue Epp; 17 grandchildren; and 2 brothers.</p>
+        <p>Correction:  April 5, 2007, Thursday  An obituary yesterday about a former editor and publisher of The Detroit Free Press misspelled his given name. He was Neal Shine, not Neil.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: April 5, 2007, Thursday</p>
+        <p>An obituary yesterday about a former editor and publisher of The Detroit Free Press misspelled his given name. He was Neal Shine, not Neil.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

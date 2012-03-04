@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Humans vs. Cancer: Who's Winning Now?; The Answer Is Inside</title>
+    <meta content="01varmus" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health; Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/01/opinion/01varmus.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837350"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Op-Ed Contributor"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Contributors</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Cancer</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Doctors</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Surgery and Surgeons</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="descriptor">Cancer</classifier>
+        <classifier class="online_producer" type="descriptor">Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="descriptor">Tests and Testing</classifier>
+        <classifier class="online_producer" type="descriptor">DNA (Deoxyribonucleic Acid)</classifier>
+        <classifier class="online_producer" type="descriptor">Genetic Engineering</classifier>
+        <classifier class="online_producer" type="general_descriptor">Genetic Engineering</classifier>
+        <classifier class="online_producer" type="general_descriptor">Surgery and Surgeons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cancer</classifier>
+        <classifier class="online_producer" type="general_descriptor">DNA (Deoxyribonucleic Acid)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <org class="online_producer">Memorial Sloan-Kettering Cancer Center</org>
+        <org class="online_producer">National Institutes of Health</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9500E1D81130F932A35757C0A9619C8B63" item-length="685" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Humans vs. Cancer: Who's Winning Now?; The Answer Is Inside</hl1>
+        <hl2 class="online_headline">The Answer Is Inside</hl2>
+      </hedline>
+      <byline class="print_byline">By Harold Varmus</byline>
+      <byline class="normalized_byline">Varmus, Harold</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>TO a public now accustomed to calls for ''a cure for cancer,'' it can come as an unpleasant surprise to learn about the complexities of cancer. ''Cancer'' is not one disease, but a category encompassing many different diseases, and we are more likely to see incremental advances against individual types of cancers than universal cures.</p>
+        <p>But there is also promise in this more nuanced view. The great variety of cancers reflects the fundamental mechanism by which the disease arises: the different combinations of genetic variations that cause normal cells to grow excessively and behave badly. These cancer-causing mutations may be inherited or, more commonly, incurred after birth, and our ability to describe them offers entry to a world in which cancer can be better controlled. We already know a few hundred of the genes that are mutated in various cancers, and we are poised to discover virtually all of them through a new kind of ''genome project'' that is just beginning.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A gene-based approach to finding a cure has value.</p>
+      </block>
+      <block class="full_text">
+        <p>TO a public now accustomed to calls for ''a cure for cancer,'' it can come as an unpleasant surprise to learn about the complexities of cancer. ''Cancer'' is not one disease, but a category encompassing many different diseases, and we are more likely to see incremental advances against individual types of cancers than universal cures.</p>
+        <p>But there is also promise in this more nuanced view. The great variety of cancers reflects the fundamental mechanism by which the disease arises: the different combinations of genetic variations that cause normal cells to grow excessively and behave badly. These cancer-causing mutations may be inherited or, more commonly, incurred after birth, and our ability to describe them offers entry to a world in which cancer can be better controlled. We already know a few hundred of the genes that are mutated in various cancers, and we are poised to discover virtually all of them through a new kind of ''genome project'' that is just beginning.</p>
+        <p>An obvious application of genetic knowledge about specific cancers is the development of drugs and antibodies that reverse the effects of the mutations in those cancers. Some success in this difficult endeavor has already been achieved -- in the clinic, not just the laboratory. But new genetic knowledge can also be used to assess an individual's inherited risk of developing certain kinds of cancer or to predict the likely behavior of any identified tumor.</p>
+        <p>Hereditary risks of developing cancer can now be determined by examining about 30 different genes that can cause changes associated with certain cancers. This information can be enormously beneficial by encouraging early screening or preventive surgery. But it can also create anxieties about genetic discrimination, upset families and raise disturbing questions about who should be tested and when. Most of the known mutations are so uncommon in the population and so expensive to find by DNA testing that it is not yet justified to examine people who aren't from cancer-prone families.</p>
+        <p>Moreover, depending on the mutant gene, the risks that it will actually cause cancer can vary, from slightly above average to nearly 100 percent. And the absence of an inherited mutation, while reducing risk, does not preclude the cancer. In addition, there are doubtless more inherited variant genes to be discovered, especially variants that confer relatively weak risks of cancer. These features complicate genetic assessment of cancer risk, but I believe that the approach, on balance, can benefit affected individuals and public health.</p>
+        <p>The genetic properties of newly diagnosed tumors, whether found through the screening of healthy people or after symptoms occur, also promise to be instructive. We already know that tumors that under the microscope are indistinguishable display important differences at the molecular level: different genes may be turned on or turned off, and different genes may be mutated. These changes are likely to help predict whether the tumor will invade, incite production of new blood vessels or spread; where it might spread; how quickly it might grow and threaten the patient's life; and what treatments might be most effective.</p>
+        <p>These predictions will be especially important when tumors are found at very early stages -- for example, after screening for prostate cancer with the P.S.A. test, for breast cancer with mammography or M.R.I.'s, or for lung cancer with CT scans. Current controversies about the significance and proper management of such tumors could be resolved with tests for molecular markers that accurately forecast a tumor's behavior. The Food and Drug Administration has recently approved the use of a relatively simple test to assess breast cancers for their propensity to metastasize, by measuring the activities of 70 genes. While not yet perfect, such tests are welcome harbingers of a more rational basis for making crucial decisions about treatment.</p>
+        <p>These enhanced prospects for cancer care persuade me that the nation has invested wisely in the science of cancer. While we have succeeded in curing or controlling only a few advanced cancers, there is reason to believe that a new era of gene-based approaches to many cancers is at hand -- especially if we have the political will to maintain the investment.</p>
+        <p>Op-Ed Contributor Harold Varmus, the president of Memorial Sloan-Kettering Cancer Center, was the director of the National Institutes of Health during the Clinton administration and shared a Nobel prize for studies of cancer genes.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Harold Varmus, the president of Memorial Sloan-Kettering Cancer Center, was the director of the National Institutes of Health during the Clinton administration and shared a Nobel prize for studies of cancer genes.</tagline>
+    </body.end>
+  </body>
+</nitf>

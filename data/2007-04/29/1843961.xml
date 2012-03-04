@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Young Shoppers And American Values</title>
+    <meta content="l29island-1" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Long Island Weekly Desk" name="dsk"/>
+    <meta content="21" name="print_page_number"/>
+    <meta content="14LI" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1843961"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Retail Stores and Trade</classifier>
+        <classifier class="indexing_service" type="descriptor">Shopping Centers</classifier>
+        <classifier class="indexing_service" type="descriptor">Children and Youth</classifier>
+        <person class="indexing_service">Stein, L</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Long Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Shopping</classifier>
+        <classifier class="online_producer" type="general_descriptor">Shopping Centers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Retail Stores and Trade</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9403E2DD133EF93AA15757C0A9619C8B63" item-length="129" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Young Shoppers And American Values</hl1>
+      </hedline>
+      <abstract>
+        <p>L Stein letter on Lesley Jane Seymour's April 22 article on pre-teen shoppers</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Oh, please! I was so disgusted by the tone of ''Tweens 'R' Shoppers,'' by Lesley Jane Seymour (April 22), and put off by the photos of these spoiled, super-sophisticated sub-teens. If the majority of children in our country grow up with these values, we're in deep trouble.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Oh, please! I was so disgusted by the tone of ''Tweens 'R' Shoppers,'' by Lesley Jane Seymour (April 22), and put off by the photos of these spoiled, super-sophisticated sub-teens. If the majority of children in our country grow up with these values, we're in deep trouble.</p>
+        <p>Only in certain affluent communities could a child walk around with a necklace like the one on Ms. Seymour's daughter, not to mention afford one, and think that looks normal. And the idea that shopping replaces a day spent together in cooking or other some other pursuit, and helps one learn to survive, is ridiculous.</p>
+        <p>This article sends the wrong message. Parents really need to help their children grow in spirit, not in commercialism.</p>
+        <p>L. Stein  Hauppauge</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

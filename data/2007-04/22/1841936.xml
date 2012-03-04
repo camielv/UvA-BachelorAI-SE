@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Health Care Crisis</title>
+    <meta content="Letters.t-2" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1841936"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A03E4D8103FF931A15757C0A9619C8B63" item-length="425" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Health Care Crisis</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To The Editor:</p>
+        <p>In her intelligent review of Jonathan Cohn's ''Sick'' (April 8), Sally Satel refers to ''our ailing health care system.'' The United States has in fact never had a health care system: what we have is neither a system nor on the whole a promoter of health. Sadly, ''nonsystematic illness intervention'' more accurately desribes the state of American medicine.</p>
+      </block>
+      <block class="full_text">
+        <p>To The Editor:</p>
+        <p>In her intelligent review of Jonathan Cohn's ''Sick'' (April 8), Sally Satel refers to ''our ailing health care system.'' The United States has in fact never had a health care system: what we have is neither a system nor on the whole a promoter of health. Sadly, ''nonsystematic illness intervention'' more accurately desribes the state of American medicine.</p>
+        <p>Richard A. Brand, M.D.  Philadelphia</p>
+        <p>To the Editor:</p>
+        <p>In her review of ''Sick,'' Sally Satel mentions Senator Ron Wyden's plan under which ''employers would no longer provide insurance and would instead convert those costs into a bigger paycheck, enabling workers to buy private insurance from providers who would then be forced to compete for business by offering better plans.'' That would be interesting indeed, but only if employees were obliged to spend that extra money on health care. There is no proof that people getting a bigger paycheck would spend it on the things that they should. And beyond Senator Wyden's bill, every employee and student should also have healthy food choices in school and company cafeterias (and preferably no unhealthy choices), and an early education in appealing forms of exercise that can last a lifetime. Who plays football at 50?</p>
+        <p>All these issues are deeply interconnected; how we deal with health insurance needs to be linked with how we deal with health as a whole. Preventive health care is as important as health insurance.</p>
+        <p>Alison West  New York</p>
+        <p>The writer is the director of the Yoga Union Center for Backcare and Scoliosis.</p>
+        <p>To the Editor:</p>
+        <p>Both Jonathan Cohn's ''Sick'' and Sally Satel's review trot out the old bromide that empowering the individual is the way to solve our health care crisis -- you and I ought to be free to decide how best to provide for our health. Government is a bogeyman to fear. We should be free from all government control and dictates in securing insurance, and let market forces operate.</p>
+        <p>But all of us are not equal bargaining agents when we enter the marketplace. Franklin D. Roosevelt understood this when he chose to establish Social Security. He did not see government as an enemy. He realized that at times the individual needed an ally to ensure a level playing field.</p>
+        <p>Cohn and Satel would have us believe that we are most influential when we stand alone. But we need and depend upon one another. Genuine universal health care needs government to play a major role in order to succeed.</p>
+        <p>Conrad P. Rutkowski  Pomona, N.Y.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

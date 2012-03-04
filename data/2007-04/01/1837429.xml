@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Suffolk Overrules Council On Mosquito-Control Plan</title>
+    <meta content="01LIweekLI-3" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Long Island Weekly Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="14LI" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837429"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE WEEK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Mosquitoes</classifier>
+        <classifier class="indexing_service" type="descriptor">Wetlands</classifier>
+        <location class="indexing_service">Suffolk County (NY)</location>
+        <person class="indexing_service">Rather, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Long Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mosquitoes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wetlands</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insects</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E1DD1E30F932A35757C0A9619C8B63" item-length="351" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Suffolk Overrules Council On Mosquito-Control Plan</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN RATHER</byline>
+      <byline class="normalized_byline">Rather, John</byline>
+      <abstract>
+        <p>Suffolk County, NY, overruling findings by its County Council on Environmental Quality, approves long-term plan for mosquito control and wetlands management (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Suffolk County has approved a long-term plan for mosquito control and wetlands management, overruling findings by its own Council on Environmental Quality that the plan would harm wetlands and threaten marine life and human health.</p>
+        <p>The council, an advisory group that reviews the environmental impact of proposed county actions, had called in majority votes for changes that would strictly limit the use of the larvicide methoprene in salt-water tidal wetlands and require a clearer distinction between mosquito spraying for nuisance control and disease control.</p>
+      </block>
+      <block class="full_text">
+        <p>Suffolk County has approved a long-term plan for mosquito control and wetlands management, overruling findings by its own Council on Environmental Quality that the plan would harm wetlands and threaten marine life and human health.</p>
+        <p>The council, an advisory group that reviews the environmental impact of proposed county actions, had called in majority votes for changes that would strictly limit the use of the larvicide methoprene in salt-water tidal wetlands and require a clearer distinction between mosquito spraying for nuisance control and disease control.</p>
+        <p>The council majority also opposed excavating ponds in wetlands to create habitat for fish that eat mosquito larvae, calling it an unproven and damaging mosquito-control method.</p>
+        <p>Last month a majority in the County Legislature voted for a resolution adopting the plan. The county executive, Steve Levy, said last week that he would sign the measure into law. The sponsor, Vivian Viloria-Fisher, a Democrat from East Setauket, sits on the environmental council and had opposed the recommended changes as ill conceived.</p>
+        <p>Two council members who supported the changes, John E. Potente, a dentist from Hauppauge, and Lauren E. Stiles, an environmental lawyer from East Moriches, resigned from the council in protest last week. Two town representatives, from Riverhead and Southold, also resigned.</p>
+        <p>''We did the review we were assigned to do and made our recommendations, and they fell upon deaf ears,'' Dr. Potente said. He said the review took two years.</p>
+        <p>Environmental groups including the Peconic Baykeeper supported the changes. Ms. Stiles said it was the first time since the county created the council in 1970 to carry out independent environmental reviews that the legislature had ignored its recommendations.</p>
+        <p>Mr. Levy said the legislature acted properly. ''The legislators believed that banning the larvicide that destroys the mosquito eggs would lead to far more potent pesticides having to be used later to kill adult mosquitoes,'' he said, referring to methoprene. ''Our experts in the health department say eliminating that larvicide would be a major mistake.''</p>
+        <p>The plan's goal, Mr. Levy said, was to reduce pesticide use in wetlands by 75 percent over 10 years.</p>
+        <p>JOHN RATHER</p>
+        <p>THE WEEK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

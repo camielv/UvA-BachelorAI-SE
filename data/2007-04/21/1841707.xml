@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   NEMSER, STANLEY</title>
+    <meta content="dn042107.1" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1841707"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">NEMSER, STANLEY</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070421T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D01E0D71F3AF932A15757C0A9619C8B63" item-length="129" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   NEMSER, STANLEY</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>NEMSER--Stanley. His family mourns the passing of a wonderful husband to Barbara of 51 years, a proud soldier, lawyer and family man. He will be sorely missed by all those who knew and loved him. A memorial service will be held Sunday, 2 pm, at the Graham Funeral Home, 1036 Boston Post Road, Rye, NY 10580. $(6$)NEMSER--Stanley, The Dannenberg Family mourns the passing of our dear friend Stanley. We will always remember our cruises together, the dances, parties and dining. We loved hearing your wonderful stories about growing up in New York City and your service during World War II. Our hearts go out to Barbara, your wife of many years and your extended family. The Dannenberg Family, Barbara and Richard B. Sudi, Catherine, David and their Families</p>
+      </block>
+      <block class="full_text">
+        <p>NEMSER--Stanley. His family mourns the passing of a wonderful husband to Barbara of 51 years, a proud soldier, lawyer and family man. He will be sorely missed by all those who knew and loved him. A memorial service will be held Sunday, 2 pm, at the Graham Funeral Home, 1036 Boston Post Road, Rye, NY 10580. $(6$)NEMSER--Stanley, The Dannenberg Family mourns the passing of our dear friend Stanley. We will always remember our cruises together, the dances, parties and dining. We loved hearing your wonderful stories about growing up in New York City and your service during World War II. Our hearts go out to Barbara, your wife of many years and your extended family. The Dannenberg Family, Barbara and Richard B. Sudi, Catherine, David and their Families</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

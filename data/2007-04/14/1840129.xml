@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Hospital Sues Insurer, Charging Conspiracy</title>
+    <meta content="14health" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Health; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1840129"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Hospitals</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Health Insurance and Managed Care</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hospitals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Health Insurance and Managed Care</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070414T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A01E7DD103FF937A25757C0A9619C8B63" item-length="500" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Hospital Sues Insurer, Charging Conspiracy</hl1>
+      </hedline>
+      <byline class="print_byline">By RAY RIVERA</byline>
+      <byline class="normalized_byline">Rivera, Ray</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A Brooklyn hospital has sued one of the city's largest health insurers, asserting it conspired with doctors and others to wrongfully deny coverage for patients.</p>
+        <p>The suit, filed by Brookdale University Hospital and Medical Center, says the financially distressed hospital was forced to absorb a significant portion of costs that should have been paid by Health Insurance Plan of Greater New York, a managed care organization commonly known as HIP.</p>
+      </block>
+      <block class="full_text">
+        <p>A Brooklyn hospital has sued one of the city's largest health insurers, asserting it conspired with doctors and others to wrongfully deny coverage for patients.</p>
+        <p>The suit, filed by Brookdale University Hospital and Medical Center, says the financially distressed hospital was forced to absorb a significant portion of costs that should have been paid by Health Insurance Plan of Greater New York, a managed care organization commonly known as HIP.</p>
+        <p>The allegations are spelled out in a 51-page civil racketeering lawsuit filed this week in Federal District Court in Brooklyn.</p>
+        <p>HIP officials called the accusations ''profoundly dishonest and defamatory.''</p>
+        <p>''In an effort to distract attention from its own financial distress and possible mismanagement, Brookdale, through this lawsuit, defames HIP for holding Brookdale accountable to standards of appropriate care,'' the company said in an e-mail message.</p>
+        <p>The lawsuit comes as HIP, which covers about 20 percent of all city employees, is seeking state approval to become a for-profit company, a change that is being resisted by the Bloomberg administration for fear it will raise costs. A spokesman for the company said he did not expect the lawsuit to affect that effort.</p>
+        <p>The lawsuit focuses on the process HIP uses to determine what procedures are medically necessary.</p>
+        <p>Known as utilization review, that process requires that denials of coverage be approved by a physician who specializes in the treatment. The Brookdale lawsuit says HIP's denials often relied on inappropriate medical rationales that could not have been made by physicians. The lawsuit also says physicians' signatures on these denials were electronically produced and were never original.</p>
+        <p>In one example, the Brookdale lawsuit says a woman admitted in October 2006 for a malignant brain tumor was denied coverage for eight days of treatment based on standards used for treating infectious disease.</p>
+        <p>''Some of these were so off the wall that they couldn't have been reviewed by physicians,'' said David P. Rosen, president and chief executive of Brookdale and its parent company, MediSys Health Network.</p>
+        <p>The hospital lawsuit contends that at least three other companies that worked with the hospital received financial incentives to assist HIP in denying coverage. Two of the companies, Central Brooklyn Medical Group, a physicians' group that referred patients to Brookdale, and HealthCare Partners, which performed utilization reviews for some HIP members, declined to comment until they could review the lawsuit.</p>
+        <p>A third company, Cogent Healthcare, which placed doctors and nurses at the hospital, denied the allegations.</p>
+        <p>''Cogent's nurses and care team are in place at Brookdale only to monitor and improve the delivery of quality patient care,'' the company said in a statement. ''All reimbursement decisions are handled exclusively by Brookdale and HIP.''</p>
+        <p>Cogent said its doctors and nurses played no role in the financial aspects of patient care. But the lawsuit says Brookdale has documents showing that Cogent nurses instructed HIP to deny payment for part of some patients' hospital stays and that HIP commended the nurses for providing other information that helped it make coverage decisions.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

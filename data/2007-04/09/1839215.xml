@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TRANSACTIONS</title>
+    <meta content="09transaxe" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1839215"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070409T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B04E5DD1630F93AA35757C0A9619C8B63" item-length="189" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TRANSACTIONS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BASEBALL</p>
+        <p>American League  BALTIMORE ORIOLES--Placed C Ramon Hernandez on the 15-day DL, retroactive to March 31. Recalled LHP Kurt Birkins from Norfolk (IL).  YANKEES--Placed OF Hideki Matsui on the 15-day DL.</p>
+        <p>National League  CINCINNATI REDS--Activated LHP Eric Milton from the 15-day DL. Placed RHP Jared Burton to the 15-day DL.  PITTSBURGH PIRATES--Activated SS Freddy Sanchez from the 15-day DL. Optioned C Ryan Doumit to Indianapolis</p>
+        <p>(IL).</p>
+        <p>HOCKEY</p>
+        <p>N.H.L.  BOSTON BRUINS--Recalled C Nate Thompson from Providence (AHL) on an emergency basis.  COLUMBUS--Assigned F Curtis Glencross, F Geoff Platt, G Tomas Popperle, D Marc Methot and D Derrick Walser to Syracuse (AHL).</p>
+        <p>EDMONTON OILERS--Reassigned C Rob Schremp to Wilkes-Barre/Scranton (AHL).  NEW JERSEY DEVILS--Activated D Richard Matvichuk off the injury list. Assigned D Andy Greene and RW Cam Janssen to Lowell (AHL).  VANCOUVER CANUCKS--Recalled D Alex Edler from Manitoba (AHL).</p>
+        <p>WASHINGTON CAPITALS--Assigned D Mike Green, C Tomas Fleischmann, RW Eric Fehr and LW David Steckel to Hershey (AHL).</p>
+        <p>COLLEGE</p>
+        <p>LONG BEACH STATE--Named Dan Monson men's basketball coach.  MARSHALL--Named Donnie Jones men's basketball coach.</p>
+      </block>
+      <block class="full_text">
+        <p>BASEBALL</p>
+        <p>American League  BALTIMORE ORIOLES--Placed C Ramon Hernandez on the 15-day DL, retroactive to March 31. Recalled LHP Kurt Birkins from Norfolk (IL).  YANKEES--Placed OF Hideki Matsui on the 15-day DL.</p>
+        <p>National League  CINCINNATI REDS--Activated LHP Eric Milton from the 15-day DL. Placed RHP Jared Burton to the 15-day DL.  PITTSBURGH PIRATES--Activated SS Freddy Sanchez from the 15-day DL. Optioned C Ryan Doumit to Indianapolis</p>
+        <p>(IL).</p>
+        <p>HOCKEY</p>
+        <p>N.H.L.  BOSTON BRUINS--Recalled C Nate Thompson from Providence (AHL) on an emergency basis.  COLUMBUS--Assigned F Curtis Glencross, F Geoff Platt, G Tomas Popperle, D Marc Methot and D Derrick Walser to Syracuse (AHL).</p>
+        <p>EDMONTON OILERS--Reassigned C Rob Schremp to Wilkes-Barre/Scranton (AHL).  NEW JERSEY DEVILS--Activated D Richard Matvichuk off the injury list. Assigned D Andy Greene and RW Cam Janssen to Lowell (AHL).  VANCOUVER CANUCKS--Recalled D Alex Edler from Manitoba (AHL).</p>
+        <p>WASHINGTON CAPITALS--Assigned D Mike Green, C Tomas Fleischmann, RW Eric Fehr and LW David Steckel to Hershey (AHL).</p>
+        <p>COLLEGE</p>
+        <p>LONG BEACH STATE--Named Dan Monson men's basketball coach.  MARSHALL--Named Donnie Jones men's basketball coach.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

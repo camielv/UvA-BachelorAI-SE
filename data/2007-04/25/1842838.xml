@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Port Authority Is Reviving Plans for Tower Atop Bus Station</title>
+    <meta content="25terminal" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/25/nyregion/25terminal.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842838"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Plains</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Stations and Terminals (Passenger)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stations and Terminals (Passenger)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Office Buildings and Commercial Properties</classifier>
+        <location class="online_producer">Times Square and 42nd Street (NYC)</location>
+        <org class="online_producer">Port Authority of New York and New Jersey</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070425T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E05E5D8143EF936A15757C0A9619C8B63" item-length="209" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Port Authority Is Reviving Plans for Tower Atop Bus Station</hl1>
+        <hl2 class="online_headline">Port Authority Is Reviving Plans for Bus Station Tower</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Port Authority of New York and New Jersey is resurrecting plans to build a skyscraper over the north wing of the bus terminal on Eighth Avenue between 42nd and 41st Streets.</p>
+        <p>The authority plans to enter into exclusive negotiations for the next six months with the developers -- Lawrence Ruben Company and Vornado Realty Trust -- to build a 1.39-million-square-foot, glass-and-steel tower. If a deal cannot be struck, the Port Authority will allow other developers to bid. The authority's board is expected to approve the plan today.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A new agreement brings an end to litigation between the authority and the two developers.</p>
+      </block>
+      <block class="full_text">
+        <p>The Port Authority of New York and New Jersey is resurrecting plans to build a skyscraper over the north wing of the bus terminal on Eighth Avenue between 42nd and 41st Streets.</p>
+        <p>The authority plans to enter into exclusive negotiations for the next six months with the developers -- Lawrence Ruben Company and Vornado Realty Trust -- to build a 1.39-million-square-foot, glass-and-steel tower. If a deal cannot be struck, the Port Authority will allow other developers to bid. The authority's board is expected to approve the plan today.</p>
+        <p>The new agreement revives an eight-year-old project and brings an end to litigation between the authority and the two developers. After a competition in 1999, the Port Authority selected Vornado and the Lawrence Ruben Company to build a $500 million office tower with large electronic signs.</p>
+        <p>The developers agreed to pay more than $110 million for the development rights and to renovate the terminal's north wing. But the project fell by the wayside in 2001 after the dot-com collapse and a decline in the economy. Shortly after, Vornado sued the authority in an attempt to retain control of the project.</p>
+        <p>Late last year, Steven Roth, chairman of Vornado, approached the authority's chairman, Anthony R. Coscia, about settling the litigation and restarting the project.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>SALLIE MAE ACQUISITION</title>
+    <meta content="21five-2" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Education; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1841822"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="FIVE DAYS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <org class="indexing_service">Slm Corp</org>
+        <org class="indexing_service">Flowers, J C, Co</org>
+        <org class="indexing_service">Friedman Fleischer &amp; Lowe</org>
+        <org class="indexing_service">Morgan, J P, Chase &amp; Co</org>
+        <org class="indexing_service">Bank of America</org>
+        <person class="indexing_service">De La Merced, Michael J</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070421T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9401E5D9163EF932A15757C0A9619C8B63" item-length="258" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>SALLIE MAE ACQUISITION</hl1>
+      </hedline>
+      <byline class="print_byline">By MICHAEL J. de la MERCED</byline>
+      <byline class="normalized_byline">De La Merced, Michael J</byline>
+      <abstract>
+        <p>Five Days:</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BLACKBERRY users' thumbs were idle; private equity investors got a thumbs up from Sallie Mae; and a jury turned thumbs down on Joseph P. Nacchio, the former chief executive of Qwest.</p>
+        <p>Sallie Mae, the nation's largest lender to students, agreed on Monday to a $25 billion buyout by two private equity firms and two banks, in the largest such deal ever involving a financial services company.</p>
+      </block>
+      <block class="full_text">
+        <p>BLACKBERRY users' thumbs were idle; private equity investors got a thumbs up from Sallie Mae; and a jury turned thumbs down on Joseph P. Nacchio, the former chief executive of Qwest.</p>
+        <p>Sallie Mae, the nation's largest lender to students, agreed on Monday to a $25 billion buyout by two private equity firms and two banks, in the largest such deal ever involving a financial services company.</p>
+        <p>The deal, by J. C. Flowers &amp; Company, Friedman Fleischer &amp; Lowe and the banks JPMorgan Chase and Bank of America, showcases the growing appetite of private equity firms for deal-making.</p>
+        <p>Over the last year, Sallie Mae, which holds a $142 billion loan portfolio, has faced mounting challenges as a public company. Federal and state lawmakers are closely scrutinizing the student lending industry's relationship with colleges. And both Congress and President Bush have proposed cutting the federal subsidies that have fueled Sallie Mae's 35-year growth.</p>
+        <p>Once considered off limits because of their limited ability to take on debt, financial-services firms may become the newest targets in private equity's buying spree.</p>
+        <p>MICHAEL J. de la MERCED</p>
+        <p>MOST POPULAR -- Following are the most-popular business news articles on nytimes.com from April 14 through April 20:  1. I.R.S. Audits Middle Class More Often, More Quickly  2. Pill That Eliminates the Period Gets Mixed Reviews  3. Housing Slump Takes a Toll on Illegal Immigrants  4. Baby on Board, and a Photography Business, Too  5. Stung by a Fraud Indictment, a Power Broker Punches Back  Links are at nytimes.com/business.</p>
+        <p>FIVE DAYS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

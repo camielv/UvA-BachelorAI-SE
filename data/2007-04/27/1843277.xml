@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Art in Review; Elaine Smollin</title>
+    <meta content="27gall-4" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="28" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1843277"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070427T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04E6DD123EF934A15757C0A9619C8B63" item-length="276" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Art in Review; Elaine Smollin</hl1>
+      </hedline>
+      <byline class="print_byline">By MARTHA SCHWENDENER</byline>
+      <byline class="normalized_byline">Schwendener, Martha</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Drawings From Palisades, Scenes From the Life of Charon  Kentler International Drawing Space  353 Van Brunt Street, Red Hook, Brooklyn  Through May 6</p>
+        <p>Elaine Smollin's works on paper sound great on paper. She makes multipanel charcoal drawings on thick watercolor fiber. She creates the charcoal herself from cherry, elm, willow and birch trees near her home in Palisades, N.Y. According to the gallery, Ms. Smollin even returns and rearranges panels, so the drawings remain in flux rather than being static or ''finished.''</p>
+      </block>
+      <block class="full_text">
+        <p>Drawings From Palisades, Scenes From the Life of Charon  Kentler International Drawing Space  353 Van Brunt Street, Red Hook, Brooklyn  Through May 6</p>
+        <p>Elaine Smollin's works on paper sound great on paper. She makes multipanel charcoal drawings on thick watercolor fiber. She creates the charcoal herself from cherry, elm, willow and birch trees near her home in Palisades, N.Y. According to the gallery, Ms. Smollin even returns and rearranges panels, so the drawings remain in flux rather than being static or ''finished.''</p>
+        <p>Ms. Smollin's sources are varied, befitting an artist who has worked as an archaeologist, studied film theory at New York University and taught social anthropology. Wandering marks, handprints and smudges bring to mind cave paintings, blown-up snippets of Leonardo da Vinci's notebooks, the gestures of Abstract Expressionism and Chinese landscape painting.</p>
+        <p>The title of this series also nods to Greek mythology. Charon, the ferryman who carried the souls of the dead across the River Acheron, appears in two works as a small figure drawn in outline and connected by a simple charcoal line to an ancient, multi-oared ship.</p>
+        <p>Ms. Smollin's works are scattered with satisfying passages that demonstrate her range and the restless nature of her eye. Her work, however, would benefit from more space than it is afforded here. Photographs of a sprawling mural, taken in her studio and reproduced in a gallery handout and on the gallery's Web site, kentlergallery.org, suggest that in a setting where Ms. Smollin was free to stretch out, her drawings would arrive at something grander and less provisional -- something more like scenes instead of just sketches from the life of Charon.</p>
+        <p>MARTHA SCHWENDENER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

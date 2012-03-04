@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Panel Says Computer Error Felled Mars Orbiter</title>
+    <meta content="14mars" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/14/science/space/14mars.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840079"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Space</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Mars Global Surveyor</classifier>
+        <location class="indexing_service">Mars (Planet)</location>
+        <org class="indexing_service">National Aeronautics and Space Administration</org>
+        <person class="indexing_service">Chang, Kenneth</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Space</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+        <org class="online_producer">National Aeronautics and Space Administration</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070414T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE1DF103FF937A25757C0A9619C8B63" item-length="433" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Panel Says Computer Error Felled Mars Orbiter</hl1>
+        <hl2 class="online_headline">Panel Says Computer Error Felled Mars Orbiter</hl2>
+      </hedline>
+      <byline class="print_byline">By KENNETH CHANG</byline>
+      <byline class="normalized_byline">Chang, Kenneth</byline>
+      <abstract>
+        <p>NASA review board concludes that loss of Mars Global Surveyor was result of series of events linked to computer error (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Although it circled Mars longer than any other spacecraft, the Mars Global Surveyor did not die a death of old age last November, a review board assembled by NASA announced yesterday.</p>
+        <p>Instead, an errant computer command five months earlier had been placed in the wrong location of the computer memory for the spacecraft. That, in effect, implanted a fatal defect in the spacecraft, disabling a safety feature to prevent the solar panels from rotating too far and mangling its ability to communicate with Earth in case of a mishap.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>An errant command placed in the wrong location of the Mars Global Surveyor’s computer memory implanted a fatal defect in the spacecraft.</p>
+      </block>
+      <block class="full_text">
+        <p>Although it circled Mars longer than any other spacecraft, the Mars Global Surveyor did not die a death of old age last November, a review board assembled by NASA announced yesterday.</p>
+        <p>Instead, an errant computer command five months earlier had been placed in the wrong location of the computer memory for the spacecraft. That, in effect, implanted a fatal defect in the spacecraft, disabling a safety feature to prevent the solar panels from rotating too far and mangling its ability to communicate with Earth in case of a mishap.</p>
+        <p>Last Nov. 2 , a run-of-the-mill command to the Global Surveyor set off the latent time bomb. Because the safety feature had been disabled, the solar panels rotated as far as they could, causing the spacecraft to ''think'' erroneously that the panels had jammed.</p>
+        <p>In its last 13-minute contact, the Global Surveyor reported numerous alarms to mission controllers but gave no indication that it was in immediate danger.</p>
+        <p>As the spacecraft tried to recover, it ended up in an orientation such that the Sun was shining directly on a battery, causing it to overheat. The Global Surveyor misinterpreted that signal, sensing that it had overcharged the battery and stopped charging its other battery, as well.</p>
+        <p>Meanwhile, because the June error caused the craft's antenna to point in the wrong direction, mission controllers on Earth could not get in touch with the craft again.</p>
+        <p>''It was a sort of unfortunate concatenation of events,'' said Dolly Perkins, deputy director-technical of the NASA Goddard Space Flight Center in Greenbelt, Md., who was chairwoman of the review board.</p>
+        <p>Within half a day, the Global Surveyor batteries drained dead.</p>
+        <p>The chain of events leading to the craft's doom started in September 2005 on a routine technical update. For redundancy, the information was copied to two separate locations in the computer memory, but at different times with slightly different values. That led to a slight inconsistency, and when the engineers tried to repair that in June, they caused the bigger problem.</p>
+        <p>The review board said that the mission team had properly followed its procedures, but that the procedures were inadequate and that more thorough checks of its commands could have found the errors before they were sent to the spacecraft.</p>
+        <p>The Mars Global Surveyor was launched in 1996 and arrived at Mars 10 months later. After gradually moving into a circular orbit, its science mission started in March 1999 and was to last one Martian year, or 687 Earth days, until January 2001. But the spacecraft continued operating long after that, sending back more than 240,000 photographs.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

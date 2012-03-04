@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Roscoe Lee Browne Service</title>
+    <meta content="19browne" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1841343"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070419T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E4D91E3FF93AA25757C0A9619C8B63" item-length="78" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Roscoe Lee Browne Service</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A memorial service for the stage and screen actor Roscoe Lee Browne is scheduled for 6 p.m. Sunday at the Church of St. Charles Borromeo, 211 West 141st Street, in Harlem. Mr. Browne, 81, died on April 11.</p>
+      </block>
+      <block class="full_text">
+        <p>A memorial service for the stage and screen actor Roscoe Lee Browne is scheduled for 6 p.m. Sunday at the Church of St. Charles Borromeo, 211 West 141st Street, in Harlem. Mr. Browne, 81, died on April 11.</p>
+        <p>The service is open to the public and is to include remarks by the actors Tyne Daly, Campbell Scott and Lee Grant; a speech via video by the writer Maya Angelou; and a performance by the alto saxophonist Richie Cole.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

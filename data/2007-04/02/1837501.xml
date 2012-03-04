@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Winning Audition for Maytag Repairman</title>
+    <meta content="02maytag" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/02/business/media/02maytag.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837501"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="descriptor">Actors and Actresses</classifier>
+        <classifier class="online_producer" type="general_descriptor">Home Appliances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Actors and Actresses</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <org class="online_producer">Maytag Corporation</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070402T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04EFD91E30F931A35757C0A9619C8B63" item-length="364" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Winning Audition for Maytag Repairman</hl1>
+        <hl2 class="online_headline">A Winning Audition for Maytag Repairman</hl2>
+      </hedline>
+      <byline class="print_byline">By STUART ELLIOTT</byline>
+      <byline class="normalized_byline">Elliott, Stuart</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Maytag is going in another direction to find someone to portray its familiar advertising character.</p>
+        <p>At a news conference today in Midtown Manhattan, Clay Jackson is to be introduced as the new Maytag repairman. Unlike his three predecessors, the tall (6 feet, 6 inches) Mr. Jackson is not an experienced actor.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Maytag will introduce Clay Jackson, who has been a real estate agent in Virginia, as the new Maytag repairman.</p>
+      </block>
+      <block class="full_text">
+        <p>Maytag is going in another direction to find someone to portray its familiar advertising character.</p>
+        <p>At a news conference today in Midtown Manhattan, Clay Jackson is to be introduced as the new Maytag repairman. Unlike his three predecessors, the tall (6 feet, 6 inches) Mr. Jackson is not an experienced actor.</p>
+        <p>Indeed, according to his biography, Mr. Jackson, who is 33, last worked as an actor in 2000 and has for the last several years been a real estate agent in Richmond, Va., at a company owned by his family.</p>
+        <p>The three actors who previously portrayed Ol' Lonely, as the character is called in national campaigns, are Jesse White, 1967-88; Gordon Jump (better known as Mr. Carlson on WKRP in Cincinnati), 1989-2003; and Hardy Rawls, 2003-7.</p>
+        <p>When Mr. Rawls's contract expired, executives at Maytag and its three marketing agencies decided to expand the auditions for a replacement beyond professional actors. There were live auditions in Chicago, Los Angeles and New York and -- in the vein of the recent NBC reality series, ''Grease: You're the One That I Want'' -- they were open to pros and amateurs alike. The process was even chronicled on a Web site(nextmaytagrepairman.com).</p>
+        <p>The character ''is more than an advertising icon; he's part of popular culture,'' said Jeffrey Davidoff, vice president for Maytag brand marketing at the parent Whirlpool Corporation in Benton Harbor, Mich. ''If that's the case, why not let the public take part in the search?''</p>
+        <p>The field of more than 1,500 contenders was culled through two callbacks to 80 people, Mr. Davidoff said, then winnowed in March to four actors and two neophytes. Mr. Jackson, who tried out at the New York audition on a whim, was selected because he can not only ''play the character,'' Mr. Davidoff said, but personally embodied the Maytag attributes of ''reliability and dependability.''</p>
+        <p>He will be featured in television, radio, print and online ads and will make more than 100 public appearances each year. He will help change the character's persona, Mr. Davidoff said, from someone ''who had nothing to do,'' because Maytag appliances needed few repairs, to someone who ''is out and about because he wants to fix things.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

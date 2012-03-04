@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Deal Expected From Nestlé To Buy Gerber For $5 Billion</title>
+    <meta content="12gerber" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/12/business/12gerber.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1839701"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Babies</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <org class="online_producer">Nestle SA</org>
+        <org class="online_producer">Novartis</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070412T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F00E0DA123FF931A25757C0A9619C8B63" item-length="405" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Deal Expected From Nestlé To Buy Gerber For $5 Billion</hl1>
+        <hl2 class="online_headline">Deal Expected From Nestlé to Buy Gerber for $5 Billion</hl2>
+      </hedline>
+      <byline class="print_byline">By ANDREW MARTIN and ANDREW ROSS SORKIN</byline>
+      <byline class="normalized_byline">Sorkin, Andrew Ross; Martin, Andrew</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Nestlé, the world's largest food company, is expected to announce today that it is buying the baby food giant Gerber for an estimated $5 billion, people involved in the transaction said yesterday.</p>
+        <p>Gerber, famous for its Gerber Baby ads, is currently owned by Novartis, the Swiss-based company that has been selling noncore businesses in recent years to focus on health care.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Nestlé is expected to announce that it is buying the baby food giant currently owned by Novartis, a Swiss-based company.</p>
+      </block>
+      <block class="full_text">
+        <p>Nestlé, the world's largest food company, is expected to announce today that it is buying the baby food giant Gerber for an estimated $5 billion, people involved in the transaction said yesterday.</p>
+        <p>Gerber, famous for its Gerber Baby ads, is currently owned by Novartis, the Swiss-based company that has been selling noncore businesses in recent years to focus on health care.</p>
+        <p>The deal has been widely anticipated since late last year, when Nestlé announced a deal to purchase Novartis Medical Nutrition for $2.5 billion, and it fits with Nestlé's strategy to focus on products in the health and wellness category.</p>
+        <p>Nestlé already has a huge infant- nutrition business in Europe, Asia and Latin America. But in the United States, the $900-million-a-year baby food business is dominated by Gerber, which controls 81 percent of the market, said John McMillin, an analyst for the Prudential Equity Group.</p>
+        <p>Nestlé already has a stake in the $2-billion-a-year market in America for infant formula; it owns Good Start infant formulas.</p>
+        <p>''The acquisition of Gerber from Novartis would be a positive for Nestlé in our view,'' an analyst at JPMorgan, Arnaud Langlois, wrote in a note to investors in January.</p>
+        <p>''We think Nestlé would have the potential to generate significant cost savings from such an acquisition,'' Mr. Langlois wrote, ''and we believe its know-how in baby food should allow a decent amount of top-line synergies to be generated.''</p>
+        <p>Mr. McMillan said Gerber had struggled to diversify into other areas, including apparel, food for toddlers and life insurance. While the baby food business generates lots of cash and has tremendous brand loyalty, growth is hard because of stagnant birth rates, he said.</p>
+        <p>Nestlé, based in Vevey, Switzerland, would probably try to expand the Gerber business, Mr. McMillan said, by fortifying baby food with antioxidants or other beneficial ingredients in much the same way that yogurt is being fortified with beneficial bacteria.</p>
+        <p>''Historically you were just kind of feeding beets to a baby,'' he said. ''Now the hope is to deliver health and wellness and real benefits.''</p>
+        <p>Gerber, based in Fremont, Mich., was started in 1927 when Dorothy Gerber persuaded her husband, Daniel, to try canning strained food for babies at the family company, Fremont Canning. The next year, the company introduced strained peas, prunes, carrots and spinach.</p>
+        <p>Gerber's product line now includes 190 food products, including an organic line of baby food introduced last year.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

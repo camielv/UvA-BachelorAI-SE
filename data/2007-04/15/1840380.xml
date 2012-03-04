@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Art vs. the Artist</title>
+    <meta content="15alsmail-1" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1840380"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="HANDEL AND THE JEWS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <person class="indexing_service">Feldman, David E</person>
+        <person class="indexing_service">Handel, George Frederick (1685-1759)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9905E0D8123FF936A25757C0A9619C8B63" item-length="134" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Art vs. the Artist</hl1>
+      </hedline>
+      <abstract>
+        <p>David E Feldman letter about April 8 article on Handel's Messiah says work of art can transcend sins of its creator (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Unsettling History of That Joyous 'Hallelujah' '' [April 8]:</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Unsettling History of That Joyous 'Hallelujah' '' [April 8]:</p>
+        <p>In his article Michael Marissen seems to require listening to Handel's ''Messiah'' in its (apparently) anti-Semitic historical context. Would Mr. Marissen plumb every belief of Mozart, Leonardo, Monet, et al.? These are not art machines but humans, subject to the influences of time and place. More importantly, is art inseparable from artist? Some of us may choose not to listen to, say, Wagner (and now, Handel) because of the pain we may feel in connection with the artist's tainted beliefs. But is it not the triumph of art that creation can transcend the sins of the creator and unite as joyous observers precisely those whom the artists (and perhaps the essayist) would separate?</p>
+        <p>David E. Feldman  Long Beach, N.Y.</p>
+        <p>HANDEL AND THE JEWS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

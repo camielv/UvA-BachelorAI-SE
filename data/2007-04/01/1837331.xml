@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>BUFFETTBALL</title>
+    <meta content="01suits-5" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837331"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="OPENERS: SUITS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Suits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball/National Basketball Association/Cleveland Cavaliers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Basketball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04E7D81130F932A35757C0A9619C8B63" item-length="103" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>BUFFETTBALL</hl1>
+      </hedline>
+      <byline class="print_byline">By ELIZABETH OLSON</byline>
+      <byline class="normalized_byline">Olson, Elizabeth</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The two bonded over a cheeseburger lunch last fall in Omaha: the éminence grise of investing, Warren E. Buffett, and the Cleveland Cavaliers all-star forward LeBron James. And last Sunday there was Mr. Buffett in Cleveland, wearing a sparkly T-shirt and attending his first N.B.A. game in years.</p>
+        <p>A few years and some billions separate the two men -- Mr. Buffett is 76 and worth an estimated $52 billion, and Mr. James, 22, who signed a three-year, $60 million contract extension in July, has endorsement deals worth about $150 million.</p>
+      </block>
+      <block class="full_text">
+        <p>The two bonded over a cheeseburger lunch last fall in Omaha: the éminence grise of investing, Warren E. Buffett, and the Cleveland Cavaliers all-star forward LeBron James. And last Sunday there was Mr. Buffett in Cleveland, wearing a sparkly T-shirt and attending his first N.B.A. game in years.</p>
+        <p>A few years and some billions separate the two men -- Mr. Buffett is 76 and worth an estimated $52 billion, and Mr. James, 22, who signed a three-year, $60 million contract extension in July, has endorsement deals worth about $150 million.</p>
+        <p>Last week's score: Denver Nuggets, 105, Cleveland Cavaliers, 93.</p>
+        <p>ELIZABETH OLSON</p>
+        <p>OPENERS: SUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

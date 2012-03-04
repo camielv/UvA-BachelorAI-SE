@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>2 Democrats Avoid Debate on Fox News</title>
+    <meta content="10PIntro" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1839296"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE CAUCUS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Presidential Election of 2008</classifier>
+        <classifier class="indexing_service" type="descriptor">Debating</classifier>
+        <classifier class="indexing_service" type="descriptor">Boycotts</classifier>
+        <classifier class="indexing_service" type="descriptor">News and News Media</classifier>
+        <org class="indexing_service">Fox News Channel</org>
+        <org class="indexing_service">Congressional Black Caucus</org>
+        <person class="indexing_service">Phillips, Kate</person>
+        <person class="indexing_service">Obama, Barack (Sen)</person>
+        <person class="indexing_service">Clinton, Hillary Rodham (Sen)</person>
+        <person class="indexing_service">Edwards, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates/John Edwards</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008/Candidates</classifier>
+        <classifier class="online_producer" type="general_descriptor">Debating</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Boycotts</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070410T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9800E7DC153FF933A25757C0A9619C8B63" item-length="252" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>2 Democrats Avoid Debate on Fox News</hl1>
+      </hedline>
+      <byline class="print_byline">By KATE PHILLIPS</byline>
+      <byline class="normalized_byline">Phillips, Kate</byline>
+      <abstract>
+        <p>Sens Barack Obama and Hillary Rodham Clinton join John Edwards in shunning debate that Congressional Black Caucus and Fox News scheduled for September in Detroit; move is bow to liberal online groups who demand that Democratic candidates boycott network's events; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Senators Barack Obama and Hillary Rodham Clinton yesterday joined John Edwards in shunning a debate that the Congressional Black Caucus and Fox News had scheduled for September in Detroit, a bow to liberal online groups who have demanded that Democratic candidates boycott the network's events. Neither the Obama nor the Clinton campaign criticized Fox in confirming that the candidates would not appear at the debate. Mr. Obama's camp said he would be in a debate in January sponsored by the black caucus and CNN.</p>
+        <p>''CNN seemed like a more appropriate venue,'' said Bill Burton, Mr. Obama's spokesman.</p>
+      </block>
+      <block class="full_text">
+        <p>Senators Barack Obama and Hillary Rodham Clinton yesterday joined John Edwards in shunning a debate that the Congressional Black Caucus and Fox News had scheduled for September in Detroit, a bow to liberal online groups who have demanded that Democratic candidates boycott the network's events. Neither the Obama nor the Clinton campaign criticized Fox in confirming that the candidates would not appear at the debate. Mr. Obama's camp said he would be in a debate in January sponsored by the black caucus and CNN.</p>
+        <p>''CNN seemed like a more appropriate venue,'' said Bill Burton, Mr. Obama's spokesman.</p>
+        <p>Phil Singer, spokesman for Mrs. Clinton's campaign, said she would be at the April 26 debate among Democrats in South Carolina. That is the home state of Congressman James E. Clyburn, a leader in the black caucus and the House majority whip.</p>
+        <p>After pressing Nevada Democrats to cancel a debate with Fox last month, Democratic activists wondered whether the top-tier Democratic candidates would be hesitant to take the same step if it meant potentially offending members of the black caucus, and by extension black voters.</p>
+        <p>The candidates' decisions -- which followed the Democratic Party's announcement last week that it would shut Fox News out of its six debates, one a month starting in July -- reflected the depth of the antagonism toward Fox in Democratic circles.</p>
+        <p>A Fox spokesman could not be reached for comment. Candice Tolliver, a spokeswoman for the caucus, could not say how the candidates' decision would affect the event.</p>
+        <p>KATE PHILLIPS</p>
+        <p>THE CAUCUS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

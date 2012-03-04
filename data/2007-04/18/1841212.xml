@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; Mamet Sells 'Junk' To University of Texas</title>
+    <meta content="18arts-1" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts; Theater" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1841212"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Southwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features/People</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features/People/David Mamet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070418T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE3DB1E3FF93BA25757C0A9619C8B63" item-length="173" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; Mamet Sells 'Junk' To University of Texas</hl1>
+      </hedline>
+      <byline class="print_byline">By RALPH BLUMENTHAL; Compiled by Lawrence Van Gelder</byline>
+      <byline class="normalized_byline">Blumenthal, Ralph</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Who: David Mamet. What: scrawlings from a 1975 journal. ''David, you absolutely must complete a draft of Buffalo by 1 June. June. You want to be a pauper all your life?'' That and other intimate glimpses into the creative processes of Mr. Mamet, one of the nation's most acclaimed and prolific playwrights, is to be found in more than 100 boxes of diaries, manuscripts, drafts and production files just acquired from the author for an undisclosed sum by the Harry Ransom Humanities Research Center at the University of Texas in Austin. ''Why, I wondered, had I collected this mass of junk, none of which I ever wanted to see again?'' said Mr. Mamet, 59, famous for his brawny, clipped dialogue in scripts and screenplays including ''American Buffalo,'' ''Glengarry Glen Ross,'' ''The Untouchables,'' ''The Spanish Prisoner'' and ''Wag the Dog.'' ''I dunno.'' But he said in a statement that he was flattered. ''Anybody who is interested in my work is 'O.K. with me.' ''</p>
+        <p>RALPH BLUMENTHAL</p>
+      </block>
+      <block class="full_text">
+        <p>Who: David Mamet. What: scrawlings from a 1975 journal. ''David, you absolutely must complete a draft of Buffalo by 1 June. June. You want to be a pauper all your life?'' That and other intimate glimpses into the creative processes of Mr. Mamet, one of the nation's most acclaimed and prolific playwrights, is to be found in more than 100 boxes of diaries, manuscripts, drafts and production files just acquired from the author for an undisclosed sum by the Harry Ransom Humanities Research Center at the University of Texas in Austin. ''Why, I wondered, had I collected this mass of junk, none of which I ever wanted to see again?'' said Mr. Mamet, 59, famous for his brawny, clipped dialogue in scripts and screenplays including ''American Buffalo,'' ''Glengarry Glen Ross,'' ''The Untouchables,'' ''The Spanish Prisoner'' and ''Wag the Dog.'' ''I dunno.'' But he said in a statement that he was flattered. ''Anybody who is interested in my work is 'O.K. with me.' ''</p>
+        <p>RALPH BLUMENTHAL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

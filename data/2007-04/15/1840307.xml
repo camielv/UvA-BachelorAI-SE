@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>If It's Good, Is It Too Good to Be True?</title>
+    <meta content="15pracdeals" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Travel" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/15/travel/15pracdeals.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840307"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="PRACTICAL TRAVELER: ONLINE FARES"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <person class="indexing_service">Higgins, Michelle</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Columns/Practical Traveler</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="descriptor">Travel and Vacations</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0DE3DD153FF936A25757C0A9619C8B63" item-length="1098" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>If It's Good, Is It Too Good to Be True?</hl1>
+        <hl2 class="online_headline">If It’s Good, Is It Too Good to Be True?</hl2>
+      </hedline>
+      <byline class="print_byline">By MICHELLE HIGGINS</byline>
+      <byline class="normalized_byline">Higgins, Michelle</byline>
+      <abstract>
+        <p>Michelle Higgins Practical Traveler column on growing number of Web sites that offer help in finding rock-bottom airfares that are actually available for purchase; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>''HOT London deals on Virgin Atlantic -- $516.'' ''Fares For Less Than $200 Round-Trip! -- $83.'' ''Fly anywhere and save! World-wide fare sale: Roundtrip from $95+.''</p>
+        <p>These were just a few of the deals advertised on popular travel Web sites in the last few weeks. All of them came with a good amount of fine print detailing blackout dates or other restrictions. Not one of them was actually available when put to the test in a recent search. And each of them was easily bested by comparing rates on other Web sites or simply by widening the search to include other airlines on the same Web site.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The fare today is great, but it might go lower. New Web site features explain the odds.</p>
+      </block>
+      <block class="full_text">
+        <p>''HOT London deals on Virgin Atlantic -- $516.'' ''Fares For Less Than $200 Round-Trip! -- $83.'' ''Fly anywhere and save! World-wide fare sale: Roundtrip from $95+.''</p>
+        <p>These were just a few of the deals advertised on popular travel Web sites in the last few weeks. All of them came with a good amount of fine print detailing blackout dates or other restrictions. Not one of them was actually available when put to the test in a recent search. And each of them was easily bested by comparing rates on other Web sites or simply by widening the search to include other airlines on the same Web site.</p>
+        <p>Anyone who has searched in vain for low fares hyped all over the Internet knows the feeling -- and the questions. Why couldn't I find that advertised fare? Perhaps I picked the wrong dates or came across the deal too late? Maybe the plane sold out or there were just a couple of seats available at that rate? Was the fare ever there?</p>
+        <p>As more people turn to the Web to book their trips, travel companies are trying to lure them in with Web marketing for fare sales, cut rates and other deals. So how is a traveler to know what's a deal and what's marketing hype?</p>
+        <p>A growing number of Web sites are offering help. Last month Farecast.com, which predicts domestic ticket prices for air travelers, introduced Farecast Deals, a service that uses the site's stock of historical airfare prices and sophisticated data-mining techniques to find bargains it says are ''based on science, not marketing.''</p>
+        <p>''So many different Web sites out there are offering quote unquote deals,'' said Hugh Crean, chief executive of Farecast. ''What you've seen in the past on deals is really what a brand really wants to promote from a marketing standpoint, distressed inventory or something with not a lot of availability out there.''</p>
+        <p>Farecast first searches for the absolute lowest fare between two cities in the next 90 days. Once it finds that, the site compares that low fare to all the airfares it has on record to see how it stacks up. Then it offers some perspective on why it's a deal, by showing how much that low airfare saves you, on average, compared with fares previously available for purchase.</p>
+        <p>For example, travelers looking for cheap flights departing from New York will find a list of low fares to various destinations, each with an explanation of what makes it a bargain. A $198 fare from New York to Las Vegas was listed recently as ''$107 off the average low found today.'' A $237 ticket from New York to Los Angeles was described as ''$94 less than average low on record.'' The listing of a $111 ticket from New York to Dallas was accompanied by the words ''record low -- act fast.''</p>
+        <p>CLICKING on that fare pulled up a chart highlighting the dates when the $111 ticket was available. You could get it if you left on Tuesday, April 17, and came back on Tuesday, April 24. But returning two days earlier raised the fare to $232. To help travelers decide when to push the buy button, an arrow shows whether the price of the deal is rising, dropping or holding steady.</p>
+        <p>Farecast currently identifies deals from just 26 cities within the United States, under a range of categories including weekends, last-minute trips, family getaways and top deals.</p>
+        <p>Over the last year or so, other Web sites have offered new informational features to help ticket buyers. FareCompare.com shows the lowest prices offered by month for the next 11 months between 77,000 North American and 200,000 international cities. It also offers ratings of one to four stars for fares within the United States and Canada based on more than two years of fare history. A ''Fare Trend'' graph shows whether the prices have been going up, going down or holding steady.</p>
+        <p>For example, in a recent search, the lowest price available for a round-trip ticket in April between Washington and Miami priced out at $105. That's less than last year, when the lowest prices available for April were roughly between $170 and $200, according to the site.</p>
+        <p>In a couple of months the company plans to begin a Best Time to Buy database, which will offer airfares over the next 47 weeks and show precisely the best time to buy a ticket for your trip, based on what proved to be the ideal time for the same itinerary last year and the year before.</p>
+        <p>''To me that's the holy grail of tools,'' said Rick Seaney, the chief executive of FareCompare. While fares don't always follow the same exact pattern, he said, ''it will be a pretty good harbinger of what's going to happen this year because the airlines are creatures of habit.''</p>
+        <p>Kayak.com lets airfare shoppers compare historical data for prices and itineraries in a couple of ways. Its Best Fare Trend graph, which comes up with most fare searches, tracks the cheapest fares found by other Kayak users within the last 90 days for more than a million combinations of city pairs and dates. Its Best Fare History, which shows up to 100 best prices found by Kayak users searching the same route over the last 36 hours, takes a little more digging to get to. Click on Buzz at the top of the page and perform a search. Then click on ''show fares'' to get the history.</p>
+        <p>All this technology can help consumers beat the airlines at their own fare games. But even the best travel search engines sometimes miss deals.</p>
+        <p>Airfarewatchdog.com aims for less fallible results as it scours the Internet for the best bargains out there, including low fares that airlines often reserve for bookings only through their own Web sites. While most airfare comparison sites use computer programs to find and list low fares, Airfare Watchdog says it uses real people to search the Internet and uncover airfares that computers tend to miss, like those from Southwest Airlines and other discount carriers. Fares are tested to see if the advertised deal is still available and whether so-called deals are truly good bargains. And George Hobica, who created the site, isn't shy about pointing out when an advertised sale isn't much of a bargain.</p>
+        <p>Last month, after testing United's Jolly Old London sale against prices at other airlines, he pointed out on his Airfare Watchdog blog that some of those others were offering better deals. The bottom line: ''Clearly, this isn't much of a sale,'' he said. ''We'd skip it if we were you.''</p>
+        <p>PRACTICAL TRAVELER: ONLINE FARES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

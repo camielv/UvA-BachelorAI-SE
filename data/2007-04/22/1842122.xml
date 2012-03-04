@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Not Having a Lease Can Be a Good Thing</title>
+    <meta content="22home" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Real Estate Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="11" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Real Estate" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1842122"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="YOUR HOME"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Housing</classifier>
+        <classifier class="indexing_service" type="descriptor">Renting and Leasing</classifier>
+        <person class="indexing_service">Romano, Jay</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Columns/Your Home</classifier>
+        <classifier class="online_producer" type="general_descriptor">Renting and Leasing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9407E2D91F3FF931A15757C0A9619C8B63" item-length="626" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Not Having a Lease Can Be a Good Thing</hl1>
+      </hedline>
+      <byline class="print_byline">By JAY ROMANO</byline>
+      <byline class="normalized_byline">Romano, Jay</byline>
+      <abstract>
+        <p>Your Home column on pros and cons of renting without lease; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>TO lease or not to lease. That is a question that landlords and tenants must answer whenever a market-rate apartment is being rented.</p>
+        <p>And while the landlord's preference will usually prevail, real estate lawyers say that it is not uncommon for both landlords and tenants to be wary of signing a lease, particularly for rentals in buildings outside Manhattan. The choice can have legal ramifications.</p>
+      </block>
+      <block class="full_text">
+        <p>TO lease or not to lease. That is a question that landlords and tenants must answer whenever a market-rate apartment is being rented.</p>
+        <p>And while the landlord's preference will usually prevail, real estate lawyers say that it is not uncommon for both landlords and tenants to be wary of signing a lease, particularly for rentals in buildings outside Manhattan. The choice can have legal ramifications.</p>
+        <p>''Not all owners, particularly owners of smaller buildings like brownstones and two- and three-family homes in the outer boroughs, feel comfortable signing a lease,'' said Lucas A. Ferrara, a Manhattan real estate lawyer. ''And not all tenants are that comfortable with a lease, either.''</p>
+        <p>That, Mr. Ferrara said, ''is because many people do not appreciate the legal nuances or jargon and often opt to operate on a handshake.''</p>
+        <p>Dov Treiman, a Manhattan lawyer who represents both landlords and tenants, said the basic question tenants must answer when deciding whether to sign a lease is: ''Do I want risk and freedom, or do I want security and stability?''</p>
+        <p>When tenants agree to a rental on a handshake, they can walk away from the apartment whenever they want to. This could be important for people whose jobs require them to move frequently, for people who are ''trying out'' a particular area or for people who are renting while they are looking for something to buy.</p>
+        <p>At the same time, Mr. Treiman said, tenants without a lease are subject to increases in the rent or even termination of the tenancy on 30 days' notice.</p>
+        <p>But when tenants sign a lease, they are locking in the rent, the length and the terms of the tenancy.</p>
+        <p>And the terms can cut both ways. For example, when tenants break the lease, they are liable for rent lost by the landlord. While residential landlords in Brooklyn, Queens and Staten Island have been required by some courts to minimize that liability by trying to rerent the apartment, an appeals court for Manhattan and the Bronx has ruled that landlords in those boroughs can go after the tenants for the total rent due without trying to rerent the apartment.</p>
+        <p>Mr. Ferrara said most form leases provide rights and remedies that would not otherwise apply.</p>
+        <p>For example, most contain a provision that bars counterclaims unrelated to the original claim. So while a tenant in a nonpayment case can counterclaim that essential services have been denied, it is less likely that the tenant will be allowed to counterclaim for personal injury or property damage. And while either party to a lawsuit is generally entitled to demand a jury trial, most form leases contain a provision stating that the tenant waives that right.</p>
+        <p>Another consideration: Most form leases provide that if a landlord brings a suit against a tenant and wins, the landlord will be entitled to recover lawyer's fees and costs. Without a lease, there would be no such entitlement.</p>
+        <p>This provision can actually help the tenant. Mr. Ferrara explained that under New York law, if a lease gives a landlord the right to recover legal fees and costs, a tenant will also be entitled to seek such reimbursement if the tenant wins, even if the lease does not specifically give the tenant that right.</p>
+        <p>Seth Miller, a Manhattan lawyer who represents tenants, said tenants should be careful about what happens when their existing lease expires and they decide to stay on as month-to-month renters without a renewal lease.</p>
+        <p>Basically, Mr. Miller said, the terms of the original lease will carry over.</p>
+        <p>So while tenants without a lease would be subject to rent increases or eviction on 30 days' notice, they would also be bound by any provisions in the original lease regarding counterclaims, jury trials or lawyers' fees.</p>
+        <p>YOUR HOME</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

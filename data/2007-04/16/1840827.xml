@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>People</title>
+    <meta content="16addes-2" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1840827"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="ADDENDA"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Addenda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070416T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E5DC113FF935A25757C0A9619C8B63" item-length="108" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>People</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Joy Lin joined R/GA, New York, part of the Interpublic Group of Companies, as media director, a new post as the interactive agency adds media buying to its media planning services. Ms. Lin will manage the day-to-day online planning and buying, reporting to Ken O'Donnell, group media director. Ms. Lin had been media director of the New York office of Agency.com, part of the Omnicom Group.</p>
+        <p>Brandon Berger joined the New York office of MDC Partners as director for digital innovation, a new post. He had held a similar post at Ogilvy North America, New York, part of the Ogilvy &amp; Mather Worldwide unit of the WPP Group.</p>
+      </block>
+      <block class="full_text">
+        <p>Joy Lin joined R/GA, New York, part of the Interpublic Group of Companies, as media director, a new post as the interactive agency adds media buying to its media planning services. Ms. Lin will manage the day-to-day online planning and buying, reporting to Ken O'Donnell, group media director. Ms. Lin had been media director of the New York office of Agency.com, part of the Omnicom Group.</p>
+        <p>Brandon Berger joined the New York office of MDC Partners as director for digital innovation, a new post. He had held a similar post at Ogilvy North America, New York, part of the Ogilvy &amp; Mather Worldwide unit of the WPP Group.</p>
+        <p>ADDENDA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

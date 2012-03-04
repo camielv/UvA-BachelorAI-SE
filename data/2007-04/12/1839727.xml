@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Opposing Atlantic Yards</title>
+    <meta content="l12yards" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1839727"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Area Planning and Renewal</classifier>
+        <classifier class="indexing_service" type="descriptor">Eminent Domain</classifier>
+        <classifier class="indexing_service" type="descriptor">Atlantic Yards (Brooklyn)</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">Develop Don't Destroy Brooklyn (Orgn)</org>
+        <org class="indexing_service">Forest City Ratner Companies</org>
+        <person class="indexing_service">Goldstein, Daniel</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Eminent Domain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Area Planning and Renewal</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070412T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E01E4D9123FF931A25757C0A9619C8B63" item-length="116" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Opposing Atlantic Yards</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Daniel Goldstein (Develop Don't Destroy Brooklyn) says organization does not merely oppose Atlantic Yards development but opposes Forest City Ratner on many principled grounds, including abuse of eminent domain (April 5 article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In ''Clearing of Atlantic Yards' Site Proceeds as Legal Thicket Grows Denser'' (news article, April 5), I was described as ''a spokesman for Develop Don't Destroy Brooklyn, which opposes the scale of the plan.''</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In ''Clearing of Atlantic Yards' Site Proceeds as Legal Thicket Grows Denser'' (news article, April 5), I was described as ''a spokesman for Develop Don't Destroy Brooklyn, which opposes the scale of the plan.''</p>
+        <p>Our organization does not merely oppose the scale of the plan, we oppose Forest City Ratner's project itself on many principled grounds. The project bypassed democratic and accountable oversight procedures and eschews urban planning principles. It would receive a still unknown but huge amount of taxpayer subsidies and terribly strain infrastructure because of its over-the-top density.</p>
+        <p>Furthermore, Atlantic Yards exemplifies an abuse of eminent domain currently being reviewed in federal court.</p>
+        <p>Daniel Goldstein  Brooklyn, April 6, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

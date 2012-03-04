@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>ONLINE: The Battle for Baghdad</title>
+    <meta content="08burnsbox" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Week in Review" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838843"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070408T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E3D6173FF93BA35757C0A9619C8B63" item-length="151" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>ONLINE: The Battle for Baghdad</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>John F. Burns, the Baghdad bureau chief of The New York Times for the last four years, reflects on the Iraq war in a lengthy interview for a recent Canadian Broadcasting Corporation documentary. Video excerpts are at:  nytimes.com/weekinreview</p>
+        <p>On the financing behind the insurgency: ''It's sustained in part by the $2 billion in tin trunks that Saddam Hussein's eldest son, Qusay, drove out of Baghdad.''</p>
+        <p>On the broader dangers of a potential Sunni-Shia civil war: ''The Iranians are not going to see this first Shiite government on their Western frontier in at least 350 years -- they're not going to see it go down.''</p>
+        <p>On the American military's new ''surge'' strategy for Baghdad: ''My experience among Iraqis is, in both Shiite and Sunni communities, that whatever they may have felt about the invasion, they now want American troops, because they see them as the only option for stabilization.''</p>
+      </block>
+      <block class="full_text">
+        <p>John F. Burns, the Baghdad bureau chief of The New York Times for the last four years, reflects on the Iraq war in a lengthy interview for a recent Canadian Broadcasting Corporation documentary. Video excerpts are at:  nytimes.com/weekinreview</p>
+        <p>On the financing behind the insurgency: ''It's sustained in part by the $2 billion in tin trunks that Saddam Hussein's eldest son, Qusay, drove out of Baghdad.''</p>
+        <p>On the broader dangers of a potential Sunni-Shia civil war: ''The Iranians are not going to see this first Shiite government on their Western frontier in at least 350 years -- they're not going to see it go down.''</p>
+        <p>On the American military's new ''surge'' strategy for Baghdad: ''My experience among Iraqis is, in both Shiite and Sunni communities, that whatever they may have felt about the invasion, they now want American troops, because they see them as the only option for stabilization.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

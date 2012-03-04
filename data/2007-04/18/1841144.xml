@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Gathering</title>
+    <meta content="18lens" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1841144"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="LENS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Parties (Social)</classifier>
+        <location class="indexing_service">New York City</location>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Columns/Lens</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Parties (Social)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070418T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE3DD1E3FF93BA25757C0A9619C8B63" item-length="62" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Gathering</hl1>
+      </hedline>
+      <byline class="print_byline">By RICHARD PERRY</byline>
+      <abstract>
+        <p>Photo of Cuddle Party in East Village apartment; it is workshop that provides drug- and alcohol-free environment where people meet to explore communication boundaries, intimacy, nonsexual touch and expressions of feeling</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A Cuddle Party in an East Village apartment. The concept involves a workshop that provides a drug- and alcohol-free environment where people meet to explore communication, boundaries, intimacy and nonsexual touch and expressions of affection. The promoters maintain that such an atmosphere might just help restore a participant's faith in humanity, or at least provide a relaxing, enjoyable experience.</p>
+      </block>
+      <block class="full_text">
+        <p>A Cuddle Party in an East Village apartment. The concept involves a workshop that provides a drug- and alcohol-free environment where people meet to explore communication, boundaries, intimacy and nonsexual touch and expressions of affection. The promoters maintain that such an atmosphere might just help restore a participant's faith in humanity, or at least provide a relaxing, enjoyable experience.  LENS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

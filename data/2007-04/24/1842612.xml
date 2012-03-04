@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Candidate's Haircuts</title>
+    <meta content="l24dowd" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1842612"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008/Candidates</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hair</classifier>
+        <classifier class="online_producer" type="general_descriptor">Election Issues</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070424T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9401EEDE143EF937A15757C0A9619C8B63" item-length="198" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Candidate's Haircuts</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Running With Scissors'' (column, April 21):</p>
+        <p>While Maureen Dowd hints at hypocrisy by denouncing presidential candidates for building fancy houses or spending big money on haircuts, we should all remember how weak the connection is between personal wealth and public policy.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Running With Scissors'' (column, April 21):</p>
+        <p>While Maureen Dowd hints at hypocrisy by denouncing presidential candidates for building fancy houses or spending big money on haircuts, we should all remember how weak the connection is between personal wealth and public policy.</p>
+        <p>Franklin D. Roosevelt was among our richest presidents. He wore elegant suits, lived in the mega-mansion of Hyde Park, and was no stranger to the social life of the richest in the nation -- during the depths of the Depression. Yet no president before him and none since have done as much for the poor, the hungry, the neglected.</p>
+        <p>What mattered then, and what matters now, is what the president does for the people. The rest is a monumental distraction.</p>
+        <p>Katherine S. Newman  Princeton, N.J., April 21, 2007</p>
+        <p>The writer is a professor of sociology and public affairs at Princeton University.</p>
+        <p>To the Editor:</p>
+        <p>I write in support of John Edwards's $400 haircuts. Personal services are one way to distribute wealth in this sadly income-disparate republic. And isn't it better to overspend on haircuts than on catastrophic wars?</p>
+        <p>Anyway, it's a terrific haircut.</p>
+        <p>Ruth L. Greenberg  Philadelphia, April 21, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

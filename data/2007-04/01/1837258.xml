@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Karen Ruiz, Jonathan Block</title>
+    <meta content="01ruiz" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/01/fashion/weddings/01ruiz.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837258"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Ruiz, Karen Edith (Karen Edith Block)</person>
+        <person class="indexing_service">Block, Jonathan David</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E7DD1130F932A35757C0A9619C8B63" item-length="187" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Karen Ruiz, Jonathan Block</hl1>
+        <hl2 class="online_headline">Karen Ruiz, Jonathan Block</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Karen Edith Ruiz, the daughter of Edith and Glenn Ruiz of Waretown, N.J., was married on Friday evening to Jonathan David Block, the son of Rochelle and Stan Block of Brooklyn. The Rev. Carissa Templeton, a Rose Ministries pastor, officiated at the Tribeca Rooftop in Manhattan.</p>
+        <p>Mrs. Block, 30, is a New York City teaching fellow, who teaches first grade at Public School 8 in Brooklyn. She is a candidate for a master's degree in childhood education and special education at Pace University. She graduated from the University of Rhode Island.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Karen Edith Ruiz, the daughter of Edith and Glenn Ruiz of Waretown, N.J., was married on Friday evening to Jonathan David Block, the son of Rochelle and Stan Block of Brooklyn. The Rev. Carissa Templeton, a Rose Ministries pastor, officiated at the Tribeca Rooftop in Manhattan.</p>
+      </block>
+      <block class="full_text">
+        <p>Karen Edith Ruiz, the daughter of Edith and Glenn Ruiz of Waretown, N.J., was married on Friday evening to Jonathan David Block, the son of Rochelle and Stan Block of Brooklyn. The Rev. Carissa Templeton, a Rose Ministries pastor, officiated at the Tribeca Rooftop in Manhattan.</p>
+        <p>Mrs. Block, 30, is a New York City teaching fellow, who teaches first grade at Public School 8 in Brooklyn. She is a candidate for a master's degree in childhood education and special education at Pace University. She graduated from the University of Rhode Island.</p>
+        <p>Her father, who is retired, owned Superior Dyeing, a textile processing company in Passaic, N.J. Her mother, a registered nurse, retired from Old Bridge Regional Hospital in Old Bridge, N.J.</p>
+        <p>Mr. Block, 33, works in Manhattan as a vice president and stock research analyst of medical device companies in the investment banking group at SunTrust. He graduated from Tulane and is on the board of the Triple Negative Breast Cancer Foundation in Norwood, N.J.</p>
+        <p>His mother retired as an eighth-grade teacher at Public School 308 in Brooklyn. His father, also retired, was an advertising art director.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

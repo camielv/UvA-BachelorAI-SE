@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>An Upside to Migraines? Less Mental Decline Found</title>
+    <meta content="01patt" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Health&amp;Fitness" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health" name="online_sections"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20070523T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1844184"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="VITAL SIGNS: PATTERNS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Columns/Vital Signs</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070501T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E01E4D9133EF932A35756C0A9619C8B63" item-length="241" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>An Upside to Migraines? Less Mental Decline Found</hl1>
+      </hedline>
+      <byline class="print_byline">By Eric Nagourney</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Some studies have found that people who suffer from migraines do not seem to lose any of their thinking skills as a result of the headaches. Other studies have found that they do.</p>
+        <p>In either case, a new study has found that women who have migraines experience less cognitive decline than women who do not.</p>
+      </block>
+      <block class="full_text">
+        <p>Some studies have found that people who suffer from migraines do not seem to lose any of their thinking skills as a result of the headaches. Other studies have found that they do.</p>
+        <p>In either case, a new study has found that women who have migraines experience less cognitive decline than women who do not.</p>
+        <p>Writing in the current issue of Neurology, the researchers said it was not clear why these women tested better on skills like memory. The research was led by Amanda Kalaydjian, now with the National Institute of Mental Health, when she was a doctoral student at Johns Hopkins.</p>
+        <p>One explanation, they said, is that the drugs commonly taken for migraines may also ward off the cognitive declines that come with aging. But the study called this unlikely.</p>
+        <p>''Another factor that needs to be explored further,'' the authors write, ''is the possibility that migraineurs may change their diet or behavior in some way that might improve cognition.'' This includes getting more sleep and avoiding some types of food.</p>
+        <p>Still, the authors said they could not rule out an explanation seemingly at odds with traditional thinking about migraines, which has it that repeated migraines may hurt brain function by injuring blood flow. It may instead be that underlying biological changes associated with migraines may actually reduce cognitive decline.</p>
+        <p>The study looked at more than 1,400 women, about 20 of whom had migraines, over a 12-year period.</p>
+        <p>VITAL SIGNS: PATTERNS</p>
+        <p>Correction:  May 23, 2007, Wednesday  A brief article in Science Times on May 1 about research on migraines and mental decline referred incorrectly to the subjects of the study. The researchers looked at men and women, not just women. In addition, among the approximately 1,400 subjects studied over 12 years, more than 200 of them had a history of migraines -- not about 20 of them.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: May 23, 2007, Wednesday</p>
+        <p>A brief article in Science Times on May 1 about research on migraines and mental decline referred incorrectly to the subjects of the study. The researchers looked at men and women, not just women. In addition, among the approximately 1,400 subjects studied over 12 years, more than 200 of them had a history of migraines -- not about 20 of them.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

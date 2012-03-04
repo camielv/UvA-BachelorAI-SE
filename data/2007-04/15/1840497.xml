@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Natalie Suhl, Colin Bernardino</title>
+    <meta content="15suhl" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/15/fashion/weddings/15suhl.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840497"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Suhl, Natalie Corinne (Natalie Corinne Bernardino)</person>
+        <person class="indexing_service">Bernardino, Colin Michael</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9502EFD9133FF936A25757C0A9619C8B63" item-length="184" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Natalie Suhl, Colin Bernardino</hl1>
+        <hl2 class="online_headline">Natalie Suhl, Colin Bernardino</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Natalie Corinne Suhl and Colin Michael Bernardino, who are lawyers in Atlanta, were married yesterday. Judge Wilbur D. Owens Jr. of Federal District Court in Macon, Ga., for whom the bridegroom clerked from 1999 to 2001, officiated at Atlanta Botanical Garden.</p>
+        <p>The bride, 32, is an associate at Morris, Manning &amp; Martin. She graduated from Wesleyan University and received her law degree from Fordham.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Natalie Corinne Suhl and Colin Michael Bernardino, who are lawyers in Atlanta, were married yesterday. Judge Wilbur D. Owens Jr. of Federal District Court in Macon, Ga., for whom the bridegroom clerked from 1999 to 2001, officiated at Atlanta Botanical Garden.</p>
+      </block>
+      <block class="full_text">
+        <p>Natalie Corinne Suhl and Colin Michael Bernardino, who are lawyers in Atlanta, were married yesterday. Judge Wilbur D. Owens Jr. of Federal District Court in Macon, Ga., for whom the bridegroom clerked from 1999 to 2001, officiated at Atlanta Botanical Garden.</p>
+        <p>The bride, 32, is an associate at Morris, Manning &amp; Martin. She graduated from Wesleyan University and received her law degree from Fordham.</p>
+        <p>She is a daughter of Lisette B. Suhl and Dr. Michael Suhl of Berkeley Heights, N.J. Her father is a neurologist in Summit, N.J., and her mother manages his practice.</p>
+        <p>The bridegroom, also 32, is an associate at Kilpatrick Stockton. He graduated from Dartmouth and received his law degree from Emory.</p>
+        <p>He is the son of Joan W. Bernardino and Dr. Michael E. Bernardino of Greensboro, Ga. The bridegroom's mother teaches English as a second language at Baldwin High School and Oak Hill Middle School, both in Milledgeville, Ga. His father is a professor of radiology at Emory Medical School in Atlanta and was the dean of the medical school at the State University at Buffalo from 1998 to 2003.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

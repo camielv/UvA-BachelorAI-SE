@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sports Briefing</title>
+    <meta content="18sportsbriefs" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1841211"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cellular Telephones</classifier>
+        <classifier class="online_producer" type="general_descriptor">Draft and Recruitment (Sports)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Coaches and Managers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Athletics and Sports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070418T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0DE3DB1E3FF93BA25757C0A9619C8B63" item-length="622" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sports Briefing</hl1>
+      </hedline>
+      <byline class="print_byline">By PETE THAMEL</byline>
+      <byline class="normalized_byline">Thamel, Pete</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>COLLEGES</p>
+        <p>COACHES MAY FACE TEXT MESSAGING BAN -- The N.C.A.A.'s Division I Management Council voted yesterday to eliminate the use of text messaging by coaches to prospects.</p>
+        <p>The legislation needs approval of the N.C.A.A.'s board, which meets next week, and then its executive committee.</p>
+      </block>
+      <block class="full_text">
+        <p>COLLEGES</p>
+        <p>COACHES MAY FACE TEXT MESSAGING BAN -- The N.C.A.A.'s Division I Management Council voted yesterday to eliminate the use of text messaging by coaches to prospects.</p>
+        <p>The legislation needs approval of the N.C.A.A.'s board, which meets next week, and then its executive committee.</p>
+        <p>There are no restrictions on text messaging as there are on phone calls and in-person visits.</p>
+        <p>Coaches have used text messaging to flood prospects with communications.</p>
+        <p>PETE THAMEL</p>
+        <p>AIR FORCE NAMES COACH -- Jeff Reynolds was promoted to head men's basketball coach by Air Force yesterday, two weeks after he surrendered his keys and credentials and packed up his office.</p>
+        <p>Reynolds, an assistant the last two seasons, replaced Jeff Bzdelik, who left for Colorado. Reynolds, 50, was set to join Bzdelik as an assistant. (AP)</p>
+        <p>CHATMAN SEEKS DAMAGES -- Pokey Chatman was given two hours to resign or be fired, said her lawyer, who argued that Chatman, the former Lousiana State women's basketball coach, is entitled to damages and compensation for the final two years of her contract. ''I don't believe her consent to the resignation was fairly obtained or freely given,'' said Mary Olive Pierson, her lawyer. Chatman resigned March 7, after Carla Berry, an assistant coach, raised allegations of improper conduct with a former player or players.</p>
+        <p>In an April 13 letter to Raymond Lamonica, the L.S.U. general counsel, Pierson wrote Chatman will sue the university if an amicable resolution cannot be reached. Pierson valued the remainder of the contract at $850,000 to $900,000 but did not specify damages. (AP)</p>
+        <p>PRO FOOTBALL</p>
+        <p>PAT-DOWN SEARCHES DEFENDED -- The Tampa Sports Authority called pat-down searches at Buccaneers games an essential layer of security in an age of terrorism and urged a federal appeals court yesterday to reinstate them. Tampa is the only N.F.L. city where the pat-downs have been successfully challenged, although lawsuits have also been brought in Chicago, Seattle and San Francisco, according to attorneys in the Florida case. (AP)</p>
+        <p>YACHT RACING</p>
+        <p>LIGHT WINDS DELAY RACE -- The start of the Louis Vuitton Cup was delayed again yesterday because of light winds off Valencia, Spain.</p>
+        <p>A weak sea breeze kept the 11 competing yachts circling along the race course off Port America's Cup for the second consecutive day. Organizers moved Monday's first two flights of racing to the first reserve day on Friday. (AP)</p>
+        <p>CYCLING</p>
+        <p>SERBIAN WINS TOUR DE GEORGIA -- Stage Ivan Stevic of Serbia charged to the lead with two kilometers left to win the second stage of the Tour de Georgia yesterday, and the Italian Daniele Contrini kept the overall lead.</p>
+        <p>Stevic, of the Toyota-United team, was timed in 5 hours 35 minutes 27 seconds for the 217-kilometer leg from Thomaston to Rome. The race continues today with a 190.2-kilometer stage from Rome to Chattanooga. (REUTERS)</p>
+        <p>SOCCER</p>
+        <p>MANCHESTER UNITED EXTENDS LEAD -- Manchester United beat Sheffield United, 2-0, to take a 6-point lead over defending champion Chelsea in the English Premiership.</p>
+        <p>Michael Carrick opened the scoring in the fourth minute and Wayne Rooney doubled the lead in the 50th as United won its 10th straight Premiership home game. United has played one more match than Chelsea. (BLOOMBERG NEWS)</p>
+        <p>BOXING</p>
+        <p>FRAZIER SUES DAUGHTER -- The former heavyweight champion Joe Frazier has sued his daughter for custody of his contracts, product endorsements and other business papers.</p>
+        <p>Frazier, 63, may be missing out on film royalties, product-endorsement fees or other income promised in the contracts, his lawyers said.</p>
+        <p>Jacquelyn Frazier-Lyde, a lawyer, judicial candidate and sometime boxer, controls the documents because she served as her father's lawyer and business adviser from 1989 to 2004, according to the lawsuit. (AP)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

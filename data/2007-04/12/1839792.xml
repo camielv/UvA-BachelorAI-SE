@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Manhattan: Compliance With Tobacco Laws Rises</title>
+    <meta content="12mbrfs-1" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1839792"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Legal</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Identification Devices</classifier>
+        <classifier class="online_producer" type="general_descriptor">Smoking and Tobacco</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070412T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950CE0D8123FF931A25757C0A9619C8B63" item-length="101" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Manhattan: Compliance With Tobacco Laws Rises</hl1>
+      </hedline>
+      <byline class="print_byline">Compiled by John Sullivan</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Nearly 9 out of 10 New York City businesses obey laws forbidding the sale of tobacco to people under the age of 18, city officials said yesterday. In the most recent round of inspections, investigators for the Department of Consumer Affairs found that 89 percent of businesses licensed to sell tobacco in New York check for identification and refuse to sell to minors, said Mayor Michael R. Bloomberg. The department spot-checks businesses across the city using teams of inspectors and teenage workers. When the program started in 1998, 52 percent of businesses followed the rules, officials said.</p>
+      </block>
+      <block class="full_text">
+        <p>Nearly 9 out of 10 New York City businesses obey laws forbidding the sale of tobacco to people under the age of 18, city officials said yesterday. In the most recent round of inspections, investigators for the Department of Consumer Affairs found that 89 percent of businesses licensed to sell tobacco in New York check for identification and refuse to sell to minors, said Mayor Michael R. Bloomberg. The department spot-checks businesses across the city using teams of inspectors and teenage workers. When the program started in 1998, 52 percent of businesses followed the rules, officials said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

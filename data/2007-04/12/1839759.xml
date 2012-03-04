@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; Free 'Romeo' at City Ballet</title>
+    <meta content="12arts-4" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20070414T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1839759"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dancing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070412T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B04E5D8123FF931A25757C0A9619C8B63" item-length="158" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; Free 'Romeo' at City Ballet</hl1>
+      </hedline>
+      <byline class="print_byline">By ROSLYN SULCAS; Compiled by Lawrence Van Gelder</byline>
+      <byline class="normalized_byline">Sulcas, Roslyn</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>New York City Ballet has announced that it is offering free tickets to a final dress rehearsal of its new production of ''Romeo and Juliet'' on April 29. The tickets will be distributed beginning at 9 a.m. on Sunday at the New York State Theater box office. ''I've wanted to do this for years,'' said Peter Martins, the ballet master in chief of City Ballet and the choreographer of ''Romeo and Juliet,'' which is to open on May 1. ''We finally found someone to underwrite it.'' CIT Group is the sponsor of the rehearsal and also of the $15 tickets available throughout the spring season. Mr. Martins said these gestures were partly a tribute to Lincoln Kirstein, the co-founder of City Ballet, whose birthday centennial will be celebrated throughout the season. ''He believed that there could be an American audience for ballet,'' Mr. Martins said. ''And he was right.''</p>
+        <p>ROSLYN SULCAS</p>
+      </block>
+      <block class="full_text">
+        <p>New York City Ballet has announced that it is offering free tickets to a final dress rehearsal of its new production of ''Romeo and Juliet'' on April 29. The tickets will be distributed beginning at 9 a.m. on Sunday at the New York State Theater box office. ''I've wanted to do this for years,'' said Peter Martins, the ballet master in chief of City Ballet and the choreographer of ''Romeo and Juliet,'' which is to open on May 1. ''We finally found someone to underwrite it.'' CIT Group is the sponsor of the rehearsal and also of the $15 tickets available throughout the spring season. Mr. Martins said these gestures were partly a tribute to Lincoln Kirstein, the co-founder of City Ballet, whose birthday centennial will be celebrated throughout the season. ''He believed that there could be an American audience for ballet,'' Mr. Martins said. ''And he was right.''</p>
+        <p>ROSLYN SULCAS</p>
+        <p>Correction:  April 14, 2007, Saturday  A report in the ''Arts, Briefly'' column on Thursday about New York City Ballet's offer of free tickets to the final dress rehearsal of its new production of ''Romeo and Juliet'' misstated the date when they will be distributed, beginning at 9 a.m., at the New York State Theater box office. It is April 22, not tomorrow.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: April 14, 2007, Saturday</p>
+        <p>A report in the ''Arts, Briefly'' column on Thursday about New York City Ballet's offer of free tickets to the final dress rehearsal of its new production of ''Romeo and Juliet'' misstated the date when they will be distributed, beginning at 9 a.m., at the New York State Theater box office. It is April 22, not tomorrow.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

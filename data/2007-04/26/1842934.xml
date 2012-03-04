@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A New Genre: Realty Reality</title>
+    <meta content="26tv" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1842934"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CURRENTS: TELEVISION"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Housing</classifier>
+        <classifier class="indexing_service" type="descriptor">Brokers and Brokerage Firms</classifier>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <org class="indexing_service">Hgtv (Cable Channel)</org>
+        <person class="indexing_service">Green, Penelope</person>
+        <object.title class="indexing_service">Bought and Sold (TV Program)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Brokers and Brokerage Firms</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070426T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9906E4DF153EF935A15757C0A9619C8B63" item-length="228" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A New Genre: Realty Reality</hl1>
+      </hedline>
+      <byline class="print_byline">By PENELOPE GREEN</byline>
+      <byline class="normalized_byline">Green, Penelope</byline>
+      <abstract>
+        <p>HGTV is offering new reality television series Bought and Sold that features actual real estate agents; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>HGTV is billing its new reality series, ''Bought &amp; Sold,'' as a ''Dynasty''-style drama, full of calculation and competition, but its pleasures, such as they are, are of a gentler sort. Its characters are real estate brokers at Remax offices in Northern New Jersey, and they seem to be a kindly group, not much given to backstabbing each other or pulling the wool over their clients' eyes. This Sunday, the first episode, is a day with Vanessa Pollock and Sam Joseph. She is a model/actress-turned-broker; he is a former window display artist, most recently the creative director of Macy's Herald Square. She has two young couples who want the same Dutch Colonial-style house, and she really, really likes them both; he stumbles a bit, but not too terribly, in his trial tour with the owners of a historic estate, to whom he is pitching himself. As characters, they are mildly appealing; so too is the placid, passive fun of watching a video ramble through a few houses. But it all seems so easy, if your prism is the dark and desperate Manhattan market (or if you have any awareness of the subprime mortgage crisis). Presumably HGTV's market is nonurban, and the suburbs of New Jersey are comparable to viewers' own habitats. But what a show they might have made with Manhattan brokers. ''Dynasty,'' indeed.</p>
+        <p>PENELOPE GREEN</p>
+      </block>
+      <block class="full_text">
+        <p>HGTV is billing its new reality series, ''Bought &amp; Sold,'' as a ''Dynasty''-style drama, full of calculation and competition, but its pleasures, such as they are, are of a gentler sort. Its characters are real estate brokers at Remax offices in Northern New Jersey, and they seem to be a kindly group, not much given to backstabbing each other or pulling the wool over their clients' eyes. This Sunday, the first episode, is a day with Vanessa Pollock and Sam Joseph. She is a model/actress-turned-broker; he is a former window display artist, most recently the creative director of Macy's Herald Square. She has two young couples who want the same Dutch Colonial-style house, and she really, really likes them both; he stumbles a bit, but not too terribly, in his trial tour with the owners of a historic estate, to whom he is pitching himself. As characters, they are mildly appealing; so too is the placid, passive fun of watching a video ramble through a few houses. But it all seems so easy, if your prism is the dark and desperate Manhattan market (or if you have any awareness of the subprime mortgage crisis). Presumably HGTV's market is nonurban, and the suburbs of New Jersey are comparable to viewers' own habitats. But what a show they might have made with Manhattan brokers. ''Dynasty,'' indeed.</p>
+        <p>PENELOPE GREEN  CURRENTS: TELEVISION</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

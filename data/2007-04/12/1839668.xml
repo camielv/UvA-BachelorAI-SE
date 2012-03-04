@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>About Creation, Pope Melds Faith With Science</title>
+    <meta content="12pope" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/12/world/europe/12pope.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1839668"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Evolution</classifier>
+        <classifier class="indexing_service" type="descriptor">Creationism and Intelligent Design</classifier>
+        <org class="indexing_service">Roman Catholic Church</org>
+        <person class="indexing_service">Fisher, Ian</person>
+        <person class="indexing_service">Benedict Xvi (Pope)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="descriptor">Evolution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Creationism and Intelligent Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Evolution</classifier>
+        <person class="online_producer">Benedict XVI</person>
+        <person class="online_producer">Schonborn, Christoph</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070412T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE7DA123FF931A25757C0A9619C8B63" item-length="361" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>About Creation, Pope Melds Faith With Science</hl1>
+        <hl2 class="online_headline">About Creation, Pope Melds Faith With Science</hl2>
+      </hedline>
+      <byline class="print_byline">By IAN FISHER</byline>
+      <byline class="normalized_byline">Fisher, Ian</byline>
+      <dateline>ROME, April 11</dateline>
+      <abstract>
+        <p>Pope Benedict XVI, in book just published, does not reject evolutionary theory or endorse any alternative for origins of life, but he does say that science cannot fully explain mystery of creation; pope reportedly told his former students at private seminar in Sept that he depends on faith to explain 'whole picture'; as pope, he has not publicly defined his position, amid angry debates in United States over 'intelligent design'; his comments at seminar, published in Germany by students who were present, seem consistent with his oft-stated views on othersubjects--that sicence and reason should not rule out God (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Science cannot fully explain the mystery of creation, Pope Benedict XVI said in comments about evolution that were published in a book on Wednesday. At the same time, he did not reject evolutionary theory or endorse any alternative for the origins of life.</p>
+        <p>''I would not depend on faith alone to explain the whole picture,'' Benedict, a former theology professor, told his former students in September at a private seminar outside Rome on evolution, according to an account of the book from Reuters.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Science cannot fully explain the mystery of creation, Pope Benedict XVI said, but he did not reject evolutionary theory.</p>
+      </block>
+      <block class="full_text">
+        <p>Science cannot fully explain the mystery of creation, Pope Benedict XVI said in comments about evolution that were published in a book on Wednesday. At the same time, he did not reject evolutionary theory or endorse any alternative for the origins of life.</p>
+        <p>''I would not depend on faith alone to explain the whole picture,'' Benedict, a former theology professor, told his former students in September at a private seminar outside Rome on evolution, according to an account of the book from Reuters.</p>
+        <p>As pope, Benedict has not publicly defined his position, amid angry debates in the United States over ''intelligent design'' and questions raised two years ago by a leading cardinal on whether evolution was compatible with Catholicism.</p>
+        <p>But his comments at the seminar, published in German by students who were present, seemed largely to avoid any such debate: Rather, they seemed consistent with his often-stated views on other subjects -- that science and reason, however valuable, should not rule out God.</p>
+        <p>The debate over evolution, he said, concerned ''the great fundamental questions of philosophy: where man and the world came from and where they are going.''</p>
+        <p>The book, called ''Creation and Evolution,'' was not publicly available on Wednesday, and Reuters did not say how it had obtained a copy.</p>
+        <p>Apart from the pope's comments, the book includes essays from Cardinal Christoph Schönborn, a former student of the pope who set off much debate in 2005 after seeming to raise doubts about evolution.</p>
+        <p>As Cardinal Joseph Ratzinger, before he became pope two years ago, Benedict had expressed concern that on several fronts, including evolution, science was overstepping its competence, denying the existence of God and becoming its own system of belief. Though he did not reject evolution, he noted in the remarks quoted from the book that science could not completely prove evolution because it could not be duplicated in the laboratory.</p>
+        <p>But, Reuters reported, he also defended what is known as theistic evolution, the idea that God could use evolutionary processes to create life, if not through the direct engineering suggested by ''intelligent design,'' which posits that life is so complex that it requires an active creator.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

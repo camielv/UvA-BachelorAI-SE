@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TRANSACTIONS</title>
+    <meta content="06trans" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838376"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070406T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9406E0DC173FF935A35757C0A9619C8B63" item-length="227" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TRANSACTIONS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>American League  TORONTO BLUE JAYS--Traded RHP Francisco Rosario to Philadelphia for cash.</p>
+        <p>National League  ARIZONA DIAMONDBACKS--Purchased the contract of Micah Owings from Tucson (PCL).</p>
+        <p>American Association  COASTAL BEND AVIATORS--Agreed to terms with INF William Lewis and INF Grant Richardson.  FORT WORTH CATS--Agreed to terms with LHP Joel Kirsten.  LINCOLN SALTDOGS--Agreed to terms with C Matt Duchek.  PENSACOLA PELICANS--Agreed to terms with INF-DH Larry Bethea.  SIOUX FALLS CANARIES--Agreed to terms with LHP Ryan Ford.  ST. JOE BLACKSNAKES--Agreed to terms with RHP Timothy Vasquez.</p>
+        <p>Atlantic League  NEWARK BEARS--The Newark Bears agreed to terms with right handed pitcher Carlos Mirabal.</p>
+        <p>Can-Am League  NORTH SHORE SPIRIT--Agreed to terms with LHP Ryan Williams and INF Gilbert Gil.</p>
+        <p>Northern League  CALGARY VIPERS--Agreed to terms with RHP Jonathon Bryant and RHP Randy Waite.  EDMONTON CRACKER-CATS--Agreed to terms with INF George Sandel.  FARGO-MOORHEAD REDHAWKS--Agreed to terms with RHP Mark Michael, RHP Dane Renkert, LHP Mathew Krohe, LHP Ryan Ariail, LHP Adam Rowe and RHP Gerrit Simpson.  GARY SOUTHSHORE RAILCATS--Agreed to terms with RHP Jim Paduch.  JOLIET JACKHAMMERS--Agreed to terms with INF Tim Hutting.  SCHAUMBURG FLYERS--Traded OF J.D.Foust to Coastal Bend of the American Association for a player to be named.  WINNIPEG GOLDEYES--Agreed to terms with RHP Steve Russell and C Jordan Lundberg.</p>
+      </block>
+      <block class="full_text">
+        <p>American League  TORONTO BLUE JAYS--Traded RHP Francisco Rosario to Philadelphia for cash.</p>
+        <p>National League  ARIZONA DIAMONDBACKS--Purchased the contract of Micah Owings from Tucson (PCL).</p>
+        <p>American Association  COASTAL BEND AVIATORS--Agreed to terms with INF William Lewis and INF Grant Richardson.  FORT WORTH CATS--Agreed to terms with LHP Joel Kirsten.  LINCOLN SALTDOGS--Agreed to terms with C Matt Duchek.  PENSACOLA PELICANS--Agreed to terms with INF-DH Larry Bethea.  SIOUX FALLS CANARIES--Agreed to terms with LHP Ryan Ford.  ST. JOE BLACKSNAKES--Agreed to terms with RHP Timothy Vasquez.</p>
+        <p>Atlantic League  NEWARK BEARS--The Newark Bears agreed to terms with right handed pitcher Carlos Mirabal.</p>
+        <p>Can-Am League  NORTH SHORE SPIRIT--Agreed to terms with LHP Ryan Williams and INF Gilbert Gil.</p>
+        <p>Northern League  CALGARY VIPERS--Agreed to terms with RHP Jonathon Bryant and RHP Randy Waite.  EDMONTON CRACKER-CATS--Agreed to terms with INF George Sandel.  FARGO-MOORHEAD REDHAWKS--Agreed to terms with RHP Mark Michael, RHP Dane Renkert, LHP Mathew Krohe, LHP Ryan Ariail, LHP Adam Rowe and RHP Gerrit Simpson.  GARY SOUTHSHORE RAILCATS--Agreed to terms with RHP Jim Paduch.  JOLIET JACKHAMMERS--Agreed to terms with INF Tim Hutting.  SCHAUMBURG FLYERS--Traded OF J.D.Foust to Coastal Bend of the American Association for a player to be named.  WINNIPEG GOLDEYES--Agreed to terms with RHP Steve Russell and C Jordan Lundberg.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

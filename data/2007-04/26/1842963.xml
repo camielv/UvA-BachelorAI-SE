@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Now, Blu-ray Storage for Mac Users, and Someday Maybe a Movie</title>
+    <meta content="26drive" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/26/technology/26drive.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842963"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CIRCUITS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">DVD (Digital Versatile Disk)</classifier>
+        <classifier class="online_producer" type="general_descriptor">DVD (Digital Versatile Disk)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070426T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E6DE153EF935A15757C0A9619C8B63" item-length="201" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Now, Blu-ray Storage for Mac Users, and Someday Maybe a Movie</hl1>
+        <hl2 class="online_headline">Now, Blu-ray Storage for Mac Users, and Someday Maybe a Movie</hl2>
+      </hedline>
+      <byline class="print_byline">By J. D. BIERSDORFER</byline>
+      <byline class="normalized_byline">Biersdorfer, J D</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Blu-ray discs can hold 50 gigabytes of data, making a regular DVD seem cramped. They can also make life easier for digital photographers, video editors or anybody else who needs to stash big files on a recordable disc.</p>
+        <p>For those who don't want to drag around an external Blu-ray drive with their Macintosh laptops, Fastmac recently released an internal slot-loading Blu-ray drive that replaces the DVD drive.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Fastmac recently released an internal slot-loading Blu-ray drive that replaces the DVD drive.</p>
+      </block>
+      <block class="full_text">
+        <p>Blu-ray discs can hold 50 gigabytes of data, making a regular DVD seem cramped. They can also make life easier for digital photographers, video editors or anybody else who needs to stash big files on a recordable disc.</p>
+        <p>For those who don't want to drag around an external Blu-ray drive with their Macintosh laptops, Fastmac recently released an internal slot-loading Blu-ray drive that replaces the DVD drive.</p>
+        <p>Fastmac's Blu-ray drive works with several recent Macintosh laptop models, as well as the iMac and Mac Mini desktop systems. A list of compatible Macs and full technical specifications are at www.fastmac.com, which is also an online store.</p>
+        <p>Several third-party programs, including Roxio Toast 8 Titanium and Adobe Premiere CS3, can actually do the Blu-ray disc burning on the Mac once the drive is installed. The drive's $800 price is steep, but that will eventually edge downward. For now, early adopters can record data not only to Blu-ray discs, but also to standard recordable DVD and CD media as well.</p>
+        <p>Sadly, the early adopters will not be able to watch Blu-ray movies on their Macs. Fastmac says several companies are working on the software to do this.</p>
+        <p>J. D. BIERSDORFER</p>
+        <p>CIRCUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   NACK, HARRIET WEXLER</title>
+    <meta content="dn040607" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838239"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">NACK, HARRIET WEXLER</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070406T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE3D7153AF935A35757C0A9619C8B63" item-length="127" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   NACK, HARRIET WEXLER</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>NACK--Harriet Wexler, 81, died peacefully March 31, 2007, in Manhattan. A beloved mother and sister, she is survived by her sons David and Jonathan and her sister Edith Milchen. She was predeceased by her parents Sarah and Ben Wexler, and her brother Frank. A life-long resident of New York City, she received a masters degree in education from City College and went on to a career as a public school teacher in Harlem and Co-op City. A founding member of the United Federation of Teachers, she was a rank and file veteran of the Civil Rights Movement and Vietnam War protests, and many struggles for social justice and peace. Kind, caring and giving by nature, friendly and positive, strong and sensible, she will be dearly missed.</p>
+      </block>
+      <block class="full_text">
+        <p>NACK--Harriet Wexler, 81, died peacefully March 31, 2007, in Manhattan. A beloved mother and sister, she is survived by her sons David and Jonathan and her sister Edith Milchen. She was predeceased by her parents Sarah and Ben Wexler, and her brother Frank. A life-long resident of New York City, she received a masters degree in education from City College and went on to a career as a public school teacher in Harlem and Co-op City. A founding member of the United Federation of Teachers, she was a rank and file veteran of the Civil Rights Movement and Vietnam War protests, and many struggles for social justice and peace. Kind, caring and giving by nature, friendly and positive, strong and sensible, she will be dearly missed.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

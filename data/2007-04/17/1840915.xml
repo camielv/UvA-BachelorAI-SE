@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Motley Group of Musicians In a Concerto of Contrasts</title>
+    <meta content="17pock" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/17/arts/music/17pock.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840915"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MUSIC REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews/Classical</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="descriptor">Classical Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Classical Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <org class="online_producer">Miller Theater at Columbia University</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070417T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E01E4DA113FF934A25757C0A9619C8B63" item-length="433" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Motley Group of Musicians In a Concerto of Contrasts</hl1>
+        <hl2 class="online_headline">A Motley Group of Musicians in a Concerto of Contrasts</hl2>
+      </hedline>
+      <byline class="print_byline">By ANNE MIDGETTE</byline>
+      <byline class="normalized_byline">Midgette, Anne</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Four brand-new pieces, four impressive soloists, four distinctive musical styles and not a real clunker in the bunch. This was music as it can and should be, and it happened on Saturday night at the Miller Theater, which rolled out the second installment of its ''Pocket Concertos,'' a three-year commissioning series.</p>
+        <p>On paper, the four featured composers were the most diverse of the project's diverse field: Anthony Davis, an established composer known for his operas; Huang Ruo, a younger Chinese-born composer who recently wrote a concerto for a painter and orchestra; Sebastian Currier, a midcareer composer of lyrical, atmospheric works; and Charles Wuorinen, at 68 a veritable grand old man of uptown serialism. But diverse as they were, the pieces had in common an energy, an interest in a broad range of sound -- from various percussion instruments to sampled recordings to vocalizations -- and strong performances by the versatile Perspectives Ensemble under Brad Lubman, who got a workout from this program.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Saturday night at the Miller Theater brought four brand-new pieces, four impressive soloists, four distinctive musical styles and not a real clunker in the bunch.</p>
+      </block>
+      <block class="full_text">
+        <p>Four brand-new pieces, four impressive soloists, four distinctive musical styles and not a real clunker in the bunch. This was music as it can and should be, and it happened on Saturday night at the Miller Theater, which rolled out the second installment of its ''Pocket Concertos,'' a three-year commissioning series.</p>
+        <p>On paper, the four featured composers were the most diverse of the project's diverse field: Anthony Davis, an established composer known for his operas; Huang Ruo, a younger Chinese-born composer who recently wrote a concerto for a painter and orchestra; Sebastian Currier, a midcareer composer of lyrical, atmospheric works; and Charles Wuorinen, at 68 a veritable grand old man of uptown serialism. But diverse as they were, the pieces had in common an energy, an interest in a broad range of sound -- from various percussion instruments to sampled recordings to vocalizations -- and strong performances by the versatile Perspectives Ensemble under Brad Lubman, who got a workout from this program.</p>
+        <p>The soloists, of course, are the key players, and each piece was tailored to its performer. Mr. Davis's clarinet concerto, ''You Have the Right to Remain Silent,'' was played by J. D. Parran, who made his instruments' voices -- from lithe lines on a soprano clarinet to flatulent birdlike stutters on the contra-alto -- more articulate than the words of the Miranda warnings that the instrumentalists spoke, sang and whispered in and around rhythmic jazzy ensembles.</p>
+        <p>Mr. Huang's ''People Mountain People Sea,'' the flashiest and most openly exuberant piece of the evening, was a cello concerto for Jian Wang, who looked like a businessman and sounded like a force of nature. The visual aspects of Mr. Huang's imagination were apparent: the piece crackled with color and movement. The cello moved from thick double-stops to a dark lyrical elegy; the orchestra popped with sounds like the banged strings of a piano, the taut thwack of woodblocks between movements and the sizzle of tongued whispers from the musicians, like water on a hot stone.</p>
+        <p>Water was evoked in Mr. Currier's piece as well, shaped to the limpid softness of the pianist Emma Tahmizian's playing and framing a fast tangle of a second movement with two more meditative ones, the last one interlaced with recorded excerpts from the first. And Mr. Wuorinen wrote a virtuosic showpiece for the violinist Jennifer Koh, setting her against a 15-part ensemble of virtually every instrument except the violin. Conventional wisdom would cast Mr. Wuorinen as the most difficult of the four composers, but Ms. Koh had no difficulty communicating this vibrant piece, its angles sparkling under her fleet fingers.</p>
+        <p>MUSIC REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

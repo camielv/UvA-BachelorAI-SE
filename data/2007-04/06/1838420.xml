@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Albany: Unemployment Services End</title>
+    <meta content="06mbrfs-5" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838420"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Labor</classifier>
+        <classifier class="indexing_service" type="descriptor">Unemployment Insurance</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Ramirez, Anthony</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Unemployment Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Unemployment Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Unemployment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070406T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9507E1DB173FF935A35757C0A9619C8B63" item-length="95" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Albany: Unemployment Services End</hl1>
+      </hedline>
+      <byline class="print_byline">Compiled by Anthony Ramirez</byline>
+      <byline class="normalized_byline">Ramirez, Anthony</byline>
+      <abstract>
+        <p>State phases out unemployment insurance services provided at two offices, one in Brooklyn and one in Queens (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The State Department of Labor said yesterday that the unemployment insurance services provided at 250 Schermerhorn Street in Brooklyn and at 138-60 Barclay Avenue in Flushing, Queens, have been phased out. It said claimants were sent three notification letters before the phaseout. The department said those people who relied on either of the offices are encouraged to use its telephone or Internet claims systems. The department also said that it has expanded outreach to Chinese speakers, including making more interpreters available. The toll-free phone number for claims questions is (888) 209-8124.</p>
+      </block>
+      <block class="full_text">
+        <p>The State Department of Labor said yesterday that the unemployment insurance services provided at 250 Schermerhorn Street in Brooklyn and at 138-60 Barclay Avenue in Flushing, Queens, have been phased out. It said claimants were sent three notification letters before the phaseout. The department said those people who relied on either of the offices are encouraged to use its telephone or Internet claims systems. The department also said that it has expanded outreach to Chinese speakers, including making more interpreters available. The toll-free phone number for claims questions is (888) 209-8124.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

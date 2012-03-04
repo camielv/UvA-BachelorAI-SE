@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Peter Aupperle, Stewart Fishbein</title>
+    <meta content="22aupperle" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/22/fashion/weddings/22aupperle.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842160"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Aupperle, Dr. Peter Mark</person>
+        <person class="indexing_service">Fishbein, Stewart Mark</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A01EFDD163EF931A15757C0A9619C8B63" item-length="213" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Peter Aupperle, Stewart Fishbein</hl1>
+        <hl2 class="online_headline">Peter Aupperle, Stewart Fishbein</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Dr. Peter Mark Aupperle and Stewart Mark Fishbein are to be joined in civil union today in Mendham, N.J. Mayor Phyllis Florek of Mendham Township is to officiate at the Black Horse Tavern.</p>
+        <p>Dr. Aupperle, 46, is the medical director of a continuing medical education unit of MediMedia, a healthcare communications company in Chatham, N.J. He is also a clinical professor of psychiatry at Robert Wood Johnson Medical School in Piscataway, N.J., where he specializes in Alzheimer's disease. He graduated from Princeton and received his medical degree from Columbia.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Dr. Peter Mark Aupperle and Stewart Mark Fishbein are to be joined in civil union today in Mendham, N.J. Mayor Phyllis Florek of Mendham Township is to officiate at the Black Horse Tavern.</p>
+      </block>
+      <block class="full_text">
+        <p>Dr. Peter Mark Aupperle and Stewart Mark Fishbein are to be joined in civil union today in Mendham, N.J. Mayor Phyllis Florek of Mendham Township is to officiate at the Black Horse Tavern.</p>
+        <p>Dr. Aupperle, 46, is the medical director of a continuing medical education unit of MediMedia, a healthcare communications company in Chatham, N.J. He is also a clinical professor of psychiatry at Robert Wood Johnson Medical School in Piscataway, N.J., where he specializes in Alzheimer's disease. He graduated from Princeton and received his medical degree from Columbia.</p>
+        <p>He is a son of Margarete Aupperle of Madison, N.J., and the late Robert Aupperle. His mother, who is retired, was a clerk in the town assessor's office in Huntington, N.Y. His father was a sheet metal mechanic for the Sperry Corporation in Plainview, N.Y.</p>
+        <p>Mr. Fishbein, 51, is an architect and a principal in the Switzer Group, an architectural firm in Manhattan that specializes in corporate interiors. He graduated from Pratt Institute.</p>
+        <p>He is the son of Anita Fishbein of Brooklyn and the late Abraham Fishbein. His mother, who is retired, was a bookkeeper for an accounting firm in Manhattan. His father was an assistant commissioner in the taxation unit of the Department of Finance of the City of New York in Manhattan.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

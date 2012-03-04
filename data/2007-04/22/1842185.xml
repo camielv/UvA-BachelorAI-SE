@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Cinema Crudités</title>
+    <meta content="22rest" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="14" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/22/dining/22rest.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842185"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="GOOD EATING/TRIBECA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Restaurants</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Restaurant Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Columns/Good Eating</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="descriptor">Restaurants</classifier>
+        <classifier class="online_producer" type="descriptor">Tribeca Film Festival (NYC)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Photography</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tribeca Film Festival (NYC)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tribeca Film Festival (NYC)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Festivals</classifier>
+        <location class="online_producer">TriBeCa (NYC)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980DE6DC163EF931A15757C0A9619C8B63" item-length="442" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Cinema Crudités</hl1>
+        <hl2 class="online_headline">Cinema Crudités</hl2>
+      </hedline>
+      <byline class="print_byline">Compiled by Kris Ensminger</byline>
+      <abstract>
+        <p>Excerpts from previously published reviews of restaurants in TriBeCa, NYC (Good Eating column) (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>More than 200 new movies will be shown during the 12-day Tribeca Film Festival, which begins Wednesday. If you'd like dinner with your movie, try one of these relative newcomers to the neighborhood's vibrant restaurant scene.</p>
+        <p>CERCLE ROUGE  (212) 226-6252; 241 West Broadway (North Moore Street); $$$$; Article: 10/18/06.</p>
+        <p>This French brasserie, open a year and a half, recently acquired a new chef, Pierre Landet. His menu features classic brasserie dishes like bouillabaisse; sautéed duck breast and confit leg in cassis sauce; prime rib for two; a charcuterie plate; and from the raw bar, a shellfish plateau.</p>
+        <p>DENNIS FOY  *  [rating: one star]  (212) 625-1007; 313 Church Street (Walker Street); $$$; Review: 2/14/07.</p>
+        <p>Named for its chef and co-owner, who cooked at Mondrian and EQ, this restaurant serves French-inflected food, in an elegant, creamy space with curving red, green and blue beams that have a playful, circuslike effect.</p>
+        <p>Treat yourself to its gnocchi, perfumed lavishly with sage and chives, or its crab tian, a sort of crab cake that manages to lose the cake without unraveling.</p>
+        <p>MAI HOUSE  **  [rating: two stars]  (212) 431-0606; 186 Franklin Street (Greenwich Street); $$; Review: 1/3/07.</p>
+        <p>Combining Vietnamese flavors with other Asian influences, Mai House produces an unusually appealing roster of dishes, the best of which make statements at once louder and more nuanced than those at less thoughtful restaurants with roots in Southeast Asia.</p>
+        <p>Appetizers include a crab meat soup with tapioca noodles, and an exquisitely balanced salad with ribbons of grilled hanger steak folding under, over and around pineapple, pomelo, kaffir lime, cucumber, chili pepper and rau ram, a minty herb often called the Vietnamese coriander.</p>
+        <p>ROSANJIN  **  [rating: two stars]  (212) 346-0664; 141 Duane Street (West Broadway); $$$$; Review: 3/28/07.</p>
+        <p>At Rosanjin, named after a celebrated Japanese potter, there's a quietly dazzling succession of lacquered wood bowls and brightly colored, amusingly shaped ceramics, no two exactly alike.</p>
+        <p>Rosanjin specializes in kaiseki meals, those spanning many small courses, which change from night to night. They arrive in a carefully plotted order: soup often toward the beginning; rice, pickles and something grilled usually toward the end.</p>
+        <p>TURKS AND FROGS TRIBECA  (212) 966-4774; 458 Greenwich Street (Watts Street); $$; Article: 4/12/06.</p>
+        <p>Osman and Orhan Cakir, brothers who own an antiques shop and wine bar in Greenwich Village called Turks &amp; Frogs, opened this place featuring the food of their native Turkey last year. The menu offers traditional fare like whole fish baked in salt and brought flaming to the table.</p>
+        <p>The brothers, whose name is pronounced sha-KEER, also serve a few well-made Turkish wines.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>If you’d like dinner with your movie during the Tribeca Film Festival, try one of these relative newcomers to the neighborhood’s vibrant restaurant scene.</p>
+      </block>
+      <block class="full_text">
+        <p>More than 200 new movies will be shown during the 12-day Tribeca Film Festival, which begins Wednesday. If you'd like dinner with your movie, try one of these relative newcomers to the neighborhood's vibrant restaurant scene.</p>
+        <p>CERCLE ROUGE  (212) 226-6252; 241 West Broadway (North Moore Street); $$$$; Article: 10/18/06.</p>
+        <p>This French brasserie, open a year and a half, recently acquired a new chef, Pierre Landet. His menu features classic brasserie dishes like bouillabaisse; sautéed duck breast and confit leg in cassis sauce; prime rib for two; a charcuterie plate; and from the raw bar, a shellfish plateau.</p>
+        <p>DENNIS FOY  *  [rating: one star]  (212) 625-1007; 313 Church Street (Walker Street); $$$; Review: 2/14/07.</p>
+        <p>Named for its chef and co-owner, who cooked at Mondrian and EQ, this restaurant serves French-inflected food, in an elegant, creamy space with curving red, green and blue beams that have a playful, circuslike effect.</p>
+        <p>Treat yourself to its gnocchi, perfumed lavishly with sage and chives, or its crab tian, a sort of crab cake that manages to lose the cake without unraveling.</p>
+        <p>MAI HOUSE  **  [rating: two stars]  (212) 431-0606; 186 Franklin Street (Greenwich Street); $$; Review: 1/3/07.</p>
+        <p>Combining Vietnamese flavors with other Asian influences, Mai House produces an unusually appealing roster of dishes, the best of which make statements at once louder and more nuanced than those at less thoughtful restaurants with roots in Southeast Asia.</p>
+        <p>Appetizers include a crab meat soup with tapioca noodles, and an exquisitely balanced salad with ribbons of grilled hanger steak folding under, over and around pineapple, pomelo, kaffir lime, cucumber, chili pepper and rau ram, a minty herb often called the Vietnamese coriander.</p>
+        <p>ROSANJIN  **  [rating: two stars]  (212) 346-0664; 141 Duane Street (West Broadway); $$$$; Review: 3/28/07.</p>
+        <p>At Rosanjin, named after a celebrated Japanese potter, there's a quietly dazzling succession of lacquered wood bowls and brightly colored, amusingly shaped ceramics, no two exactly alike.</p>
+        <p>Rosanjin specializes in kaiseki meals, those spanning many small courses, which change from night to night. They arrive in a carefully plotted order: soup often toward the beginning; rice, pickles and something grilled usually toward the end.</p>
+        <p>TURKS AND FROGS TRIBECA  (212) 966-4774; 458 Greenwich Street (Watts Street); $$; Article: 4/12/06.</p>
+        <p>Osman and Orhan Cakir, brothers who own an antiques shop and wine bar in Greenwich Village called Turks &amp; Frogs, opened this place featuring the food of their native Turkey last year. The menu offers traditional fare like whole fish baked in salt and brought flaming to the table.</p>
+        <p>The brothers, whose name is pronounced sha-KEER, also serve a few well-made Turkish wines.</p>
+        <p>GOOD EATING/TRIBECA E-mail: eating@nytimes.com</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">E-mail: eating@nytimes.com</tagline>
+    </body.end>
+  </body>
+</nitf>

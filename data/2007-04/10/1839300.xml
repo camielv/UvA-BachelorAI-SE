@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>FORUM</title>
+    <meta content="10ponline" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1839300"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE CAUCUS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Presidential Election of 2008</classifier>
+        <classifier class="indexing_service" type="descriptor">Election Issues</classifier>
+        <classifier class="indexing_service" type="descriptor">Primaries and Caucuses</classifier>
+        <org class="indexing_service">Moveon.org</org>
+        <person class="indexing_service">Broder, John M</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Election Issues</classifier>
+        <classifier class="online_producer" type="general_descriptor">Primaries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070410T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0CE7DC153FF933A25757C0A9619C8B63" item-length="138" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>FORUM</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN M. BRODER</byline>
+      <byline class="normalized_byline">Broder, John M</byline>
+      <abstract>
+        <p>Liberal online advocacy group MoveOn.org will hold virtual town hall meeting in which six Democratic presidential candidates will take questions (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>MoveOn.org, the liberal online advocacy group, will hold a virtual town hall meeting tonight in which six Democratic presidential candidates will take questions on Iraq from MoveOn members. Afterwards, members will vote for their favorite by e-mail or cellphone text message.</p>
+        <p>''It's 'American Idol' meets American politics,'' said Trevor FitzGibbon, a spokesman for MoveOn.</p>
+      </block>
+      <block class="full_text">
+        <p>MoveOn.org, the liberal online advocacy group, will hold a virtual town hall meeting tonight in which six Democratic presidential candidates will take questions on Iraq from MoveOn members. Afterwards, members will vote for their favorite by e-mail or cellphone text message.</p>
+        <p>''It's 'American Idol' meets American politics,'' said Trevor FitzGibbon, a spokesman for MoveOn.</p>
+        <p>Senators Hillary Rodham Clinton, Barack Obama and Joseph R. Biden Jr., Representative Dennis J. Kucinich, Gov. Bill Richardson and former Senator John Edwards will join in, either live or on videotape. Three Republican candidates -- Senator John McCain, Rudolph W. Giuliani and Mitt Romney -- declined to participate.</p>
+        <p>The meeting will be broadcast on the group's Web site and on some radio stations that carry Air America programming. MoveOn plans similar events, on health care and energy policy, this spring.</p>
+        <p>JOHN M. BRODER</p>
+        <p>THE CAUCUS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

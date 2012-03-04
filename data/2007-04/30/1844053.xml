@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Who's Afraid of Pay-Go?</title>
+    <meta content="30mon2" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/30/opinion/30mon2.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1844053"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <classifier class="indexing_service" type="descriptor">Budgets and Budgeting</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <location class="indexing_service">United States</location>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="descriptor">Budgets and Budgeting</classifier>
+        <classifier class="online_producer" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="descriptor">Finances</classifier>
+        <classifier class="online_producer" type="descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Budgets and Budgeting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070430T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9801E2DB133EF933A05757C0A9619C8B63" item-length="402" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Who's Afraid of Pay-Go?</hl1>
+        <hl2 class="online_headline">Who’s Afraid of Pay-Go?</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial welcomes votes in both House and Senate to impose pay-as-you-go rule starting with 2008 federal budget; prefers House version, saying Senate version would make it too easy to sidestep rule</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>There is rare good news from the otherwise grim budget front. Majorities in both the House and Senate have voted to impose a pay-as-you-go rule, starting with the 2008 federal budget, which they plan to complete this spring.</p>
+        <p>''Pay-go,'' which was abandoned in 2002, is vital to restoring budget discipline. It would require Congress to pay for new spending on entitlements, like Medicare, either by raising taxes or cutting other entitlements. It would also require legislators to make up forgone revenue from new tax cuts by raising other taxes or cutting spending.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>There is rare good news from the otherwise grim budget front. Majorities in both the House and Senate have voted to impose a pay-as-you-go rule, starting with the 2008 federal budget.</p>
+      </block>
+      <block class="full_text">
+        <p>There is rare good news from the otherwise grim budget front. Majorities in both the House and Senate have voted to impose a pay-as-you-go rule, starting with the 2008 federal budget, which they plan to complete this spring.</p>
+        <p>''Pay-go,'' which was abandoned in 2002, is vital to restoring budget discipline. It would require Congress to pay for new spending on entitlements, like Medicare, either by raising taxes or cutting other entitlements. It would also require legislators to make up forgone revenue from new tax cuts by raising other taxes or cutting spending.</p>
+        <p>There are differences, however, in the chambers' approaches to pay-go. The House's approach is better because it has no tricky escape hatches. In contrast, the Senate's version of the budget contains an amendment that would make it all too easy to sidestep the rule. For example, 60 senators would be able to pass a bill today to extend Bush-era tax cuts set to expire in 2010, claiming that the resulting revenue losses would be ''paid for'' by a budget surplus projected for 2012.</p>
+        <p>The amendment would pose a big temptation to game the process, with a predictably bad outcome. Even if the projected surplus materialized, it would be temporary because of looming obligations for retiring baby boomers. So, using up the surplus in advance would only guarantee more federal debt later.</p>
+        <p>Senator Max Baucus, Democrat of Montana and chairman of the Senate Finance Committee, has championed the amendment as a way to smooth extension of otherwise expiring middle-class tax cuts, like the child tax credit. But it could just as well be used to gut the estate tax for America's wealthiest families or to bolster tax breaks for investors. In any event, the Baucus amendment violates the whole point of pay-go, which is to stick to it in the interest of long-term budget health.</p>
+        <p>In coming up with a final budget bill, Democrats and Republicans alike should embrace the House's clean, tough approach to pay-go. That would ensure that any renewal of expiring tax cuts would be married to a realistic plan to pay for them, based on resources at hand rather than projections. Pay-go itself should be waived only in a real budget emergency -- as in 1993, when it was waived to extend unemployment benefits temporarily in the aftermath of a recession. Lawmakers' unrelenting desire to lock in constituent-pleasing tax cuts is not what we would call an emergency.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

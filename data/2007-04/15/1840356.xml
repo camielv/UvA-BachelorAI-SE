@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Suicidal Secrets</title>
+    <meta content="15letters.t-8" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1840356"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <classifier class="indexing_service" type="descriptor">Teachers and School Employees</classifier>
+        <classifier class="indexing_service" type="descriptor">Suicides and Suicide Attempts</classifier>
+        <classifier class="indexing_service" type="descriptor">Mental Health and Disorders</classifier>
+        <person class="indexing_service">brookwood, marilyn</person>
+        <person class="indexing_service">Cohen, Randy</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suicides and Suicide Attempts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Teachers and School Employees</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mental Health and Disorders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A03E5DD123FF936A25757C0A9619C8B63" item-length="90" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Suicidal Secrets</hl1>
+      </hedline>
+      <abstract>
+        <p>Marilyn Brookwood letter comments on April 1 Ethicist column commenting on letter from teacher to whom student confided having suicidal thoughts</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>There can be no secrets when an adolescent in a school shares with an adult that he or she is considering suicide (The Ethicist, April 1). School personnel are ethically obliged to report such communications to clinical and administrative parties. And, most important, parents must be informed.</p>
+      </block>
+      <block class="full_text">
+        <p>There can be no secrets when an adolescent in a school shares with an adult that he or she is considering suicide (The Ethicist, April 1). School personnel are ethically obliged to report such communications to clinical and administrative parties. And, most important, parents must be informed.</p>
+        <p>The teacher was derelict in trying to handle the situation alone. Confidences cannot be kept when a life is at stake. The student may get angry at a broken promise, but will be alive to talk about it.</p>
+        <p>Marilyn Brookwood</p>
+        <p>New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

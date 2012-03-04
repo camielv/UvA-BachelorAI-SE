@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A High-Definition Projector That Competes on Price</title>
+    <meta content="26projector" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/26/technology/26projector.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842966"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CIRCUITS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070426T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9404E5DE153EF935A15757C0A9619C8B63" item-length="170" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A High-Definition Projector That Competes on Price</hl1>
+        <hl2 class="online_headline">A High-Definition Projector That Competes on Price</hl2>
+      </hedline>
+      <byline class="print_byline">By JOHN BIGGS</byline>
+      <byline class="normalized_byline">Biggs, John</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>HDTVs are becoming cheaper every day, but high-definition projectors have long been priced with King Midas and his cohort in mind. The Epson PowerLite Home Cinema 1080, however, costs about as much as a large-screen TV and lets you project a 100-inch HD picture on any wall.</p>
+        <p>The Home Cinema 1080 supports 1080p resolution -- or 1,920 pixels by 1,080 pixels -- and connects to HDMI-compatible devices like HD-DVD and Blu-ray disc players. It has a 12,000:1 contrast ratio and projects at a bright 1,200 lumens.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Epson PowerLite Home Cinema 1080 costs about as much as a large-screen TV and lets you project a 100-inch HD picture on any wall.</p>
+      </block>
+      <block class="full_text">
+        <p>HDTVs are becoming cheaper every day, but high-definition projectors have long been priced with King Midas and his cohort in mind. The Epson PowerLite Home Cinema 1080, however, costs about as much as a large-screen TV and lets you project a 100-inch HD picture on any wall.</p>
+        <p>The Home Cinema 1080 supports 1080p resolution -- or 1,920 pixels by 1,080 pixels -- and connects to HDMI-compatible devices like HD-DVD and Blu-ray disc players. It has a 12,000:1 contrast ratio and projects at a bright 1,200 lumens.</p>
+        <p>The projector can be mounted on the ceiling and its lens can be configured to ensure a sharp, evenly aligned picture in any position. Its lamp has low and high settings and offers about 3,000 hours of viewing time before it needs replacing.</p>
+        <p>While most HD projectors cost more than $4,000, the PowerLite Home Cinema, which is available now from stores and online retailers, is about $3,000. At that price, even Midas's poor relations can have their fill of wall-blanketing movies.</p>
+        <p>JOHN BIGGS</p>
+        <p>CIRCUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

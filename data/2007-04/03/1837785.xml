@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Chasm and Its Consequences</title>
+    <meta content="03lett-3" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Movies; Education; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837785"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="general_descriptor">Teachers and School Employees</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Graduate Schools and Students</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070403T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B03E4DB1F30F930A35757C0A9619C8B63" item-length="252" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Chasm and Its Consequences</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''A Tale of Power and Intrigue in the Lab, Based on Real Life'' (March 27): While certainly not condoning the murder of faculty mentors by their graduate students, I can appreciate the frustration that a student must feel, particularly after a long time in graduate school, when his hopes for an advanced degree are dashed. When I was a graduate in the late '40s, the path was clear. First, candidacy exams were taken, and then qualifying exams to see whether the student could proceed to the Ph.D. or be satisfied with an M.S.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''A Tale of Power and Intrigue in the Lab, Based on Real Life'' (March 27): While certainly not condoning the murder of faculty mentors by their graduate students, I can appreciate the frustration that a student must feel, particularly after a long time in graduate school, when his hopes for an advanced degree are dashed. When I was a graduate in the late '40s, the path was clear. First, candidacy exams were taken, and then qualifying exams to see whether the student could proceed to the Ph.D. or be satisfied with an M.S.</p>
+        <p>True, even at that time, certain professors demanded a seven- to nine-year stay for the degree, but they were for the most part avoided. As for tenure after years of teaching, but being turned down by your peers, this indicates that academia, for the most part, is a jungle ruled by emotion and politics.</p>
+        <p>Nelson Marans  Silver Spring, Md.</p>
+        <p>To the Editor:</p>
+        <p>I was in Iowa City when the physics graduate student Gang Lu shot and killed five members of the University of Iowa community. Every time I pass Van Allen Hall, I pause at the plaque with the names of the deceased. To have a filmmaker recreate this horrible event and make the Gang Lu character ''sunnier'' than the real Gang Lu and put ''much of the onus of being the bad guy'' on one of the advisers Gang Lu killed is utterly despicable.</p>
+        <p>Gary Sanders  Iowa City</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

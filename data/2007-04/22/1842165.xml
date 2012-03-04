@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Rebecca Schatzkin, Gregory Vincent</title>
+    <meta content="22schatzkin" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1842165"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Schatzkin, Rebecca Merrill</person>
+        <person class="indexing_service">Vincent, Gregory Lawrence</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0CEFDD163EF931A15757C0A9619C8B63" item-length="231" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Rebecca Schatzkin, Gregory Vincent</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Rebecca Merrill Schatzkin, the daughter of Dr. Tamara Harris and Dr. Arthur Schatzkin of Chevy Chase, Md., was married last evening to Gregory Lawrence Vincent, a son of Margaret Vincent and Fred Vincent of Philadelphia. Justice Karla Moskowitz of the New York State Supreme Court officiated at the Angel Orensanz Foundation for the Arts in New York.</p>
+        <p>The bride, 26, and the bridegroom, 30, met while working at the New Teacher Project, a nonprofit educational consulting organization in New York that helps educational agencies recruit, train and place teachers. Ms. Schatzkin is the director of placement for New York City Teaching Fellows, and Mr. Vincent is an adviser for more than 15 school districts across the country.</p>
+      </block>
+      <block class="full_text">
+        <p>Rebecca Merrill Schatzkin, the daughter of Dr. Tamara Harris and Dr. Arthur Schatzkin of Chevy Chase, Md., was married last evening to Gregory Lawrence Vincent, a son of Margaret Vincent and Fred Vincent of Philadelphia. Justice Karla Moskowitz of the New York State Supreme Court officiated at the Angel Orensanz Foundation for the Arts in New York.</p>
+        <p>The bride, 26, and the bridegroom, 30, met while working at the New Teacher Project, a nonprofit educational consulting organization in New York that helps educational agencies recruit, train and place teachers. Ms. Schatzkin is the director of placement for New York City Teaching Fellows, and Mr. Vincent is an adviser for more than 15 school districts across the country.</p>
+        <p>Ms. Schatzkin is keeping her name. She graduated from Columbia.</p>
+        <p>Her parents are medical researchers at the National Institutes of Health; her father, an internist, works in Rockville, Md., as the chief of the nutritional epidemiology branch of the National Cancer Institute, and her mother, a geriatrician, is the chief of the geriatric epidemiology laboratory section at the National Institute of Aging in Bethesda, Md.</p>
+        <p>Mr. Vincent graduated with high honors from Georgia Institute of Technology and received a master's degree in urban planning from the University of Pennsylvania.</p>
+        <p>His mother is the assistant principal at Penn Alexander, an elementary school in Philadelphia. His father coordinates tours and lectures for Landmarks Elderhostel in Philadelphia.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

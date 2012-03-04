@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Scientists Identify 7 New Diabetes Genes</title>
+    <meta content="27diabetes" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Education; Health; U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/27/us/27diabetes.html" name="alternate_url"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20070502T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1843178"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Diabetes</classifier>
+        <classifier class="indexing_service" type="descriptor">Genetics and Heredity</classifier>
+        <person class="indexing_service">Wade, Nicholas</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Diabetes</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="descriptor">Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="descriptor">Diabetes</classifier>
+        <classifier class="online_producer" type="descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diabetes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070427T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9503E1D6153EF934A15757C0A9619C8B63" item-length="1073" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Scientists Identify 7 New Diabetes Genes</hl1>
+        <hl2 class="online_headline">Scientists Identify 7 New Diabetes Genes</hl2>
+      </hedline>
+      <byline class="print_byline">By NICHOLAS WADE</byline>
+      <byline class="normalized_byline">Wade, Nicholas</byline>
+      <abstract>
+        <p>Researchers say they have identified seven new genes connected to most common form of diabetes; reports bring number of well-attested genes involved in adult-onset, or Type 2 diabetes up to 10; new genes do not immediately suggest any new therapy, but may point to new biological basis for disease, from which effective treatments could emerge in time (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Researchers said yesterday that they had identified seven new genes connected to the most common form of diabetes -- the latest result of an intensifying race between university researchers and private companies to find genes linked to a range of diseases.</p>
+        <p>The findings, presented in three reports by university scientists and one by a private company, offer novel insights into the biology of a disease that affects 170 million people worldwide.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The findings offer novel insights into the biology of a disease that affects 170 million people worldwide.</p>
+      </block>
+      <block class="full_text">
+        <p>Researchers said yesterday that they had identified seven new genes connected to the most common form of diabetes -- the latest result of an intensifying race between university researchers and private companies to find genes linked to a range of diseases.</p>
+        <p>The findings, presented in three reports by university scientists and one by a private company, offer novel insights into the biology of a disease that affects 170 million people worldwide.</p>
+        <p>And the sudden spate of new results mark an acceleration, and perhaps a turning point, in the ability to find disease genes, the long-promised payoff from the human genome project that began in 1989.</p>
+        <p>Yesterday's reports bring the number of well-attested genes involved in adult-onset, or Type 2 diabetes up to 10, from the 3 known previously. The new genes do not immediately suggest any new therapy, but may point to a new biological basis for the disease, from which effective treatments could emerge in time.</p>
+        <p>DeCode Genetics, an Icelandic company responsible for one of the reports, has dominated the gene-finding field for the last five years. The other papers come from three academic consortiums led by Dr. David Altshuler of the Broad Institute, Michael Boehnke of the University of Michigan and Mark McCarthy of the University of Oxford in England.</p>
+        <p>DeCode Genetics has been the first to find several major disease genes through skillful analysis of the Icelandic patient population and its well-documented health care system. Its academic competitors, with the support of the National Institutes of Health, have had to describe and analyze the much wider range of genetic variation in the American and European populations. This has required analyzing 10 million SNPs (pronounced snips), or sites of common genetic variation on the human genome, and cataloging them in a project known as the HapMap.</p>
+        <p>The academic approach has been plagued by claims of disease genes that have proven notoriously inaccurate.</p>
+        <p>''It has not been a terribly productive field until the last two or three months,'' Dr. McCarthy said.</p>
+        <p>But with improved technology and better understanding of the sources of error, the academic groups seem at last to have gotten their technique working. Known as whole genome association, the technique has now helped them identify several genes not yet found by DeCode.</p>
+        <p>''The DeCode paper only found one new gene, and we found three,'' Dr. McCarthy said.</p>
+        <p>Dr. Kari Stefansson, DeCode's chief executive, said that the new diabetes genes found by the university consortiums contributed only a small degree of extra risk and that he did not have the time or resources to go after them. But he acknowledged that his academic competitors were breathing harder on his heels.</p>
+        <p>''I would be a fool if I thought these guys would never pull their act together,'' Dr. Stefansson said, ''and besides, if we were the only ones to do this it would be an insupportable burden.''</p>
+        <p>Having done neurological research at the University of Chicago and Harvard, Dr. Stefansson is no stranger to the sharp elbows sometimes wielded in biomedical research, and indeed is not without a good pair of his own. He said his report last year on an important new diabetes gene, known as TCF7L2, had been rejected by both Nature and Science, two leading scientific journals, because of negative reports from his competitors, and he chided Science for now publishing reports on genes of lesser effect from the same people. Dr. Stefansson's paper on TCF7L2 was published in March 2006 in Nature Genetics.</p>
+        <p>A spokeswoman for Science declined to comment on whether the journal had rejected Dr. Stefansson's earlier paper.</p>
+        <p>Another mark of the quickening competition is that the reports from the academic groups were sped into electronic publication yesterday by Science, the magazine's spokeswoman said, so as to appear at the same time as the new report by DeCode Genetics in Nature Genetics.</p>
+        <p>Several researchers said that the new diabetes studies, and a soon-to-be-released report on seven major diseases prepared by the Welcome Trust in London, were a turning point in the pursuit of the genes that underlie common diseases like diabetes, cardiovascular disease, cancer and schizophrenia. The variant genes are common but each makes only a small contribution to disease, rendering them hard to identify.</p>
+        <p>There is considerable overlap in the diabetes genes identified in yesterday's four reports, giving the authors confidence that at last their whole genome association method is producing reliable results.</p>
+        <p>Until recently, ''there was no sense of progress'' in tracking down the genes of diabetes or other common diseases, Dr. Altshuler said. The logjam started to break a year ago with DeCode's report of its TCF7L2 gene, and the consistent findings reported by the academic centers yesterday ''has to be acknowledged as substantial progress,'' Dr. Altshuler said.</p>
+        <p>Dr. Boehnke agreed, saying, ''It's very exciting to have results in which we truly believe.'' Up to now, he said, diabetes research has been what his professor warned would be ''a geneticist's nightmare.''</p>
+        <p>The importance of the new genes is that they point to previously unknown pathways involved in diabetes. Dr. Altshuler agreed with Dr. Stefansson's view that DeCode's TCF7L2 gene has the largest effect on diabetes but said the other genes provide new insights regardless of the size of their effects.</p>
+        <p>''The fact that none of the genes found were on anyone's radar screen shows how much there is to learn,'' Dr. Altshuler said.</p>
+        <p>''I tip my hat to DeCode,'' he said. ''But the technology is now widely available,'' and in his view the only barrier to other teams contributing to gene discovery would be if they dropped the high standards of statistical rigor developed by the three academic consortiums.</p>
+        <p>Several of the new variant genes make the pancreatic beta cells produce less insulin, Dr. Altshuler said. That suggests that diabetes may start as a disease of too little insulin production, even though patients turn up in the doctor's office making too much insulin, to which their tissues have become resistant.</p>
+        <p>''A year ago, no one was talking this way but now, when you go to a meeting, people are scratching their heads and saying, 'Could this be true?' '' Dr. Altshuler said.</p>
+        <p>The variant genes found so far account for only 2 percent to 20 percent of the overall risk of diabetes, implying there are many more to be found. The present genes are not sufficient to distinguish reliably between people at low or high risk for diabetes, Dr. Boehnke said.</p>
+        <p>Correction:  May 2, 2007, Wednesday  An article on Friday about the identification of new genes connected to the most common forms of diabetes misspelled part of the name of the research organization preparing a report on seven major diseases. It is the Wellcome Trust in London, not the Welcome Trust.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: May 2, 2007, Wednesday</p>
+        <p>An article on Friday about the identification of new genes connected to the most common forms of diabetes misspelled part of the name of the research organization preparing a report on seven major diseases. It is the Wellcome Trust in London, not the Welcome Trust.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

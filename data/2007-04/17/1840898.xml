@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Little Tai Chi Can Go A Long Way Against Shingles</title>
+    <meta content="17exer" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Health&amp;Fitness" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/17/health/nutrition/17exer.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840898"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="VITAL SIGNS: EXERCISE"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Columns/Vital Signs</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Fitness and Nutrition</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Shingles (Disease)</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Viruses</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Alternative and Complementary Medicine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Fashion, Beauty and Fitness</classifier>
+        <classifier class="online_producer" type="descriptor">Shingles (Disease)</classifier>
+        <classifier class="online_producer" type="descriptor">Martial Arts</classifier>
+        <classifier class="online_producer" type="descriptor">Aged</classifier>
+        <classifier class="online_producer" type="descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Immune System</classifier>
+        <classifier class="online_producer" type="general_descriptor">Alternative and Complementary Medicine</classifier>
+        <classifier class="online_producer" type="general_descriptor">Exercise</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Age, Chronological</classifier>
+        <classifier class="online_producer" type="general_descriptor">Martial Arts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Viruses</classifier>
+        <classifier class="online_producer" type="general_descriptor">Aged</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070417T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D07E6DA113FF934A25757C0A9619C8B63" item-length="260" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Little Tai Chi Can Go A Long Way Against Shingles</hl1>
+        <hl2 class="online_headline">Exercise: A Little Tai Chi Can Go a Long Way Against Shingles</hl2>
+      </hedline>
+      <byline class="print_byline">By Eric Nagourney</byline>
+      <byline class="normalized_byline">Nagourney, Eric</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Older people who practice tai chi may be better equipped to fight off the virus that causes shingles or, if they do get the disease, may have a milder case of it, researchers say.</p>
+        <p>Shingles, a painful nerve condition, is caused by the virus that causes chickenpox. The virus, varicella-zoster, can linger in the body for many years after a case of chickenpox and then emerge as shingles. The disease generally affects people older than 50, as their level of antibodies to the virus decreases.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Older people who practice tai chi may be better equipped to fight off the virus that causes shingles or experience a milder case of it, researchers say.</p>
+      </block>
+      <block class="full_text">
+        <p>Older people who practice tai chi may be better equipped to fight off the virus that causes shingles or, if they do get the disease, may have a milder case of it, researchers say.</p>
+        <p>Shingles, a painful nerve condition, is caused by the virus that causes chickenpox. The virus, varicella-zoster, can linger in the body for many years after a case of chickenpox and then emerge as shingles. The disease generally affects people older than 50, as their level of antibodies to the virus decreases.</p>
+        <p>Tai chi, the centuries-old practice from China, is considered a martial art, but it includes aerobic activity, relaxation and meditation. It has been found in the past to strengthen people's immune systems.</p>
+        <p>In a study paid for by the National Institutes of Health, researchers took 112 volunteers ages 59 to 86 and split them into two groups. One was given 40-minute tai chi lessons three times a week for 16 weeks. The other was given health-counseling classes.</p>
+        <p>The researchers, led by Dr. Michael R. Irwin of the University of California, Los Angeles, found that the people who did tai chi improved their immunity to varicella-zoster. They also found that when the volunteers were vaccinated later against the virus, the tai chi practitioners had a better response to the vaccine. The study appears in the current issue of The Journal of the American Geriatrics Society.</p>
+        <p>The finding that the exercise significantly raised the volunteers' immunity to the shingles virus suggests that it may also offer help fighting off other viruses, the study said.</p>
+        <p>VITAL SIGNS: EXERCISE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

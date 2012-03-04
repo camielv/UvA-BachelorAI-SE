@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Do Your Homework (or Buy an Index Fund)</title>
+    <meta content="29stra" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/29/business/yourmoney/29stra.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1843813"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="STRATEGIES"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Strategies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Markets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./West</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="descriptor">Mutual Funds</classifier>
+        <classifier class="online_producer" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mutual Funds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <org class="online_producer">National Bureau of Economic Research</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D02EFDA123EF93AA15757C0A9619C8B63" item-length="831" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Do Your Homework (or Buy an Index Fund)</hl1>
+        <hl2 class="online_headline">Do Your Homework (or Buy an Index Fund)</hl2>
+      </hedline>
+      <byline class="print_byline">By MARK HULBERT</byline>
+      <byline class="normalized_byline">Hulbert, Mark</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>DON'T even consider holding actively managed mutual funds unless you're willing to switch funds often. All other fund investors should simply buy and hold an index fund for the long term.</p>
+        <p>That's the conclusion of a new study that has been circulating this month as a National Bureau of Economic Research working paper. The study, ''Return Persistence and Fund Flows in the Worst Performing Mutual Funds,'' was written by Jonathan B. Berk, a professor of finance at the University of California, Berkeley, and Ian Tonks, a professor of finance at the University of Exeter in Britain. A version is at nber.org/papers/w13042.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>If they’re not willing to switch funds often, fund investors should simply buy and hold an index fund for the long term, according to a new study.</p>
+      </block>
+      <block class="full_text">
+        <p>DON'T even consider holding actively managed mutual funds unless you're willing to switch funds often. All other fund investors should simply buy and hold an index fund for the long term.</p>
+        <p>That's the conclusion of a new study that has been circulating this month as a National Bureau of Economic Research working paper. The study, ''Return Persistence and Fund Flows in the Worst Performing Mutual Funds,'' was written by Jonathan B. Berk, a professor of finance at the University of California, Berkeley, and Ian Tonks, a professor of finance at the University of Exeter in Britain. A version is at nber.org/papers/w13042.</p>
+        <p>The study is based on a theory that Professor Berk helped develop several years ago, about how flows among mutual funds affect their subsequent returns. This theory is unlike many that come out of academia, because it is based on the idea that many managers have genuine stock-picking ability. The reason that so few mutual funds beat the market over the long term is that investors shift too much money into the successful ones, or so the theory goes. As a result, these funds' managers quickly become swamped with more money than they can invest profitably, causing performance to suffer.</p>
+        <p>A helpful analogy, Professor Berk said in an interview, is to the so-called Peter Principle, which predicts that employees will be promoted until they reach their level of incompetence. Similarly, a mutual fund manager who beats the market will continue to attract more assets until he can no longer beat the market.</p>
+        <p>The theory deals with averages and probabilities. Professor Berk doesn't deny that lots of other factors besides cash inflows -- including luck -- can play large roles in a particular fund's performance. And he concedes that it's possible for a top-performing fund manager to continue beating the market for a number of years, even after his fund receives a huge influx of new cash. But the theory nevertheless predicts that the probability is very low that a top-ranked fund will remain top-ranked for very long.</p>
+        <p>The data certainly provide strong support for this prediction: The mutual funds that have beaten the market in the recent past will rarely be able to keep doing so for longer than a few more months.</p>
+        <p>This theory has been less successful, however, when applied to the worst-performing mutual funds. Less-able managers should become competitive once their portfolios become small enough, because, according to Professor Berk, it is easier to beat the market with a smaller portfolio than with a larger one. So, as investors shift money out of a lagging fund, its size should stabilize at whatever lower level is necessary to give its manager a fighting chance of beating the market.</p>
+        <p>If this part of the theory were right, the worst performers would be no more likely to stay bottom-ranked than top performers to remain top-ranked. But that is not the case, according to the professors. A low-ranking performer, in fact, has a significantly greater chance of continuing to be a low-ranking performer than a top-ranking performer does of staying at the top.</p>
+        <p>In the new study, the professors determined the source of the theory's failure: Many investors just won't sell their funds, regardless of how badly they are performing. By not selling, this loyal group prevents poor performers from becoming small enough that their managers can become competitive again.</p>
+        <p>In their study, the professors did not analyze who these loyal investors might be, or why they would refuse to sell in the wake of poor performance. But Professor Berk says that their motivation may be as simple as an aversion to ''playing the game'' of constantly monitoring mutual funds' rankings and transferring money away from the losers and into the winners. After all, he said, this task can take much time and energy.</p>
+        <p>Whatever the motivation of these loyal investors, Professor Berk argues that their existence means that the rest of us have to stay on our toes to avoid holding one of worst-performing funds. As a rule of thumb, he says that at least once a quarter, investors should determine how their funds rank in trailing 12-month returns. They should consider transferring their money out of any fund that is ranked in the bottom 20 percent and into a fund in the top 20 percent, assuming that they will incur very low transaction costs when doing so, he said.</p>
+        <p>PROFESSOR Berk acknowledges that such an approach runs the risk of unfairly selling a fund whose bad performance is only temporary. Nevertheless, he says that this rule of thumb ''keeps you out of the dogs'' -- which he says is of paramount importance if you invest in actively managed funds. If all of this sounds like too much work, he recommends that you stick with index funds. Above all else, he says, you shouldn't buy and hold actively managed funds without checking on them, because you run the risk of holding a fund that will consistently lag behind the market.</p>
+        <p>STRATEGIES Mark Hulbert is editor of The Hulbert Financial Digest, a service of MarketWatch. E-mail: strategy@nytimes.com.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Mark Hulbert is editor of The Hulbert Financial Digest, a service of MarketWatch. E-mail: strategy@nytimes.com.</tagline>
+    </body.end>
+  </body>
+</nitf>

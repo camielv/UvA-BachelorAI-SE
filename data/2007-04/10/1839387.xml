@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Cold Weather Is Possible Factor in Leg Injuries in the Bronx</title>
+    <meta content="10pins" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/10/sports/baseball/10pins.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1839387"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="BASEBALL"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Yankees</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+        <org class="online_producer">New York Yankees</org>
+        <person class="online_producer">Damon, Johnny</person>
+        <person class="online_producer">Matsui, Hideki</person>
+        <person class="online_producer">Wang, Chien-Ming</person>
+        <person class="online_producer">Cashman, Brian</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070410T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E4DA153FF933A25757C0A9619C8B63" item-length="377" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Cold Weather Is Possible Factor in Leg Injuries in the Bronx</hl1>
+        <hl2 class="online_headline">Cold Possibly a Factor in Key Leg Injuries in the Bronx</hl2>
+      </hedline>
+      <byline class="print_byline">By TYLER KEPNER</byline>
+      <byline class="normalized_byline">Kepner, Tyler</byline>
+      <dateline>MINNEAPOLIS, April 9</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Yankees were thrilled to be indoors Monday, free of the frigid temperatures for their games last week in the Bronx. They lost three of their five games at home, and also lost two outfielders.</p>
+        <p>The cold might have caused the leg injuries sustained by the usually durable Johnny Damon and Hideki Matsui. Damon missed two games with a strained right calf, and Matsui is on the disabled list with a strained left hamstring. The Yankees' ace starter, Chien-Ming Wang, is also on the disabled list with a right hamstring strain from spring training.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>It is impossible to know the precise reason for Johnny Damon and Hideki Matsui’s injuries, but one factor is the Yankees’ new strength and conditioning program.</p>
+      </block>
+      <block class="full_text">
+        <p>The Yankees were thrilled to be indoors Monday, free of the frigid temperatures for their games last week in the Bronx. They lost three of their five games at home, and also lost two outfielders.</p>
+        <p>The cold might have caused the leg injuries sustained by the usually durable Johnny Damon and Hideki Matsui. Damon missed two games with a strained right calf, and Matsui is on the disabled list with a strained left hamstring. The Yankees' ace starter, Chien-Ming Wang, is also on the disabled list with a right hamstring strain from spring training.</p>
+        <p>It is impossible to know the precise reason for all the injuries. But one factor for the Yankees is their new strength and conditioning program.</p>
+        <p>General Manager Brian Cashman reworked the staff this year, letting Jeff Mangold go, hiring Marty Miller to the newly created position of director of performance enhancement and promoting Dana Cavalea to be Miller's assistant.</p>
+        <p>There is also a new weight room for the players at Yankee Stadium, part of a sponsorship deal between the Yankees and 24 Hour Fitness that is worth more than $10 million.</p>
+        <p>Miller and Cavalea do not speak to reporters, and Cashman would not detail what is different about their program. But players have privately described it as more intense, and some have opted out of it.</p>
+        <p>''You always have to look at things on the larger scale,'' Cashman said. ''It would be too early to look at that, because it's too small of a sample. We're trying some different things, but I have a feeling it has more to do with the weather than anything else.''</p>
+        <p>Cashman said he did not think the program was vastly different and added that several players have personal trainers and would not participate in any type of team-directed conditioning program.</p>
+        <p>''You can't force-feed it,'' Cashman said. ''It's there for them if they're interested.''</p>
+        <p>Matsui was injured Saturday during a game the Yankees played without taking batting practice on the field. They also did not take batting practice on Sunday, but Damon suggested to Manager Joe Torre that the team hold an early practice session before Monday's game. All of the position players took part.</p>
+        <p>Kevin Thompson joined the Yankees on Monday to replace Matsui.</p>
+        <p>BASEBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

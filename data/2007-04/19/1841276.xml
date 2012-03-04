@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   PENDIAS, STEPHEN P.</title>
+    <meta content="dn041907.1" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1841276"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">PENDIAS, STEPHEN P.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070419T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D01EFD81F3AF93AA25757C0A9619C8B63" item-length="43" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   PENDIAS, STEPHEN P.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>PENDIAS--Stephen P., on April 16th, 2007, of Garden City. Beloved husband of Sophie. Devoted father of Joan Pendias and Calli Checki. Loving grandfather of Matthew. Services Thursday, 10 am, at St Paul's Greek Orthodox Cathedral, West Hempstead, NY. Interment Calverton National Cemetery.</p>
+      </block>
+      <block class="full_text">
+        <p>PENDIAS--Stephen P., on April 16th, 2007, of Garden City. Beloved husband of Sophie. Devoted father of Joan Pendias and Calli Checki. Loving grandfather of Matthew. Services Thursday, 10 am, at St Paul's Greek Orthodox Cathedral, West Hempstead, NY. Interment Calverton National Cemetery.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

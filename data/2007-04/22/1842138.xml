@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Joanne Wang, David Golann</title>
+    <meta content="22wang" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1842138"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Wang, Joanne Jane (Joanne Jane Golann)</person>
+        <person class="indexing_service">Golann, David Warner</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B00E1DF163EF931A15757C0A9619C8B63" item-length="209" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Joanne Wang, David Golann</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Joanne Jane Wang, the daughter of Julia and Dong-Ping Wang of Stony Brook, N.Y., was married yesterday to David Warner Golann, a son of Jan F. Golann and Steven W. Golann of New York. The Rev. Dr. Paul Sorrentino, a minister of the Conservative Congregational Christian Conference, performed the ceremony at Three Village Church in East Setauket, N.Y.</p>
+        <p>The bride and bridegroom, both 24, met at Amherst, from which they graduated.</p>
+      </block>
+      <block class="full_text">
+        <p>Joanne Jane Wang, the daughter of Julia and Dong-Ping Wang of Stony Brook, N.Y., was married yesterday to David Warner Golann, a son of Jan F. Golann and Steven W. Golann of New York. The Rev. Dr. Paul Sorrentino, a minister of the Conservative Congregational Christian Conference, performed the ceremony at Three Village Church in East Setauket, N.Y.</p>
+        <p>The bride and bridegroom, both 24, met at Amherst, from which they graduated.</p>
+        <p>Mrs. Golann is a research assistant in the Community College Research Center at Teachers College at Columbia University in New York. She received a master's degree in social sciences from the University of Chicago.</p>
+        <p>Her father is a professor of oceanography at the State University of New York at Stony Brook.</p>
+        <p>Mr. Golann is an editorial assistant at R. A. Rapaport Publishing, a publisher of consumer health magazines in New York. He received a master's degree in American literature from Cambridge University in England.</p>
+        <p>His mother is a coordinator in the retail department at the Metropolitan Museum of Art in New York, and is a member of the vestry at St. James' Episcopal Church in New York. His father is a partner in Dalton Strategic Partnership, a London investment management firm; he manages the firm's New York office.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

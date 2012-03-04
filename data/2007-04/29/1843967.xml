@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Teenager Picked in First 10</title>
+    <meta content="29fifth-1" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1843967"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="FIFTH DOWN"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football/National Football League/Houston Texans</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football</classifier>
+        <classifier class="online_producer" type="general_descriptor">Draft and Recruitment (Sports)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E07E1DD133EF93AA15757C0A9619C8B63" item-length="109" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Teenager Picked in First 10</hl1>
+      </hedline>
+      <byline class="print_byline">By THAYER EVANS</byline>
+      <byline class="normalized_byline">Evans, Thayer</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Houston's selection of defensive end Mario Williams with the top overall pick in last year's draft elicited loud boos from those in attendance at Reliant Stadium.</p>
+        <p>But when the Texans used the 10th pick yesterday to choose the 19-year-old Louisville defensive tackle Amobi Okoye, they were cheered enthusiastically.</p>
+      </block>
+      <block class="full_text">
+        <p>Houston's selection of defensive end Mario Williams with the top overall pick in last year's draft elicited loud boos from those in attendance at Reliant Stadium.</p>
+        <p>But when the Texans used the 10th pick yesterday to choose the 19-year-old Louisville defensive tackle Amobi Okoye, they were cheered enthusiastically.</p>
+        <p>Okoye, a 6-foot-2, 302-pound native of Nigeria, is the youngest player to be selected in the first round since the National Football League and the American Football League merged in 1970. Okoye, who enrolled in college at 16, had 55 tackles, 15 tackles for a loss, 8 sacks and 3 forced fumbles as a senior in 2006.</p>
+        <p>THAYER EVANS</p>
+        <p>FIFTH DOWN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

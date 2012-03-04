@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Art in Review; Wilhelm Sasnal</title>
+    <meta content="06gall-3" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="33" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838395"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070406T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E03E5DB173FF935A35757C0A9619C8B63" item-length="301" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Art in Review; Wilhelm Sasnal</hl1>
+      </hedline>
+      <byline class="print_byline">By ROBERTA SMITH</byline>
+      <byline class="normalized_byline">Smith, Roberta</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Anton Kern Gallery  532 West 20th Street, Chelsea  Through April 14</p>
+        <p>With his third solo show in New York, the wildly popular Polish painter Wilhelm Sasnal extricates himself further from the long shadow of Luc Tuymans, the Belgian painter who is famous for his seductive surfaces, thorny subtexts and painterly purity. Mr. Sasnal's surfaces are noticeably not seductive, his subtexts are all but obscure, and his mediums are tacitly impure, even if they mix mostly in the mind of the beholder.</p>
+      </block>
+      <block class="full_text">
+        <p>Anton Kern Gallery  532 West 20th Street, Chelsea  Through April 14</p>
+        <p>With his third solo show in New York, the wildly popular Polish painter Wilhelm Sasnal extricates himself further from the long shadow of Luc Tuymans, the Belgian painter who is famous for his seductive surfaces, thorny subtexts and painterly purity. Mr. Sasnal's surfaces are noticeably not seductive, his subtexts are all but obscure, and his mediums are tacitly impure, even if they mix mostly in the mind of the beholder.</p>
+        <p>In this instance the cross-fertilization is between painting and film, with an 11-minute truncation of a 1960s Polish film (shot off a television set) functioning as a kind of frame and extended caption for the paintings. (See it first.)</p>
+        <p>The Communist-bloc drabness of the film -- based on actual events in which industrial methyl alcohol, sold as vodka, caused sickness, blindness and death -- helps explain but doesn't really justify the deprived, unfinished look of the paintings and their general lack of color. The light and angles in several might be called cinematic, especially one involving a hazy nimbus of sun seen through very close stalks of wheat.</p>
+        <p>Others seem to function as movie posters, while still others depict movie screens or an aperture. In the last canvas (moving clockwise) black liquid encroaches on a rendering of anonymous apartment blocks, evoking both the film's setting and the diffusions of black ink that Mr. Sasnal added to its closing scenes.</p>
+        <p>Like the Leipzig painter Neo Rauch, Mr. Sasnal makes the grip of the Communist era on the post-Communist imagination his subject. But while Mr. Rauch seems energized to the point of manic excess, Mr. Sasnal seems locked in some kind of pictorial post-traumatic stress syndrome. Genuine as it may be, it doesn't give the viewer enough to work with.</p>
+        <p>ROBERTA SMITH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

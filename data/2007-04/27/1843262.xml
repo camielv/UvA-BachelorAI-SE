@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Film in Review; Sing Now or Forever Hold Your Peace</title>
+    <meta content="27roun-2" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1843262"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Webster, Andy</person>
+        <person class="indexing_service">Leddy, Bruce</person>
+        <person class="indexing_service">Harbour, David</person>
+        <person class="indexing_service">Rogers, Red</person>
+        <person class="indexing_service">Chaplin, Alexander</person>
+        <object.title class="indexing_service">Sing Now or Forever Hold Your Peace (Movie)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/Reviews</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070427T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06EEDE123EF934A15757C0A9619C8B63" item-length="225" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Film in Review; Sing Now or Forever Hold Your Peace</hl1>
+      </hedline>
+      <byline class="print_byline">By ANDY WEBSTER</byline>
+      <byline class="normalized_byline">Webster, Andy</byline>
+      <abstract>
+        <p>Andy Webster reviews film Sing Now or Forever Hold Your Peace, directed by Bruce Leddy; David Harbour, Red Rogers and Alexander Chaplin star (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Opens today in the New York metropolitan area.  Directed by Bruce Leddy  Not rated; 94 minutes</p>
+        <p>In ''Sing Now or Forever Hold Your Peace,'' Bruce Leddy's ensemble dramedy about a seven-man college a cappella group reuniting after 15 years to perform at a classmate's wedding, midlife crisis is the prevailing refrain. At a Hamptons rehearsal weekend, an office technician (David Harbour) frets about age; a divorced lawyer (Reg Rogers) bemoans bachelorhood; a fired money manager (Alexander Chaplin) fears for his marriage. Also on hand are three wives, a girlfriend and a fetching Swedish nanny.</p>
+      </block>
+      <block class="full_text">
+        <p>Opens today in the New York metropolitan area.  Directed by Bruce Leddy  Not rated; 94 minutes</p>
+        <p>In ''Sing Now or Forever Hold Your Peace,'' Bruce Leddy's ensemble dramedy about a seven-man college a cappella group reuniting after 15 years to perform at a classmate's wedding, midlife crisis is the prevailing refrain. At a Hamptons rehearsal weekend, an office technician (David Harbour) frets about age; a divorced lawyer (Reg Rogers) bemoans bachelorhood; a fired money manager (Alexander Chaplin) fears for his marriage. Also on hand are three wives, a girlfriend and a fetching Swedish nanny.</p>
+        <p>''Sing Now,'' a ''Big Chill'' for today's 36-year-olds, aims to put wisdom and unrelenting quippery in a seaside light, buoyed with easily digested a cappella versions of songs by Coldplay, Phil Collins and their ilk. But its dramatic freight lurches, and intriguing characters (a sex savant, an Indian human beat box) are sold short; a thinning of the ranks might have helped.</p>
+        <p>Fortunately, there is Molly Shannon as the money manager's disgruntled wife, giving a selfless, robust performance. Bracingly astringent in an unlikable role, she almost turns a potential liability into the film's salvation.</p>
+        <p>ANDY WEBSTER</p>
+        <p>''Sing Now or Forever Hold Your Peace'' is rated R (Under 17 requires accompanying parent or adult guardian) for language and nudity. The a cappella covers are strictly G.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

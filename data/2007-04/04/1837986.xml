@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Downscaling Your Car</title>
+    <meta content="l04gas" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837986"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070404T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E3D71F30F937A35757C0A9619C8B63" item-length="128" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Downscaling Your Car</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>I sighed as I read yet another self-justification for urban S.U.V. driving -- ''I have two kids so I need it'' (''Drivers Offer a Collective Ho-Hum as Gasoline Prices Soar,'' Business Day, March 30).</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>I sighed as I read yet another self-justification for urban S.U.V. driving -- ''I have two kids so I need it'' (''Drivers Offer a Collective Ho-Hum as Gasoline Prices Soar,'' Business Day, March 30).</p>
+        <p>I drive a Skoda Octavia (a Volkswagen Jetta, more or less) with a 1.6-liter engine. Two car seats fit just fine in my back seat, I can fit the stroller and shopping in the trunk, and traffic allowing, I can do 90 miles an hour on the motorway. And with gas at the equivalent of $6.70 a gallon, I won't be trading up any time soon.</p>
+        <p>Yes, Americans, we can manage with smaller cars. Three years in Europe has taught me that much.</p>
+        <p>Alexis Rosoff Treeby  London, March 30, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

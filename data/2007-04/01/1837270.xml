@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Emily Fisher, Dennis Moore</title>
+    <meta content="01fisher" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837270"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Fisher, Emily Lorraine (Emily Lorraine Moore)</person>
+        <person class="indexing_service">Moore, Dennis Stephen</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950CE7DB1130F932A35757C0A9619C8B63" item-length="186" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Emily Fisher, Dennis Moore</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Emily Lorraine Fisher and Dennis Stephen Moore are to be married today at Jackson Square Park in New Orleans. The Rev. Dr. Jerry K. Schwehm, a Presbyterian minister, is to perform the ceremony.</p>
+        <p>The bride, 32, is an occupational health nurse practitioner at Health Services, a clinic in South San Francisco, Calif. She received a degree in biology from the University of California, San Diego, and another in nursing from the University of Memphis. She received a master's degree in nursing from the University of California, San Francisco. She is a daughter of Cynthia Anne Fisher and Robert Harold Fisher of Pensacola, Fla. Her father, a former Navy pilot, retired as a pilot at Federal Express in Memphis.</p>
+      </block>
+      <block class="full_text">
+        <p>Emily Lorraine Fisher and Dennis Stephen Moore are to be married today at Jackson Square Park in New Orleans. The Rev. Dr. Jerry K. Schwehm, a Presbyterian minister, is to perform the ceremony.</p>
+        <p>The bride, 32, is an occupational health nurse practitioner at Health Services, a clinic in South San Francisco, Calif. She received a degree in biology from the University of California, San Diego, and another in nursing from the University of Memphis. She received a master's degree in nursing from the University of California, San Francisco. She is a daughter of Cynthia Anne Fisher and Robert Harold Fisher of Pensacola, Fla. Her father, a former Navy pilot, retired as a pilot at Federal Express in Memphis.</p>
+        <p>The bridegroom, also 32, is a candidate for a master's in social work from the University of California, Berkeley. He graduated from the University of Massachusetts. He is a son of Kathleen Frances Moore and Paul Robert Moore of East Bridgewater, Mass. His mother is a nurse educator at Milton Hospital in Milton, Mass. His father is the chief of field service operations at the Boston Fire Department.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

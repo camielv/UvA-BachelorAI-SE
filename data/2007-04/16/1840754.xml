@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>James Lyons, 46, Film Editor and Actor</title>
+    <meta content="16lyons" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Movies; Obituaries; New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/16/arts/16lyons.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840754"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/News and Features/Obituaries</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/News and Features</classifier>
+        <classifier class="online_producer" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="descriptor">Motion Pictures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+        <person class="online_producer">Haynes, Todd</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070416T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E01E6DE113FF935A25757C0A9619C8B63" item-length="250" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>James Lyons, 46, Film Editor and Actor</hl1>
+        <hl2 class="online_headline">James Lyons, 46, Film Editor and Actor, Dies</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>James Lyons, a film editor whose most notable collaborations were with the director Todd Haynes on several feature films, including ''Safe,'' ''Velvet Goldmine'' and ''Far From Heaven,'' died Thursday in Manhattan. He was 46 and lived in Brooklyn Heights.</p>
+        <p>The cause was squamous cell cancer, which followed more than a decade of treatment for H.I.V., his brother Patrick said.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Mr. Lyons was a film editor whose most notable collaborations were with the director Todd Haynes on several feature films.</p>
+      </block>
+      <block class="full_text">
+        <p>James Lyons, a film editor whose most notable collaborations were with the director Todd Haynes on several feature films, including ''Safe,'' ''Velvet Goldmine'' and ''Far From Heaven,'' died Thursday in Manhattan. He was 46 and lived in Brooklyn Heights.</p>
+        <p>The cause was squamous cell cancer, which followed more than a decade of treatment for H.I.V., his brother Patrick said.</p>
+        <p>Mr. Lyons, often billed as Jim, gained notice for both his acting in and editing of ''Poison,'' Mr. Haynes's 1991 triptych, which won the grand jury prize at the 1991 Sundance Film Festival.</p>
+        <p>Mr. Lyons acted in several other films, including ''Postcards From America'' (1994), in which he played the artist David Wojnarowicz, an advocate for AIDS awareness. But it was as an editor that he primarily identified himself; among his other editing projects was Sofia Coppola's 1999 film, ''The Virgin Suicides.''</p>
+        <p>A member of Act Up, the AIDS awareness organization, in the 1990s, Mr. Lyons said he saw film as a medium to spread awareness of the disease. At his death, he was preparing to direct a short film about Andy Warhol.</p>
+        <p>Mr. Lyons is survived by his partner, Terrence Savage of Brooklyn Heights; his mother, Gladys M. Lyons of Port Jefferson Station on Long Island; four brothers, Patrick, of Port Washington, N.Y., an editor in the continuous news department at The New York Times, Timothy, of Port Jefferson Station, Thomas, of East Longmeadow, Mass., and John, of Pleasanton, Calif.; and a sister, Claire M. Roff of Massapequa Park, N.Y.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

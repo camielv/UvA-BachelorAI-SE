@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>NETS TRY OUT NEW BASKETBALLS</title>
+    <meta content="04nba-1" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837907"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="N.B.A. ROUNDUP"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball/National Basketball Association/New Jersey Nets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Basketball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070404T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F03E7DE163FF937A35757C0A9619C8B63" item-length="138" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>NETS TRY OUT NEW BASKETBALLS</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN ELIGON</byline>
+      <byline class="normalized_byline">Eligon, John</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Two representatives from Spalding were at the Nets' practice facility yesterday as players tested the company's synthetic basketballs.</p>
+        <p>The N.B.A. started this season with a new synthetic ball that players complained was too slippery and gave them cuts on their hands. The league switched back to the traditional leather ball in January.</p>
+      </block>
+      <block class="full_text">
+        <p>Two representatives from Spalding were at the Nets' practice facility yesterday as players tested the company's synthetic basketballs.</p>
+        <p>The N.B.A. started this season with a new synthetic ball that players complained was too slippery and gave them cuts on their hands. The league switched back to the traditional leather ball in January.</p>
+        <p>Nets point guard Jason Kidd, one of the biggest critics of the synthetic ball used earlier in the season, seemed pleased that the league was looking for input.</p>
+        <p>Still, Kidd was not necessarily a fan of change. ''Anytime you get equipment change and you've been in the league for a while, you hope they wait until after you're done,'' he said.</p>
+        <p>Sixteen teams have tested the new balls, but the N.B.A. is expected to stick with the leather ball next season.</p>
+        <p>JOHN ELIGON</p>
+        <p>N.B.A. ROUNDUP</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

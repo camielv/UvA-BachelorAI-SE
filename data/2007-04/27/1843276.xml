@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Art in Review; Delia Brown</title>
+    <meta content="27gall-3" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="28" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1843276"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070427T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9805E6DD123EF934A15757C0A9619C8B63" item-length="289" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Art in Review; Delia Brown</hl1>
+      </hedline>
+      <byline class="print_byline">By MARTHA SCHWENDENER</byline>
+      <byline class="normalized_byline">Schwendener, Martha</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Felicity and Caprice  D'Amelio Terras  525 West 22nd Street, Chelsea  Through May 4</p>
+        <p>A decade and a half into the figurative painting boom, artists are still raiding pockets of forgotten academic art and illustration and baiting viewers with their cringe-worthy finds. Delia Brown hasn't been particularly successful at this game. Her paintings often mirror their gilt and fashion-heavy sources a little too directly. She gains some ground here, though.</p>
+      </block>
+      <block class="full_text">
+        <p>Felicity and Caprice  D'Amelio Terras  525 West 22nd Street, Chelsea  Through May 4</p>
+        <p>A decade and a half into the figurative painting boom, artists are still raiding pockets of forgotten academic art and illustration and baiting viewers with their cringe-worthy finds. Delia Brown hasn't been particularly successful at this game. Her paintings often mirror their gilt and fashion-heavy sources a little too directly. She gains some ground here, though.</p>
+        <p>''Felicity and Caprice'' is part of a continuing series of drawings based loosely on Claude Chabrol's 1968 film, ''Les Biches.'' In Ms. Brown's hands, Mr. Chabrol's tale of a wealthy patron named Frédérique who picks up a street artist named Why is transformed into spare, disjointed storyboards starring Ms. Brown as a poodle-toting art collector. Ms. Brown's friend Hollis Witherspoon plays the young plein-air painter Felicity.</p>
+        <p>Drawn in graphite and white gouache on colored paper, the images recall academic drawing channeled through contemporary romantic fiction illustration. Mundane scenes like ''Caprice Treats Felicity to a Hot Dog in Front of the Museum,'' ''Caprice Admiring Felicity's Paintings'' and ''Felicity Handing the Coffee to Caprice'' hang on a dark wall alongside sordid episodes like ''Felicity Struggling With a Drugged Caprice'' and the culminating ''Caprice Drowned'' in the bathtub.</p>
+        <p>In a gallery news release Ms. Brown says she is ''stripping Allegory of its moral determinacy and therefore reducing it to a formal pastiche.'' Maybe. More interesting is how Ms. Brown has taken hold of a cache of references, from commercial illustration to French erotic cinema, and spun it into a deadpan, streamlined narrative about women, friendship and patronage. Given the vapid posing and high quotient of Champagne bottles in Ms. Brown's past work, this is a step forward.</p>
+        <p>MARTHA SCHWENDENER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

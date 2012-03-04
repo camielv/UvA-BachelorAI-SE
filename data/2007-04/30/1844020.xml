@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Latest Must-Have for Yuppies: A Blog About the Neighborhood</title>
+    <meta content="30nabes" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/30/business/media/30nabes.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1844020"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MEDIA TALK"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Blogs and Blogging (Internet)</classifier>
+        <classifier class="online_producer" type="descriptor">Restoration and Rehabilitation</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restoration and Rehabilitation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Urban Areas</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blogs and Blogging (Internet)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070430T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0DE3DC133EF933A05757C0A9619C8B63" item-length="306" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Latest Must-Have for Yuppies: A Blog About the Neighborhood</hl1>
+        <hl2 class="online_headline">The Latest Must-Have for Yuppies: A Blog About the Neighborhood</hl2>
+      </hedline>
+      <byline class="print_byline">By MARIA ASPAN</byline>
+      <byline class="normalized_byline">Aspan, Maria</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>First come the renovated condominiums, the latte bars and the expensive baby strollers. Next, apparently, come the bloggers.</p>
+        <p>One Web site's survey of the prevalence of blogs in urban neighborhoods found a link between gentrification and the number of people who feel compelled to think out loud about the changes in their backyards. The site, Outside.in, crowned Clinton Hill in Brooklyn as the most blogged-about neighborhood in America.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>First come the renovated condominiums, the latte bars and the expensive baby strollers. Next, apparently, come the bloggers.</p>
+      </block>
+      <block class="full_text">
+        <p>First come the renovated condominiums, the latte bars and the expensive baby strollers. Next, apparently, come the bloggers.</p>
+        <p>One Web site's survey of the prevalence of blogs in urban neighborhoods found a link between gentrification and the number of people who feel compelled to think out loud about the changes in their backyards. The site, Outside.in, crowned Clinton Hill in Brooklyn as the most blogged-about neighborhood in America.</p>
+        <p>Also on the top 10 list were Harlem; Shaw in Washington; downtown Los Angeles; Newton, Mass.; and Rogers Park/North Howard in Chicago.</p>
+        <p>Before the survey, the staff of Outside.in was ''not conscious that local blogging would be so closely allied with gentrification,'' said Steven Berlin Johnson, a founder of the site. Change, he said, ''makes people particularly interested in every little development in their neighborhoods.''</p>
+        <p>Outside.in was introduced in February as a collector of local news and blog posts, covering about 3,000 neighborhoods in more than 60 cities. It described Clinton Hill as a place with ''rapidly gentrifying tree-lined blocks of 19th-century townhouses'' and said that the neighborhood's leading blog was Brownstoner.com.</p>
+        <p>In determining the top 10 list, ''We approached it statistically from a couple of angles, and then took a little bit of editorial license,'' said Mr. Johnson. The latter, he said, included a decree that the list could contain only one neighborhood in Brooklyn, a borough that seems to have a rather high blogger density. The whole staff of Outside.in lives and works in Brooklyn, said Mr. Johnson, a resident of Park Slope.</p>
+        <p>In Clinton Hill, Jonathan Butler, the publisher of Brownstoner, did not take his blogging title too seriously. ''This either means we've got a lot of creative, community-minded people in the neighborhood or a lot of recluses with too much time on their hands,'' he wrote in an e-mail message.</p>
+        <p>MARIA ASPAN</p>
+        <p>MEDIA TALK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>This Time, Consumers Get To Pick the Winning Ad</title>
+    <meta content="30addes-1" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1844090"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="ADDENDA"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Addenda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Awards, Decorations and Honors</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070430T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A01E4DA133EF933A05757C0A9619C8B63" item-length="130" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>This Time, Consumers Get To Pick the Winning Ad</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Asking consumers to help create commercials is a hot trend in advertising. Now, the public is being invited for the first time to choose the winner of an advertising award.</p>
+        <p>The One Club for Art and Copy in New York has put up a Web site (oneshow.tv) where consumers can select their favorite commercial from among the spots from 2006 that are finalists for awards. At the One Show awards ceremony on May 9, the commercial with the most consumer votes will receive a People's Choice Award, said Mary Warlick, executive director of the club.</p>
+      </block>
+      <block class="full_text">
+        <p>Asking consumers to help create commercials is a hot trend in advertising. Now, the public is being invited for the first time to choose the winner of an advertising award.</p>
+        <p>The One Club for Art and Copy in New York has put up a Web site (oneshow.tv) where consumers can select their favorite commercial from among the spots from 2006 that are finalists for awards. At the One Show awards ceremony on May 9, the commercial with the most consumer votes will receive a People's Choice Award, said Mary Warlick, executive director of the club.</p>
+        <p>If the creators of the public's favorite spot are not among the winners of awards chosen by the show's professional judges, Ms. Warlick said, they will be invited to the ceremony to receive their prize.</p>
+        <p>ADDENDA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

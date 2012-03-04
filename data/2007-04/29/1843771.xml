@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Alicia Vitarelli, Matthew Pantaleno</title>
+    <meta content="29VITARELLI" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/29/fashion/weddings/29VITARELLI.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1843771"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Vitarelli, Alicia</person>
+        <person class="indexing_service">Pantaleno, Matthew</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E6DA123EF93AA15757C0A9619C8B63" item-length="218" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Alicia Vitarelli, Matthew Pantaleno</hl1>
+        <hl2 class="online_headline">Alicia Vitarelli, Matthew Pantaleno</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Alicia Vitarelli and Matthew Pantaleno are to be married today at Our Lady of Angels Church in Brooklyn. The Rev. James Devlin, a Roman Catholic priest, is to officiate.</p>
+        <p>The bride, 29, will continue to use her name professionally. She is the anchor of the morning news program ''Your Staten Island News Now'' on NY1 News. She graduated from Villanova and has a master's degree in broadcast journalism, magna cum laude, from Northwestern University.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Alicia Vitarelli and Matthew Pantaleno are to be married today at Our Lady of Angels Church in Brooklyn. The Rev. James Devlin, a Roman Catholic priest, is to officiate.</p>
+      </block>
+      <block class="full_text">
+        <p>Alicia Vitarelli and Matthew Pantaleno are to be married today at Our Lady of Angels Church in Brooklyn. The Rev. James Devlin, a Roman Catholic priest, is to officiate.</p>
+        <p>The bride, 29, will continue to use her name professionally. She is the anchor of the morning news program ''Your Staten Island News Now'' on NY1 News. She graduated from Villanova and has a master's degree in broadcast journalism, magna cum laude, from Northwestern University.</p>
+        <p>She is the daughter of Elizabeth Ann Vitarelli of Palm Beach, Fla., and Albert J. Vitarelli of Manhattan. Her mother is a director of nursing at Abbey Delray, a health care center in Delray Beach, Fla. Her father retired as the president of Manhattan Ford/Lincoln-Mercury/Jaguar. She is the stepdaughter of Sharon Vitarelli.</p>
+        <p>The bridegroom, 31, is the executive director of Staten Island Community Television and an adjunct professor of communications at the Staten Island campus of St. John's University. He is also a broadcaster for Sportstime, a weekly half-hour show that covers Staten Island sports on Time Warner Cable. He graduated from St. John's.</p>
+        <p>He is a son of Jasmine Pantaleno and James J. Pantaleno of Bay Terrace, Staten Island. His mother is an administrative assistant at Public School 9 in Manhattan. His father retired as an account executive for Con Edison in Manhattan.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

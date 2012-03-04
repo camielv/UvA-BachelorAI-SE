@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Everyday Gun Violence</title>
+    <meta content="l29guns" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1843829"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Firearms</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suicides and Suicide Attempts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9802E4D7123EF93AA15757C0A9619C8B63" item-length="194" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Everyday Gun Violence</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''An Accounting of Daily Gun Deaths'' (Week in Review, April 22):</p>
+        <p>Each year, I ask my seniors at Manual Arts High School in South Los Angeles if they have had direct experience with gun violence. They all raise their hands. They say they plot their paths to school based on the safest routes. They say gun violence is a reason that so many of their peers drop out of school. They and their younger siblings don't play outside.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''An Accounting of Daily Gun Deaths'' (Week in Review, April 22):</p>
+        <p>Each year, I ask my seniors at Manual Arts High School in South Los Angeles if they have had direct experience with gun violence. They all raise their hands. They say they plot their paths to school based on the safest routes. They say gun violence is a reason that so many of their peers drop out of school. They and their younger siblings don't play outside.</p>
+        <p>For people in communities like this all over this country, gun violence is a daily poison, breeding despair and hopelessness. America has focused on the drama of the Virginia Tech incident. The media will feed for weeks on this story.</p>
+        <p>People who experience gun violence every day because they are poor or live in the wrong neighborhood have become part of the urban landscape and go unseen even when their stories make their way into newspapers or onto television.</p>
+        <p>Gun violence never blights just individual lives. It blights families, neighborhoods and entire cities. It blights our whole country.</p>
+        <p>Ann Colburn  President  Women Against Gun Violence  Culver City, Calif., April 24, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

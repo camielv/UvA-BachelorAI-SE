@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Popular Demand</title>
+    <meta content="23mostpopular--" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1842460"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MOST WANTED"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Sales and Business Development</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sales</classifier>
+        <classifier class="online_producer" type="general_descriptor">DVD (Digital Versatile Disk)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070423T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D01E2D8173EF930A15757C0A9619C8B63" item-length="88" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Popular Demand</hl1>
+      </hedline>
+      <byline class="print_byline">By SHELLY FREIERMAN</byline>
+      <byline class="normalized_byline">Freierman, Shelly</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Most first-season top sellers are fairly recent shows. The first season of ''The Odd Couple'' is being released tomorrow. The ultimate buddy comedy starred Tony Randall (above, left, in a scene from 1972) and Jack Klugman as mismatched roommates.</p>
+        <p>''The Odd Couple'' had a five-year run starting in 1970, and many more in syndication. It has attained classic sitcom status, in spite of its one-joke premise, alongside more socially nuanced hits like ''All in the Family'' (on the air from 1971-79) and ''M*A*S*H'' (1972-83).</p>
+        <p>SHELLY FREIERMAN</p>
+      </block>
+      <block class="full_text">
+        <p>Most first-season top sellers are fairly recent shows. The first season of ''The Odd Couple'' is being released tomorrow. The ultimate buddy comedy starred Tony Randall (above, left, in a scene from 1972) and Jack Klugman as mismatched roommates.</p>
+        <p>''The Odd Couple'' had a five-year run starting in 1970, and many more in syndication. It has attained classic sitcom status, in spite of its one-joke premise, alongside more socially nuanced hits like ''All in the Family'' (on the air from 1971-79) and ''M*A*S*H'' (1972-83).</p>
+        <p>SHELLY FREIERMAN  MOST WANTED</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

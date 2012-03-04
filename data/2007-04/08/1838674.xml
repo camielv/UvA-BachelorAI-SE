@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>How's That Again?</title>
+    <meta content="08alsmail-4" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Movies; Arts; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838674"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="'ZOO'"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <classifier class="indexing_service" type="descriptor">Bestiality</classifier>
+        <person class="indexing_service">Mergott, Chip</person>
+        <object.title class="indexing_service">Zoo (Movie)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/News and Features</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070408T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9400E0D9163FF93BA35757C0A9619C8B63" item-length="59" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>How's That Again?</hl1>
+      </hedline>
+      <abstract>
+        <p>Chip Mergott letter about Apr 1 article on film Zoo says there is no lyrical side to bestiality (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''A Lyrical Approach to a Subject That Shocks'' [April 1]:</p>
+        <p>It's finally occurred to me that Dennis Lim's article on the film ''Zoo'' isn't a satirical parody. This will probably brand me as a hopeless square but here goes: There isn't any ''lyrical'' side to the subject of bestiality.</p>
+        <p>Chip Mergott  Doylestown, Pa.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''A Lyrical Approach to a Subject That Shocks'' [April 1]:</p>
+        <p>It's finally occurred to me that Dennis Lim's article on the film ''Zoo'' isn't a satirical parody. This will probably brand me as a hopeless square but here goes: There isn't any ''lyrical'' side to the subject of bestiality.</p>
+        <p>Chip Mergott  Doylestown, Pa.</p>
+        <p>'ZOO'</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

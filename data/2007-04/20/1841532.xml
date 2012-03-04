@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Portraitist's Grandson Creates Her Portrait on Film</title>
+    <meta content="20alic" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/20/movies/20alic.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1841532"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="FILM REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <person class="indexing_service">Seitz, Matt Zoller</person>
+        <person class="indexing_service">Neel, Andrew</person>
+        <person class="indexing_service">Neel, Alice (1900-84)</person>
+        <object.title class="indexing_service">Alice Neel (Movie)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/Reviews</classifier>
+        <classifier class="online_producer" type="descriptor">Motion Pictures</classifier>
+        <classifier class="online_producer" type="descriptor">Documentary Films and Programs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Documentary Films and Programs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+        <object.title class="online_producer">Alice Neel (Movie)</object.title>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070420T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F05E0DB1F3FF933A15757C0A9619C8B63" item-length="429" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Portraitist's Grandson Creates Her Portrait on Film</hl1>
+        <hl2 class="online_headline">A Portraitist’s Grandson Creates Her Portrait on Film</hl2>
+      </hedline>
+      <byline class="print_byline">By MATT ZOLLER SEITZ</byline>
+      <byline class="normalized_byline">Seitz, Matt Zoller</byline>
+      <abstract>
+        <p>Matt Zoller Seitz reviews Andrew Neel documentary film Alice Neel; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The fascinating documentary ''Alice Neel'' -- a biography of this influential, emotionally troubled painter by her grandson Andrew Neel -- could easily have been titled ''Form Follows Function.'' It achieves the documentary format's basic goal of illuminating history while also demonstrating, through filmmaking choices, how an artist's style reveals his or her personality.</p>
+        <p>Ms. Neel did striking work in the postwar era: haunting portraits that often focused on motherhood, abandonment and the survival of loss. (Her first child died of diphtheria, and her relationships with men -- from driven fellow artists to itinerant drug addicts -- ended badly, though they produced three more children.)</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The fascinating documentary “Alice Neel” illuminates history while also demonstrating how an artist’s style reveals his or her personality.</p>
+      </block>
+      <block class="full_text">
+        <p>The fascinating documentary ''Alice Neel'' -- a biography of this influential, emotionally troubled painter by her grandson Andrew Neel -- could easily have been titled ''Form Follows Function.'' It achieves the documentary format's basic goal of illuminating history while also demonstrating, through filmmaking choices, how an artist's style reveals his or her personality.</p>
+        <p>Ms. Neel did striking work in the postwar era: haunting portraits that often focused on motherhood, abandonment and the survival of loss. (Her first child died of diphtheria, and her relationships with men -- from driven fellow artists to itinerant drug addicts -- ended badly, though they produced three more children.)</p>
+        <p>At the time Abstract Expressionism and Pop Art were so fashionable that portrait painters were considered nostalgia acts. Ms. Neel spent much of her adult life on welfare and was marginalized until the late 1960s and '70s, when the counterculture embraced her, and major museums began showing her work.</p>
+        <p>Her paintings rendered foreground and background in such markedly different textures that they might as well have been produced by two painters in collaboration. This made her subjects seem to pop from the canvas and emphasized her humanistic approach to portraiture, which defined subjects' personalities with distinct colors and brushstrokes. Looking at her paintings, you sense roiling passion and combative intelligence held in check by discipline.</p>
+        <p>This movie reflects a similar mix of qualities. Mr. Neel juxtaposes relaxed interview footage and archival clips (including a black-and-white video interview in Ms. Neel's cluttered apartment, where she feeds pigeons outside her kitchen window) with more ragged, personal footage that reveals a filmmaker struggling to define an indefinable woman.</p>
+        <p>At one point Mr. Neel argues with his father, the physician Hartley Neel, on camera; at another he agrees to switch off his camera for privacy's sake, but instead just points it away and keeps the audio running.</p>
+        <p>The result is a film that seems more unfinished -- and thus more present tense -- than other examples of its type, and makes its subject, who died in 1984, seem very much alive.</p>
+        <p>Robert Storr, dean of the Yale School of Art, tells Andrew Neel that in Ms. Neel's portraits, ''You're seeing time happen rather than seeing time stopped.'' The statement also describes ''Alice Neel.''</p>
+        <p>Alice Neel  Opens today in Manhattan.</p>
+        <p>Directed by Andrew Neel; directors of photography, Mr. Neel, Ethan Palmer and Hillary Spera; edited by Luke Meyer; music by Jonah Rapino; produced by Mr. Palmer; released by SeeThink Productions. At the Cinema Village, 22 East 12th Street, Greenwich Village. Running time: 82 minutes. This film is not rated.</p>
+        <p>FILM REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

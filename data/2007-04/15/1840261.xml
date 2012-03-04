@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Celebrity Endorsement</title>
+    <meta content="05endpage.t" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="T: Beauty" name="dsk"/>
+    <meta content="98" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/15/style/tmagazine/15ttimeless.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840261"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Timeless"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/T: Style Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Fashion, Beauty and Fitness</classifier>
+        <classifier class="online_producer" type="descriptor">Skin</classifier>
+        <classifier class="online_producer" type="descriptor">Beauty</classifier>
+        <classifier class="online_producer" type="general_descriptor">Beauty</classifier>
+        <classifier class="online_producer" type="general_descriptor">Age, Chronological</classifier>
+        <classifier class="online_producer" type="general_descriptor">Skin</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cosmetics and Toiletries</classifier>
+        <person class="online_producer">Hart, Kitty Carlisle</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E3DF153FF936A25757C0A9619C8B63" item-length="218" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Celebrity Endorsement</hl1>
+        <hl2 class="online_headline">Celebrity Endorsement</hl2>
+      </hedline>
+      <byline class="print_byline">By Josh Patner</byline>
+      <byline class="normalized_byline">Patner, Josh</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>''I use Nivea. I swear by Nivea!'' Kitty Carlisle Hart exclaims. ''I was furious that they wouldn't let me be the Nivea girl.'' Hart, who danced with Cole Porter, sang with Irving Berlin and told jokes in between takes with the Marx Brothers, usually gets what she wants. She became the toast of the town in 1946, when she married the playwright Moss Hart, and today, at 96, having just finished a sold-out run at Feinstein's at the Regency, she remains her glamorous, imperturbable self. ''I'm lucky,'' she says. ''My left profile is very good-looking, and my right profile is very good-looking.'' Ba-dum-bum! That doesn't mean she spends no time preparing for a performance. ''I have to do a lot of stuff,'' she says. ''I have to put on foundation, which I never wear. And eyebrows. And mascara.'' Thanks to an old movie-star friend, she doesn't overdo it: ''Once Jeanette MacDonald called me, and she said, 'You're not doing your lips right. Too much lipstick.' '' Offstage, she never washes her face with soap, and her makeup takes all of 10 minutes. ''Pink cheeks. Hairdo. And very red lips.'' And she can't remember a day without Nivea. ''The best thing,'' she says, she's ever put on her face. (Send check in care of Hart.)</p>
+        <p>Josh Patner</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>How to be 96 and look like Kitty Carlisle Hart.</p>
+      </block>
+      <block class="full_text">
+        <p>''I use Nivea. I swear by Nivea!'' Kitty Carlisle Hart exclaims. ''I was furious that they wouldn't let me be the Nivea girl.'' Hart, who danced with Cole Porter, sang with Irving Berlin and told jokes in between takes with the Marx Brothers, usually gets what she wants. She became the toast of the town in 1946, when she married the playwright Moss Hart, and today, at 96, having just finished a sold-out run at Feinstein's at the Regency, she remains her glamorous, imperturbable self. ''I'm lucky,'' she says. ''My left profile is very good-looking, and my right profile is very good-looking.'' Ba-dum-bum! That doesn't mean she spends no time preparing for a performance. ''I have to do a lot of stuff,'' she says. ''I have to put on foundation, which I never wear. And eyebrows. And mascara.'' Thanks to an old movie-star friend, she doesn't overdo it: ''Once Jeanette MacDonald called me, and she said, 'You're not doing your lips right. Too much lipstick.' '' Offstage, she never washes her face with soap, and her makeup takes all of 10 minutes. ''Pink cheeks. Hairdo. And very red lips.'' And she can't remember a day without Nivea. ''The best thing,'' she says, she's ever put on her face. (Send check in care of Hart.)</p>
+        <p>Josh Patner  Timeless</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

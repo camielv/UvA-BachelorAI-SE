@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>At a Women's Event in China, Seeking a Slam-Foiling Lead</title>
+    <meta content="26card" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/26/crosswords/bridge/26card.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842938"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Bridge"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Crossword and Games/Bridge</classifier>
+        <classifier class="online_producer" type="descriptor">Cards and Card Games</classifier>
+        <classifier class="online_producer" type="descriptor">Bridge (Card Game)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cards and Card Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bridge (Card Game)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070426T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0DE3DF153EF935A15757C0A9619C8B63" item-length="530" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>At a Women's Event in China, Seeking a Slam-Foiling Lead</hl1>
+        <hl2 class="online_headline">At a Women’s Event in China, Seeking a Slam-Foiling Lead</hl2>
+      </hedline>
+      <byline class="print_byline">By Phillip Alder</byline>
+      <byline class="normalized_byline">Alder, Phillip</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Your opponents have an uncontested auction into six hearts. Your partner doubles, and you are on lead. What message is partner trying to transmit?</p>
+        <p>The diagramed deal occurred two weeks ago during the 96-board final of the Chinese Contract Bridge Association's Women's Team Championship. Beijing defeated Shanghai, 221.5 international match points to 181.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Your opponents have an uncontested auction into six hearts. Your partner doubles, and you are on lead. What message is partner trying to transmit?</p>
+      </block>
+      <block class="full_text">
+        <p>Your opponents have an uncontested auction into six hearts. Your partner doubles, and you are on lead. What message is partner trying to transmit?</p>
+        <p>The diagramed deal occurred two weeks ago during the 96-board final of the Chinese Contract Bridge Association's Women's Team Championship. Beijing defeated Shanghai, 221.5 international match points to 181.</p>
+        <p>At the other table, Wang Liping, South for Shanghai, opened one heart. Her partner, Zhang Yu, optimistically responded two clubs. This was the Drury convention, promising at least three-card heart support and a maximum pass. South, waiting not on tomorrow, leapt straight to six hearts. This was passed out, and Gu Ling (West) had a clear-cut lead: the spade king. Declarer won with her ace, cashed the heart ace, on which West discarded the diamond jack, and played a club to dummy's queen. Zhang Yalan (East) won with her ace and returned a spade to defeat the contract. Zhang knew that South was void in diamonds because she had not used Blackwood to check on aces.</p>
+        <p>In the other room, the auction went as given. One club was Precision, showing any hand with 16 or more high-card points. One diamond was the negative response, made with 0-7 points. Two hearts was two-way: either natural with long hearts or a balanced hand with at least 23 points. Two spades requested clarification, three clubs showing a heart-club two-suiter. Now Wang Hongli (North) produced an exuberant leap to five hearts, and Sun Ming (South) went to six hearts.</p>
+        <p>This contract would have suffered the same fate as at the other table until Wang Weifei (East) doubled because she held two aces.</p>
+        <p>On a purely mathematical basis, it was silly to double six hearts, trying to turn plus 100 into plus 200. If the contract made, the opponents' score would go from plus 1,430 to plus 1,660. And perhaps they would redouble and make it, giving them 2,070. (Also, although it did not apply here, they might run from a contract that cannot make into one that does. In the 1989 Venice Cup women's world team championship, a player held Q-J-10-6 of diamonds. When the opposing pair landed in seven diamonds, she doubled. Taking the hint, an opponent ran to seven no-trump, which was doubled on principle, and it was made on a squeeze. The doubler, instead of being plus 200 -- seven diamonds would have gone down two -- ended minus 2,490.)</p>
+        <p>So, many years ago, Theodore Lightner had the idea of a lead-directing slam double. Normally the doubler has a void and is hoping partner will lead this suit. And in cases of uncertainty, the leader selects the first suit bid by the dummy. Here, though, the dummy had not bid a suit in a natural sense.</p>
+        <p>Now it was understandable that Liu Yiqian (West) led the diamond jack -- a disastrous choice. Declarer called for dummy's king and ruffed away East's ace. In control, South lost only one trick to East's club ace, her spade deuce disappearing on dummy's diamond queen.</p>
+        <p>Plus 100 and plus 1,660 gave Beijing 18 imps on the way to the title. The winners were Dong Yongling, Gu, Sun, Wang, Yan Ru and Zhang.</p>
+        <p>Bridge</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

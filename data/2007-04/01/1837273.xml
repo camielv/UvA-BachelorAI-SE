@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Carrie Kurtz, Daniel Chandra</title>
+    <meta content="01kurtz" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/01/fashion/weddings/01kurtz.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837273"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Kurtz, Carrie (Carrie Chandra)</person>
+        <person class="indexing_service">Chandra, Daniel</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9507E6DB1130F932A35757C0A9619C8B63" item-length="185" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Carrie Kurtz, Daniel Chandra</hl1>
+        <hl2 class="online_headline">Carrie Kurtz, Daniel Chandra</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Carrie Kurtz, the daughter of Deborah and Charles E. Kurtz of Cheshire, Conn., was married yesterday to Daniel Chandra, the son of Lilac and Vijay Chandra of Fairfax Station, Va. The Rev. Thomas R. Schneider, a nondenominational minister, performed the ceremony at the Beaver Creek Chapel in Avon, Colo.</p>
+        <p>Mrs. Chandra, 33, is a senior vice president for strategy, sales and marketing at Capital IQ, a financial software company in New York. She graduated from the University of Vermont and received an M.B.A. from Georgetown.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Carrie Kurtz, the daughter of Deborah and Charles E. Kurtz of Cheshire, Conn., was married yesterday to Daniel Chandra, the son of Lilac and Vijay Chandra of Fairfax Station, Va. The Rev. Thomas R. Schneider, a nondenominational minister, performed the ceremony at the Beaver Creek Chapel in Avon, Colo.</p>
+      </block>
+      <block class="full_text">
+        <p>Carrie Kurtz, the daughter of Deborah and Charles E. Kurtz of Cheshire, Conn., was married yesterday to Daniel Chandra, the son of Lilac and Vijay Chandra of Fairfax Station, Va. The Rev. Thomas R. Schneider, a nondenominational minister, performed the ceremony at the Beaver Creek Chapel in Avon, Colo.</p>
+        <p>Mrs. Chandra, 33, is a senior vice president for strategy, sales and marketing at Capital IQ, a financial software company in New York. She graduated from the University of Vermont and received an M.B.A. from Georgetown.</p>
+        <p>Her father retired as a manager of Kurtz Farms, a plant wholesaler in Cheshire. He is a consultant to CK Greenhouses, another Cheshire plant wholesaler, which is owned by her brother, Charles E. Kurtz Jr. of Cheshire. Her mother is the office manager there.</p>
+        <p>Mr. Chandra, 32, is a senior vice president and an investment analyst at Brencourt Advisors, a New York hedge fund. He graduated from Stanford and received an M.B.A. from the University of Pennsylvania.</p>
+        <p>His father works in Herndon, Va., as a senior vice president in charge of the structures division at Parsons Brinckerhoff, the engineering company.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

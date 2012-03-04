@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Almost Like Having a Personal Secretary in the Kitchen</title>
+    <meta content="05smart" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/05/technology/05smart.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1838123"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CIRCUITS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Recording Equipment</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="indexing_service" type="descriptor">Voice Recognition Systems</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <org class="indexing_service">SmartShoppper</org>
+        <person class="indexing_service">Berger, Ivan</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sound</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recording Equipment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070405T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950CE4DB163FF936A35757C0A9619C8B63" item-length="164" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Almost Like Having a Personal Secretary in the Kitchen</hl1>
+        <hl2 class="online_headline">Almost Like Having a Personal Secretary in the Kitchen</hl2>
+      </hedline>
+      <byline class="print_byline">By IVAN BERGER</byline>
+      <byline class="normalized_byline">Berger, Ivan</byline>
+      <abstract>
+        <p>Almost Like Having a Personal Secretary in</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>You rarely realize your kitchen's running short of something until you are busy cooking -- and then, inevitably, the pencil for the shopping list is missing. Luckily, there's a gadget that will let you dictate it.</p>
+        <p>Tap a button on the SmartShopper, state your needs to its built-in microphone, and speech-recognition software turns them into text. SmartShopper recognizes 2,500 item names and common errands (''dry cleaners,'' say, or ''post office''), and lets you add items of your own. It also displays each new entry so you can correct it. When you're going out to shop, it prints out the list, alphabetized, with errands followed by your list of things to get.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>State your needs to SmartShopper’s built-in microphone and speech-recognition software turns them into text.</p>
+      </block>
+      <block class="full_text">
+        <p>You rarely realize your kitchen's running short of something until you are busy cooking -- and then, inevitably, the pencil for the shopping list is missing. Luckily, there's a gadget that will let you dictate it.</p>
+        <p>Tap a button on the SmartShopper, state your needs to its built-in microphone, and speech-recognition software turns them into text. SmartShopper recognizes 2,500 item names and common errands (''dry cleaners,'' say, or ''post office''), and lets you add items of your own. It also displays each new entry so you can correct it. When you're going out to shop, it prints out the list, alphabetized, with errands followed by your list of things to get.</p>
+        <p>Available from www.smartshopperusa.com, SmartShopper costs $149.95 and comes with three rolls of thermal paper. It also requires four AA batteries.</p>
+        <p>SmartShopper can be set on a counter, hung on the wall or magnetically attached to a refrigerator -- wherever you're most likely to be when you realize something's running low.</p>
+        <p>IVAN BERGER</p>
+        <p>CIRCUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

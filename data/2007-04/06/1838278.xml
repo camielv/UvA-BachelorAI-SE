@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>An Outsider's Delicate Approach to a Well-Worn Repertory</title>
+    <meta content="06bren" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/06/arts/music/06bren.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1838278"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MUSIC REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews/Classical</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="descriptor">Classical Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Classical Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <person class="online_producer">Brendel, Alfred</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070406T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E05E3DF173FF935A35757C0A9619C8B63" item-length="406" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>An Outsider's Delicate Approach to a Well-Worn Repertory</hl1>
+        <hl2 class="online_headline">An Outsider’s Delicate Approach to a Well-Worn Repertory</hl2>
+      </hedline>
+      <byline class="print_byline">By BERNARD HOLLAND</byline>
+      <byline class="normalized_byline">Holland, Bernard</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Admirers of Alfred Brendel can mark the arrival of spring by his annual visit to Carnegie Hall. There were no mysteries or surprises on Wednesday night: Haydn, Beethoven, Schubert and Mozart have always been the heart of Mr. Brendel's repertory, and here were all four. Like some gentleman farmer of the Classical piano repertory, he has been plowing and planting the same plot of land for more than 50 years. On the other hand there is a stubborn diligence and almost moral spiritual energy that sustains our attention.</p>
+        <p>One sees in this pianist the extra-musical appeal of an outsider, a self-made man and antistar who has achieved a star status of his own. Yet even when listeners don't like what Mr. Brendel does musically -- or notice his technical limitations in a world of fabulous virtuosos -- they acknowledge the consideration given to every square foot of territory.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The pianist played Haydn, Beethoven, Schubert and Mozart with stubborn diligence and spiritual energy on Wednesday at Carnegie Hall.</p>
+      </block>
+      <block class="full_text">
+        <p>Admirers of Alfred Brendel can mark the arrival of spring by his annual visit to Carnegie Hall. There were no mysteries or surprises on Wednesday night: Haydn, Beethoven, Schubert and Mozart have always been the heart of Mr. Brendel's repertory, and here were all four. Like some gentleman farmer of the Classical piano repertory, he has been plowing and planting the same plot of land for more than 50 years. On the other hand there is a stubborn diligence and almost moral spiritual energy that sustains our attention.</p>
+        <p>One sees in this pianist the extra-musical appeal of an outsider, a self-made man and antistar who has achieved a star status of his own. Yet even when listeners don't like what Mr. Brendel does musically -- or notice his technical limitations in a world of fabulous virtuosos -- they acknowledge the consideration given to every square foot of territory.</p>
+        <p>There is an argument for broadness -- many styles, many historical periods and an active interest in the present -- but Mr. Brendel argues as well for standing in close confines and digging deep beneath it.</p>
+        <p>The first half of this well-attended concert went better than the second. Haydn's C minor Sonata from 1771, like Schubert's F minor Impromptu after intermission, is a big piece masquerading as a small one. Movement stretches, shrinks, races ahead and stops in its tracks; and yet the subtle ligatures that bind these phrases together, often calculated silences, create a panoramic wholeness from bits and pieces. Haydn teases us one moment and deeply touches us the next. There are surprises around every corner and a blind alley or two.</p>
+        <p>The second movement is a study in monotony -- a sort of precursor to Satie -- and the pianist wisely lets it tick along. It may be blasphemy, but Haydn's sonata holds my interest where the more famous Mozart C minor Sonata at the end of the evening no longer does.</p>
+        <p>Is it also possible that Schubert's elaborate Impromptu -- with its fanfares, lyrical surges and intimate cross-handed dialogues -- is, when placed next to the big-statement, better-known ''Wanderer'' Fantasy, really the more significant music of the two?</p>
+        <p>At 76 Mr. Brendel can still manage Beethoven's Sonata, Op. 110, with considerable pianistic delicacy. The Schubert, including the irresistible theme-and-variations Impromptu in B flat, was curiously untidy despite lovely moments. I also wonder whether Mozart's Molto allegro marking really means the kind of hectic, hectoring approach visited on it here.</p>
+        <p>MUSIC REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

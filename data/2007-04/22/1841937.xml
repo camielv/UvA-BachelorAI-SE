@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>That's Me!</title>
+    <meta content="Letters.t-3" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1841937"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9802E4D8103FF931A15757C0A9619C8B63" item-length="206" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>That's Me!</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>The photo of the very suburban street in Los Alamos, N.M., above the review of Nora Gallagher's ''Changing Light'' (April 8) stopped me cold. I think I am the kid on the bike; my brother, Marshall Wilder, and his friend Bob Howes are playing leap frog in our yard. It must be 1947, after the Manhattan Project years. We are playing in the big yards of new houses in the Western Area.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>The photo of the very suburban street in Los Alamos, N.M., above the review of Nora Gallagher's ''Changing Light'' (April 8) stopped me cold. I think I am the kid on the bike; my brother, Marshall Wilder, and his friend Bob Howes are playing leap frog in our yard. It must be 1947, after the Manhattan Project years. We are playing in the big yards of new houses in the Western Area.</p>
+        <p>After World War II, many scientists wanted to return to their universities. Norris Bradbury, who took over the lab after Oppenheimer left in the fall of 1945, and whose son John I married, had these houses built to help persuade scientists to stay and finish the work they had begun.</p>
+        <p>The housing available during the Manhattan Project was the subject of much complaint, and there was never enough of it. My family lived in a shepherd's tent in Bandolier National Monument during the summer of 1945, when my father, Edward Wilder, worked at V-Site, fitting together the shaped explosive charges mentioned in the book. We did eventually live in the Western Area, at the corner of 45th and Sandia, the streets in the photo.</p>
+        <p>Ellen Bradbury-Reid  Santa Fe, N.M.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Shea Parking Will Be Scarce During Project</title>
+    <meta content="08shea" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/08/sports/baseball/08shea.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1838926"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Mets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="descriptor">Baseball</classifier>
+        <classifier class="online_producer" type="descriptor">Parking</classifier>
+        <classifier class="online_producer" type="general_descriptor">Parking</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stadiums and Arenas</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+        <org class="online_producer">New York Mets</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070408T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D01E5DB143FF93BA35757C0A9619C8B63" item-length="215" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Shea Parking Will Be Scarce During Project</hl1>
+        <hl2 class="online_headline">Shea Parking Will Be Scarce During Project</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Mets have tentative plans to place replica bases in the parking lot of their new ballpark, Citi Field, to commemorate the site of the infield at Shea Stadium. The more immediate concern to the team's fans may be finding a parking spot to watch José Reyes and his teammates run around the real bases this season.</p>
+        <p>Sandra Van Meek, the Mets' director for market development, said that stadium construction would make 2,100 spaces unavailable in the east parking lot for this season, including tomorrow's home opener against Philadelphia.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Mets have tentative plans to place replica bases in the parking lot of their new ballpark, Citi Field, to commemorate the site of the infield at Shea Stadium.</p>
+      </block>
+      <block class="full_text">
+        <p>The Mets have tentative plans to place replica bases in the parking lot of their new ballpark, Citi Field, to commemorate the site of the infield at Shea Stadium. The more immediate concern to the team's fans may be finding a parking spot to watch José Reyes and his teammates run around the real bases this season.</p>
+        <p>Sandra Van Meek, the Mets' director for market development, said that stadium construction would make 2,100 spaces unavailable in the east parking lot for this season, including tomorrow's home opener against Philadelphia.</p>
+        <p>The Mets' advance ticket sales are about 18 percent ahead of last season, when they drew 3.36 million fans, so parking will be at a premium. As a result, the team is stressing the use of trains, buses and even boats to get to Shea.</p>
+        <p>''Forty-four percent of fans used public transportation for the playoffs last year,'' Van Meek said. About 2,000 parking spots were unavailable at the time.</p>
+        <p>To help offset the reduced parking, the No. 7 subway line and the Long Island Rail Road will have expanded service on game days and nights.</p>
+        <p>The team will also continue the Mets Express Water Taxi Service, which began last year. It departs from docks in Brooklyn and Manhattan.</p>
+        <p>Citi Field is expected to open in 2009.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

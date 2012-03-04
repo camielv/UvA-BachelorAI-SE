@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Campaign Barnstorming</title>
+    <meta content="03pbaseball" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837694"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE CAUCUS: ON THE TRAIL"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008/Candidates</classifier>
+        <classifier class="online_producer" type="general_descriptor">Primaries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070403T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9906E6DD1F30F930A35757C0A9619C8B63" item-length="188" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Campaign Barnstorming</hl1>
+      </hedline>
+      <byline class="print_byline">By MARC SANTORA</byline>
+      <byline class="normalized_byline">Santora, Marc</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Rudolph W. Giuliani's most intense week of campaigning to date, traveling in five states over four days, will begin and end in baseball stadiums.</p>
+        <p>Mr. Giuliani, an avid Yankee fan, attended the team's opening game in New York yesterday afternoon before flying off to New Hampshire, followed by Iowa, Florida and South Carolina. On Thursday, he will throw out the first pitch for the Myrtle Beach Pelicans, a minor league team.</p>
+      </block>
+      <block class="full_text">
+        <p>Rudolph W. Giuliani's most intense week of campaigning to date, traveling in five states over four days, will begin and end in baseball stadiums.</p>
+        <p>Mr. Giuliani, an avid Yankee fan, attended the team's opening game in New York yesterday afternoon before flying off to New Hampshire, followed by Iowa, Florida and South Carolina. On Thursday, he will throw out the first pitch for the Myrtle Beach Pelicans, a minor league team.</p>
+        <p>Obviously, he understands the iconic power of the diamond. The association between politicians and baseball goes back to President William Howard Taft. He was the first president to throw out the opening day pitch -- from his seat in the stands -- at a game featuring the Washington Senators on April 14, 1910. But the current president, George Bush, once a part-owner of the Texas Rangers, was conspicuously absent on the Washington Nationals' opening day yesterday. Mr. Bush was in town, but his schedule, which included presenting a trophy to the Naval Academy football team, prevented him from breaking away. It is the Nationals' second home opener this baseball-loving president has missed in two years.</p>
+        <p>MARC SANTORA</p>
+        <p>THE CAUCUS: ON THE TRAIL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; CBS Provides an Eyeful</title>
+    <meta content="03arts-5" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837782"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ratings and Rating Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070403T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F01E5DB1F30F930A35757C0A9619C8B63" item-length="189" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; CBS Provides an Eyeful</hl1>
+      </hedline>
+      <byline class="print_byline">By BENJAMIN TOFF; Compiled by Lawrence Van Gelder</byline>
+      <byline class="normalized_byline">Toff, Benjamin</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Aided by ''Cold Case'' and ''60 Minutes,'' CBS won the title of most watched network on Sunday, but ABC surged ahead for the night among adults 18 to 49. According to Nielsen's estimates, ''Cold Case'' drew the night's largest audience with 13.1 million viewers, dominating the 10 p.m. hour. CBS's veteran newsmagazine ''60 Minutes'' also won the 7 p.m. hour with 11.4 million viewers, but an extended double episode of CBS's ''Amazing Race: All Stars'' averaged 9 million viewers, finishing third in both the 8 and 9 o'clock hours. Among adults 18 to 49, ABC remained on top with its lineup of an ''Extreme Makeover: Home Edition'' rerun at 8 (9.8 million), followed by a ''Desperate Housewives'' clip show at 9 (9.8 million) and a new episode of ''Brothers &amp; Sisters'' at 10 (9.1 million). Fox ranked third in the 18-to-49 demographic although new episodes of ''King of the Hill'' at 8:30 (6.3 million) and ''American Dad'' at 9:30 (5.9 million) finished first in their time slots among adults 18 to 34. NBC was fourth among those 18 to 49.</p>
+        <p>BENJAMIN TOFF</p>
+      </block>
+      <block class="full_text">
+        <p>Aided by ''Cold Case'' and ''60 Minutes,'' CBS won the title of most watched network on Sunday, but ABC surged ahead for the night among adults 18 to 49. According to Nielsen's estimates, ''Cold Case'' drew the night's largest audience with 13.1 million viewers, dominating the 10 p.m. hour. CBS's veteran newsmagazine ''60 Minutes'' also won the 7 p.m. hour with 11.4 million viewers, but an extended double episode of CBS's ''Amazing Race: All Stars'' averaged 9 million viewers, finishing third in both the 8 and 9 o'clock hours. Among adults 18 to 49, ABC remained on top with its lineup of an ''Extreme Makeover: Home Edition'' rerun at 8 (9.8 million), followed by a ''Desperate Housewives'' clip show at 9 (9.8 million) and a new episode of ''Brothers &amp; Sisters'' at 10 (9.1 million). Fox ranked third in the 18-to-49 demographic although new episodes of ''King of the Hill'' at 8:30 (6.3 million) and ''American Dad'' at 9:30 (5.9 million) finished first in their time slots among adults 18 to 34. NBC was fourth among those 18 to 49.</p>
+        <p>BENJAMIN TOFF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

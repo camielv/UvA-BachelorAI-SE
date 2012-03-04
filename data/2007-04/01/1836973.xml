@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   GINSBURG, DR. HENRY DAVID</title>
+    <meta content="dn040107.1" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="27" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1836973"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">GINSBURG, DR. HENRY DAVID</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE5D9153AF932A35757C0A9619C8B63" item-length="135" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   GINSBURG, DR. HENRY DAVID</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>GINSBURG--Dr. Henry David, died March 29, 2007 at the age of 66 in New York City of complications following an aortic dissection. He is survived by his brother Carl Ginsburg of Bad Soden, Germany, and his sister Deborah Ramsden of Woodstock, NY. Son of the late Benjamin and Cora Ginsburg, Henry was a graduate of Columbia University and the School of Oriental and African Studies, University of London. A resident of London for many years, he was a curator of Thai and Cambodian collections at the British Library until his retirement. An esteemed scholar of Thai painting, Henry was also an accomplished musician. He leaves many loving friends on three continents. A memorial service will be announced at a later date. Memorial contributions may be made to Amnesty International or to Doctors Without Borders.</p>
+      </block>
+      <block class="full_text">
+        <p>GINSBURG--Dr. Henry David, died March 29, 2007 at the age of 66 in New York City of complications following an aortic dissection. He is survived by his brother Carl Ginsburg of Bad Soden, Germany, and his sister Deborah Ramsden of Woodstock, NY. Son of the late Benjamin and Cora Ginsburg, Henry was a graduate of Columbia University and the School of Oriental and African Studies, University of London. A resident of London for many years, he was a curator of Thai and Cambodian collections at the British Library until his retirement. An esteemed scholar of Thai painting, Henry was also an accomplished musician. He leaves many loving friends on three continents. A memorial service will be announced at a later date. Memorial contributions may be made to Amnesty International or to Doctors Without Borders.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

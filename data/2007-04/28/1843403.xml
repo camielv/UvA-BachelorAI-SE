@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Dow May Be at Its High, but Its Performance Is Still Lacking</title>
+    <meta content="28charts" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/28/business/28charts.html" name="alternate_url"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20070503T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1843403"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="OFF THE CHARTS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Markets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="descriptor">Dow Jones Stock Average</classifier>
+        <classifier class="online_producer" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dow Jones Stock Average</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <org class="online_producer">Standard &amp; Poor's Corp</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070428T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9902E3D8123EF93BA15757C0A9619C8B63" item-length="599" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Dow May Be at Its High, but Its Performance Is Still Lacking</hl1>
+        <hl2 class="online_headline">The Dow May Be at Its High, but Its Performance Is Still Lacking</hl2>
+      </hedline>
+      <byline class="print_byline">By FLOYD NORRIS</byline>
+      <byline class="normalized_byline">Norris, Floyd</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE Dow Jones industrial average rose above 13,000 this week, well above the highest point it reached in 2000 before the technology stock bubble burst and the country went into a recession in 2001.</p>
+        <p>At the same time, the Standard &amp; Poor's 500-stock index, which is the Dow's principal competition for most prominent index in the United States, has not yet made it back to its lofty 2000 peak.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Only half of the stocks in the Dow are higher than in 2000, while the number of rising stocks in the S.&amp; P. is triple the number of losers.</p>
+      </block>
+      <block class="full_text">
+        <p>THE Dow Jones industrial average rose above 13,000 this week, well above the highest point it reached in 2000 before the technology stock bubble burst and the country went into a recession in 2001.</p>
+        <p>At the same time, the Standard &amp; Poor's 500-stock index, which is the Dow's principal competition for most prominent index in the United States, has not yet made it back to its lofty 2000 peak.</p>
+        <p>But does that mean the stocks in the Dow have done better than those in the S.&amp; P. index since the market peaked in 2000? Actually not. As can be seen in the accompanying charts, only half of the stocks in the Dow are higher than they were back then, while the number of rising stocks in the S.&amp; P. is triple the number of losers.</p>
+        <p>At issue is how indexes are calculated. There are at least three ways that major indexes are calculated, and the choice of one or the other can make a big difference.</p>
+        <p>The Dow is normally calculated as a price-weighted index, meaning that stocks with the highest price for a share get the heaviest weighting. That is largely a historical accident, as it was the easiest way to do it in the 19th century, when the best calculator available was a person with a pencil.</p>
+        <p>The most common method of calculating indexes is by market capitalization, in which the companies with the largest market value count for the most. The chart shows how the Dow would look if it were calculated in that manner, instead of the other.</p>
+        <p>While the Dow is up 18 percent from March 24, 2000, when the S.&amp; P. peaked, it would have been down 8 percent had market capitalizations been used in the computation. That reflects the fact that some of the Dow stocks that did the worst, including General Electric, Microsoft, Intel and Pfizer, are large capitalization stocks that had relatively low share prices. That meant they had little impact on the Dow as normally calculated, but a large effect on the Dow as computed using capitalization figures.</p>
+        <p>The third method often used in index calculations is one of equal weighting, which assumes that one puts the same dollar value into each stock in the index.</p>
+        <p>The chart shows that the S.&amp; P. 500, calculated by market capitalization, is still 2 percent below where it was on March 24, 2000. But that reflects poor performances by some of the same very large companies that starred before 2000 and have not done as well since. Calculated by equal-weighting, the S.&amp; P. 500 is 82 percent higher than it was in 2000.</p>
+        <p>In every year from 1994 to 1999, the equal-weighted index did worse than the normal S.&amp; P. In every year since, it has done better. So far in 2007, that pattern has continued, with the equal-weighted index up 7 percent, and the normal S.&amp; P. up 5 percent.</p>
+        <p>There is no price-weighted version of the S.&amp; P. available, nor is there an equal-weighted version of the Dow. But using the market capitalization versions, it is clear the Dow has underperformed, even if it is the Dow that is the index setting records these days.</p>
+        <p>And investors with an international perspective may note that the United States dollar is not what it used to be. At the peak of the stock market in 2000, a euro was worth less than a dollar. Now a euro is worth more than $1.35.</p>
+        <p>Measured in euros, the price-weighted Dow is still 15 percent lower than it was in March 2000.</p>
+        <p>OFF THE CHARTS</p>
+        <p>Correction:  May 3, 2007, Thursday  A chart with the Off the Charts column in Business Day on Saturday misstated the performance of Merck stock from March 24, 2000, to April 27, 2007. It fell 11.3 percent; it did not rise 37.5 percent.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: May 3, 2007, Thursday</p>
+        <p>A chart with the Off the Charts column in Business Day on Saturday misstated the performance of Merck stock from March 24, 2000, to April 27, 2007. It fell 11.3 percent; it did not rise 37.5 percent.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

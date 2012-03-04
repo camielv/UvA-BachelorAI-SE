@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Creative Collective</title>
+    <meta content="15weartsWC" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Westchester Weekly Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="14WC" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/15/nyregion/nyregionspecial2/15wearts.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840411"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Arts and Entertainment"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Art</classifier>
+        <classifier class="indexing_service" type="descriptor">Handicrafts</classifier>
+        <location class="indexing_service">Yonkers (NY)</location>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Westchester</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="descriptor">Art</classifier>
+        <classifier class="online_producer" type="general_descriptor">Handicrafts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+        <location class="online_producer">Westchester County (NY)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE1D7123FF936A25757C0A9619C8B63" item-length="362" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Creative Collective</hl1>
+        <hl2 class="online_headline">Creative Collective</hl2>
+      </hedline>
+      <abstract>
+        <p>Article on former Alexander Smith Carpet Mills Building in Yonkers, NY, where group of resident artists and craftspeople is preparing for its fourth annual YoHo Artists Open Studio Tour; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A GROUP of artists and craftspeople who have been transforming sections of the Alexander Smith Carpet Mills Building in Yonkers (below) into creative spaces will display their works next weekend during the fourth annual YoHo Artists Open Studio Tour (www.yohoartists.com).</p>
+        <p>Amy Pasco, chairwoman of the event, describes the group as ''an emerging collective.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>At a former carpet factory in Yonkers, a group of artists prepare for their 4th annual open house.</p>
+      </block>
+      <block class="full_text">
+        <p>A GROUP of artists and craftspeople who have been transforming sections of the Alexander Smith Carpet Mills Building in Yonkers (below) into creative spaces will display their works next weekend during the fourth annual YoHo Artists Open Studio Tour (www.yohoartists.com).</p>
+        <p>Amy Pasco, chairwoman of the event, describes the group as ''an emerging collective.''</p>
+        <p>''We come together several times a year to exchange ideas, and in the process are trying to cement together a community that has not been in existence there,'' said Ms. Pasco, who makes mosaics and jewelry.</p>
+        <p>About 24 resident painters, sculptors, photographers, illustrators, etchers and assemblage artists, as well as 10 guests exhibiting in a newly created gallery space, will be at 578 Nepperhan Avenue on April 21 and 22 from noon to 5 p.m., ready to talk about their work and perhaps sell some of it. Librado Romero, a New York Times photographer who has a studio in an adjacent building and is a former member of the group, photographed several artists who will be opening their doors to the public.</p>
+        <p>Like the other resident artists, the seven shown here, clockwise from top left, are a diverse lot. Paulo Suzuki, who also has a studio in Brazil, works with asphalt on canvas. Michelle Frick is producing a silkscreen series about her 4-year-old son's heart operations. Barbara King is shown with her ''Decorations,'' a conceptual installation she began in 1989. Kayle Nochomovitz does oil portraits on commission. Ginny Fox works with painted acrylic box-forms and encaustic on wood. David Fischweicher, shown moving his sculptures (with the help of Mr. Suzuki) for a show in the Catskills, used to teach science in the New York City public schools. Ervin Vincent T. Chandler, who works in oil pastels, came to the United States from Trinidad in 1980 and has been painting in the former factory since 2001, when YoHo was just a speck on the cultural map.</p>
+        <p>With the help of the building's owner, that speck has been steadily growing. ''George Huang, the current landlord, is an avid supporter of artists being in his building,'' Ms. Pasco said, ''and he is attempting to help them create some sort of cogent community.''</p>
+        <p>Arts and Entertainment</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TurboTax Software Slows Just as the Big Deadline Nears</title>
+    <meta content="23intuit" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/23/technology/23intuit.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842366"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="TECHNOLOGY"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="descriptor">Taxation</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Taxation</classifier>
+        <org class="online_producer">Intuit Incorporated</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070423T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9506E5DA173EF930A15757C0A9619C8B63" item-length="1240" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TurboTax Software Slows Just as the Big Deadline Nears</hl1>
+        <hl2 class="online_headline">TurboTax Software Slows Just as the Big Deadline Nears</hl2>
+      </hedline>
+      <byline class="print_byline">By DAMON DARLIN</byline>
+      <byline class="normalized_byline">Darlin, Damon</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>When thousands of users of TurboTax software from Intuit found themselves mired in a computer slowdown as they tried to file returns at the deadline last week, the company faced a storm of anger over the inconvenience and potential penalties.</p>
+        <p>But the episode had another impact: it has reignited a debate over the fees collected by Intuit and other companies for handling the electronic returns in the first place. Intuit charges its TurboTax customers $17 to file their taxes electronically. Fees by other companies vary.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A system problem at Intuit meant that some taxpayers could not submit their returns on time.</p>
+      </block>
+      <block class="full_text">
+        <p>When thousands of users of TurboTax software from Intuit found themselves mired in a computer slowdown as they tried to file returns at the deadline last week, the company faced a storm of anger over the inconvenience and potential penalties.</p>
+        <p>But the episode had another impact: it has reignited a debate over the fees collected by Intuit and other companies for handling the electronic returns in the first place. Intuit charges its TurboTax customers $17 to file their taxes electronically. Fees by other companies vary.</p>
+        <p>Intuit and other companies maintain computer systems that relay the returns to the tax collectors, and the government-authorized fees are meant to compensate them for their investment and expense. Now some are questioning whether the fees amount to a tax on a tax and should be waived for all electronic filers, as they already are for lower-income taxpayers.</p>
+        <p>The fees have become a significant source of revenue. The Joint Economic Committee, the economic research center for Congress, estimated that taxpayers paid $1.01 billion in fees to companies to file their taxes electronically in 2006, a year when the Internal Revenue Service said 54 percent of all returns were filed electronically. Congress has set a goal that 80 percent of all returns will be filed electronically next year.</p>
+        <p>When a taxpayer files electronically through TurboTax, the information goes first to Intuit's data center, where the file is batched with others and then sent to I.R.S. computers. The process is almost instantaneous, the company said -- when everything goes right. ''We are just the transmitter of the return,'' said Julie Miller, a spokeswoman for the Intuit TurboTax unit. ''In the middle there are no additional steps we are taking.''</p>
+        <p>So that raises the question: Why is there a need for an intermediary? The Internet's greatest impact on business has been to cut out the middle step and thereby cut the cost of the product or service. In this case, transmitting electrons over the Internet costs consumers several times as much as mailing the bulky return. (There is a benefit to the taxpayer for using the Internet; sending it electronically, if coupled with direct deposit of the refund, cuts the waiting time for the refund to less than 14 days.)</p>
+        <p>The interruption that began Tuesday and persisted past the midnight deadline was not expected to hurt TurboTax customers financially, because Intuit promised to pay any penalty arising from late filing. Though the I.R.S. levies a penalty on late-filing taxpayers who owe the government money, there is no penalty for filing late when the taxpayer is owed a refund.</p>
+        <p>Intuit thinks that most of the customers inconvenienced by the system failure are expecting refunds. And the I.R.S. gave Intuit's customers a two-day filing extension, beyond the April 17 deadline, without penalty.</p>
+        <p>After last year's tax season, Intuit began planning how much computer capacity it would need. It projected how many more customers would switch to TurboTax or its products for accountants and professional tax preparers, ProSeries and Lacerte, and how many customers would file electronically. ''And then we add on a little more just to make sure,'' Ms. Miller said.</p>
+        <p>It was not enough. Last year on the tax filing day, the company received about 500,000 returns. It received twice as many this year. It could not get an advance warning of the surge by simply extrapolating from the sales of TurboTax; it has no way to anticipate how many returns will be filed by accountants and professional tax preparers. Much of the overload was coming from the company's professional customers, Ms. Miller said.</p>
+        <p>Instead, customers who tried to send their files saw error messages on their screens sent by TurboTax, advising them to try again later. A time frame was given, at first 10 minutes and, as the evening wore on, three or four hours. For customers on the East Coast who realized that waiting would push them over the midnight deadline, panic set in.</p>
+        <p>''We understand it has caused no end of frustration and anxiety for our customers,'' Ms. Miller said. ''And we regret that.''</p>
+        <p>H&amp;R Block, which sells TaxCut software, said that it did not experience a similar surge in late filings.</p>
+        <p>Intuit's problem presented an opportunity to question the arrangement under which the I.R.S. permits large tax preparers and software companies to charge fees for electronic filing. Not everyone has to pay the filing fees. Nearly 70 percent of taxpayers -- those whose adjusted gross incomes are less than $52,000 -- can file their federal returns free under the government's Free File program.</p>
+        <p>But Senator Charles E. Schumer, the New York Democrat, said the Free File program should be expanded to all taxpayers. He noted that fees were not imposed on taxpayers who filed by paper, even though that cost the I.R.S. far more to process than an electronic file, $2.65 versus 29 cents. Fewer errors occur in electronic filings as well -- 1 in 100 compared with 1 in 5 for paper returns.</p>
+        <p>''The software glitch that prevented many Americans from filing their taxes on the 11th hour of tax day is bad business brought on by bad public policy,'' Mr. Schumer said. ''The I.R.S. should be moving toward a free e-filing system for all Americans, not using a handful of preparers and software companies to get its work done.''</p>
+        <p>Under a 2005 agreement that lasts for four years, certain tax preparers, including the two big tax software companies, agreed to take part in the Free File program as long as the I.R.S. did not allow direct filing.</p>
+        <p>Senator Schumer said he would like to see a system in which taxpayers would fill out the tax forms online and then submit them directly to the I.R.S.</p>
+        <p>Such a system would not reduce the need for tax preparers or tax preparation software, because the tax code would not be made any simpler. But it would reduce the fees collected by tax preparers and the tax software companies.</p>
+        <p>Efforts to allow direct filing have been opposed by the big tax companies. Lenny Goldberg, executive director of the California Tax Reform Association, said Intuit tried to thwart efforts in that state to allow direct filing of state tax returns over the Internet. The company opposed it on grounds that the state's system would not be secure and protect privacy.</p>
+        <p>''Is it more private to send it to a company who then sends it to the I.R.S., or to just send it to the I.R.S. directly?'' Mr. Goldberg asked.</p>
+        <p>Bernie McKay, the vice president for corporate affairs at Intuit, said Intuit invented the technology of electronic filing and had built an infrastructure at no cost to taxpayers. He said the company should be allowed to make money from its investment.</p>
+        <p>Mr. McKay said the I.R.S. would be spending ''hundreds of millions of dollars to build a system like that to duplicate what we already have.'' He warned that other countries with direct filing have experienced disruptions, which have been more catastrophic because there were no alternatives. ''Many people have many different pathways,'' Mr. McKay said.</p>
+        <p>Indeed, the problem provided an opportunity for H&amp;R Block to grab a few TurboTax customers. It made an offer Thursday to pay the penalties, up to $100, for anyone using TaxCut to file their taxes before midnight Saturday.</p>
+        <p>H&amp;R Block knows something about bad publicity. In the previous tax year, it turned away 250,000 customers when a computer malfunction prevented employees from preparing returns.</p>
+        <p>TECHNOLOGY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

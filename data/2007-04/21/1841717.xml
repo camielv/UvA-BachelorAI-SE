@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Speedy Spanning of Repertory, From Albéniz to Bach</title>
+    <meta content="21frei" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/21/arts/music/21frei.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1841717"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MUSIC REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews/Classical</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="descriptor">Classical Music</classifier>
+        <classifier class="online_producer" type="descriptor">Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Classical Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <person class="online_producer">Freire, Nelson</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070421T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05E5DC163EF932A15757C0A9619C8B63" item-length="322" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Speedy Spanning of Repertory, From Albéniz to Bach</hl1>
+        <hl2 class="online_headline">A Speedy Spanning of Repertory, From Albéniz to Bach</hl2>
+      </hedline>
+      <byline class="print_byline">By BERNARD HOLLAND</byline>
+      <byline class="normalized_byline">Holland, Bernard</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Nelson Freire in New York is not exactly a rare sighting, but it would be nice to have him here more often. He is an extraordinary pianist, and at the Metropolitan Museum of Art on Thursday night he played an enthusiastically received program ranging from Bach transcriptions to Albéniz.</p>
+        <p>In between, two war horses galloped across the stage: Beethoven's ''Waldstein'' and Chopin's B flat minor Sonatas. I am one of the people who complain about the ubiquity of pieces like these, but I admit, with some embarrassment, that I had not heard either for a long time.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Nelson Freire in New York is not exactly a rare sighting, but it would be nice to have him here more often.</p>
+      </block>
+      <block class="full_text">
+        <p>Nelson Freire in New York is not exactly a rare sighting, but it would be nice to have him here more often. He is an extraordinary pianist, and at the Metropolitan Museum of Art on Thursday night he played an enthusiastically received program ranging from Bach transcriptions to Albéniz.</p>
+        <p>In between, two war horses galloped across the stage: Beethoven's ''Waldstein'' and Chopin's B flat minor Sonatas. I am one of the people who complain about the ubiquity of pieces like these, but I admit, with some embarrassment, that I had not heard either for a long time.</p>
+        <p>Mr. Freire tends to play fast, partly because he can. It was quite remarkable that anyone could take the outer movements of the Beethoven and the Chopin at such a clip and still be clear, musically functional and never out of breath. And if his briskness in Chopin's famous Funeral March restored dignity to the usual mopiness, much of the rest of the concert hung somewhere between a deeply musical evening and a day at the races.</p>
+        <p>If things have to be that fast, on the other hand, Mr. Freire is the person you want to have around.</p>
+        <p>I deeply admired the reduced scale and the fastidiousness applied to Debussy's ''Children's Corner Suite'' after intermission, but again, I think, ''Doctor Gradus ad Parnassum'' sends its message better at two-thirds the tempo of Mr. Freire's speed-of-light approach. Elsewhere you heard a performer-connoisseur delighting in the deceptive greatness of these tiny pieces.</p>
+        <p>Serious pianists have never questioned the worth of Albéniz's music, only their ability to meet its physical demands under concert pressures. In the languorous ''Evocation'' and the (impossibly) busy ''Navarra,'' Mr. Freire was the man for the job. He can play the notes, and, as a Brazilian, he is, if not a direct descendant of a wonderful culture, at least its close cousin. Bach chorales in ponderous Busoni adaptations began the evening.</p>
+        <p>MUSIC REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

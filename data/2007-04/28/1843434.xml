@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Film in Review; The Invisible</title>
+    <meta content="28roun-4" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1843434"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Catsoulis, Jeannette</person>
+        <person class="indexing_service">Goyer, David S</person>
+        <person class="indexing_service">Chatwin, Justin</person>
+        <person class="indexing_service">Harden, Marcia Gay</person>
+        <person class="indexing_service">Levieva, Margarita</person>
+        <object.title class="indexing_service">Invisible, The (Movie)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070428T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D06E4D7123EF93BA15757C0A9619C8B63" item-length="231" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Film in Review; The Invisible</hl1>
+      </hedline>
+      <byline class="print_byline">By JEANNETTE CATSOULIS</byline>
+      <byline class="normalized_byline">Catsoulis, Jeannette</byline>
+      <abstract>
+        <p>Jeannette Catsoulis reviews film The Invisible, directed by David S Goyer; Justin Chatwin, Marcia Gay Harden and Margarita Levieva star (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Opened yesterday nationwide.  Directed by David S. Goyer  97 minutes</p>
+        <p>A transdimensional romance for the CW network crowd, ''The Invisible'' proves that it's tough to be in love and in limbo at the same time. A retread of the 2002 Swedish film ''Den Osynlige'' (based on a novel by Mats Wahl), this latest recycling of foreign-grown frights shows less interest in horror than in healing. Seems there's nothing like a near-death experience to repair those stubborn emotional wounds.</p>
+      </block>
+      <block class="full_text">
+        <p>Opened yesterday nationwide.  Directed by David S. Goyer  97 minutes</p>
+        <p>A transdimensional romance for the CW network crowd, ''The Invisible'' proves that it's tough to be in love and in limbo at the same time. A retread of the 2002 Swedish film ''Den Osynlige'' (based on a novel by Mats Wahl), this latest recycling of foreign-grown frights shows less interest in horror than in healing. Seems there's nothing like a near-death experience to repair those stubborn emotional wounds.</p>
+        <p>The shade of the title is Nick Powell (Justin Chatwin), a rich-yet-sensitive teenager who writes poetry and struggles to connect with his icy, perfectionist mother (a slumming Marcia Gay Harden). Nick's nemesis is Annie (Margarita Levieva), a violently disturbed classmate who is habitually accessorized with a filthy woolen beanie and a 12-inch blade. She might as well have ''wild child'' tattooed on her forehead.</p>
+        <p>Wearing the same bemused expression throughout, Nick suffers beatings, near-drowning, a burial and insubstantiality with commendable fortitude. Meanwhile, the supremely silly story is given more tension than it deserves by Gabriel Beristain's classy cinematography and Ms. Levieva's intense commitment to that woolly hat. We know that beneath its grungy folds lie cascading curls of shampoo-ad silkiness, just waiting to be released.</p>
+        <p>JEANNETTE CATSOULIS</p>
+        <p>''The Invisible'' is rated PG-13 (Parents strongly cautioned). There is bashing, burglary, bad language and a bit of drug dealing.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

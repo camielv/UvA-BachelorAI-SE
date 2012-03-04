@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Unorthodox, the Eclectic and the Unclassifiable</title>
+    <meta content="22schw" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1841990"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CLASSICAL RECORDINGS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <classifier class="indexing_service" type="descriptor">Recordings and Downloads (Audio)</classifier>
+        <person class="indexing_service">Schweitzer, Vivien</person>
+        <person class="indexing_service">Yang, Cue Ni</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0DEFDE1E3FF931A15757C0A9619C8B63" item-length="317" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Unorthodox, the Eclectic and the Unclassifiable</hl1>
+      </hedline>
+      <byline class="print_byline">By VIVIEN SCHWEITZER</byline>
+      <byline class="normalized_byline">Schweitzer, Vivien</byline>
+      <abstract>
+        <p>Vikan Schweitzer reviews new recording of guitar pieces played by Chinese guitarist Cue Ni Yang; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Romance de Amor  Xue Fei Yang, guitarist. EMI Classics 3 70714 2; CD.</p>
+        <p>ONE of the most heartening stories in the classical music industry is the genre's fast-growing popularity in China. Xue Fei Yang, a gifted 30-year-old guitarist born in Beijing, was the first guitar major at the Central Conservatory of Music there and graduated with the school's first bachelor's degree in classical guitar performance in 2000.</p>
+      </block>
+      <block class="full_text">
+        <p>Romance de Amor  Xue Fei Yang, guitarist. EMI Classics 3 70714 2; CD.</p>
+        <p>ONE of the most heartening stories in the classical music industry is the genre's fast-growing popularity in China. Xue Fei Yang, a gifted 30-year-old guitarist born in Beijing, was the first guitar major at the Central Conservatory of Music there and graduated with the school's first bachelor's degree in classical guitar performance in 2000.</p>
+        <p>On ''Romance de Amor,'' her new recording on EMI, Ms. Yang demonstrates her feisty virtuosity, impeccable technique and sensitive musicianship in repertory ranging from Albéniz to arrangements of Western pop and Asian songs.</p>
+        <p>Ms. Yang seems a Spaniard at heart, her guitar singing as if she had grown up in the shaded courtyards of Andalusia. In Francisco Tárrega's nostalgic ''Recuerdos de la Alhambra'' she makes the tricky tremolo passagework flow gracefully, colorfully evoking the languid fragrance of southern Spain. A spirited rendition of Isaac Albéniz's ''Asturias'' is notable for the dazzling clarity of the opening (here played unusually fast) and the serene beauty of the evocative slow section.</p>
+        <p>In her own arrangement of Gerardo Hernán Matos Rodriguez's ''La Cumparsita'' Ms. Yang shows that she has the tango gene as well. She seems equally at home in contemporary repertory, offering a fluid take on Toru Takemitsu's arrangement of John Lennon and Paul McCartney's ''Michelle.''</p>
+        <p>A gentle, sensitive rendition of John Williams's tranquil arrangement of Stanley Myers's ''Cavatina'' is followed by Ms. Yang's jaw-dropping fireworks in ''El Colibri,'' by Julios Salvador Sagreras. The disc also includes arrangements of Asian songs like ''Sakura'' and lovely performances of works by Agustin Barrios Mangoré and Heitor Villa-Lobos.</p>
+        <p>It is not hard to understand why Ms. Yang has drawn praise from John Williams and Joaquín Rodrigo. The only aspect of this disc that could be bettered is the sparse booklet notes, which lack any information about the composers or works.</p>
+        <p>VIVIEN SCHWEITZER</p>
+        <p>CLASSICAL RECORDINGS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

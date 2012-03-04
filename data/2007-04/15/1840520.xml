@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Scatologically Correct</title>
+    <meta content="15CIpraeger" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="14" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/15/opinion/nyregionopinions/15CIpraeger.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840520"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Op-Ed Contributor"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Bathrooms and Toilets</classifier>
+        <classifier class="indexing_service" type="descriptor">Compost</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">Bronx Zoo</org>
+        <person class="indexing_service">Praeger, Dave</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Contributors</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Waste Materials and Disposal</classifier>
+        <classifier class="online_producer" type="descriptor">Bathrooms and Toilets</classifier>
+        <classifier class="online_producer" type="descriptor">Recycling of Waste Materials</classifier>
+        <classifier class="online_producer" type="descriptor">Zoos</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bathrooms and Toilets</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recycling of Waste Materials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Zoos</classifier>
+        <classifier class="online_producer" type="general_descriptor">Waste Materials and Disposal</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+        <location class="online_producer">New York City</location>
+        <org class="online_producer">Bronx Zoo Wildlife Conservation Park</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CEED7133FF936A25757C0A9619C8B63" item-length="686" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Scatologically Correct</hl1>
+        <hl2 class="online_headline">Scatologically Correct</hl2>
+      </hedline>
+      <byline class="print_byline">By Dave Praeger</byline>
+      <byline class="normalized_byline">Praeger, Dave</byline>
+      <abstract>
+        <p>Op-Ed article by Dave Praeger on state-of-the-art eco-friendly restroom at Bronx Zoo; notes waterless urinals and composting toilets are expected to save million gallons of water a year and recycle composted waste of 500,000 yearly visitors as fertilizer; describes what is wrong with flush toilets (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>NEXT weekend, the Bronx Zoo is planning to unveil a state-of-the-art eco-friendly restroom outside its Bronx River Gate entrance. I say ''unveil'' because the gleaming structure, with its waterless urinals and composting toilets, was actually opened last fall; but zoo officials have been waiting until Earth Day to publicize it.</p>
+        <p>They expect to save a million gallons of water a year and recycle the composted waste of 500,000 yearly visitors as fertilizer. And while the press coverage will rightly laud the zoo for money saved, water conserved and resources recovered as part of the city's push for environmentally sound growth, the bigger issue will probably remain unexplored: what's wrong with flush toilets?</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A toilet that fertilizes your garden and cuts down on water use.</p>
+      </block>
+      <block class="full_text">
+        <p>NEXT weekend, the Bronx Zoo is planning to unveil a state-of-the-art eco-friendly restroom outside its Bronx River Gate entrance. I say ''unveil'' because the gleaming structure, with its waterless urinals and composting toilets, was actually opened last fall; but zoo officials have been waiting until Earth Day to publicize it.</p>
+        <p>They expect to save a million gallons of water a year and recycle the composted waste of 500,000 yearly visitors as fertilizer. And while the press coverage will rightly laud the zoo for money saved, water conserved and resources recovered as part of the city's push for environmentally sound growth, the bigger issue will probably remain unexplored: what's wrong with flush toilets?</p>
+        <p>Flush toilets evolved from a luxury for the rich to a fixture mandated by New York City because of the disease cholera. Transmitted by fecal contamination of water, cholera ravaged the country -- and the world -- in the decades after the Industrial Revolution as population growth outstripped the capacity of the backyard cesspools above which privies were built. In the second half of the 19th century, medical science identified the connection between waste, water and disease; the thought was then that cholera could be prevented by flush toilets and sewers transporting waste away from the population that created it.</p>
+        <p>But many cities built their sewers in a time before science and society fully accepted the germ theory of disease. Thus, in accordance with the prevailing ''filth theory,'' which held that running water dilutes waste into harmlessness, sewers simply channeled the accumulated waste of entire cities into the nearest waterway. This, of course, just shifted the burden of waste to downstream cities in the form of dysentery, algae blooms and insufferable stenches wafting off the water.</p>
+        <p>Eventually the government mandated sewage treatment plants to sequester solid waste and purify water before a city could discharge it. Today Americans flush about 100 million pounds of solid waste down with 32 billion gallons of water into 600,000 miles of sanitary sewers to be processed at any one of more than 16,000 publicly owned sewage treatment plants every single day.</p>
+        <p>And here is where we find what's wrong with flush toilets: they sever humanity's link in the food chain.</p>
+        <p>One animal's excrement is another animal's breakfast. This is how nature works: human and animal fecal matter is food for bacteria, which is fertilizer for plants. Humans are at the top of the food chain, but we should also be at the bottom.</p>
+        <p>So why not use the sludge captured in sewage treatment plants to replace some of the 67 million pounds of nitrogenous fertilizer farmers apply to their land every single day? Because it's not just organic waste churning through the sewers. If it were, then sludge would be a farmer's dream come true.</p>
+        <p>Sludge is also shampoo, and Drano, and paint from brushes washed in sinks, and antifreeze poured down gutters, and heavy metals and industrial waste dumped both legally and illegally. And no one knows what happens when all those contaminants are concentrated and composted and applied to the land.</p>
+        <p>Many cities and towns burn their sludge or bury it in landfills. The United States Environmental Protection Agency allows sludge to be used as fertilizer if a number of conditions, including limits on pollutants and the probability of public contact, are met to ensure that contaminants stay suspended in the soil, rather than seeping up into crops or down into ground water. But farmers are mortal and farms are ephemeral -- some day, their land will be abandoned, and those contaminants will seep as they may.</p>
+        <p>Sound familiar? For all of the lives flush toilets have saved since the time of cholera (and don't lose perspective, that number is enormous), the problem remains the same: contaminated waste seeping into the ground.</p>
+        <p>As you read about the Bronx Zoo's new bathroom this Earth Day, laud them for saving water and saving money, but cheer them even louder for keeping waste out of sewers, free from contamination and thus viable as fertilizer -- reinstating humanity's place at the bottom of the food chain, 500,000 toilet users a year.</p>
+        <p>Op-Ed Contributor Dave Praeger is the author of ''Poop Culture: How America Is Shaped by Its Grossest National Product.''</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Dave Praeger is the author of ''Poop Culture: How America Is Shaped by Its Grossest National Product.''</tagline>
+    </body.end>
+  </body>
+</nitf>

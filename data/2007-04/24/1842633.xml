@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Chimp Nation</title>
+    <meta content="24lett-1" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1842633"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Wildlife</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Memory</classifier>
+        <classifier class="online_producer" type="general_descriptor">Monkeys and Apes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Emotions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070424T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E5DD143EF937A15757C0A9619C8B63" item-length="183" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Chimp Nation</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Almost Human, and Sometimes Smarter'' (April 17), about new findings on chimpanzees: Humans routinely disregard not only the feelings and wishes of other species, but that they are capable of feelings and wishes at all. The new studies show an increasing awareness that our failure to recognize emotions and morality in other species is exactly that -- our failure. We routinely abuse other species in labs, circuses and slaughterhouses not because we have the moral authority, but simply because we can.</p>
+        <p>Dan Piraro  Brooklyn</p>
+        <p>To the Editor:</p>
+        <p>In ''Almost Human,'' Tetsuro Matsuzawa, a Tokyo primatologist, notes that chimpanzees perform better than humans on certain computer memory tests and suggests what he calls a trade-off theory: that early human species ''lost the immediate memory and, in return, learned symbolization, the language skills.''</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Almost Human, and Sometimes Smarter'' (April 17), about new findings on chimpanzees: Humans routinely disregard not only the feelings and wishes of other species, but that they are capable of feelings and wishes at all. The new studies show an increasing awareness that our failure to recognize emotions and morality in other species is exactly that -- our failure. We routinely abuse other species in labs, circuses and slaughterhouses not because we have the moral authority, but simply because we can.</p>
+        <p>Dan Piraro  Brooklyn</p>
+        <p>To the Editor:</p>
+        <p>In ''Almost Human,'' Tetsuro Matsuzawa, a Tokyo primatologist, notes that chimpanzees perform better than humans on certain computer memory tests and suggests what he calls a trade-off theory: that early human species ''lost the immediate memory and, in return, learned symbolization, the language skills.''</p>
+        <p>I have often observed a human instance of this theory. When my children and grandchildren were preschoolers, they often memorized their favorite books. But after they learned to read, the skill became unnecessary, and they seemed to lose it.</p>
+        <p>Alice Daniel  Cambridge, Mass.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

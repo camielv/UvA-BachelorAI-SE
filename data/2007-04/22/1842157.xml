@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Amy DiBenedetto, Jason McIntyre</title>
+    <meta content="22DIBENEDETTO" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/22/fashion/weddings/22DIBENEDETTO.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842157"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">DiBenedetto, Amy Lynn (Amy Lynn McIntyre)</person>
+        <person class="indexing_service">McIntyre, Jason Raj</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D04EFDD163EF931A15757C0A9619C8B63" item-length="208" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Amy DiBenedetto, Jason McIntyre</hl1>
+        <hl2 class="online_headline">Amy DiBenedetto, Jason McIntyre</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Amy Lynn DiBenedetto, the daughter of Linda Kokinda of Flemington, N.J., and Gary DiBenedetto of Hillsborough, N.J., was married yesterday to Jason Raj McIntyre, a son of Sandy McIntyre of Kissimmee, Fla., and Geoffrey R. McIntyre of Alexandria, Va. The Rev. D. Joy Segal, an Episcopal priest performed the ceremony at Gloria Dei Church in Philadelphia.</p>
+        <p>Mrs. McIntyre, 27, is a regional account manager in New York at Home Diagnostics, a manufacturer of blood glucose monitors. She and the bridegroom graduated from James Madison University.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Amy Lynn DiBenedetto, the daughter of Linda Kokinda of Flemington, N.J., and Gary DiBenedetto of Hillsborough, N.J., was married yesterday to Jason Raj McIntyre, a son of Sandy McIntyre of Kissimmee, Fla., and Geoffrey R. McIntyre of Alexandria, Va. The Rev. D. Joy Segal, an Episcopal priest performed the ceremony at Gloria Dei Church in Philadelphia.</p>
+      </block>
+      <block class="full_text">
+        <p>Amy Lynn DiBenedetto, the daughter of Linda Kokinda of Flemington, N.J., and Gary DiBenedetto of Hillsborough, N.J., was married yesterday to Jason Raj McIntyre, a son of Sandy McIntyre of Kissimmee, Fla., and Geoffrey R. McIntyre of Alexandria, Va. The Rev. D. Joy Segal, an Episcopal priest performed the ceremony at Gloria Dei Church in Philadelphia.</p>
+        <p>Mrs. McIntyre, 27, is a regional account manager in New York at Home Diagnostics, a manufacturer of blood glucose monitors. She and the bridegroom graduated from James Madison University.</p>
+        <p>Her father is a conceptual artist whose sculptures will be on display at the Kathryn Schultz Gallery in Cambridge, Mass., from May 4 through June 20. Her mother retired as an English teacher at Reading-Fleming Middle School in Flemington. The bride is the stepdaughter of Althea DiBenedetto and of David Kokinda.</p>
+        <p>Mr. McIntyre, 30, is an assistant news editor at Us Weekly magazine in New York and a freelance sports columnist for Metro, a free daily newspaper published Monday through Friday in New York, Boston and Philadelphia.</p>
+        <p>His mother owns SJM Sales, a jewelry business in Kissimmee. His father is a safety risk management expert at the Federal Aviation Administration in Washington. He is the author of ''Patterns in Safety Thinking'' (Ashgate, 2000).</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

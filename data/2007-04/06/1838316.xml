@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Navigating the Hedge Fund Maze in a Leveraged World</title>
+    <meta content="06insider" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/06/business/06insider.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1838316"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="STREET SCENE: INSIDER"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/World Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Finance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="descriptor">Hedge Funds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hedge Funds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Credit</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070406T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A00EEDE173FF935A35757C0A9619C8B63" item-length="891" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Navigating the Hedge Fund Maze in a Leveraged World</hl1>
+        <hl2 class="online_headline">Navigating the Hedge Fund Maze in a Leveraged World</hl2>
+      </hedline>
+      <byline class="print_byline">By JENNY ANDERSON</byline>
+      <byline class="normalized_byline">Anderson, Jenny</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>I WAS there when Long-Term Capital Management blew up, and I was there when Amaranth blew up. And I can tell you this: Amaranth turned out to be no Long-Term Capital Management.''</p>
+        <p>Those words, from Jeffrey L. Matthews, a general partner at Ram Partners, a hedge fund worth approximately $60 million, were meant to comfort members of the House Financial Services Committee last month as they pondered whether hedge funds posed any systemic risk to the financial system.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Is risk decreased by assuming more of it and spreading it out? Investors seem to think so.</p>
+      </block>
+      <block class="full_text">
+        <p>I WAS there when Long-Term Capital Management blew up, and I was there when Amaranth blew up. And I can tell you this: Amaranth turned out to be no Long-Term Capital Management.''</p>
+        <p>Those words, from Jeffrey L. Matthews, a general partner at Ram Partners, a hedge fund worth approximately $60 million, were meant to comfort members of the House Financial Services Committee last month as they pondered whether hedge funds posed any systemic risk to the financial system.</p>
+        <p>The conclusion from the hearing and the President's Working Group seemed to be: not particularly. Yet a closer look at the ballooning leverage market shows a murkier picture.</p>
+        <p>By the conventional reasoning, hedge funds have helped decease risk by assuming more of it, thus spreading it out. In other words, having 1,000 hedge funds own failing bonds or loans is apparently better than having 10 banks holding all of them.</p>
+        <p>Most people think of leverage in hedge funds in terms of the funds' borrowing from their prime brokers to amplify their trades. But there are other kinds of leverage -- lots of them. For example, a booming business for banks is providing leverage to investors dealing in hedge funds and funds of hedge funds.</p>
+        <p>Let's say you are very wealthy and have $25 million to invest in a portfolio of hedge funds. Banks like BNP Paribas, Royal Bank of Canada or Barclays will leverage your investment, say four to one, allowing you to invest $100 million, using derivatives. Barclays estimates that roughly $60 billion to $80 billion in leverage is being put on by investors in hedge funds or funds of hedge funds. Other market players say it is more than double that.</p>
+        <p>More leverage means more money to put to work, thus potentially producing higher returns. Banks take comfort from the diversity of many strategies in many hedge funds.</p>
+        <p>Investors are naturally jazzed by this prospect. Returns at funds of funds have come down, and volatility from fund of funds is often low, making leverage look like a reasonable way to jump-start returns. And private banking executives say it is not uncommon for their wealthy clients to have portfolios with 100 percent allocation to hedge funds.</p>
+        <p>''It's like a retail investor buying on margin,'' said Marty Malloy, managing director in charge of Prime Services at Barclays Capital in New York. ''The investor wants to increase the overall return on capital.''</p>
+        <p>Except this time around, the investor is buying into an entity that is already leveraged, a hedge fund. The ripple effect -- leverage upon leverage -- looks a little scary. Go back to the $25 million example. You take on four to one leverage to create a portfolio of $100 million. You invest $5 million in 20 hedge funds. The markets have a bad month and the portfolio falls 5 percent, to $95 million.</p>
+        <p>Your equity is now $20 million, down from $25 million and your leverage is now 4.75 to one rather than the four required by your agreement with the bank. So you have to sell an additional $15 million.</p>
+        <p>As investors redeem, funds may be forced to sell to meet those redemptions. If the markets continue to fall, hedge fund managers are stuck selling into a falling market, perhaps setting off their own margin calls from their prime brokers. Strategies that were not supposed to be correlated are tied together, and it becomes apparent that many funds and banks are in the same trades. Suddenly the world does not look so rosy.</p>
+        <p>There are other fun variations, like start-up leverage, or money that hedge funds borrow at the outset to enable them to put more money to work.</p>
+        <p>Say you have $10 million from your friends and family to start a hedge fund. But to be considered a player you have to have $50 million. You borrow $40 million from a bank in the form of preferred equity. Presto! You run a $50 million fund.</p>
+        <p>''Each half point of return puts you in a new ball park in terms of ability to raise capital,'' said Victor L. Zimmermann, a lawyer at Curtis, Mallet-Prevost, Colt &amp; Mosle. He estimates preferred equity deals are used for funds up to $1 billion in size.</p>
+        <p>These structures can do wonders for compensation. Recall that hedge fund managers generally take home 2 percent of assets under management and 20 percent of profits as ''incentive'' or performance fees. According to Mr. Zimmermann, managers get to take home 20 percent of profits on the leveraged portfolio.</p>
+        <p>So funds are levered, investors are levered and funds' investments are levered.</p>
+        <p>''The concern is, how many people are on that chain?'' says Jonathan Ende, managing member of Ende Capital Group, structured products consulting firm.</p>
+        <p>Still, he thinks it is all within reason. ''If it does break, the markets are pretty resilient.''</p>
+        <p>Prime brokers and regulators agree with Mr. Ende, saying that leverage levels are fine these days. But the markets have not been tested in any significant way. There have been terrorist attacks around the world, the collapse of Amaranth, a $9.5 billion hedge fund, and a messy and seemingly unsolvable war in Iraq. And the markets have rallied at every turn.</p>
+        <p>The test will come when a bad month --like this February -- is followed by two more bad months.</p>
+        <p>Then the leverage picture will look very different indeed.</p>
+        <p>STREET SCENE: INSIDER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

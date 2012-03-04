@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Rachel Leifer, Joshua Norman</title>
+    <meta content="08leifer" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/08/fashion/weddings/08leifer.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1838767"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Leifer, Rachel Cahn (Rachel Cahn Norman)</person>
+        <person class="indexing_service">Norman, Joshua Dempsey</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070408T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07EEDB173FF93BA35757C0A9619C8B63" item-length="255" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Rachel Leifer, Joshua Norman</hl1>
+        <hl2 class="online_headline">Rachel Leifer and Joshua Norman</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Rachel Cahn Leifer, the daughter of Laurie Cahn of San Francisco and Jonathon Leifer of Los Angeles, was married last evening to Joshua Dempsey Norman, the son of Elizabeth Norman and Michael Norman of Montclair, N.J. Rabbi Burt A. Siegel officiated at the Angel Orensanz Foundation for the Arts in New York.</p>
+        <p>The bride, 26, and bridegroom, 28, are both staff writers at Mississippi newspapers, the bride for The Hattiesburg American and the bridegroom for The Sun Herald in Gulfport.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The couple were married on Saturday evening at the Angel Orensanz Foundation for the Arts in New York.</p>
+      </block>
+      <block class="full_text">
+        <p>Rachel Cahn Leifer, the daughter of Laurie Cahn of San Francisco and Jonathon Leifer of Los Angeles, was married last evening to Joshua Dempsey Norman, the son of Elizabeth Norman and Michael Norman of Montclair, N.J. Rabbi Burt A. Siegel officiated at the Angel Orensanz Foundation for the Arts in New York.</p>
+        <p>The bride, 26, and bridegroom, 28, are both staff writers at Mississippi newspapers, the bride for The Hattiesburg American and the bridegroom for The Sun Herald in Gulfport.</p>
+        <p>Mrs. Norman worked with Teach for America from 2002 to 2004, as an eighth-grade English teacher in Washington. She graduated from Smith and received two master's degrees, in secondary education from American University and in journalism from Columbia.</p>
+        <p>Her father is a staff coordinator for the Los Angeles County Metropolitan Transportation Authority; he is responsible for helping the transition of injured workers back into the workforce. Her mother works in San Francisco as a school bus driver for Laidlaw, the transportation company that runs Greyhound. The bride is the stepdaughter of Susan Leifer. She is also the granddaughter of Sammy Cahn, the lyricist who won four Academy Awards.</p>
+        <p>Mr. Norman was a Peace Corps volunteer from 2000 to 2002, doing beekeeping in Togo. He graduated from New York University and received a master's degree in journalism from Columbia.</p>
+        <p>His parents are professors at New York University, where his mother teaches humanities and his father teaches journalism. His mother has written two books about women and warfare, including ''We Band of Angels'' (Simon &amp; Schuster, 1999).</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

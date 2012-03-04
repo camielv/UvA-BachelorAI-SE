@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Big Picture, and Your Picture</title>
+    <meta content="08shelf" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="32" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/08/business/mutfund/08shelf.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1838805"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MUTUAL FUNDS REPORT: OFF THE SHELF"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Off the Shelf</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Markets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070408T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9904E3D8173FF93BA35757C0A9619C8B63" item-length="940" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Big Picture, and Your Picture</hl1>
+        <hl2 class="online_headline">The Big Picture, and Your Picture</hl2>
+      </hedline>
+      <byline class="print_byline">By PAUL B. BROWN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>YES, when it comes to investing, you want to keep your eye on the proverbial ball, watching your portfolio carefully to ensure maximum returns with minimum risk.</p>
+        <p>But occasionally, you also want to take a step back to see the bigger picture.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Two new books provide both a micro view (your money) and a macro view (what’s the big picture?) when it comes to investing.</p>
+      </block>
+      <block class="full_text">
+        <p>YES, when it comes to investing, you want to keep your eye on the proverbial ball, watching your portfolio carefully to ensure maximum returns with minimum risk.</p>
+        <p>But occasionally, you also want to take a step back to see the bigger picture.</p>
+        <p>Changing perspective can lead to better decisions. For example, if investors notice that economies in other parts of the world are continuing to grow far faster than the one here at home, they have reason to invest more money overseas.</p>
+        <p>So you want to have both a micro view (your money) and a macro view (what's the big picture?) when it comes to investing. Two books just published by Wiley are examples of the two approaches.</p>
+        <p>Richard Bookstaber, who has worked at Morgan Stanley and Salomon Brothers, takes the broad look in ''A Demon of Our Own Design'' ($27.95).</p>
+        <p>Mr. Bookstaber is one of Wall Street's ''rocket scientists'' -- mathematicians lured from academia to help create both complex financial instruments and new computer models for making investing decisions.</p>
+        <p>In the book, he makes a simple point: The turmoil in the financial markets today comes less from changes in the economy -- economic growth, for example, is half as volatile as it was 50 years ago -- and more from some of the financial instruments (derivatives) that were designed to control risk.</p>
+        <p>You might not expect that to be the case. After all, information is being released faster -- leveling the investment playing field -- trading costs are steadily decreasing and there is ample liquidity. ''Risk should be diminishing, but it isn't,'' Mr. Bookstaber said.</p>
+        <p>And he expects the situation to become worse, for at least two important reasons. The first is that no matter how hard people try to create computer models designed to minimize risk, they cannot predict every real-world consequence.</p>
+        <p>For example, many of the largest investment banks in the 1980s offered what was described as portfolio insurance intended to protect large investors -- like endowments and corporate pension funds -- from dramatic losses if the market dropped.</p>
+        <p>But as Mr. Bookstaber points out, portfolio insurance was not actually insurance, but ''a dynamic hedging strategy that attempted to create insurance-like protection.''</p>
+        <p>There was absolutely nothing wrong with the idea of portfolio insurance. But this insurance, like all hedging products, requires a market to be liquid.</p>
+        <p>''If a hedge cannot be readily adjusted, then obviously all bets are off,'' Mr. Bookstaber writes. ''This was especially true in October 1987,'' when, for a variety of reasons, sellers started rushing to the exits and the market crashed, despite all the portfolio insurance in place.</p>
+        <p>The second reason comes from the financial instruments themselves.</p>
+        <p>While praising the fact that innovative products, like derivatives, have improved the markets by making them more efficient, Mr. Bookstaber says that all of this financial engineering comes at a price. These products have ''increased complexity by pushing markets to become more interconnected,'' he says.</p>
+        <p>''Thanks to globalization, a problem in one market can affect another even when there is no economic relationship between the two,'' he adds. ''The combination of tight coupling and complexity is a formula for normal accidents, accidents that are all but inevitable as a result of the structure of the system.''</p>
+        <p>The stock market decline in the United States at the end of February would be an example of what Mr. Bookstaber is talking about. The averages fell sharply, partly in reaction to a huge sell-off in the Chinese stock market.</p>
+        <p>Mr. Bookstaber's suggested solution to all of this -- simpler financial instruments and less leverage -- is not likely to happen. But he is convincing when he says that even sharper market swings will occur in coming years.</p>
+        <p>Because it is impossible to control market volatility -- whether it's caused by rocket scientists or changing market conditions -- you need to focus on areas where you have some command. It is here that John C. Bogle, founder and former chief executive of the Vanguard Group, shines.</p>
+        <p>''The Little Book of Common Sense Investing'' ($19.95) is basically a reprise of what Mr. Bogle has argued throughout his career. His main points are essentially these:</p>
+        <p>Buy no-load index funds. The advantage of this is two-fold. Because you are buying funds without loads, or commissions, more of your money goes into the investments and less into sellers' pockets. And because you are buying index funds, intended to mirror the performance of specific benchmarks, you will most likely outperform those who invest in actively managed funds. That's because a majority of actively managed funds fail to outperform their benchmarks.</p>
+        <p>Buy low-cost index funds. Low expenses, of course, lead to an increase in net returns.</p>
+        <p>Trade as little as possible. That will minimize your transaction costs.</p>
+        <p>Diversify. A well-diversified portfolio, after all, spreads out the risk.</p>
+        <p>As always, his overarching advice is sound, although this time around Mr. Bogle runs the risk of sounding too cautious.</p>
+        <p>For example, while he acknowledges that half of the world's market capitalization is found in stocks based outside the United States, he prefers an all-American portfolio. He argues that it will give you enough international diversification because 25 percent of sales and earnings of American companies come from overseas. Many experienced investors, however, prefer to participate directly in international growth.</p>
+        <p>And Mr. Bogle recommends that older people keep the vast majority of their portfolios in bonds, an approach that limits a portfolio's growth chances in retirement.</p>
+        <p>''Most experts think my guidelines are too conservative,'' Mr. Bogle said said. ''But I am conservative.''</p>
+        <p>But you can certainly choose to be a bit more aggressive -- and looking at the bigger picture may tempt you to do just that.</p>
+        <p>MUTUAL FUNDS REPORT: OFF THE SHELF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

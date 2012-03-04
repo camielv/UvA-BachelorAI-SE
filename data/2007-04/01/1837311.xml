@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Brighter Padlock, at Twice the Price</title>
+    <meta content="01goods" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/01/business/yourmoney/01goods.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837311"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="OPENERS: THE GOODS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/The Goods</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Innovation</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Operations</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9804E0DB1130F932A35757C0A9619C8B63" item-length="556" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Brighter Padlock, at Twice the Price</hl1>
+        <hl2 class="online_headline">A Brighter Padlock, at Twice the Price</hl2>
+      </hedline>
+      <byline class="print_byline">By BRENDAN I. KOERNER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WHEN overseeing consumer focus groups of high school students, Steve Hedlund pays closer attention when the deeper voices start talking. ''Teen girls, they're too polite'' to say they don't like a product, said Mr. Hedlund, vice president for growth and innovation at Master Lock, based in Milwaukee. ''It's always the teen boys that are the litmus test.''</p>
+        <p>So he was pleased with the adolescent male reaction to the G.l.o., a new combination padlock with an incandescent dial. The boys, Mr. Hedlund said, raved about the illuminated product, despite its much higher price -- more than twice that of Master Lock's traditional combination locks.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Appealing to students by using L.E.D. technology to make glow-in-the-dark locks.</p>
+      </block>
+      <block class="full_text">
+        <p>WHEN overseeing consumer focus groups of high school students, Steve Hedlund pays closer attention when the deeper voices start talking. ''Teen girls, they're too polite'' to say they don't like a product, said Mr. Hedlund, vice president for growth and innovation at Master Lock, based in Milwaukee. ''It's always the teen boys that are the litmus test.''</p>
+        <p>So he was pleased with the adolescent male reaction to the G.l.o., a new combination padlock with an incandescent dial. The boys, Mr. Hedlund said, raved about the illuminated product, despite its much higher price -- more than twice that of Master Lock's traditional combination locks.</p>
+        <p>A glowing lock had been on Master Lock's drawing board since the late 1990s. But light-emitting diodes were too expensive at the time, and the company's locks were too small for the necessary circuitry.</p>
+        <p>Mr. Hedlund said the company's basic combination lock, virtually unchanged since the 1950s, had been designed to be ''as compact and cost-efficient as possible.'' As a result, there was little or no unused space in the lock's body.</p>
+        <p>In 2003, however, Master Lock, a unit of Fortune Brands, introduced the Sphero, a dome-shaped combination padlock. It could be opened with one hand -- a perk, said Mr. Hedlund, for students laden with books. A convex dial that extends all the way to the lock's edges created space inside the lock -- room that Master Lock's designers realized could be stuffed with L.E.D.'s, which were finally inexpensive enough to be included in mass-market products.</p>
+        <p>The company first experimented with a lock whose L.E.D.'s were activated by an on-off switch. But that approach was soon dropped in favor of piezoelectricity -- a system that produces voltage when mechanical force is applied. In the G.l.o.'s case, two copper plates are agitated by the turning of the dial, producing an electrical current.</p>
+        <p>''It worked nice and smooth, but if the lock was subjected to dropping, there was the potential for the piezos to generate a voltage spike,'' Mr. Hedlund said. ''When the two plates moved quick and hard against each other, that would burn out the electronics.'' The designers had to spend considerable time figuring out how to insulate the L.E.D.'s against such accidental surges.</p>
+        <p>Prototypes, developed with researchers from the Milwaukee School of Engineering, were abused: pounded against pavement, zapped with ultraviolet rays, immersed in corrosive salts. The G.l.o.'s light survived these punishments, flaring to life when the dial was spun, then fading three seconds after the motion stopped.</p>
+        <p>The glow -- either red, blue, green, or purple -- peeks through the plastic notches that line the dial's edge, as well as the numbers and the brand emblem on the face.</p>
+        <p>The G.l.o. was introduced in June, before the back-to-school rush: Mr. Hedlund said that students account for 30 percent of Master Lock's total retail business. The new lock is priced at $13.64, far more than the Sphero, at $7.75, or the company's basic, black-dial combination lock, at $6.20. He declined to provide exact figures but said the G.l.o.'s sales had exceeded company expectations. He attributed that to the high-tech panache: ''It looks more like a piece of consumer electronics, like an iPod.''</p>
+        <p>Minus the screen, of course. But if Master Lock can figure out how to cram a small liquid crystal display into its next padlock, those teenage boys may be really enthused.</p>
+        <p>OPENERS: THE GOODS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

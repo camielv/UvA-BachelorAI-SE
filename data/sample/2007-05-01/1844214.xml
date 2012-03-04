@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Court Strikes Law Barring Sale of Drug Data</title>
+    <meta content="01drugs" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Health; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/05/01/business/01drugs.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1844214"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <classifier class="indexing_service" type="descriptor">Suits and Litigation</classifier>
+        <classifier class="indexing_service" type="descriptor">Decisions and Verdicts</classifier>
+        <classifier class="indexing_service" type="descriptor">Law and Legislation</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Doctors</classifier>
+        <classifier class="indexing_service" type="descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="indexing_service" type="descriptor">Freedom of Speech and Expression</classifier>
+        <location class="indexing_service">New Hampshire</location>
+        <org class="indexing_service">Verispan</org>
+        <org class="indexing_service">Ims Health</org>
+        <person class="indexing_service">Saul, Stephanie</person>
+        <person class="indexing_service">Barbadoro, Paul (Judge)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New Hampshire</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./New England</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Health Care Policy</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Legal</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Doctors</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Pharmaceutical, Biotechnology and Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Hampshire</classifier>
+        <classifier class="online_producer" type="descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="descriptor">Decisions and Verdicts</classifier>
+        <classifier class="online_producer" type="descriptor">Doctors</classifier>
+        <classifier class="online_producer" type="descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Doctors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Speech</classifier>
+        <classifier class="online_producer" type="general_descriptor">Freedom of Speech and Expression</classifier>
+        <classifier class="online_producer" type="general_descriptor">Decisions and Verdicts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070501T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B04E5D8133EF932A35756C0A9619C8B63" item-length="568" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Court Strikes Law Barring Sale of Drug Data</hl1>
+        <hl2 class="online_headline">Court Strikes Law Barring Sale of Drug Data</hl2>
+      </hedline>
+      <byline class="print_byline">By STEPHANIE SAUL</byline>
+      <byline class="normalized_byline">Saul, Stephanie</byline>
+      <abstract>
+        <p>Federal Judge Paul Barbadoro rules that pharmaceutical industry can continue to use computerized data showing which doctors are prescribing what drugs; strikes down New Hampshire law that prohibits purchase and resale of data for use by drug makers; rules law violates First Amendment by restricting commercial speech; ruling is victory for IMS Health, leading purveyor of pharmaceutical prescribing data, as well as competitor Verispan; both companies sued last year to have New Hampshire law stricken, arguing that prohibitions on sale of information violated their constitutional rights (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A federal judge ruled yesterday that the pharmaceutical industry could continue to use computerized data showing which doctors are prescribing what drugs.</p>
+        <p>Judge Paul Barbadoro of United States District Court struck down a New Hampshire law that prohibited the purchase and resale of the data for use by the drug makers.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A federal judge ruled that the pharmaceutical industry could continue to use computerized data showing which doctors are prescribing what drugs.</p>
+      </block>
+      <block class="full_text">
+        <p>A federal judge ruled yesterday that the pharmaceutical industry could continue to use computerized data showing which doctors are prescribing what drugs.</p>
+        <p>Judge Paul Barbadoro of United States District Court struck down a New Hampshire law that prohibited the purchase and resale of the data for use by the drug makers.</p>
+        <p>Judge Barbadoro, ruling in Concord, N.H., said that the law violated the First Amendment by restricting commercial speech.</p>
+        <p>''Ordinarily, states should be given wide latitude to choose among rational alternatives when they act to benefit the public interest,'' Judge Barbadoro wrote in his 54-page ruling. ''However, when states adopt speech restrictions as their method, courts must subject their efforts to closer scrutiny.''</p>
+        <p>The ruling was a victory for IMS Health, the leading purveyor of pharmaceutical prescribing data, as well as a competitor, Verispan. Both companies sued last year to have the New Hampshire law stricken, arguing that prohibitions on the sale of the information violated their constitutional rights.</p>
+        <p>The decision could have implications in other states considering similar legislation. According to the National Conference of State Legislatures, several states were considering such proposals this year. The legislation had been urged by doctors who objected to the sharing of their prescribing patterns.</p>
+        <p>The New Hampshire law, which was enacted last year and took effect in July, was the first state law to specifically prohibit the sale or transfer of information identifying doctors for commercial purposes.</p>
+        <p>Representative Cindy Rosenwald, the New Hampshire legislator who sponsored the law, expressed disappointment yesterday in the ruling, which issued a permanent injunction against enforcement of the law.</p>
+        <p>''I feel that corporate interests took precedent over the needs of people in New Hampshire,'' she said. ''I think it's like having a drug rep peering over a doctor's shoulder when he is writing a prescription.'' But she added that the issue had gained momentum. ''I don't think this issue is going to go away.''</p>
+        <p>An assistant attorney general in New Hampshire, Richard Head, said the state was deciding whether to appeal the decision. ''We are going to review the court's decision and consider various alternatives,'' he said.</p>
+        <p>An IMS vice president, Randolph B. Frankel, applauded the ruling last night, saying it ''points to the fact that states have a variety of alternatives to manage quality and cost without impacting free speech.''</p>
+        <p>''And I believe,'' Mr. Frankel said, ''that other states will look to this decision as a basis for framing where they go in terms of their own legislative activities.''</p>
+        <p>The sale of prescription data, in which patient identification is omitted, has become a lucrative industry. The data is purchased from pharmacy chains and the companies that manage drug benefits for employers, and it shows precisely how many prescriptions individual doctors have written for specific drugs.</p>
+        <p>Companies like IMS and Verispan sell the data to pharmaceutical companies, which use it to tailor their marketing plans to specific doctors. Sales representatives who visit doctors' offices carry laptop computers with detailed reports on each doctor.</p>
+        <p>The American College of Physicians has asked that the American Medical Association prohibit the release or sale of doctors' prescribing information. Last year, the A.M.A. established a registry of doctors who could ''opt out'' of having their prescription data shared with representatives. That was part of a voluntary arrangement the A.M.A. reached with the data companies.</p>
+        <p>About 7,000 of the 850,000 doctors in the United States have opted out.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

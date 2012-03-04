@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>When the Bidding and Discard Yield Key Clues</title>
+    <meta content="14card" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/14/crosswords/bridge/14card.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840035"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Bridge"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Crossword and Games/Bridge</classifier>
+        <classifier class="online_producer" type="descriptor">Cards and Card Games</classifier>
+        <classifier class="online_producer" type="descriptor">Bridge (Card Game)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cards and Card Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bridge (Card Game)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070414T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E5D6133FF937A25757C0A9619C8B63" item-length="524" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>When the Bidding and Discard Yield Key Clues</hl1>
+        <hl2 class="online_headline">When the Bidding and Discard Yield Key Clues</hl2>
+      </hedline>
+      <byline class="print_byline">By Phillip Alder</byline>
+      <byline class="normalized_byline">Alder, Phillip</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>West led the spade three.</p>
+        <p>The diagramed deal features another great piece of declarer play during the White House Teams event in Amsterdam last February.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>West led the spade three. The diagramed deal features another great piece of declarer play during the White House Teams event in Amsterdam last February.</p>
+      </block>
+      <block class="full_text">
+        <p>West led the spade three.</p>
+        <p>The diagramed deal features another great piece of declarer play during the White House Teams event in Amsterdam last February.</p>
+        <p>The deal was the fifth in the fifth-round match between Walid El Ahmady, Mohamed Heshmat, Tarek Nadim and Tarek Sadek of Egypt, and Krzysztof Jassem and Krzysztof Martens of Poland; and Rose Meltzer, Roger Bates, Kyle Larsen and Alan Sontag of the United States, and Geir Helgemo and Tor Helness of Norway.</p>
+        <p>Martens (South) opened one club, strong and artificial. You might have expected Helness (West) to make a two-suited overcall, but that would have been a double-edged sword. It would have increased the chance of finding a fit and being able to pre-empt the auction, but since the opponents probably would have bought the contract, West feared it would have aided declarer's play.</p>
+        <p>After West bid one diamond, the double by Jassem (North) showed four or more hearts. Helgemo (East), not liking diamonds, suggested spades as a trump suit, which steered his opponents away from a suit in which some North-South pairs played in other matches. South bid two clubs, natural and forcing. North raised his partner's suit. And South cue-bid three diamonds, which North assumed was asking him to bid three no-trump with a diamond stopper.</p>
+        <p>But when North did that, and South continued with four diamonds, North now knew that his partner had a first-round diamond control and was looking for a club slam. North's five clubs denied a major-suit control. That was good news for South, so he raised to six clubs.</p>
+        <p>Declarer took the spade lead with his ace and played the club jack, which East did well to duck. (If East had won and led back a trump, South probably would have won on the board, ruffed three hearts in his hand, using the spade queen and diamond king as the other dummy entries, ruffed a spade on the board and removed East's final club with dummy's ten. Declarer would have won three spades, two diamonds, four clubs and three heart ruffs.)</p>
+        <p>If South had played a second club at Trick 3, East would have won and returned his last trump to defeat the contract. Instead, declarer played a diamond to dummy's king and cashed the spade queen, learning that West had begun with 1-5-7-0 distribution. (With 1-6-6-0, West would not have overcalled one diamond.) Declarer ruffed a heart in his hand, took the spade king, discarding the diamond three from the board, and ruffed his diamond jack with dummy's club ten.</p>
+        <p>East did as well as possible, discarding a heart, but South ruffed two hearts in his hand and two spades on the board to give this end position:</p>
+        <p>Declarer, by leading the heart queen from the board, scored his club king with a coup en passant.</p>
+        <p>At the other table South made five clubs exactly, so the Egypt-Poland team gained 11 international match points on the way to a win in the match.</p>
+        <p>It is impressive when declarer has to be card-perfect for 12 tricks, as Martens, a world champion in 1984 and 1997, was on this deal.</p>
+        <p>Bridge</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

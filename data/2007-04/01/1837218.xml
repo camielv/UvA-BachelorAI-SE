@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Pinning Immigration Badges on Police Officers</title>
+    <meta content="01NJweekNJ" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837218"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE WEEK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Immigration and Refugees</classifier>
+        <classifier class="indexing_service" type="descriptor">Illegal Immigrants</classifier>
+        <classifier class="indexing_service" type="descriptor">Police</classifier>
+        <org class="indexing_service">American Friends Service Committee</org>
+        <person class="indexing_service">Cresitello, Donald (Mayor)</person>
+        <person class="indexing_service">Holl, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Law Enforcement and Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Illegal Aliens</classifier>
+        <classifier class="online_producer" type="general_descriptor">Immigration and Refugees</classifier>
+        <classifier class="online_producer" type="general_descriptor">Police</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E06EED91030F932A35757C0A9619C8B63" item-length="304" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Pinning Immigration Badges on Police Officers</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN HOLL</byline>
+      <byline class="normalized_byline">Holl, John</byline>
+      <abstract>
+        <p>American Friends Service Committee and other groups submit petitions from residents opposed to plan by Morristown, NJ, Mayor Donald Cresitello, approved by City Council, to train police officers to serve as federal immigration agents (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Morristown City Council was taking only an advisory vote last Tuesday night, but it drew a crowd that spilled out into the lobby of town hall.</p>
+        <p>The council voted 6 to 1 to support a plan by the mayor in which city police officers would be deputized and trained to serve as federal immigration agents.</p>
+      </block>
+      <block class="full_text">
+        <p>The Morristown City Council was taking only an advisory vote last Tuesday night, but it drew a crowd that spilled out into the lobby of town hall.</p>
+        <p>The council voted 6 to 1 to support a plan by the mayor in which city police officers would be deputized and trained to serve as federal immigration agents.</p>
+        <p>Mayor Donald Cresitello wants the officers to train in a Department of Immigration and Customs Enforcement program. Under federal statutes, the officers would have the authority to charge suspects with immigration violations and order them to appear in federal court, with the possibility of deportation.</p>
+        <p>Mr. Cresitello said Morristown, a city of 20,000, had seen a rise in crime and quality-of-life issues as more illegal immigrants set up residency. ''For the last 12 years the problem has been growing; for the last 6 it's been overwhelming,'' said Mr. Cresitello, who said he thought about 1,500 illegal residents were living in the city, many working as day laborers.</p>
+        <p>Mr. Cresitello said that initially he hoped to send 10 officers to train in the federal program. Eventually, he said, he would like to have all 58 officers take part.</p>
+        <p>''It's just another tool they will have to help do their jobs even better,'' Mr. Cresitello said.</p>
+        <p>But Elissa Steglich, managing attorney of the immigrant rights program for the American Friends Service Committee in Newark, said the plan would do nothing ''but breed fear and distrust and build discriminatory practices.''</p>
+        <p>Last Tuesday the American Friends Service Committee and other groups submitted petitions to the mayor with more than 3,000 signatures from residents opposed to the plan.</p>
+        <p>''Rather than this being a solution to crime, it could actually lead to more crime,'' Ms. Steglich said, ''with residents afraid to call police in an emergency because they could face deportation.''</p>
+        <p>THE WEEK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

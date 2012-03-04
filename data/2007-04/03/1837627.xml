@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   GORTZ, NORMAN N.</title>
+    <meta content="dn040307" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837627"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">GORTZ, NORMAN N.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070403T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE7D8153AF930A35757C0A9619C8B63" item-length="89" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   GORTZ, NORMAN N.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>GORTZ--Norman N., of Boca Raton FL. Formerly of Great Neck on April 1, 2007. Loving and devoted husband of the late Doris, beloved father of Nancy and Gil Rose, Albert and Jane Gortz and David and Linda Gortz. Loving grandfather of Alison, Dorothy, Rebecca, Scott, Darren, Kelly and Katie and seven great-grandchildren. Memorial services April 5, 2007 at Temple Beth El Boca Raton FL. In lieu of flower donations may be made to Jewish Federation of South Palm Beach County, 9901 Donna K. Blvd Boca Raton, FL 33428.</p>
+      </block>
+      <block class="full_text">
+        <p>GORTZ--Norman N., of Boca Raton FL. Formerly of Great Neck on April 1, 2007. Loving and devoted husband of the late Doris, beloved father of Nancy and Gil Rose, Albert and Jane Gortz and David and Linda Gortz. Loving grandfather of Alison, Dorothy, Rebecca, Scott, Darren, Kelly and Katie and seven great-grandchildren. Memorial services April 5, 2007 at Temple Beth El Boca Raton FL. In lieu of flower donations may be made to Jewish Federation of South Palm Beach County, 9901 Donna K. Blvd Boca Raton, FL 33428.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

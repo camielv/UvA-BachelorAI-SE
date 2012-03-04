@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Findings Challenge Guidelines For Weight Gain in Pregnancy</title>
+    <meta content="10scal" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1839253"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="VITAL SIGNS: ON THE SCALES"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weight</classifier>
+        <classifier class="online_producer" type="general_descriptor">Pregnancy and Obstetrics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070410T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06EEDE153FF933A25757C0A9619C8B63" item-length="223" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Findings Challenge Guidelines For Weight Gain in Pregnancy</hl1>
+      </hedline>
+      <byline class="print_byline">By Nicholas Bakalar</byline>
+      <byline class="normalized_byline">Bakalar, Nicholas</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Women whose weight gain during pregnancy meets the current recommendations are significantly more likely to have a 3-year-old who is overweight than those who gain less than the recommended amount, researchers report.</p>
+        <p>Guidelines from the Institute of Medicine say that a woman with a normal body-mass index of 19.8 to 26 should gain 25 to 35 pounds. Women with a lower than normal B.M.I. should gain slightly more, and those with a B.M.I. greater than 26 should gain 13 to 25 pounds.</p>
+      </block>
+      <block class="full_text">
+        <p>Women whose weight gain during pregnancy meets the current recommendations are significantly more likely to have a 3-year-old who is overweight than those who gain less than the recommended amount, researchers report.</p>
+        <p>Guidelines from the Institute of Medicine say that a woman with a normal body-mass index of 19.8 to 26 should gain 25 to 35 pounds. Women with a lower than normal B.M.I. should gain slightly more, and those with a B.M.I. greater than 26 should gain 13 to 25 pounds.</p>
+        <p>Researchers studied 1,044 mother-child pairs. After controlling for prepregnancy B.M.I. and other factors, they found that women whose weight gain was in the recommended range were almost four times more likely to have a preschooler who was overweight as those who gained less. The 3-year-old children of mothers who gained more than recommended were also more likely to have higher systolic blood pressure. The study  is in the April issue of The American Journal of Obstetrics and Gynecology.</p>
+        <p>A majority of mothers in the study gained more weight than is recommended, but gaining less than the recommended amount was not associated with any negative outcome.</p>
+        <p>''The guidelines should probably be re-evaluated,'' said Dr. Emily Oken, the lead author of the study. But, she added, ''It's a little too early to recommend gains less than the current guidelines indicate.''</p>
+        <p>VITAL SIGNS: ON THE SCALES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Jacques Courtin-Clarins, 85, Innovator in Cosmetics</title>
+    <meta content="06clarins" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business; Obituaries" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/06/business/06clarins.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1838292"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obits)</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+        <classifier class="online_producer" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="descriptor">Cosmetics and Toiletries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cosmetics and Toiletries</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070406T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F05E1DE173FF935A35757C0A9619C8B63" item-length="272" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Jacques Courtin-Clarins, 85, Innovator in Cosmetics</hl1>
+        <hl2 class="online_headline">Jacques Courtin-Clarins, 85, Innovator in Cosmetics, Dies</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Jacques Courtin-Clarins, the founder and chairman of the Clarins Groupe, a French company that produces luxury skin-care products and makeup made primarily from plant extracts, died on March 23 at his home outside Paris. He was 85.</p>
+        <p>His death was announced by the company.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Jacques Courtin-Clarins was the founder and chairman of the Clarins Groupe, a French company that produces luxury skin-care products and makeup made primarily from plant extracts.</p>
+      </block>
+      <block class="full_text">
+        <p>Jacques Courtin-Clarins, the founder and chairman of the Clarins Groupe, a French company that produces luxury skin-care products and makeup made primarily from plant extracts, died on March 23 at his home outside Paris. He was 85.</p>
+        <p>His death was announced by the company.</p>
+        <p>Mr. Courtin-Clarins, a chiropractor who saw an opportunity when many of the women among his patients complained about the condition of their skin, started the company in 1954. He named Clarins after a character he played in a school play and later added the name to his own.</p>
+        <p>The company now produces cleansers, moisturizers, firming products, exfoliating treatments and sun-protection and tanning lotions, as well as a line of perfumes under the brand names Clarins, Thierry Mugler, Azzaro and Stella Cadente. Last year, the company had about $1.2 billion in sales, including revenue from spas and salons in many countries.</p>
+        <p>Allan Mottus, the editor of the Informationist, a cosmetic trade magazine, said that Mr. Courtin-Clarins's ''claim to fame, which is major, was his use of plant extracts.''</p>
+        <p>''It changed the course of the business,'' Mr. Mottus said. ''Other people had tried it before, but he had a superior product.''</p>
+        <p>Jacques Courtin (he added Clarins in 1974) was born in Paris on Aug. 6, 1921. He is survived by two sons, Christian, who is now the company president, and Olivier, its managing director, both of Paris, and five granddaughters. His wife, Maria, died in 2005.</p>
+        <p>In his insistence on using plant extracts, Mr. Courtin-Clarins resisted a cosmetics industry trend in the 1970s toward using chemical-based products. ''Now a lot of other companies do what he did,'' Mr. Mottus said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

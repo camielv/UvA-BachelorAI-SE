@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Art in Review; Tetsuya Yamada</title>
+    <meta content="20gall-6" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="32" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1841632"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070420T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9406EED71F3FF933A15757C0A9619C8B63" item-length="271" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Art in Review; Tetsuya Yamada</hl1>
+      </hedline>
+      <byline class="print_byline">By BRIDGET L. GOODBODY</byline>
+      <byline class="normalized_byline">Goodbody, Bridget L</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Morice  Francis M. Naumann Fine Art  22 East 80th Street, Manhattan  Through April 27</p>
+        <p>Tetsuya Yamada, a ceramist who teaches at the University of Minnesota, pays homage here to Marcel Duchamp, the originator of the readymade, and Constantin Brancusi, the high priest of Modernist sculpture. The show's title, ''Morice,'' was a term of endearment that those lifelong friends used for each other, to describe someone possessed of pure heart and soul. (Duchamp acted as Brancusi's agent in the United States.)</p>
+      </block>
+      <block class="full_text">
+        <p>Morice  Francis M. Naumann Fine Art  22 East 80th Street, Manhattan  Through April 27</p>
+        <p>Tetsuya Yamada, a ceramist who teaches at the University of Minnesota, pays homage here to Marcel Duchamp, the originator of the readymade, and Constantin Brancusi, the high priest of Modernist sculpture. The show's title, ''Morice,'' was a term of endearment that those lifelong friends used for each other, to describe someone possessed of pure heart and soul. (Duchamp acted as Brancusi's agent in the United States.)</p>
+        <p>Mr. Yamada does a skillful job marrying his predecessors' styles. The installation is made up of 45 high, skinny sculptures, each about five feet tall. The base of each combines a plywood rendition of Mr. Brancusi's series of rhomboid forms (the most famous is ''Endless Column'') and a wooden kitchen stool like the one Mr. Duchamp used in his now iconic ''Bicycle Wheel.''</p>
+        <p>On top of these wooden platforms, Mr. Yamada has placed phallic forms crafted from industrial white ceramic. The shapes resemble both Mr. Duchamp's ''Fountain,'' an actual urinal he turned upside down and famously exhibited as sculpture, as well as ovoid shapes that recall Brancusi's ''Bird in Space'' and the sacred Shiva lingam symbol in Hindu worship.</p>
+        <p>Mr. Yamada has turned the exhibition into a memorial by arranging the sculptures in the manner Brancusi used in his studio. They also resemble the totemic poles in a Tiwi burial ground.</p>
+        <p>Would Duchamp and Brancusi have appreciated such a memorial? My guess is that they would have preferred something more conceptually original -- even though each spent a lifetime appropriating the forms of others.</p>
+        <p>BRIDGET L. GOODBODY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

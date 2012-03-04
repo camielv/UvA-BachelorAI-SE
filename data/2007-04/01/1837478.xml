@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>METS READY TO MOVE FORWARD</title>
+    <meta content="01yankees-2" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837478"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="BASEBALL"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Mets</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402E2DC1E30F932A35757C0A9619C8B63" item-length="115" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>METS READY TO MOVE FORWARD</hl1>
+      </hedline>
+      <byline class="print_byline">By BEN SHPIGEL</byline>
+      <dateline>TAMPA, Fla., March 31</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Mets ended spring training Saturday by setting an unwanted franchise record, losing for the 21st time this spring, 8-3, to Tampa Bay in St. Petersburg, Fla. Mike Pelfrey, the Mets' fifth starter, allowed 8 runs -- as many as he had all spring -- and 10 hits in four innings.</p>
+        <p>Pelfrey returned to Port St. Lucie, Fla., where he will make one minor league start before the Mets recall him to pitch April 13 against the Washington Nationals.</p>
+      </block>
+      <block class="full_text">
+        <p>The Mets ended spring training Saturday by setting an unwanted franchise record, losing for the 21st time this spring, 8-3, to Tampa Bay in St. Petersburg, Fla. Mike Pelfrey, the Mets' fifth starter, allowed 8 runs -- as many as he had all spring -- and 10 hits in four innings.</p>
+        <p>Pelfrey returned to Port St. Lucie, Fla., where he will make one minor league start before the Mets recall him to pitch April 13 against the Washington Nationals.</p>
+        <p>Manager Willie Randolph completed his batting order for Sunday night's opener in St. Louis: José Reyes, Paul Lo Duca, Carlos Beltran, Carlos Delgado, David Wright, Moises Alou, Shawn Green, José Valentín and Tom Glavine.</p>
+        <p>BEN SHPIGEL</p>
+        <p>BASEBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

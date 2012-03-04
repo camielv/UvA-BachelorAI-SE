@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bottle Law Changes Would Be a Violation</title>
+    <meta content="l01west-2" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Westchester Weekly Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="14WC" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837423"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Containers and Packaging</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Recycling of Waste Materials</classifier>
+        <classifier class="indexing_service" type="descriptor">Law and Legislation</classifier>
+        <classifier class="indexing_service" type="descriptor">Alcoholic Beverages</classifier>
+        <classifier class="indexing_service" type="descriptor">Beer</classifier>
+        <location class="indexing_service">New York State</location>
+        <person class="indexing_service">Bertoline, Dominick A</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Westchester</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recycling of Waste Materials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Containers and Packaging</classifier>
+        <classifier class="online_producer" type="general_descriptor">Beer</classifier>
+        <classifier class="online_producer" type="general_descriptor">Beverages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Alcoholic Beverages</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9900E2DD1E30F932A35757C0A9619C8B63" item-length="202" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bottle Law Changes Would Be a Violation</hl1>
+      </hedline>
+      <abstract>
+        <p>Anheuser-Busch beer distributor Dominick A Bertoline letter opposes March 18 editorial supporting expansion of New York State bottle law</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>While environmental preservation in the Hudson Valley is an admirable goal we all support, I disagree with your March 18 editorial ''Nickels and Farms,'' advocating expansion of the bottle law and confiscation of unredeemed deposits.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>While environmental preservation in the Hudson Valley is an admirable goal we all support, I disagree with your March 18 editorial ''Nickels and Farms,'' advocating expansion of the bottle law and confiscation of unredeemed deposits.</p>
+        <p>These proposed changes are indeed a ''hidden'' tax that beer, soda and other soft drink manufacturers and distributors will have to pass on to consumers in order to pay for increased handling costs. The price of drinks in bottles and cans will go up at least 10 cents each. That's $2.40 extra a case, plus the new deposit on non-carbonated beverages.</p>
+        <p>Further, making beverage distributors and manufacturers return unredeemed deposits is in direct violation of the legislative intent and promises made when the bottle law first went into effect some 25 years ago. Unredeemed deposits were to be kept to offset the huge costs imposed on them to set up and run the program. These costs have not gone away.</p>
+        <p>This is not an issue of being against environmental protection. It is an issue of common sense and having the state keep its word.</p>
+        <p>Dominick A. Bertoline  Peekskill</p>
+        <p>The writer is president of D. Bertoline and Sons, an Anheuser-Busch beer distributor.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

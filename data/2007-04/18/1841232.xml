@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Clear Channel Is Said to Get Raised Bid</title>
+    <meta content="18radio" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/18/business/media/18radio.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1841232"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Radio</classifier>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <org class="indexing_service">Clear Channel Communications Inc</org>
+        <org class="indexing_service">Bain Capital</org>
+        <org class="indexing_service">Lee, Thomas H, Partners</org>
+        <person class="indexing_service">Sorkin, Andrew Ross</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Radio</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <org class="online_producer">Clear Channel Communications Inc</org>
+        <org class="online_producer">Bain Capital</org>
+        <org class="online_producer">Lee, Thomas H, Partners</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070418T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9500E0DB1E3FF93BA25757C0A9619C8B63" item-length="473" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Clear Channel Is Said to Get Raised Bid</hl1>
+        <hl2 class="online_headline">Clear Channel Is Said to Get Raised Bid</hl2>
+      </hedline>
+      <byline class="print_byline">By ANDREW ROSS SORKIN</byline>
+      <byline class="normalized_byline">Sorkin, Andrew Ross</byline>
+      <abstract>
+        <p>Bain Capital and Thomas H Lee Partners raise their offer for Clear Channel Communications by more than $1.5 billion, to about $27.6 billion; sweetened bid comes 24 hours ahead of crucial vote by shareholders, who were expected to reject offer from two firms (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Two private equity firms raised their offer for Clear Channel Communications by more than $1.5 billion yesterday, to about $27.6 billion, according to people involved in the negotiations.</p>
+        <p>The sweetened bid came 24 hours ahead of a crucial vote by shareholders, who were expected to reject the offer from the two firms, Bain Capital and Thomas H. Lee Partners.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Two private equity firms raised their offer for Clear Channel by more than $1.5 billion, to about $27.6 billion.</p>
+      </block>
+      <block class="full_text">
+        <p>Two private equity firms raised their offer for Clear Channel Communications by more than $1.5 billion yesterday, to about $27.6 billion, according to people involved in the negotiations.</p>
+        <p>The sweetened bid came 24 hours ahead of a crucial vote by shareholders, who were expected to reject the offer from the two firms, Bain Capital and Thomas H. Lee Partners.</p>
+        <p>The maneuvering over Clear Channel, the nation's largest radio company, represents one of the few times that public shareholders have challenged a leveraged buyout, with some saying they were being shortchanged. And it demonstrated the power that public shareholders still have.</p>
+        <p>The new offer, expected to be announced today, may help win over some big shareholders, but it remained unclear last night whether it would be enough.</p>
+        <p>The private equity firms had insisted for months that they could not afford to pay more, and had threatened to let the deal die rather then increase their bid.</p>
+        <p>But several investors, including Fidelity Investments and Highfields Capital Management, a hedge fund, had said they planned to vote against the deal.</p>
+        <p>Proxy advisory firms like Glass, Lewis &amp; Company, which wields influence on how shareholders vote, recommended that the offer be rejected.</p>
+        <p>The new offer, at $39 a share compared with the previous one at $37.60, is likely to appease at least some shareholders, like Highfields. But some like Fidelity, which controls about 9 percent of Clear Channel, were hoping for at least $40 a share and could still seek to defeat the deal.</p>
+        <p>The vote is likely to be delayed by at least several days to give shareholders who had already submitted their votes an opportunity to change it based on the new offer, people involved in the deal said.</p>
+        <p>Bain Capital and Thomas H. Lee Partners appear to have been able to raise their bid, in part, because Wall Street banks allowed them to borrow more money. Neither firm is expected to have to commit more equity to the deal.</p>
+        <p>The private equity firms had offered to restructure the deal as an alternative to raising their bid to $39, but Clear Channel's board rejected that proposal.</p>
+        <p>The firms were hoping to allay shareholder concerns that they were selling at too low a price by allowing the public shareholders to continue to own a small stake in the company, giving them an opportunity to benefit if the new owners were able to better the company.</p>
+        <p>Clear Channel made an earlier move to help save the deal. Last month, its board moved the record date, which determines the shareholders eligible to vote on the deal, to March 23, nearly three months after the original date in January.</p>
+        <p>Some analysts saw that move as a way to buy time to persuade skeptical shareholders. The date of the shareholder vote was also postponed, to today.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Undeparted</title>
+    <meta content="08wwln--lede.t" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Magazine; Washington" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/08/magazine/08wwlnlede.t.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1839046"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE WAY WE LIVE NOW: 4-08-07"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">United States International Relations</classifier>
+        <classifier class="indexing_service" type="descriptor">United States Armament and Defense</classifier>
+        <classifier class="indexing_service" type="descriptor">Law and Legislation</classifier>
+        <classifier class="indexing_service" type="descriptor">Terrorism</classifier>
+        <location class="indexing_service">Iraq</location>
+        <location class="indexing_service">United States</location>
+        <org class="indexing_service">Al Qaeda in Mesopotamia</org>
+        <person class="indexing_service">Feldman, Noah</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Iraq</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates/George W Bush</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Legal</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Iraq</classifier>
+        <classifier class="online_producer" type="descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="descriptor">Sunni Muslims</classifier>
+        <classifier class="online_producer" type="descriptor">Shiite Muslims</classifier>
+        <classifier class="online_producer" type="descriptor">War Crimes, Genocide and Crimes Against Humanity</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sunni Muslims</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Shiite Muslims</classifier>
+        <classifier class="online_producer" type="general_descriptor">War Crimes, Genocide and Crimes Against Humanity</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">Iraq</location>
+        <person class="online_producer">Bush, George W</person>
+        <person class="online_producer">Clinton, Hillary Rodham</person>
+        <person class="online_producer">Biden, Joseph R Jr</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070408T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E01E6DA1F30F93BA35757C0A9619C8B63" item-length="2118" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Undeparted</hl1>
+        <hl2 class="online_headline">The Undeparted</hl2>
+      </hedline>
+      <byline class="print_byline">By Noah Feldman</byline>
+      <byline class="normalized_byline">Feldman, Noah</byline>
+      <abstract>
+        <p>Noah Feldman article says that even if Democrat is elected president and implements resolutions adopted by Congress to withdraw troops from Iraq, results will likely end up looking oddly similar to Bush administration's current strategy: fighting Al Qaeda in Mesopotamia and trying to hold off large-scale slaughter long enough to create truly stable power-sharing government; photos; graph offering some indications of what life is like for Iraqis (L)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>On the surface, recent votes in Congress appear to signal a new Democratic determination to withdraw from Iraq. But the reality is otherwise. It is not only that the resolutions were drafted and adopted with the certain knowledge that they would be vetoed. More important, even if a future Democratic president did try to implement the new plans, the results would likely end up looking oddly similar to the Bush administration's current strategy. In politics as in war, things are seldom what they seem.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>No matter who’s elected in 2008, our troops will probably remain in Iraq.</p>
+      </block>
+      <block class="full_text">
+        <p>On the surface, recent votes in Congress appear to signal a new Democratic determination to withdraw from Iraq. But the reality is otherwise. It is not only that the resolutions were drafted and adopted with the certain knowledge that they would be vetoed. More important, even if a future Democratic president did try to implement the new plans, the results would likely end up looking oddly similar to the Bush administration's current strategy. In politics as in war, things are seldom what they seem.</p>
+        <p>If there's one thing that Iraqis and Americans agree on, it's that U.S. troops don't belong in Iraq -- and yet even now, the troops are still there. Elected officials of all persuasions are supposed to respond to public opinion. So what explains this gap? One possibility is that politicians realize that raw public sentiment cannot be translated into practical policy without taking account of the likely consequences. It is not enough to give the public what it wants today if tomorrow -- or whenever the next elections are held -- the public will be even angrier about where things have gone in the meantime. With office comes responsibility -- if only because politicians want to keep their jobs.</p>
+        <p>As the only presidential candidate with previous White House experience who has a plausible shot in 2008, Hillary Clinton in particular may be thinking along these lines. It would be easier in the Democratic primaries and maybe even the general election for her to demand a rapid pullout -- but what if she wins? It won't do her much good to be president if she has to preside over a spiraling escalation of quasi-genocidal rage as American soldiers come home as promised; and if she were to break a campaign promise to withdraw troops, it would hardly bode well for a second term.</p>
+        <p>Another possibility is that the politicians are reading the polls just right, and adopting policies that reflect a deep ambivalence -- not to say confusion -- on the part of the voters themselves, whether Iraqi or American. A recent poll commissioned by ABC News and partners has 78 percent of Iraqis opposing the U.S. presence and 51 percent approving of attacks on U.S. troops -- but only 35 percent calling for immediate withdrawal. If supporting violence against the same soldiers you wish would stay is not confusion, then nothing is. Meanwhile, American public opinion has its own internal tensions. The war is extraordinarily unpopular, but leaving too fast is seen as undesirable as well -- a CNN poll conducted last month shows that only 21 percent of Americans want all the troops home now. If the public is indeed in the grips of two separate and conflicting impulses, then the politicians may simply be giving them what they are asking for. This is politics under the motto of paralysis: Should I stay or should I go?</p>
+        <p>If popular confusion shapes the policies coming from Washington right now, it is at least an understandable reaction to the near-impossible situation we currently face. On the one hand, there is the brutal and undeniable fact that the U.S. has disastrously bungled its entire undertaking in Iraq. Even the best outcomes now imaginable -- like de facto partition and routine terrorism but no civil war -- bear more than a passing resemblance to what were once considered disastrously bad possibilities. Having failed in security, in reconstruction and in institution-building, what makes us think we can now do a better job at any of the above?</p>
+        <p>On the other hand, it's a near certainty that U.S. withdrawal from Iraq under the present conditions would allow or encourage the present low-level civil war to become a full-blown conflict. Many people will die, probably even more than the many who are dying now. Eventually the civil war might burn itself out -- but no one knows how long that might take, which regional actors might be drawn into the conflict and even whether it would happen at all: it's not clear that any of the participants -- Shiite, Sunni and Kurdish militias -- are either strong enough to win or weak enough to lose. Facing such difficult choices, it's no wonder that politicians -- to say nothing of the fickle public -- are prone to vacillation, self-contradiction and flip-flopping.</p>
+        <p>Thus far, both the Bush administration and Congressional Democrats have responded to our no-win predicament pretty poorly. The president is offering his familiar muddle-through approach. First, adopt the techniques of counterinsurgency -- clear and hold urban space, for example -- that should have been used all along. Then pray that they work, because the very same doctrine of counterinsurgency on which we are now relying predicts that these tactics probably will fail given current troop numbers. The desperate presumption is that the shortfall will be made up for by Iraqi troops -- the same troops whose training has been a watchword of hope and a byword of failure these last agonizing four years.</p>
+        <p>But the 'surge'' isn't just a way into Iraq -- it is also, for at least some in the administration, a shortcut to getting out of it. If basic security can be achieved even briefly -- especially before the 2008 elections -- Republicans with influence will advocate pulling most troops back while claiming that this time the mission really has been accomplished. It's unlikely that a short-term peace will hold, but at least it might give the U.S. the cover to say that it has not lost the war. If Iraq collapses 6 or 18 or 36 months after U.S. troops are out, Iraqis can then be blamed for the failure. Erstwhile supporters of the war are already starting to justify this plan by hinting darkly that the Iraqis have to take responsibility for themselves -- as if they could be expected to succeed in providing security and basic services when the world's richest superpower has so abjectly failed.</p>
+        <p>On the Democratic side, there is also plenty of bad-conscience, blame-the-victim rhetoric to be found. Its most common form lies in the claim that the Iraqis have not succeeded in taking charge and governing themselves because they are waiting for the U.S. to do it. The theory here, to the extent one exists, seems to be that the Iraqi political classes could deliver law and order and reconstruction if only they really wanted to, but their incentive to save their country is somehow reduced by the presence of the U.S. Should we depart now, or threaten to start departing if the Iraqi government doesn't meet certain benchmarks, the Iraqis will at last recognize their common interests and learn to cooperate.</p>
+        <p>It is hard to overstate how absurd this view would sound to anyone who wasn't looking for excuses to withdraw. Exactly how much incentive does a person risking his life to serve in government need to save his country, not to mention his family and friends, from total ruin? Moreover, Iraqi politicians get only a minimal advantage from the fact that their countrymen blame the U.S. for much of Iraq's current situation. The Iraqi public is strongly divided over the legitimacy of the current government. (Indeed, the worse things go, the more Iraqis seem to think their leaders aren't even really in charge.) America's presence, to be sure, has not enabled Iraqi leaders to settle their differences. But it does not follow that America's absence would bring them together at last.</p>
+        <p>Notwithstanding the unfortunate rhetoric, the Democrats have begun to introduce what sounds like a new Iraq policy. The House has set a mandatory withdrawal deadline of September 2008. The Senate, for its part, has called for the removal of troops by March 2008 -- a date with no particular significance for Iraq but well suited to enable a Democratic presidential candidate to say then that if he or she were president, the troops would already be home.</p>
+        <p>But the Democratic blueprints come with a caveat. An important aspect of the new thinking, embraced in both the Senate and House bills, is the assertion that the U.S. may leave some forces in Iraq for the purpose of fighting terrorist organizations such as Al Qaeda in Mesopotamia. Sometimes the idea is coupled with vague statements about keeping those forces in their bases or along Iraq's borders. These statements imply that U.S. troops will not be policing population centers in order to prevent intercommunal violence.</p>
+        <p>The most attractive feature of this ''fight Al Qaeda'' approach is that it acknowledges what many Americans realize: Deposing Saddam Hussein was not a genuine part of the war on terror except in the most oblique and indirect sense, but like it or not, the present conflict in Iraq is now at the heart of the struggle with Al Qaeda and violent jihadism. Just because President Bush says it's so, and just because he helped make it so, doesn't mean it isn't so. It is heartening that so many leading figures in the Democratic Party seem to understand this -- though of course the fact sits very uneasily with the simultaneous desire to get troops out of Iraq.</p>
+        <p>And there's the rub. The ''fight Al Qaeda'' strategy may be billed as a withdrawal plan, but it almost certainly could not and would not lead to a significant reduction in troop levels. Do the Democrats really intend for U.S. troops to stand by and allow Iraqis to slaughter one another while claiming that the defeat of Al Qaeda is our only objective? To do so would be to repudiate the only clear foreign policy legacy of the Clinton years, namely the principle of no more Rwandas -- that the U.S. can and must intervene to stop genocide. Would the American public really be prepared to accept preventable massacres taking place before the eyes of U.S. soldiers?</p>
+        <p>Some supporters of withdrawal suggest we may be able to prevent a future genocide by imposing separation on hostile populations who still live uncomfortably close to one another. Once we've done so, the notion goes, we can then leave with a clear conscience. This sounds appealing in theory, especially to diplomats who cut their teeth on the post-genocidal reordering of the former Yugoslavia.</p>
+        <p>In practice, however, creating safe zones for Sunnis, Shiites and Kurds can be accomplished only with large numbers of troops. If a Democratic president ordered a quick withdrawal, these safe zones could not be established at all. Meanwhile, Senator Joe Biden has doggedly called for a federal Iraq in which oil revenues are shared across regions. That is a terrific idea -- but it is an idea that is already enshrined in the Iraqi constitution and that will not be worth much unless someone forces oil-rich Shiite and Kurdish regions to share their wealth with the oil-poor Sunnis.</p>
+        <p>Realistically, then, the ''fight Al Qaeda'' policy cannot work the way it is being promoted. It is not easy to attack Al Qaeda without taking on the larger Sunni insurgency, notwithstanding a few cases in which Sunni tribes have decided to confront Al Qaeda themselves. Most likely, troops will continue to police population centers -- but now under a new and more appealing name than ''surge'' or ''stay the course.'' To be accomplished successfully and without unnecessarily endangering soldiers in the line of fire, the policy would require roughly as many troops in Iraq as we have now. The result would probably look a lot like the Bush policy. And it could take years to show success.</p>
+        <p>Nevertheless, there is a certain logic to this rebranding of the war. Al Qaeda in Mesopotamia has done everything it can to bring on a civil war, and it's unlikely the war will end before it is defeated. Allowing the collapse of the country would, in fact, mean handing victory to the most violent jihadists -- a result that would be irresponsible for any president who thought the United States was actually endangered by Islamic terrorism. Fighting Al Qaeda is as good a label as any for what we should be doing in Iraq -- trying to hold off large-scale slaughter long enough to create a stable power-sharing government that would actually be worthy of the name.</p>
+        <p>Will the public, in the U.S. or Iraq, accept a continued American presence under these terms? Now that we have rediscovered that fighting with inadequate resources loses wars, the public is understandably fed up with the whole undertaking. The larger war on terror, though, is a war that most of us still believe we need to fight. To do so, we need to avoid the kind of withdrawal that would allow Al Qaeda to claim victory while simultaneously precipitating a humanitarian crisis that would destabilize the region. We have no business starting wars we cannot bring ourselves to complete, but maybe we can bring ourselves to win a war we didn't start.</p>
+        <p>THE WAY WE LIVE NOW: 4-08-07 Noah Feldman, a contributing writer for the magazine, is a law professor at New York University and adjunct senior fellow at the Council on Foreign Relations.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Noah Feldman, a contributing writer for the magazine, is a law professor at New York University and adjunct senior fellow at the Council on Foreign Relations.</tagline>
+    </body.end>
+  </body>
+</nitf>

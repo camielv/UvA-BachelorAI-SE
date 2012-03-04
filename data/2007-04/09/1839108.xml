@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Tribune Under Zell: New Boss, Old Feud</title>
+    <meta content="09zell" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/09/business/media/09zell.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1839108"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MEDIA TALK"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="descriptor">Newspapers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Newspapers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <org class="online_producer">Tribune Company</org>
+        <org class="online_producer">Los Angeles Times</org>
+        <person class="online_producer">Zell, Samuel</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070409T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E7D7143FF93AA35757C0A9619C8B63" item-length="482" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Tribune Under Zell: New Boss, Old Feud</hl1>
+        <hl2 class="online_headline">Tribune Under Zell: New Boss, Old Feud</hl2>
+      </hedline>
+      <byline class="print_byline">By KATHARINE Q. SEELYE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>When Sam Zell took over the Tribune Company, he also took on a longstanding feud between the company's Chicago headquarters and its biggest holding, The Los Angeles Times.</p>
+        <p>In that case, you might think that after Mr. Zell's transaction was announced last Monday, he would want to send a signal to Los Angeles that a new day was at hand.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The feud between Tribune and The Los Angeles Times continued when Sam Zell gave his first interview after the deal exclusively to The Chicago Tribune.</p>
+      </block>
+      <block class="full_text">
+        <p>When Sam Zell took over the Tribune Company, he also took on a longstanding feud between the company's Chicago headquarters and its biggest holding, The Los Angeles Times.</p>
+        <p>In that case, you might think that after Mr. Zell's transaction was announced last Monday, he would want to send a signal to Los Angeles that a new day was at hand.</p>
+        <p>Instead, he gave his first interview exclusively to The Chicago Tribune. There was no conference call with any other Tribune Company reporters who were tracking the deal, including those at The Los Angeles Times or Newsday, or in Baltimore or Hartford.</p>
+        <p>Mr. Zell, who has seemed to be in charge of his own media strategy, as far as it goes, was not available to explain his decision. Someone close to him, who was not authorized to speak for him, noted that he was a Chicago native and loyal Chicago Tribune reader and said he had probably decided to speak to The Tribune out of hometown solidarity. Another person, also not authorized to speak for him, said that Mr. Zell is ''not a conference-call kind of guy.''</p>
+        <p>The culture clash between papers began when Tribune acquired The Los Angeles Times in 2000. Both The Times and The Chicago Tribune claim flagship status. Chicago is home to the Tribune management team, who view The Los Angeles Times as a profligate, uncontrollable colony; The Times, the fourth-biggest paper in the country and one with a major commitment to global news, sees The Chicago Tribune as a newspaper with a limited view.</p>
+        <p>In Mr. Zell's interview, it was not clear how heavily the problems with Los Angeles weighed on him. Mr. Zell said that from news media accounts, he was ''more familiar than I would like'' to be with the tension.</p>
+        <p>''My sense is that it's a cultural and locational issue as much as it is anything else,'' he said. He has a home in Malibu, where he tries to spend every other weekend. But, he said, ''I don't pay much attention to the L.A. Times editorial page.''</p>
+        <p>Mr. Zell finally gave an interview to The Los Angeles Times on Friday, at a terminal at Los Angeles International Airport, before he headed to dinner with David Geffen, who has long wanted to buy the paper.</p>
+        <p>Maybe it was something in the California air, but Mr. Zell suddenly appeared less wedded to his hometown boys in Chicago when Michael A. Hiltzik, the Times reporter, asked Mr. Zell what had impressed him about Dennis J. FitzSimons, Tribune's chairman and chief executive.</p>
+        <p>''Did I say that I was impressed with Dennis?'' Mr. Zell replied. ''I don't think I said anything about Dennis. I think I can tell you that I don't know Dennis very well, yet. I think he really wants this to succeed, and I'm hoping that the combination can achieve that.''</p>
+        <p>KATHARINE Q. SEELYE</p>
+        <p>MEDIA TALK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

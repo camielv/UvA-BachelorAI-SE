@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Stocks Climb in a Short Trading Week</title>
+    <meta content="08data" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/08/business/yourmoney/08data.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1838823"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="DataBank"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Markets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070408T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940CE2D8173FF93BA35757C0A9619C8B63" item-length="213" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Stocks Climb in a Short Trading Week</hl1>
+        <hl2 class="online_headline">Stocks Climb in a Short Trading Week</hl2>
+      </hedline>
+      <byline class="print_byline">By JEFF SOMMER</byline>
+      <byline class="normalized_byline">Sommer, Jeff</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The stock market had a short but splendid week, with gains that brought the three major indexes close to the peaks they had reached before the sharp global sell-off that started on Feb. 27.</p>
+        <p>The stock market was closed for Good Friday but it climbed on the four days in which it was open, in part because of a wave of mergers and acquisitions -- or attempts at them. For example, Kirk Kerkorian, the billionaire investor, made a $4.5 billion bid for Chrysler. And First Data, the credit card processor, agreed to a takeover offer from Kohlberg Kravis Roberts for about $29 billion. First Data shares rose 20 percent for the week, the best weekly performance in the Standard &amp; Poor's 500-stock index.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The stock market had a short but splendid week, with gains that brought the three major indexes close to the peaks they had reached before the sharp global sell-off that started on Feb. 27.</p>
+      </block>
+      <block class="full_text">
+        <p>The stock market had a short but splendid week, with gains that brought the three major indexes close to the peaks they had reached before the sharp global sell-off that started on Feb. 27.</p>
+        <p>The stock market was closed for Good Friday but it climbed on the four days in which it was open, in part because of a wave of mergers and acquisitions -- or attempts at them. For example, Kirk Kerkorian, the billionaire investor, made a $4.5 billion bid for Chrysler. And First Data, the credit card processor, agreed to a takeover offer from Kohlberg Kravis Roberts for about $29 billion. First Data shares rose 20 percent for the week, the best weekly performance in the Standard &amp; Poor's 500-stock index.</p>
+        <p>For the week, the Dow Jones industrial average gained 205.85 points, or 1.7 percent, to close at 12,560.20. The S.&amp; P. 500 climbed 22.90 points, or 1.6 percent, to close at 1,443.76. The Nasdaq composite index jumped 49.70 points, or 2.1 percent, to close at 2,471.34.</p>
+        <p>The yield on the benchmark 10-year Treasury note rose to 4.75 percent from 4.65 percent the previous week. The yield jumped during abbreviated bond market trading on Friday, in response to a strong Labor Department report on employment in March.</p>
+        <p>JEFF SOMMER</p>
+        <p>DataBank</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

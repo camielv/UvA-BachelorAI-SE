@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Joanne Cvijic, Christopher Good</title>
+    <meta content="22cvijic" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/22/fashion/weddings/22cvijic.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842143"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Cvijic, Joanne (Joanne Good)</person>
+        <person class="indexing_service">Good, Dr. Christopher Richard</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F05E0DF163EF931A15757C0A9619C8B63" item-length="176" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Joanne Cvijic, Christopher Good</hl1>
+        <hl2 class="online_headline">Joanne Cvijic, Christopher Good</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Joanne Cvijic, a daughter of Nada and Zarko Cvijic of Rockaway Park, Queens, was married yesterday to Dr. Christopher Richard Good, the son of Barbara L. Good of Estes Park, Colo., and the late Richard L. Good. The Rev. Elias G. Villis, a Greek Orthodox priest, officiated at the Church of Our Saviour in Rye, N.Y.</p>
+        <p>Mrs. Good, 28, is a vascular surgery physician assistant at the Vein Therapy Center of Fairfield County, an outpatient surgery center in Norwalk, Conn. She graduated from the State University of New York at Stony Brook and received a certificate in physician assistant studies from Cornell. Her father retired as an operations manager for Rudin Management Company, the Manhattan real estate business.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Joanne Cvijic, a daughter of Nada and Zarko Cvijic of Rockaway Park, Queens, was married yesterday to Dr. Christopher Richard Good, the son of Barbara L. Good of Estes Park, Colo., and the late Richard L. Good. The Rev. Elias G. Villis, a Greek Orthodox priest, officiated at the Church of Our Saviour in Rye, N.Y.</p>
+      </block>
+      <block class="full_text">
+        <p>Joanne Cvijic, a daughter of Nada and Zarko Cvijic of Rockaway Park, Queens, was married yesterday to Dr. Christopher Richard Good, the son of Barbara L. Good of Estes Park, Colo., and the late Richard L. Good. The Rev. Elias G. Villis, a Greek Orthodox priest, officiated at the Church of Our Saviour in Rye, N.Y.</p>
+        <p>Mrs. Good, 28, is a vascular surgery physician assistant at the Vein Therapy Center of Fairfield County, an outpatient surgery center in Norwalk, Conn. She graduated from the State University of New York at Stony Brook and received a certificate in physician assistant studies from Cornell. Her father retired as an operations manager for Rudin Management Company, the Manhattan real estate business.</p>
+        <p>Dr. Good, 31, is a chief resident in orthopedic surgery at the Hospital for Special Surgery in Manhattan. He graduated magna cum laude and received his medical degree from the University of Rochester. His mother is a mathematics teacher at Estes Park High School. His father was the manager of the Hidden Valley ski resort in Estes Park.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Magician</title>
+    <meta content="Letters.t-2" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837030"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9406E6DD1230F932A35757C0A9619C8B63" item-length="127" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Magician</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>I had a good laugh when I read one sentence in your review of Barry Glassner's ''Gospel of Food'' (March 11): ''Like a magician with a long act and a few great tricks, Glassner makes it worth sitting through the obvious sleight of hand to get to the good parts.''</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>I had a good laugh when I read one sentence in your review of Barry Glassner's ''Gospel of Food'' (March 11): ''Like a magician with a long act and a few great tricks, Glassner makes it worth sitting through the obvious sleight of hand to get to the good parts.''</p>
+        <p>I don't know if your reviewer had a clue, but Barry was a teenage magician, which is how he and I became acquainted many years ago (he in Virginia and I in New York, as members of a national young magicians' club whose ''magazine'' we wrote for and edited).</p>
+        <p>It doesn't take my former ''mind-reading'' skills to know he probably got a hoot out of that line too.</p>
+        <p>Bill Stoller  Pleasantville, N.Y.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

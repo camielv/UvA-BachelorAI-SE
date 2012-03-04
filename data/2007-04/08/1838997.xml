@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>In Her Fashion</title>
+    <meta content="Kuczynski.t" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838997"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070408T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D04E1DF1130F93BA35757C0A9619C8B63" item-length="867" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>In Her Fashion</hl1>
+      </hedline>
+      <byline class="print_byline">By ALEX KUCZYNSKI</byline>
+      <byline class="normalized_byline">Kuczynski, Alex</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A MODEL SUMMER</p>
+        <p>By Paulina Porizkova.</p>
+        <p>324 pp. Hyperion. $23.95.</p>
+      </block>
+      <block class="full_text">
+        <p>A MODEL SUMMER</p>
+        <p>By Paulina Porizkova.</p>
+        <p>324 pp. Hyperion. $23.95.</p>
+        <p>With the publication of ''A Model Summer,'' Paulina Porizkova makes her own contribution to a literary sub-sub-genre, books by supermodels. Most of these get bad reviews, either because they're truly awful, like Naomi Campbell's ''Swan,'' which won Seventeen magazine's Super-Cheesy Award, or -- call me a conspiracy theorist -- because jealous book critics aren't tall and gorgeous, so they try to wield their puny amount of power to establish some sort of moral order.</p>
+        <p>Of all the supermodels of the Supermodel Era -- Linda, Naomi, Christy, Claudia -- I always found Porizkova the most likable and provocative. Now in her early 40s, she still seems the one most likely to produce a book worth reading, even though she joined this season's cast of ''Dancing With the Stars.'' For one thing, she's been openly contemptuous of the modeling industry. ''I've never really liked modeling,'' she said in a 1989 interview. ''People are shocked when I say I love the money and hate the job, but it isn't very creative to stand in front of a camera all day.'' She also declared that ''a pretty big percentage of models are stupid.'' Me-yow. I'm sure some stupid model put Nair in her shampoo after that one.</p>
+        <p>Porizkova's origins are also intriguing. When the Soviet Union invaded Czechoslovakia in 1968, her mother and father fled to Sweden, leaving Porizkova with relatives. Her parents embarked on an unsuccesful but widely publicized hunger strike to win the release of their daughter. Then her mother attempted to kidnap her, but landed in prison instead. By 1974, Porizkova had become something of a cause célÃ  Alex Kuczynski is the author of ''Beauty Junkies: Inside Our $15 Billion Obsession With Cosmetic Surgery.''</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Alex Kuczynski is the author of ''Beauty Junkies: Inside Our $15 Billion Obsession With Cosmetic Surgery.''</tagline>
+    </body.end>
+  </body>
+</nitf>

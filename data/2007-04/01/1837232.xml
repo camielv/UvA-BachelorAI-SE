@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>It's Great New, But in 5 Years?</title>
+    <meta content="01MOTO" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Automobiles" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="12" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Automobiles" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/01/automobiles/01MOTO.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837232"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Sales and Business Development</classifier>
+        <classifier class="online_producer" type="descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="descriptor">Sales</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sales</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <org class="online_producer">Honda Motor Company Limited</org>
+        <org class="online_producer">Acura Division of Honda Motor Co</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E6D81030F932A35757C0A9619C8B63" item-length="195" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>It's Great New, But in 5 Years?</hl1>
+        <hl2 class="online_headline">It’s Great New, but in 5 Years?</hl2>
+      </hedline>
+      <byline class="print_byline">By CHERYL JENSEN</byline>
+      <byline class="normalized_byline">Jensen, Cheryl</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WHEN buying a vehicle, consumers may need to think about more than price. Depreciation can be just as important.</p>
+        <p>Checking depreciation before you get to the showroom does not carry the same hint of mistrust as handing your spouse a prenuptial agreement on your wedding day. After all, you will part with your car someday.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>When buying a vehicle, consumers may need to think about more than price. Depreciation can be just as important.</p>
+      </block>
+      <block class="full_text">
+        <p>WHEN buying a vehicle, consumers may need to think about more than price. Depreciation can be just as important.</p>
+        <p>Checking depreciation before you get to the showroom does not carry the same hint of mistrust as handing your spouse a prenuptial agreement on your wedding day. After all, you will part with your car someday.</p>
+        <p>The average vehicle loses about 65 percent of its original value after five years, according to Kelley Blue Book. So a new car costing $20,000 will be worth about $7,000 after five years.</p>
+        <p>But some brands and models retain their value better than others. Every year Kelley Blue Book guides consumers through depreciation with its Best Resale Value Awards.</p>
+        <p>The awards are based on the company's Residual Value Guide, which projects the value of vehicles at the end of five years.</p>
+        <p>More information is available at www.kbb.com/resaleaward.</p>
+        <p>CHERYL JENSEN</p>
+        <p>2007 BEST RESALE VALUE BY BRAND  Honda and Acura (tie)</p>
+        <p>2007 BEST RESALE BY CATEGORY  Sedan: Acura TSX  Coupe: Honda Civic  Convertible: Mini Cooper  Wagon: Volkswagen Passat  Hatchback: Mini Cooper  Luxury: BMW 5 Series  Pickup: Toyota Tacoma  Sport Utility: Acura MDX  Van/Minivan: Honda Odyssey  Hybrid: Toyota Prius</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

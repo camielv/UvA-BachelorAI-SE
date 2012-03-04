@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>No Listings, But at Least It's Comfy</title>
+    <meta content="05whoo" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838079"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CURRENTS: WHO KNEW?"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="general_descriptor">Home Furnishings</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chairs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070405T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE3DC163FF936A35757C0A9619C8B63" item-length="83" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>No Listings, But at Least It's Comfy</hl1>
+      </hedline>
+      <byline class="print_byline">By MARIANNE ROHRLICH</byline>
+      <byline class="normalized_byline">Rohrlich, Marianne</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Boost is an amusing new seat for the younger set, who need a little extra help reaching the dinner table. A departure from the traditional booster seat -- and the old-fashioned (and outmoded) stack of phone books -- Boost is a block of dense foam printed with an image of the Yellow Pages. Slightly form-fitted to accommodate a child, this new take on the booster seat fits most chairs; $22 at Mxyplyzyk, 125 Greenwich Avenue (13th Street), (800) 243-9810 or mxyplyzyk.com.</p>
+        <p>MARIANNE ROHRLICH</p>
+      </block>
+      <block class="full_text">
+        <p>Boost is an amusing new seat for the younger set, who need a little extra help reaching the dinner table. A departure from the traditional booster seat -- and the old-fashioned (and outmoded) stack of phone books -- Boost is a block of dense foam printed with an image of the Yellow Pages. Slightly form-fitted to accommodate a child, this new take on the booster seat fits most chairs; $22 at Mxyplyzyk, 125 Greenwich Avenue (13th Street), (800) 243-9810 or mxyplyzyk.com.</p>
+        <p>MARIANNE ROHRLICH  CURRENTS: WHO KNEW?</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

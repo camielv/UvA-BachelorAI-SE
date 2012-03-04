@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>REVISITS</title>
+    <meta content="25dbrie-1" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining, Dining Out/Cultural Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Dining and Wine" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1842850"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="DINING BRIEFS"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Restaurant Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070425T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F07E3D8143EF936A15757C0A9619C8B63" item-length="387" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>REVISITS</hl1>
+      </hedline>
+      <byline class="print_byline">By FRANK BRUNI</byline>
+      <byline class="normalized_byline">Bruni, Frank</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>This week the Dining section introduces Dining Briefs, short reviews that include first looks at new restaurants, updates on places that have been reviewed or overlooked and critiques of bars and lounges that offer noteworthy drinks and food. The feature will provide an informed opinion on places around New York City that are worth consideration even if they don't receive a full review in Frank Bruni's Restaurants column or in $25 and Under. Dining Briefs will alternate every other week with $25 and Under.</p>
+        <p>GILT  455 Madison Avenue (50th Street); (212) 891-8100.</p>
+        <p>The rooms remain the same: those grand, ornate chambers in the 19th-century Villard Mansion section of the New York Palace Hotel. The end of a meal is still marked by an array of chocolates presented in a vessel that underscores the opulence of the setting.</p>
+      </block>
+      <block class="full_text">
+        <p>This week the Dining section introduces Dining Briefs, short reviews that include first looks at new restaurants, updates on places that have been reviewed or overlooked and critiques of bars and lounges that offer noteworthy drinks and food. The feature will provide an informed opinion on places around New York City that are worth consideration even if they don't receive a full review in Frank Bruni's Restaurants column or in $25 and Under. Dining Briefs will alternate every other week with $25 and Under.</p>
+        <p>GILT  455 Madison Avenue (50th Street); (212) 891-8100.</p>
+        <p>The rooms remain the same: those grand, ornate chambers in the 19th-century Villard Mansion section of the New York Palace Hotel. The end of a meal is still marked by an array of chocolates presented in a vessel that underscores the opulence of the setting.</p>
+        <p>But beyond that, the restaurant Gilt has changed significantly since it opened at the end of 2005 with the chef Paul Liebrandt at the helm. Mr. Liebrandt, a talented avatar of the avant-garde, left last summer and was replaced by Christopher Lee, whose work at Striped Bass in Philadelphia brought him national attention.</p>
+        <p>The price of a three-course prix fixe has dropped to $78 from $92, and Mr. Lee's cooking is less self-conscious and intricate than Mr. Liebrandt's. That's not to say Gilt has reverted to basics: it has its name to live up to. And so it does, with foie gras and frogs' legs among the appetizers and more foie gras in a widely celebrated tuna Wellington among the entrees.</p>
+        <p>That dish makes great use of the fish's texture while addressing its flavor limitations by wrapping a layer of porcini and spinach -- and then a layer of pastry -- around small cylinders of pink flesh. The foie gras goes into a buttery sauce beside the tuna.</p>
+        <p>As fine a creation as this is, I was even more taken with slices of venison encrusted with macadamia nuts and sauced with faintly bitter chocolate, which gives the meat the jolt it needs. Kumquat and crosnes round out the dish, fulfilling the apparent fancy restaurant obligation to marshal off-the-beaten-path ingredients.</p>
+        <p>Not all of Mr. Lee's efforts pay off, but they're less exhausting than Mr. Liebrandt's were. Although still lavishly dressed up, Gilt has managed to calm down.</p>
+        <p>FRANK BRUNI</p>
+        <p>DINING BRIEFS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

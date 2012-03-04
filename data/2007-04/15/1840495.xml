@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Brooke Richie, Mark Rogers</title>
+    <meta content="15richie" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/15/fashion/weddings/15richie.html" name="alternate_url"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20070429T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1840495"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Richie, Brooke Alyson (Brooke Alyson Rogers)</person>
+        <person class="indexing_service">Rogers, Mark Douglas</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9801EFD9133FF936A25757C0A9619C8B63" item-length="158" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Brooke Richie, Mark Rogers</hl1>
+        <hl2 class="online_headline">Brooke Richie, Mark Rogers</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Brooke Alyson Richie, the daughter of Diane E. Richie and Dr. Jerome P. Richie of Brookline, Mass., was married yesterday to Mark Douglas Rogers, the son of Jennifer and Douglas H. Rogers of Dallas. The Rev. James Knutsen, an Episcopal priest, officiated at the Church of the Incarnation in Santa Rosa, Calif., with the Rev. Marshall Brown, a Presbyterian minister, taking part.</p>
+        <p>Mrs. Rogers, 29, is a news reporter at KTVT-TV, the CBS affiliate in Dallas. She graduated from Duke and received a master's degree in journalism from Columbia. Her father is the Elliott C. Cutler professor of surgery at Harvard Medical School in Boston, and is the chairman of the urology department there. He is also the urology chief at Brigham and Women's Hospital in Boston.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Brooke Alyson Richie, the daughter of Diane E. Richie and Dr. Jerome P. Richie of Brookline, Mass., was married yesterday to Mark Douglas Rogers, the son of Jennifer and Douglas H. Rogers of Dallas. The Rev. James Knutsen, an Episcopal priest, officiated at the Church of the Incarnation in Santa Rosa, Calif., with the Rev. Marshall Brown, a Presbyterian minister, taking part.</p>
+      </block>
+      <block class="full_text">
+        <p>Brooke Alyson Richie, the daughter of Diane E. Richie and Dr. Jerome P. Richie of Brookline, Mass., was married yesterday to Mark Douglas Rogers, the son of Jennifer and Douglas H. Rogers of Dallas. The Rev. James Knutsen, an Episcopal priest, officiated at the Church of the Incarnation in Santa Rosa, Calif., with the Rev. Marshall Brown, a Presbyterian minister, taking part.</p>
+        <p>Mrs. Rogers, 29, is a news reporter at KTVT-TV, the CBS affiliate in Dallas. She graduated from Duke and received a master's degree in journalism from Columbia. Her father is the Elliott C. Cutler professor of surgery at Harvard Medical School in Boston, and is the chairman of the urology department there. He is also the urology chief at Brigham and Women's Hospital in Boston.</p>
+        <p>Mr. Rogers, 31, is a general manager at Cheddar's, a restaurant chain in Dallas that was founded in 1978 by his father, who is its president. The bridegroom graduated from Baylor.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+        <p>Correction:  April 29, 2007, Sunday  A report on April 15 about the marriage of Brooke Richie and Mark Rogers referred incorrectly to Cheddar's, a restaurant chain where the bridegroom is a general manager. Its headquarters are in Irving, Tex., not Dallas. Also, the bridegroom's father, Douglas H. Rogers, started the business with a partner, Aubrey G. Good; Mr. Rogers was not the sole founder.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: April 29, 2007, Sunday</p>
+        <p>A report on April 15 about the marriage of Brooke Richie and Mark Rogers referred incorrectly to Cheddar's, a restaurant chain where the bridegroom is a general manager. Its headquarters are in Irving, Tex., not Dallas. Also, the bridegroom's father, Douglas H. Rogers, started the business with a partner, Aubrey G. Good; Mr. Rogers was not the sole founder.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

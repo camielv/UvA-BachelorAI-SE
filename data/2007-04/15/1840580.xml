@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Stateless No More</title>
+    <meta content="l15stateless" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1840580"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Immigration and Refugees</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B02E2DD103FF936A25757C0A9619C8B63" item-length="80" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Stateless No More</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Statelessness is alive and well in Europe (Week in Review, April 8). Despite 40 years of being a Bosnian, after being ''ethnically cleansed'' from our Sarajevo home at the beginning of the Bosnian civil war and then erased from government records, my family and I now celebrate the day when we arrived in the United States and became -- in our hearts, and soon thereafter in American government records -- nonhyphenated Americans.</p>
+        <p>Ray Miles  Dallas, April 8, 2007</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Statelessness is alive and well in Europe (Week in Review, April 8). Despite 40 years of being a Bosnian, after being ''ethnically cleansed'' from our Sarajevo home at the beginning of the Bosnian civil war and then erased from government records, my family and I now celebrate the day when we arrived in the United States and became -- in our hearts, and soon thereafter in American government records -- nonhyphenated Americans.</p>
+        <p>Ray Miles  Dallas, April 8, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

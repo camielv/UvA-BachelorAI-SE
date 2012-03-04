@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; Big Night for the 'King'</title>
+    <meta content="11arts-2" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1839555"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ratings and Rating Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070411T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B00E7DE123FF932A25757C0A9619C8B63" item-length="200" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; Big Night for the 'King'</hl1>
+      </hedline>
+      <byline class="print_byline">By BENJAMIN TOFF</byline>
+      <byline class="normalized_byline">Toff, Benjamin</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The 200th episode of CBS's ''King of Queens,'' with Kevin James and Leah Remini, garnered the series's most viewers in more than three years, as 13.4 million tuned in on Monday, according to Nielsen's estimates. This nine-year-old comedy, which will come to an end in May, won the 9:30 p.m. time slot over all. CBS's ''CSI: Miami'' dominated the 10 o'clock hour (15.9 million), while ABC led from 8 to 9:30 with ''Dancing With the Stars'' (18.7 million). CBS and ABC tied for first among adults 18 to 49, although ABC edged slightly ahead in total viewers. In third, Fox finished even with NBC, whose new improv comedy, ''Thank God You're Here,'' made a respectable debut at 9, with 8.3 million viewers. In the evening news race, ABC's ''World News With Charles Gibson'' ranked first in total viewers, with an average of 8.1 million, posting its largest lead in a year and a half over the No. 2 newscast, ''NBC Nightly News With Brian Williams'' (7.6 million). Among adults 25 to 54, however, ABC's lead over NBC was a negligible 60,000 viewers. In third, the ''CBS Evening News With Katie Couric'' drew 6.2 million viewers.</p>
+        <p>BENJAMIN TOFF</p>
+      </block>
+      <block class="full_text">
+        <p>The 200th episode of CBS's ''King of Queens,'' with Kevin James and Leah Remini, garnered the series's most viewers in more than three years, as 13.4 million tuned in on Monday, according to Nielsen's estimates. This nine-year-old comedy, which will come to an end in May, won the 9:30 p.m. time slot over all. CBS's ''CSI: Miami'' dominated the 10 o'clock hour (15.9 million), while ABC led from 8 to 9:30 with ''Dancing With the Stars'' (18.7 million). CBS and ABC tied for first among adults 18 to 49, although ABC edged slightly ahead in total viewers. In third, Fox finished even with NBC, whose new improv comedy, ''Thank God You're Here,'' made a respectable debut at 9, with 8.3 million viewers. In the evening news race, ABC's ''World News With Charles Gibson'' ranked first in total viewers, with an average of 8.1 million, posting its largest lead in a year and a half over the No. 2 newscast, ''NBC Nightly News With Brian Williams'' (7.6 million). Among adults 25 to 54, however, ABC's lead over NBC was a negligible 60,000 viewers. In third, the ''CBS Evening News With Katie Couric'' drew 6.2 million viewers.</p>
+        <p>BENJAMIN TOFF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

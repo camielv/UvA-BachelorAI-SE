@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Women and Computers</title>
+    <meta content="24lett-2" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Science; Education; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1842634"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Women</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070424T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402E5DD143EF937A15757C0A9619C8B63" item-length="151" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Women and Computers</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Computer Science Takes Steps to Bring Women to the Fold '' (April 17): Women's avoidance of computer science may reflect a practical understanding of economic reality not available to the rarefied world of academia, which wants to see computer science as ''fun and interesting.''</p>
+        <p>Most computer opportunities exist in the world of business, where the main preoccupation is technical troubleshooting and the busywork associated with our national mania for mergers and acquisitions. This activity is akin to appliance repair or the assembly line, not what computer professionals originally have in mind for a career.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Computer Science Takes Steps to Bring Women to the Fold '' (April 17): Women's avoidance of computer science may reflect a practical understanding of economic reality not available to the rarefied world of academia, which wants to see computer science as ''fun and interesting.''</p>
+        <p>Most computer opportunities exist in the world of business, where the main preoccupation is technical troubleshooting and the busywork associated with our national mania for mergers and acquisitions. This activity is akin to appliance repair or the assembly line, not what computer professionals originally have in mind for a career.</p>
+        <p>Worse yet, business data must be churned electronically day and night, which means that computer specialists are often on call 24/7, a special burden for those with families. The article makes an interesting and ominous point: ''Factors driving women away will eventually drive men away as well.''</p>
+        <p>John Scott  Milwaukee</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

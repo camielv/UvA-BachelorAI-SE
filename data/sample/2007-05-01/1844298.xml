@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; Comic Book Contest</title>
+    <meta content="01arts-3" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1844298"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+        <classifier class="online_producer" type="general_descriptor">Comic Books and Strips</classifier>
+        <classifier class="online_producer" type="general_descriptor">Contests and Prizes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070501T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9505E4D6133EF932A35756C0A9619C8B63" item-length="190" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; Comic Book Contest</hl1>
+      </hedline>
+      <byline class="print_byline">By GEORGE GENE GUSTINES; Compiled by Lawrence Van Gelder</byline>
+      <byline class="normalized_byline">Gustines, George Gene</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>If creating a comic book and having it published is your dream, help is on the way to make it a reality. The second Comic Book Challenge, from Platinum Studios, begins today at comicbookchallenge.com. ''We're significantly raising the bar for entrance,'' said Scott Mitchell Rosenberg, the chairman of the company. Last year pitches with strong story concepts that were illustrated with stick figures were considered. This year the company is seeking a more polished product of completed pages: penciled, inked, lettered and colored. In July a panel of judges will narrow the submissions, which last year spanned 12 countries, to 10. Votes cast online will decide the winner, whose story will be published in a graphic novel or comic book in 2008. The winner of last year's challenge, ''Hero by Night,'' by D. J. Coffman, will have its third issue published on May 16. The four-issue series is about Jack King, who discovers the lair and weaponry of a long-missing superhero. Mr. Coffman said the story was about ''what it takes to do the right thing in today's society.''</p>
+        <p>GEORGE GENE GUSTINES</p>
+      </block>
+      <block class="full_text">
+        <p>If creating a comic book and having it published is your dream, help is on the way to make it a reality. The second Comic Book Challenge, from Platinum Studios, begins today at comicbookchallenge.com. ''We're significantly raising the bar for entrance,'' said Scott Mitchell Rosenberg, the chairman of the company. Last year pitches with strong story concepts that were illustrated with stick figures were considered. This year the company is seeking a more polished product of completed pages: penciled, inked, lettered and colored. In July a panel of judges will narrow the submissions, which last year spanned 12 countries, to 10. Votes cast online will decide the winner, whose story will be published in a graphic novel or comic book in 2008. The winner of last year's challenge, ''Hero by Night,'' by D. J. Coffman, will have its third issue published on May 16. The four-issue series is about Jack King, who discovers the lair and weaponry of a long-missing superhero. Mr. Coffman said the story was about ''what it takes to do the right thing in today's society.''</p>
+        <p>GEORGE GENE GUSTINES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

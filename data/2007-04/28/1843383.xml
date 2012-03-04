@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Project Halted In Brooklyn For Inquiry Into Accident</title>
+    <meta content="28atlantic" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/28/nyregion/28atlantic.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1843383"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Accidents and Safety</classifier>
+        <classifier class="online_producer" type="general_descriptor">Area Planning and Renewal</classifier>
+        <classifier class="online_producer" type="general_descriptor">Machinery and Equipment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+        <location class="online_producer">Brooklyn (NYC)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070428T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D04E0D9123EF93BA15757C0A9619C8B63" item-length="484" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Project Halted In Brooklyn For Inquiry Into Accident</hl1>
+        <hl2 class="online_headline">Project Halted in Brooklyn for Inquiry Into Accident</hl2>
+      </hedline>
+      <byline class="print_byline">By ANDY NEWMAN; David K. Randall contributed reporting.</byline>
+      <byline class="normalized_byline">Newman, Andy</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>One day after the partial collapse of a building being prepared for demolition to make way for the Atlantic Yards project in Brooklyn, the state and the developer announced that work would be stopped pending the outcome of the city's investigation into the accident.</p>
+        <p>Workers for the developer, Forest City Ratner, were removing asbestos from a former industrial bakery on Thursday morning when a 200-foot parapet on top of the building fell five stories onto Pacific Street. No one was hurt, but several cars were damaged, and a homeless shelter next door was evacuated for much of the day.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Work will stop pending the outcome of an investigation into the partial collapse of a building being prepared for demolition to make way for the Atlantic Yards project.</p>
+      </block>
+      <block class="full_text">
+        <p>One day after the partial collapse of a building being prepared for demolition to make way for the Atlantic Yards project in Brooklyn, the state and the developer announced that work would be stopped pending the outcome of the city's investigation into the accident.</p>
+        <p>Workers for the developer, Forest City Ratner, were removing asbestos from a former industrial bakery on Thursday morning when a 200-foot parapet on top of the building fell five stories onto Pacific Street. No one was hurt, but several cars were damaged, and a homeless shelter next door was evacuated for much of the day.</p>
+        <p>Opponents of the project had tried in vain to have the 97-year-old building at 800 Pacific Street, known as the Ward Bread Bakery complex, designated a city landmark. The bakery's planned destruction had been cast as a symbol of the changes that the project -- 8 million square feet of high-rise housing, office space and a basketball arena -- would visit upon the neighborhood, which is near Downtown Brooklyn.</p>
+        <p>Yesterday, opponents of the project applauded the decision to halt work, which was announced in separate news releases by Forest City Ratner and the Empire State Development Corporation, the state agency that approved the project last year.</p>
+        <p>''We were very encouraged that the E.S.D.C. understands the gravity of what happened,'' said Jim Vogel, spokesman for the Council of Brooklyn Neighborhoods, a coalition that is among the plaintiffs in a suit that seeks to overturn the agency's approval of the project.</p>
+        <p>''We also are very encouraged that they took the appropriate actions in stopping the demolition until the problem causing this can be identified,'' Mr. Vogel said.</p>
+        <p>The accident occurred six days after a State Supreme Court justice declined to issue a restraining order temporarily halting demolition of nine vacant buildings at the site. Opponents seeking the court order had argued that demolition should not be allowed before a hearing on the suit challenging state approval of the project, scheduled for Thursday .</p>
+        <p>It remained unclear if the asbestos work, being done on the roof with what Forest City Ratner called ''hand-held chippers,'' contributed to the parapet's collapse. Fire officials said on Thursday that the building might have been weakened by the recent northeaster.</p>
+        <p>Mr. Vogel said that the development corporation had declared the building sound a year ago. ''How can it go from being a sound building to being in imminent danger of collapsing on people within a year?'' he asked.</p>
+        <p>In March, the Buildings Department declared the building fit for demolition, and Forest City officials said they planned to finish removing asbestos and obtain a final demolition permit within two months.</p>
+        <p>In a statement yesterday, the department said, ''In the coming days, the Buildings Department will be meeting with the developer's engineers to review demolition plans for the Atlantic Yards sites to ensure safe means and methods are employed.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

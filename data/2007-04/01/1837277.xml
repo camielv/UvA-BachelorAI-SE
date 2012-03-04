@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Stacey Mariash, Rémy Bertin</title>
+    <meta content="01mariash" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/01/fashion/weddings/01mariash.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837277"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Mariash, Stacey Bernadette (Stacey Bernadette Bertin)</person>
+        <person class="indexing_service">Bertin, R�my Adrien Georges</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D03E6DB1130F932A35757C0A9619C8B63" item-length="186" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Stacey Mariash, Rémy Bertin</hl1>
+        <hl2 class="online_headline">Stacey Mariash and Rémy Bertin</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Stacey Bernadette Mariash and Rémy Adrien Georges Bertin were married last evening at the Central Park Boathouse in New York. Jonathan Hefter, a Universal Life minister, officiated.</p>
+        <p>The bride, 28, is an architectural designer at 1100 Architect in New York. She graduated from Pratt Institute.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Stacey Bernadette Mariash and Rémy Adrien Georges Bertin were married Saturday evening at the Central Park Boathouse in New York.</p>
+      </block>
+      <block class="full_text">
+        <p>Stacey Bernadette Mariash and Rémy Adrien Georges Bertin were married last evening at the Central Park Boathouse in New York. Jonathan Hefter, a Universal Life minister, officiated.</p>
+        <p>The bride, 28, is an architectural designer at 1100 Architect in New York. She graduated from Pratt Institute.</p>
+        <p>She is a daughter of Dianne DeWitt of New York and Robert Mariash of Scottsdale, Ariz., and a stepdaughter of Dianne Mariash and of Eugene DeWitt. The bride's father and stepmother are commercial real estate developers in Scottsdale. Her mother and stepfather work in New York, where she is an account manager at Verizon, and he is the owner of DeWitt Media Strategies, an agency that buys advertising.</p>
+        <p>The bridegroom, 30, is a senior designer at Richard Meier &amp; Partners Architects in New York. He graduated from the University of Virginia and received a master's degree in architecture from Yale.</p>
+        <p>He is the son of Brenda Bertin of Mont St.-Hilaire, Quebec, and the late Georges Bertin. His mother manufactures ceramic floor and wall tiles in St.-Mathieu de Beloeil, Quebec. His father was an aeronautics engineer at Grumman Aerospace in Bethpage, N.Y.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

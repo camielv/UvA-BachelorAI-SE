@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>REALLY?</title>
+    <meta content="03real" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Health&amp;Fitness" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/03/health/03real.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837665"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Really?"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Columns/Really?</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="descriptor">First Aid</classifier>
+        <classifier class="online_producer" type="general_descriptor">First Aid</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070403T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9805E6DE1F30F930A35757C0A9619C8B63" item-length="208" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>REALLY?</hl1>
+        <hl2 class="online_headline">The Claim: CPR Requires Mouth-to-Mouth Resuscitation</hl2>
+      </hedline>
+      <byline class="print_byline">By ANAHAD O'CONNOR</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE CLAIM  CPR requires mouth-to-mouth resuscitation.</p>
+        <p>THE FACTS  Even people who have never been trained in cardiopulmonary resuscitation know that it involves a series of chest compressions combined with mouth-to-mouth resuscitation.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Scientists have said the focus of CPR should be on chest compressions - are they right?</p>
+      </block>
+      <block class="full_text">
+        <p>THE CLAIM  CPR requires mouth-to-mouth resuscitation.</p>
+        <p>THE FACTS  Even people who have never been trained in cardiopulmonary resuscitation know that it involves a series of chest compressions combined with mouth-to-mouth resuscitation.</p>
+        <p>For years, scientists have questioned whether the mouth-to-mouth part was necessary, saying the focus of CPR should be on chest compression, which keeps blood flowing to vital organs after cardiac arrest.</p>
+        <p>Last month, a study of more than 4,000 cases of cardiac arrest, the largest on the subject to date, found that patients were more likely to recover without brain damage if their rescuers had focused on chest compressions alone. Published in The Lancet, the study found that 22 percent of people who received chest compressions alone survived with good neurological function, compared with 10 percent who received combination CPR.</p>
+        <p>Those findings echoed those of a study in The New England Journal of Medicine in 2000. The reason is that in most cases of cardiac arrest, the victim's body has enough oxygen to keep organs functioning for several minutes. Mouth-to-mouth simply delivers more oxygen, while chest compressions perform the more vital task of pumping blood.</p>
+        <p>THE BOTTOM LINE  Studies suggest that in most CPR, mouth-to-mouth may not be necessary.</p>
+        <p>ANAHAD O'CONNOR</p>
+        <p>Really?</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

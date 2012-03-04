@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Widening College Loan Scandal</title>
+    <meta content="08sun3" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/08/opinion/08sun3.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1838858"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="descriptor">Student Loans</classifier>
+        <classifier class="online_producer" type="descriptor">Frauds and Swindling</classifier>
+        <classifier class="online_producer" type="descriptor">Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tuition</classifier>
+        <classifier class="online_producer" type="general_descriptor">Frauds and Swindling</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <org class="online_producer">Student Loan Xpress</org>
+        <org class="online_producer">Columbia University</org>
+        <org class="online_producer">University of Texas</org>
+        <org class="online_producer">University of Southern California</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070408T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9501E6DF143FF93BA35757C0A9619C8B63" item-length="315" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Widening College Loan Scandal</hl1>
+        <hl2 class="online_headline">The Widening College Loan Scandal</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Congress needs to address the college loan scandal that has unfolded since New York's attorney general, Andrew Cuomo, began to investigate the troubling -- and possibly illegal -- payments to universities that steer students to so-called preferred lending companies. These kickbacks are part of a wider pattern of shady dealing that, we now find out, reaches into the federal government as well.</p>
+        <p>The Times reported last week that a senior official at the Department of Education who helped oversee the federal student loan program held shares of the parent company of the student loan company Student Loan Xpress. That came one day after financial aid officials at three universities that listed Student Loan Xpress as a preferred lender -- Columbia University, The University of Texas at Austin and the University of Southern California -- were found to have sold shares in the company. The official at Columbia, who earned more than $100,000 on the sale, bought his shares for about $1 each and sold them for about $10.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Kickbacks to universities that steer students to so-called preferred lending companies are part of a wider pattern of shady dealing that reaches into the federal government.</p>
+      </block>
+      <block class="full_text">
+        <p>Congress needs to address the college loan scandal that has unfolded since New York's attorney general, Andrew Cuomo, began to investigate the troubling -- and possibly illegal -- payments to universities that steer students to so-called preferred lending companies. These kickbacks are part of a wider pattern of shady dealing that, we now find out, reaches into the federal government as well.</p>
+        <p>The Times reported last week that a senior official at the Department of Education who helped oversee the federal student loan program held shares of the parent company of the student loan company Student Loan Xpress. That came one day after financial aid officials at three universities that listed Student Loan Xpress as a preferred lender -- Columbia University, The University of Texas at Austin and the University of Southern California -- were found to have sold shares in the company. The official at Columbia, who earned more than $100,000 on the sale, bought his shares for about $1 each and sold them for about $10.</p>
+        <p>These cases show what lenders will do to win a slice of the business -- last year students took out $85 billion in loans -- and the all-too-frequent willingness of universities to go along. Financial aid officers are offered gifts and trips, and universities are offered hundreds of thousands of dollars in payments, if they place a company on their list of preferred lenders that most students use when looking for loans. Universities have also been offered large payments to switch from the government's student loan program to private lenders whose huge profits are based in part on government subsidies.</p>
+        <p>This program is clearly in need of serious and immediate reform. For starters, Congress needs to make it illegal for colleges and universities to accept anything of value from lenders. It should also require universities to choose preferred lenders through an open process that guarantees the best rates and treatment for student borrowers.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

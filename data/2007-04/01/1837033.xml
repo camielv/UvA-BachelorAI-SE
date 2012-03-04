@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="Corr.t" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts; Corrections; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837033"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E03E6DD1230F932A35757C0A9619C8B63" item-length="142" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="full_text">
+        <p>----</p>
+        <p>A review on March 11 about ''When You Catch an Adjective, Kill It: The Parts of Speech, for Better and/or Worse,'' by Ben Yagoda, and ''The Fight for English: How Language Pundits Ate, Shot, and Left,'' by David Crystal, misstated the year that ''printing came to Britain.'' It was 1476, the year the first English printer, William Caxton, set up shop in Westminster; it was not 1400.</p>
+        <p>----</p>
+        <p>----</p>
+        <p>An essay on March 11 about poetry in The New Yorker magazine referred imprecisely to the poet W. S. Merwin. While he was indeed a special Bicentennial consultant in poetry to the Library of Congress for 1999-2000, a position some consider tantamount to that of a poet laureate, he has not been United States poet laureate.</p>
+        <p>The essay also misspelled the surname of another poet at one point. He is J. D. McClatchy, not McLatchy.</p>
+        <p>----</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

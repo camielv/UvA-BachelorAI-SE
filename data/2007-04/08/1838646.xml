@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Humans Vs. Wildlife</title>
+    <meta content="08mail-4" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838646"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Travel and Vacations</classifier>
+        <classifier class="indexing_service" type="descriptor">Parks and Other Recreation Areas</classifier>
+        <classifier class="indexing_service" type="descriptor">Animals</classifier>
+        <location class="indexing_service">Africa</location>
+        <person class="indexing_service">Nixon, Rob</person>
+        <person class="indexing_service">Irons, Heather G</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Wildlife</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa</classifier>
+        <classifier class="online_producer" type="general_descriptor">Leisure</classifier>
+        <classifier class="online_producer" type="general_descriptor">Parks and Other Recreation Areas</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070408T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B01E7DE163FF93BA35757C0A9619C8B63" item-length="121" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Humans Vs. Wildlife</hl1>
+      </hedline>
+      <abstract>
+        <p>Heather G Irons letter opposes Rob Nixon's March 18 travel article about nighttime drives into wildlife parks in Africa</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor: Regarding ''South Africa: In the Dark in the Park, With the Wild Things'' (Journeys, March 18): Rob Nixon makes clear his view that nighttime drives into the wildlife parks of Africa are a great idea and a boon for tourists wanting to see African animals. Doesn't he realize that these animals are being forced to deal with increasing human intrusion -- now not only during the day-- but at night as well, when humans would normally have retreated? Why do humans think it's their right to disturb wildlife wherever it exists? It would be nice to read about the negative impact of this sort of activity. In other words -- a balanced view.</p>
+        <p>Heather G. Irons  Berkeley, Calif.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor: Regarding ''South Africa: In the Dark in the Park, With the Wild Things'' (Journeys, March 18): Rob Nixon makes clear his view that nighttime drives into the wildlife parks of Africa are a great idea and a boon for tourists wanting to see African animals. Doesn't he realize that these animals are being forced to deal with increasing human intrusion -- now not only during the day-- but at night as well, when humans would normally have retreated? Why do humans think it's their right to disturb wildlife wherever it exists? It would be nice to read about the negative impact of this sort of activity. In other words -- a balanced view.</p>
+        <p>Heather G. Irons  Berkeley, Calif.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

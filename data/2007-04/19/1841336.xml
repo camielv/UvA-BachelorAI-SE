@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The More Affordable Pininfarina, Available in Red and Onyx</title>
+    <meta content="19drive" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/19/technology/19drive.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1841336"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CIRCUITS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Storage</classifier>
+        <classifier class="online_producer" type="general_descriptor">Storage</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070419T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04E5D91E3FF93AA25757C0A9619C8B63" item-length="180" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The More Affordable Pininfarina, Available in Red and Onyx</hl1>
+        <hl2 class="online_headline">The More Affordable Pininfarina, Available in Red and Onyx</hl2>
+      </hedline>
+      <byline class="print_byline">By STEPHEN C. MILLER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It's no longer an indulgence for consumers to have vast amounts of digital storage. With camcorders featuring hard drives of 30 gigabytes or more, and MP3 players surpassing that, the hard drives on computers may not be big enough to handle the onslaught.</p>
+        <p>External U.S.B. drives are one answer, and their capacities keep growing exponentially.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The latest offerings from SimpleTech have raised the bar in storage and lowered it for price.</p>
+      </block>
+      <block class="full_text">
+        <p>It's no longer an indulgence for consumers to have vast amounts of digital storage. With camcorders featuring hard drives of 30 gigabytes or more, and MP3 players surpassing that, the hard drives on computers may not be big enough to handle the onslaught.</p>
+        <p>External U.S.B. drives are one answer, and their capacities keep growing exponentially.</p>
+        <p>The latest offerings from SimpleTech (www.simpletech.com) have raised the bar in storage and lowered it for price. Its SimpleDrive Pininfarina line, designed by the noted Italian automotive design company, is color coded by capacity: 160 gigabytes ($160) in fire red, for example, or 500 gigabytes ($200) in onyx. Comparable drives are $50 to $100 more. SimpleTech has announced that in May it will have models that have capacities of 750 gigabytes and a full terabyte.</p>
+        <p>The drives are bundled with ArcSoft's backup and recovery software. SimpleTech was recently acquired by Fabrik, an online storage company, and each drive comes with two gigabytes of free online storage. More space can be purchased with a subscription to Fabrik's storage services.</p>
+        <p>STEPHEN C. MILLER</p>
+        <p>CIRCUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

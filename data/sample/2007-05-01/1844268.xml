@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>S.I.-Linked Murder Suspect Is Returned to Colombia</title>
+    <meta content="01staten" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/05/01/nyregion/01staten.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1844268"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Central and South America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Central and South America/Costa Rica</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Central and South America/Colombia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Central and South America/Panama</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="online_producer" type="descriptor">Extradition</classifier>
+        <classifier class="online_producer" type="general_descriptor">Extradition</classifier>
+        <classifier class="online_producer" type="general_descriptor">Illegal Aliens</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+        <location class="online_producer">Panama</location>
+        <location class="online_producer">Costa Rica</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070501T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE1D7133EF932A35756C0A9619C8B63" item-length="365" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>S.I.-Linked Murder Suspect Is Returned to Colombia</hl1>
+        <hl2 class="online_headline">S.I.-Linked Murder Suspect Is Returned to Colombia</hl2>
+      </hedline>
+      <byline class="print_byline">By ANDY NEWMAN; R. M. Koster contributed reporting from Panama.</byline>
+      <byline class="normalized_byline">Newman, Andy; Koster, R M</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>One of the men suspected in last month's murder and dismemberment of a Staten Island woman in Panama has been returned to his native Colombia by Costa Rica despite being one of Panama's most wanted men, the authorities in Panama and Costa Rica said yesterday.</p>
+        <p>The man, Camilo Castro, was arrested in Costa Rica on April 17 for entering that country illegally, the chief of the Costa Rican Special Migration Police, Francisco Castaing, told reporters.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>One of the men suspected in the dismemberment of a Staten Island woman in Panama has been returned to his native country by Costa Rican authorities.</p>
+      </block>
+      <block class="full_text">
+        <p>One of the men suspected in last month's murder and dismemberment of a Staten Island woman in Panama has been returned to his native Colombia by Costa Rica despite being one of Panama's most wanted men, the authorities in Panama and Costa Rica said yesterday.</p>
+        <p>The man, Camilo Castro, was arrested in Costa Rica on April 17 for entering that country illegally, the chief of the Costa Rican Special Migration Police, Francisco Castaing, told reporters.</p>
+        <p>Mr. Castro is one of two suspects sought in the death of Toni Grossi Abrams, 56, a Staten Island businesswoman with real estate in Panama. Her butchered and burned remains were found in Panama City on April 10.</p>
+        <p>Interpol had been told that Mr. Castro was wanted in Panama, said Rafael Ruiz, a spokesman for the Panamanian Public Ministry. But instead of detaining him, Costa Rican authorities deported him to Colombia on Friday, Mr. Castaing said.</p>
+        <p>Mr. Castaing told reporters that Costa Rica had never been notified by Panama that there was an arrest warrant for Mr. Castro and that he was returned to Colombia in accordance with Costa Rica's normal immigration procedures.</p>
+        <p>Panama plans to ask Colombia to extradite Mr. Castro, Mr. Ruiz said, adding that while in the past Colombia has extradited its citizens to Panama to face drug charges, there seemed to be no precedent for murder cases.</p>
+        <p>Shortly after Ms. Abrams's death, an American tenant of hers, Debra Ann Ridgley, was arrested and charged in her killing. But Panamanian prosecutors have said that Mr. Castro and Didier Osorio Garcia, another Colombian who befriended Ms. Ridgley, were with her in Ms. Abrams's apartment the night of her death, and that the two men helped Ms. Ridgley dispose of the body.</p>
+        <p>Mr. Garcia remains at large.</p>
+        <p>Seth Redlich, a cousin of Ms. Abrams's who lives in Panama and has been working to solve her killing, said he hoped Colombia would undo what appeared to be the error that set Mr. Castro free.</p>
+        <p>''It's inexcusable that this man has simply been allowed to walk out of the country and been delivered to Colombia a free man,'' Mr. Redlich said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

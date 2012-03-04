@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Microsoft Brings Instant Chat To TV Screen, Through Games</title>
+    <meta content="09microsoft" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/09/technology/09microsoft.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1839131"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Computer and Video Games</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer and Video Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <org class="online_producer">Microsoft Corp</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070409T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE4D7143FF93AA35757C0A9619C8B63" item-length="402" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Microsoft Brings Instant Chat To TV Screen, Through Games</hl1>
+        <hl2 class="online_headline">Microsoft Brings Instant Chat to TV Screen, Through Games</hl2>
+      </hedline>
+      <byline class="print_byline">By SETH SCHIESEL</byline>
+      <byline class="normalized_byline">Schiesel, Seth</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Microsoft planned to announce today that it will make its Windows Live Messenger service available on its Xbox 360 game consoles, bringing instant messaging from the computer to the television.</p>
+        <p>The move was meant to help Microsoft stay ahead of Sony, its chief rival in the electronic games business, in delivering the richest online experience for game players. It is also an element of Microsoft's overall strategy to connect people across PCs, televisions and mobile devices like cellphones.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Windows Live Messenger will be available on the Xbox 360, bringing instant messaging from the computer to the television.</p>
+      </block>
+      <block class="full_text">
+        <p>Microsoft planned to announce today that it will make its Windows Live Messenger service available on its Xbox 360 game consoles, bringing instant messaging from the computer to the television.</p>
+        <p>The move was meant to help Microsoft stay ahead of Sony, its chief rival in the electronic games business, in delivering the richest online experience for game players. It is also an element of Microsoft's overall strategy to connect people across PCs, televisions and mobile devices like cellphones.</p>
+        <p>More than 200 million people use Windows Live Messenger to chat with friends, family members and colleagues. Separately, more than six million Xbox 360 owners are connected to the company's Xbox Live online community, an enhancement that lets people with broadband Internet connections communicate with one another.</p>
+        <p>In the second week of May, those two worlds will begin to converge. Xbox Live members will be able to link their ''gamertag,'' the online identity they use within the Xbox community, to an existing Windows Live Messenger account. Players will then be able to chat with their instant-messaging contacts using a virtual on-screen keyboard or a U.S.B. keyboard plugged into the game machine.</p>
+        <p>Microsoft executives said they hoped to offer voice chat between Xbox and Live Messenger users later this year.</p>
+        <p>''We feel this is a huge step in driving social networking further into the family room by allowing Xbox 360 users to I.M. directly from their couch,'' said John Rodman, Microsoft's group manager for the Xbox 360, in a telephone interview last week. ''Now you don't have to manage two separate groups of friends online.''</p>
+        <p>Microsoft and Sony are battling to dominate the high end of the console gaming market. (Nintendo, by contrast, is appealing largely to families and more budget-conscious players.) In years past, game consoles stood out from one another mostly by their game offerings. But now it appears that top game publishers like Electronic Arts will release most of their biggest games for both the Xbox 360 and Sony's PlayStation 3.</p>
+        <p>As a result, Microsoft and Sony are attempting to differentiate their game machines with other features, like film playback capabilities and online services.</p>
+        <p>Microsoft has been ahead of Sony in online console game-playing, but last month Sony announced that it was developing a new Internet service called PlayStation Home that could surpass some elements of Xbox Live. The instant-messaging feature appears to be one part of Microsoft's response.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sure, It's Ugly, If You Can Get It</title>
+    <meta content="12skin2" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Thursday Styles" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Health; Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/12/fashion/12skin2.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1839631"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Skin Deep"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Thursday Styles</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Sales and Business Development</classifier>
+        <classifier class="online_producer" type="descriptor">Cosmetics and Toiletries</classifier>
+        <classifier class="online_producer" type="descriptor">Color</classifier>
+        <classifier class="online_producer" type="general_descriptor">Color</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sales</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cosmetics and Toiletries</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070412T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE5DD123FF931A25757C0A9619C8B63" item-length="391" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sure, It's Ugly, If You Can Get It</hl1>
+        <hl2 class="online_headline">Sure, It’s Ugly, if You Can Get It</hl2>
+      </hedline>
+      <byline class="print_byline">By NATASHA SINGER</byline>
+      <byline class="normalized_byline">Singer, Natasha</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BUBBLEGUM pink lipstick would seem an unlikely candidate for the must-have cosmetic of the season. The color is infantilizing and clownlike.</p>
+        <p>But in late February, when Lancôme presented Proenza Pink, a chalky shade created for the spring fashion collection of Proenza Schouler, the lipsticks sold out online within 24 hours. Bricks-and-mortar stores like Neiman Marcus and Bergdorf Goodman sold out in March.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Bubblegum pink lipstick would seem an unlikely candidate for the must-have cosmetic of the season, but when Lancôme presented Proenza Pink for the spring fashion collection, the lipsticks sold out online within 24 hours.</p>
+      </block>
+      <block class="full_text">
+        <p>BUBBLEGUM pink lipstick would seem an unlikely candidate for the must-have cosmetic of the season. The color is infantilizing and clownlike.</p>
+        <p>But in late February, when Lancôme presented Proenza Pink, a chalky shade created for the spring fashion collection of Proenza Schouler, the lipsticks sold out online within 24 hours. Bricks-and-mortar stores like Neiman Marcus and Bergdorf Goodman sold out in March.</p>
+        <p>Part of the lipstick's cachet is its limited edition: only 2,000 units were produced.</p>
+        <p>Like designer handbags that come in editions of no more than several hundred, limited-run cosmetics are intended to stoke consumer desire and generate press coverage. But Proenza Pink has been inciting an unexpected backlash among bloggers, who alternately complain that the color is unwearable and unobtainable.</p>
+        <p>A blog called Dontchaloveit likened the lipstick color to Pepto-Bismol. Stylesmart.blogspot, declared ''it does look like something your overtanned Florida grandmother might wear.'' And Thenonblonde complained, ''Bubblegum pink is bad enough, but who can wear something so very pale and still look alive?''</p>
+        <p>Proenza Pink, however, was not intended for mass appeal. It is a fashion color, part of the Lancôme Pout-à-Porter series: limited-run lipsticks created with a clothing designer for a specific season's catwalk show and sold at retail for a fashion-centric audience.</p>
+        <p>And it is not the only hot lip product of spring. In keeping with what seems a candy-color Lolita trend, MAC Cosmetics has a limited collection called Barbie Loves MAC. A number of items from the collection sold out online, including Rocking Chick, a frosted fuchsia lipstick; and Malibu Barbie, a fuchsia gloss,.</p>
+        <p>A number of bloggers took umbrage at the product unavailability, including Fakinggoodbreeding, a fashion and beauty blog by a junior at Smith named Meg, who posted a commentary titled ''Why I Hate Limited Editions.''</p>
+        <p>She writes, ''If most consumers are priced out of the trendiest, most fashionable clothes, it's not fair for a mass market company to turn around and use limited-edition products to deny those of us who aren't high profile or have the right connections.''</p>
+        <p>For those still seeking an It lipstick for spring, however, all is not lost. This week, MAC is making more of the Barbie lip shades available on Maccosmetics.com. And for those who must have Proenza Pink, a few are still for sale on eBay. Last week one sold for $61 (plus shipping).</p>
+        <p>Skin Deep</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>30 SECONDS WITH ED HOCHULI</title>
+    <meta content="22seconds" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/22/sports/football/22seconds.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842255"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="30 Seconds"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Interview</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football/National Football League</classifier>
+        <classifier class="online_producer" type="descriptor">Officiating (Sports)</classifier>
+        <classifier class="online_producer" type="descriptor">Football</classifier>
+        <classifier class="online_producer" type="general_descriptor">Officiating (Sports)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+        <org class="online_producer">National Football League</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D00E6D7163EF931A15757C0A9619C8B63" item-length="301" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>30 SECONDS WITH ED HOCHULI</hl1>
+        <hl2 class="online_headline">With Ed Hochuli</hl2>
+      </hedline>
+      <byline class="print_byline">By MICHAEL S. SCHMIDT</byline>
+      <byline class="normalized_byline">Schmidt, Michael S</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Ed Hochuli, an N.F.L. referee since 1990, is known as much for his muscular upper body as for his lengthy announcements on the field. A former football player at Texas-El Paso, Hochuli, 56, is a partner in Jones, Skelton &amp; Hochuli, a law firm in Phoenix.</p>
+        <p>MICHAEL S. SCHMIDT</p>
+        <p>YOU WORK AS A REFEREE AND A LAWYER? -- I am a full-time civil litigator and a full-time referee. I go and defend in court. The two jobs have a lot in common.</p>
+        <p>YOU APPEAR TO TAKE WORKING OUT SERIOUSLY -- I do. I do cardio, at least an hour, sometimes more, every day. I lift weights four days a week for another hour.</p>
+        <p>ARE REFEREES TESTED FOR PERFORMANCE-ENHANCING DRUGS? -- We get drug- and alcohol-tested randomly throughout the season, about a half-dozen times. I honestly don't know what they test for. I don't care what they test for because I have never done anything along the lines of performance-enhancing drugs, but it is a question I get asked a lot.</p>
+        <p>WHY HAVE YOU BECOME SO RECOGNIZABLE AMONG FOOTBALL FANS? -- Somehow I get publicity and people recognize me on the street, but I am nothing special. It is about the players. They are amazing, incredibly talented, and frankly amazingly neat people. I love my relationships with the players on the field. I am amazed how someone can for six seconds be as violent as they are, and then when the play is over they are joking with the guy they just faced off against.</p>
+        <p>YOU ARE KNOWN FOR YOUR LONG-WINDED EXPLANATIONS ON THE FIELD -- I would disagree that they are long-winded. I announce more things, and my announcements are on the whole much longer than the average referee.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Ed Hochuli, an N.F.L. referee since 1990, is known as much for his muscular upper body as for his lengthy announcements on the field.</p>
+      </block>
+      <block class="full_text">
+        <p>Ed Hochuli, an N.F.L. referee since 1990, is known as much for his muscular upper body as for his lengthy announcements on the field. A former football player at Texas-El Paso, Hochuli, 56, is a partner in Jones, Skelton &amp; Hochuli, a law firm in Phoenix.</p>
+        <p>MICHAEL S. SCHMIDT</p>
+        <p>YOU WORK AS A REFEREE AND A LAWYER? -- I am a full-time civil litigator and a full-time referee. I go and defend in court. The two jobs have a lot in common.</p>
+        <p>YOU APPEAR TO TAKE WORKING OUT SERIOUSLY -- I do. I do cardio, at least an hour, sometimes more, every day. I lift weights four days a week for another hour.</p>
+        <p>ARE REFEREES TESTED FOR PERFORMANCE-ENHANCING DRUGS? -- We get drug- and alcohol-tested randomly throughout the season, about a half-dozen times. I honestly don't know what they test for. I don't care what they test for because I have never done anything along the lines of performance-enhancing drugs, but it is a question I get asked a lot.</p>
+        <p>WHY HAVE YOU BECOME SO RECOGNIZABLE AMONG FOOTBALL FANS? -- Somehow I get publicity and people recognize me on the street, but I am nothing special. It is about the players. They are amazing, incredibly talented, and frankly amazingly neat people. I love my relationships with the players on the field. I am amazed how someone can for six seconds be as violent as they are, and then when the play is over they are joking with the guy they just faced off against.</p>
+        <p>YOU ARE KNOWN FOR YOUR LONG-WINDED EXPLANATIONS ON THE FIELD -- I would disagree that they are long-winded. I announce more things, and my announcements are on the whole much longer than the average referee.  30 Seconds</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

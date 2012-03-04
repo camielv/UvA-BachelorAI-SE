@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Darwin's God</title>
+    <meta content="15letters.t-9" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1840357"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Religion and Churches</classifier>
+        <classifier class="indexing_service" type="descriptor">Evolution</classifier>
+        <person class="indexing_service">greenwald, john</person>
+        <person class="indexing_service">Henig, Robin Marantz</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Evolution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Religion and Churches</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9802E5DD123FF936A25757C0A9619C8B63" item-length="79" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Darwin's God</hl1>
+      </hedline>
+      <abstract>
+        <p>John Greenwald letter comments on April 1 article on evolution of impulse to believe in God</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A reader writes, ''God may be invoked because the explanatory power of science ultimately breaks down, leaving a vacuum that must be filled'' (Letters, April 1, in response to ''Darwin's God,'' by Robin Marantz Henig, March 4). But why should God be invoked in the face of the unknown? Is it not enough to say, ''I don't know''? Imagining supernatural answers precludes the possibility of finding verifiable answers. This makes God and ignorance synonymous.</p>
+      </block>
+      <block class="full_text">
+        <p>A reader writes, ''God may be invoked because the explanatory power of science ultimately breaks down, leaving a vacuum that must be filled'' (Letters, April 1, in response to ''Darwin's God,'' by Robin Marantz Henig, March 4). But why should God be invoked in the face of the unknown? Is it not enough to say, ''I don't know''? Imagining supernatural answers precludes the possibility of finding verifiable answers. This makes God and ignorance synonymous.</p>
+        <p>John Greenwald</p>
+        <p>Lowell, Mass.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

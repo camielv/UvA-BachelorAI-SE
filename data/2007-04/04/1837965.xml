@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Belinda Wright, 78, Ballerina Who Excelled in Romantic Roles</title>
+    <meta content="04wright" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts; Obituaries" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/04/arts/dance/04wright.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837965"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="biographical_categories">Dancing</classifier>
+        <classifier class="indexing_service" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <classifier class="indexing_service" type="names">Belinda Wright</classifier>
+        <person class="indexing_service">wright, belinda</person>
+        <person class="indexing_service">Anderson, Jack</person>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance</classifier>
+        <classifier class="online_producer" type="descriptor">Dancing</classifier>
+        <classifier class="online_producer" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dancing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070404T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D01E6D71F30F937A35757C0A9619C8B63" item-length="380" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Belinda Wright, 78, Ballerina Who Excelled in Romantic Roles</hl1>
+        <hl2 class="online_headline">Belinda Wright, 78, Ballerina Who Excelled in Romantic Roles, Dies</hl2>
+      </hedline>
+      <byline class="print_byline">By JACK ANDERSON</byline>
+      <byline class="normalized_byline">Anderson, Jack</byline>
+      <abstract>
+        <p>Belinda Wright, British ballerina, dies at age 78; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Belinda Wright, a British ballerina who toured the world and excelled in the 19th-century Romantic and classical repertory, died on Sunday in Zurich, Switzerland. She was 78.</p>
+        <p>The cause was a coronary ailment, said J. David Enright IV, a spokesman for her family.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Belinda Wright was a British ballerina who toured the world and excelled in the 19th-century Romantic and classical repertory.</p>
+      </block>
+      <block class="full_text">
+        <p>Belinda Wright, a British ballerina who toured the world and excelled in the 19th-century Romantic and classical repertory, died on Sunday in Zurich, Switzerland. She was 78.</p>
+        <p>The cause was a coronary ailment, said J. David Enright IV, a spokesman for her family.</p>
+        <p>Ms. Wright and her husband, the dancer and teacher Jelko Yuresha, lived in Zurich and also had a residence in Manhattan.</p>
+        <p>The daughter of a coal merchant, Ms. Wright was born Brenda Wright in Southport, England. A delicate child, she was encouraged to study dance by her doctor. She joined Ballet Rambert in London in 1946. That company's staff persuaded her to change her first name to Belinda.</p>
+        <p>After further study in London and Paris, she began an association with London Festival Ballet (now the English National Ballet) in 1952. She repeatedly returned to it after brief stints with other troupes, including Le Grand Ballet du Marquis de Cuevas, with which she danced in 1956 at a gala celebrating the wedding of Prince Rainier of Monaco to Grace Kelly.</p>
+        <p>Ms. Wright was encouraged by Anton Dolin, the British dancer who founded Festival Ballet with his partner, the British ballerina Alicia Markova, a celebrated exponent of balletic Romanticism. In his 1960 autobiography, Mr. Dolin called Ms. Wright ''the perfect dancer.'' He continued, ''She has beautiful legs and feet and a body of wonderful proportion, is as light as Markova, with the same ethereal quality and the strange inner emotion of the real artist.''</p>
+        <p>Like Ms. Markova, Ms. Wright was acclaimed as Giselle, perhaps the greatest role in the Romantic repertory.</p>
+        <p>Her marriage to the Swiss dancer Wolfgang Brunner ended in divorce in 1960. Ms. Wright married Mr. Yuresha in 1961, left Festival Ballet the next year and was a guest artist with the Royal Ballet in 1963. For the rest of her performing career she and Mr. Yuresha successfully appeared as guest artists around the world. Partnered by Mr. Yuresha, she gave her farewell performance as Giselle, her favorite role, with a Japanese ballet company in Tokyo in 1977, then worked as a teacher and coach until 2000.</p>
+        <p>In addition to Mr. Yuresha, her survivors include their daughter Annabelle Yuresha Binder; a son from her first marriage, Christopher Brunner; and two grandchildren, all of Zurich.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

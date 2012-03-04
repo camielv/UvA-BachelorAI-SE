@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Detox Center Around the Corner</title>
+    <meta content="l08city-1" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="14" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838836"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Drug Abuse and Traffic</classifier>
+        <classifier class="indexing_service" type="descriptor">Alcohol Abuse</classifier>
+        <location class="indexing_service">New York City</location>
+        <location class="indexing_service">Hillcrest (NYC)</location>
+        <person class="indexing_service">Bos, Johanna</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemicals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Alcohol Abuse</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drug Abuse and Traffic</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070408T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9507E4D6173FF93BA35757C0A9619C8B63" item-length="199" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Detox Center Around the Corner</hl1>
+      </hedline>
+      <abstract>
+        <p>Palladia Continuing Care Treatment program director Johanna Bos letter on April 1 article about plans to open drug and alcohol detox center in Hillcrest, Queens</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>I was irritated, but not surprised, when I read about the reaction that residents of Hillcrest, Queens, were having to the proposal of a rehabilitation and detoxification center residing in their neighborhood (''No Welcome Wagon for a Rehab Center,'' April 1). Yet again, the resentment is evident when people are confronted with the unfamiliar, and it is clearly time for New Yorkers to become familiar with current substance abuse and alcohol treatment.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>I was irritated, but not surprised, when I read about the reaction that residents of Hillcrest, Queens, were having to the proposal of a rehabilitation and detoxification center residing in their neighborhood (''No Welcome Wagon for a Rehab Center,'' April 1). Yet again, the resentment is evident when people are confronted with the unfamiliar, and it is clearly time for New Yorkers to become familiar with current substance abuse and alcohol treatment.</p>
+        <p>Gone are the days of the commonly envisioned ''Bowery bum'' or ''street junkie.'' The people who receive treatment at places like Cornerstone are your teachers, bankers, mailmen or family members. Addiction is non-discriminatory; it can affect anyone, regardless of education, social upbringing or economic bracket. The grasp of addiction can cross all boundaries, and that is exactly why people need to examine what it is that makes them uncomfortable with drug treatment programs.</p>
+        <p>Cornerstone Treatment Facilities Network has an excellent reputation in the field of addiction for its sincerity and determination in assisting its clients through the process of recovery. Their facility should be welcomed, not shunned.</p>
+        <p>Johanna Bos  Harlem</p>
+        <p>The writer is program director, Palladia Continuing Care Treatment.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

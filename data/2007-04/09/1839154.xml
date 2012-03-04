@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Costly Contraceptives</title>
+    <meta content="09mon3" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health; Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/09/opinion/09mon3.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1839154"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Birth Control and Family Planning</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="indexing_service" type="descriptor">Medicaid</classifier>
+        <classifier class="indexing_service" type="descriptor">Colleges and Universities</classifier>
+        <org class="indexing_service">Centers for Medicare and Medicaid Services</org>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="descriptor">Birth Control and Family Planning</classifier>
+        <classifier class="online_producer" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicaid</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Birth Control and Family Planning</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070409T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A04EFD7143FF93AA35757C0A9619C8B63" item-length="271" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Costly Contraceptives</hl1>
+        <hl2 class="online_headline">Costly Contraceptives</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial says that if Centers for Medicare and Medicaid Services fails to act, Congress must restore financial incentive that gave drug manufacturers exemption from Medicaid pricing rules so they could sell contraceptives to college clinics at extreme discount</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>For almost 20 years, college health centers have been able to purchase contraceptives at nominal prices. This was not a tax-funded subsidy. It was a financial incentive that gave drug manufacturers an exemption from Medicaid pricing rules so they could sell contraceptives and other products to certain charitable groups, like the college clinics, at an extreme discount. In response to concerns that drug companies were abusing this privilege, language was sewn into legislation in 2005 to close a loophole. It also inadvertently slashed this important benefit for clinics and their patients.</p>
+        <p>On some college campuses, the price of brand-name contraceptives has risen from the neighborhood of $5 per month to $40 or even $50. Switching to a generic is an option in some cases, but it can still entail a 300 percent price increase. Generics often run at about $15 per month. Newer contraceptives, like the NuvaRing, which contains a very low hormone dose and does not require a daily action that is easily forgotten, are not yet available generically. Many students are priced out of the market.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Students should not be priced out of the market for contraceptives at college health centers.</p>
+      </block>
+      <block class="full_text">
+        <p>For almost 20 years, college health centers have been able to purchase contraceptives at nominal prices. This was not a tax-funded subsidy. It was a financial incentive that gave drug manufacturers an exemption from Medicaid pricing rules so they could sell contraceptives and other products to certain charitable groups, like the college clinics, at an extreme discount. In response to concerns that drug companies were abusing this privilege, language was sewn into legislation in 2005 to close a loophole. It also inadvertently slashed this important benefit for clinics and their patients.</p>
+        <p>On some college campuses, the price of brand-name contraceptives has risen from the neighborhood of $5 per month to $40 or even $50. Switching to a generic is an option in some cases, but it can still entail a 300 percent price increase. Generics often run at about $15 per month. Newer contraceptives, like the NuvaRing, which contains a very low hormone dose and does not require a daily action that is easily forgotten, are not yet available generically. Many students are priced out of the market.</p>
+        <p>The spike in price affects more than just consumers of contraceptive devices and pills. College and university health clinics sold these products for a small profit -- buying them at, say, $3 and selling them at $5. Even on a small campus, these dollars add up quickly. The money was an important part of health center operating budgets, paying for classes and even subsidizing more expensive medications.</p>
+        <p>The Centers for Medicare and Medicaid Services could reapply these exemptions with the stroke of a pen. If they do not, Congress should restore this much-needed benefit.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

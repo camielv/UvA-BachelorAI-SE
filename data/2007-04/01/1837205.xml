@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sunlight in the Courts</title>
+    <meta content="CT-courts" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Connecticut Weekly Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="14CN" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/01/opinion/CT-courts.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837205"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Connecticut"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Courts</classifier>
+        <classifier class="indexing_service" type="descriptor">Constitutional Amendments</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <location class="indexing_service">Connecticut</location>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Connecticut</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Connecticut</classifier>
+        <classifier class="online_producer" type="descriptor">Courts</classifier>
+        <classifier class="online_producer" type="descriptor">Constitutional Amendments</classifier>
+        <classifier class="online_producer" type="descriptor">Politics and Government</classifier>
+        <classifier class="online_producer" type="descriptor">Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Courts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Constitutional Amendments</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">Connecticut</location>
+        <person class="online_producer">Borden, David</person>
+        <person class="online_producer">Sullivan, William</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E4D91030F932A35757C0A9619C8B63" item-length="383" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sunlight in the Courts</hl1>
+        <hl2 class="online_headline">Sunlight in the Courts</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial holds Connecticut General Assembly should approve constitutional amendment that would make courts open and accountable to the public</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Connecticut's Constitution begins with a declaration of rights, which includes the statement, ''All courts shall be open.'' In the last few years, the courts have not honored this obligation. That is why the General Assembly should approve a constitutional amendment that would make courts open and accountable to the public.</p>
+        <p>The proposed amendment has already passed the Joint Committee on Government Administration and Elections. It now goes to the Judiciary Committee, where it deserves a favorable vote, and from there to the legislature as a whole.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The General Assembly should approve a constitutional amendment that would make courts open and accountable to the public.</p>
+      </block>
+      <block class="full_text">
+        <p>Connecticut's Constitution begins with a declaration of rights, which includes the statement, ''All courts shall be open.'' In the last few years, the courts have not honored this obligation. That is why the General Assembly should approve a constitutional amendment that would make courts open and accountable to the public.</p>
+        <p>The proposed amendment has already passed the Joint Committee on Government Administration and Elections. It now goes to the Judiciary Committee, where it deserves a favorable vote, and from there to the legislature as a whole.</p>
+        <p>The need for the amendment has become increasingly obvious. The judiciary has, too often, operated in a culture of secrecy and in the belief that it is answerable to neither the legislature nor the people. For years, judges have sealed the court cases of prominent citizens to spare them embarrassing publicity, withheld routine information from the legislature and refused to follow state laws regarding openness in court procedures. Last year a judge told two reporters that they could not take notes in her courtroom.</p>
+        <p>To his credit, the acting chief justice, David Borden, has tried to coax the judiciary to behave in a more transparent manner, but after his retirement in August there is no guarantee that his initiatives will continue, let alone become permanent. And something so basic to democracy as open courts should not be dependent on the good offices and persuasive powers of one judge.</p>
+        <p>Justice Borden's efforts have forced the courts to operate more responsibly in the last few months. But as Judge Dale Radcliffe of Superior Court recently observed, ''Any reforms may be rescinded when no one is looking and pressure is off.''</p>
+        <p>That is one reason a constitutional amendment is a good idea. Another is that the courts have consistently ruled that the legislature has no authority to tell them what to do. This has led to some flagrant assertions of judicial supremacy, including former Chief Justice William Sullivan's refusal to testify before the legislature and at least one highhanded instance in which the judiciary refused to provide judges' attendance records to the legislature.</p>
+        <p>The proposed constitutional amendment would help remedy these abuses. It would do nothing to erode the independence of the judiciary in deciding cases. It would merely make judges answerable to the laws they are sworn to uphold.</p>
+        <p>Connecticut</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Talkers in Trouble, on the Radio and at a Chemical Giant</title>
+    <meta content="14five-1" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1840140"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="FIVE DAYS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Radio</classifier>
+        <classifier class="indexing_service" type="descriptor">Advertising and Marketing</classifier>
+        <classifier class="indexing_service" type="descriptor">Discrimination</classifier>
+        <classifier class="indexing_service" type="descriptor">Blacks</classifier>
+        <classifier class="indexing_service" type="descriptor">Freedom of Speech and Expression</classifier>
+        <classifier class="indexing_service" type="descriptor">Women</classifier>
+        <classifier class="indexing_service" type="descriptor">Basketball</classifier>
+        <org class="indexing_service">Federal Communications Commission</org>
+        <org class="indexing_service">Rutgers University</org>
+        <org class="indexing_service">Cbs Corp</org>
+        <org class="indexing_service">Msnbc</org>
+        <person class="indexing_service">Story, Louise</person>
+        <person class="indexing_service">Imus, Don</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blacks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Speech</classifier>
+        <classifier class="online_producer" type="general_descriptor">Freedom of Speech and Expression</classifier>
+        <classifier class="online_producer" type="general_descriptor">Radio</classifier>
+        <classifier class="online_producer" type="general_descriptor">Discrimination</classifier>
+        <classifier class="online_producer" type="general_descriptor">Basketball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Women</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070414T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E3DD103FF937A25757C0A9619C8B63" item-length="291" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Talkers in Trouble, on the Radio and at a Chemical Giant</hl1>
+      </hedline>
+      <byline class="print_byline">By LOUISE STORY</byline>
+      <byline class="normalized_byline">Story, Louise</byline>
+      <abstract>
+        <p>Five Days column; many companies pulled their ads from Don Imus's radio program, which was broadcast on CBS Radio and simulcast on MSNBC, after Imus's remark about women's basketball team at Rutgers University; NBC and CBS responded to controversy by canceling program (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE flameout of the radio host Don Imus dominated the discourse this week, but there was other intrigue, including what Dow Chemical said were unauthorized merger talks held by two of its officials and the continuing investigation into the practices of student loan companies.</p>
+        <p>MONEY TALKS -- As politicians and political groups criticized the radio host Don Imus for his remark about the women's basketball team at Rutgers University, advertisers used their money to make a statement.</p>
+      </block>
+      <block class="full_text">
+        <p>THE flameout of the radio host Don Imus dominated the discourse this week, but there was other intrigue, including what Dow Chemical said were unauthorized merger talks held by two of its officials and the continuing investigation into the practices of student loan companies.</p>
+        <p>MONEY TALKS -- As politicians and political groups criticized the radio host Don Imus for his remark about the women's basketball team at Rutgers University, advertisers used their money to make a statement.</p>
+        <p>Procter &amp; Gamble and Staples led the way on Tuesday, by saying that they would no longer advertise on Mr. Imus's program, which was broadcast on CBS Radio and was simulcast on MSNBC, a cable network owned by General Electric.</p>
+        <p>On Wednesday, a growing list of companies said they would withdraw their ads from ''Imus in the Morning.'' Those advertisers included Nissan, General Motors, Sprint Nextel, TD Ameritrade and Ditech.com, the home loan lender that is owned by G.M.A.C. Some advertisers went even further. GlaxoSmithKline suspended advertising from all MSNBC programs and MSNBC's Web site.</p>
+        <p>Even though ratings for the program surged this week, NBC and, later, CBS responded to the controversy by canceling ''Imus in the Morning.''</p>
+        <p>Some media executives have suggested that Mr. Imus's program might move to satellite radio, which is mostly supported by listener subscriptions rather than advertising.</p>
+        <p>LOUISE STORY</p>
+        <p>MOST POPULAR -- Following are the most-popular business news articles on nytimes.com from April 7 through April 13:  1. A Word of Advice During a Housing Slump: Rent  2. Imus Struggling to Retain Sway as a Franchise  3. Democrats Seek to Lead the Way in Tax Overhaul  4. Sifting Data to Uncover Travel Deals  5. High Stakes: Chávez Plays the Oil Card  Links are at nytimes.com/business.</p>
+        <p>FIVE DAYS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

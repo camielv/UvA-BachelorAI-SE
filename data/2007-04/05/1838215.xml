@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Extra Innings Made Available</title>
+    <meta content="05direct" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/05/sports/baseball/05direct.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1838215"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="BASEBALL"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="descriptor">Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+        <org class="online_producer">DirecTV</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070405T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E1D9163FF936A35757C0A9619C8B63" item-length="319" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Extra Innings Made Available</hl1>
+        <hl2 class="online_headline">Extra Innings Made Available</hl2>
+      </hedline>
+      <byline class="print_byline">By RICHARD SANDOMIR</byline>
+      <byline class="normalized_byline">Sandomir, Richard</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Cable subscribers will once again be able to watch out-of-market Major League Baseball games, ending their fears that the Extra Innings package would become the exclusive domain of DirecTV for the next seven years.</p>
+        <p>M.L.B. and InDemand -- a consortium that is owned by the cable operators Comcast, Time Warner and Cox -- agreed last night to restore Extra Innings swiftly to their systems as a free preview through sometime next week, after which it will cost a discounted $159 for a short period.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Cable subscribers will once again be able to watch out-of-market baseball games, ending their fears that the Extra Innings package would become the exclusive domain of DirecTV for the next seven years.</p>
+      </block>
+      <block class="full_text">
+        <p>Cable subscribers will once again be able to watch out-of-market Major League Baseball games, ending their fears that the Extra Innings package would become the exclusive domain of DirecTV for the next seven years.</p>
+        <p>M.L.B. and InDemand -- a consortium that is owned by the cable operators Comcast, Time Warner and Cox -- agreed last night to restore Extra Innings swiftly to their systems as a free preview through sometime next week, after which it will cost a discounted $159 for a short period.</p>
+        <p>InDemand will make the package available today to other cable operators like Cablevision and Charter, who must make individual deals.</p>
+        <p>The Dish Network, DirecTV's satellite rival, has not made a deal. ''No one is locked out,'' said Tim Brosnan, an executive vice president of M.L.B. But Dish said in a statement that baseball's terms were too costly and that it was not optimistic that it could reach a fair deal.</p>
+        <p>The crucial part of the negotiations for baseball was InDemand's agreement to carry the MLB Channel, which is to make its debut in 2009.</p>
+        <p>Between the deals made with DirecTV and InDemand, baseball said the channel will have 40 million subscribers when it starts. ''We believe we have a compelling product that our fans are passionate about,'' Brosnan said.</p>
+        <p>Robert D. Jacobson, InDemand's president, said: ''We're very comfortable with the deal. We feel we were treated very fairly related to DirecTV.''</p>
+        <p>The InDemand partnership received an equity stake of a little below 20 percent in the MLB Channel, which is about equal to DirecTV's.</p>
+        <p>M.L.B. will receive an average of $100 million a year through 2013 for the Extra Innings rights from DirecTV and cable operators. The size of their yearly payments will be reduced if Dish negotiates its own deal.</p>
+        <p>Baseball will benefit further from its majority share of the estimated $120 million in annual gross subscriber fees that the channel will generate.</p>
+        <p>BASEBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

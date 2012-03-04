@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Carey Alpert, Jared Spitalnick</title>
+    <meta content="15albert" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/15/fashion/weddings/15albert.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840488"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Alpert, Carey Beth (Carey Beth Spitalnick)</person>
+        <person class="indexing_service">Spitalnick, Jared Brett</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D02E0D9133FF936A25757C0A9619C8B63" item-length="174" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Carey Alpert, Jared Spitalnick</hl1>
+        <hl2 class="online_headline">Carey Alpert, Jared Spitalnick</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Carey Beth Alpert, a daughter of Helaine and David J. Alpert of Scarsdale, N.Y., was married last evening to Jared Brett Spitalnick, a son of Andrea and Dennis Spitalnick of Old Westbury, N.Y. Rabbi Michael A. White officiated at the New York Palace Hotel in Manhattan.</p>
+        <p>The bride and bridegroom, both lawyers, graduated from the University of Michigan and received their law degrees from New York Law School, where they met.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Carey Beth Alpert, a daughter of Helaine and David J. Alpert of Scarsdale, N.Y., was married last evening to Jared Brett Spitalnick, a son of Andrea and Dennis Spitalnick of Old Westbury, N.Y. Rabbi Michael A. White officiated at the New York Palace Hotel in Manhattan.</p>
+      </block>
+      <block class="full_text">
+        <p>Carey Beth Alpert, a daughter of Helaine and David J. Alpert of Scarsdale, N.Y., was married last evening to Jared Brett Spitalnick, a son of Andrea and Dennis Spitalnick of Old Westbury, N.Y. Rabbi Michael A. White officiated at the New York Palace Hotel in Manhattan.</p>
+        <p>The bride and bridegroom, both lawyers, graduated from the University of Michigan and received their law degrees from New York Law School, where they met.</p>
+        <p>Mrs. Spitalnick, 30, is an assistant district attorney in Kew Gardens, Queens; she prosecutes cases in the criminal courts. Her father is a partner and the executive vice president of Kellogg Properties, a real estate investment company in Manhattan. Her mother is a lawyer in Scarsdale.</p>
+        <p>Mr. Spitalnick, 27, is an associate in the Manhattan office of O'Melveny &amp; Myers, the Los Angeles law firm. His mother is a real estate broker at the Coldwell Banker Residential Brokerage in Roslyn Heights, N.Y. His father is the managing partner and an owner of Derian Apparel, a maker of fitness and sports apparel in Manhattan.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Fears, Threats And the Occasional Bark</title>
+    <meta content="08dogs" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="14" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/08/nyregion/thecity/08dogs.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1838785"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="NEIGHBORHOOD REPORT: LOWER EAST SIDE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Housing</classifier>
+        <classifier class="indexing_service" type="descriptor">Law and Legislation</classifier>
+        <classifier class="indexing_service" type="descriptor">Dogs</classifier>
+        <classifier class="indexing_service" type="descriptor">Renting and Leasing</classifier>
+        <classifier class="indexing_service" type="descriptor">Cooperatives</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">East River Housing Corp</org>
+        <person class="indexing_service">Jacob, Harold</person>
+        <person class="indexing_service">Mindlin, Alex</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Locations/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Locations/New York/New York City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Legal</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Housing</classifier>
+        <classifier class="online_producer" type="descriptor">Dogs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dogs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cooperatives</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cooperatives</classifier>
+        <classifier class="online_producer" type="general_descriptor">Renting and Leasing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Agriculture</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070408T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0DEED9173FF93BA35757C0A9619C8B63" item-length="262" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Fears, Threats And the Occasional Bark</hl1>
+        <hl2 class="online_headline">Fears, Threats and the Occasional Bark</hl2>
+      </hedline>
+      <byline class="print_byline">By ALEX MINDLIN</byline>
+      <byline class="normalized_byline">Mindlin, Alex</byline>
+      <abstract>
+        <p>Harold Jacob, general manager of East River Housing co-op on Lower East Side, concedes that, despite his threat of legal action against dog owners, New York City law prohibits tenants who openly keep pet for three months from being punished for breaking no-pet clause; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>On March 16, the memo was slipped under each of the roughly 1,700 apartment doors in East River Housing, the complex of four red-brick co-op towers at the eastern end of Grand Street. ''Harboring of Dogs in Violation of Proprietary Lease,'' read the subject line. Residents were strictly enjoined not to ''harbor, possess or keep'' a dog, and were threatened with ''legal action'' if they persisted.</p>
+        <p>By that evening, the panic among the leash-holding set was palpable. Dog owners conferred in huddles, and there was even talk of pooling finances for a lawyer.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>On March 16, the memo was slipped under each of the roughly 1,700 apartment doors in East River Housing, the complex of four red-brick co-op towers at the eastern end of Grand Street. “Harboring of Dogs in Violation of Proprietary Lease,” read the subject line. Residents were strictly enjoined not to “harbor, possess or keep” a dog, and were threatened with “legal action” if they persisted.</p>
+      </block>
+      <block class="full_text">
+        <p>On March 16, the memo was slipped under each of the roughly 1,700 apartment doors in East River Housing, the complex of four red-brick co-op towers at the eastern end of Grand Street. ''Harboring of Dogs in Violation of Proprietary Lease,'' read the subject line. Residents were strictly enjoined not to ''harbor, possess or keep'' a dog, and were threatened with ''legal action'' if they persisted.</p>
+        <p>By that evening, the panic among the leash-holding set was palpable. Dog owners conferred in huddles, and there was even talk of pooling finances for a lawyer.</p>
+        <p>New homeowners in the complex, which is part of Co-op Village, have long been required to sign a notarized statement saying they do not own a dog and never will, on pain of eviction. Then someone found a copy of the city's ''Pet Law,'' which provides that no one who openly keeps a pet for three months can be punished for breaking a no-pets clause.</p>
+        <p>Harold Jacob, the complex's general manager and the author of the memo, conceded as much.</p>
+        <p>''If they keep the dog for 90 days,'' Mr. Jacobs said, ''you can't do anything about it.'' In fact, he said, the complex has not brought what he called a ''dog action'' in at least two years. But he still found it objectionable that some residents would claim not to own a dog when they obviously did. ''Those cooperators are lying,'' he said, ''and I don't think that's right.''</p>
+        <p>''You know what?'' Mr. Jacobs said. ''I have fish. More or less, fish don't bother anybody.''</p>
+        <p>ALEX MINDLIN</p>
+        <p>NEIGHBORHOOD REPORT: LOWER EAST SIDE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

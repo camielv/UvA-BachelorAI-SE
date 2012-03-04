@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>No Headline</title>
+    <meta content="Upfront.t-1" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1843555"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9502E3D8173EF93AA15757C0A9619C8B63" item-length="293" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>No Headline</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="full_text">
+        <p>Up Front</p>
+        <p>In her cover review of Hermione Lee's biography of Edith Wharton, Claire Messud draws our attention to Wharton's beloved chateau in the South of France, a region that also has a fond personal connection for Messud. Born in the United States to a Canadian mother and a French father, she spent her childhood in Canada and Australia but made many holiday visits to her paternal grandparents, who lived outside Toulon. By that time, Wharton's mansion in nearby HyÃ</p>
+        <p>res had been turned into a restaurant and, as Messud recalled in an e-mail message, she has ''wonderful memories of running in those gardens while my parents and grandparents finished their interminable lunches on the terrace.'' In her teens, Messud read Wharton's novels ''with great avidity'' and cites both Wharton and Henry James as influences on her own fiction -- which won't surprise readers of her much-praised recent comedy of manners, ''The Emperor's Children.'' There was, Messud added, ''great romance'' in her family's visits to Paris, and when she read Wharton she ''conflated the Paris of my childhood and the Paris that appears in her fiction. Only the better part of a century and a considerable difference in fortune separated them, after all!''</p>
+        <p>The Editors</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

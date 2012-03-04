@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>It's '80s in the Shades</title>
+    <meta content="12POINTS" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Thursday Styles" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/12/fashion/12POINTS.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1839639"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Fine Points"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Thursday Styles</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Eyeglasses</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Fashion, Beauty and Fitness</classifier>
+        <classifier class="online_producer" type="descriptor">Apparel</classifier>
+        <classifier class="online_producer" type="descriptor">Eyeglasses</classifier>
+        <classifier class="online_producer" type="general_descriptor">Eyeglasses</classifier>
+        <classifier class="online_producer" type="general_descriptor">Color</classifier>
+        <classifier class="online_producer" type="general_descriptor">Apparel</classifier>
+        <classifier class="online_producer" type="general_descriptor">Eyes and Eyesight</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070412T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE4DD123FF931A25757C0A9619C8B63" item-length="278" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>It's '80s in the Shades</hl1>
+        <hl2 class="online_headline">It’s ’80s in the Shades</hl2>
+      </hedline>
+      <byline class="print_byline">By KRISTINA DECHTER</byline>
+      <byline class="normalized_byline">Dechter, Kristina</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>FORMER retro revivals of sunglasses were about playing it cool in darker shades, but there is nothing cool or subtle about white frames. However much they may recall scenes of the '50s and '60s -- Grace Kelly in ''To Catch a Thief,'' Brigitte Bardot on the French Riviera -- they also summon trashy '80s lip-gloss moments from, say, an early Cars video.</p>
+        <p>''If you're wearing white frames, you want to be noticed,'' said Selima Salaun, whose Selima Optique boutiques have long touted the primacy of eyewear as accessory. ''You're attracting attention rather than diverting it.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Sunglasses in any color, so long as it’s white.</p>
+      </block>
+      <block class="full_text">
+        <p>FORMER retro revivals of sunglasses were about playing it cool in darker shades, but there is nothing cool or subtle about white frames. However much they may recall scenes of the '50s and '60s -- Grace Kelly in ''To Catch a Thief,'' Brigitte Bardot on the French Riviera -- they also summon trashy '80s lip-gloss moments from, say, an early Cars video.</p>
+        <p>''If you're wearing white frames, you want to be noticed,'' said Selima Salaun, whose Selima Optique boutiques have long touted the primacy of eyewear as accessory. ''You're attracting attention rather than diverting it.''</p>
+        <p>This spring almost every coveted accessory label, including Marc Jacobs and Miu Miu, seemingly revisited the classic Ray-Ban Wayfarers, but recast them in bold white. Perhaps, as Ms. Salaun suggested, their stolid anticoolness makes them feel fresh again.</p>
+        <p>The fashion designer Adam Kimmel was inspired by Wayfarers (his own style of choice), which, he maintains, achieved their classic status by flattering every face. ''White brings back that feeling of the '80s,'' he said, ''and for me, that's a beautiful feeling.'' His white frames fold up so cleverly, though, it is clear that Mr. Kimmel is as interested in function as in paying homage to the '80s, a decade he remembers fondly despite being in roughly the sixth grade.</p>
+        <p>Casey Spooner, of the art rockers Fischerspooner and an old hand at courting, then spurning, the spotlight, is a modern-day dandy who cops to a ''little fetish'' regarding sunglasses. White frames, which are now in his rotation, have ''a punch, a pop that looks fearless,'' he said.</p>
+        <p>It all depends on whether you want to avoid the glare of the sun -- or of society.</p>
+        <p>Fine Points</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

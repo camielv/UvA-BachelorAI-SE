@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>EBay Profit Rises 52%, Exceeding Estimates</title>
+    <meta content="19ebay" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/19/technology/19ebay.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1841358"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+        <org class="online_producer">eBay Inc</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070419T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9903E2D91E3FF93AA25757C0A9619C8B63" item-length="552" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>EBay Profit Rises 52%, Exceeding Estimates</hl1>
+        <hl2 class="online_headline">EBay Profit Climbs 52 Percent</hl2>
+      </hedline>
+      <byline class="print_byline">By SAUL HANSELL</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>EBay posted better-than-expected profit in the first quarter as several of its newer businesses compensated for disappointing results in its mainstay auction service.</p>
+        <p>The faster-growing units include shopping.com, a price comparison site; some classified listing sites; a service to let online merchants accept credit cards; and Skype, the online voice chat service.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Several of its newer businesses compensated for disappointing results in its mainstay auction service.</p>
+      </block>
+      <block class="full_text">
+        <p>EBay posted better-than-expected profit in the first quarter as several of its newer businesses compensated for disappointing results in its mainstay auction service.</p>
+        <p>The faster-growing units include shopping.com, a price comparison site; some classified listing sites; a service to let online merchants accept credit cards; and Skype, the online voice chat service.</p>
+        <p>''We are on track with our well-crafted portfolio,'' Meg Whitman, eBay's chief executive, said in an interview after the earnings report yesterday.</p>
+        <p>The results sent eBay's stock up about 3 percent in after-hours trading.</p>
+        <p>Over all, the company earned $377 million in the first quarter, up 52 percent from a year earlier. Excluding charges related to stock-based compensation and some other items, the company earned 33 cents a share, above the 29 cents that analysts had predicted.</p>
+        <p>EBay's total revenue was $1.77 billion, up 27 percent.</p>
+        <p>Ms. Whitman said that her top priority for the rest of the year was to ''reignite our core auctions in the U.S. and Germany.''</p>
+        <p>In the first quarter, the number of auction listings increased by only 2 percent, to 588 million. But the total dollar value of merchandise sold in the auctions increased by 14 percent, to $14.28 billion.</p>
+        <p>Ms. Whitman said the company had been benefiting from changes in the user experience that had increased the number of auctions leading to sales. As sellers learn that eBay is increasingly effective, Ms. Whitman said, ''my belief and my hope is that supply will follow strong demand'' from auction buyers.</p>
+        <p>Jordan Rohan, an analyst for RBC Capital Markets, noted that merchants were simply setting up their own Web sites and relying on search engines and other means to draw buyers. As a result, he said, ''the total share of e-commerce that eBay commands is going down.''</p>
+        <p>Over all, eBay's Marketplaces unit, which includes auctions, shopping.com and several classified sites, posted revenue of $1.25 billion, up 23 percent.</p>
+        <p>In the PayPal unit, revenue was $439 million, up 31 percent. The total volume of payments processed -- on which eBay earns a percentage fee -- was $11.36 billion, up 30 percent. The fastest-growing part of this business was PayPal Merchant Services, which processes payments on sites other than eBay. That unit handled $4.38 billion in payments, up 51 percent.</p>
+        <p>PayPal Merchant Services competes directly with the new Google Checkout service, as well as offerings from several banks. Ms. Whitman said eBay had yet to see significant pressure from the Google offering.</p>
+        <p>Youssef Squali, an analyst for Jefferies &amp; Company, said, ''PayPal continues to be the rock star of that business.''</p>
+        <p>Skype, which earns money largely from fees to connect users to the telephone system, posted revenue of $79 million, up 123 percent. EBay purchased Skype in 2005 for $2.6 billion. ''This is a very young business growing very fast,'' Ms. Whitman said.</p>
+        <p>EBay has also increasingly been benefiting from a deal with Yahoo to sell advertising on its site. In the quarter, it had $60.5 million in advertising revenue, up 65 percent.</p>
+        <p>EBay increased its guidance for its full-year 2007 results. It now predicts revenue of $7.20 billion to $7.45 billion. In January, the company said its revenue would be $7.05 billion to $7.3 billion.</p>
+        <p>EBay's stock closed yesterday at $34.45, down 75 cents. In extended trading after the earnings announcement, it rose to about $35.60.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

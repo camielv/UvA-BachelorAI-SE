@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Two Kinds Of Travelers</title>
+    <meta content="29letters-2" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1843622"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Travel and Vacations</classifier>
+        <person class="indexing_service">Mercer, Glenn</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E6D7143EF93AA15757C0A9619C8B63" item-length="143" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Two Kinds Of Travelers</hl1>
+      </hedline>
+      <abstract>
+        <p>Glenn Mercer letter, citing April 8 letters, comments on two different kinds of travelers</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor: I was amused to read in the April 8 Travel section two particular letters from brave Times readers. One suggested that recovery from jet lag takes one day per hour of difference in time (so a New Yorker returning from India would need at least one week to recuperate), and another insisted that nothing short of demolition would remove all traces of cat dander from a hotel room. If this keeps up, some may find it impossible to leave their apartments.</p>
+        <p>It seems travelers are bifurcating: there is the hardy adventurer who wants to climb a Tibetan mountain in her bare feet, dining only on local rodents, and the insulated capsule dweller, who can't tolerate the tea that is 5 degrees too cool. It must be a challenge to serve both types.</p>
+        <p>Glenn Mercer  Shaker Heights, Ohio</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor: I was amused to read in the April 8 Travel section two particular letters from brave Times readers. One suggested that recovery from jet lag takes one day per hour of difference in time (so a New Yorker returning from India would need at least one week to recuperate), and another insisted that nothing short of demolition would remove all traces of cat dander from a hotel room. If this keeps up, some may find it impossible to leave their apartments.</p>
+        <p>It seems travelers are bifurcating: there is the hardy adventurer who wants to climb a Tibetan mountain in her bare feet, dining only on local rodents, and the insulated capsule dweller, who can't tolerate the tea that is 5 degrees too cool. It must be a challenge to serve both types.</p>
+        <p>Glenn Mercer  Shaker Heights, Ohio</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>IPhone Killer (or Perhaps a Worthy Rival)</title>
+    <meta content="05phone" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/05/technology/05phone.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1838122"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CIRCUITS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Telephones and Telecommunications</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="indexing_service" type="descriptor">Recordings and Downloads (Audio)</classifier>
+        <classifier class="indexing_service" type="descriptor">Recordings and Downloads (Video)</classifier>
+        <org class="indexing_service">Helio</org>
+        <person class="indexing_service">Biggs, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+        <org class="online_producer">Yahoo Inc</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070405T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E02E4DB163FF936A35757C0A9619C8B63" item-length="178" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>IPhone Killer (or Perhaps a Worthy Rival)</hl1>
+        <hl2 class="online_headline">IPhone Killer (or Perhaps a Worthy Rival)</hl2>
+      </hedline>
+      <byline class="print_byline">By JOHN BIGGS</byline>
+      <byline class="normalized_byline">Biggs, John</byline>
+      <abstract>
+        <p>Helio's phone called Ocean has two keypads; sliding phone up reveals standard phone keypad, while sliding to side reveals full QWERTY keyboard; phone has 2.4-inch display and 200 megabytes of internal memory for video and audio recordings and media files; phone is priced at $295; photo (M)/</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>While smart-phone makers cower in the looming shadow of the June release of the iPhone from Apple, a small cellphone service provider called Helio is introducing a device that is getting plenty of buzz.</p>
+        <p>Helio's phone, the Ocean, has two keypads. Sliding the phone up reveals a standard phone keypad, while sliding to the side reveals a full QWERTY keyboard. The 4-inch-long phone has a 2.4-inch display and 200 megabytes of internal memory for video and audio recordings and media files.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Helio’s phone, the Ocean, offers downloadable content and handles e-mail, instant messaging and Global Positioning System services.</p>
+      </block>
+      <block class="full_text">
+        <p>While smart-phone makers cower in the looming shadow of the June release of the iPhone from Apple, a small cellphone service provider called Helio is introducing a device that is getting plenty of buzz.</p>
+        <p>Helio's phone, the Ocean, has two keypads. Sliding the phone up reveals a standard phone keypad, while sliding to the side reveals a full QWERTY keyboard. The 4-inch-long phone has a 2.4-inch display and 200 megabytes of internal memory for video and audio recordings and media files.</p>
+        <p>Helio gives the phone its own special interface and offers downloadable content including games, TV shows, movies and music.</p>
+        <p>The Ocean also handles e-mail, instant messaging and Global Positioning System services. What makes the Ocean stand out is the integration of almost all of these services into its contacts software. Each contact listing has small icons that show your friend's current status in AIM, Yahoo and Windows Live Messenger.</p>
+        <p>The Ocean, priced at $295, will be available at dealers this month, giving it a bit of a head start on the iPhone.</p>
+        <p>JOHN BIGGS</p>
+        <p>CIRCUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

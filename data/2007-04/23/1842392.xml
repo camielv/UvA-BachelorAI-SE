@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>USA Today to Use Items From Start-Up News Site</title>
+    <meta content="23politico" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/23/business/media/23politico.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842392"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MEDIA TALK"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Newspapers</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">News and News Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Newspapers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+        <org class="online_producer">USA TODAY</org>
+        <org class="online_producer">Politico, The</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070423T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F02E2DA173EF930A15757C0A9619C8B63" item-length="346" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>USA Today to Use Items From Start-Up News Site</hl1>
+        <hl2 class="online_headline">USA Today to Use Items From Start-Up News Site</hl2>
+      </hedline>
+      <byline class="print_byline">By DAVID S. JOACHIM</byline>
+      <byline class="normalized_byline">Joachim, David S</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Three months after two journalists left The Washington Post to start a new-media venture, their political coverage has found its way back to a national newspaper: USA Today.</p>
+        <p>USA Today said Friday that it would begin using articles produced by the start-up, The Politico, a mostly online news operation staffed by journalists who have worked for news outlets like Time, The Wall Street Journal and The Associated Press.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>USA Today said that it would begin using articles produced by the new-media start-up, The Politico.</p>
+      </block>
+      <block class="full_text">
+        <p>Three months after two journalists left The Washington Post to start a new-media venture, their political coverage has found its way back to a national newspaper: USA Today.</p>
+        <p>USA Today said Friday that it would begin using articles produced by the start-up, The Politico, a mostly online news operation staffed by journalists who have worked for news outlets like Time, The Wall Street Journal and The Associated Press.</p>
+        <p>USAToday.com has already added a scroll box with Politico headlines on its Political News  page; clicking on a headline takes a reader to the article on Politico.com. Kinsey Wilson, co-executive editor of USA Today, said that starting today The Politico would also provide at least 15 articles a week for the newspaper's Web pages, and occasionally for its printed editions.</p>
+        <p>Mr. Wilson, who used to be editor in chief of the paper's Web site, emphasized that the arrangement was not a cost-cutting effort. USA Today, published by Gannett, is the biggest paper in the country by circulation, but its newsroom is set up to put out a paper only five days a week, he said. ''We need to deepen our coverage online, where there is an expectation of 24-hour timeliness,'' he said.</p>
+        <p>If the paper's Washington reporters are worried about being upstaged by writers with bigger bylines, they are not saying; phone messages left for six of them on Friday were not returned.</p>
+        <p>Kathy Kiely, who covers Congress for USA Today, said she did not feel threatened. ''I think it's a plus for the paper,'' she said, adding, ''This is a time when a lot of publications are cutting back on their reporting resources, so the idea that we would be adding resources, even indirectly, is a wonderful thing.''</p>
+        <p>Jim VandeHei, The Politico's executive editor who founded the venture with John F. Harris, a colleague from The Post, said that the deal gave his 25 reporters a forum to reach readers ''not just inside the Beltway, but coast to coast.'' USAToday.com attracts more than nine million visitors a month, according to Nielsen/NetRatings.</p>
+        <p>DAVID S. JOACHIM</p>
+        <p>MEDIA TALK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

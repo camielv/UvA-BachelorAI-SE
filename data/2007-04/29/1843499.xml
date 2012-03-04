@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   LIEBES, HARRY ''HAL''</title>
+    <meta content="dn042907.4" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="27" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1843499"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">LIEBES, HARRY ''HAL''</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940CE4DC163AF93AA15757C0A9619C8B63" item-length="61" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   LIEBES, HARRY ''HAL''</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LIEBES--Harry ''Hal'', 85, of Searingtown, NY. Loving companion of Mickey, beloved husband of the late Muriel, wonderful father of Sandy (Gene), Bonnie (Lenny) and Beth (Zia), dear brother of Nat (Eva), proud gramps, ''Great Hal'', ''Poppi'', and great-grandfather to many. Very special friend to Evan (Dolly), Neil (Jackie) and Jeff. Service Sunday 10am at the Star of David, West Babylon.</p>
+      </block>
+      <block class="full_text">
+        <p>LIEBES--Harry ''Hal'', 85, of Searingtown, NY. Loving companion of Mickey, beloved husband of the late Muriel, wonderful father of Sandy (Gene), Bonnie (Lenny) and Beth (Zia), dear brother of Nat (Eva), proud gramps, ''Great Hal'', ''Poppi'', and great-grandfather to many. Very special friend to Evan (Dolly), Neil (Jackie) and Jeff. Service Sunday 10am at the Star of David, West Babylon.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

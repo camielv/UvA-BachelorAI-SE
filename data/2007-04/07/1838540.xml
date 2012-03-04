@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="07botcorrection-8" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838540"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <org class="indexing_service">Cable News Network</org>
+        <person class="indexing_service">Chetry, Kiran</person>
+        <object.title class="indexing_service">American Morning (TV Program)</object.title>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070407T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E0D6173FF934A35757C0A9619C8B63" item-length="64" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>April 5 article about CNN's new anchor team for its program American Morning misspelled given name of one anchor; she is Kiran Chetry</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An article in The Arts on Thursday about CNN's new anchor team for its program ''American Morning'' misspelled the given name of one anchor. She is Kiran Chetry, not Kieran. The article also misstated the schedule for a new program with Soledad O'Brien, one of the morning anchors who is being replaced. The program, ''CNN: Special Investigations Unit,'' will be shown weekly, not occasionally.</p>
+      </block>
+      <block class="full_text">
+        <p>An article in The Arts on Thursday about CNN's new anchor team for its program ''American Morning'' misspelled the given name of one anchor. She is Kiran Chetry, not Kieran. The article also misstated the schedule for a new program with Soledad O'Brien, one of the morning anchors who is being replaced. The program, ''CNN: Special Investigations Unit,'' will be shown weekly, not occasionally.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

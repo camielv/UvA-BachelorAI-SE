@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Laugh Lines</title>
+    <meta content="08laugh" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Week in Review" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838844"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070408T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B02E3D6173FF93BA35757C0A9619C8B63" item-length="220" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Laugh Lines</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Jay Leno</p>
+        <p>The big story, Iranian President Mahmoud  has released those 15 British captive soldiers. He released them after they were held hostage for 13 days. Or, as we call that in this country: JetBlue.</p>
+        <p>The sailors were brought to the palace to meet with the Iranian president before being released. The sailors were given suits but no ties, because ties are considered a Western extravagance. You know, as opposed to living in a palace.</p>
+      </block>
+      <block class="full_text">
+        <p>Jay Leno</p>
+        <p>The big story, Iranian President Mahmoud  has released those 15 British captive soldiers. He released them after they were held hostage for 13 days. Or, as we call that in this country: JetBlue.</p>
+        <p>The sailors were brought to the palace to meet with the Iranian president before being released. The sailors were given suits but no ties, because ties are considered a Western extravagance. You know, as opposed to living in a palace.</p>
+        <p>Congratulations to Hillary Clinton, who has raised more money than anyone -- $26 million, so far. Barack Obama not far behind. Which is kind of risky for her -- if she ends up with too much money, she may have to run as a Republican.</p>
+        <p>Presidential candidate Rudy Giuliani lashing out at the press, asking the press to lay off his wife. The press responded by saying, O.K., which one?</p>
+        <p>Conan O'Brien</p>
+        <p>Republican candidates are announcing their first-quarter fundraising totals so far. Mitt Romney announced that he has raised $23 million. Meanwhile, Rudy Giuliani announced he's raised $15 million and Tom Tancredo announced he's raised two children.</p>
+        <p>This weekend at the New York Auto Show, the taxicab of the future will be on display. Designers say the cab is so futuristic that the driver will be from a country that doesn't even exist yet.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

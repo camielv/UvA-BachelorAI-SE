@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>In a Soprano's Recital Debut, A Focus on the Music Stand</title>
+    <meta content="03frit" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/03/arts/music/03frit.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837678"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MUSIC REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="descriptor">Opera</classifier>
+        <classifier class="online_producer" type="general_descriptor">Opera</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <person class="online_producer">Frittoli, Barbara</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070403T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D01E4DE1F30F930A35757C0A9619C8B63" item-length="355" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>In a Soprano's Recital Debut, A Focus on the Music Stand</hl1>
+        <hl2 class="online_headline">In a Soprano’s Recital Debut, a Focus on the Music Stand</hl2>
+      </hedline>
+      <byline class="print_byline">By VIVIEN SCHWEITZER</byline>
+      <byline class="normalized_byline">Schweitzer, Vivien</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>One way for an Italian opera singer to smooth the path to the recital stage is to stay close to home turf. For the first half of her New York recital debut at Alice Tully Hall on Sunday, Barbara Frittoli, the Milanese soprano, focused on works by opera composers and Schubert's Italian canzone.</p>
+        <p>But while her lirico spinto soprano often sounded lovely, she looked distinctly uncomfortable, sometimes clutching her music stand and peering intently at the score. Throughout much of the program her music stand was directly in front of her, a barrier to intimacy between singer and listener that seemed to prevent Ms. Frittoli from fully engaging the audience.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A music stand in front of the Milanese soprano proved to be a barrier to intimacy between singer and listener in her performance at Alice Tully Hall on Sunday.</p>
+      </block>
+      <block class="full_text">
+        <p>One way for an Italian opera singer to smooth the path to the recital stage is to stay close to home turf. For the first half of her New York recital debut at Alice Tully Hall on Sunday, Barbara Frittoli, the Milanese soprano, focused on works by opera composers and Schubert's Italian canzone.</p>
+        <p>But while her lirico spinto soprano often sounded lovely, she looked distinctly uncomfortable, sometimes clutching her music stand and peering intently at the score. Throughout much of the program her music stand was directly in front of her, a barrier to intimacy between singer and listener that seemed to prevent Ms. Frittoli from fully engaging the audience.</p>
+        <p>She also turned the pages during some particularly inopportune moments -- for example, while singing the anguished phrase ''Per pieta, non dirmi addio'' from Beethoven's ''Ah, Perfido.'' During that work, which opened the program, she sang with a rich, expressive voice as she parlayed the emotions -- from gentle anguish to raging anger -- of a woman scorned.</p>
+        <p>Schubert's Italian canzone and his ''Felice arrivo e congedo,'' based on the Goethe poem ''Willkommen und Abschied,'' which followed on the program, were marred by blandness and a lack of sufficient vocal color, as were two song's from Rossini's ''Les soirées musicale.'' The balance between James Vaughan, her accompanist, and Ms. Frittoli also sometimes seemed uneven.</p>
+        <p>Ms. Frittoli's rendition of Bellini's ''Vaga luna che inargenti'' was also unmemorable. In Verdi's ''In solitaria stanza,'' she sang ''she languishes in terrible pain'' with the emotion of an overworked doctor making a note in his chart.</p>
+        <p>Ms. Frittoli had fun, however, with Verdi's ''Stornello,'' which was considerably more effective.</p>
+        <p>After intermission, Ms. Frittoli's black wrap came off and with it, to some degree, her inhibitions. In eight ''Mélodies'' by Duparc, she sang with a lovely, robust, voluptuous voice and dramatic conviction, caressing the sensual phrases with skillful shading and control.</p>
+        <p>But it was only in her two encores that she finally seemed entirely relaxed. After pushing the music stand aside, she sang Cilea's ''Io son l'umile ancella'' with power and control, then offered another winning, flirtatious rendition of Verdi's ''Stornello.''</p>
+        <p>MUSIC REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

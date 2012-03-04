@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; Judge Stays Pellicano Suits</title>
+    <meta content="03arts-4" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837781"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/California</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./West</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/California/Los Angeles</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/California</classifier>
+        <classifier class="online_producer" type="general_descriptor">Detectives (Private)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wiretapping and Other Eavesdropping Devices and Methods</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070403T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9906E5DB1F30F930A35757C0A9619C8B63" item-length="176" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; Judge Stays Pellicano Suits</hl1>
+      </hedline>
+      <byline class="print_byline">By DAVID M. HALBFINGER and ALLISON HOPE WEINER; Compiled by Lawrence Van Gelder</byline>
+      <byline class="normalized_byline">Weiner, Allison Hope; Halbfinger, David M</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Those named by prosecutors as victims of Anthony Pellicano, the Hollywood private eye who faces federal charges of wiretapping and conspiracy, will have to wait six months to move forward with their civil lawsuits. Judge Peter D. Lichtman of Superior Court in Los Angeles issued a stay yesterday until late October of a host of lawsuits by those said to be victims, including the actor Keith Carradine, the screenwriter Bo Zenga and the journalist Anita Busch. The plaintiffs had sought to move ahead, noting that the most recent allegations occurred in 2002 and that witnesses' memories are fading. But lawyers for such civil defendants as the Paramount Pictures chairman, Brad Grey; the entertainment lawyer Bertram Fields; and the phone company argued that they would be severely hamstrung in defending themselves until the conclusion of the criminal trial, now set to begin on Aug. 22. The judge agreed, saying to go ahead now would create ''a judicial nightmare.''</p>
+        <p>DAVID M. HALBFINGER and ALLISON HOPE WEINER</p>
+      </block>
+      <block class="full_text">
+        <p>Those named by prosecutors as victims of Anthony Pellicano, the Hollywood private eye who faces federal charges of wiretapping and conspiracy, will have to wait six months to move forward with their civil lawsuits. Judge Peter D. Lichtman of Superior Court in Los Angeles issued a stay yesterday until late October of a host of lawsuits by those said to be victims, including the actor Keith Carradine, the screenwriter Bo Zenga and the journalist Anita Busch. The plaintiffs had sought to move ahead, noting that the most recent allegations occurred in 2002 and that witnesses' memories are fading. But lawyers for such civil defendants as the Paramount Pictures chairman, Brad Grey; the entertainment lawyer Bertram Fields; and the phone company argued that they would be severely hamstrung in defending themselves until the conclusion of the criminal trial, now set to begin on Aug. 22. The judge agreed, saying to go ahead now would create ''a judicial nightmare.''</p>
+        <p>DAVID M. HALBFINGER and ALLISON HOPE WEINER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

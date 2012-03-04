@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Portrait of the Big City, Painted in Little Moments</title>
+    <meta content="14keig" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/14/arts/dance/14keig.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840044"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="DANCE REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance</classifier>
+        <classifier class="online_producer" type="descriptor">Dancing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dancing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070414T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E3D6133FF937A25757C0A9619C8B63" item-length="424" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Portrait of the Big City, Painted in Little Moments</hl1>
+        <hl2 class="online_headline">A Portrait of the Big City, Painted in Little Moments</hl2>
+      </hedline>
+      <byline class="print_byline">By ROSLYN SULCAS</byline>
+      <byline class="normalized_byline">Sulcas, Roslyn</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Speed-dial the Skirball Center for the Performing Arts right away: there is just tonight left to see Larry Keigwin's ''Bolero NYC,'' a joyful and breathtakingly clever celebration of the city and its people that is probably the most inexpensive legal fun to be had for miles around.</p>
+        <p>''Bolero'' is a new work, commissioned by the Skirball Center as part of ''Dance Party!,'' a well-conceived double bill of Chris Elam/Misnomer Dance Theater and Keigwin &amp; Company, presented on Thursday night. ''Cast-Iron Crutches,'' a five-minute opening solo by the tall, gawky Mr. Elam, offered a distillation of his oddly compelling physical style as he moved from one self-bound position to another -- hands joined between legs, torso curved over knees. Set to cello strains by John Williams, it is utterly simple and genuinely strange, a pure emanation of Mr. Elam's corporeal sense of self.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>“Dance Party!” is a well-conceived double bill of Chris Elam/Misnomer Dance Theater and Keigwin &amp; Company.</p>
+      </block>
+      <block class="full_text">
+        <p>Speed-dial the Skirball Center for the Performing Arts right away: there is just tonight left to see Larry Keigwin's ''Bolero NYC,'' a joyful and breathtakingly clever celebration of the city and its people that is probably the most inexpensive legal fun to be had for miles around.</p>
+        <p>''Bolero'' is a new work, commissioned by the Skirball Center as part of ''Dance Party!,'' a well-conceived double bill of Chris Elam/Misnomer Dance Theater and Keigwin &amp; Company, presented on Thursday night. ''Cast-Iron Crutches,'' a five-minute opening solo by the tall, gawky Mr. Elam, offered a distillation of his oddly compelling physical style as he moved from one self-bound position to another -- hands joined between legs, torso curved over knees. Set to cello strains by John Williams, it is utterly simple and genuinely strange, a pure emanation of Mr. Elam's corporeal sense of self.</p>
+        <p>''Future Perfect,'' also commissioned by the Skirball Center, transfers Mr. Elam's own odd physicality to four other dancers (Brynne Billingsley, Jen Harmer, Coco Karol and Luke Wiley) who cavort like children or clowns to a musical mix and do a fine job of conveying the clumsy attempts of human beings to connect to one another.</p>
+        <p>We were back to the reality of a Starbucks on every corner with Mr. Keigwin's ''Caffeinated,'' a hilarious, jittery mix of aerobics, cheerleading, ballet and boxing that seems to use every note of Philip Glass's ''Glasspiece No. 3.'' It was well performed by nine coffee-cup-holding students from New York University's Tisch School of the Arts, where the work had its premiere two weeks ago.</p>
+        <p>''Natural Selection,'' made in 2004 to insistently rhythmic music by Michael Gordon, offered another aspect of Mr. Keigwin's work. Dark and dramatic, it could do with a little editing, but shows off this choreographer's theatrical gift for the unexpected.</p>
+        <p>There was no doubt, however, that ''Bolero NYC'' was the tour de force of the evening. In addition to his six dancers, Mr. Keigwin (assisted by Nicole Wolcott, who also collaborated on ''Caffeinated'') used 46 civilians of all shapes and ages to create an entertaining city portrait.</p>
+        <p>To Ravel's hypnotic music, the performers read newspapers, walk dogs, talk on cellphones, flirt, kiss, take care of children. There are moments of unison, moments of aloneness, moments of fantasy. (Everyone gets a trip up the red carpet.) It is funny, touching and a masterly piece of choreographic organization. Go.</p>
+        <p>''Dance Party!'' runs through tonight at the Skirball Center for the Performing Arts, 566 LaGuardia Place, at Washington Square South, Greenwich Village; (212) 279-4200.</p>
+        <p>DANCE REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

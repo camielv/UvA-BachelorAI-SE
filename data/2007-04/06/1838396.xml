@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Art in Review; Anya Kielar</title>
+    <meta content="06gall-4" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="33" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838396"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070406T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E5DB173FF935A35757C0A9619C8B63" item-length="298" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Art in Review; Anya Kielar</hl1>
+      </hedline>
+      <byline class="print_byline">By ROBERTA SMITH</byline>
+      <byline class="normalized_byline">Smith, Roberta</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Lady  Daniel Reich Gallery  537A West 23rd Street, Chelsea  Through April 14</p>
+        <p>Anya Kielar's first solo show at this gallery was mostly histrionic paint-it-black graduate school art. Her second has traction; it updates aspects of early Dadaist and Surrealist photomontage, collage and assemblage with ad-agency sharpness and feminist, table-turning wit. The works combine flat and dimensional cutout images and found objects in varying ratios.</p>
+      </block>
+      <block class="full_text">
+        <p>Lady  Daniel Reich Gallery  537A West 23rd Street, Chelsea  Through April 14</p>
+        <p>Anya Kielar's first solo show at this gallery was mostly histrionic paint-it-black graduate school art. Her second has traction; it updates aspects of early Dadaist and Surrealist photomontage, collage and assemblage with ad-agency sharpness and feminist, table-turning wit. The works combine flat and dimensional cutout images and found objects in varying ratios.</p>
+        <p>All depict women, the best with crisp, tangible vehemence that brings to mind Hannah Höch crossed with Kembra Phaler, the performance artist known for her high black boots and fluorescent body paint. Surrealism is expertly rendered if a bit familiar in four free-form mannequins made of cutouts, bits of furniture and other objects and sometimes lights. ''Automaton'' is neo-Arcimboldo: a life-size figure pieced together from images of butterflies. ''Martha'' is a woman on all fours, whose torso is a three-drawer sewing cabinet that provides a rebellious uprightness.</p>
+        <p>More original are three large, dark collage-assemblages of crying women arrayed in shallow glass-fronted boxes; they sharply twist the woman-at-the-window motif with which painters have traditionally evoked prostitutes. Titles aside, these women have a totemic power and abstractness. Inside the boxes their various elements, which include paint-on-glass, fabric, net and cut-out paper and photographs, seem aligned but unattached. The subjects are in charge of their own construction in a protected space where movement and liberty seem possible.</p>
+        <p>The most conventional works are a series of smaller collages using studio portraits of movie stars like Gloria Swanson, Audrey Hepburn and Veronica Lake. Contrasting positive and negative versions of the images and edged in bright borders, the stylish results hover somewhere between the Bauhaus and Andy Warhol, but they still have a share of the vehemence, assurance and visual intelligence that permeate this impressive show.</p>
+        <p>ROBERTA SMITH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

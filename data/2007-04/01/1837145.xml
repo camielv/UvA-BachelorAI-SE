@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Darwin's God</title>
+    <meta content="01letters.t-3" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837145"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Religion and Churches</classifier>
+        <classifier class="indexing_service" type="descriptor">Evolution</classifier>
+        <person class="indexing_service">scott, john (milwaukee)</person>
+        <person class="indexing_service">russotti, phil</person>
+        <person class="indexing_service">Henig, Robin Marantz</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Evolution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Religion and Churches</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02EED91330F932A35757C0A9619C8B63" item-length="210" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Darwin's God</hl1>
+      </hedline>
+      <abstract>
+        <p>March 4 article on evolution of tendency to believe in God prompts letters from Phil Russotti and John Scott</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The question posed in Robin Marantz Henig's article ''Darwin's God'' (March 4) may be answered in Richard Panek's article. Rational organisms require explanations, yet science has been incapable of providing an explanation of how the physical universe came to exist. No wonder that man has found it necessary to believe in gods, a belief not much removed from accepting that something called ''dark matter'' (which can't be demonstrated either) comprises 96 percent of the universe.</p>
+      </block>
+      <block class="full_text">
+        <p>The question posed in Robin Marantz Henig's article ''Darwin's God'' (March 4) may be answered in Richard Panek's article. Rational organisms require explanations, yet science has been incapable of providing an explanation of how the physical universe came to exist. No wonder that man has found it necessary to believe in gods, a belief not much removed from accepting that something called ''dark matter'' (which can't be demonstrated either) comprises 96 percent of the universe.</p>
+        <p>Phil Russotti</p>
+        <p>Brooklyn</p>
+        <p>In Henig's article, we are offered two choices: religion is either an ''evolutionary adaptation'' or a ''neurological accident.'' In either case, religion is viewed as a preference for the unreal and the counterintuitive, which confounds logic, and we seem to be invited to summon the resolve to slough it off and submit to the rationality of science. Yet when science informs us that physical reality consists of elementary particles with no measurable structure and that empty space is a flickering mélange of virtual particles that don't exist, except when they do, we are presented with a picture that is also unreal and counterintuitive and confounds logic. God may be invoked because the explanatory power of science ultimately breaks down, leaving a vacuum that must be filled.</p>
+        <p>John Scott</p>
+        <p>Milwaukee</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

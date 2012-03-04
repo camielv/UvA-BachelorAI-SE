@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>James Richards, Veterinarian And Expert on Cat Care, 58</title>
+    <meta content="26richards" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S.; Obituaries" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/26/obituaries/26richards.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842978"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="biographical_categories">Medicine and Health</classifier>
+        <classifier class="indexing_service" type="names">Dr. James R. Richards</classifier>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+        <classifier class="online_producer" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="descriptor">Veterinary Medicine</classifier>
+        <classifier class="online_producer" type="descriptor">Cats</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Veterinary Medicine</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cats</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070426T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9802E4DE153EF935A15757C0A9619C8B63" item-length="450" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>James Richards, Veterinarian And Expert on Cat Care, 58</hl1>
+        <hl2 class="online_headline">James Richards, Veterinarian and Expert on Cat Care, Dies at 58</hl2>
+      </hedline>
+      <byline class="print_byline">By MARGALIT FOX</byline>
+      <byline class="normalized_byline">Fox, Margalit</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Dr. James R. Richards, a prominent veterinarian who was a recognized authority on cat care, died on Tuesday in Johnson City, N.Y. He was 58 and lived in Dryden, N.Y.</p>
+        <p>Dr. Richards died of injuries he sustained in a motorcycle accident on Sunday. According to Sgt. Kelly Daley of the New York State Police, he was thrown from his motorcycle after he tried without success to avoid hitting a cat that had run into the road.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Dr. Richards was a prominent veterinarian who was a recognized authority on cat care.</p>
+      </block>
+      <block class="full_text">
+        <p>Dr. James R. Richards, a prominent veterinarian who was a recognized authority on cat care, died on Tuesday in Johnson City, N.Y. He was 58 and lived in Dryden, N.Y.</p>
+        <p>Dr. Richards died of injuries he sustained in a motorcycle accident on Sunday. According to Sgt. Kelly Daley of the New York State Police, he was thrown from his motorcycle after he tried without success to avoid hitting a cat that had run into the road.</p>
+        <p>At his death, Dr. Richards was the director of the Feline Health Center of the Cornell University College of Veterinary Medicine, a leading center for feline medical research and treatment.</p>
+        <p>A past president of the American Association of Feline Practitioners, Dr. Richards lectured to cat owners' clubs around the country and was often consulted by the news media. He appeared frequently on television, where he might be seen soothing his charges as they squirmed in his arms.</p>
+        <p>He was known in particular for educating veterinarians and the public after cancerous growths called sarcomas began to be observed in the 1990s on the skin of some newly vaccinated cats. Under Dr. Richards, the feline center embarked on a study of vaccine-related sarcomas, their causes and possible remedies.</p>
+        <p>Dr. Richards was the author of the ''ASPCA Complete Guide to Cats'' (Chronicle Books, 1999); an editor of ''The Well-Behaved Cat: How to Change Your Cat's Bad Habits'' (Englander Communications, 2001); and the consulting editor for the second edition of ''The Cornell Book of Cats,'' published by Villard in 1997.</p>
+        <p>He was also the editor in chief of CatWatch, a monthly newsletter published by the Cornell veterinary school, for which he wrote a column, ''Ask Dr. Richards.''</p>
+        <p>James Robert Richards was born on July 19, 1948, in Richmond, Ind. He grew up on a farm in Preble County, Ohio, in an area so rural there were no children his age nearby. Cats, he often said, were his first friends. He earned a bachelor's degree in mathematics from Berea College in 1970, followed by a veterinary degree from Ohio State University in 1979.</p>
+        <p>After practicing in small-animal clinics in Ohio, Dr. Richards joined Cornell's veterinary college in 1991. He became the director of the feline center in 1997. During his tenure, the center's other projects included research into feline cardiac disease and coronary thrombosis, work on improving methods of diagnosing hyperthyroidism in cats and efforts to conserve endangered members of the cat family around the world.</p>
+        <p>Dr. Richards is survived by his wife, Anita Fox Richards; his mother, Marion Todd Richards of Ithaca, N.Y.; and two sons, Jesse and Seth.</p>
+        <p>He had one cat, the number some experts consider ideal for this most self-contained of creatures.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

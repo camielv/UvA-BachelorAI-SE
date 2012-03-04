@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; Rome Plans a 'New Louvre'</title>
+    <meta content="20arts-2" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1841613"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Italy</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Italy</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Italy/Rome</classifier>
+        <classifier class="online_producer" type="general_descriptor">Museums</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070420T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E1D71F3FF933A15757C0A9619C8B63" item-length="194" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; Rome Plans a 'New Louvre'</hl1>
+      </hedline>
+      <byline class="print_byline">By ELISABETTA POVOLEDO; Compiled by Lawrence Van Gelder</byline>
+      <byline class="normalized_byline">Povoledo, Elisabetta</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Rome's ancient past is about to get a modern-day shake-up through a reorganization of existing and new museums that will sprawl through the historic center, the city's mayor said. ''It's as though we were creating a new Louvre,'' Walter Veltroni, the mayor of Rome, told reporters after the project was approved by City Hall on Wednesday. With the Capitoline Museums at its core, a new cultural park nicknamed the Grande Campidoglio, or Great Capitol, will include several new exhibition spaces. Among them are the Museum of the Imperial Forums, which is to open in October inside the recently refurbished Trajan's Markets. The museum will exhibit artifacts found during recent digs in the Forums. In coming months, a municipal building next to the Circus Maximus is to be emptied of civil servants to make room for the Great Museum of Roman History. It will house the Museum of Roman Civilization, currently in an out-of-the-way Roman suburb, as well as the new multimedia Museum of the Ancient City of Rome. ''The idea is to increase the archaeological and cultural offerings of the city,'' Mr. Veltroni said.</p>
+        <p>ELISABETTA POVOLEDO</p>
+      </block>
+      <block class="full_text">
+        <p>Rome's ancient past is about to get a modern-day shake-up through a reorganization of existing and new museums that will sprawl through the historic center, the city's mayor said. ''It's as though we were creating a new Louvre,'' Walter Veltroni, the mayor of Rome, told reporters after the project was approved by City Hall on Wednesday. With the Capitoline Museums at its core, a new cultural park nicknamed the Grande Campidoglio, or Great Capitol, will include several new exhibition spaces. Among them are the Museum of the Imperial Forums, which is to open in October inside the recently refurbished Trajan's Markets. The museum will exhibit artifacts found during recent digs in the Forums. In coming months, a municipal building next to the Circus Maximus is to be emptied of civil servants to make room for the Great Museum of Roman History. It will house the Museum of Roman Civilization, currently in an out-of-the-way Roman suburb, as well as the new multimedia Museum of the Ancient City of Rome. ''The idea is to increase the archaeological and cultural offerings of the city,'' Mr. Veltroni said.</p>
+        <p>ELISABETTA POVOLEDO</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

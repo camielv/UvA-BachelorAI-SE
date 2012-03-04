@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A CONVERSATION WITH MAYOR VILLARAIGOSA</title>
+    <meta content="02villaraigosa" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837555"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070402T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE7D71E30F931A35757C0A9619C8B63" item-length="101" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A CONVERSATION WITH MAYOR VILLARAIGOSA</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Calvin Sims of The New York Times talks with Mayor Antonio R. Villaraigosa of Los Angeles about his political goals, the city's racial tensions and the lingering question of which is better: New York or Los Angeles.</p>
+        <p>On being the first Latino mayor of Los Angeles in more than a century: ''It says a lot more about the people of Los Angeles than it does about me.''</p>
+        <p>On Los Angeles as the gang capital of the United States: ''We have 9,400 police officers for four million people, 456 square miles of city.''</p>
+        <p>The complete video interview:  nytimes.com/conversation</p>
+      </block>
+      <block class="full_text">
+        <p>Calvin Sims of The New York Times talks with Mayor Antonio R. Villaraigosa of Los Angeles about his political goals, the city's racial tensions and the lingering question of which is better: New York or Los Angeles.</p>
+        <p>On being the first Latino mayor of Los Angeles in more than a century: ''It says a lot more about the people of Los Angeles than it does about me.''</p>
+        <p>On Los Angeles as the gang capital of the United States: ''We have 9,400 police officers for four million people, 456 square miles of city.''</p>
+        <p>The complete video interview:  nytimes.com/conversation</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

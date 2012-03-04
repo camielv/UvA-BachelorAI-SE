@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Plot Against Medicare</title>
+    <meta content="20krugman" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health; Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/20/opinion/20krugman.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1841591"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Op-Ed Columnist"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists/Paul Krugman</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Health Insurance and Managed Care</classifier>
+        <classifier class="online_producer" type="descriptor">Health Insurance and Managed Care</classifier>
+        <classifier class="online_producer" type="descriptor">Medicare</classifier>
+        <classifier class="online_producer" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="descriptor">Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicare</classifier>
+        <classifier class="online_producer" type="general_descriptor">Health Insurance and Managed Care</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <org class="online_producer">Senate</org>
+        <org class="online_producer">House of Representatives</org>
+        <org class="online_producer">National Assn for the Advancement of Colored People</org>
+        <org class="online_producer">League of United Latin American Citizens</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070420T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B03E7D71F3FF933A15757C0A9619C8B63" item-length="732" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Plot Against Medicare</hl1>
+        <hl2 class="online_headline">The Plot Against Medicare</hl2>
+      </hedline>
+      <byline class="print_byline">By PAUL KRUGMAN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The plot against Social Security failed: President Bush's attempt to privatize the system crashed and burned when the public realized what he was up to. But the plot against Medicare is faring better: the stealth privatization embedded in the Medicare Modernization Act, which Congress literally passed in the dead of night back in 2003, is proceeding apace.</p>
+        <p>Worse yet, the forces behind privatization not only continue to have the G.O.P. in their pocket, but they have also been finding useful idiots within the newly powerful Democratic coalition. And it's not just politicians with an eye on campaign contributions. There's no nice way to say it: the NAACP and the League of United Latin American Citizens have become patsies for the insurance industry.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Even as we talk about guaranteeing insurance to all, privatization is undermining Medicare.</p>
+      </block>
+      <block class="full_text">
+        <p>The plot against Social Security failed: President Bush's attempt to privatize the system crashed and burned when the public realized what he was up to. But the plot against Medicare is faring better: the stealth privatization embedded in the Medicare Modernization Act, which Congress literally passed in the dead of night back in 2003, is proceeding apace.</p>
+        <p>Worse yet, the forces behind privatization not only continue to have the G.O.P. in their pocket, but they have also been finding useful idiots within the newly powerful Democratic coalition. And it's not just politicians with an eye on campaign contributions. There's no nice way to say it: the NAACP and the League of United Latin American Citizens have become patsies for the insurance industry.</p>
+        <p>To appreciate what's going on, you need to know what has been happening to Medicare in the last few years.</p>
+        <p>The 2003 Medicare legislation created Part D, the drug benefit for seniors -- but unlike the rest of Medicare, Part D isn't provided directly by the government. Instead, you can get it only through a private drug plan, provided by an insurance company. At the same time, the bill sharply increased payments to Medicare Advantage plans, which also funnel Medicare funds through insurance companies.</p>
+        <p>As a result, Medicare -- originally a system in which the government paid people's medical bills -- is becoming, instead, a system in which the government pays the insurance industry to provide coverage. And a lot of the money never makes it to the people Medicare is supposed to help.</p>
+        <p>In the case of the drug benefit, the private drug plans add an extra, costly layer of bureaucracy. Worse yet, they have much less ability to bargain for lower drug prices than government programs like Medicaid and the Veterans Health Administration. Reasonable estimates suggest that if Congress had eliminated the middlemen, it could have created a much better drug plan -- one without the notorious ''doughnut hole,'' the gap in coverage once your annual expenses exceed $2,400 per year -- at no higher cost.</p>
+        <p>Meanwhile, those Medicare Advantage plans cost taxpayers 12 percent more per recipient than standard Medicare. In the next five years that subsidy will cost more than $50 billion -- about what it would cost to provide all children in America with health insurance. Some of that $50 billion will be passed on to seniors in extra benefits, but a lot of it will go to overhead, marketing expenses and profits.</p>
+        <p>With the Democratic victory last fall, you might have expected these things to change. But the political news over the last few days has been grim.</p>
+        <p>First, the Senate failed to end debate on a bill -- in effect, killing it -- that would have allowed Medicare to negotiate over drug prices. The bill was too weak to have allowed Medicare to get large discounts. Still, it would at least have established the principle of using government bargaining power to get a better deal. But in spite of overwhelming public support for price negotiation, 42 senators, all Republicans, voted no on allowing the bill to go forward.</p>
+        <p>If we can't even establish the principle of negotiation, a true repair of the damage done in 2003 -- which would require having Medicare offer seniors the option of getting their drug coverage directly, without involving the insurance companies -- seems politically far out of reach.</p>
+        <p>At the same time, attempts to rein in those Medicare Advantage payments seem to be running aground. Everyone knew that reducing payments would be politically tough. What comes as a bitter surprise is the fact that minority advocacy groups are now part of the problem, with both the NAACP and the League of United Latin American Citizens sending letters to Congressional leaders opposing plans to scale back the subsidy.</p>
+        <p>What seems to have happened is that both groups have been taken in by insurance industry disinformation, which falsely claims that minorities benefit disproportionately from this subsidy. It's a claim that has been thoroughly debunked in a study by the Center on Budget and Policy Priorities -- but apparently the truth isn't getting through.</p>
+        <p>Public opinion is strongly in favor of universal health care, and for good reason: fear of losing health insurance has become a constant anxiety of the middle class. Yet even as we talk about guaranteeing insurance to all, privatization is undermining Medicare -- and people who should know better are aiding and abetting the process.</p>
+        <p>Op-Ed Columnist</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New Appointments at the Times Company</title>
+    <meta content="14times" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/14/business/media/14times.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840108"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <classifier class="indexing_service" type="descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="indexing_service" type="descriptor">Newspapers</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Advertising and Marketing</classifier>
+        <org class="indexing_service">New York Times</org>
+        <person class="indexing_service">Haskell, Todd</person>
+        <person class="indexing_service">Fabrizio, Louis</person>
+        <person class="indexing_service">Garnock, Brian</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Executive</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Executives and Management</classifier>
+        <classifier class="online_producer" type="general_descriptor">Executives and Management</classifier>
+        <classifier class="online_producer" type="general_descriptor">Newspapers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+        <org class="online_producer">New York Times</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070414T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E2DE103FF937A25757C0A9619C8B63" item-length="241" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New Appointments at the Times Company</hl1>
+        <hl2 class="online_headline">New Appointments at the Times Company</hl2>
+      </hedline>
+      <abstract>
+        <p>New York Times Co announces that Todd Haskell, vice president for business development for media group, will take on added responsibility of advertising on New York Times Web site; advertising group directors--Louis Fabrizio and Brian Garnock--are named vice presidents, advertising (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The New York Times Company announced yesterday that Todd Haskell, the vice president for business development for the media group, will take on the added responsibility of advertising on The New York Times Web site.</p>
+        <p>Mr. Haskell, 38, will oversee sales and advertising for nytimes.com and will play a crucial role in helping the company expand its digital advertising as it seeks more revenue from nonprint sources. He will report to Denise F. Warren, a senior vice president and chief advertising officer for The New York Times Media Group.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Todd Haskell, the vice president for business development for the media group, will take on the added responsibility of advertising on The New York Times Web site.</p>
+      </block>
+      <block class="full_text">
+        <p>The New York Times Company announced yesterday that Todd Haskell, the vice president for business development for the media group, will take on the added responsibility of advertising on The New York Times Web site.</p>
+        <p>Mr. Haskell, 38, will oversee sales and advertising for nytimes.com and will play a crucial role in helping the company expand its digital advertising as it seeks more revenue from nonprint sources. He will report to Denise F. Warren, a senior vice president and chief advertising officer for The New York Times Media Group.</p>
+        <p>He became vice president for business development in December 2005. Previously, he was executive director for business development at The Times newspaper. From 1994 to 2004 he held various positions at the Meredith Corporation.</p>
+        <p>Also yesterday, the Times company said that two advertising group directors -- Louis Fabrizio and Brian Garnock -- have each been named vice president, advertising.</p>
+        <p>All changes are effective immediately.</p>
+        <p>Mr. Fabrizio will be responsible for managing advertising sales in hotels, transportation, pharmaceuticals, hospitals, alcoholic beverages and packaged goods. Mr. Garnock will handle technology and telecommunications advertising sales.</p>
+        <p>Mr. Garnock, 32, who began his career at The Times Company in 1997, was named an advertising group director in 2006 after having served as an account manager and a managing director of technology advertising. Mr. Fabrizio, 53, began his career at the company in 1979, becoming a group director in 2006 after holding several positions at The Santa Rosa Press Democrat.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

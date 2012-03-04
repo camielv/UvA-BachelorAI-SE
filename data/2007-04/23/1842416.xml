@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New Measures of Poverty</title>
+    <meta content="l23poverty" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1842416"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">United States Economy</classifier>
+        <classifier class="indexing_service" type="descriptor">Income</classifier>
+        <org class="indexing_service">Census Bureau</org>
+        <org class="indexing_service">National Center for Children in Poverty</org>
+        <person class="indexing_service">Cauthen, Nancy K</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Income</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Economy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070423T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402E5D9173EF930A15757C0A9619C8B63" item-length="176" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New Measures of Poverty</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Nancy K Cauthen (National Center for Children in Poverty) says even if Census Bureau adopts more realistic measure of poverty, it will still be measure of deprivation rather than minimal decent standard (April 17 editorial)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>We applaud you for urging the Census Bureau to adopt a more realistic measure of poverty in ''Counting the Poor'' (editorial, April 17).</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>We applaud you for urging the Census Bureau to adopt a more realistic measure of poverty in ''Counting the Poor'' (editorial, April 17).</p>
+        <p>The alternative recommended by the National Academy of Sciences would be a vast improvement, but even this measure grossly underestimates ''the extent to which the poor cannot afford the requisites of modern life.''</p>
+        <p>Our research shows that on average, families need an income of about twice the federal poverty level, or roughly $40,000 for a family of four, to meet basic needs. In a high-cost city like New York the figure is over $50,000, whereas in the rural South the figure is in the low thirty-thousands.</p>
+        <p>Even if the recommendation is adopted, leading to a poverty threshold of $22,841 for a family of four, the official poverty measure will still be a measure of deprivation and severe hardship rather than a minimal, decent standard below which no one should fall.</p>
+        <p>Nancy K. Cauthen  Deputy Director  National Center for Children  in Poverty, Columbia University  New York, April 17, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

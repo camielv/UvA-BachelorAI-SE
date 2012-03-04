@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Prison Horrors for the Mentally Ill</title>
+    <meta content="23mon3" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health; Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/23/opinion/23mon3.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842411"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="descriptor">Prisons and Prisoners</classifier>
+        <classifier class="online_producer" type="descriptor">Mental Health and Disorders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prisons and Prisoners</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mental Health and Disorders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <location class="online_producer">New York State</location>
+        <person class="online_producer">Spitzer, Eliot L</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070423T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B07E5D9173EF930A15757C0A9619C8B63" item-length="289" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Prison Horrors for the Mentally Ill</hl1>
+        <hl2 class="online_headline">Prison Horrors for the Mentally Ill</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The State of New York took a step toward basic human decency when it agreed to settle a lawsuit brought on behalf of mentally ill prisoners, who often endure horrific neglect and mistreatment. The settlement, which must be approved by the courts, provides for a range of welcome changes, including better care and monitoring for the severely ill people being held in solitary confinement or disciplinary lockdown, typically for 23 hours a day.</p>
+        <p>It still falls far short of what's needed and is not a substitute for the sweeping reforms vetoed by former Gov. George Pataki last year. The Legislature should pass that bill again and Gov. Eliot Spitzer should promptly sign it. Maltreatment of mentally ill prisoners is a national shame. People who suffer from delusions and hallucinations are far more likely than non-disabled prisoners to break rules. When they are confined in their cells, their symptoms worsen. All too often they harm themselves.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The State of New York took a step toward basic human decency when it agreed to settle a lawsuit brought on behalf of mentally ill prisoners.</p>
+      </block>
+      <block class="full_text">
+        <p>The State of New York took a step toward basic human decency when it agreed to settle a lawsuit brought on behalf of mentally ill prisoners, who often endure horrific neglect and mistreatment. The settlement, which must be approved by the courts, provides for a range of welcome changes, including better care and monitoring for the severely ill people being held in solitary confinement or disciplinary lockdown, typically for 23 hours a day.</p>
+        <p>It still falls far short of what's needed and is not a substitute for the sweeping reforms vetoed by former Gov. George Pataki last year. The Legislature should pass that bill again and Gov. Eliot Spitzer should promptly sign it. Maltreatment of mentally ill prisoners is a national shame. People who suffer from delusions and hallucinations are far more likely than non-disabled prisoners to break rules. When they are confined in their cells, their symptoms worsen. All too often they harm themselves.</p>
+        <p>A 2003 study found that nearly a quarter of the inmates in lockdown were mentally ill. Of those, nearly 45 percent reported that they had tried suicide and nearly a third reported self-mutilation. The settlement provides slightly better treatment and better suicide prevention in lockdown. But the basic problem is that severely ill inmates should not be held in lockdown at all.</p>
+        <p>The mental health bill would ban disciplinary confinement for the seriously mentally ill. It would also require the prison system to expand treatment programs and give mental health professionals more influence in deciding treatment options. The measure would more than pay for itself by reducing danger and disorder behind bars, shortening prison stays for the mentally ill and increasing the likelihood that they would manage to stay out once they are released.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

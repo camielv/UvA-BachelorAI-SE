@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Silicon Valley Moneymen Make a Play For Airwaves</title>
+    <meta content="09spectrum" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/09/technology/09spectrum.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1839129"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/John Markoff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="descriptor">Radio</classifier>
+        <classifier class="online_producer" type="descriptor">Wireless Communications</classifier>
+        <classifier class="online_producer" type="descriptor">Television</classifier>
+        <classifier class="online_producer" type="descriptor">Wire and Cable</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cellular Telephones</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wire and Cable</classifier>
+        <classifier class="online_producer" type="general_descriptor">Radio</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+        <org class="online_producer">Federal Communications Commission</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070409T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E4D7143FF93AA35757C0A9619C8B63" item-length="934" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Silicon Valley Moneymen Make a Play For Airwaves</hl1>
+        <hl2 class="online_headline">Silicon Valley Moneymen Make a Play for Airwaves</hl2>
+      </hedline>
+      <byline class="print_byline">By JOHN MARKOFF</byline>
+      <byline class="normalized_byline">Markoff, John</byline>
+      <dateline>SAN FRANCISCO, April 8</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Some of Silicon Valley's most powerful venture capitalists and technology investors have joined an investment group that is preparing to challenge cellphone carriers, cable and satellite companies for valuable radio spectrum that will be freed when television broadcasters convert to digital signals.</p>
+        <p>The government mandated the transition to digital, to be completed by Feb. 19, 2009, so it could reclaim a broad swath of radio spectrum and reallocate the frequencies to public safety organizations and commercial broadband networks.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>An investment group is preparing to compete for the valuable radio spectrum that will be freed when broadcasters convert to digital signals.</p>
+      </block>
+      <block class="full_text">
+        <p>Some of Silicon Valley's most powerful venture capitalists and technology investors have joined an investment group that is preparing to challenge cellphone carriers, cable and satellite companies for valuable radio spectrum that will be freed when television broadcasters convert to digital signals.</p>
+        <p>The government mandated the transition to digital, to be completed by Feb. 19, 2009, so it could reclaim a broad swath of radio spectrum and reallocate the frequencies to public safety organizations and commercial broadband networks.</p>
+        <p>The venture capitalists L. John Doerr and James L. Barksdale have joined an investment group that is promoting a plan that would open a portion of the radio spectrum for both uses, through technologies flexible enough to support both next-generation wireless Internet devices and public safety emergency communications.</p>
+        <p>The plan is being put forth by Frontline Wireless, formed earlier this year by Reed E. Hundt, the former Federal Communications Commission chairman. Frontline Wireless is one of several potential bidders for spectrum in the 700 MHz band, used until now by UHF television, that is being opened up by the move to digital.</p>
+        <p>Mr. Hundt said that Frontline had begun building an investor group, which would ultimately include large banking partners, to participate in the auction. Significantly, the company's first public investor was K. Ram Shriram, an early Google investor and board member and managing partner of Sherpalo Ventures.</p>
+        <p>Cellular carriers and their rivals covet the spectrum because it has significant capacity and greater range and can easily penetrate buildings and other structures.</p>
+        <p>But Frontline's backers argue that their plan is unique because it would be more accessible than today's commercial wireless networks, which are tightly controlled by their licensed operators. The auction, which will be governed by rules that the F.C.C. is expected to issue this month, could generate up to $30 billion in revenue for the federal government, by some estimates.</p>
+        <p>The F.C.C. has a range of options to consider, including breaking the spectrum up for regional purchases or creating a single nationwide license.</p>
+        <p>The rule-making process is being watched closely by all sides because those regulations will determine whether several ideas for exploiting the spectrum with advanced technologies will be accepted.</p>
+        <p>The Frontline proposal, for example, calls for flexible access by public safety agencies to a wide section of spectrum in the event of emergencies. That makes it significant that Vanu Bose, an entrepreneur and technologist, is investing in the consortium along with Mr. Barksdale and Mr. Doerr, who were both involved in the creation of Netscape Communications, the pioneering Web browser company.</p>
+        <p>Mr. Bose, son of the audio designer Amar G. Bose, is pursuing an advanced radio technology known as software-defined radio, which controls frequencies through software rather than hardware.</p>
+        <p>In principle, this would permit much more efficient use of radio spectrum, allowing the sharing of frequencies through a variety of techniques .</p>
+        <p>Frontline proposes to create a large spectrum block that could be sold wholesale to companies that are building services for new portable Internet devices for receiving and transmitting voice, video and data. In the event of public safety emergencies, however, the spectrum could be reclaimed for use by the police, firefighters or medical emergency workers.</p>
+        <p>Mr. Doerr, who is a partner at Kleiner Perkins Caufield &amp; Byers, a leading Silicon Valley venture capital firm, has previously invested in M2Z Networks, another technology-based proposal to build a wireless broadband network that is being promoted by Milo Medin, a well-known Silicon Valley computer network designer, a potential competitor to Frontline with a different business strategy.</p>
+        <p>Along with Mr. Barksdale, the two men were partners in @Home, the early and ultimately financially unsuccessful effort to build a nationwide Internet-based network in alliance with cable companies.</p>
+        <p>''I think we're starved for spectrum for digital applications in this country,'' said Mr. Doerr. ''The idea that we can have one or more great new digital networks is very exciting.''</p>
+        <p>He noted that the United States was ranked 12th in the world last year in broadband penetration by the Organization for Economic Cooperation and Development.</p>
+        <p>Mr. Hundt said that Mr. Barksdale was an important addition for the Frontline group because he had been working on public safety issues and his background was in the cellular telephone industry. After Hurricane Katrina, he was appointed by Gov. Haley Barbour of Mississippi to lead the governor's commission on the recovery, rebuilding and renewal of the state.</p>
+        <p>Having Mr. Doerr and Mr. Barksdale as a part of his investment group is a bit like ''a reunion of Shaq and Kobe,'' said Mr. Hundt, referring to the basketball stars Shaquille O'Neal and Kobe Bryant, who once played together for the Los Angeles Lakers.</p>
+        <p>Last week, several trade publications reported that Kevin J. Martin, the F.C.C. chairman, was preparing to include the Frontline proposal, or something similar, in setting the guidelines for the auction. If that framework is announced this month, the auction could take place as early as this fall.</p>
+        <p>In anticipation of the F.C.C. ruling, a number of companies and industry associations have filed comments with the agency. Last week, Steve Largent, president of CTIA, a trade group for the wireless industry, questioned the legality of the Frontline proposal in a letter to Mr. Martin, while Google filed a letter supporting the Frontline proposal and urging the F.C.C. to avoid further delays in the auction process.</p>
+        <p>This year the F.C.C. rejected a competing plan put forward by Morgan O'Brien, founder of Nextel Communications. Called Cyren Call, it would have set a portion of the spectrum aside for a nonprofit organization, with priority for public service organizations in emergencies.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

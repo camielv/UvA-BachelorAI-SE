@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>An Artist Without Fear</title>
+    <meta content="01alsmail-6" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837168"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CLYFFORD STILL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Art</classifier>
+        <person class="indexing_service">Knox, Diane Still</person>
+        <person class="indexing_service">Still, Clyfford (1904-80)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E00E0DE1030F932A35757C0A9619C8B63" item-length="132" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>An Artist Without Fear</hl1>
+      </hedline>
+      <abstract>
+        <p>Diane Still Knox letter about Mar 18 article on artist Clyfford Still discusses incident in his childhood (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Unfurling the Hidden Work of a Lifetime'' by Steven Henry Madoff [March 18]:</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Unfurling the Hidden Work of a Lifetime'' by Steven Henry Madoff [March 18]:</p>
+        <p>As one of Still's daughters, I would like to clear up an anecdote recounted by Henry Hopkins, a former museum director. He said that Still was terrified when his father sent him into a well they were digging on a farm. Still was actually sent down to retrieve an unexploded stick of dynamite. Neither his father nor the two farmhands would do it. So, angered that his father would order him, his only son, to do this dangerous job, he got the dud. Still was never terrified of anything. The fact that he took on the New York art world is proof of his courage and determination.</p>
+        <p>Diane Still Knox  Walnut Creek, Calif.</p>
+        <p>CLYFFORD STILL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

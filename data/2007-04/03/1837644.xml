@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   ZIEMAN, ISAAC</title>
+    <meta content="dn040307" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837644"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">ZIEMAN, ISAAC</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070403T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E5D8153AF930A35757C0A9619C8B63" item-length="61" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   ZIEMAN, ISAAC</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ZIEMAN--Isaac. The community of West End Synagogue, a Reconstructionist Congregation, mourns the loss of this extraordinary man. He will always remain our finest exemplar of survival, with competence, compassion and humor intact. Our love to his family, especially his wife Ingeborg, whom we love almost as much as he did. Funeral at 9:30am on Thursday, at Plaza, 91st and Amsterdam.</p>
+      </block>
+      <block class="full_text">
+        <p>ZIEMAN--Isaac. The community of West End Synagogue, a Reconstructionist Congregation, mourns the loss of this extraordinary man. He will always remain our finest exemplar of survival, with competence, compassion and humor intact. Our love to his family, especially his wife Ingeborg, whom we love almost as much as he did. Funeral at 9:30am on Thursday, at Plaza, 91st and Amsterdam.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

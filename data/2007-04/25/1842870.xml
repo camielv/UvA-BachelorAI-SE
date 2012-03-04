@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; New Leader for Makeover Of Lincoln Center</title>
+    <meta content="25arts-4" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1842870"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070425T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D01E0D8143EF936A15757C0A9619C8B63" item-length="83" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; New Leader for Makeover Of Lincoln Center</hl1>
+      </hedline>
+      <byline class="print_byline">By ROBIN POGREBIN; Compiled by Lawrence Van Gelder</byline>
+      <byline class="normalized_byline">Pogrebin, Robin</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Lincoln Center named a new executive director of its development project yesterday. Beginning May 8, Ron Austin, a construction management specialist, will oversee the transformation of the campus, currently under way. Mr. Austin replaces Jerry Hastings, who resigned last month after less than a year in the job. As president of Vital Management Solutions, Mr. Austin has handled projects including the completion of construction on the Carnival Center for the Performing Arts in Miami.</p>
+        <p>ROBIN POGREBIN</p>
+      </block>
+      <block class="full_text">
+        <p>Lincoln Center named a new executive director of its development project yesterday. Beginning May 8, Ron Austin, a construction management specialist, will oversee the transformation of the campus, currently under way. Mr. Austin replaces Jerry Hastings, who resigned last month after less than a year in the job. As president of Vital Management Solutions, Mr. Austin has handled projects including the completion of construction on the Carnival Center for the Performing Arts in Miami.</p>
+        <p>ROBIN POGREBIN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

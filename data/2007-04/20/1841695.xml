@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Manhattan: Rape Suspect Identified</title>
+    <meta content="20mbrfs-1" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1841695"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Sex Crimes</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">Columbia University</org>
+        <person class="indexing_service">Roberts, William (Rape Suspect)</person>
+        <person class="indexing_service">Cathcart, Rebecca</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sex Crimes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070420T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9805E4DF163EF933A15757C0A9619C8B63" item-length="171" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Manhattan: Rape Suspect Identified</hl1>
+      </hedline>
+      <byline class="print_byline">By REBECCA CATHCART; Compiled by John Sullivan</byline>
+      <byline class="normalized_byline">Cathcart, Rebecca</byline>
+      <abstract>
+        <p>William Roberts is identified as suspect in rape of Columbia University graduate student on April 14; police photo is posted on fliers on campus and sent in e-mail messages to students, teachers, and staff; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The police last night released the name of a man suspected in the rape of a 23-year-old Columbia University graduate student over the weekend. The man, left, was identified as William Roberts, 30, and a police photo of him was posted on fliers on the Columbia campus, and sent in e-mail messages to students, teachers and staff members. Mr. Roberts was identified through investigative work and tips, the police said. They would not say if he had a criminal record, but The Associated Press reported that he had convictions for attempted murder and assault. On Saturday, the student was forced into her Hamilton Heights apartment by a man who had followed her from the elevator of her building, according to the police. He raped and assaulted her for the next 19 hours, and before leaving, tied her to a piece of furniture and set a fire, the police said. She managed to escape. The police ask anyone with information to call 1-800-577-TIPS (1-800-577-8477).</p>
+        <p>REBECCA CATHCART</p>
+      </block>
+      <block class="full_text">
+        <p>The police last night released the name of a man suspected in the rape of a 23-year-old Columbia University graduate student over the weekend. The man, left, was identified as William Roberts, 30, and a police photo of him was posted on fliers on the Columbia campus, and sent in e-mail messages to students, teachers and staff members. Mr. Roberts was identified through investigative work and tips, the police said. They would not say if he had a criminal record, but The Associated Press reported that he had convictions for attempted murder and assault. On Saturday, the student was forced into her Hamilton Heights apartment by a man who had followed her from the elevator of her building, according to the police. He raped and assaulted her for the next 19 hours, and before leaving, tied her to a piece of furniture and set a fire, the police said. She managed to escape. The police ask anyone with information to call 1-800-577-TIPS (1-800-577-8477).</p>
+        <p>REBECCA CATHCART</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

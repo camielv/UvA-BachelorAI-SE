@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Budget Hotel Chain Packs A Lot Into a Small Space</title>
+    <meta content="22transhotel" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Travel" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/22/travel/22transhotel.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1841940"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="IN TRANSIT"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Hotels and Motels</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <location class="indexing_service">Amsterdam (Netherlands)</location>
+        <org class="indexing_service">Qbic (Hotel Chain)</org>
+        <person class="indexing_service">Conlin, Jennifer</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Netherlands/Amsterdam</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Netherlands</classifier>
+        <classifier class="online_producer" type="descriptor">Travel and Vacations</classifier>
+        <classifier class="online_producer" type="descriptor">Hotels and Motels</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hotels and Motels</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+        <location class="online_producer">Amsterdam (Netherlands)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05E1DA113FF931A15757C0A9619C8B63" item-length="240" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Budget Hotel Chain Packs A Lot Into a Small Space</hl1>
+        <hl2 class="online_headline">Budget Hotel Chain Packs a Lot Into a Small Space</hl2>
+      </hedline>
+      <byline class="print_byline">By Jennifer Conlin</byline>
+      <byline class="normalized_byline">Conlin, Jennifer</byline>
+      <abstract>
+        <p>Qbic, new chain of high-tech, low-budget hotels, is set to open its first hotel in May, in Amsterdam; key element is pre-assembled living pod called Cubi and rates will start at 39 euros (about $53) (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It might seem impossible to fit an extra long bed, a living area and work desk, and a Philippe Starck bathroom into a 75-square-foot space, but that is exactly what the owners of a new chain of high-tech, low-budget hotels have done. They are banking that Qbic, whose first hotel opens in Amsterdam next month, will be the next accommodation craze to sweep Europe.</p>
+        <p>The key element in the Qbic hotel room is a living pod called the Cubi. The Cubi, which fits into a room that is at least 260 square feet, is completely self contained. In addition to the bed and rain shower, there is a flat-screen TV, audio, high-speed Internet access and mood lighting. The pod is pre-assembled and all the elements are built in.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Qbic, hotels with living pods called the Cubi, might be the next accommodation craze to sweep Europe.</p>
+      </block>
+      <block class="full_text">
+        <p>It might seem impossible to fit an extra long bed, a living area and work desk, and a Philippe Starck bathroom into a 75-square-foot space, but that is exactly what the owners of a new chain of high-tech, low-budget hotels have done. They are banking that Qbic, whose first hotel opens in Amsterdam next month, will be the next accommodation craze to sweep Europe.</p>
+        <p>The key element in the Qbic hotel room is a living pod called the Cubi. The Cubi, which fits into a room that is at least 260 square feet, is completely self contained. In addition to the bed and rain shower, there is a flat-screen TV, audio, high-speed Internet access and mood lighting. The pod is pre-assembled and all the elements are built in.</p>
+        <p>''You just have to plug it into an electric outlet and hook it up to a pump,'' for the plumbing, said Rino Soeters, one of the company's owners.</p>
+        <p>Guest will check in and receive their room key from a self-service terminal, learn about local restaurants and events at an electronic kiosk in the lobby, and get locally made food items and other supplies from vending machines. Most important, the rooms will be cheap, with rates starting at 39 euros, or about $53 at $1.36 to the euro.</p>
+        <p>Qbic plans to open hotels in Antwerp and Maastricht by the end of the year. More details can be found at www.qbichotels.com.</p>
+        <p>IN TRANSIT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

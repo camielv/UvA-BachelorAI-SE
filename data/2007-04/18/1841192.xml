@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>I.B.M. Profit Is Up, Despite Slow U.S. Sales</title>
+    <meta content="18blue" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/18/technology/18blue.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1841192"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Company Reports</classifier>
+        <classifier class="indexing_service" type="descriptor">Company Reports</classifier>
+        <org class="indexing_service">International Business Machines Corp</org>
+        <org class="indexing_service">Emc Corp</org>
+        <person class="indexing_service">Lohr, Steve</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+        <org class="online_producer">International Business Machines Corp</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070418T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE7DB1E3FF93BA25757C0A9619C8B63" item-length="745" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>I.B.M. Profit Is Up, Despite Slow U.S. Sales</hl1>
+        <hl2 class="online_headline">I.B.M. Profit Is Up, Despite Slow U.S. Sales</hl2>
+      </hedline>
+      <byline class="print_byline">By STEVE LOHR</byline>
+      <byline class="normalized_byline">Lohr, Steve</byline>
+      <abstract>
+        <p>IBM reports solid gains in quarterly profit and modest growth in revenue, as company's strategic shift toward higher-margin software and services makes gradual progress; sales in Americas grew only 1 percent, to $9.1 billion; quarterly revenue rose 7 percent, to $22 billion, but increase was only 4 percent in constant currency after adjusting for weakness of dollar; EMC reports its quarterly revenue rose 17 percent, to $2.98 billion, and its earnings rose 36 percent (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>I.B.M. reported solid gains in quarterly profit and modest growth in revenue yesterday, as the company's strategic shift toward higher-margin software and services makes gradual progress.</p>
+        <p>The largest information technology services company, International Business Machines is also a major global supplier of software and hardware to corporations. So its results are closely watched as a barometer of corporate spending on technology.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The company’s strategic shift toward higher-margin software and services is making gradual progress.</p>
+      </block>
+      <block class="full_text">
+        <p>I.B.M. reported solid gains in quarterly profit and modest growth in revenue yesterday, as the company's strategic shift toward higher-margin software and services makes gradual progress.</p>
+        <p>The largest information technology services company, International Business Machines is also a major global supplier of software and hardware to corporations. So its results are closely watched as a barometer of corporate spending on technology.</p>
+        <p>The results paint a picture of dynamic markets in the Asia-Pacific region, notably China and India; a rebound in Europe, with the big German market especially strong; a continuing recovery in Japan; and sluggishness in the United States.</p>
+        <p>Sales in the Americas grew only 1 percent, to $9.1 billion. Within that geographic market, which is the company's largest, business in Canada and South America held up fairly well, but the United States was the source of weakness.</p>
+        <p>In a conference call yesterday afternoon, Mark Loughridge, I.B.M.'s chief financial officer, said the falloff in the United States was most pronounced in March, particularly among large corporations.</p>
+        <p>Based on customer prospects and field reports, Mr. Loughridge expressed confidence that I.B.M. would see ''some improvement'' in the current quarter in the United States.</p>
+        <p>Still, at a time when economists are concerned about whether softness in business investment will slow the American economy this year, the I.B.M. results suggest there is cause for concern.</p>
+        <p>''The one surprise here was the weakness in the U.S.,'' said David Grossman, an analyst at Thomas Weisel Partners in San Francisco.</p>
+        <p>I.B.M. shares closed slightly higher, up 94 cents at $97.12 a share. In after-hours trading, shares slipped 63 cents, to $96.49. In contrast to the sluggish performance in the United States, the company's sales in China rose 31 percent from a year ago, and sales in India increased 24 percent.</p>
+        <p>I.B.M.'s quarterly revenue rose 7 percent, to $22 billion, but the increase was only 4 percent in constant currency after adjusting for the weakness of the dollar. Earnings per share rose 12 percent, to $1.21.</p>
+        <p>That performance matched the consensus estimates of Wall Street analysts for profit and slightly exceeded their projections for revenue, as compiled by Thomson Financial.</p>
+        <p>The company's global services business grew by 8 percent, to $12.4 billion. Within the overall services business, the unit that handles high-end consulting work -- helping companies use technology to streamline their procurement, manufacturing and marketing -- grew 9 percent, to $4.2 billion.</p>
+        <p>Profit margins in that unit, called global business services, have improved for eight consecutive quarters to 10.5 percent, or 2 percentage points higher than a year ago.</p>
+        <p>That is crucial to I.B.M.'s strategy to move further up the ladder in the services business to work that requires more specialized skills.</p>
+        <p>Revenue at I.B.M.'s other services unit, which includes managing data centers for corporate customers and maintenance, rose 7 percent, to $8.3 billion, but its profit margins fell 2.5 percentage points in the past year, to 7.8 percent, which the company attributed to high costs in the United States.</p>
+        <p>I.B.M.'s big services business is under pressure from rivals, especially Indian outsourcing specialists, who contend that they will do to the technology services industry what the Japanese did in autos: compete first on price and later with superior quality and products.</p>
+        <p>Though far smaller than I.B.M., the Indian services companies are growing rapidly. Within the last few days, Tata Consultancy Services and Infosys, for example, each reported that its most recent quarterly revenue rose more than 40 percent from the year-earlier quarter.</p>
+        <p>I.B.M.'s software sales rose 9 percent, to $4.3 billion, helped by particularly strong growth products like its Websphere line, which uses Internet software standards to link a company's programs, and its Tivoli data center management software.</p>
+        <p>Hardware revenue increased only 2 percent, to $4.5 billion. Within the division, results were mixed. Mainframe sales increased 12 percent and big Unix server computers rose 14 percent, but minicomputer sales fell 13 percent.</p>
+        <p>I.B.M.'s computer chip business fell 7 percent from a year ago, but the company said that was mainly because last year was a peak period of demand for video-game chips used in the Microsoft Xbox, the Sony PlayStation and the Nintendo Wii machines in the long run-up to product introductions last holiday season.</p>
+        <p>The company's storage systems business was also a disappointment, with sales falling 1 percent. Earlier yesterday, EMC, the leader in storage systems, reported that its quarterly revenue rose 17 percent, to $2.98 billion, and its earnings per share rose 36 percent, to 15 cents a share.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

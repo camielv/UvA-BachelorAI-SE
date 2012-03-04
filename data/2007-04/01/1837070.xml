@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Printed Matter</title>
+    <meta content="04remix.prototyping.t" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="T: Design Magazine" name="dsk"/>
+    <meta content="50" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Arts; Style; Magazine" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/01/style/tmagazine/04remix.prototyping.t.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837070"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="The Remix"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/T: Style Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="descriptor">Trade Shows and Fairs</classifier>
+        <classifier class="online_producer" type="descriptor">Furniture</classifier>
+        <classifier class="online_producer" type="general_descriptor">Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Furniture</classifier>
+        <classifier class="online_producer" type="general_descriptor">Three-Dimensional Devices</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Trade Shows and Fairs</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02EFDA1230F932A35757C0A9619C8B63" item-length="550" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Printed Matter</hl1>
+        <hl2 class="online_headline">Printed Matter</hl2>
+      </hedline>
+      <byline class="print_byline">By Sarah Verdone</byline>
+      <byline class="normalized_byline">Verdone, Sarah</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>One of the most astonishing pieces shown at the International Contemporary Furniture Fair last May was a folding stool by the designer Patrick Jouin called OneShot. Its spiral shape and creamy white polyamide material were beautiful in themselves. But that's not what made it so amazing. The stool, including all of its 36 hinges and 12 moving legs, is all of a single piece. And even more amazing still, it was neither carved nor molded. It was printed.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>What’s up with rapid protyping?</p>
+      </block>
+      <block class="full_text">
+        <p>One of the most astonishing pieces shown at the International Contemporary Furniture Fair last May was a folding stool by the designer Patrick Jouin called OneShot. Its spiral shape and creamy white polyamide material were beautiful in themselves. But that's not what made it so amazing. The stool, including all of its 36 hinges and 12 moving legs, is all of a single piece. And even more amazing still, it was neither carved nor molded. It was printed.</p>
+        <p>''Star Trek'' and ''The Matrix'' fans may have cut their teeth on this kind of story, but science has caught up with fiction. Rapid prototyping (RP), a computer-controlled process that ''prints'' objects in three dimensions, layer by exceedingly thin layer, is reshaping the design world as we know it.</p>
+        <p>Leading the way is Materialise.MGX, the boutique division of a large Belgian software development and manufacturing company, which produced OneShot as well as the other designs shown on this page. The company has been commissioning designers like Scott Croyle of One &amp; Co, Ross Lovegrove and Future Systems' Amanda Levete to create stylish objects using a process known mostly for turning out things like dashboards and dental implants.</p>
+        <p>RP comes under different aliases -- such as additive fabrication and 3-D printing -- and covers a spectrum of techniques, including stereolithography, which uses resin, and selective laser sintering, which employs powdered metal, ceramic or plastic. The common factor is that the process is one of adding material rather than taking it away, as a mill or lathe cuts wood.</p>
+        <p>All RP recipes begin with a 3-D image, drawn using computer-aided design software, magnetic resonance imaging or even the scanned image of an existing object. The digital information is translated into standard tessellation language, which breaks down the drawing into a pattern of triangles. The image is then sliced into hundreds or thousands of layers, which can be as thin as tissue paper (0.1 millimeters), and ''printed'' by specially designed machines.</p>
+        <p>It's possible that everyone will be able to print their own furniture at home in the not-so-distant future, but for now these machines are roughly the size of a Volkswagen Beetle and cost close to $1 million. But the beauty of all RP technology is that it creates curves as easily as straight lines, and since it builds layer by layer, hinges, gears and other moving parts can be baked right in. Look, Ma, no assembly required. No unsightly seams. No molds means that the same machine can make drawer pulls one day and lamps the next, and may usher in the era of ''mass customization,'' in which even objects produced in mass quantities can be tweaked to suit the tastes of individual customers.</p>
+        <p>This month Materialise.MGX will unveil its fourth annual collection of brave new objects, including Croyle's chain-link bowl and pendant. Each lamp, chair, pen or necklace comes with its own 3-D digital file. If you're not in the market, you can see objects from previous collections in ''Digitally Mastered: Recent Acquisitions From the Museum's Collection'' at the Museum of Modern Art. In the design world -- where the pace of technological innovation has been relatively slow and most furniture is made more or less the way it was 50 years ago -- these objects offer a glimpse of a revolutionary future.</p>
+        <p>Sarah Verdone</p>
+        <p>The Remix</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

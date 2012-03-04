@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Treasury Auctions Scheduled for This Week</title>
+    <meta content="02bonds" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/02/business/02bonds.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837509"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070402T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A02EED91E30F931A35757C0A9619C8B63" item-length="460" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Treasury Auctions Scheduled for This Week</hl1>
+        <hl2 class="online_headline">Treasury Auctions Scheduled for This Week</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Treasury's schedule of financing this week included today's regular weekly auction of new three- and six-month bills and an auction of four-week bills tomorrow.</p>
+        <p>According to traders, at the close of the New York cash market on Friday, the rate on the outstanding three-month bill was 5.03 percent. The rate on the six-month issue was 5.06 percent, and the rate on the four-week issue was 5.06 percent.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Treasury’s schedule of financing this week included today’s regular weekly auction of new three- and six-month bills and an auction of four-week bills tomorrow.</p>
+      </block>
+      <block class="full_text">
+        <p>The Treasury's schedule of financing this week included today's regular weekly auction of new three- and six-month bills and an auction of four-week bills tomorrow.</p>
+        <p>According to traders, at the close of the New York cash market on Friday, the rate on the outstanding three-month bill was 5.03 percent. The rate on the six-month issue was 5.06 percent, and the rate on the four-week issue was 5.06 percent.</p>
+        <p>The following tax-exempt fixed-income issues are scheduled for pricing this week:</p>
+        <p>TAX EXEMPT</p>
+        <p>TUESDAY</p>
+        <p>Nashville Metro Government, Tenn., $184.2 million of debt securities. Competitive.</p>
+        <p>WEDNESDAY</p>
+        <p>Fresno County, Calif., $55.8 million of debt securities. Competitive.</p>
+        <p>Georgia, $578.5 million of general obligation bonds. Competitive.</p>
+        <p>TAX EXEMPT</p>
+        <p>ONE DAY DURING THE WEEK</p>
+        <p>California Public Works, $325 million of debt securities. Merrill Lynch.</p>
+        <p>Catholic Health East, $330 million of debt securities for Georgia, Pennsylvania, New Jersey and Massachusetts. Merrill Lynch.</p>
+        <p>Chattanooga Industrial Development Board, Tennessee, $56.9 million of lease rental revenue refunding bonds. Morgan Keegan &amp; Co.</p>
+        <p>City of Garland Texas, $69 million of debt securities. Lehman Brothers.</p>
+        <p>Clark County, Nevada, Las Vegas-McCarran, $112 million of debt securities. Citigroup Global Markets.</p>
+        <p>Clark County, Nevada, Passenger Facility Charge, $103.7 million of debt securities. UBS Securities.</p>
+        <p>Henderson Health Care, Nevada, $110 million of debt securities for Catholic Health Care West. Citigroup Global Markets.</p>
+        <p>Hillsborough County, Florida School District, $84 million of certificates of participation. UBS Securities.</p>
+        <p>Independent School District of Glendale, Ariz., $65 million of debt securities for John C. Lincoln Hospital. Merrill Lynch.</p>
+        <p>Maricopa County, Arizona Industrial Development Authority, $172 million of debt securities for Catholic Health Care West. Citigroup Global Markets.</p>
+        <p>Michigan Housing, $70 million of debt securities. Merrill Lynch.</p>
+        <p>Michigan State Hospital Authority, $148 million of debt securities for Sparrow Health. Bear Stearns &amp; Co.</p>
+        <p>Missouri State University, $59 million of debt securities. Raymond James &amp; Associates.</p>
+        <p>Montana Facility Finance Authority, $125 million of hospital revenue bonds for Benefits Healthcare. Cain Brothers.</p>
+        <p>Moreno Valley, California Unified School District, $50 million of debt securities. George K. Baum &amp; Co.</p>
+        <p>New Jersey Education, $115 million of debt securities for Kean University. Citigroup Global Markets.</p>
+        <p>New Jersey Multi-Family Housing, $54 million of debt securities. Merrill Lynch.</p>
+        <p>New Mexico Mortgage Finance Authority, $100 million of debt securities. George K. Baum &amp; Co.</p>
+        <p>Oregon State Housing, $60 million of debt securities. Bear Stearns &amp; Co.</p>
+        <p>Palomar Community College District, Calif., $160 million of general obligation bonds. RBC Capital Markets.</p>
+        <p>Reno Health Care, Nevada, $105 million of debt securities for Catholic Health Care West. Citigroup Global Markets.</p>
+        <p>Richmond County, Virginia Public Utility, $314 million of debt securities. Citigroup Global Markets.</p>
+        <p>Trustees of the California State University, $80 million of systemwide revenue bonds. Lehman Brothers.</p>
+        <p>Volusia County, Fla., $105 million of certificates of participation. Citigroup Global Markets.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

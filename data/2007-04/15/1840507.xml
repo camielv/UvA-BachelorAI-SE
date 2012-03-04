@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Marisa Simpson, Jason Fisher</title>
+    <meta content="15simpson" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/15/fashion/weddings/15simpson.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840507"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Simpson, Marisa Folger</person>
+        <person class="indexing_service">Fisher, Jason</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9900EFD7133FF936A25757C0A9619C8B63" item-length="222" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Marisa Simpson, Jason Fisher</hl1>
+        <hl2 class="online_headline">Marisa Simpson, Jason Fisher</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Marisa Folger Simpson and Jason Fisher were married last evening at the Foundry, an event space in Long Island City, Queens. Curt Collier, the leader of the Riverdale-Yonkers Society for Ethical Culture, officiated.</p>
+        <p>The bride, 33, will continue to use her name professionally. She is a freelance documentary television and film editor based in Brooklyn. She graduated from the University of Texas and received a Master of Fine Arts degree in creative writing from the University of New Orleans.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Marisa Folger Simpson and Jason Fisher were married last evening at the Foundry, an event space in Long Island City, Queens. Curt Collier, the leader of the Riverdale-Yonkers Society for Ethical Culture, officiated.</p>
+      </block>
+      <block class="full_text">
+        <p>Marisa Folger Simpson and Jason Fisher were married last evening at the Foundry, an event space in Long Island City, Queens. Curt Collier, the leader of the Riverdale-Yonkers Society for Ethical Culture, officiated.</p>
+        <p>The bride, 33, will continue to use her name professionally. She is a freelance documentary television and film editor based in Brooklyn. She graduated from the University of Texas and received a Master of Fine Arts degree in creative writing from the University of New Orleans.</p>
+        <p>The bride is a daughter of Emily F. Simpson and William F. Simpson of Bronxville, N.Y. Her father is the superintendent of the Lavelle School for the Blind in the Bronx. Her mother is a freelance speech pathologist in Bronxville.</p>
+        <p>The bridegroom, 35, is an actor in Brooklyn. Last year he performed the title role in ''Lenny Bruce: In His Own Words,'' a one-man off Broadway play at the Zipper Theater in Manhattan. He also appears in television commercials. He graduated from Columbia and received a Master of Fine Arts in acting from the American Repertory Theater's Institute for Advanced Theater Training at Harvard.</p>
+        <p>He is a son of Neila D. Fisher and Lawrence B. Fisher of Manhattan. His mother is a watercolorist. His father, who is retired, was a partner in the Manhattan office of Orrick, Herrington &amp; Sutcliffe, the law firm.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

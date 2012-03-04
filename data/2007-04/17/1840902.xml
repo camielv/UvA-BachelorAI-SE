@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Availability of Guns Raises Suicide Rates, Study Finds</title>
+    <meta content="17risk" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Health&amp;Fitness" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/17/health/17risk.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840902"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="VITAL SIGNS: AT RISK"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Columns/Vital Signs</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Suicides and Suicide Attempts</classifier>
+        <classifier class="online_producer" type="descriptor">Firearms</classifier>
+        <classifier class="online_producer" type="descriptor">Suicides and Suicide Attempts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Firearms</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suicides and Suicide Attempts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070417T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9803E6DA113FF934A25757C0A9619C8B63" item-length="261" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Availability of Guns Raises Suicide Rates, Study Finds</hl1>
+        <hl2 class="online_headline">At Risk: Availability of Guns Raises Suicide Rates, Study Finds</hl2>
+      </hedline>
+      <byline class="print_byline">By Eric Nagourney</byline>
+      <byline class="normalized_byline">Nagourney, Eric</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>People who live in communities with a lot of guns are more likely to kill themselves, a new study says.</p>
+        <p>The findings, the researchers say, add weight to the argument that when people have less access to guns, they are less likely to commit suicide. Earlier research raised the question of whether people intent on suicide would simply switch to another equally lethal method if unable to find a gun.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>People who live in communities with a lot of guns are more likely to kill themselves, a new study says.</p>
+      </block>
+      <block class="full_text">
+        <p>People who live in communities with a lot of guns are more likely to kill themselves, a new study says.</p>
+        <p>The findings, the researchers say, add weight to the argument that when people have less access to guns, they are less likely to commit suicide. Earlier research raised the question of whether people intent on suicide would simply switch to another equally lethal method if unable to find a gun.</p>
+        <p>In the new report, in the current issue of The Journal of Trauma, researchers from the Harvard School of Public Health said they had found evidence that ''the ready availability of firearms is likely to have the greatest effect on suicide rates in groups characterized by more impulsive behavior.''</p>
+        <p>The researchers, led by Dr. Matthew Miller, compared statistics on gun ownership by state with statistics on suicide. They also took into account factors like poverty, mental illness and drug abuse.</p>
+        <p>When they looked at the 15 states with the highest firearm ownership, the researchers found that twice as many people committed suicide as in the six states with the lowest firearm ownership. The population in each group of states was about the same, the researchers said.</p>
+        <p>In 2002, more than 30,000 Americans killed themselves, with just over half using a gun.</p>
+        <p>Firearms are used in only 5 percent of attempts, the study said, even though, with a 90 percent fatality rate, they cause more than half the deaths. So even a small decline in the number of attempts involving guns could mean many fewer deaths, the researchers said.</p>
+        <p>VITAL SIGNS: AT RISK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

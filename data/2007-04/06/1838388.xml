@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Film in Review; G.I. Jesús</title>
+    <meta content="06roun-3" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838388"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Seitz, Matt Zoller</person>
+        <person class="indexing_service">Colpaert, Carl</person>
+        <person class="indexing_service">Arquette, Joe</person>
+        <person class="indexing_service">Mota, Patricia</person>
+        <person class="indexing_service">Lynum, Telana</person>
+        <object.title class="indexing_service">GI Jesus (Movie)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/Reviews</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070406T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B00E6DB173FF935A35757C0A9619C8B63" item-length="359" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Film in Review; G.I. Jesús</hl1>
+      </hedline>
+      <byline class="print_byline">By MATT ZOLLER SEITZ</byline>
+      <byline class="normalized_byline">Seitz, Matt Zoller</byline>
+      <abstract>
+        <p>Matt Zoller Seitz reviews film GI Jesus, directed by Carl Colpaert; Joe Arquette, Patricia Mota and Telana Lynum star (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Opens today in Manhattan  Directed by Carl Colpaert  90 minutes</p>
+        <p>This feature by Carl Colpaert, who wrote and directed, may be a mixed bag, but it is so impressive in so many ways that it demands to be taken seriously. It's a black comedy about a returning Iraq war veteran named Jesús (Joe Arquette) that aims for an absurd, satirical tone (think ''Dr. Strangelove'' by way of ''Coming Home'') but rarely hits the mark.</p>
+      </block>
+      <block class="full_text">
+        <p>Opens today in Manhattan  Directed by Carl Colpaert  90 minutes</p>
+        <p>This feature by Carl Colpaert, who wrote and directed, may be a mixed bag, but it is so impressive in so many ways that it demands to be taken seriously. It's a black comedy about a returning Iraq war veteran named Jesús (Joe Arquette) that aims for an absurd, satirical tone (think ''Dr. Strangelove'' by way of ''Coming Home'') but rarely hits the mark.</p>
+        <p>Some of the scenes between Jesús and his flirty, materialistic wife, Claudia (Patricia Mota), and their precocious daughter (Telana Lynum) are too didactically conceived, though they do boast culturally specific details rarely seen in American movies. For instance, the décor in the family's trailer home mixes traditional, seemingly antique Mexican furniture and artwork and junky modern consumer goods.</p>
+        <p>Throughout, the film's writing is too emphatic, some of its devices are corny (particularly an Iraqi apparition played by Maurizio Farhad, who engages Jesús in Socratic dialogues about wartime violence), and its likable performances a bit wobbly in places, as if the actors weren't quite sure what was expected of them. But the film offers other pleasures, most of them visual and rhythmic.</p>
+        <p>Chief among these is Mr. Colpaert's daring structure, reminiscent of later David Lynch films like ''Lost Highway'' and ''Mulholland Drive'' -- movies in which the story is told with so many odd flourishes that you aren't quite sure you can trust it, and then it literally becomes a different movie. Mr. Colpaert gets away with this by putting us inside Jesús's head from the start and making the whole onscreen world a projection of his upbringing and personality. (He's an immigrant Mexican-American Roman Catholic who longs to assimilate and who suffers from post-traumatic stress disorder.)</p>
+        <p>The film's most striking element is the interweaving of grainy green night-vision imagery into Jesús's everyday existence. It's such a clever visualization of wartime trauma infecting postwar life that it's bound to be ripped off by movies with bigger budgets and less serious ambitions.</p>
+        <p>MATT ZOLLER SEITZ</p>
+        <p>''G.I. Jesús'' is rated R (Under 17 requires accompanying parent or adult guardian). It includes sex, nudity and violence.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

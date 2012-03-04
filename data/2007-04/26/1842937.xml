@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Sale on Woven Cotton Rugs In Classic American Patterns</title>
+    <meta content="26whoo" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1842937"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CURRENTS: WHO KNEW?"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Carpets and Rugs</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">Woodard Weave (NYC)</org>
+        <person class="indexing_service">Rohrlich, Marianne</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Carpets and Rugs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070426T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E4DF153EF935A15757C0A9619C8B63" item-length="130" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Sale on Woven Cotton Rugs In Classic American Patterns</hl1>
+      </hedline>
+      <byline class="print_byline">By MARIANNE ROHRLICH</byline>
+      <byline class="normalized_byline">Rohrlich, Marianne</byline>
+      <abstract>
+        <p>Woodard Weave is offering discontinued patterns of woven cotton rugs for sale at workroom in Queens; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Beginning on Monday, woven cotton rugs by Woodard Weave in discontinued patterns will be on sale at 40 to 75 percent off retail prices. Ends of rolls and one-of-a-kind samples will also be offered. Area rugs -- some of them as large as room-size -- and 27-inch-wide runners will be $4.24 to $8.48 a square foot (reduced from $18.50 a square foot). For an additional $20, the rugs can be finished with fringe; free fringing lessons will be offered as well. On the first three days, a free round-trip bus will leave at 10 a.m. from the northwest corner of 55th Street and 3rd Avenue and return by noon. Through May 10 at the Woodard Weave Workroom, 37-24 24th Street (38th Avenue), Long Island City, Queens, (718) 784-5307.</p>
+        <p>MARIANNE ROHRLICH</p>
+      </block>
+      <block class="full_text">
+        <p>Beginning on Monday, woven cotton rugs by Woodard Weave in discontinued patterns will be on sale at 40 to 75 percent off retail prices. Ends of rolls and one-of-a-kind samples will also be offered. Area rugs -- some of them as large as room-size -- and 27-inch-wide runners will be $4.24 to $8.48 a square foot (reduced from $18.50 a square foot). For an additional $20, the rugs can be finished with fringe; free fringing lessons will be offered as well. On the first three days, a free round-trip bus will leave at 10 a.m. from the northwest corner of 55th Street and 3rd Avenue and return by noon. Through May 10 at the Woodard Weave Workroom, 37-24 24th Street (38th Avenue), Long Island City, Queens, (718) 784-5307.</p>
+        <p>MARIANNE ROHRLICH  CURRENTS: WHO KNEW?</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

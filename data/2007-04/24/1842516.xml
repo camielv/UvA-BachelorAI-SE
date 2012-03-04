@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Really?</title>
+    <meta content="24real" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Health&amp;Fitness" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1842516"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Columns/Really?</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Teeth and Dentistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Pregnancy and Obstetrics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Teeth and Dentistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070424T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9503E5D6173EF937A15757C0A9619C8B63" item-length="238" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Really?</hl1>
+      </hedline>
+      <byline class="print_byline">By ANAHAD O'CONNOR</byline>
+      <byline class="normalized_byline">O'Connor, Anahad</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE CLAIM  Gain a child, lose a tooth.</p>
+        <p>THE FACTS  A popular old wives' tale holds that for every baby a woman has, she is bound to lose a tooth, supposedly because the pregnancy interferes with calcium absorption and increases hormones that affect oral health.</p>
+      </block>
+      <block class="full_text">
+        <p>THE CLAIM  Gain a child, lose a tooth.</p>
+        <p>THE FACTS  A popular old wives' tale holds that for every baby a woman has, she is bound to lose a tooth, supposedly because the pregnancy interferes with calcium absorption and increases hormones that affect oral health.</p>
+        <p>That may be a stretch. But studies have found a strong link between pregnancy and dental problems. One, by researchers at the New York University College of Dentistry in 2005, found that of 2,635 pregnant women, many had dental problems, and that as the number of children increased, so did a woman's risk of periodontal disease, missing teeth and untreated cavities.</p>
+        <p>A large part of the effect appears to be a direct result of pregnancy, but there are other factors. Some scientists theorize that pregnant women may be less likely to visit the dentist. A study in 2001 by scientists at the Centers for Disease Control and Prevention, for example, found that although roughly a quarter of pregnant women surveyed reported having dental problems, just half sought treatment.</p>
+        <p>Scientists have also suggested a few other reasons for the link. Many dentists may be reluctant to treat pregnant women, and mothers with several children may be more likely to partake of the junk food that their children are eating.</p>
+        <p>THE BOTTOM LINE  Studies have found a link between pregnancy and dental problems.</p>
+        <p>ANAHAD O'CONNOR</p>
+        <p>scitimes@nytimes.com</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">scitimes@nytimes.com</tagline>
+    </body.end>
+  </body>
+</nitf>

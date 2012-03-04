@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Music in Review; Richard Goode -- Carnegie Hall</title>
+    <meta content="14roun-3" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1840149"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070414T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A03E1DD103FF937A25757C0A9619C8B63" item-length="390" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Music in Review; Richard Goode -- Carnegie Hall</hl1>
+      </hedline>
+      <byline class="print_byline">By BERNARD HOLLAND</byline>
+      <byline class="normalized_byline">Holland, Bernard</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Richard Goode made his wider reputation playing the Germanic piano repertory, but his discovery of Debussy -- or our discovery of his discovery -- has come as a pleasant surprise. Mr. Goode had Bach, Mozart and Brahms on his Carnegie Hall program on Thursday night, and Book 2 of the Debussy Préludes came after intermission.</p>
+        <p>In one sense, separate sets of values were at work. In another sense, Bach and Mozart succeeded in the first half for the same reasons Debussy did in the second. Bach's G major Partita can be played on a Hammond organ or an ensemble of kazoos, and it will still sound like Bach. The message supersedes the medium. For Debussy the resources of the piano -- not just the colors but also the possibilities of range and articulation -- are part of the construction process. Without them, everything collapses.</p>
+      </block>
+      <block class="full_text">
+        <p>Richard Goode made his wider reputation playing the Germanic piano repertory, but his discovery of Debussy -- or our discovery of his discovery -- has come as a pleasant surprise. Mr. Goode had Bach, Mozart and Brahms on his Carnegie Hall program on Thursday night, and Book 2 of the Debussy Préludes came after intermission.</p>
+        <p>In one sense, separate sets of values were at work. In another sense, Bach and Mozart succeeded in the first half for the same reasons Debussy did in the second. Bach's G major Partita can be played on a Hammond organ or an ensemble of kazoos, and it will still sound like Bach. The message supersedes the medium. For Debussy the resources of the piano -- not just the colors but also the possibilities of range and articulation -- are part of the construction process. Without them, everything collapses.</p>
+        <p>Mozart's wondrous A minor Rondo and, for example, ''La Terrasse des Audiences du Clair de Lune'' from the Préludes argued for similarity rather than difference. Here Mr. Goode had the art to bend, swell and recede without damage to a consistent sense of movement -- obliquely dancelike -- that is explicit in the written music of both composers. Happily, Mr. Goode played Mozart like Debussy and Debussy like Mozart.</p>
+        <p>And indeed, Debussy was the most meticulous and inventive of score-writers: concrete and yet a master of implication. The tiniest rhythmic detail means something. On the other hand, if Mahler overloads scores with instructions, Debussy leads musicians to solutions without saying them out loud. (''There is only one way to make the sound I've asked for; figure it out.'')</p>
+        <p>The seven pieces of Brahms's Opus 116, like the other piano music written at the end of his life, condense a lifetime of big statements into small spaces and yet are free as no other Brahms quite is. Most use song form (Idea One, Idea Two, then Idea One again). Some bluster; some meditate. The play of cross-rhythm -- the frictions of two beats against three, or three against four -- is everywhere.</p>
+        <p>In the middle of the seven is the Intermezzo in E: rapturous, delicate, filled with colors and moving to a mysterious logic of its own. The names Brahms and Debussy may look uncomfortable in the same sentence, but it is hard not to put them together in this one.</p>
+        <p>BERNARD HOLLAND</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

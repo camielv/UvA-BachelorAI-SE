@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>If at First You Don't Succeed, Write a Check</title>
+    <meta content="01digi" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/01/business/yourmoney/01digi.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837322"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="DIGITAL DOMAIN"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Digital Domain</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <org class="online_producer">Microsoft Corp</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B07EEDB1130F932A35757C0A9619C8B63" item-length="1301" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>If at First You Don't Succeed, Write a Check</hl1>
+        <hl2 class="online_headline">If at First You Don’t Succeed, Write a Check</hl2>
+      </hedline>
+      <byline class="print_byline">By Randall Stross</byline>
+      <byline class="normalized_byline">Stross, Randall</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>SIX months ago, Microsoft stood in front of the world and rather bravely stated the question on everyone else's mind: Why on earth does the world need another search engine?</p>
+        <p>Before supplying the answer, the company acknowledged in full-page advertisements that, yes, it was late to the game, and, yes, it was confronting the prospect of ''becoming a footnote in search history.'' But it had decided to forge ahead and ''write a few new chapters.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Microsoft’s new program to pay companies to use its search engine brings an entirely new approach to acquiring customers: buying them at wholesale, instead of retail.</p>
+      </block>
+      <block class="full_text">
+        <p>SIX months ago, Microsoft stood in front of the world and rather bravely stated the question on everyone else's mind: Why on earth does the world need another search engine?</p>
+        <p>Before supplying the answer, the company acknowledged in full-page advertisements that, yes, it was late to the game, and, yes, it was confronting the prospect of ''becoming a footnote in search history.'' But it had decided to forge ahead and ''write a few new chapters.''</p>
+        <p>It cast the competition -- read: Google -- as eggheads whose ''complicated mathematical equations'' retrieve all too many results, which overwhelm the average user. Microsoft's copywriters boasted that its employees had developed entirely new ways to filter and display search results that would set its service clearly apart. It could not resist adding that those new features had been developed, in part, by those who ''didn't even pass calculus. Imagine that.''</p>
+        <p>Nowhere outside of a high school lunchroom would this pass as biting criticism. But Microsoft deserves credit for trying to compete on the basis of the intrinsic quality of the search experience. The tag line for this campaign was: ''Algorithm. Meet Humanity.''</p>
+        <p>Microsoft would soon learn, however, that those amusingly incomprehensible mathematical equations used by Google produced a search engine that grew ever stronger. While the quality of results among different search engines is hard to judge objectively, Google enjoys the benefits of a network effect. Its software is tuned to learn from the clicks of its users, and the more users it attracts, the smarter the software evolves, the more users are drawn in, and on the virtuous cycle revolves. Humanity. Meet Algorithm.</p>
+        <p>In that matchup, algorithm wins. Google had a 50 percent share of searches in the United States in October 2006, while Yahoo had 24 percent, and Microsoft, 9 percent, according to Nielsen/NetRatings. The most recent data, for February of this year, show that Microsoft had climbed a bit, to a 9.6 percent share, but that Google had jumped much farther ahead, to 56 percent. (Yahoo's executives had something to ponder, too: its share slipped by three points.)</p>
+        <p>Watching your principal competitor widen its lead with organic growth, unaided by advertising, makes you receptive to trying something else -- anything else. Microsoft has decided that the search business needs a sort of ''frequent flier'' rewards program to attract and hold on to users: Microsoft Service Credits for Web Search.</p>
+        <p>John Battelle broke the story last month on his Searchblog. Adam Sohn, director of global sales and marketing for Windows Live, confirmed that Microsoft would pay large companies $2 to $10 a user annually -- the more searches, the larger the bounty earned -- in credits that can be used for Microsoft products and training services.</p>
+        <p>''We're the underdogs in this business,'' Mr. Sohn acknowledged. Breaking users of their inclination to use what he called ''the incumbent'' -- he would not use the ''G'' word if he could help it -- requires a willingness to depart from standard practice, and to weather sniping from outside critics. ''There's always controversy when anyone tries something new,'' he said.</p>
+        <p>Microsoft is seeking 30 companies, each with at least 5,000 PCs, who are willing to sign up and install on employees' computers a small program -- a ''browser helper object'' -- that will count the number of searches performed with Microsoft Live Search.</p>
+        <p>The notion that a lagging search engine would offer monetary incentives directly to end users is not wholly new. A year ago, Yahoo appeared to be readying a rewards program for its search users that would be offered first to Yahoo Mail customers. A Yahoo survey, asking what would entice e-mail customers to designate Yahoo as their primary search engine, offered ideas like five free music downloads a month, a discount to Netflix, or 250 frequent-flier miles each month that could be transferred to most major airline mileage programs.</p>
+        <p>After completing the survey, Yahoo decided not to start the service. Whether it had discovered that its own e-mail customers withheld enthusiasm for the idea of making Yahoo their default search engine is not known. A company spokeswoman last week declined to discuss the survey or the subsequent decision to abort the plans for a rewards program.</p>
+        <p>Microsoft also tested the idea of rewarding search users last year, when its MSN unit put up a promotional Web site, ''MSN Search and Win,'' which provided instant prizes ranging from a Starbucks gift certificate to a Panasonic high-definition television. The promotion lasted about five months and, according to Mr. Sohn, ''drove tens of millions of queries and for a relatively small amount of money.''</p>
+        <p>Both Yahoo and Microsoft's MSN were thinking about the problem of customer acquisition in the same way. But Microsoft's new program brings an entirely new approach to acquiring customers: buying them at wholesale, instead of retail. Microsoft need only persuade the I.T. department in order to achieve broad adoption at a large company, rather than slogging, cubicle by cubicle, to win loyalty one employee at a time. If the employees prove recalcitrant and continue to use ''the incumbent,'' that will be for I.T. to handle.</p>
+        <p>Microsoft, stuck in distant third place and losing ground to the leader with every lap, should realize that the airlines' frequent-flier programs may not work well as a model for the software business. Mara Lederman, an assistant professor of strategic management at the University of Toronto who has closely studied the airlines' programs, said one feature that has been essential to their popularity among business travelers is that customers earn the rewards but do not pay for the product -- their employers do.</p>
+        <p>''If the fare for your preferred airline is $100 more, you don't care because you don't pay,'' she said. ''You just want the points because you want to take the family to Hawaii.''</p>
+        <p>In the case of search, who pays isn't an issue because the price is zero. But under Microsoft's program, Professor Lederman said, ''there's no reward going directly to the individual carrying out the search.'' She predicted that employers would have to take an active role, offering monetary incentives or applying administrative pressure, in order to obtain the desired outcome of full participation of the work force.</p>
+        <p>Airlines have benefited from another feature: frequent-flier awards are more alluring than they deserve to be. The frequent-flier programs give away only empty seats, which is why the actual cost of the rewards is exceedingly cheap. (That's also why it's hard to redeem your miles for any flight that doesn't leave at 5:30 a.m. on a Tuesday.) ''Microsoft does not seem to understand this,'' Professor Lederman said.</p>
+        <p>IF Microsoft has determined that it is futile to compete with Google head-to-head, and if, as seems to be the case, it is willing to cast dignity aside and adopt marketing gimmicks in an attempt to gain market share, why stop at half measures? Why not go all the way, as iWon.com has done ever since its founding in 1999? That portal, which includes a search service powered by its sister company, Ask.com, runs sweepstakes. Performing searches, up to a certain number each day, is the easiest way to increase one's odds of winning a $10,000 prize awarded daily. On Tax Day, however, a special prize will be bestowed: $1 million.</p>
+        <p>The market share of IWon is not measured in the standard industry surveys, but we can speculate that as April 17 approaches, ''I'm Feeling Lucky'' users from Google may temporarily take their positive premonitions there.</p>
+        <p>To bolster its struggling search service, Microsoft should forget pitching I.T. managers with penny-ante discounts and give the million-dollar sweepstakes a try. If frequent fliers are gullible enough to think that they won't need zillions of miles for great seats to Hawaii, then frequent searchers may be no less susceptible to the lure of a jackpot, no matter the odds.</p>
+        <p>DIGITAL DOMAIN Randall Stross is an author based in Silicon Valley and a professor of business at San Jose State University. E-mail: stross@nytimes.com.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Randall Stross is an author based in Silicon Valley and a professor of business at San Jose State University. E-mail: stross@nytimes.com.</tagline>
+    </body.end>
+  </body>
+</nitf>

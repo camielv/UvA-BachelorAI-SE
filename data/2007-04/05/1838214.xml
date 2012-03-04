@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>On Field and at the Plate, Beltrán Has a Hot Start</title>
+    <meta content="05cards" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/05/sports/baseball/05cards.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1838214"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="BASEBALL"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Mets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/St Louis Cardinals</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="descriptor">Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+        <org class="online_producer">New York Mets</org>
+        <org class="online_producer">St Louis Cardinals</org>
+        <person class="online_producer">Beltran, Carlos</person>
+        <person class="online_producer">Looper, Braden</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070405T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E01E1D9163FF936A35757C0A9619C8B63" item-length="456" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>On Field and at the Plate, Beltrán Has a Hot Start</hl1>
+        <hl2 class="online_headline">Beltrán Has a Hot Start</hl2>
+      </hedline>
+      <byline class="print_byline">By PAT BORZI</byline>
+      <byline class="normalized_byline">Borzi, Pat</byline>
+      <dateline>ST. LOUIS, April 4</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It took five and a third innings for the Mets to finally break through against their former closer, Braden Looper. And as has been the case this whole opening series, Carlos Beltrán was right in the middle of it.</p>
+        <p>Batting left handed against the right-handed Looper, Beltrán pulled a fat 0-2 pitch down the right field line and past the foul pole for a two-run homer to break a scoreless tie. Beltrán added a bases-empty homer in the seventh off reliever Josh Hancock and finished the night with four runs batted in during the Mets' 10-0 rout of the Cardinals.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Carlos Beltrán went 4-for-12 (.333) with a team-best 6 runs batted in against the Cardinals in the Mets' opening series.</p>
+      </block>
+      <block class="full_text">
+        <p>It took five and a third innings for the Mets to finally break through against their former closer, Braden Looper. And as has been the case this whole opening series, Carlos Beltrán was right in the middle of it.</p>
+        <p>Batting left handed against the right-handed Looper, Beltrán pulled a fat 0-2 pitch down the right field line and past the foul pole for a two-run homer to break a scoreless tie. Beltrán added a bases-empty homer in the seventh off reliever Josh Hancock and finished the night with four runs batted in during the Mets' 10-0 rout of the Cardinals.</p>
+        <p>In the three-game sweep, Beltrán went 4-for-12 (.333) with a team-best 6 R.B.I. His strong throw to catch David Eckstein at the plate was one of the defensive highlights on opening night, and Wednesday he added a sliding catch to rob Aaron Miles of a hit in the third. Beltrán drove in the first Mets runs on Tuesday and Wednesday nights.</p>
+        <p>Beltrán's first homer Wednesday, after Looper baffled the Mets for the first five innings on a bone-chilling night, energized the rest of the team. ''With the lineup we've got,'' David Wright said, ''when one guy gets hot, it's almost like it throws on a light switch, and the rest of the guys start following suit.''</p>
+        <p>That appeared the case once Beltrán turned on Looper's two-strike pitch. Looper was making his first major-league start after 572 relief appearances. He had never pitched longer than three innings in a regular-season game, though he did throw six and two-thirds scoreless innings to win his last spring training start against the Orioles on March 28.</p>
+        <p>That encouraged Cardinals Manager Tony La Russa to send out Looper for the sixth inning. But Looper labored. With one out, Paul LoDuca cracked his third single through the middle, bringing up Beltrán.</p>
+        <p>''The first couple of innings, he was throwing hard,'' Beltrán said of Looper. ''Then he got a little bit tired, and he started leaving the ball over the middle of the plate. The pitch was up and in, and I hit it good.''</p>
+        <p>The Mets would add a third run in the inning with two out on Wright's infield hit to short, Looper's four-pitch walk to Moises Alou and an R.B.I. single by Shawn Green. Looper left the game after the inning, having thrown 93 pitches. José Reyes and Beltrán homered in the seventh, and the Mets were on their way to the series sweep.</p>
+        <p>''Carlos got us going with that home run,'' Green said. ''It was one of those nights where it was so cold out there, it was not a good night to be a hitter.''</p>
+        <p>Unless, of course, one is already hot to begin with.</p>
+        <p>BASEBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

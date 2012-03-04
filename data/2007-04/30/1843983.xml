@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   LEVINE, ANNE F.</title>
+    <meta content="dn043007" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1843983"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">LEVINE, ANNE F.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070430T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D03EEDC163AF933A05757C0A9619C8B63" item-length="178" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   LEVINE, ANNE F.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEVINE--Anne F. The Peninsula Hospital Center and Peninsula Center for Extended Care and Rehabilitation families are deeply saddened by the sudden passing of one of its most admired and cherished friends, Anne F. Levine, PHC Auxiliary Co-President, Benefactor, devoted advocate for the hospital center and beloved mother of Robert V. Levine, President and Chief Executive Officer of Peninsula Hospital Center. Anne's gracious warmth and charming presence will be dearly missed.</p>
+        <p>$(6$)LEVINE--Anne F., 80, passed away on April 28, 2007. Her life was full of optimism, love and charity. Beloved wife of the late Morton G. Levine, cherished mother of Rose (Sylvan), David (Pam) and Robert (Phyllis); loving and adoring grandmother of Joshua (Tiffany), Jessica, and Alanna; Danny and Michael; and Jordan and Scott. Graduate of Brooklyn College, Anne Levine was a NYC school teacher of over 30 years and Co-President of the Peninsula Hospital Center Auxiliary for many years, and involved in various community activities in the Rockaway section of Queens. Funeral services, Monday, April 30, 12:00 PM at Boulevard-Riverside-Hewlett Chapel, 1450 Broadway, Hewlett, NY 11577.</p>
+      </block>
+      <block class="full_text">
+        <p>LEVINE--Anne F. The Peninsula Hospital Center and Peninsula Center for Extended Care and Rehabilitation families are deeply saddened by the sudden passing of one of its most admired and cherished friends, Anne F. Levine, PHC Auxiliary Co-President, Benefactor, devoted advocate for the hospital center and beloved mother of Robert V. Levine, President and Chief Executive Officer of Peninsula Hospital Center. Anne's gracious warmth and charming presence will be dearly missed.</p>
+        <p>$(6$)LEVINE--Anne F., 80, passed away on April 28, 2007. Her life was full of optimism, love and charity. Beloved wife of the late Morton G. Levine, cherished mother of Rose (Sylvan), David (Pam) and Robert (Phyllis); loving and adoring grandmother of Joshua (Tiffany), Jessica, and Alanna; Danny and Michael; and Jordan and Scott. Graduate of Brooklyn College, Anne Levine was a NYC school teacher of over 30 years and Co-President of the Peninsula Hospital Center Auxiliary for many years, and involved in various community activities in the Rockaway section of Queens. Funeral services, Monday, April 30, 12:00 PM at Boulevard-Riverside-Hewlett Chapel, 1450 Broadway, Hewlett, NY 11577.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Canadian TV Regulator Says 'CSI: NY' May Be Diverting, but It Is Not History</title>
+    <meta content="09history" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/09/business/media/09history.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1839105"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MEDIA TALK"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Canada</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Americas</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/Canada</classifier>
+        <classifier class="online_producer" type="descriptor">Cable Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cable Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <location class="online_producer">Canada</location>
+        <org class="online_producer">Alliance Atlantis Communications Incorporated</org>
+        <object.title class="online_producer">CSI: NY (TV Program)</object.title>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070409T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07E7D7143FF93AA35757C0A9619C8B63" item-length="348" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Canadian TV Regulator Says 'CSI: NY' May Be Diverting, but It Is Not History</hl1>
+        <hl2 class="online_headline">Canadian TV Regulator Says ‘CSI: NY’ May Be Diverting, but It Is Not History</hl2>
+      </hedline>
+      <byline class="print_byline">By IAN AUSTEN</byline>
+      <byline class="normalized_byline">Austen, Ian</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Like the many branches of the ''CSI'' empire, ''CSI: NY'' is popular television police drama. Its Canadian co-producer, Alliance Atlantis Communications, is now arguing that the program is also about history.</p>
+        <p>Alliance Atlantis, based in Toronto, is in a dispute with Canada's broadcast regulator over the true nature of ''CSI: NY,'' which is being broadcast two or three times a day on History Television, a cable channel also owned by Alliance Atlantis.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The show’s Canadian co-producer, Alliance Atlantis, is now arguing that the program is also about history.</p>
+      </block>
+      <block class="full_text">
+        <p>Like the many branches of the ''CSI'' empire, ''CSI: NY'' is popular television police drama. Its Canadian co-producer, Alliance Atlantis Communications, is now arguing that the program is also about history.</p>
+        <p>Alliance Atlantis, based in Toronto, is in a dispute with Canada's broadcast regulator over the true nature of ''CSI: NY,'' which is being broadcast two or three times a day on History Television, a cable channel also owned by Alliance Atlantis.</p>
+        <p>Maureen Parker, executive director of the Writers Guild of Canada, said she enjoys ''CSI: NY'' and is a fan of the History Television channel. But she does not think that the two go together.</p>
+        <p>'' 'CSI' is on every other channel all the time,'' Ms. Parker said. ''It's conventional TV fare. History is not the place for it. To me, it is just a blatant abuse of their terms of license.''</p>
+        <p>Unlike regulators in the United States, the Canadian Radio-Television and Telecommunications Commission determines what kinds of programs individual cable channels are allowed to broadcast.</p>
+        <p>After Ms. Parker contacted the commission, it asked Alliance Atlantis to explain History's programming decision. The broadcaster replied that ''CSI: NY'' is a history series because it is ''set in a city that became synonymous with one of history's most significant and notorious events, 9/11.''</p>
+        <p>To Ms. Parker, that response has only made things worse. She said she was offended that the company would ''misuse a tragedy like 9/11 for commercial purposes.''</p>
+        <p>Nor was the regulator impressed. In a letter to Alliance Atlantis on March 29, it wrote that ''the mere fact that the drama is set in a city which was victim to a significant historical event is not sufficient justification for broadcasting the program on a service that is mandated to be devoted to history programs.''</p>
+        <p>The letter effectively orders the company to withdraw the program.</p>
+        <p>Alliance Atlantis declined to make anyone available for an interview. In a brief e-mail message, a spokeswoman, Nicola McIsaac, wrote, ''We do think 'CSI: NY' fits on the channel, and we are in the process of determining next steps.''</p>
+        <p>IAN AUSTEN</p>
+        <p>MEDIA TALK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

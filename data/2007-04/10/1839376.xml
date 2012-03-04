@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; La Jolla Playhouse Gets New Artistic Director</title>
+    <meta content="10arts-4" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts; Theater" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/10/theater/10lajo.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1839376"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./West</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="descriptor">Theater</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070410T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9800E6DA153FF933A25757C0A9619C8B63" item-length="148" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; La Jolla Playhouse Gets New Artistic Director</hl1>
+        <hl2 class="online_headline">La Jolla Playhouse Gets New Artistic Director</hl2>
+      </hedline>
+      <byline class="print_byline">By CAMPBELL ROBERTSON; Compiled by Lawrence Van Gelder</byline>
+      <byline class="normalized_byline">Robertson, Campbell</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Christopher Ashley, the director of ''Regrets Only,'' the 2000 revival of ''The Rocky Horror Show'' and the coming Broadway production of ''Xanadu,'' has been named the new artistic director of the La Jolla Playhouse in San Diego. He will replace Des McAnuff, who is leaving to become one of three artistic directors at the Stratford Festival in Ontario. Mr. Ashley, 42, said in an interview yesterday that he intended to put together seasons that were a mix between ''shows that are popular enough to have an ongoing life and shows that are provocative.'' Because he learned of his appointment only last week, he has not yet taken any formal steps in programming the 2008-9 season. But among his plans were more new musicals and plays and a residency for a local San Diego theater group. He starts in October.</p>
+        <p>CAMPBELL ROBERTSON</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Christopher Ashley, the director of the coming Broadway production of “Xanadu,” has been named the new artistic director of the La Jolla Playhouse in San Diego.</p>
+      </block>
+      <block class="full_text">
+        <p>Christopher Ashley, the director of ''Regrets Only,'' the 2000 revival of ''The Rocky Horror Show'' and the coming Broadway production of ''Xanadu,'' has been named the new artistic director of the La Jolla Playhouse in San Diego. He will replace Des McAnuff, who is leaving to become one of three artistic directors at the Stratford Festival in Ontario. Mr. Ashley, 42, said in an interview yesterday that he intended to put together seasons that were a mix between ''shows that are popular enough to have an ongoing life and shows that are provocative.'' Because he learned of his appointment only last week, he has not yet taken any formal steps in programming the 2008-9 season. But among his plans were more new musicals and plays and a residency for a local San Diego theater group. He starts in October.</p>
+        <p>CAMPBELL ROBERTSON</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

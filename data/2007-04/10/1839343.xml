@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Retired Sprinter Pleads Guilty to Bank Fraud</title>
+    <meta content="10track" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/10/sports/othersports/10track.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1839343"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="TRACK AND FIELD"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="descriptor">Frauds and Swindling</classifier>
+        <classifier class="online_producer" type="descriptor">Track and Field</classifier>
+        <classifier class="online_producer" type="descriptor">Crime and Criminals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Frauds and Swindling</classifier>
+        <classifier class="online_producer" type="general_descriptor">Track and Field</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+        <person class="online_producer">Montgomery, Tim</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070410T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0DE2DB153FF933A25757C0A9619C8B63" item-length="467" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Retired Sprinter Pleads Guilty to Bank Fraud</hl1>
+        <hl2 class="online_headline">Retired Sprinter Is Expected to Go to Prison for Fraud</hl2>
+      </hedline>
+      <byline class="print_byline">By DAVID PICKER</byline>
+      <byline class="normalized_byline">Picker, David</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Tim Montgomery, the Olympic gold medalist and former 100-meter world-record holder, is expected to be sentenced to more than three years in prison for his role in a multimillion-dollar money-laundering and bank-fraud operation.</p>
+        <p>Montgomery pleaded guilty yesterday in federal court in Manhattan to two counts of substantive bank fraud and one count of conspiracy to commit bank fraud, the United States attorney's office said. Sentencing is scheduled for Nov. 1 by Judge Kenneth M. Karas of Federal District Court.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Tim Montgomery, the Olympic gold medalist and former 100-meter world-record holder, pleaded guilty in federal court to bank fraud.</p>
+      </block>
+      <block class="full_text">
+        <p>Tim Montgomery, the Olympic gold medalist and former 100-meter world-record holder, is expected to be sentenced to more than three years in prison for his role in a multimillion-dollar money-laundering and bank-fraud operation.</p>
+        <p>Montgomery pleaded guilty yesterday in federal court in Manhattan to two counts of substantive bank fraud and one count of conspiracy to commit bank fraud, the United States attorney's office said. Sentencing is scheduled for Nov. 1 by Judge Kenneth M. Karas of Federal District Court.</p>
+        <p>Daniel Walter Levy, an assistant United States attorney, said prosecutors and Montgomery's lawyers reached an agreement that 37 to 46 months was a reasonable term based on sentencing guidelines.</p>
+        <p>''I sincerely regret the role I played in this unfortunate episode,'' Montgomery, 32, said in a statement released by his lawyers. ''I have disappointed many people, and for that I am truly sorry. I look forward to moving past this event and being a positive influence in my community in the future.''</p>
+        <p>Montgomery, who was arrested in April 2006, was among 13 people indicted on fraud charges. They were accused of participating in an operation in which $5 million was laundered from 2002 to 2005. Nine of them have pleaded guilty, and jury selection for the remaining four begins today in Manhattan.</p>
+        <p>In December 2005, Montgomery was barred from competing for two years by the Court of Arbitration for Sport based on a federal investigation into steroid distribution at the Bay Area Laboratory Co-Operative.</p>
+        <p>The arbitration court also wiped out Montgomery's results since March 31, 2001, including his world record of 9.78 seconds in the 100 meters, which he set in September 2002. Montgomery won a gold medal as a member of the United States' 400-meter relay team in the 2000 Olympics.</p>
+        <p>Montgomery, who retired after the arbitration court's ruling, has denied using steroids. The track star Marion Jones, his former companion and the mother of his son, was among those investigated in the Balco case but was never sanctioned. She staunchly defended Montgomery at the time.</p>
+        <p>The bank fraud investigation, which began in 2005, uncovered an operation in which fake, altered and stolen checks were deposited along the East Coast, including in New York, Philadelphia and Virginia.</p>
+        <p>Montgomery was considered a middleman, not a ringleader. He was accused of depositing or trying to deposit two checks worth a combined $775,000 and of giving his former coach, Steven Riddick, three checks worth $905,000 to deposit. Montgomery's lawyers characterized his role as minor, and said that his plea agreement did not obligate him ''to cooperate with the United States in any way.''</p>
+        <p>He will not be a witness in the trial, the lawyers said.</p>
+        <p>Judge Karas is not bound to sentence Montgomery to 37 to 46 months, but judges in such cases often follow the sentencing guidelines.</p>
+        <p>TRACK AND FIELD</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

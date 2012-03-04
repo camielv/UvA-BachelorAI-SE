@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Meatloaf Made Meatier</title>
+    <meta content="11mini" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining, Dining Out/Cultural Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Dining and Wine" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1839463"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE MINIMALIST"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Columns/The Minimalist</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/France</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/France</classifier>
+        <classifier class="online_producer" type="general_descriptor">Meat</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cooking and Cookbooks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070411T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E4D7153FF932A25757C0A9619C8B63" item-length="500" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Meatloaf Made Meatier</hl1>
+      </hedline>
+      <byline class="print_byline">By Mark Bittman</byline>
+      <byline class="normalized_byline">Bittman, Mark</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>IF you can make meatloaf you can make what the French call pâté de campagne, or country pâté. It is simply a variation of meatloaf, a splendid one. It is denser, with more meat, and has no filler like bread crumbs. The addition of cream and spices makes it delicious and elegant enough to serve at dinners where you want to impress your guests. Meatloaf can't do that.</p>
+        <p>Good pâté has the following qualities: meat of varying textures, some ground and some chopped. Spices in big enough pieces to have some bite. And the richness and flavor that come only from quantities of fat.</p>
+      </block>
+      <block class="full_text">
+        <p>IF you can make meatloaf you can make what the French call pâté de campagne, or country pâté. It is simply a variation of meatloaf, a splendid one. It is denser, with more meat, and has no filler like bread crumbs. The addition of cream and spices makes it delicious and elegant enough to serve at dinners where you want to impress your guests. Meatloaf can't do that.</p>
+        <p>Good pâté has the following qualities: meat of varying textures, some ground and some chopped. Spices in big enough pieces to have some bite. And the richness and flavor that come only from quantities of fat.</p>
+        <p>I also like to use, in the traditions of both France and America, more than one meat. Pork and veal is the best combination, but any two or three meats will work together -- including, if you like, duck, chicken, turkey, rabbit, whatever -- as long as you have enough fat, and that's most likely to come from pork. If you start with well-marbled pork shoulder, and use some of its surface fat, your results will be better than good.</p>
+        <p>The spices listed here are my preference but you can vary these pretty much at will: sage, thyme, nutmeg, allspice and cumin can all play a role.</p>
+        <p>Unless you have a good meat grinder, you'll need a food processor here. Chop about half the meat, stopping well short of grinding; remove that meat, then grind the remainder, with the spices and remaining ingredients. Combine the two and bake -- it's pretty much as simple as that.</p>
+        <p>Pâté is always served at room temperature, usually with bread, spicy mustard, maybe some of those little pickles the French call cornichons. You could, absolutely, make a sandwich with it. You also could, I suppose, call it meatloaf but just think of it as a superior version.</p>
+        <p>COUNTRY PÂTÉ  Time: 11/2 hours, plus chilling</p>
+        <p>2 pounds pork shoulder, with some fat, cut into chunks  1 pound veal shoulder or leg, cut into chunks  6 slices good bacon  Salt  5 cloves garlic  1 tablespoon fennel seeds  1 tablespoon whole black peppercorns  1 tablespoon coriander seeds  1 egg  1/2 cup heavy cream.</p>
+        <p>1. Heat oven to 350 degrees. Put half the meat in a food processor and pulse to chop; pieces should be between 1/4 inch and 1/2 inch in diameter. Remove to a bowl.  2. Add remaining meat, half the bacon, a healthy pinch of salt, garlic, remaining spices and egg to food processor and grind to a finer texture. Combine with chopped meat and cream. If you like, make a tiny burger, sauté it and taste, then adjust seasoning.  3. Pack mixture into a 10-by-3-inch terrine or a 9-by-5-inch bread pan or a similar vessel. Cover with remaining bacon. Bake at least an hour, or until mixture is bubbly and juices run clear. Cool on a rack, then refrigerate. Skim fat if you like, slice and serve at room temperature.  Yield: 12 servings.</p>
+        <p>THE MINIMALIST</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

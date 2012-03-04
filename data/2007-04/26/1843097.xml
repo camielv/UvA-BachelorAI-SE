@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | Connecticut: New Haven: Ex-Police Official Indicted</title>
+    <meta content="26mbrfs-10" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1843097"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Police</classifier>
+        <classifier class="indexing_service" type="descriptor">Frauds and Swindling</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <classifier class="indexing_service" type="descriptor">Police Brutality and Misconduct</classifier>
+        <classifier class="indexing_service" type="descriptor">Bail</classifier>
+        <classifier class="indexing_service" type="descriptor">Bribery</classifier>
+        <classifier class="indexing_service" type="descriptor">Drug Abuse and Traffic</classifier>
+        <location class="indexing_service">New Haven (Conn)</location>
+        <person class="indexing_service">White, William B (Lt)</person>
+        <person class="indexing_service">Medina, Jennifer</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Law Enforcement and Security</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Connecticut/New Haven</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Connecticut</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bail</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bribery</classifier>
+        <classifier class="online_producer" type="general_descriptor">Police Brutality and Misconduct</classifier>
+        <classifier class="online_producer" type="general_descriptor">Frauds and Swindling</classifier>
+        <classifier class="online_producer" type="general_descriptor">Police</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drug Abuse and Traffic</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070426T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E5DB153EF935A15757C0A9619C8B63" item-length="116" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | Connecticut: New Haven: Ex-Police Official Indicted</hl1>
+      </hedline>
+      <byline class="print_byline">By JENNIFER MEDINA; Compiled by John Sullivan</byline>
+      <byline class="normalized_byline">Medina, Jennifer</byline>
+      <abstract>
+        <p>William B White, former head of New Haven Police Dept's narcotics division, is indicted on charges that include theft, bribery and fraud (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The former head of the New Haven Police Department's narcotics division was indicted yesterday on charges including theft, bribery and fraud, federal prosecutors said. The former lieutenant, William B. White, 63, and three bail bondsmen were arrested last month in a federal sting operation. Prosecutors said Mr. White routinely received money from the three men: Robert Jacobs, 79, who runs a local bail bonds service, and his two sons, Paul, 48, and Philip, 47. According to prosecutors, the bondsmen would bribe Mr. White to track down criminals who had posted bail bonds but failed to appear; their failure to appear would have caused the bondsmen to lose money.</p>
+        <p>JENNIFER MEDINA</p>
+      </block>
+      <block class="full_text">
+        <p>The former head of the New Haven Police Department's narcotics division was indicted yesterday on charges including theft, bribery and fraud, federal prosecutors said. The former lieutenant, William B. White, 63, and three bail bondsmen were arrested last month in a federal sting operation. Prosecutors said Mr. White routinely received money from the three men: Robert Jacobs, 79, who runs a local bail bonds service, and his two sons, Paul, 48, and Philip, 47. According to prosecutors, the bondsmen would bribe Mr. White to track down criminals who had posted bail bonds but failed to appear; their failure to appear would have caused the bondsmen to lose money.</p>
+        <p>JENNIFER MEDINA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

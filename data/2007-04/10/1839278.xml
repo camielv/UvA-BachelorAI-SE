@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>James Needham, 80, Dies; Ex-Head of Stock Exchange</title>
+    <meta content="10needham" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business; Obituaries" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/10/business/10needham.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1839278"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="biographical_categories">Business and Finance</classifier>
+        <classifier class="indexing_service" type="names">James J. Needham</classifier>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+        <classifier class="online_producer" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deaths (Obituaries)</classifier>
+        <org class="online_producer">New York Stock Exchange</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070410T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E0DD153FF933A25757C0A9619C8B63" item-length="450" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>James Needham, 80, Dies; Ex-Head of Stock Exchange</hl1>
+        <hl2 class="online_headline">James Needham, 80, Dies; Ex-Head of Stock Exchange</hl2>
+      </hedline>
+      <byline class="print_byline">By MILT FREUDENHEIM</byline>
+      <byline class="normalized_byline">Freudenheim, Milt</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>James J. Needham, the first full-time paid chairman of the New York Stock Exchange, died on Friday at his home in Southampton, N.Y. He was 80.</p>
+        <p>The cause was complications related to myelodysplastic syndrome, a bone marrow disorder, his son-in-law, Tim Donahue, said.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>James J. Needham was the first full-time paid chairman of the New York Stock Exchange.</p>
+      </block>
+      <block class="full_text">
+        <p>James J. Needham, the first full-time paid chairman of the New York Stock Exchange, died on Friday at his home in Southampton, N.Y. He was 80.</p>
+        <p>The cause was complications related to myelodysplastic syndrome, a bone marrow disorder, his son-in-law, Tim Donahue, said.</p>
+        <p>Mr. Needham, a certified public accountant, was named chairman of the stock exchange in 1972 after a reorganization of its leadership, adding public directors and a paid chairman to transform its longtime corporate structure, headed by a president.</p>
+        <p>After leading the exchange during a troubled period, when stock prices were sliding, fixed brokerage commissions were abolished, and securities industry insiders were accused of dominating the organization, he resigned in 1976, with almost two years remaining on his contract.</p>
+        <p>He had a reputation as an independent thinker and advocate for small investors. He was an early supporter of the Securities Investor Protection Corporation, which was established by Congress in 1970 to help shareholders recover money from brokerage firms that declared bankruptcy. In September 2003, he was one of the first former chiefs of the stock exchange to call for the resignation of the chairman, Richard A. Grasso, in a furor over the size of Mr. Grasso's pay package. Mr. Grasso resigned a few days later.</p>
+        <p>Before joining the exchange, Mr. Needham was a member of the Securities and Exchange Commission from 1969 to 1972 in the Nixon administration. He was the first commissioner who had been a practicing certified public accountant, according to a spokesman for the S.E.C., John Heine. The secretary of commerce, Maurice Stans, sought out Mr. Needham to provide auditing experience alongside the lawyers who dominated the commission.</p>
+        <p>Mr. Needham was born Aug. 18, 1926, in Woodhaven, Queens. He attended Cornell University in a Navy program during World War II and later graduated from St. John's University with a degree in business administration in 1951. He joined the accounting firm Price Waterhouse and later went to A.M. Pullen &amp; Company in 1957. He was a partner in charge of that firm's New York office when he was appointed to the S.E.C.</p>
+        <p>He lived in Bronxville, N.Y., for many years, moving to Bridgehampton, N.Y., and later Southampton, where he was elected to the Southampton Town Council in the 1990s. He married Dolores A. Harbick in 1950; she died in 1993.</p>
+        <p>He is survived by his wife, Patricia Campo Needham of Southampton, whom he married in 1995; three sons, James, of Carmel, Calif.; Robert, of Lake Oswego, Ore.; and Michael, of San Francisco; two daughters, Ravenna Taylor of Sergeantsville, N.J., and Catherine Needham of Bronxville, N.Y.; his brother, John, of Rockville Centre, N.Y.; his sister, Sandra Reda of Huntington Station, N.Y.; and two grandchildren.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>PAPER PROBLEMS</title>
+    <meta content="29suits-5" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1843858"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="OPENERS: SUITS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Suits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Accounting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Boards of Directors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insider Trading</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stock Options and Purchase Plans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accounting and Accountants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Frauds and Swindling</classifier>
+        <classifier class="online_producer" type="general_descriptor">Futures and Options Trading</classifier>
+        <classifier class="online_producer" type="general_descriptor">Securities and Commodities Violations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE5D6123EF93AA15757C0A9619C8B63" item-length="199" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>PAPER PROBLEMS</hl1>
+      </hedline>
+      <byline class="print_byline">By ELIZABETH OLSON</byline>
+      <byline class="normalized_byline">Olson, Elizabeth</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Sunrise Senior Living said last week that it had suspended its chief financial officer -- with pay -- because his actions ''were not consistent with the document retention directives issued by the company.'' The company did not say how long the executive, Bradley B. Rush, would be suspended.</p>
+        <p>Mr. Rush, 46, joined the company in 2005. Sunrise, which operates 440 senior-living and assisted-living facilities, is in the process of restating its financial statements from 2003 through 2005. In February, the company estimated that the restatement could reduce company's profits by as much as $107 million. The company also has an inquiry under way into insider stock sales.</p>
+      </block>
+      <block class="full_text">
+        <p>Sunrise Senior Living said last week that it had suspended its chief financial officer -- with pay -- because his actions ''were not consistent with the document retention directives issued by the company.'' The company did not say how long the executive, Bradley B. Rush, would be suspended.</p>
+        <p>Mr. Rush, 46, joined the company in 2005. Sunrise, which operates 440 senior-living and assisted-living facilities, is in the process of restating its financial statements from 2003 through 2005. In February, the company estimated that the restatement could reduce company's profits by as much as $107 million. The company also has an inquiry under way into insider stock sales.</p>
+        <p>Sunrise, which reported $1.8 billion in revenues in 2005, first began looking into its accounting rules last year, said Lisa Mayr, vice president for investment relations. The inquiry widened in December, a month after the Service Employees International Union, which owns Sunrise shares, called for an investigation into $32 million in ''questionably timed insider stock sales'' and into what it said were ''improbably dated executive stock option grants.''</p>
+        <p>The company named Julie A. Pangelinan, the company's chief accounting officer, as acting C.F.O. Mr. Rush could not be reached for comment.</p>
+        <p>ELIZABETH OLSON</p>
+        <p>OPENERS: SUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

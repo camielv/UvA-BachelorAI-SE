@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Mission: Acquirable? Breaking The Code</title>
+    <meta content="04code" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="DealBook" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="H" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <docdata>
+      <doc-id id-string="1838022"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="OPENING BID"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="indexing_service" type="descriptor">Codes (Ciphers)</classifier>
+        <classifier class="indexing_service" type="descriptor">Special Sections</classifier>
+        <person class="indexing_service">Edmonston, Peter</person>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Codes (Ciphers)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Security and Warning Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070404T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E07EFD61F30F937A35757C0A9619C8B63" item-length="473" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Mission: Acquirable? Breaking The Code</hl1>
+      </hedline>
+      <byline class="print_byline">By PETER EDMONSTON</byline>
+      <byline class="normalized_byline">Edmonston, Peter</byline>
+      <abstract>
+        <p>Merger boom has resulted in proliferation of code names that executives and investment bankers use to disguise parties in potential deal; codes names turn up in early presentations in place of actual company names, which are supposed to stay secret until agreement is announced; some examples cited; photos (special section, DealBook) (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE merger boom has created a subplot perfect for a spy thriller: a proliferation of code names that executives and investment bankers use to disguise the parties in a potential deal.</p>
+        <p>Often inspired by Greek gods, sports figures or city names, the code names turn up in early presentations in place of actual company names, which, at least in theory, are supposed to stay secret until an agreement is announced. A common approach is to substitute a word with the same first letter of each company, although deal makers sometimes get more fanciful.</p>
+      </block>
+      <block class="full_text">
+        <p>THE merger boom has created a subplot perfect for a spy thriller: a proliferation of code names that executives and investment bankers use to disguise the parties in a potential deal.</p>
+        <p>Often inspired by Greek gods, sports figures or city names, the code names turn up in early presentations in place of actual company names, which, at least in theory, are supposed to stay secret until an agreement is announced. A common approach is to substitute a word with the same first letter of each company, although deal makers sometimes get more fanciful.</p>
+        <p>Bankers hired last year to seek a possible buyer for Intrawest, which owns ski resorts and golf courses, referred to their mission as Project Wintergames. The connection: Intrawest owns the Whistler ski resort near Vancouver, British Columbia, the site of the 2010 Winter Olympics. (Intrawest agreed to be acquired by Fortress Investment Group, a private equity and hedge fund firm, for about $1.8 billion in August.)</p>
+        <p>Here are some big deals -- or near deals -- from the recent merger wave as well as earlier ones, and the pseudonyms they inspired. Can you match them?</p>
+        <p>For answers, see Page 10.</p>
+        <p>1. Project Bacon, featuring Abélard and Héloïse  2. Project Mountain, featuring Aspen, Birch and Cedar  3. Project FIFA, featuring Portugal, France and Italy  4. Project Chronos  5. Project Rangers, featuring Messier and Gretzky</p>
+        <p>a. Paramount's unsuccessful hostile bid for Time Inc. in 1989  b. AT&amp;T's $85.8 billion acquisition of BellSouth in 2006  c. Dean Witter, Discover's $10.2 billion acquisition of Morgan Stanley in 1997  d. Phelps Dodge and Inco's failed $18.1 billion merger in 2006 (and a third party)  e. Hewlett-Packard's $19 billion purchase of Compaq Computer in 2002</p>
+        <p>ANSWERS TO 'BREAKING THE CODE' ON PAGE 2</p>
+        <p>1-E. Bacon referred to the philosopher Sir Francis Bacon, and Héloïse (Hewlett-Packard) and Abélard (Compaq) are medieval French lovers. Carleton S. Fiorina, Hewlett-Packard's chief executive at the time, was a medieval history major.</p>
+        <p>2-B. Project Mountain was chosen because it united AT&amp;T and BellSouth was ''a long climb,'' someone in the transaction said last year. AT&amp;T was Aspen, BellSouth was Birch and Cingular Wireless, the mobile-phone venture that the two companies jointly owned, was Cedar.</p>
+        <p>3-D. This three-way mining deal, which never happened, emerged during last summer's World Cup games. Project FIFA stood for the Fédération Internationale de Football Association, the international soccer organization. Phelps Dodge was Portugal, Inco was Italy and Falconbridge was France.</p>
+        <p>4-A. Project Chronos used the Greek word for ''time'' to refer to Paramount's hostile bid for Time Inc.</p>
+        <p>5-C. Project Rangers referred to New York's hockey team, while Morgan Stanley was Messier -- after Mark Messier -- and Dean Witter was named after Wayne Gretzky. Richard B. Fisher, Morgan Stanley's chairman at the time, was a hockey fan.</p>
+        <p>OPENING BID</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

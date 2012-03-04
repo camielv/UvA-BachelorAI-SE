@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Elizabeth McGroarty, Matthew Lucey</title>
+    <meta content="29MCGROARTY" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/29/fashion/weddings/29MCGROARTY.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1843756"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">McGroarty, Elizabeth Cotter (Elizabeth Cotter Lucey)</person>
+        <person class="indexing_service">Lucey, Matthew Connolly</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DEEDD123EF93AA15757C0A9619C8B63" item-length="221" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Elizabeth McGroarty, Matthew Lucey</hl1>
+        <hl2 class="online_headline">Elizabeth McGroarty, Matthew Lucey</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Elizabeth Cotter McGroarty, a daughter of Elizabeth C. McGroarty and Robert G. McGroarty of Rowayton, Conn., was married last evening to Matthew Connolly Lucey, the son of Noreen K. Lucey and James J. Lucey III of Washington. The Rev. Brian McDermott, a Roman Catholic priest and family friend of the bride, performed the ceremony at the Shrine of St. Elizabeth Ann Seton in Manhattan. The Rev. Michael Hamilton, an Episcopal priest and an uncle of the bride, took part in the service.</p>
+        <p>Mrs. Lucey, 31, is a vice president specializing in client relationships at Saatchi &amp; Saatchi, the New York advertising firm. She graduated from DePauw University.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Elizabeth Cotter McGroarty, a daughter of Elizabeth C. McGroarty and Robert G. McGroarty of Rowayton, Conn., was married last evening to Matthew Connolly Lucey, the son of Noreen K. Lucey and James J. Lucey III of Washington. The Rev. Brian McDermott, a Roman Catholic priest and family friend of the bride, performed the ceremony at the Shrine of St. Elizabeth Ann Seton in Manhattan. The Rev. Michael Hamilton, an Episcopal priest and an uncle of the bride, took part in the service.</p>
+      </block>
+      <block class="full_text">
+        <p>Elizabeth Cotter McGroarty, a daughter of Elizabeth C. McGroarty and Robert G. McGroarty of Rowayton, Conn., was married last evening to Matthew Connolly Lucey, the son of Noreen K. Lucey and James J. Lucey III of Washington. The Rev. Brian McDermott, a Roman Catholic priest and family friend of the bride, performed the ceremony at the Shrine of St. Elizabeth Ann Seton in Manhattan. The Rev. Michael Hamilton, an Episcopal priest and an uncle of the bride, took part in the service.</p>
+        <p>Mrs. Lucey, 31, is a vice president specializing in client relationships at Saatchi &amp; Saatchi, the New York advertising firm. She graduated from DePauw University.</p>
+        <p>Her father, a former cable television executive who helped develop MTV, Nickelodeon and the Movie Channel, is a financial consultant in Rowayton. Her mother is the director of home-buyer programs for the Housing Development Fund, a nonprofit agency in Stamford, Conn.</p>
+        <p>Mr. Lucey, 33, specializes in investing in private oil and gas companies at M. E. Zukerman &amp; Company, an investment firm in Manhattan. He graduated from Marquette University.</p>
+        <p>His mother is an owner of Write for You, a stationery and gift store in Washington. His father retired from the Secret Service as special agent in charge of protective research. He is now chief of security at the National Gallery of Art in Washington.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

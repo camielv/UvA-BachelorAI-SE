@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Pope Benedict The Unexpected</title>
+    <meta content="l30pope" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1844061"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070430T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9907E1DB133EF933A05757C0A9619C8B63" item-length="222" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Pope Benedict The Unexpected</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''His Own Pope Yet?'' (Op-Ed, April 23):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''His Own Pope Yet?'' (Op-Ed, April 23):</p>
+        <p>David Gibson depicts Benedict XVI as a hard-liner who is trying to change his image by ''carefully accentuating the positive'' while in reality he's clamping down and being as reactionary as you might expect.</p>
+        <p>But Pope Benedict's writings are incongruous with this picture.</p>
+        <p>His first encyclical, ''God Is Love,'' turns out to include an exquisite summary of a notion that Benedict has been savoring for years: God's love, Benedict asserts, includes elements of eros, or love as desire, as well as agape, love as beneficence.</p>
+        <p>So could it be that he is saying something revolutionary, not reactionary, in a document meant to stamp his papacy? I think so, and his actions have followed suit.</p>
+        <p>The Regensburg, Germany, speech led to a colloquium and a dialogue with Muslim leaders. This isn't a surprise since the pope in his writings has long been a proponent of peace between religions as a way to peace between nations.</p>
+        <p>European intellectuals have found in him a sounding board for their ideas.</p>
+        <p>Just days ago, Benedict signed on to a document that makes the teaching of limbo a thing of the past. That doesn't seem to me like the pattern of a man bent on vindicating old dogmas.</p>
+        <p>Johanna Valiquette  New York, April 23, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

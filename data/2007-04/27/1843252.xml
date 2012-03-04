@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Inquiry Into Student Loan Industry Widens</title>
+    <meta content="27loans" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="25" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Education; U.S.; Washington" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/27/us/27loans.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1843252"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <classifier class="indexing_service" type="descriptor">Student Loans</classifier>
+        <org class="indexing_service">Education Department</org>
+        <person class="indexing_service">Miller, George (Rep)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="descriptor">Student Loans</classifier>
+        <classifier class="online_producer" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="descriptor">Education and Schools</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <org class="online_producer">New York Times</org>
+        <person class="online_producer">Miller, George</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070427T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F03E1DE123EF934A15757C0A9619C8B63" item-length="189" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Inquiry Into Student Loan Industry Widens</hl1>
+        <hl2 class="online_headline">Inquiry Into Student Loan Industry Widens</hl2>
+      </hedline>
+      <abstract>
+        <p>Investigations into student loan industry expand as Rep George Miller sends letter to Education Dept asking for review of department's policies against conflicts of interest and financial disclosure forms of employees overseeing federal loan program (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Investigations by lawmakers into the student loan industry expanded yesterday as Representative George Miller, Democrat of California and chairman of the House education committee, sent a letter to the inspector general of the Education Department asking for a review of the department's policies against conflicts of interest and the financial disclosure forms of employees overseeing the federal loan program.</p>
+        <p>Mr. Miller's letter follows one sent Wednesday by Senator Edward M. Kennedy, Democrat of Massachusetts and chairman of the Senate education committee, asking for ''complete personnel files'' for 27 department employees.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Representative George Miller, Democrat of California, asked for a review of the Education Department’s policies against conflicts of interest.</p>
+      </block>
+      <block class="full_text">
+        <p>Investigations by lawmakers into the student loan industry expanded yesterday as Representative George Miller, Democrat of California and chairman of the House education committee, sent a letter to the inspector general of the Education Department asking for a review of the department's policies against conflicts of interest and the financial disclosure forms of employees overseeing the federal loan program.</p>
+        <p>Mr. Miller's letter follows one sent Wednesday by Senator Edward M. Kennedy, Democrat of Massachusetts and chairman of the Senate education committee, asking for ''complete personnel files'' for 27 department employees.</p>
+        <p>Mr. Kennedy has also begun to explore how student loan companies collect repayment.</p>
+        <p>In a letter, he said that two large lenders, Sallie Mae and Nelnet, may have made harassing phone calls to borrowers; tried to collect from elderly or disabled borrowers; and refused to negotiate with borrowers on repayment deferrals, among other tactics.</p>
+        <p>Tom Joyce, a spokesman for Sallie Mae, said that the company would cooperate with Mr. Kennedy's investigation but criticized it for being conducted ''through press releases.''</p>
+        <p>A Nelnet spokesman, Ben Kiser, said that the company was reviewing Mr. Kennedy's letter and that it would cooperate.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

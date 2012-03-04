@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Christina Harris, Caleb DesRosiers</title>
+    <meta content="15HARRIS" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/15/fashion/weddings/15HARRIS.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840484"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Harris, Dr. Christina Elaine</person>
+        <person class="indexing_service">DesRosiers, Caleb</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9506E0D9133FF936A25757C0A9619C8B63" item-length="234" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Christina Harris, Caleb DesRosiers</hl1>
+        <hl2 class="online_headline">Christina Harris and Caleb DesRosiers</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Dr. Christina Elaine Harris and Caleb DesRosiers were married last evening at El Cortez, an event space in San Diego. Renate Anne Daversa, a Universal Life minister, officiated.</p>
+        <p>Dr. Harris, 29, is keeping her name. She is a primary care physician on staff at NewYork-Presbyterian Hospital/Weill Cornell Medical Center in Manhattan, and is stationed at Long Island City Community Practice in Queens. She graduated from the University of Southern California and received her medical degree from Harvard.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The couple were married Saturday evening at El Cortez, an event space in San Diego. Renate Anne Daversa, a Universal Life minister, officiated.</p>
+      </block>
+      <block class="full_text">
+        <p>Dr. Christina Elaine Harris and Caleb DesRosiers were married last evening at El Cortez, an event space in San Diego. Renate Anne Daversa, a Universal Life minister, officiated.</p>
+        <p>Dr. Harris, 29, is keeping her name. She is a primary care physician on staff at NewYork-Presbyterian Hospital/Weill Cornell Medical Center in Manhattan, and is stationed at Long Island City Community Practice in Queens. She graduated from the University of Southern California and received her medical degree from Harvard.</p>
+        <p>She is the daughter of Suzanne C. Harris of San Diego and Leonardo Harris of Los Angeles. Her father is a housing inspector for Inglewood Neighborhood Housing Services, an organization in Inglewood, Calif., that promotes home ownership, home improvement and housing development for low- and moderate-income families. Her mother is a waitress at Hideaway Cafe in Solana Beach, Calif.</p>
+        <p>The bridegroom, 34, is a director of public policy at Roche Pharmaceuticals in Nutley, N.J. He is also on the boards of the Massachusetts Association for Mental Health, a private nonprofit organization that develops community-based education, health care and mental services for children and adults; and Central Boston Elder Services, which provides services to low-income elderly people. He graduated from Suffolk University in Boston, where he also received a master's degree in public administration and a law degree.</p>
+        <p>He is a son of Gisele Dorcely of Boston. His mother retired as a nurse assistant at Boston Medical Center.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

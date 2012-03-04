@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   SHAFFER, MARTIN</title>
+    <meta content="dn042707" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1843109"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">SHAFFER, MARTIN</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070427T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE6DD163AF934A15757C0A9619C8B63" item-length="60" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   SHAFFER, MARTIN</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>SHAFFER--Martin. Union Temple of Brooklyn mourns the loss of our beloved Vice President, Vice President of our Brotherhood and Cochair of the Building Committee. May his memory serve as an eternal blessing. Service 11:15am Sunday, from Union Temple of Brooklyn, 17 Eastern Pkwy, Brooklyn, NY. Dr. Linda Henry Goodman, Rabbi Dr. A. Stanley Dreyfus, Rabbi Emeritus Doris Klueger, President</p>
+      </block>
+      <block class="full_text">
+        <p>SHAFFER--Martin. Union Temple of Brooklyn mourns the loss of our beloved Vice President, Vice President of our Brotherhood and Cochair of the Building Committee. May his memory serve as an eternal blessing. Service 11:15am Sunday, from Union Temple of Brooklyn, 17 Eastern Pkwy, Brooklyn, NY. Dr. Linda Henry Goodman, Rabbi Dr. A. Stanley Dreyfus, Rabbi Emeritus Doris Klueger, President</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

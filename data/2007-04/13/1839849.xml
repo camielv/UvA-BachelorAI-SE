@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>BREAKING GROUND</title>
+    <meta content="13break1" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Escapes" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="http://www.nytimes.com/2007/04/13/realestate/greathomes/13break1.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1839849"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Breaking Ground"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Travel and Vacations</classifier>
+        <classifier class="indexing_service" type="descriptor">Housing</classifier>
+        <classifier class="indexing_service" type="descriptor">Condominiums</classifier>
+        <classifier class="indexing_service" type="descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="indexing_service" type="descriptor">Fishing, Sport</classifier>
+        <classifier class="indexing_service" type="descriptor">Boats and Boating</classifier>
+        <location class="indexing_service">Puerto Penasco (Mex)</location>
+        <location class="indexing_service">Marathon (Fla)</location>
+        <person class="indexing_service">Kaye, Nick</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Escapes</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Locations/Florida</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Great Homes</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Golf</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Locations/Regions</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Luxury and Vacations/Vacation</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Luxury and Vacations/Golf</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Boating</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Real Estate</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Fishing</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Golf</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/Mexico</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Florida/Florida Keys</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Florida/Florida Keys/Upper and Middle Keys</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Florida</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Beaches</classifier>
+        <classifier class="online_producer" type="descriptor">Housing</classifier>
+        <classifier class="online_producer" type="descriptor">Golf</classifier>
+        <classifier class="online_producer" type="descriptor">Real Estate</classifier>
+        <classifier class="online_producer" type="general_descriptor">Real Estate</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fishing, Sport</classifier>
+        <classifier class="online_producer" type="general_descriptor">Condominiums</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="online_producer" type="general_descriptor">Boats and Boating</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Golf</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+        <location class="online_producer">Mexico</location>
+        <location class="online_producer">Florida</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070413T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B04E6DE133FF930A25757C0A9619C8B63" item-length="560" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>BREAKING GROUND</hl1>
+        <hl2 class="online_headline">Marlin Bay Yacht Club and Las Palomas Beach &amp; Golf Resort</hl2>
+      </hedline>
+      <byline class="print_byline">By NICK KAYE</byline>
+      <byline class="normalized_byline">Kaye, Nick</byline>
+      <abstract>
+        <p>Breaking Ground column describes Las Palomas Beach &amp; Golf Resort in Puerto Penasco, Mex, and Marlin Bay Yacht Club, residential project aimed at fishing and boating enthusiasts in Marathon, Fla; photo; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Las Palomas Beach &amp; Golf Resort</p>
+        <p>WHAT -- Large-scale expansion of a resort community.  WHERE -- Puerto Peñasco, Mexico.  AMENITIES -- Beach access and a golf course, among others.  PRICES -- Condominiums from $340,000 to $1.9 million.  STATUS -- Construction of more than 400 new units is planned to be completed this year; the third phase of construction, with more than 600 units, began last fall.  DEVELOPER -- Worldwide Group.  CONTACT -- (52) 638-108-1090 or www.lpsgc.com.  DETAILS -- This 350-acre development is on the Sea of Cortez in Sonora state about 60 miles south of the United States border. It opened last May and now offers 413 condo-hotel units in five 12-story beachfront buildings. Four more buildings with 424 units are planned for this year, and the third phase of residences, five 15-story buildings, will add more than 600 units to the development in 2008. The new units, like those there now, will be 1,063 to 6,752 square feet with one to five bedrooms (including penthouses). All have terraces and water views. Some of the units in the third phase will be sold as fractional residences, though details of the fractional setup -- the size of the shares and the amount of time owners will have in their units -- have not been determined. Overall, the development's master plan calls for 2,000 residences, including town houses and stand-alone houses. The golf course is an 18-hole links course, and a full-service spa, an area of shops and an event space are expected to open this year. Also this year, construction of a beach club is expected to begin. Other amenities, now available, include pools (one an infinity pool), a water slide, a ''lazy river'' for floating, a fitness center and restaurants. Shuttle service from the airport in Phoenix, Ariz., about three and a half hours away, began recently.</p>
+        <p>Marlin Bay Yacht Club</p>
+        <p>WHAT -- Residential project aimed at fishing and boating enthusiasts.  WHERE -- Marathon, Fla.  AMENITIES -- A marina and a swimming pool, among others.  PRICES -- Residences from $1.9 million.  STATUS -- Construction of the first residences and the amenities is under way, expected to be completed this summer.  DEVELOPERS -- Sandler at Greater Marathon Bay and SouthStar Development Partners.  CONTACT -- (877) 878-2762 or www.marlinbay-keys.com.  DETAILS -- This gated project, in the Florida Keys about 115 miles south of Miami, consists of 84 stand-alone, full-ownership residences and a staffed marina with 99 slips. The residences, as large as 3,600 square feet, will be three stories with at least three bedrooms. They will all have two-car garages and terraces, and some will have rooftop decks. A slip at the marina, which will be capable of accommodating boats up to 70 feet in length, will be designated for each residence. At the tip of a point that encloses part of the marina will be an observation tower with unobstructed views to the west. A bar and cabanas will be positioned near the pool, which will have beach-entry on one side; a clubhouse with a spa and fitness center are planned. Marathon, with a population of about 9,800, according to the Census Bureau, has restaurants, shops and an airport with flights from Atlanta.</p>
+        <p>NICK KAYE</p>
+        <p>Breaking Ground is a weekly look at projects, planned or under construction, that include weekend or vacation homes.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A residential project in Marathon, Fla., and a resort community expansion in Mexico.</p>
+      </block>
+      <block class="full_text">
+        <p>Las Palomas Beach &amp; Golf Resort</p>
+        <p>WHAT -- Large-scale expansion of a resort community.  WHERE -- Puerto Peñasco, Mexico.  AMENITIES -- Beach access and a golf course, among others.  PRICES -- Condominiums from $340,000 to $1.9 million.  STATUS -- Construction of more than 400 new units is planned to be completed this year; the third phase of construction, with more than 600 units, began last fall.  DEVELOPER -- Worldwide Group.  CONTACT -- (52) 638-108-1090 or www.lpsgc.com.  DETAILS -- This 350-acre development is on the Sea of Cortez in Sonora state about 60 miles south of the United States border. It opened last May and now offers 413 condo-hotel units in five 12-story beachfront buildings. Four more buildings with 424 units are planned for this year, and the third phase of residences, five 15-story buildings, will add more than 600 units to the development in 2008. The new units, like those there now, will be 1,063 to 6,752 square feet with one to five bedrooms (including penthouses). All have terraces and water views. Some of the units in the third phase will be sold as fractional residences, though details of the fractional setup -- the size of the shares and the amount of time owners will have in their units -- have not been determined. Overall, the development's master plan calls for 2,000 residences, including town houses and stand-alone houses. The golf course is an 18-hole links course, and a full-service spa, an area of shops and an event space are expected to open this year. Also this year, construction of a beach club is expected to begin. Other amenities, now available, include pools (one an infinity pool), a water slide, a ''lazy river'' for floating, a fitness center and restaurants. Shuttle service from the airport in Phoenix, Ariz., about three and a half hours away, began recently.</p>
+        <p>Marlin Bay Yacht Club</p>
+        <p>WHAT -- Residential project aimed at fishing and boating enthusiasts.  WHERE -- Marathon, Fla.  AMENITIES -- A marina and a swimming pool, among others.  PRICES -- Residences from $1.9 million.  STATUS -- Construction of the first residences and the amenities is under way, expected to be completed this summer.  DEVELOPERS -- Sandler at Greater Marathon Bay and SouthStar Development Partners.  CONTACT -- (877) 878-2762 or www.marlinbay-keys.com.  DETAILS -- This gated project, in the Florida Keys about 115 miles south of Miami, consists of 84 stand-alone, full-ownership residences and a staffed marina with 99 slips. The residences, as large as 3,600 square feet, will be three stories with at least three bedrooms. They will all have two-car garages and terraces, and some will have rooftop decks. A slip at the marina, which will be capable of accommodating boats up to 70 feet in length, will be designated for each residence. At the tip of a point that encloses part of the marina will be an observation tower with unobstructed views to the west. A bar and cabanas will be positioned near the pool, which will have beach-entry on one side; a clubhouse with a spa and fitness center are planned. Marathon, with a population of about 9,800, according to the Census Bureau, has restaurants, shops and an airport with flights from Atlanta.</p>
+        <p>NICK KAYE</p>
+        <p>Breaking Ground is a weekly look at projects, planned or under construction, that include weekend or vacation homes.  Breaking Ground</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>REALLY?</title>
+    <meta content="01real" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Health&amp;Fitness" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/05/01/health/01real.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1844175"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Really?"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Columns/Really?</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Back Pain</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Pain</classifier>
+        <classifier class="online_producer" type="descriptor">Back (Human Body Part)</classifier>
+        <classifier class="online_producer" type="descriptor">Pain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Back (Human Body Part)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Pain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070501T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9507E5D9133EF932A35756C0A9619C8B63" item-length="258" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>REALLY?</hl1>
+        <hl2 class="online_headline">The Claim: Heat Wraps Ease Back Pain</hl2>
+      </hedline>
+      <byline class="print_byline">By ANAHAD O'CONNOR</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE CLAIM -- Heat wraps ease back pain.</p>
+        <p>THE FACTS -- About half of all working-age Americans experience chronic back pain at some point. For relief, many people turn to heat therapy, a cheap and age-old home remedy.</p>
+        <p>But how effective is it?</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Just how effective is heat therapy, a cheap and age-old home remedy for back pain?</p>
+      </block>
+      <block class="full_text">
+        <p>THE CLAIM -- Heat wraps ease back pain.</p>
+        <p>THE FACTS -- About half of all working-age Americans experience chronic back pain at some point. For relief, many people turn to heat therapy, a cheap and age-old home remedy.</p>
+        <p>But how effective is it?</p>
+        <p>Over the years, dozens of studies have sought an answer. Most have found that applying heat in the early stages of an episode provides short-term relief, increasing mobility and reducing pain by dilating blood vessels and relaxing stiffness.</p>
+        <p>One of the largest studies looked at nine previous studies of nearly 1,200 people. The analysis, published in The Cochrane Database of Systematic Reviews, found that five days of heat therapy -- mostly in the form of wraps -- significantly reduced pain after five days compared with oral placebos and other remedies. There was less evidence for the reverse technique, cold therapy, though many doctors swear by it.</p>
+        <p>But combining therapies may be the best approach. One large, randomized study in 2005, for example, compared various treatments and found that after seven days, about 70 percent of subjects who combined heat therapy with light exercise returned to ''pre-injury function,'' compared with 20 percent who used heat or exercise alone.</p>
+        <p>Bed rest, however, seems to be another story. Most studies have found that it helps at first but that after two days it begins to do harm, weakening muscles and increasing the risk of blood clots.</p>
+        <p>THE BOTTOM LINE -- At least in the short term, heat therapy appears to relieve back pain.</p>
+        <p>ANAHAD O'CONNOR</p>
+        <p>Really?</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

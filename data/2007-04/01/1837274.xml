@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Elizabeth Lastique, Lincoln Farr</title>
+    <meta content="01lastique" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/01/fashion/weddings/01lastique.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837274"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Lastique, Elizabeth Marie</person>
+        <person class="indexing_service">Farr, Lincoln Maccoun</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B06E6DB1130F932A35757C0A9619C8B63" item-length="153" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Elizabeth Lastique, Lincoln Farr</hl1>
+        <hl2 class="online_headline">Elizabeth Lastique, Lincoln Farr</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Elizabeth Marie Lastique and Lincoln Maccoun Farr were married yesterday at the Park, a restaurant in New York. Bradford Cokelet, an assistant pastor of the Church of Spiritual Humanism, officiated.</p>
+        <p>Ms. Lastique, 31, is keeping her name. She is the program director at Creative Arts Workshops for Kids, a nonprofit organization in northern Manhattan. She graduated from Pratt Institute with highest honors.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Elizabeth Marie Lastique and Lincoln Maccoun Farr were married yesterday at the Park, a restaurant in New York. Bradford Cokelet, an assistant pastor of the Church of Spiritual Humanism, officiated.</p>
+      </block>
+      <block class="full_text">
+        <p>Elizabeth Marie Lastique and Lincoln Maccoun Farr were married yesterday at the Park, a restaurant in New York. Bradford Cokelet, an assistant pastor of the Church of Spiritual Humanism, officiated.</p>
+        <p>Ms. Lastique, 31, is keeping her name. She is the program director at Creative Arts Workshops for Kids, a nonprofit organization in northern Manhattan. She graduated from Pratt Institute with highest honors.</p>
+        <p>She is the daughter of Margaret and Conrad Lastique of Croton-on-Hudson, N.Y. Her father, who is retired, worked in Harrison as a computer systems engineer at I.B.M. Her mother, a social worker, is the director of patient and community programs at Hudson River HealthCare, in Peekskill.</p>
+        <p>Mr. Farr, 33, is an associate producer at David Grubin Productions in New York. He graduated magna cum laude from Colby College.</p>
+        <p>The bridegroom's mother is Roberta Farr of Ocean View, Del. His father, the late David Farr, was a purser in the merchant marine.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>From Termites to Turner Field</title>
+    <meta content="03braves" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837791"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/Atlanta Braves</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070403T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B06E2DB1F30F930A35757C0A9619C8B63" item-length="148" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>From Termites to Turner Field</hl1>
+      </hedline>
+      <dateline>ATLANTA, April 2</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Casey Motter, a termite inspector from Peachtree City, Ga., with a touch of a Southern accent, has been named the Atlanta Braves' public-address announcer. He will be behind the microphone when the Mets play the Braves at Turner Field on Friday in Atlanta's home opener.</p>
+        <p>Frank Wren, an assistant general manager with the Braves, heard Motter announcing a youth league football game in November. Wren turned his video camera to the press box and recorded Motter.</p>
+      </block>
+      <block class="full_text">
+        <p>Casey Motter, a termite inspector from Peachtree City, Ga., with a touch of a Southern accent, has been named the Atlanta Braves' public-address announcer. He will be behind the microphone when the Mets play the Braves at Turner Field on Friday in Atlanta's home opener.</p>
+        <p>Frank Wren, an assistant general manager with the Braves, heard Motter announcing a youth league football game in November. Wren turned his video camera to the press box and recorded Motter.</p>
+        <p>Wren gave the tape to the Braves' officials in charge of game operations, and Motter was invited to a March 21 audition with 12 other candidates.</p>
+        <p>Motter won the job over radio and commercial personalities who also tried out.</p>
+        <p>Right after his audition, Motter said that if he was hired, he would probably keep his job as an exterminator and also try to announce some of his boys' baseball and football games.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

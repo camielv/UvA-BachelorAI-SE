@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Film in Review; Ping Pong</title>
+    <meta content="06roun-2" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838387"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Catsoulis, Jeannette</person>
+        <person class="indexing_service">Sori (Director)</person>
+        <person class="indexing_service">Kubozuka, Yosuke</person>
+        <object.title class="indexing_service">Ping Pong (Movie)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/Reviews</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070406T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9501E6DB173FF935A35757C0A9619C8B63" item-length="284" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Film in Review; Ping Pong</hl1>
+      </hedline>
+      <byline class="print_byline">By JEANNETTE CATSOULIS</byline>
+      <byline class="normalized_byline">Catsoulis, Jeannette</byline>
+      <abstract>
+        <p>Jeannette Catsoulis reviews film Ping Pong, directed by Sori; Yosuke Kubozuka stars; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Opens today in Manhattan  Directed by Sori  In Japanese, with English subtitles  114 minutes; not rated</p>
+        <p>Those with fond memories of desultory games of table tennis at the local Y.M.C.A. will be totally unprepared for ''Ping Pong,'' probably the most extravagant celebration of a childhood game ever committed to film. Based on Taiyo Matsumoto's popular comic and fetishizing teenage angst as only the Japanese can, the movie examines male friendship through the prism of extreme sport. And if you don't think Ping-Pong is extreme, prepare to be persuaded otherwise.</p>
+      </block>
+      <block class="full_text">
+        <p>Opens today in Manhattan  Directed by Sori  In Japanese, with English subtitles  114 minutes; not rated</p>
+        <p>Those with fond memories of desultory games of table tennis at the local Y.M.C.A. will be totally unprepared for ''Ping Pong,'' probably the most extravagant celebration of a childhood game ever committed to film. Based on Taiyo Matsumoto's popular comic and fetishizing teenage angst as only the Japanese can, the movie examines male friendship through the prism of extreme sport. And if you don't think Ping-Pong is extreme, prepare to be persuaded otherwise.</p>
+        <p>A story about heroes and where we find them, ''Ping Pong'' follows the fortunes of two childhood friends and their wooden paddles as they embark on a major high school tournament. The Beatle-haired Peco (Yosuke Kubozuka) acquired his skill the hard way, his fanatical work ethic stoked by a chain-smoking granny and a manic personality. His friend Smile (Arata) -- so called because he never does -- is a natural talent who would rather mope than practice. But when Peco suffers a humiliating defeat at the hands of a bald batting machine called Dragon (Shidou Nakamura), both boys are forced to, you know, think about stuff.</p>
+        <p>Stylistically stunning and completely nuts, ''Ping Pong'' is nevertheless perceptive about male social hierarchies and the benefits of knowing your place. Between the pistoning elbows and whizzing balls, the director, Sori, repeatedly films his protagonists sitting on stairs, subtly altering their positions as the story progresses. In fact, when not busying himself with slow-motion sweat and eye-popping backspins, Sori has a lot to say about the heart-versus-skill conflict and the demands of natural talent. It's just difficult to hear him over the noise of those balls.</p>
+        <p>JEANNETTE CATSOULIS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

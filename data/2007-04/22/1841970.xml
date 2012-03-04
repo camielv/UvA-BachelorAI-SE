@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New Tricks</title>
+    <meta content="22letters.t-2" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1841970"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Dogs</classifier>
+        <person class="indexing_service">witty, alan r</person>
+        <person class="indexing_service">smith-bernstein, deborah</person>
+        <person class="indexing_service">Shakman, Jane</person>
+        <person class="indexing_service">Dawn, Karen</person>
+        <person class="indexing_service">griggs, debra`</person>
+        <person class="indexing_service">burkett, betty</person>
+        <person class="indexing_service">hedges, roman</person>
+        <person class="indexing_service">schwager, marian</person>
+        <person class="indexing_service">Siebert, Charles</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dogs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9504E6D6113FF931A15757C0A9619C8B63" item-length="431" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New Tricks</hl1>
+      </hedline>
+      <abstract>
+        <p>Charles Siebert's April 8 article on efforts by animal shelters to match people with dogs in need of adoption prompts letters from Marian Schwager and Roman Hedges, Betty Burkett, Debra Griggs, Karen Dawn, Jane Shakman, Deborah Smith-Bernstein and Alan R Witty</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Charles Siebert's article (April 8) provided good insight into the experiences of people like us looking to adopt a shelter dog. When we started on the quest, we were taken aback by the psychological grilling associated with the adoption process. The shelter even insisted on conducting home visits to ''check us out.'' Had we not read the article, we would have continued in our assumption that the rescue folks were well intentioned but way over the top in their desire to get the adoption process to stick.</p>
+      </block>
+      <block class="full_text">
+        <p>Charles Siebert's article (April 8) provided good insight into the experiences of people like us looking to adopt a shelter dog. When we started on the quest, we were taken aback by the psychological grilling associated with the adoption process. The shelter even insisted on conducting home visits to ''check us out.'' Had we not read the article, we would have continued in our assumption that the rescue folks were well intentioned but way over the top in their desire to get the adoption process to stick.</p>
+        <p>Marian Schwager</p>
+        <p>roman hedges</p>
+        <p>Delmar, N.Y.</p>
+        <p>Our local animal shelter does not handle the number of animals that Town Lake does, but its intake is still way too high for our small area. The people who manage the shelter do their best to find homes for their charges. What a horrific job, to walk the runs making decisions that mean life and death for animals.</p>
+        <p>Betty Burkett</p>
+        <p>Moundsville, W.Va.</p>
+        <p>Diane Mollaghan, an animal-behavior researcher, says shelter dogs who are about to be killed ''vomit or soil themselves the minute they enter the euthanasia room.'' How heartbreaking that they know they are about to die, and how humbling. For if they do know, then they must be very smart.</p>
+        <p>Debra Griggs</p>
+        <p>Norfolk, Va.</p>
+        <p>I send thanks for your strong coverage of shelter-animal adoption, though I did have some discomfort with Siebert's tale of putting himself on the waiting list for the cutest dog. I have a friend who found a cat she adores by walking into a shelter and asking, ''Who has been here the longest?''</p>
+        <p>Karen Dawn</p>
+        <p>Pacific Palisades, Calif.</p>
+        <p>Thank you for Charles Siebert's poignant article. I always look forward to his work and he hasn't disappointed me so far. He is a great friend to our nonhuman friends.</p>
+        <p>Jane Shakman</p>
+        <p>Ossining, N.Y.</p>
+        <p>Siebert does mention that many dogs that make their way into shelters are purebreds; however, he does not reveal that most of these are the product of puppy mills that churn out an endless supply of merchandise for pet stores. These farms are not overly concerned that negative traits, both behavioral and physical, may have been bred into these animals.</p>
+        <p>Deborah Smith-Bernstein</p>
+        <p>North Salem, N.Y.</p>
+        <p>Why so many abandonments? Given the nature of our culture, is it any surprise? The parent left in the nursing home, the homeless man who valiantly served his country. This is a message that we hear all the time: money and convenience over compassion and loyalty.</p>
+        <p>Alan R. Witty</p>
+        <p>Fort Collins, Colo</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

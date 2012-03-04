@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Hospital Hierarchy</title>
+    <meta content="24lett-4" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1842636"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Doctors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medical Schools</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medical Schools</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hospitals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Graduate Schools and Students</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070424T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980CE5DD143EF937A15757C0A9619C8B63" item-length="145" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Hospital Hierarchy</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>I am a nursing student, not a medical student, but Dr. Barron H. Lerner's essay ''In a Hospital Hierarchy, Speaking Up is Hard to Do'' (April 17) struck a chord with me. Care providers at all levels, including nurses, pharmacists and other personnel, should feel free to voice their concerns.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>I am a nursing student, not a medical student, but Dr. Barron H. Lerner's essay ''In a Hospital Hierarchy, Speaking Up is Hard to Do'' (April 17) struck a chord with me. Care providers at all levels, including nurses, pharmacists and other personnel, should feel free to voice their concerns.</p>
+        <p>The issue is not simply providing feedback, but also asking questions, clarifying orders and discussing mistakes in an open manner. We need to make an active effort to cultivate this type of collaboration and teamwork. Patient safety depends on it.</p>
+        <p>Kristen Fong  San Francisco</p>
+        <p>To the Editor:</p>
+        <p>Sacrificing the patient's welfare to avoid bruising a doctor's ego (with possible punitive consequences) would seem to negate the dictum ''First, do no harm.'' The patient should not be at the bottom of the hierarchy.</p>
+        <p>Phyllis Bogen  Cresskill, N.J.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

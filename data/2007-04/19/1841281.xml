@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   ROSSEN, STEPHEN M.</title>
+    <meta content="dn041907.1" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1841281"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">ROSSEN, STEPHEN M.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070419T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0CEFD81F3AF93AA25757C0A9619C8B63" item-length="85" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   ROSSEN, STEPHEN M.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ROSSEN--Stephen M., died April 17th, at the age of 67. A wonderful husband to Susan Ko, adored father of Benjamin, Daniel, and Dan Ko. Devoted son to Sue and the late Robert Rossen. Extraordinary brother and uncle to Ellen, Carol, and Eve Holbrook. He was smart, funny, and loving. He will be deeply missed. Contributions to the Jay Monahan Center for G.I. Health, 1315 York Ave, New York 10021. Services at 1pm, Thursday, April 19th, at the Plaza Community Funeral Home, 91st and Amsterdam.</p>
+      </block>
+      <block class="full_text">
+        <p>ROSSEN--Stephen M., died April 17th, at the age of 67. A wonderful husband to Susan Ko, adored father of Benjamin, Daniel, and Dan Ko. Devoted son to Sue and the late Robert Rossen. Extraordinary brother and uncle to Ellen, Carol, and Eve Holbrook. He was smart, funny, and loving. He will be deeply missed. Contributions to the Jay Monahan Center for G.I. Health, 1315 York Ave, New York 10021. Services at 1pm, Thursday, April 19th, at the Plaza Community Funeral Home, 91st and Amsterdam.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

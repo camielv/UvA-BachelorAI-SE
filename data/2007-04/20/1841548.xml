@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Natalia Clare, 87, Dancer With Ballets Russes Troupes</title>
+    <meta content="20clare" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Obituaries" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/20/arts/dance/20clare.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1841548"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="biographical_categories">Dancing</classifier>
+        <classifier class="indexing_service" type="names">Natalia Clare</classifier>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obits)</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance</classifier>
+        <classifier class="online_producer" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="descriptor">Dancing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dancing</classifier>
+        <org class="online_producer">Ballets Russes</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070420T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9500E3DA1F3FF933A15757C0A9619C8B63" item-length="374" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Natalia Clare, 87, Dancer With Ballets Russes Troupes</hl1>
+        <hl2 class="online_headline">Natalia Clare, 87, Dancer With Ballets Russes Troupes, Dies</hl2>
+      </hedline>
+      <byline class="print_byline">By JACK ANDERSON</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Natalia Clare, a member of both of the influential Ballets Russes troupes of the 1940s and '50s and the founder of a prominent Los Angeles ballet school, died April 8 at her residence in Torrance, Calif. She was 87.</p>
+        <p>The cause was complications of a stroke, said her son, Alex Tupine, of Redondo Beach, Calif.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Ms. Clare was a member of both of the influential Ballets Russes troupes of the 1940s and ’50s and the founder of a prominent Los Angeles ballet school.</p>
+      </block>
+      <block class="full_text">
+        <p>Natalia Clare, a member of both of the influential Ballets Russes troupes of the 1940s and '50s and the founder of a prominent Los Angeles ballet school, died April 8 at her residence in Torrance, Calif. She was 87.</p>
+        <p>The cause was complications of a stroke, said her son, Alex Tupine, of Redondo Beach, Calif.</p>
+        <p>Ms. Clare achieved prominence at a time when American dancers were demonstrating that, despite the initial doubts of some skeptics, they could be the artistic equals of the foreign-born members of the Ballets Russes.</p>
+        <p>Born Sept. 3, 1919, in Los Angeles, Ms. Clare was the daughter of Lilian Mettler and Paul H. Conlon, a publicist and Los Angeles Times reporter known as Scoop Conlon, and she occasionally performed under the name of Natalia Conlon.</p>
+        <p>She studied at the Los Angeles school established by Bronislava Nijinska, the celebrated choreographer for Serge Diaghilev's Ballets Russes and a pedagogical perfectionist. Ms. Clare's classmates in Nijinska's studio included Cyd Charisse and the young sisters and future ballerinas Maria and Marjorie Tallchief. Ms. Clare made her debut at the Hollywood Bowl in 1940 in a company organized by Nijinska, and in 1942 she was discovered in one of Nijinska's classes by Col. W. de Basil, a founder of de Basil's Ballets Russes.</p>
+        <p>After touring internationally for five years with that company, she returned to America during the 1947-48 season, when she appeared with the Markova-Dolin Ballet, led by the British ballet stars Alicia Markova and Anton Dolin. She joined the Ballet Russe de Monte Carlo the next season, remaining with it until 1952.</p>
+        <p>In 1956 she opened her own Los Angeles studio, which quickly established itself as one of Southern California's leading schools. It served as the headquarters of Ballet la Jeunesse, which Ms. Clare founded in 1958. That group of young dancers attracted the attention of many choreographers, among them George Balanchine, who gave it permission to perform his ''Concerto Barocco'' and ''Serenade,'' as staged by John Taras, the New York City Ballet's ballet master.</p>
+        <p>Ms. Clare married the dancer Oleg Tupine in 1945; they were divorced in 1964. In 1986 she married Michael Liotweizen, a composer and pianist who died in 1995. Her son is her only immediate survivor.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

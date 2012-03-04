@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Art in Review; Amy Cutler</title>
+    <meta content="20gall-3" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="32" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1841629"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070420T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F05EED71F3FF933A15757C0A9619C8B63" item-length="251" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Art in Review; Amy Cutler</hl1>
+      </hedline>
+      <byline class="print_byline">By BRIDGET L. GOODBODY</byline>
+      <byline class="normalized_byline">Goodbody, Bridget L</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Leslie Tonkonow Artworks &amp; Projects  535 West 22nd Street, Chelsea  Through April 28</p>
+        <p>In another stellar show Amy Cutler fabricates an imaginary women-only world. Taking on the roles of anthropologist and storyteller, she depicts her characters in the rituals of daily living, an impressive blend of science and art that demonstrates the many ways a woman's work is never done.</p>
+      </block>
+      <block class="full_text">
+        <p>Leslie Tonkonow Artworks &amp; Projects  535 West 22nd Street, Chelsea  Through April 28</p>
+        <p>In another stellar show Amy Cutler fabricates an imaginary women-only world. Taking on the roles of anthropologist and storyteller, she depicts her characters in the rituals of daily living, an impressive blend of science and art that demonstrates the many ways a woman's work is never done.</p>
+        <p>The fine-line style of these gouaches and lithographs -- note the attention Ms. Cutler pays to the details of the vintage clothing -- brings to mind the prints of 19th-century ethnographers like George Catlin and Karl Bodmer.</p>
+        <p>When she moves from anthropological classification to fantasy, her figures adapt, evolutionlike, to the tasks at hand. ''Millie,'' for example, is part female, part rowboat. Her hand has turned into a paddle's blade. The women's feet are shears in ''Garnering,'' a wheat harvest scene. In some images the women's legs have turned into stilts that resemble reindeer legs, so they can better reach fruit on tall trees.</p>
+        <p>While her work can't be classified as feminist art, it gains contemporary currency by portraying cultural mores that may still restrict women. ''Dwelling'' takes on the ritual of marriage. It shows women (with mattresses strapped to their backs and canopies as headdresses) transformed into Chinese bridal carriages, the vehicles used to transport the brides and their dowries to the houses of their mothers-in-law.</p>
+        <p>This ritual may no longer happen, but the image prompts thoughts about how marriage continues to domesticate women.</p>
+        <p>BRIDGET L. GOODBODY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

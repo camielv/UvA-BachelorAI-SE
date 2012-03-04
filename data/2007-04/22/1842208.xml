@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="22sbizcorrection-3" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Corrections; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1842208"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hotels and Motels</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E0DA163EF931A15757C0A9619C8B63" item-length="111" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Checking In column last Sunday, about increased hotel development in Lower Manhattan, referred incorrectly to four hotels being developed by the McSam Hotel Group. At 20 Maiden Lane, the hotel will be a Wyndham, not a Holiday Inn Express, and it will have 113 rooms, not 101. At 99 Washington Street, the hotel will be a Holiday Inn with 370 rooms, not 371; it is not unnamed. At 8 Stone Street, a hotel yet to be named will have 400 rooms, not 192; it is not a Doubletree. And at 33 Beekman Street, a hotel yet to be named will have 350 rooms, not 288; it is not a Westin.</p>
+      </block>
+      <block class="full_text">
+        <p>The Checking In column last Sunday, about increased hotel development in Lower Manhattan, referred incorrectly to four hotels being developed by the McSam Hotel Group. At 20 Maiden Lane, the hotel will be a Wyndham, not a Holiday Inn Express, and it will have 113 rooms, not 101. At 99 Washington Street, the hotel will be a Holiday Inn with 370 rooms, not 371; it is not unnamed. At 8 Stone Street, a hotel yet to be named will have 400 rooms, not 192; it is not a Doubletree. And at 33 Beekman Street, a hotel yet to be named will have 350 rooms, not 288; it is not a Westin.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

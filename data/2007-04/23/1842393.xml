@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Afghan Bombings Kill 9 and Wound More Than 40</title>
+    <meta content="23afghan" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/23/world/asia/23afghan.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842393"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Afghanistan</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Afghanistan</classifier>
+        <classifier class="online_producer" type="descriptor">Bombs and Explosives</classifier>
+        <classifier class="online_producer" type="descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bombs and Explosives</classifier>
+        <location class="online_producer">Afghanistan</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070423T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9800E1DA173EF930A15757C0A9619C8B63" item-length="312" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Afghan Bombings Kill 9 and Wound More Than 40</hl1>
+        <hl2 class="online_headline">Afghan Bombings Kill 9 and Wound More Than 40</hl2>
+      </hedline>
+      <byline class="print_byline">By CARLOTTA GALL</byline>
+      <dateline>KABUL, Afghanistan, April 22</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Two bombings, one of them a suicide attack, rocked the eastern town of Khost on Sunday, killing nine people and wounding more than 40, officials said.</p>
+        <p>The suicide bomber was on foot and blew himself up in a busy market square as the police were pursuing him. The blast killed eight people and wounded at least 40, including several children, according to the provincial health chief, Dr. Gul Muhammadin Muhammadi. Six people were in critical condition, he said. The three officers who were chasing the bomber were among the wounded, and the senior officer was in critical condition, said the provincial police chief, Col. Muhammad Ayub.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Two bombings, one of them a suicide attack, rocked the eastern town of Khost on Sunday, killing nine people and wounding more than 40, officials said.</p>
+      </block>
+      <block class="full_text">
+        <p>Two bombings, one of them a suicide attack, rocked the eastern town of Khost on Sunday, killing nine people and wounding more than 40, officials said.</p>
+        <p>The suicide bomber was on foot and blew himself up in a busy market square as the police were pursuing him. The blast killed eight people and wounded at least 40, including several children, according to the provincial health chief, Dr. Gul Muhammadin Muhammadi. Six people were in critical condition, he said. The three officers who were chasing the bomber were among the wounded, and the senior officer was in critical condition, said the provincial police chief, Col. Muhammad Ayub.</p>
+        <p>The other bomb, made of explosives packed into a video camera, exploded in a video store, killing the owner, Colonel Ayub said. He added that the attack, which also wounded seven people, might have been the result of a private feud.</p>
+        <p>In the suicide bombing, three police officers were patrolling the area when they noticed the bomber and began to follow him, Colonel Ayub said. ''They wanted to arrest him alive, and our police fired a warning shot in the air, to let people know there was a threat,'' he said. ''He was fleeing from the area, and when he saw that he was going to be caught he blew himself up.''</p>
+        <p>The eight people killed in the attack included workers from tea houses and restaurants, day laborers waiting for work and some passers-by, Colonel Ayub said.</p>
+        <p>The town of Khost has suffered many killings and suicide attacks in recent months. It lies close to the border with Pakistan, and the lawless Pakistani tribal regions of Waziristan, where Taliban militants and their allies are running training camps and preparing suicide bombers to fight in Afghanistan. The bombers can cross the border easily on foot along shepherds' paths and smuggling routes, Colonel Ayub said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

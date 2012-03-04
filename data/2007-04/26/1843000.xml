@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Suspicious at the Airport</title>
+    <meta content="l26imams" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1843000"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070426T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F02E0DE153EF935A15757C0A9619C8B63" item-length="155" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Suspicious at the Airport</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Imams at the Airport'' (letter, April 23):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Imams at the Airport'' (letter, April 23):</p>
+        <p>The letter writer is ''shocked'' that six imams were removed from an aircraft after loudly praying together in the boarding lounge; sitting well apart from one another in unassigned seats near exit doors (which could possibly be opened in flight, causing decompression); requesting seat-belt extensions (which could easily be used as weapons) that they then hid under their seats; and making anti-American comments.</p>
+        <p>He says that their actions were innocuous, that they were taken off the plane only because they were Muslims and that rabbis and Baptist ministers would not have been.</p>
+        <p>I find it shocking that the letter writer is shocked!</p>
+        <p>Any airline that would not have closely questioned such conduct by any group will not have me as a passenger. You do not have a right to fly after acting suspiciously.</p>
+        <p>Ron Johnstone  Santa Clara, Calif.  April 23, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

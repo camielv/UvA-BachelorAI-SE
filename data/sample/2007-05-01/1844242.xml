@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Handicapping With Optimism</title>
+    <meta content="01psurvey" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="21" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health; U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1844242"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CAUCUS: PSYCHOLOGY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Presidential Election of 2008</classifier>
+        <classifier class="indexing_service" type="descriptor">Psychology and Psychologists</classifier>
+        <org class="indexing_service">University of Pennsylvania</org>
+        <person class="indexing_service">Carey, Benedict</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Mental Health and Behavior</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Psychology and Psychologists</classifier>
+        <classifier class="online_producer" type="general_descriptor">Psychology and Psychologists</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070501T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07EED8133EF932A35756C0A9619C8B63" item-length="215" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Handicapping With Optimism</hl1>
+      </hedline>
+      <byline class="print_byline">By BENEDICT CAREY</byline>
+      <byline class="normalized_byline">Carey, Benedict</byline>
+      <abstract>
+        <p>Group of psychologists from University of Pennsylvania reports that most optimistic candidate usually wins presidential election and that analysis of their speeches and interviews shows Sen Hillary Rodham Clinton to be most optimistic and Rudolph Giuliani to be least optimistic of this campaign's candidates, with others falling in between; graph; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Campaign strategies, endorsements, advertising content and hairdo management. Many factors can influence a political race, and every handicapper has an equation for predicting. Since the late 1980s, a group of psychologists at the University of Pennsylvania has had a system based on a single factor: optimism.</p>
+        <p>The researchers, by analyzing stump speeches, have found that the most optimistic candidate usually wins, taking more than 80 percent of the presidential elections since 1900.</p>
+      </block>
+      <block class="full_text">
+        <p>Campaign strategies, endorsements, advertising content and hairdo management. Many factors can influence a political race, and every handicapper has an equation for predicting. Since the late 1980s, a group of psychologists at the University of Pennsylvania has had a system based on a single factor: optimism.</p>
+        <p>The researchers, by analyzing stump speeches, have found that the most optimistic candidate usually wins, taking more than 80 percent of the presidential elections since 1900.</p>
+        <p>The system is no oracle. It picked Michael S. Dukakis over George Bush in 1988.</p>
+        <p>This year, the analysis, led by Andrew Rosenthal, Prateek Sharma and Martin Seligman, found a clear front-runner, Senator Hillary Rodham Clinton. Rudolph W. Giuliani brought up the rear, and the other candidates bunched in the middle.</p>
+        <p>The research team evaluated 15 comments from each candidate, listed in random order and without naming the source. The optimism rating depended largely on how candidates characterized problems: as temporary and manageable, signaling optimism, or chronic and global.</p>
+        <p>''They're at war with us,'' said Mr. Giuliani of terrorists. ''They want to kill us.''</p>
+        <p>Voters pick up these signals, consciously or not, and for good reason, Dr. Seligman said, adding, ''We know optimists tend to try harder under adversity, and that is a very important quality'' in a leader.</p>
+        <p>BENEDICT CAREY</p>
+        <p>CAUCUS: PSYCHOLOGY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

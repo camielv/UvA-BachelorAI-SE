@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Popular Demand</title>
+    <meta content="30mostpopular" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Movies; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1844093"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MOST WANTED"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/News and Features/Box Office</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070430T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E4DA133EF933A05757C0A9619C8B63" item-length="94" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Popular Demand</hl1>
+      </hedline>
+      <byline class="print_byline">By SHELLY FREIERMAN</byline>
+      <byline class="normalized_byline">Freierman, Shelly</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>While a film's box-office take during its first weekend doesn't guarantee a huge gross, it helps to open with a bang. Each of the top 10 films, with the exception of ''X-Men'' and ''Lost World,'' attracted more than $300 million, after adjusting for inflation.</p>
+        <p>''Spider-Man 3,'' above, opens on Friday, and it will probably join this list. But it will have a long way to go to top ''Spider-Man,'' which earned an inflation-adjusted $461 million, not to mention ''Titanic'' (1997), at $769 million, and ''Star Wars'' (1977), at $1.6 billion.</p>
+        <p>SHELLY FREIERMAN</p>
+      </block>
+      <block class="full_text">
+        <p>While a film's box-office take during its first weekend doesn't guarantee a huge gross, it helps to open with a bang. Each of the top 10 films, with the exception of ''X-Men'' and ''Lost World,'' attracted more than $300 million, after adjusting for inflation.</p>
+        <p>''Spider-Man 3,'' above, opens on Friday, and it will probably join this list. But it will have a long way to go to top ''Spider-Man,'' which earned an inflation-adjusted $461 million, not to mention ''Titanic'' (1997), at $769 million, and ''Star Wars'' (1977), at $1.6 billion.</p>
+        <p>SHELLY FREIERMAN  MOST WANTED</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>U.S. Is Detaining A Senior Officer</title>
+    <meta content="26cropper" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="World; Washington" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/26/world/middleeast/26cropper.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1843058"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">United States International Relations</classifier>
+        <classifier class="indexing_service" type="descriptor">United States Armament and Defense</classifier>
+        <classifier class="indexing_service" type="descriptor">Camp Cropper (Iraq)</classifier>
+        <classifier class="indexing_service" type="descriptor">Terrorism</classifier>
+        <location class="indexing_service">Iraq</location>
+        <location class="indexing_service">Baghdad (Iraq)</location>
+        <person class="indexing_service">Steele, William H (Lt Col)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Iraq</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Iraq</classifier>
+        <classifier class="online_producer" type="descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">Iraq</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070426T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D02E2DC153EF935A15757C0A9619C8B63" item-length="127" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>U.S. Is Detaining A Senior Officer</hl1>
+        <hl2 class="online_headline">U.S. Is Detaining a Senior Officer</hl2>
+      </hedline>
+      <dateline>BAGHDAD, Thursday, April 26</dateline>
+      <abstract>
+        <p>US military says Lt Col William H Steele, senior commander at main Baghdad detention center Camp Cropper, is being investigated for allegations of aiding enemy (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The American military said Thursday that a senior commander at Camp Cropper, its main detention center here, was being investigated for possibly ''aiding the enemy.''</p>
+        <p>A military spokeswoman, Lt. Col. Josslyn L. Aberle, identified the commander as Lt. Col. William H. Steele and said he was being held in Kuwait for the equivalent of a grand jury investigation.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The American military said a senior commander at Camp Cropper, its main detention center in Baghdad, was being held in Kuwait for the military equivalent of a grand jury investigation.</p>
+      </block>
+      <block class="full_text">
+        <p>The American military said Thursday that a senior commander at Camp Cropper, its main detention center here, was being investigated for possibly ''aiding the enemy.''</p>
+        <p>A military spokeswoman, Lt. Col. Josslyn L. Aberle, identified the commander as Lt. Col. William H. Steele and said he was being held in Kuwait for the equivalent of a grand jury investigation.</p>
+        <p>Lt. Kyung Choi of the Navy, a spokesman at Central Command in Tampa, Fla., said there were nine charges, including aiding the enemy.</p>
+        <p>Other charges include ''retaining classified material, conduct unbecoming an officer, for relationships involving an interpreter and another Iraqi female, failure to obey lawful orders'' and ''dereliction of duty'' regarding government funds, Lieutenant Choi said. He did not give details.</p>
+        <p>The allegations were first reported by MSNBC.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Mignon Espy, Timothy Edwards</title>
+    <meta content="15espy" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/15/fashion/weddings/15espy.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840478"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Espy, Aeneid Mignon</person>
+        <person class="indexing_service">Edwards, Timothy Joseph</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9802E1D9133FF936A25757C0A9619C8B63" item-length="162" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Mignon Espy, Timothy Edwards</hl1>
+        <hl2 class="online_headline">Mignon Espy, Timothy Edwards</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Aeneid Mignon Espy and Timothy Joseph Edwards were married yesterday by the Rev. Gail Williford at St. Paul's United Methodist Church in Houston.</p>
+        <p>Ms. Espy-Edwards, 38, is the senior vice president for marketing and strategic planning at the Warner Music Group in New York. She graduated from Spelman College.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Aeneid Mignon Espy and Timothy Joseph Edwards were married yesterday by the Rev. Gail Williford at St. Paul’s United Methodist Church in Houston.</p>
+      </block>
+      <block class="full_text">
+        <p>Aeneid Mignon Espy and Timothy Joseph Edwards were married yesterday by the Rev. Gail Williford at St. Paul's United Methodist Church in Houston.</p>
+        <p>Ms. Espy-Edwards, 38, is the senior vice president for marketing and strategic planning at the Warner Music Group in New York. She graduated from Spelman College.</p>
+        <p>She is the daughter of Bobbie Espy of Houston and Tom Espy of Jackson, Miss. Her father is the owner of Strategic Systems, a marketing, management and political consultancy in Jackson. Her mother teaches world history at Bellaire High School in Bellaire, Tex.</p>
+        <p>The bridegroom, 29, is an assistant vice president for commercial real estate finance at JP Morgan Chase in New York. He graduated from Howard University.</p>
+        <p>He is a son of Jennifer Edwards of Chicago and Michael Edwards of South Holland, Ill. His mother retired as the assistant principal of Crispus Attucks Academy in Chicago. His father, also retired, was a deputy chief financial officer of the Chicago Board of Education.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Lake Peekskill: Man Found Slain In Home</title>
+    <meta content="04mbrfs-2" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837911"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Murders and Attempted Murders</classifier>
+        <location class="indexing_service">Lake Peekskill (NY)</location>
+        <person class="indexing_service">McKeon, Richard</person>
+        <person class="indexing_service">Lee, Jennifer 8</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070404T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E6DE163FF937A35757C0A9619C8B63" item-length="141" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Lake Peekskill: Man Found Slain In Home</hl1>
+      </hedline>
+      <byline class="print_byline">By JENNIFER 8. LEE; Compiled by John Sullivan</byline>
+      <byline class="normalized_byline">Lee, Jennifer 8</byline>
+      <abstract>
+        <p>Beaten body of man believed to be Richard McKeon, 86, is found in house in Lake Peekskill, NY (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The beaten body of a man was found on Monday night in a house in Putnam County, the New York State Police said last night. Although the police had not positively confirmed the victim's identity, investigators believed it was Richard McKeon, 86, of 22 Fordal Place in Lake Peekskill. Neighbors became concerned when they had not seen Mr. McKeon for several days, the police said. They notified the police after entering the house and found him dead in the kitchen with bruises on his body. The police said they were on the lookout for someone Mr. McKeon knew. Lt. James H. Murphy, a state police spokesman, said last night that investigators did not have a motive for the killing, though he added that it did not appear to be a robbery.</p>
+        <p>JENNIFER 8. LEE</p>
+      </block>
+      <block class="full_text">
+        <p>The beaten body of a man was found on Monday night in a house in Putnam County, the New York State Police said last night. Although the police had not positively confirmed the victim's identity, investigators believed it was Richard McKeon, 86, of 22 Fordal Place in Lake Peekskill. Neighbors became concerned when they had not seen Mr. McKeon for several days, the police said. They notified the police after entering the house and found him dead in the kitchen with bruises on his body. The police said they were on the lookout for someone Mr. McKeon knew. Lt. James H. Murphy, a state police spokesman, said last night that investigators did not have a motive for the killing, though he added that it did not appear to be a robbery.</p>
+        <p>JENNIFER 8. LEE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Manhattan: Police Seek Student's Attacker</title>
+    <meta content="17mbrfs-9" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Education; New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/17/nyregion/17mbrfs-rape.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1841063"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="New York"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Sex Crimes</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">Columbia University</org>
+        <person class="indexing_service">Williams, Robert A (Rape Suspect)</person>
+        <person class="indexing_service">Lueck, Thomas J</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Assaults</classifier>
+        <classifier class="online_producer" type="descriptor">Sex Crimes</classifier>
+        <classifier class="online_producer" type="descriptor">Education and Schools</classifier>
+        <classifier class="online_producer" type="general_descriptor">Assaults</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sex Crimes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <location class="online_producer">Manhattan (NYC)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070417T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9803EFD7113FF934A25757C0A9619C8B63" item-length="95" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Manhattan: Police Seek Student's Attacker</hl1>
+        <hl2 class="online_headline">Manhattan: Police Seek Student’s Attacker</hl2>
+      </hedline>
+      <byline class="print_byline">By THOMAS J. LUECK; Compiled by John Sullivan</byline>
+      <byline class="normalized_byline">Lueck, Thomas J</byline>
+      <abstract>
+        <p>New York City police continue search for man who beat and raped woman while holding her hostage for 17 hours; woman, student at Columbia Graduate School of Journalism, remains hospitalized (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Officers continued searching yesterday for the man who beat and raped a 23-year-old woman while holding her hostage for 17 hours, the police said. The woman, a student at Columbia's Graduate School of Journalism, remained hospitalized yesterday and has been joined by her family, according to a statement by Lee C. Bollinger, the university's president. The attack, in a building in Hamilton Heights, began at 11:30 p.m. Friday and ended on Saturday afternoon when the assailant set fire to a futon, and the woman fled.</p>
+        <p>THOMAS J. LUECK</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Officers continued searching yesterday for the man who beat and raped a 23-year-old woman while holding her hostage for 17 hours, the police said. The woman, a student at Columbia’s Graduate School of Journalism, remained hospitalized yesterday and has been joined by her family, according to a statement by Lee C. Bollinger, the university’s president. The attack, in a building in Hamilton Heights, began at 11:30 p.m. Friday and ended on Saturday afternoon when the assailant set fire to a futon, and the woman fled.</p>
+      </block>
+      <block class="full_text">
+        <p>Officers continued searching yesterday for the man who beat and raped a 23-year-old woman while holding her hostage for 17 hours, the police said. The woman, a student at Columbia's Graduate School of Journalism, remained hospitalized yesterday and has been joined by her family, according to a statement by Lee C. Bollinger, the university's president. The attack, in a building in Hamilton Heights, began at 11:30 p.m. Friday and ended on Saturday afternoon when the assailant set fire to a futon, and the woman fled.</p>
+        <p>THOMAS J. LUECK</p>
+        <p>New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sports Watch Comes With Added Bragging Rights</title>
+    <meta content="12hang" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/12/technology/12hang.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1839685"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CIRCUITS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Watches and Clocks</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="indexing_service" type="descriptor">Athletics and Sports</classifier>
+        <org class="indexing_service">DropZone (Co)</org>
+        <person class="indexing_service">Biersdorfer, J D</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Other Sports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Watches and Clocks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Athletics and Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070412T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E3DA123FF931A25757C0A9619C8B63" item-length="198" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sports Watch Comes With Added Bragging Rights</hl1>
+        <hl2 class="online_headline">Sports Watch Comes With Added Bragging Rights</hl2>
+      </hedline>
+      <byline class="print_byline">By J. D. BIERSDORFER</byline>
+      <byline class="normalized_byline">Biersdorfer, J D</byline>
+      <abstract>
+        <p>DropZone's HangTimer, multifunction sports watch, uses its 'tri-axis accelerometer' to sense when wearer has left terra firm and then measures each hundredths of second aloft--otherwise known as hang time; $99 device, available in stores, logs 10 best hang times and has five sensitivity settings for different sports; it also keeps track of best and average hang times, and total accumulated time in air; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Fans of sports like skiing, snowboarding and skateboarding can now measure their time off the ground with DropZone's HangTimer, a multifunction sports watch with a little something extra. When tucked in a pocket or clipped to a belt loop, the HangTimer uses its ''tri-axis accelerometer'' to sense when the wearer has left terra firma and then measures each hundredth of a second aloft -- otherwise known as hang time.</p>
+        <p>The $99 device, available in stores or at www.hangtimer.com, logs the 10 best hang times and has five sensitivity settings for different sports. It also keeps track of the best and average hang times, and total accumulated time in the air.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>DropZone’s HangTimer can sense when the wearer has left terra firma and then measures each hundredth of a second aloft.</p>
+      </block>
+      <block class="full_text">
+        <p>Fans of sports like skiing, snowboarding and skateboarding can now measure their time off the ground with DropZone's HangTimer, a multifunction sports watch with a little something extra. When tucked in a pocket or clipped to a belt loop, the HangTimer uses its ''tri-axis accelerometer'' to sense when the wearer has left terra firma and then measures each hundredth of a second aloft -- otherwise known as hang time.</p>
+        <p>The $99 device, available in stores or at www.hangtimer.com, logs the 10 best hang times and has five sensitivity settings for different sports. It also keeps track of the best and average hang times, and total accumulated time in the air.</p>
+        <p>The HangTimer measures 2.5 by 3 inches, weighs 2.5 ounces and runs on two AAA batteries. In addition to collecting air time information, it can show the current time, date and temperature, and functions as a stopwatch with a lap timer. DropZone says the watch is water-resistant up to three meters. Shockproofing and a thick clip for attaching the watch to clothing are part of its design, to help the HangTimer live by the old maxim, ''What goes up, must come down.''</p>
+        <p>J. D. BIERSDORFER</p>
+        <p>CIRCUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

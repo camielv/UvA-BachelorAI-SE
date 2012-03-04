@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Roosevelt Seeking Schools Superintendent</title>
+    <meta content="29weekliLI-2" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Long Island Weekly Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="14LI" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Education; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1843951"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE WEEK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Education and Schools</classifier>
+        <classifier class="indexing_service" type="descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <location class="indexing_service">Roosevelt (NY)</location>
+        <location class="indexing_service">New York State</location>
+        <person class="indexing_service">Mills, Richard P (Comr)</person>
+        <person class="indexing_service">Ross, Ronald O</person>
+        <person class="indexing_service">Saslow, Linda</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Long Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D02E4DD133EF93AA15757C0A9619C8B63" item-length="322" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Roosevelt Seeking Schools Superintendent</hl1>
+      </hedline>
+      <byline class="print_byline">By LINDA SASLOW</byline>
+      <byline class="normalized_byline">Saslow, Linda</byline>
+      <abstract>
+        <p>New York Education Comr Richard Mills announces resignation of Roosevelt schools district superintendent Ronald Ross; seeks advice from school board and community and hopes to have new superintendent in place by beginning of next school year (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Roosevelt, the only school district in New York under state control, is looking for a superintendent for the second time in three years.</p>
+        <p>Richard P. Mills, the state education commissioner, announced the resignation of Ronald O. Ross, who was appointed by the state three years ago to take over the troubled district. It went under state oversight in 2002 because of years of low student test scores and poor financial management.</p>
+      </block>
+      <block class="full_text">
+        <p>Roosevelt, the only school district in New York under state control, is looking for a superintendent for the second time in three years.</p>
+        <p>Richard P. Mills, the state education commissioner, announced the resignation of Ronald O. Ross, who was appointed by the state three years ago to take over the troubled district. It went under state oversight in 2002 because of years of low student test scores and poor financial management.</p>
+        <p>Mr. Mills said he was seeking advice from the Roosevelt school board and community and hoped to have a new superintendent in place by the beginning of next school year.</p>
+        <p>''The timing is critical and the need urgent,'' he said. ''But we won't settle until we find the right person for the district. If a more extensive search is needed, we will go to an interim superintendent.''</p>
+        <p>When asked what he was looking for, Mr. Mills cited integrity, administrative skills and the ability to inspire teachers and students. The new superintendent must also ''be open to being a good partner with the district and community,'' he said.</p>
+        <p>Mr. Ross had a year left on his contract. In recent months he had been widely blamed for problems in the district, including a projected $12.3 million budget deficit, a $10 million cost overrun on the construction of a middle school and the failure to agree on a contract with district teachers. Mr. Ross has said the district had taken steps to improve its financial situation and had made educational strides in his tenure.</p>
+        <p>State Senator Charles J. Fuschillo Jr., whose district includes Roosevelt, said Mr. Ross's resignation was a step in the right direction. ''Now it's time for the district to find a new leader who understands the community and has a focus on education instead of finance,'' he said. ''There are so many success stories in Roosevelt that have been buried because of the district's financial troubles.''</p>
+        <p>LINDA SASLOW</p>
+        <p>THE WEEK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

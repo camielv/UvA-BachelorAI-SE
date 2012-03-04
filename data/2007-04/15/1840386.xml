@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Any Other Day</title>
+    <meta content="15alsmail-7" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1840386"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="HANDEL AND THE JEWS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <person class="indexing_service">Middleton, James</person>
+        <person class="indexing_service">Handel, George Frederick (1685-1759)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9803E0D8123FF936A25757C0A9619C8B63" item-length="145" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Any Other Day</hl1>
+      </hedline>
+      <abstract>
+        <p>James Middleton letter about April 8 article on Handel's Messiah says that article should not have been published on Easter Sunday (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>While Michael Marissen's article provided challenging food for thought, the decision to run it on Easter morning, the holiest day of the Christian year, was unfortunate. I was saddened but curious to see Mr. Marissen debunk the theory -- which I had been taught in grad school -- that Handel's Old Testament oratorios were patronized by a largely Jewish audience. I wonder, however, in the absence of hard facts, who is served by this information? If the origins of ''Messiah'' are indeed anti-Semitic, it seems safe to say that it has successfully outlived them.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>While Michael Marissen's article provided challenging food for thought, the decision to run it on Easter morning, the holiest day of the Christian year, was unfortunate. I was saddened but curious to see Mr. Marissen debunk the theory -- which I had been taught in grad school -- that Handel's Old Testament oratorios were patronized by a largely Jewish audience. I wonder, however, in the absence of hard facts, who is served by this information? If the origins of ''Messiah'' are indeed anti-Semitic, it seems safe to say that it has successfully outlived them.</p>
+        <p>The week's big religious story was that of the fabrication of the figure of a crucified Christ in chocolate. I thought that (along with the conservative Christian reaction) was funny. The publication of Mr. Marissen's article on Easter Sunday is far more pernicious.</p>
+        <p>James Middleton  Jersey City, N.J.</p>
+        <p>HANDEL AND THE JEWS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

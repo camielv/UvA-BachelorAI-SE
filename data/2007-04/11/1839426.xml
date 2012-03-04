@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   KERSHAW, MARY ANNA</title>
+    <meta content="dn041107.1" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1839426"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">KERSHAW, MARY ANNA</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070411T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE1DE123AF932A25757C0A9619C8B63" item-length="92" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   KERSHAW, MARY ANNA</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>KERSHAW--Mary Anna, 93, died April 6th at her home in Lenox, Mass. She was the spirited and loved wife of Dr. Joseph A. Kershaw; mother of David N. Kershaw and Stephen Kershaw; mother-inlaw of Sharon Kershaw Worthington; grandmother of Sarah Kershaw and Amy Kershaw; and her legacy will be cherished. She was strong and dignified in the face of life's hardest challenges. Her wit, intellect and extraordinary commitment to volunteerism, philanthropy and public service were an inspiration that will live on for generations. Donations gratefully appreciated to the American Cancer Society.</p>
+      </block>
+      <block class="full_text">
+        <p>KERSHAW--Mary Anna, 93, died April 6th at her home in Lenox, Mass. She was the spirited and loved wife of Dr. Joseph A. Kershaw; mother of David N. Kershaw and Stephen Kershaw; mother-inlaw of Sharon Kershaw Worthington; grandmother of Sarah Kershaw and Amy Kershaw; and her legacy will be cherished. She was strong and dignified in the face of life's hardest challenges. Her wit, intellect and extraordinary commitment to volunteerism, philanthropy and public service were an inspiration that will live on for generations. Donations gratefully appreciated to the American Cancer Society.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

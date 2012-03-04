@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Let the Borrower Beware</title>
+    <meta content="01mort" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Real Estate Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="11" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Real Estate" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/01/realestate/01mort.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837245"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MORTGAGES"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Housing</classifier>
+        <classifier class="indexing_service" type="descriptor">Mortgages</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <person class="indexing_service">Tedeschi, Bob</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Subprime Lending</classifier>
+        <classifier class="online_producer" type="descriptor">Mortgages</classifier>
+        <classifier class="online_producer" type="descriptor">Banks and Banking</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mortgages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Banks and Banking</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B03E3D81030F932A35757C0A9619C8B63" item-length="595" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Let the Borrower Beware</hl1>
+        <hl2 class="online_headline">Let the Borrower Beware</hl2>
+      </hedline>
+      <byline class="print_byline">By BOB TEDESCHI</byline>
+      <byline class="normalized_byline">Tedeschi, Bob</byline>
+      <abstract>
+        <p>Mortgages column on cautions to be taken amid slowing housing market and tightening of subprime lending standards; smaller pool of prospective and qualified borrowers may tempt unscrupulous brokers to match them with inappropriate loans that are more profitable for company (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WITH the national real estate market slowing, fewer people are seeking loans. And with subprime lending standards tightening significantly, fewer people qualify for them.</p>
+        <p>The combination has resulted in less business for lenders and brokers, which in turn means that prospective borrowers should tread carefully.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Analysts say that in the midst of the current shakeout in the real estate market, borrowers should be especially cautious about the loans they are considering.</p>
+      </block>
+      <block class="full_text">
+        <p>WITH the national real estate market slowing, fewer people are seeking loans. And with subprime lending standards tightening significantly, fewer people qualify for them.</p>
+        <p>The combination has resulted in less business for lenders and brokers, which in turn means that prospective borrowers should tread carefully.</p>
+        <p>People shopping for loans must always exercise vigilance against unscrupulous lenders. But analysts and industry executives say that in the midst of the current shakeout, borrowers should be especially cautious about the loans they are considering.</p>
+        <p>Paul Miller, a mortgage industry analyst with Friedman, Billings &amp; Ramsey, an investment firm in Arlington, Va., said that these days, some lenders or brokers cannot afford to be choosy. And that's where the problems can begin.</p>
+        <p>''All of a sudden, you might have only two people walking through the door, and only one of them looks like they'd be a good loan,'' Mr. Miller said. But an unprincipled broker will decide that both loans are good, Mr. Miller said, because the broker needs the income.</p>
+        <p>In other words, to make a larger fee, the unscrupulous broker will qualify someone for a loan he or she really shouldn't get. Doing so is unethical at best and fraudulent at worst.</p>
+        <p>Michael L. Moskowitz, the president of Equity Now, a mortgage lender based in Manhattan, said that in harder times there is also more temptation to match borrowers with loans that may not be right for them, but which carry higher profits for the company.</p>
+        <p>He said a former client in Connecticut had recently closed an $880,000 refinance loan, although a second mortgage would have worked just as well. But that would have yielded the broker only $4,000 in profit, compared with $35,000 for the refinance.</p>
+        <p>Mr. Moskowitz said he urged the borrower, who had come to him for advice about another possible refinance loan, to complain to state regulators in Connecticut and New York, where the loan officer had his office, and to appeal to the investor who ultimately bought the loan.</p>
+        <p>''I believe he could present this as a predatory loan,'' Mr. Moskowitz said, but the borrower has been unwilling to do so.</p>
+        <p>Industry executives said borrowers should demand to see the final loan documents, known as the HUD-1 statement, 24 hours before the closing, to avoid any surprise costs or terms.</p>
+        <p>Mr. Moskowitz said borrowers should also ask the lender to connect them with three customers in similar situations. ''A reputable company will have no problems with that,'' he said.</p>
+        <p>Harry H. Dinham, the president of the National Association of Mortgage Brokers, said most brokers try to establish long-term relationships with their clients and seek to match them with the right loans. But he said borrowers should be vigilant, especially in states where lenders and brokers are subject to little oversight by regulators.</p>
+        <p>With the downturn, jobs in the mortgage field are declining. According to the Bureau of Labor Statistics, mortgage brokers and bankers lost about 15,500 jobs from October to January, the last month for which statistics are available.</p>
+        <p>The industry still had 489,000 jobs in January, but the employment picture is clearly worsening. Many subprime lenders have in recent weeks either shut down or significantly curtailed lending operations, as investors have deemed many such loans too risky.</p>
+        <p>Consumers can take some solace in the fact that the industry downturn will weed some unscrupulous lenders from the mix, Mr. Dinham said, but borrowers should also call for stricter licensing requirements. That, he said, will make it less likely that unscrupulous lenders and brokers will push clients toward bad loans.</p>
+        <p>MORTGAGES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

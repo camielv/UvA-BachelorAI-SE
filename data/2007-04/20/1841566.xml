@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>For the Indigenous Amazonians, a Day to Celebrate Culture and Worry About Poverty</title>
+    <meta content="20surinam--floater" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20070427T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1841566"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Caption</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070420T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07EFD91F3FF933A15757C0A9619C8B63" item-length="0" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>For the Indigenous Amazonians, a Day to Celebrate Culture and Worry About Poverty</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="full_text">
+        <p>Correction:  April 27, 2007, Friday  A picture caption last Friday about the celebration of the Day of the Indian throughout the Amazonian basin misspelled the name of the country of the children shown. It is Suriname, not Surinam.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: April 27, 2007, Friday</p>
+        <p>A picture caption last Friday about the celebration of the Day of the Indian throughout the Amazonian basin misspelled the name of the country of the children shown. It is Suriname, not Surinam.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

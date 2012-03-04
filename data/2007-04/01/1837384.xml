@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Feelings Are Mixed About Bonds's Chase</title>
+    <meta content="01poll" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837384"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="BASEBALL"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/San Francisco Giants</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Records and Achievements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Public Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE4DE1E30F932A35757C0A9619C8B63" item-length="202" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Feelings Are Mixed About Bonds's Chase</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>More than a third of Americans want Barry Bonds to break the career record for home runs and almost as many hope he fails, according to a New York Times/CBS News poll.</p>
+        <p>Asked, ''Are you rooting for Barry Bonds to break Hank Aaron's record, or do you hope he will fall short?'' 35 percent said they hoped he surpassed Aaron's mark, while 30 percent said they wanted him to fall short. Nineteen percent said they did not care, and 16 percent said they did not know or had no answer.</p>
+      </block>
+      <block class="full_text">
+        <p>More than a third of Americans want Barry Bonds to break the career record for home runs and almost as many hope he fails, according to a New York Times/CBS News poll.</p>
+        <p>Asked, ''Are you rooting for Barry Bonds to break Hank Aaron's record, or do you hope he will fall short?'' 35 percent said they hoped he surpassed Aaron's mark, while 30 percent said they wanted him to fall short. Nineteen percent said they did not care, and 16 percent said they did not know or had no answer.</p>
+        <p>The question was posed to all respondents, and not directed at people who said they followed baseball. The results are based on telephone interviews with 1,362 adults nationwide from March 7 to 11. The margin of sampling error is plus or minus 3 percentage points.</p>
+        <p>Bonds, a San Francisco Giants outfielder and a seven-time most valuable player, begins his 22nd season Tuesday needing 22 home runs to surpass Aaron's record of 755. His pursuit of the mark has been a polarizing issue in baseball because of suspicions that he used performance-enhancing substances.</p>
+        <p>The United States attorney's office in Northern California is also investigating whether he was involved in perjury and income-tax evasion.</p>
+        <p>BASEBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

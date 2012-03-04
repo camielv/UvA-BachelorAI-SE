@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sandra Urie, Frank Herron</title>
+    <meta content="15urie" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/15/fashion/weddings/15urie.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840483"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Urie, Sandra Ann</person>
+        <person class="indexing_service">Herron, Frank Farnum</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E0D9133FF936A25757C0A9619C8B63" item-length="152" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sandra Urie, Frank Herron</hl1>
+        <hl2 class="online_headline">Sandra Urie, Frank Herron</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Sandra Ann Urie and Frank Farnum Herron were married last evening at the Massachusetts Horticultural Society in Wellesley. The Rev. J. Philip Zaeder, a Presbyterian minister, officiated.</p>
+        <p>Ms. Urie, 54, is keeping her name. She is the president and chief executive of Cambridge Associates, an investment consulting firm in Boston. She graduated from Stanford and received a master's degree in public and private management from Yale. She is a board member of the Phillips Academy in Andover, Mass.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Sandra Ann Urie and Frank Farnum Herron were married last evening at the Massachusetts Horticultural Society in Wellesley. The Rev. J. Philip Zaeder, a Presbyterian minister, officiated.</p>
+      </block>
+      <block class="full_text">
+        <p>Sandra Ann Urie and Frank Farnum Herron were married last evening at the Massachusetts Horticultural Society in Wellesley. The Rev. J. Philip Zaeder, a Presbyterian minister, officiated.</p>
+        <p>Ms. Urie, 54, is keeping her name. She is the president and chief executive of Cambridge Associates, an investment consulting firm in Boston. She graduated from Stanford and received a master's degree in public and private management from Yale. She is a board member of the Phillips Academy in Andover, Mass.</p>
+        <p>She is a daughter of Richard Urie of Peabody, Mass., and the late Marion Urie.</p>
+        <p>Mr. Herron, also 54, was until February a staff writer for arts and culture at The Post-Standard newspaper in Syracuse, where he worked for 18 years. He graduated from Cornell and is a candidate for a master's degree in media studies from Syracuse University.</p>
+        <p>He is a son of John Herron of Worcester, Mass., and the late Frances Herron.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

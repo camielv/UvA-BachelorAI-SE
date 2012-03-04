@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Spare Room? It's Out Back</title>
+    <meta content="12shop" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1839661"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="PERSONAL SHOPPER"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Housing</classifier>
+        <person class="indexing_service">Rohrlich, Marianne</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden/Columns/Personal Shopper</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070412T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05E0DB123FF931A25757C0A9619C8B63" item-length="448" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Spare Room? It's Out Back</hl1>
+      </hedline>
+      <byline class="print_byline">By Marianne Rohrlich</byline>
+      <byline class="normalized_byline">Rohrlich, Marianne</byline>
+      <abstract>
+        <p>Personal Shopper column on outdoor structures that could serve as playrooms, guest rooms or offices in backyard; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>FOR space-starved homeowners, a backyard shed, shack, caravan or cabin can serve as an extra room -- an office free of the distractions of home, a playroom, a pool cabana or even a guest room for a visiting mother-in-law. In warm weather, even simple canvas tents can make for pleasant dining areas or outdoor bedrooms.</p>
+      </block>
+      <block class="full_text">
+        <p>FOR space-starved homeowners, a backyard shed, shack, caravan or cabin can serve as an extra room -- an office free of the distractions of home, a playroom, a pool cabana or even a guest room for a visiting mother-in-law. In warm weather, even simple canvas tents can make for pleasant dining areas or outdoor bedrooms.</p>
+        <p>Some structures can be moved or disassembled when the weather changes, while more permanent ones make cozy year-round spaces.</p>
+        <p>1. The Wee House, a modern prefab module (14 by 26 feet) by Alchemy Architects in St. Paul, Minn., is built in a factory and trucked to your site 95 percent finished. The one shown is about $65,000; (651) 647-6650 or weehouses.com.</p>
+        <p>2. The canvas Tea Tent (5 feet 11 inches by 3 feet 11 inches) is handmade in Rajasthan, India; $1,700 by the Raj Tent Club, (203) 698-7860 or www.paviliontentcompany.com.</p>
+        <p>3. Summerwood's Coventry Cabana, inspired by an English garden building, is made of western red cedar and has leaded-glass French doors and a shingled roof. The 10-by-10-foot version, which could be used as a studio, office or pool house, costs $15,995; (866) 519-4634 or summerwood.com.</p>
+        <p>4. The Kidz Klubhouse is large enough to be used by adults. It is $1,439 at Home Depot; (800) 553-3199 or homedepot.com.</p>
+        <p>5. Daphne's Caravans are intended to serve as guest houses or studios. (According to Daphne Bertram, the designer and builder, they feel roomier inside than they look from the outside.) Built of pine with a metal roof, they have vintage doors and trim, and are wired for electricity. Caravans with four wheels, like the one shown, can be moved short distances; those with two wheels can be towed anywhere. Each unit is different and can be fitted with one or two beds, shelves, a table, lighting and a mini-fridge (but no stove or sink). The Cottage Retreat, above, is 5 1/2 feet wide by 13 feet long, 6 1/2 feet high inside and costs about $5,500; (416) 489-1917 or daphnescaravans.com.</p>
+        <p>6. The Backyard Cottage, a six-by-eight-foot playhouse with a porch and an interior loft, is manufactured by Homeplace Structures in Lancaster County, Pa., which also makes studios and cottages in the 10-by-16-foot range. The structure is tall enough on the inside for adults and has two doors -- one for children and another for parents; $2,995 from homeplacestructures.com or (866) 768-8465.</p>
+        <p>7. The dome-roof cabin, a five-sided enclosed gazebo with a ladder loft, is made of 10 four-by-eight-foot sheets of plywood and measures about 12 1/2 by 12 1/2 feet. It comes as a do-it-yourself kit with various custom-design options, and costs between $1,500 and $5,000; (888) 366-3588 or kitdomes.com.</p>
+        <p>PERSONAL SHOPPER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

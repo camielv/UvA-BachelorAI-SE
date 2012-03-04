@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Circuit City Layoffs</title>
+    <meta content="l07circuit" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838478"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Labor</classifier>
+        <classifier class="indexing_service" type="descriptor">Layoffs and Job Reductions</classifier>
+        <classifier class="indexing_service" type="descriptor">Age, Chronological</classifier>
+        <org class="indexing_service">Circuit City Group</org>
+        <person class="indexing_service">Schmitt, Howard</person>
+        <person class="indexing_service">Leonhardt, David</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Age, Chronological</classifier>
+        <classifier class="online_producer" type="general_descriptor">Layoffs and Job Reductions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070407T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D02E7D7173FF934A35757C0A9619C8B63" item-length="247" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Circuit City Layoffs</hl1>
+      </hedline>
+      <abstract>
+        <p>Howard Schmitt letter responds to David Leonhardt April 4 column detailing how corporations like Circuit City are trying to do away with 'expensive' older workers; says capitalism always involved pact between worker and employer, but Circuit City has broken that agreement</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''3,400 Layoffs Send a Message to Millions,'' by David Leonhardt (Economix column, April 4), detailing how corporations like Circuit City are trying to do away with ''expensive'' older workers:</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''3,400 Layoffs Send a Message to Millions,'' by David Leonhardt (Economix column, April 4), detailing how corporations like Circuit City are trying to do away with ''expensive'' older workers:</p>
+        <p>A number of issues logically arise from this practice.</p>
+        <p>First, as most of us know, customer service at any number of institutions has gone down the tubes in the last few years. Could this be connected to a dearth of more experienced workers? The actual ''efficiency'' of this practice must be considered in relation to the number of lost sales, mistakes and angry clientele.</p>
+        <p>Even more experienced and dedicated workers must notice that ''working hard to get ahead'' does not pay anymore. Their incentive to get things right would be damaged by this knowledge. In an age of bloated bonuses for executives who make appallingly bad decisions, this is especially galling.</p>
+        <p>Finally, the practice must be considered in light of the good of society as a whole. When workers cannot count on promises made by employers, how can they plan mortgages, borrow money or do anything that requires faith in the future? The resultant drop in consumer confidence and spending hurts the entire nation.</p>
+        <p>Capitalism has long been considered a major component of the American Dream. But it always involved a pact between worker and employer, a recognition of mutual obligation. This new ''efficient'' model breaks that agreement. It may actually be incompatible with the dream.</p>
+        <p>Howard Schmitt  Pittsburgh, April 4, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

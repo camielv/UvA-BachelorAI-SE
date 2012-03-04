@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>FROM THE DESK OF DAVID POGUE: The Trouble With Home-Networking</title>
+    <meta content="12pogue-email" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="" name="print_section"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1839801"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/David Pogue</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070412T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E2D9133FF931A25757C0A9619C8B63" item-length="1146" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>FROM THE DESK OF DAVID POGUE: The Trouble With Home-Networking</hl1>
+      </hedline>
+      <byline class="print_byline">By DAVID POGUE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>As you may know if you watched my Times Web video this week, I've had a heck of a week.</p>
+        <p>I struggled for five days with four 802.11n wireless routers, trying to make them work the way they were supposed to.</p>
+      </block>
+      <block class="full_text">
+        <p>As you may know if you watched my Times Web video this week, I've had a heck of a week.</p>
+        <p>I struggled for five days with four 802.11n wireless routers, trying to make them work the way they were supposed to.</p>
+        <p>My wife has made me swear that I will never, ever review routers again. I'm inclined to agree.</p>
+        <p>Home networking remains one of the world's most frustrating endeavors; 30 percent of home-networking gear winds up getting returned to the store.</p>
+        <p>I'm about to illustrate one reason why.</p>
+        <p>Here, as thanks to Netgear for its hours of help during my router-hell week, is a free consultation--a design overhaul of its software installer--a $50,000 value.</p>
+        <p>Here's what I experienced trying to install Netgear's 802.11n USB adapter onto a brand-new, spotless Lenovo ThinkPad laptop. I insert the setup CD, and I see this:</p>
+        <p>Screen #1: "Netgear WN121T Smart Wizard." The startup window offers a photo of the product--but in the place of honor, in the lower-right, right where the Next button should be, it says only Quit. That's the only choice there.</p>
+        <p>There are also SIX buttons to the left of the picture. One of them is Setup. Well, that sounds right, but it belongs in the lower-right. At the very least, it needs a border or something to differentiate it from the other five buttons (Registration, Web Support, etc.).</p>
+        <p>Screen #2: Tells me that my software might need updating already. My options are "Check for Updates" or "Install from CD."</p>
+        <p>This is a totally unnecessary screen. Do what Apple and Microsoft do: quietly check for updates. If there is a newer version, THEN tell me about it (and give me a one-click way to download it). If there isn't one, don't even bring up the subject.</p>
+        <p>Screen #3: Now a second installer launches ON TOP of the first one--yes, we've got superimposed dialog boxes. What the heck?</p>
+        <p>Anyway, this one says "Welcome."</p>
+        <p>Here it is: the very definition of a time-waster. If I've come this far, don't you think I already know that I'm in the Netgear Installer?</p>
+        <p>Screen #4: "License Agreement." The entire agreement is typed in capital letters, just to make sure it's as difficult as possible to read.</p>
+        <p>Nobody reads these license agreements--nobody. What is Netgear worried about, anyway--that you're going to distribute its USB software driver on Kazaa?</p>
+        <p>At least Netgear lets you just hit Enter to blow past this screen. Most companies don't. It's as though the software company lawyers are saying, "Nyah, nyahhh, you can't ignore us!"</p>
+        <p>Guess what? We'll still ignore you, even if you make us use the mouse.</p>
+        <p>Screen #5: "Select Destination." Here's where we specify where we want the software put. This, too, is a waste of time. Who on earth doesn't want programs put in Programs?</p>
+        <p>Screen #6: "Software Installation Complete." Yay!</p>
+        <p>But if it's complete, then why is there a Next button?</p>
+        <p>Screen #7: Uh-oh. "The Software you are installing has not passed Windows Logo testing. Continuing your installation of this software may impair or destabilize the correct operation of your system... Microsoft strongly recommends that you stop this installation now."</p>
+        <p>Here it is, on one screen: everything that's wrong with Microsoft and the Windows software industry. I'm sorry, but you would NEVER see this kind of idiocy on the Macintosh.</p>
+        <p>Who's being dumber here? Netgear, for not getting Microsoft's blessing for its software? Or Microsoft, for trying to scare people away from perfectly legitimate software (and, presumably, for charging software companies for Logo testing)?</p>
+        <p>This message is a disservice to experienced people, who know that it's just meaningless paperwork and blow right past it; and also to less experienced people, who now feel even more insecure about the proceedings so far.</p>
+        <p>Screen #8. "Connect WN121T to an available USB port on your computer."</p>
+        <p>You're always supposed to install Windows software drivers BEFORE connecting the associated hardware product. Netgear and Linksys routers actually come with big red stickers across the connectors: "STOP. Install Software CD First."</p>
+        <p>Just one more thing to freak you out.</p>
+        <p>Anyway, if you do plug the thing in, you get this:</p>
+        <p>Screen #9: "Welcome to the Found New Hardware Wizard. Can Windows connect to Windows Update to search for software?"</p>
+        <p>OK, what? The software is IN THE DRIVE. Why do you have to go online...?</p>
+        <p>Well, whatever... click Next...</p>
+        <p>Screen #10: "If your hardware came with an installation CD or floppy disk, insert it now."</p>
+        <p>Ummm, hello? I've already inserted the CD, you idiot! Remember? That's how this whole adventure began!</p>
+        <p>Screen #11: "The Software you are installing has not passed Windows Logo testing..."</p>
+        <p>Oh, not this again. We have to see this twice? Something is SERIOUSLY broken here.</p>
+        <p>Screen #12: "Select the country where you will primarily use this wireless USB Adapter. WARNING: Selecting the incorrect country may be a violation of applicable law."</p>
+        <p>A violation of LAW? You've got to be kidding me.</p>
+        <p>So if I choose Canada instead of United States, the Wrong Pop-up Menu Squad will come bursting through the door to take me away?</p>
+        <p>Something tells me Netgear's lawyer has been doing just a wee bit of timesheet padding.</p>
+        <p>Screen #13: "Both the NETGEAR product and Microsoft Windows XP include software you can use to manage your wireless connections. You must choose one or the other."</p>
+        <p>The choices are "NETGEAR Smart Wizard (recommended)" or "Microsoft Windows XP Wireless Zero Configuration (refer to the Microsoft documentation for help)."</p>
+        <p>How should I know? I have no idea what it's talking about, what the pros and cons are. And just FYI, Netgear: Windows's documentation (its online help) does not, in fact, say a single word about Wireless Zero Configuration. I checked.</p>
+        <p>Screen #14: "Do you want help connecting to a wireless network?"</p>
+        <p>If you say Yes, you go on an exciting trip through FIVE MORE screens. If you say No...</p>
+        <p>Screen #15: Hey, wait a minute--we're back at the very first screen again, with the Quit button and the six buttons down the left side.</p>
+        <p>There's no Done message, no indication that I'm finished, no suggestion that the driver is now installed.</p>
+        <p>So let's review: Netgear puts us through 15 screens, filled with terrifying legalese and implications that we're about to corrupt our PC forever.</p>
+        <p>You know how many screens my revamped design would take?</p>
+        <p>One.</p>
+        <p>When the installer runs, you'd see a Welcome screen. It would offer two optional links: "Read License Agreement" and "Change Installation Folder." But the main thing you'd see is a button that says "Install Driver Software."</p>
+        <p>After the installation, a second screen would appear. "Now plug the Netgear USB adapter into your PC. It's ready to use!"</p>
+        <p>This simple change, I feel sure, would cut down the number of returns by a good 10 percent.</p>
+        <p>That's worth 50 grand right there, n'est-ce pas?</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

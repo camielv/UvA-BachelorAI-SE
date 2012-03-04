@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Doing the Math at Restaurants</title>
+    <meta content="01letters" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837318"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weight</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diet and Nutrition</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE0DB1130F932A35757C0A9619C8B63" item-length="229" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Doing the Math at Restaurants</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Will Diners Still Swallow This?'' (March 25), about the debate over portion sizes at restaurants:</p>
+        <p>If chain restaurants really wanted to help consumers, they would stop trying to torpedo New York City's new requirement, effective this July, that certain chains list calories on their menus and menu boards. That disclosure will empower consumers and encourage restaurants to compete on the basis of nutrition.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Will Diners Still Swallow This?'' (March 25), about the debate over portion sizes at restaurants:</p>
+        <p>If chain restaurants really wanted to help consumers, they would stop trying to torpedo New York City's new requirement, effective this July, that certain chains list calories on their menus and menu boards. That disclosure will empower consumers and encourage restaurants to compete on the basis of nutrition.</p>
+        <p>Better yet would be a federal law requiring all chain restaurants to list calories on their menu boards and calories, sodium and saturated plus trans fat on printed menus.</p>
+        <p>Michael F. Jacobson, Ph.D.  Washington, March 26</p>
+        <p>The writer is executive director of the Center for Science in the Public Interest.</p>
+        <p>To the Editor:</p>
+        <p>If we're going to get serious about fighting obesity, some parts of the food industry will take a hit. But others -- whether farmers, suppliers, retailers or restaurants that can make healthy food available to more people -- will have a chance to benefit as we make the mental shift toward valuing quality over quantity. The gain is worth the pain.</p>
+        <p>Karin J. Lauria  Marlborough, Mass., March 26</p>
+        <p>To the Editor:</p>
+        <p>A simple but sensible solution on restaurant portion sizes: Why not give smaller servings, slightly cheaper, with the option to order seconds for $1 or $2 more?</p>
+        <p>E. M. Bass  Nashville, March 29</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Hilary Lefebvre, Jake Perry</title>
+    <meta content="01lefebvre" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/01/fashion/weddings/01lefebvre.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1837275"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Lefebvre, Hilary Elizabeth (Hilary Elizabeth Perry)</person>
+        <person class="indexing_service">Perry, David Jacob</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9901E6DB1130F932A35757C0A9619C8B63" item-length="193" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Hilary Lefebvre, Jake Perry</hl1>
+        <hl2 class="online_headline">Hilary Lefebvre, Jake Perry</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Hilary Elizabeth Lefebvre, a daughter of Michela Gallagher of Baltimore and Mark F. Lefebvre of Raleigh, N.C., was married yesterday to David Jacob Perry, a son of Lila-Elaine Perry of Las Vegas and the late Michael R. Perry. Terri S. Diem, a retired judge of the Fifth Judicial District in Colorado, officiated at SaddleRidge, a lodge in Beaver Creek, Colo.</p>
+        <p>Mrs. Perry, 27, is the booking producer in the Washington bureau of ''Nightline,'' the ABC News program. She graduated from the University of North Carolina.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Hilary Elizabeth Lefebvre, a daughter of Michela Gallagher of Baltimore and Mark F. Lefebvre of Raleigh, N.C., was married yesterday to David Jacob Perry, a son of Lila-Elaine Perry of Las Vegas and the late Michael R. Perry. Terri S. Diem, a retired judge of the Fifth Judicial District in Colorado, officiated at SaddleRidge, a lodge in Beaver Creek, Colo.</p>
+      </block>
+      <block class="full_text">
+        <p>Hilary Elizabeth Lefebvre, a daughter of Michela Gallagher of Baltimore and Mark F. Lefebvre of Raleigh, N.C., was married yesterday to David Jacob Perry, a son of Lila-Elaine Perry of Las Vegas and the late Michael R. Perry. Terri S. Diem, a retired judge of the Fifth Judicial District in Colorado, officiated at SaddleRidge, a lodge in Beaver Creek, Colo.</p>
+        <p>Mrs. Perry, 27, is the booking producer in the Washington bureau of ''Nightline,'' the ABC News program. She graduated from the University of North Carolina.</p>
+        <p>Her father is a clinical psychologist in Raleigh. Her mother is the chairwoman of the psychological and brain sciences department at Johns Hopkins. The bride is a stepdaughter of Dr. Elizabeth E. Campbell, an oncologist and a partner in Cancer Centers of North Carolina in Raleigh.</p>
+        <p>Mr. Perry, 30, is known as Jake. He works in Washington for Senator Harry Reid of Nevada, the majority leader, raising money for his campaign and political action committee. The bridegroom graduated from East Carolina University in Greenville, N.C.</p>
+        <p>His mother teaches history and sociology at Rancho High School in Las Vegas. His father was a computer software consultant in Henderson, Nev.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

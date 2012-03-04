@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>2 Rangers Games Only on Versus</title>
+    <meta content="25versus" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1842881"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="HOCKEY"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Hockey/National Hockey League/Buffalo Sabres</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Hockey/National Hockey League/New York Rangers</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Hockey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Playoff Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hockey, Ice</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070425T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F02EFD8143EF936A15757C0A9619C8B63" item-length="201" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>2 Rangers Games Only on Versus</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Many Rangers fans will not be able to watch Game 1 of the Eastern Conference semifinals against the Buffalo Sabres tonight because it will be seen only on Versus, which is available in far fewer homes in the New York market than MSG is.</p>
+        <p>About 3 million local cable households receive Versus compared with 5.5 million who get MSG, according to both networks. The figures exclude each networks' satellite availability on DirecTV and Dish.</p>
+      </block>
+      <block class="full_text">
+        <p>Many Rangers fans will not be able to watch Game 1 of the Eastern Conference semifinals against the Buffalo Sabres tonight because it will be seen only on Versus, which is available in far fewer homes in the New York market than MSG is.</p>
+        <p>About 3 million local cable households receive Versus compared with 5.5 million who get MSG, according to both networks. The figures exclude each networks' satellite availability on DirecTV and Dish.</p>
+        <p>Versus will also carry Game 4 exclusively, once more sending Rangers fans to their radios or to bars to see the game.</p>
+        <p>The five other United States markets whose teams are playing in N.H.L. conference semifinals are in the same situation: two games will be seen only on Versus, which is available to fewer homes than the teams' local TV outlets.</p>
+        <p>For the series between the Devils and Ottawa, Games 3 and 4 are Versus exclusives and will not be seen on FSNY.</p>
+        <p>Versus is available nationally to about 72 million households. Gavin Harvey, the Versus president, said: ''Seventy-two million means we're fairly widely distributed, so it's not like we're this emerging network. We've crossed a threshold, but we still have a lot of work to do.''</p>
+        <p>HOCKEY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

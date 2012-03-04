@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ford Pays Chief $28 Million for 4 Months' Work</title>
+    <meta content="06ford" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/06/business/06ford.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1838347"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="descriptor">Wages and Salaries</classifier>
+        <classifier class="online_producer" type="descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="descriptor">Bonuses</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bonuses</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wages and Salaries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+        <org class="online_producer">Ford Motor Co</org>
+        <person class="online_producer">Mulally, Alan R</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070406T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F03EFDD173FF935A35757C0A9619C8B63" item-length="488" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ford Pays Chief $28 Million for 4 Months' Work</hl1>
+        <hl2 class="online_headline">Ford Pays Chief $28 Million for 4 Months’ Work</hl2>
+      </hedline>
+      <byline class="print_byline">By NICK BUNKLEY</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Ford Motor Company paid its new chief executive, Alan R. Mulally, $28.18 million in his first four months on the job, the automaker said in a regulatory filing yesterday.</p>
+        <p>His compensation included an $18.5 million bonus that Ford, which reported a record $12.7 billion loss last year, disclosed in September when it hired him from Boeing.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The automaker, which reported a record $12.7 billion in losses last year, paid its new leader more than three times as much as any other executive.</p>
+      </block>
+      <block class="full_text">
+        <p>The Ford Motor Company paid its new chief executive, Alan R. Mulally, $28.18 million in his first four months on the job, the automaker said in a regulatory filing yesterday.</p>
+        <p>His compensation included an $18.5 million bonus that Ford, which reported a record $12.7 billion loss last year, disclosed in September when it hired him from Boeing.</p>
+        <p>Figures in Ford's annual proxy statement show that his pay was more than three times that of any other executive at the company. That includes the executive chairman, William Clay Ford Jr., who has kept a 2005 promise not to accept any new salary, bonus or stock awards until Ford consistently earns a profit.</p>
+        <p>The second-highest pay, $8.67 million, was also for only a few months' work; it went to James J. Padilla, who retired as president and chief operating officer in July.</p>
+        <p>Three executives received bonuses for their roles in reducing manufacturing capacity, cutting costs and achieving other goals as part of Ford's overhaul plan, known as the Way Forward. The awards were part of a retention program that the company recently abandoned.</p>
+        <p>Mark Fields, president of the Americas division, earned $2.29 million of his $5.57 million in total compensation from that program. Lewis W. K. Booth, executive vice president for Europe, received a $1.7 million retention incentive, while Don R. Leclair, Ford's chief financial officer, received $1.32 million.</p>
+        <p>Ford said it spent $517,560 to give Mr. Fields use of a company jet in 2006, a perk he stopped using in January after it received considerable negative publicity. Ford now buys first-class commercial airfares to fly Mr. Fields from company offices in Dearborn, Mich., to his family's home in South Florida each weekend.</p>
+        <p>Executive compensation at all three Detroit automakers has been closely scrutinized since they began revamping plans that will close dozens of factories and eliminate tens of thousands of jobs. They are trying to overcome multibillion-dollar losses and compete better with foreign-based rivals like Toyota and Honda.</p>
+        <p>This year, as the automakers negotiate a new labor agreement with the United Automobile Workers union, workers are certain to resist demands for concessions if they consider executive salaries to be excessive.</p>
+        <p>Union members have criticized the awarding of restricted stock option bonuses to top executives at General Motors -- although G.M. paid no cash bonuses for the second consecutive year -- and a proposal at Ford to pay bonuses to executives there. Ford later announced a program to pay modest bonuses of at least $300 to all employees.</p>
+        <p>Mr. Mulally earned a base salary of $666,667, or $2 million annualized. He was granted a $7.5 million signing bonus and $11 million to make up for bonuses and stock options he forfeited by leaving Boeing. Ford valued the stock and option awards he received last year at $8.68 million.</p>
+        <p>In his final year at Boeing, where he headed the commercial airplanes division, Mr. Mulally earned a total of $9.96 million.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

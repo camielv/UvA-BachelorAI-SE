@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Best-Informed Also View Fake News, Study Says</title>
+    <meta content="16pew" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business; Washington" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/16/business/media/16pew.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840749"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MEDIA TALK"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <org class="online_producer">Pew Research Center for the People and the Press</org>
+        <person class="online_producer">Stewart, Jon</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070416T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE7DE113FF935A25757C0A9619C8B63" item-length="370" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Best-Informed Also View Fake News, Study Says</hl1>
+        <hl2 class="online_headline">Best-Informed Also View Fake News, Study Says</hl2>
+      </hedline>
+      <byline class="print_byline">By KATHARINE Q. SEELYE</byline>
+      <byline class="normalized_byline">Seelye, Katharine Q</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Americans may have more news outlets today than two decades ago, but they still don't know much more about current events than they did then, according to a new survey by the Pew Research Center for the People and the Press.</p>
+        <p>But here's one big difference: the survey respondents who seemed to know the most about what's going on -- who were able to identify major public figures, for example -- were likely to be viewers of fake news programs like Jon Stewart's ''The Daily Show'' and ''The Colbert Report''; those who knew the least watched network morning news programs, Fox News or local television news.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Respondents who knew the most about what’s going on were likely to be viewers of programs like Jon Stewart’s “The Daily Show.”</p>
+      </block>
+      <block class="full_text">
+        <p>Americans may have more news outlets today than two decades ago, but they still don't know much more about current events than they did then, according to a new survey by the Pew Research Center for the People and the Press.</p>
+        <p>But here's one big difference: the survey respondents who seemed to know the most about what's going on -- who were able to identify major public figures, for example -- were likely to be viewers of fake news programs like Jon Stewart's ''The Daily Show'' and ''The Colbert Report''; those who knew the least watched network morning news programs, Fox News or local television news.</p>
+        <p>Only 69 percent of people in the latest survey could come up with Dick Cheney when asked to name the vice president; in 1989, 74 percent could name Dan Quayle. Fewer could name the governor of their state (66 percent now compared with 74 percent in 1989) and fewer could name the president of Russia (36 percent now compared with 47 percent before).</p>
+        <p>In 1989, fully 81 percent of people knew that the United States had a trade deficit; today, only 68 percent knew.</p>
+        <p>The survey found that education was the best predictor of who would do well on the questions. ''However,'' it said, ''despite the fact that education levels have risen dramatically over the past 20 years, public knowledge has not increased accordingly.'' About 27 percent of Americans are college graduates.</p>
+        <p>The survey of 1,502 adults, conducted in February by the Pew Center (www.people-press.org), was based on answers to 23 questions and had a margin of error of 3 percentage points. Only eight people answered all 23 questions correctly, and five answered none correctly. The average number of right answers was 12.</p>
+        <p>Half of the people who did the best said they got their news from at least seven outlets a day.</p>
+        <p>The six news sources cited most often by people who knew the most about current events were: ''The Daily Show'' and ''The Colbert Report'' (counted as one), tied with Web sites of major newspapers; next came ''News Hour With Jim Lehrer''; then ''The O'Reilly Factor,'' which was tied with National Public Radio; and Rush Limbaugh's radio program.</p>
+        <p>KATHARINE Q. SEELYE</p>
+        <p>MEDIA TALK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

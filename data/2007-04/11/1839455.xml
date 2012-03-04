@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ginger, Gooseberries, Pomes and More</title>
+    <meta content="11book" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining, Dining Out/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts; Dining and Wine; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1839455"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="FOOD STUFF"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Columns/Food Stuff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cooking and Cookbooks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070411T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9404E5D7153FF932A25757C0A9619C8B63" item-length="184" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ginger, Gooseberries, Pomes and More</hl1>
+      </hedline>
+      <byline class="print_byline">By Florence Fabricant</byline>
+      <byline class="normalized_byline">Fabricant, Florence</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A new book, ''The Produce Bible: Essential Ingredient Information and More Than 200 Recipes for Fruits, Vegetables, Herbs &amp; Nuts,'' by Leanne Kitchen (Stewart, Tabori &amp; Chang, $29.95), may be too big to haul to the Greenmarket, but it would pay to peruse it at the start of each season or even each month.</p>
+        <p>The text is enlivened with stunning photography and each entry is followed by one or more recipes. I have no doubt that a gooseberry shortcake with a cream filling and lattice top will perfume my kitchen in a couple of months, just as the delicate fish in ginger broth did recently. The roasted beets with horseradish cream took care of some of the fresh horseradish left over from Passover.</p>
+      </block>
+      <block class="full_text">
+        <p>A new book, ''The Produce Bible: Essential Ingredient Information and More Than 200 Recipes for Fruits, Vegetables, Herbs &amp; Nuts,'' by Leanne Kitchen (Stewart, Tabori &amp; Chang, $29.95), may be too big to haul to the Greenmarket, but it would pay to peruse it at the start of each season or even each month.</p>
+        <p>The text is enlivened with stunning photography and each entry is followed by one or more recipes. I have no doubt that a gooseberry shortcake with a cream filling and lattice top will perfume my kitchen in a couple of months, just as the delicate fish in ginger broth did recently. The roasted beets with horseradish cream took care of some of the fresh horseradish left over from Passover.</p>
+        <p>The book's sections on fruits and vegetables are divided into categories, including citrus, tropical and pome fruits; and leaves, fungi, tubers and fruit-vegetables like peppers and tomatoes.</p>
+        <p>I'd note that mangoes are available not just in summer, as the book says, and that the smallish golden ones, in the market now, were ignored. But that's just a quibble.</p>
+        <p>FOOD STUFF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

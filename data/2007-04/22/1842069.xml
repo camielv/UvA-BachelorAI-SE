@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Too Much Information</title>
+    <meta content="spending" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Education Life Supplement" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="4A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Education; U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/22/education/edlife/spending.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1842069"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="SPENDING IT"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="descriptor">Finances</classifier>
+        <classifier class="online_producer" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="descriptor">Scholarships and Fellowships</classifier>
+        <classifier class="online_producer" type="descriptor">Income</classifier>
+        <classifier class="online_producer" type="descriptor">Federal Aid (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Federal Aid (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Income</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tuition</classifier>
+        <classifier class="online_producer" type="general_descriptor">Scholarships and Fellowships</classifier>
+        <classifier class="online_producer" type="general_descriptor">Scholarships and Fellowships</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Awards, Decorations and Honors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <person class="online_producer">Spellings, Margaret</person>
+        <person class="online_producer">Rubin, Robert E</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05E5DF1F3FF931A15757C0A9619C8B63" item-length="838" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Too Much Information</hl1>
+        <hl2 class="online_headline">Too Much Information</hl2>
+      </hedline>
+      <byline class="print_byline">By David Leonhardt</byline>
+      <byline class="normalized_byline">Leonhardt, David</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>When parents sit down to fill out their child's application for federal financial aid, they come across a page with a long list of questions about their income.</p>
+        <p>In one box, they must write down the amount of money they received the previous year from the Earned Income Tax Credit. In another, they have to report income from overseas. There are also boxes for ''untaxed portions of I.R.A. distributions,'' ''veterans' noneducation benefits'' and ''credit for federal tax on special fuels.'' Many of the questions, like the one asking about Black Lung Benefits, apply to a tiny fraction of American families.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Taking the frustration out of federal aid forms.</p>
+      </block>
+      <block class="full_text">
+        <p>When parents sit down to fill out their child's application for federal financial aid, they come across a page with a long list of questions about their income.</p>
+        <p>In one box, they must write down the amount of money they received the previous year from the Earned Income Tax Credit. In another, they have to report income from overseas. There are also boxes for ''untaxed portions of I.R.A. distributions,'' ''veterans' noneducation benefits'' and ''credit for federal tax on special fuels.'' Many of the questions, like the one asking about Black Lung Benefits, apply to a tiny fraction of American families.</p>
+        <p>It is a daunting and often confusing list, and it takes up only one of the eight pages on the Free Application for Federal Student Aid, known as the Fafsa. Yet there is a little secret about all those questions: they have almost no bearing on the amount of federal aid the overwhelming majority of students receive.</p>
+        <p>For most families, a single line on the form -- adjusted gross income from the previous year -- determines whether they will receive a federal grant like a Pell or a subsidized loan like a Stafford or Perkins, as well as the size of the award. The unsubsidized Stafford loan, the other main form of federal aid, is available to applicants regardless of income and assets.</p>
+        <p>The contrast between the simplicity of the federal aid formula and the complexity of the Fafsa has caused education experts in both Republican and Democratic policy circles to push for an overhaul. The process is so unwieldy, they say, that it discourages some low-income students from attending college. For other families, the cumbersome form can be a waste of time.</p>
+        <p>''The government is collecting way more information than is needed to calculate someone's aid,'' says Judith Scott-Clayton, a doctoral candidate at Harvard who is studying higher education.</p>
+        <p>Earlier this month, the Department of Education took a small step toward making the process easier. Families can fill out an online tool known as the Fafsa4caster at any time, even years before a student applies to college, and receive an estimate of what college might cost them given their financial situation. Up until now, many students have had little idea how much aid they were likely to receive until the spring of their senior year in high school.</p>
+        <p>The forecasting tool does not simplify the Fafsa, but it is intended to give students a better sense of what financial aid to expect so they can make decisions about where to apply. And Education Department officials say they intend to continue making changes.</p>
+        <p>Last year, the Commission on the Future of Higher Education -- a group of corporate executives and education officials appointed by Margaret Spellings, the secretary of education -- called for replacing the Fafsa with ''a much shorter and simpler'' application. At a news conference to discuss the commission's report, Ms. Spellings unfurled a Fafsa and held it up next to an income-tax form to show how much longer the financial-aid form was.</p>
+        <p>''The entire financial-aid system is in urgent need of reform,'' she said. ''At the federal level, it's a maze of 60 Web sites, dozens of toll-free numbers and 17 different programs.''</p>
+        <p>The Hamilton Project -- a centrist Democratic policy group co-founded by Robert E. Rubin, the former treasury secretary -- recently made a similar recommendation. In a report by Ms. Scott-Clayton and Susan M. Dynarski, a Harvard public-policy professor, the project called for the current patchwork of federal grants and tax credits to be replaced by a single grant. The Fafsa, in its current form, would be eliminated. Instead, a postcard would be mailed to families a few years before their eldest child applied to college. It would contain a chart telling them how large a grant to expect, based simply on adjusted gross income and family size.</p>
+        <p>Ms. Dynarksi says she welcomes the Education Department's new online tool, so long as it does not derail more important changes, like revising the Fafsa. The forecaster ''is necessary,'' she says. ''It's not sufficient.''</p>
+        <p>Larger changes in the process, like a redesigned Fafsa, would have to be approved by Congress; in March, Democrats introduced a bill to shorten the Fafsa to two pages.</p>
+        <p>There have also been a couple of recent experiments aimed at helping those daunted by the process. The Education Department created a pilot program earlier this year inviting families to call in and fill out the Fafsa over the phone.</p>
+        <p>In one controlled study, H &amp; R Block is using tax information to help low- and moderate-income families around Cleveland navigate the form. Academic researchers will then study whether such assistance increases the likelihood that the children in these families will attend college.</p>
+        <p>Few argue that simplifying the aid system could revolutionize higher education. But Ms. Scott-Clayton notes that research has found that financial aid programs with simple rules, like the Georgia Hope Scholarship, have increased college enrollment. There is little evidence that Pell grants, the heart of the current federal system, have done so.</p>
+        <p>SPENDING IT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

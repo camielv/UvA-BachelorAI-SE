@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Profit Outlook Questioned As Motorola Reports a Loss</title>
+    <meta content="19motorola" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/19/technology/19motorola.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1841388"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+        <org class="online_producer">Motorola Inc</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070419T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9401E3D81E3FF93AA25757C0A9619C8B63" item-length="597" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Profit Outlook Questioned As Motorola Reports a Loss</hl1>
+        <hl2 class="online_headline">Profit Outlook Questioned as Motorola Reports a Loss</hl2>
+      </hedline>
+      <byline class="print_byline">By LAURIE J. FLYNN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Motorola, the wireless phone maker, reported a loss for the first quarter yesterday and issued a disappointing forecast for the second, leading some analysts to question whether it would be able to return to profitability this year.</p>
+        <p>The company attributed the loss mostly to slowing sales and deep price-cutting on its line of high-end phones, a response to stiff competition from Nokia and Asian producers like Samsung.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The results led some analysts to question whether the wireless phone maker would be able to return to profitability this year.</p>
+      </block>
+      <block class="full_text">
+        <p>Motorola, the wireless phone maker, reported a loss for the first quarter yesterday and issued a disappointing forecast for the second, leading some analysts to question whether it would be able to return to profitability this year.</p>
+        <p>The company attributed the loss mostly to slowing sales and deep price-cutting on its line of high-end phones, a response to stiff competition from Nokia and Asian producers like Samsung.</p>
+        <p>In a conference call with investors, Motorola's chairman and chief executive, Edward J. Zander, said, ''The performance at our mobile device business in the first quarter was unacceptable, and we are committed to restoring it to profitability and positive cash flow.''</p>
+        <p>Motorola, of Schaumburg, Ill., reported a first-quarter loss of $181 million, or 8 cents a share, in contrast to a profit of $686 million, or 27 cents a share, in the period a year earlier.</p>
+        <p>Excluding such one-time items as a legal settlement and acquisition costs, Motorola had a profit of 2 cents a share, matching forecasts.</p>
+        <p>Mark Sue, an analyst with RBC Capital Markets, said it was not yet clear whether Motorola would be able to turn a profit in 2007. ''The handset market is very competitive, and Motorola needs to constantly tweak its business model,'' he said. ''For them to turn profitable, they need to turn things around pretty quickly.''</p>
+        <p>Revenue in the quarter fell 1.9 percent, to $9.43 billion, from $9.61 billion last year, as sales from the mobile devices group declined 15 percent, to $5.4 billion. That nonetheless surpassed a sharply lowered Wall Street revenue forecast of $9.29 billion.</p>
+        <p>Shares of Motorola rose 27 cents, to close at $18.22, well below their 52-week high of $26.30.</p>
+        <p>Motorola's average phone price in the quarter, $119, was roughly even with that the previous quarter, but below the $139 average a year earlier.</p>
+        <p>Executives predicted that this quarter would also be difficult, and that profit would be 2 to 3 cents a share, excluding one-time items, on largely flat revenue. Analysts had forecast earnings of 8 cents a share on revenue of $9.99 billion, according to Thomson Financial.</p>
+        <p>The acting chief financial officer, Thomas J. Meredith, said the company was nursing an inventory ''hangover,'' as it continued to meet price commitments it made earlier. But executives said they believed that the mobile device business would show gradual improvement and that Motorola would end the year profitable.</p>
+        <p>Handset sales dropped 31 percent in the quarter, to 45.4 million handsets, compared with 65.7 million in the fourth quarter of 2006.</p>
+        <p>Its share of the overall market dropped to 17.5 percent, from 23.3 percent.</p>
+        <p>Mr. Zander said the company would focus on cutting operating expenses and reducing its work force. He said it expected to finish cutting 3,500 jobs by the end of this quarter, which would help save $400 million a year. Motorola also plans to introduce new high-end phones in hopes of regaining an edge over competitors, which will include Apple when it begins selling its iPhone in June.</p>
+        <p>It was the third quarter in a row that the company warned of disappointing results, a pattern that prompted the takeover investor Carl C. Icahn to seek a seat on Motorola's board. In a letter to shareholders, Mr. Icahn, who has a nearly 3 percent stake, said the company's ''passive and reactive'' directors were partly to blame for its troubles.</p>
+        <p>But Motorola executives said they opposed Mr. Icahn's appointment, declaring that his qualifications would not add to the strength of the board, and urged shareholders to vote against it at the annual meeting on May 7.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

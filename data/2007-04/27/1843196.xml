@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Baker Hughes Admits to Overseas Bribery</title>
+    <meta content="27settle" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/27/business/worldbusiness/27settle.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1843196"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Floyd Norris</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Markets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">Bribery</classifier>
+        <classifier class="online_producer" type="descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="descriptor">Securities and Commodities Violations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fines (Penalties)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bribery</classifier>
+        <classifier class="online_producer" type="general_descriptor">Futures and Options Trading</classifier>
+        <classifier class="online_producer" type="general_descriptor">Securities and Commodities Violations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070427T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9502E6DF123EF934A15757C0A9619C8B63" item-length="529" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Baker Hughes Admits to Overseas Bribery</hl1>
+        <hl2 class="online_headline">Baker Hughes Admits to Overseas Bribery</hl2>
+      </hedline>
+      <byline class="print_byline">By FLOYD NORRIS</byline>
+      <byline class="normalized_byline">Norris, Floyd</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Baker Hughes, a large oil services company, pleaded guilty yesterday to violating the foreign corrupt practices act by bribing foreign officials, an action that continued even after the company promised in 2001 to stop making such payments.</p>
+        <p>The criminal charges covered payments to win oil field contracts in Kazakhstan, but the company also settled civil charges filed by the Securities and Exchange Commission accusing it of making illegal payments in five other countries -- Angola, Indonesia, Nigeria, Russia and Uzbekistan.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The large oil services company pleaded guilty to violating the foreign corrupt practices act by bribing foreign officials.</p>
+      </block>
+      <block class="full_text">
+        <p>Baker Hughes, a large oil services company, pleaded guilty yesterday to violating the foreign corrupt practices act by bribing foreign officials, an action that continued even after the company promised in 2001 to stop making such payments.</p>
+        <p>The criminal charges covered payments to win oil field contracts in Kazakhstan, but the company also settled civil charges filed by the Securities and Exchange Commission accusing it of making illegal payments in five other countries -- Angola, Indonesia, Nigeria, Russia and Uzbekistan.</p>
+        <p>The company agreed to pay $44.1 million in penalties and forfeitures, which the government said was the largest penalty ever for violations of the Foreign Corrupt Practices Act. It also agreed to appoint a monitor to assure that it complied with the law in the future.</p>
+        <p>''The acts which resulted in these enforcement actions are contrary to our core values, our policies and our expectations for ethical behavior,'' Chad C. Deaton, the chief executive of Baker Hughes, said in a statement. He said that the employees involved had left the company.</p>
+        <p>Linda Chatman Thomsen, the S.E.C.'s enforcement director, said, ''Baker Hughes committed widespread and egregious violations of the F.C.P.A. while subject to a prior commission cease-and-desist order.'' She added that the suit ''demonstrates that companies must adhere to commission orders and that recidivists will be punished.''</p>
+        <p>Alice S. Fisher, an assistant attorney general, said, ''The record penalties leveled in this case leave no doubt that foreign bribery is bad for business. By enforcing the F.C.P.A., we are maintaining the integrity of U.S. markets and leveling the playing field for those companies that want to play by the rules.''</p>
+        <p>In an action that was filed on Sept. 12, 2001, and received little attention at the time, Baker Hughes agreed to a cease-and-desist order issued by the S.E.C., which said that it had violated the corrupt practices act by bribing an official in Indonesia.</p>
+        <p>That cease-and-desist order appeared to have had little impact on the company's behavior, the S.E.C. action filed Wednesday indicated. It said the payments in Kazakhstan and Angola went on from 1998 to 2003, while those to an agent involved in securing business in Russia and Uzbekistan went on from 1998 to 2004, and payments in Indonesia went on from 2000 to 2003. Payments in Nigeria were made from 2001 to 2005, the S.E.C. said.</p>
+        <p>In 2003, the company initiated an investigation, but, the S.E.C. said, it did not uncover some of the violations, which allowed them to continue.</p>
+        <p>In yesterday's settlement, the company agreed to pay a fine of $11 million in connection with the criminal case, and it entered into a deferred prosecution agreement that would bar further prosecution if it did not commit more violations in the next two years. It also agreed to pay more than $23 million in disgorgement and interest and a civil penalty of $10 million for violating the cease-and-desist order.</p>
+        <p>No criminal charges were filed against company executives, and the S.E.C. filed a civil complaint against one person, Roy Fearnley, a former business development manager for Baker Hughes in Kazakhstan. Mr. Fearnley has not settled the suit, and the commission said it knew of no lawyer representing him.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

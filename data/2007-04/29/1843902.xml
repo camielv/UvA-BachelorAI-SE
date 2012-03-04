@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Schlepping the Peanuts and Cracker Jack (and a Lot of Other Stuff)</title>
+    <meta content="29curry" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/29/sports/baseball/29curry.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1843902"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="BASEBALL"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/Boston Red Sox</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="descriptor">Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+        <org class="online_producer">Boston Red Sox</org>
+        <person class="online_producer">Okajima, Hideki</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E1DE133EF93AA15757C0A9619C8B63" item-length="312" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Schlepping the Peanuts and Cracker Jack (and a Lot of Other Stuff)</hl1>
+        <hl2 class="online_headline">Schlepping the Peanuts and Cracker Jack (and a Lot of Other Stuff)</hl2>
+      </hedline>
+      <byline class="print_byline">By JACK CURRY</byline>
+      <byline class="normalized_byline">Curry, Jack</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The green duffel bag is always within a few feet of Hideki Okajima's locker. Okajima, a reliever for the Boston Red Sox, has a luggage tag with 37, his uniform number, attached to it. The words ''Take to the ballpark'' are taped to the bag, too.</p>
+        <p>What precious items are in the bag that Okajima protects so zealously? There are sunflower seeds, gum, candy, bottles of water, caffeinated drinks and anything else Okajima's fellow relievers may request to sip or munch on during a game.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>It is traditional for relievers with the least service time on a team to stock and handle the bullpen bag. What makes Boston’s Hideki Okajima different is that he pitched 11 seasons in Japan.</p>
+      </block>
+      <block class="full_text">
+        <p>The green duffel bag is always within a few feet of Hideki Okajima's locker. Okajima, a reliever for the Boston Red Sox, has a luggage tag with 37, his uniform number, attached to it. The words ''Take to the ballpark'' are taped to the bag, too.</p>
+        <p>What precious items are in the bag that Okajima protects so zealously? There are sunflower seeds, gum, candy, bottles of water, caffeinated drinks and anything else Okajima's fellow relievers may request to sip or munch on during a game.</p>
+        <p>It is traditional for relievers with the least service time on a major league team to stock and handle the bullpen bag. What makes Okajima different from the typical rookie who receives the assignment is that he pitched 11 seasons in Japan. What also makes Okajima's appointment notable is how seriously he treats the tedious job.</p>
+        <p>''I was told that it was my responsibility to make sure there are enough supplies in the bag,'' Okajima said through an interpreter. ''That's why I make sure I've got enough.''</p>
+        <p>When Okajima arrived at the clubhouse in Baltimore last week, the first thing he did was examine the contents of a bag that makes every day seem like Halloween. Then he flashed 10 fingers at a clubhouse attendant, a sign that he needed 10 bags of seeds. He replaced warm cans of Red Bull with cold ones. He replenished the bag before slipping into his uniform.</p>
+        <p>Okajima said he experienced handling the goody bag when pitching with the Yomiuri Giants. In Japan, the youngest reliever is responsible for the bag, not the pitcher with the least service time. Since Okajima, 31, made his debut at age 19, he was the bag man for a while.</p>
+        <p>''I had many veteran pitchers in front of me,'' Okajima said. ''So I did a lot of running around.''</p>
+        <p>He still does.</p>
+        <p>BASEBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

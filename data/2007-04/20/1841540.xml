@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Cross-Cultural Exchange From a Finnish Soprano</title>
+    <meta content="20matt" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/20/arts/music/20matt.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1841540"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MUSIC REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews/Classical</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="descriptor">Classical Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Classical Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <person class="online_producer">Mattila, Karita</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070420T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9902EEDB1F3FF933A15757C0A9619C8B63" item-length="399" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Cross-Cultural Exchange From a Finnish Soprano</hl1>
+        <hl2 class="online_headline">Cross-Cultural Exchange From a Finnish Soprano</hl2>
+      </hedline>
+      <byline class="print_byline">By BERNARD HOLLAND</byline>
+      <byline class="normalized_byline">Holland, Bernard</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Karita Mattila's wildly successful operatic career took a night off for a concert recital on Wednesday, albeit in a place the size of most opera houses. At Carnegie Hall in front of a friendly audience, this Finnish soprano spent the first half of the evening in a kind of diplomatic exchange between her country and ours, and then turned to things Spanish.</p>
+        <p>Samuel Barber's ''Hermit Songs'' updates texts from Irish monasteries of the Middle Ages. In the piece, with piano parts that suggest the hollow harmonies of early polyphony and with brittle, sharp-edged virtuoso writing, plaintive messages arrive from the past: about loneliness, lust, religious ardor and the joys of solitude. Ms. Mattila sounded fine, but to decipher what the monks were saying, even in English translation, you had to read the texts.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Ms. Mattila sang a survey of Finnish songs with balladlike simplicity and six Spanish songs with taste and intensity at Carnegie Hall on Wednesday.</p>
+      </block>
+      <block class="full_text">
+        <p>Karita Mattila's wildly successful operatic career took a night off for a concert recital on Wednesday, albeit in a place the size of most opera houses. At Carnegie Hall in front of a friendly audience, this Finnish soprano spent the first half of the evening in a kind of diplomatic exchange between her country and ours, and then turned to things Spanish.</p>
+        <p>Samuel Barber's ''Hermit Songs'' updates texts from Irish monasteries of the Middle Ages. In the piece, with piano parts that suggest the hollow harmonies of early polyphony and with brittle, sharp-edged virtuoso writing, plaintive messages arrive from the past: about loneliness, lust, religious ardor and the joys of solitude. Ms. Mattila sounded fine, but to decipher what the monks were saying, even in English translation, you had to read the texts.</p>
+        <p>With America's composers acknowledged, patriotism was in order -- here with a survey of Finnish songwriters like Toivo Kuula, Erkki Melartin, Oskar Merikanto and Leevi Madetoja. The eight songs arrived in one smooth, untroubled wave. Mr. Kuula's ''Autumn Mood'' caught the ear with its interesting shifts in harmony, but most everything else had a balladlike simplicity. Mr. Madetoja, who died in 1947, evidently listened to the music of his time, and his two items came closest to what we think of as art songs. This is music sure to warm the Finnish heart, but probably made more for domestic use than export.</p>
+        <p>Dressed after intermission for a night at an upscale tango bar, Ms. Mattila sang six well-chosen songs from Hugo Wolf's ''Spanisches Liederbuch'' with the taste and intensity that have won her so much admiration. If Mr. Wolf's textual sources are Spanish, his music is not.</p>
+        <p>Enrique Granados's ''Maja y el Ruiseñor'' and the five songs of Joaquin Turina's ''Poema en forma de canciones'' came closer to the singer's choice of wardrobe. The first is the operatic afterthought Mr. Granados created from his great piano suite ''Goyescas,'' which has this ''Maid in the Nightingale'' as its languid yet intricate centerpiece.</p>
+        <p>It was as much Martin Katz's night as Ms. Mattila's. This pianist played with exceptional elegance in the difficult ''Goyescas'' music and equally as impressively in Mr. Barber's big, exuberant piano writing and Mr. Wolf's more subdued but just as demanding accompaniments. Ms. Mattila turned fully operatic in the Turina: dancing, stomping, twirling and shimmying. The audience loved the gymnastics more than I.</p>
+        <p>MUSIC REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

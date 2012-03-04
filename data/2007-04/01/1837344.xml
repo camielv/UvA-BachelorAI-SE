@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Insurance for the Elderly</title>
+    <meta content="l01insure" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837344"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bureaucratic Red Tape</classifier>
+        <classifier class="online_producer" type="general_descriptor">Health Insurance and Managed Care</classifier>
+        <classifier class="online_producer" type="general_descriptor">Frauds and Swindling</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Aged</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0DE2D81130F932A35757C0A9619C8B63" item-length="128" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Insurance for the Elderly</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Aged, Frail and Denied Care by Their Insurers'' (''Golden Opportunities'' series, front page, March 26):</p>
+        <p>Long-term care insurance can be a valuable tool for a family's long-term financial planning. It is important that consumers receive recommendations of policies based on their financial objectives. People should receive thorough disclosures and suitable products offered by properly trained and monitored sales professionals.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Aged, Frail and Denied Care by Their Insurers'' (''Golden Opportunities'' series, front page, March 26):</p>
+        <p>Long-term care insurance can be a valuable tool for a family's long-term financial planning. It is important that consumers receive recommendations of policies based on their financial objectives. People should receive thorough disclosures and suitable products offered by properly trained and monitored sales professionals.</p>
+        <p>Companies that maintain programs to monitor all parts of the process -- from marketing to claims -- are more likely to offer products that consumers can count on.</p>
+        <p>Consumers should ask about a company's corporate commitment to ethical business practices. Qualification by the Insurance Marketplace Standards Association demonstrates just this kind of dedication.</p>
+        <p>Brian K. Atchinson  President, Insurance Marketplace  Standards Association  Bethesda, Md., March 28, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

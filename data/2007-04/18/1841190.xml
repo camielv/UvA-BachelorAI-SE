@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Charges Dropped Against Marine</title>
+    <meta content="18haditha" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="World; Washington" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/18/world/middleeast/18haditha.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1841190"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE REACH OF WAR"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">United States International Relations</classifier>
+        <classifier class="indexing_service" type="descriptor">United States Armament and Defense</classifier>
+        <classifier class="indexing_service" type="descriptor">Immunity From Prosecution</classifier>
+        <location class="indexing_service">Iraq</location>
+        <location class="indexing_service">Haditha (Iraq)</location>
+        <person class="indexing_service">Dela Cruz, Sanick P (Sgt)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Iraq</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Iraq</classifier>
+        <classifier class="online_producer" type="descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="online_producer" type="descriptor">Decisions and Verdicts</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Decisions and Verdicts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Immunity From Prosecution</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">Iraq</location>
+        <org class="online_producer">Marine Corps</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070418T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E7DB1E3FF93BA25757C0A9619C8B63" item-length="186" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Charges Dropped Against Marine</hl1>
+        <hl2 class="online_headline">Charges Dropped Against Marine</hl2>
+      </hedline>
+      <abstract>
+        <p>Military prosecutors drop charges against Sgt Sanick Dela Cruz, one of four marines charged with murder in killings of 24 Iraqi civilians, including women and children, in Haditha in 2005; Dela Cruz will get immunity to testify against others (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Military prosecutors have dismissed charges against one of four marines charged with murder in the killings of 24 Iraqi civilians, including several women and children, in Haditha, Iraq, in 2005, the Marine Corps announced yesterday.</p>
+        <p>Lt. Gen. James Mattis, the commanding general in the case, also granted the marine, Sgt. Sanick P. Dela Cruz, immunity to testify against the three other enlisted men facing murder charges, the Marine Corps said.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The marine was one of the four charged with murder in the killings of 24 Iraqi civilians in Haditha, Iraq, in 2005.</p>
+      </block>
+      <block class="full_text">
+        <p>Military prosecutors have dismissed charges against one of four marines charged with murder in the killings of 24 Iraqi civilians, including several women and children, in Haditha, Iraq, in 2005, the Marine Corps announced yesterday.</p>
+        <p>Lt. Gen. James Mattis, the commanding general in the case, also granted the marine, Sgt. Sanick P. Dela Cruz, immunity to testify against the three other enlisted men facing murder charges, the Marine Corps said.</p>
+        <p>Sergeant Dela Cruz, a member of Company K, Third Battalion, First Marine Regiment, had been charged with killing five civilians in a house-to-house assault on Nov. 19, 2005, after a roadside bomb killed one marine and wounded others.</p>
+        <p>The charges were dropped April 2 after the government said it had ''balanced his low level of culpability in the alleged crimes against the potential value of his testimony,'' a Marine Corps statement said.</p>
+        <p>In addition to those charged with murder in the case, four marine officers -- two captains, a first lieutenant and the lieutenant colonel in charge of the Third Battalion -- were charged with dereliction of duty for failing to ensure a thorough investigation of the episode.</p>
+        <p>THE REACH OF WAR</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

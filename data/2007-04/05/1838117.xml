@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Circuits; Beaming Up 3-D Objects On a Budget</title>
+    <meta content="05scan" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/05/business/05scan.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1838117"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Three-Dimensional Devices</classifier>
+        <classifier class="indexing_service" type="descriptor">Scanning Devices</classifier>
+        <org class="indexing_service">NextEngine</org>
+        <org class="indexing_service">Z Corp</org>
+        <org class="indexing_service">Great Eastern Technology</org>
+        <person class="indexing_service">Wayner, Peter</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Three-Dimensional Devices</classifier>
+        <classifier class="online_producer" type="descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Three-Dimensional Devices</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070405T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F04E4DB163FF936A35757C0A9619C8B63" item-length="1272" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Circuits; Beaming Up 3-D Objects On a Budget</hl1>
+        <hl2 class="online_headline">Beaming Up 3-D Objects on a Budget</hl2>
+      </hedline>
+      <byline class="print_byline">By PETER WAYNER</byline>
+      <byline class="normalized_byline">Wayner, Peter</byline>
+      <abstract>
+        <p>Beaming Up 3-D Obje</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>OVER the last few decades, the electronics industry has worked magic with documents by building gadgets that copy, e-mail, print or fax flat images. Now it is building boxes that do something similar with three-dimensional objects.</p>
+        <p>These tools are not news to the industrial designers of the world, who have been able to buy 3-D printers and scanners with prices in the tens of thousands of dollars. But now hobbyists and small businesses are starting to benefit from low-cost versions of the tools.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Laser scanners with arrays of cameras can create digital models of objects that encode all the significant bumps, cracks, corners and facets of real things.</p>
+      </block>
+      <block class="full_text">
+        <p>OVER the last few decades, the electronics industry has worked magic with documents by building gadgets that copy, e-mail, print or fax flat images. Now it is building boxes that do something similar with three-dimensional objects.</p>
+        <p>These tools are not news to the industrial designers of the world, who have been able to buy 3-D printers and scanners with prices in the tens of thousands of dollars. But now hobbyists and small businesses are starting to benefit from low-cost versions of the tools.</p>
+        <p>Laser scanners with arrays of cameras can create digital models of objects that encode all the significant bumps, cracks, corners and facets of real things. Computers can enhance, morph or tweak the models before shipping them to 3-D ''printers'' that may be halfway around the world. The result is a new version of the thing itself, but built from some resin or starch.</p>
+        <p>For instance, $2,495 could buy a desktop laser scanner from NextEngine (www.nextengine.com) of Santa Monica, Calif., that can digitize small objects that fit on its 6-inch-wide turntable. Older scanners that are also more capable and up to the task of scanning something like a car cost much more. The Z Corporation (www.zcorp.com) sells a hand-held scanner that works much like a big camera for $39,900.</p>
+        <p>But scanning is only half the task. A three-dimensional version of the local copy shop is appearing as those scans are uploaded to companies that offer printing priced by the job. It is an attractive option, since the commercial machines that do the printing can be the size of small refrigerators and cost $40,000 or more.</p>
+        <p>Great Eastern Technology (www.get.com), for instance, will make small multicolored copies from a starch-based powder for about $70 using a printer from the Z Corporation. Larger objects that could fill up the printing bed, which measures 10 inches by 10 inches by 8 inches, might cost about $700. Minico Industries (www.minicoindustries.com) uses printers from a company called Dimension  that use a different process to build things out of pure monochrome ABS plastic. It charges about $50 a cubic inch.</p>
+        <p>The Dimension printers are usually chosen by people who need stronger and more durable models created with a bit more precision, while the Z Corporation printers are often favored by those who need multiple colors. The prices are estimates, and most shops will compute a full price from the digital model after measuring the exact amount of raw material needed. The digital models can be enlarged or recolored before printing.</p>
+        <p>The world is just beginning to grapple with the implications of this relatively low-cost duplicating method, often called rapid prototyping. Hearing aid companies, for instance, are producing some custom-fitted ear pieces from scanned molds of patients. Custom car companies produce new parts for classic cars or modified parts for hot rods. Consumer product makers create fully functional designs before committing themselves to big production runs.</p>
+        <p>Tom Clay, chief executive of the Z Corporation, says he is constantly amazed by the uses people find for his products. Doctors use them to build practice models, and museums build replicas so people can feel the object without damaging the real artifact. He thinks one big potential market will be three-dimensional portraiture, so people can create busts for immortality.</p>
+        <p>The legal landscape, though, may not be ready for the Napsterization of three-dimensional things. Most of the cute, small tchotchkes in my house that fit on the turntable of the NextEngine scanner I tested are copyrighted. Zapping up a new version might run afoul of the same laws being used to fight the piracy of songs.</p>
+        <p>Jessica Litman, a professor of law at the University of Michigan and the author of the book ''Digital Copyright,'' said, ''The rules for running it through your 3-D scanner are pretty much the same as running it through your photocopier.''</p>
+        <p>I tried to avoid that issue by creating my own objects from a set of Legos. With the scanner connected to my PC, software went to work to construct a three-dimensional model.</p>
+        <p>The demands taxed my one-year-old system. NextEngine recommends using a PC with plenty of disk space, at least two gigabytes of memory and a high-end video card, although I was able to limp along with only 1.5 gigabytes of RAM. Each model I produced chewed up 50 to 100 megabytes of the disk, something that can be reduced by scanning with less precision.</p>
+        <p>The process is surprisingly simple and yet fraught with glitches. I pushed one button and the NextEngine scanner took a complete set of pictures from various angles. Every two minutes it completed a scan, rotated the object on its turntable a few degrees, and began again. After I aligned the different scans by identifying the same point in different images, it turned the pictures into a 3-D model ready for printing. Adopters must be ready to develop the same skill as the early photographers who juggled glass plates and egg white emulsions in total darkness. I spent several hours on the phone with a customer-support technician from NextEngine who offered some tips.</p>
+        <p>When I first put the objects on the turntable and just pressed the button, the results were covered with holes where the scanner could not get a reasonable image. Light-colored matte surfaces are easier for the laser range-finder to measure, and one trick for making models of dark shiny objects is to coat them with a cloud of white powder. Some even paint the object.</p>
+        <p>NextEngine is working hard to help people over this hurdle. Customer-support connections are built directly into the software so you can easily ask for help. The company is also building another generation of its tools to eliminate some common errors, like segments that escaped the view of the scanner. They touched up my models with this software to make sure there were no gaps that might confound the printer.</p>
+        <p>I shipped a file (about 45 megabytes) to the two printer manufacturers, the Z Corporation and Minico, to print sample facsimiles. The results were good, although both companies pointed out that they could do a better job with a cleaner scan produced with better resolution -- something requiring more care, better lighting and more powder.</p>
+        <p>I tried scanning my face in a NextEngine scanner, and it wasn't as easy as scanning a Lego device. It was hard to hold still for several minutes, and it was not simple to align multiple shots. Mr. Clay says that it is vastly simpler to produce what he calls a Mount Rushmore bust from only one angle.</p>
+        <p>Brad Porter, the president of Great Eastern Technologies, says he has printed a number of busts. ''The biggest issue is hair,'' he warned. ''Hair doesn't scan well.'' Many people will start with direct scans of the faces, he says, but use 3-D modeling software to reconstruct the hair. That is a big advantage for those with cowlicks.</p>
+        <p>The ability to retouch or modify the scanned objects is surprisingly useful. The printed versions of the Lego spaceship I scanned were enlargements, and retouched before printing. One has a tie-dye look; another has new holes and additions.</p>
+        <p>The three-dimensional printers that generate the products are also getting cheaper. A Cornell University project called Fab@Home  is sharing open-source versions of a design that is being manufactured by an Albuquerque-based company, Koba, at prices of about $3,000.</p>
+        <p>And the most adventurous are branching out from standard resins. Evan Malone, a Cornell graduate student working with Fab@Home, posted pictures of hors d'oeuvres built by ''printing'' the school logo on some crackers with Cheez Whiz they loaded into a print head that usually holds plastic.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

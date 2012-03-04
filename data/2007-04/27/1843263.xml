@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Film in Review; Something to Cheer About</title>
+    <meta content="27roun-3" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1843263"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Catsoulis, Jeannette</person>
+        <person class="indexing_service">Blankenbaker, Betsy</person>
+        <object.title class="indexing_service">Something to Cheer About (Movie)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/Reviews</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070427T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9501EEDE123EF934A15757C0A9619C8B63" item-length="213" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Film in Review; Something to Cheer About</hl1>
+      </hedline>
+      <byline class="print_byline">By JEANNETTE CATSOULIS</byline>
+      <byline class="normalized_byline">Catsoulis, Jeannette</byline>
+      <abstract>
+        <p>Jeannette Catsoulis reviews Betsy Blankenbaker documentary film Something to Cheer About (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Opens today in New York and selected cities  Directed by Betsy Blankenbaker  Not rated; 64 minutes.</p>
+        <p>Short, sweet and sentimental, ''Something to Cheer About'' tells the story of Indiana's Crispus Attucks Tigers, who, in 1955, became the first all-black high school basketball team to win a state championship. Like last year's ''Glory Road,'' Betsy Blankenbaker's documentary celebrates a victory over much more than just rival teams.</p>
+      </block>
+      <block class="full_text">
+        <p>Opens today in New York and selected cities  Directed by Betsy Blankenbaker  Not rated; 64 minutes.</p>
+        <p>Short, sweet and sentimental, ''Something to Cheer About'' tells the story of Indiana's Crispus Attucks Tigers, who, in 1955, became the first all-black high school basketball team to win a state championship. Like last year's ''Glory Road,'' Betsy Blankenbaker's documentary celebrates a victory over much more than just rival teams.</p>
+        <p>Between grainy clips of game film, original team members like the legendary Oscar Robertson, a producer of the film, and the former Harlem Globetrotter Hallie Bryant recall a time when basketball was their release from poverty and segregation. The team's unusually athletic playing style soon drew crowds of 10,000 and more while confounding its white opponents -- who were eager to split the gate but not so eager to socialize afterward. A trickier problem was the racism of many white officials. ''We always believed we could beat any team that we played against,'' says the former player Stan Patton. ''The only two people we had to beat were the referees.''</p>
+        <p>Plodding but heartfelt, ''Something to Cheer About'' pays tribute to a time when basketball scholarships and professional opportunities were practically unknown. Back then, a player's only opportunity was to make history.</p>
+        <p>JEANNETTE CATSOULIS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; Major Gift to WNYC</title>
+    <meta content="11arts-1" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1839554"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="general_descriptor">Names, Organizational</classifier>
+        <classifier class="online_producer" type="general_descriptor">Radio</classifier>
+        <classifier class="online_producer" type="general_descriptor">Philanthropy</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070411T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9501E7DE123FF932A25757C0A9619C8B63" item-length="179" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; Major Gift to WNYC</hl1>
+      </hedline>
+      <byline class="print_byline">By ELIZABETH JENSEN</byline>
+      <byline class="normalized_byline">Jensen, Elizabeth</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The public radio station WNYC-AM/FM is to announce today that it has received a $6 million gift from the Jerome L. Greene Foundation and that it will name the station's new 120-seat street-level performing space for Mr. Greene, a real estate executive and philanthropist who died in 1999. The gift is believed to be the largest ever received by a public radio station. The donation was made in conjunction with the station's $57.5 million capital campaign, which is also being officially announced today. Gifts of $42.4 million are already in hand, including $5 million from the Kaplen Foundation. The campaign money will also be used to set up a $12.5 million program development fund, with the remainder paying for the station's move in the fall to 160 Varick Street from its 84-year home in the Municipal Building. Laura Walker, the station's president and chief executive, said the money would enable WNYC to double its news staff of 18, adding an arts unit and reporters to cover the New York economy, immigration and the environment.</p>
+        <p>ELIZABETH JENSEN</p>
+      </block>
+      <block class="full_text">
+        <p>The public radio station WNYC-AM/FM is to announce today that it has received a $6 million gift from the Jerome L. Greene Foundation and that it will name the station's new 120-seat street-level performing space for Mr. Greene, a real estate executive and philanthropist who died in 1999. The gift is believed to be the largest ever received by a public radio station. The donation was made in conjunction with the station's $57.5 million capital campaign, which is also being officially announced today. Gifts of $42.4 million are already in hand, including $5 million from the Kaplen Foundation. The campaign money will also be used to set up a $12.5 million program development fund, with the remainder paying for the station's move in the fall to 160 Varick Street from its 84-year home in the Municipal Building. Laura Walker, the station's president and chief executive, said the money would enable WNYC to double its news staff of 18, adding an arts unit and reporters to cover the New York economy, immigration and the environment.</p>
+        <p>ELIZABETH JENSEN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

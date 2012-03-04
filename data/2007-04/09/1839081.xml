@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths  HERSHKOWITZ, DOROTHY</title>
+    <meta content="dn040907.1" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1839081"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">HERSHKOWITZ, DOROTHY</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070409T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B02E3DF123AF93AA35757C0A9619C8B63" item-length="100" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths  HERSHKOWITZ, DOROTHY</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>HERSHKOWITZ--Dorothy, 62, of Newton Centre, MA, formerly of Queens, NY, on April 6, 2007. Loving mother of Alexander and Jonathan Bohn and cherished wife of Dave Evans. Beloved friend and teacher of so many. Also survived by her brother, Noah Hershkowitz and his wife Rosalyn and her two nieces, Deborah Hershkowitz and Elaine Catz. Services at the Levine Chapels, Brookline, MA on Tuesday, April 10. In lieu of flowers, remembrances may be made to National Ovarian Cancer Coalition, Inc. 500 NE Spanish River Blvd, Suite 8, Boca Raton, FL 33431. For further information, please call the Levine Chapel at 617-277-8300.</p>
+      </block>
+      <block class="full_text">
+        <p>HERSHKOWITZ--Dorothy, 62, of Newton Centre, MA, formerly of Queens, NY, on April 6, 2007. Loving mother of Alexander and Jonathan Bohn and cherished wife of Dave Evans. Beloved friend and teacher of so many. Also survived by her brother, Noah Hershkowitz and his wife Rosalyn and her two nieces, Deborah Hershkowitz and Elaine Catz. Services at the Levine Chapels, Brookline, MA on Tuesday, April 10. In lieu of flowers, remembrances may be made to National Ovarian Cancer Coalition, Inc. 500 NE Spanish River Blvd, Suite 8, Boca Raton, FL 33431. For further information, please call the Levine Chapel at 617-277-8300.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

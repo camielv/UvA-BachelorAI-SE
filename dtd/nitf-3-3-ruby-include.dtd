@@ -1,0 +1,48 @@
+<!--
+IPTC - International Press Telecommunications Council
+Royal Albert House, Windsor, Berkshire SL4 1BE, England
+www.iptc.org
+
+See nitf-3-3.dtd to view Non-Exclusive License Agreement for 
+International Press Telecommunications Council, which
+applies to this specification.
+-->
+<!-- Start of Included Ruby DTD Fragment -->
+
+<!ENTITY % ruby.qname  "ruby" >
+
+<!ELEMENT ruby (
+		(rb, (rt | (rp, rt, rp )) )
+		| (rbc, rtc, rtc?)
+	)>
+<!ATTLIST ruby
+	%common-attributes;
+	>	
+	
+<!ELEMENT rb (#PCDATA)>
+<!ATTLIST rb
+	%common-attributes;
+	>	
+	
+<!ELEMENT rt (#PCDATA)>
+<!ATTLIST rt
+	%common-attributes;
+	rbspan 		CDATA 		#IMPLIED
+	>	
+	
+<!ELEMENT rp (#PCDATA)>
+<!ATTLIST rp
+	%common-attributes;
+	>	
+	
+<!ELEMENT rbc (rb+)>
+<!ATTLIST rbc
+	%common-attributes;
+	>	
+	
+<!ELEMENT rtc (rt+)>
+<!ATTLIST rtc
+	%common-attributes;
+	>	
+
+<!-- End of Included Ruby DTD Fragment -->

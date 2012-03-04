@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Songs Without Words, Emotions Without Text</title>
+    <meta content="30maw" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/30/arts/music/30maw.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1844032"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MUSIC REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews/Classical</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="descriptor">Classical Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Classical Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <org class="online_producer">Chamber Music Society of Lincoln Center</org>
+        <person class="online_producer">Maw, Nicholas</person>
+        <person class="online_producer">McDermott, Anne-Marie</person>
+        <person class="online_producer">Kavafian, Ida</person>
+        <person class="online_producer">Sherry, Fred</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070430T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E0DC133EF933A05757C0A9619C8B63" item-length="402" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Songs Without Words, Emotions Without Text</hl1>
+        <hl2 class="online_headline">Songs Without Words, Emotions Without Text</hl2>
+      </hedline>
+      <byline class="print_byline">By STEVE SMITH</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The premiere of a composition is often treated like the salad course between an opening cordial and the main dish: a bit of healthy fiber separating more appealing offerings. The Chamber Music Society of Lincoln Center has tinkered with that recipe throughout its first season under the leadership of David Finckel and Wu Han, its artistic directors.</p>
+        <p>On Friday at Alice Tully Hall, Nicholas Maw's Sextet for Two Violins, Two Violas and Two Cellos (''Melodies From Drama''), in its world premiere, was the final item on a long program filled with works by composers whose music had influenced Mr. Maw.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Nicholas Maw’s Sextet for Two Violins, Two Violas and Two Cellos, in its world premiere, was the final item on a long program filled with works by composers whose music had influenced Mr. Maw.</p>
+      </block>
+      <block class="full_text">
+        <p>The premiere of a composition is often treated like the salad course between an opening cordial and the main dish: a bit of healthy fiber separating more appealing offerings. The Chamber Music Society of Lincoln Center has tinkered with that recipe throughout its first season under the leadership of David Finckel and Wu Han, its artistic directors.</p>
+        <p>On Friday at Alice Tully Hall, Nicholas Maw's Sextet for Two Violins, Two Violas and Two Cellos (''Melodies From Drama''), in its world premiere, was the final item on a long program filled with works by composers whose music had influenced Mr. Maw.</p>
+        <p>The pianist Anne-Marie McDermott, the violinist Ida Kavafian and the cellist Fred Sherry opened with a stylish, playfully compelling account of Haydn's Piano Trio in A (Hob. XV:18).</p>
+        <p>Given that Mr. Maw's Sextet is based on melodies from ''Sophie's Choice,'' his 2002 operatic adaptation of William Styron's harrowing novel, the trio's breezy jocularity hardly seemed to apply. What would linger throughout the program was the work's emphasis on clear, strong melodies.</p>
+        <p>In some sense, every work on the program aspired to the quality of vocal music. Schumann's ''Three Romances'' for oboe and piano are essentially songs without words. The oboist Stephen Taylor benefited from Ms. McDermott's sensitive, flexible accompaniment.</p>
+        <p>The Adagio from Bruckner's Quintet in F offered rich, almost choral textures fashioned with economical means. The Sextet from Richard Strauss's opera ''Capriccio'' demonstrated his uncanny knack for conjuring emotions without text. And Britten's early, compact ''Phantasy Quartet'' -- dedicated here to the memory of Mstislav Rostropovich, Britten's close associate and one of Mr. Finckel's teachers -- featured ingenious variations wrung from extremely simple motifs.</p>
+        <p>Those lessons were echoed in Mr. Maw's Sextet as players took turns unfurling long arias over rich, ambiguous chords.</p>
+        <p>Memorable themes recurred and collided as the music progressed through a series of dark, ruminative episodes and agitated outbursts.</p>
+        <p>Nervous Modernist angularity crept into one late solo passage played by Ms. Kavafian, but for the most part this was a thoroughly lyrical work. If momentum dipped slightly during the final pages, the finale's unsettled calm was powerful.</p>
+        <p>The Chamber Music Society deserves high praise for its enlightened advocacy in assembling this ambitious program. Equally noteworthy were the violinist Lily Francis, the violists Beth Guterman and Teng Li, and the cellist Priscilla Lee, all bright young players who offered powerful contributions alongside veterans like Joseph Silverstein and Paul Neubauer.</p>
+        <p>MUSIC REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

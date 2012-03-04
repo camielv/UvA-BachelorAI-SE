@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Can You Live With The Voices in Your Head?</title>
+    <meta content="08letters.t-6" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838652"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Mental Health and Disorders</classifier>
+        <org class="indexing_service">Hearing Voices Network</org>
+        <person class="indexing_service">Smith, Daniel B</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mental Health and Disorders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070408T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9804E4DE163FF93BA35757C0A9619C8B63" item-length="92" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Can You Live With The Voices in Your Head?</hl1>
+      </hedline>
+      <abstract>
+        <p>March 25 article on new approach to helping people who hear voices elicits letter from someone--name withheld--who has found her own way of dealing with voices</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>I first heard voices in my head in the 1980's while attending an Ivy League university (Daniel B. Smith, March 25). Since graduation, I've become a lawyer, a spouse, a mother and an active volunteer in my community. Throughout, I've searched for someone to assure me that I'm ''normal'' -- as the voices periodically return. Everyone in the mental-health field has recommended medicating them away. Contrary to their advice, I minimize the voices through exercise, vitamins, hobbies, work and a regular sleep schedule. Thank you for helping me feel normal.</p>
+      </block>
+      <block class="full_text">
+        <p>I first heard voices in my head in the 1980's while attending an Ivy League university (Daniel B. Smith, March 25). Since graduation, I've become a lawyer, a spouse, a mother and an active volunteer in my community. Throughout, I've searched for someone to assure me that I'm ''normal'' -- as the voices periodically return. Everyone in the mental-health field has recommended medicating them away. Contrary to their advice, I minimize the voices through exercise, vitamins, hobbies, work and a regular sleep schedule. Thank you for helping me feel normal.</p>
+        <p>name withheld</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

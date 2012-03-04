@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Victoria Potterton, Austin Zalkin</title>
+    <meta content="15potterton" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/15/fashion/weddings/15potterton.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840494"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Potterton, Victoria Kathryn (Victoria Kathryn Zalkin)</person>
+        <person class="indexing_service">Zalkin, Austin Levitt</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A06EFD9133FF936A25757C0A9619C8B63" item-length="187" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Victoria Potterton, Austin Zalkin</hl1>
+        <hl2 class="online_headline">Victoria Potterton, Austin Zalkin</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Victoria Kathryn Potterton and Austin Levitt Zalkin were married last evening at the Yale Club in New York. Rabbi David M. Posner officiated.</p>
+        <p>The bride and bridegroom met at Dartmouth, from which they graduated, she magna cum laude and he cum laude.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Victoria Kathryn Potterton and Austin Levitt Zalkin were married last evening at the Yale Club in New York. Rabbi David M. Posner officiated.</p>
+      </block>
+      <block class="full_text">
+        <p>Victoria Kathryn Potterton and Austin Levitt Zalkin were married last evening at the Yale Club in New York. Rabbi David M. Posner officiated.</p>
+        <p>The bride and bridegroom met at Dartmouth, from which they graduated, she magna cum laude and he cum laude.</p>
+        <p>Mrs. Zalkin, 26, is to graduate from Yale next month with a combined medical and M.B.A. degree. She is the daughter of Kathryn B. Potterton and William H. Potterton of Fairfax, Va. Her father retired as a senior analyst in the financial management group at R. M. Vredenburg, a military contractor in Arlington, Va. Her mother is an executive administrator in the treasury department at Exxon Mobil Corporation in Fairfax.</p>
+        <p>Mr. Zalkin, 27, works in New York as an associate at ACI Capital, an investment firm, seeking out companies to buy. He is a son of Janet Levitt Zalkin of New York and the late Kenneth G. Zalkin. His mother is a financing adviser for the investment bank iQ Venture Partners in New York. His father was a lawyer specializing in bankruptcy cases at Parker, Duryee, Zunino, Malone &amp; Carter, a New York law firm.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

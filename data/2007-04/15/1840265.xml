@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Jeté Set</title>
+    <meta content="05remix.turnpage.t" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="T: Beauty" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/15/style/tmagazine/15tjete.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840265"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE REMIX"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/T: Style Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Fashion, Beauty and Fitness</classifier>
+        <classifier class="online_producer" type="descriptor">Hair</classifier>
+        <classifier class="online_producer" type="descriptor">Models (Professional)</classifier>
+        <classifier class="online_producer" type="descriptor">Cosmetics and Toiletries</classifier>
+        <classifier class="online_producer" type="descriptor">Beauty</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hair</classifier>
+        <classifier class="online_producer" type="general_descriptor">Models (Professional)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Beauty</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cosmetics and Toiletries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Apparel</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E3DF153FF936A25757C0A9619C8B63" item-length="434" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Jeté Set</hl1>
+        <hl2 class="online_headline">The Jeté Set</hl2>
+      </hedline>
+      <byline class="print_byline">By MARY TANNEN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It's an odd time for ballet to be having a moment. If Degas weren't backstage doing the styling, certainly his spirit was ascendant in the spring fashion shows, where it looked as if the corps de ballet had elbowed out the models. Hair stayed small and off the face, helped with versions of the Alice band at Valentino, Dries van Noten, Burberry and Narcisco Rodriguez. There were sculptured cheeks and diva eyes, and everywhere -- from Chanel to Lanvin -- lips were satin-slipper pink. And this season at the New York City Ballet, young stars like Ashley Bouder and Sterling Hyltin are bringing new life to the Balanchine classics.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>No need to be a prima donna to look like one.</p>
+      </block>
+      <block class="full_text">
+        <p>It's an odd time for ballet to be having a moment. If Degas weren't backstage doing the styling, certainly his spirit was ascendant in the spring fashion shows, where it looked as if the corps de ballet had elbowed out the models. Hair stayed small and off the face, helped with versions of the Alice band at Valentino, Dries van Noten, Burberry and Narcisco Rodriguez. There were sculptured cheeks and diva eyes, and everywhere -- from Chanel to Lanvin -- lips were satin-slipper pink. And this season at the New York City Ballet, young stars like Ashley Bouder and Sterling Hyltin are bringing new life to the Balanchine classics.</p>
+        <p>When there is confusion in government and blood in the streets, what is the relevance of the girl in a tutu? Perhaps it is her ability to stand above the fray -- ultra-feminine, yet supremely athletic. In a world of disorder, she cleaves to the rigorous rules of dance. She is the powerful Maria Tallchief in ''Firebird''; the elegant Tanaquil LeClerq in ''La Valse''; the evanescent Allegra Kent in ''Ivesiana.'' She holds the spotlight and reflects it back into our wearied eyes.</p>
+        <p>Which is why, even though you wouldn't dream of zipping yourself into a tutu, you may yearn to capture some of the ballerina glow for yourself.</p>
+        <p>''Ethereal'' describes the look, and it comes from having luminous skin, says Uzo, the senior stylist at NARS. For ''a beautiful, milky, matte complexion,'' she recommends starting with a moisturizer that gives a ''pearlescent shimmer'' (e.g., NARS skin-brightening serum). She gets the cheekbones, the bridge of the nose and the temples to pop with a highlighter and suggests Multiple by NARS, which is like limelight in a tube.</p>
+        <p>Exaggeration is the key, according to Gordon Espinet, the vice president of makeup artistry for M.A.C. He uses a shimmery powder, like M.A.C.'s Mineralized Skin Finisher in Shimpagne, on cheekbones, with a slightly darker shade in the hollows. For ''Coppélia'' eyes, he suggests a few false lashes at the outside corner and a sheer blue pink for lips, ''so your own color comes through.''</p>
+        <p>Pulling back the hair is easy; pulling off the look is harder, says Eiji Yamane of Eiji Salon. Set straight hair on rollers for body, then coax it back with your fingers; for curly hair, wax the top layer for texture and shine. Straight or curly, ''some hairs sticking out make it look younger,'' Yamane says.</p>
+        <p>Once you have the hair and makeup, all you need is a proud carriage, a dash of élan and an eagerness to join the dance. Chignon optional.</p>
+        <p>MARY TANNEN</p>
+        <p>THE REMIX</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

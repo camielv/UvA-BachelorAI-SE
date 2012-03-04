@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Treasury Bill Auctions Set for This Week</title>
+    <meta content="16bond" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1840733"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070416T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9506EFDF113FF935A25757C0A9619C8B63" item-length="459" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Treasury Bill Auctions Set for This Week</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Treasury's schedule of financing this week includes today's regular weekly auction of new three- and six-month bills and an auction of four-week bills tomorrow.</p>
+        <p>At the close of the New York cash market on Friday, the rate on the outstanding three-month bill was 5 percent. The rate on the six-month issue was 5.07 percent, and the rate on the four-week issue was 4.95 percent.</p>
+      </block>
+      <block class="full_text">
+        <p>The Treasury's schedule of financing this week includes today's regular weekly auction of new three- and six-month bills and an auction of four-week bills tomorrow.</p>
+        <p>At the close of the New York cash market on Friday, the rate on the outstanding three-month bill was 5 percent. The rate on the six-month issue was 5.07 percent, and the rate on the four-week issue was 4.95 percent.</p>
+        <p>The following tax-exempt fixed-income issues are scheduled for pricing this week:</p>
+        <p>TODAY</p>
+        <p>Clarksville, Tenn., $59 million of revenue bonds. Competitive.</p>
+        <p>TOMORROW</p>
+        <p>Minnesota, $264.2 million of general obligation bonds. Competitive.</p>
+        <p>North Carolina, $85 million of general obligation bonds. Competitive.</p>
+        <p>WEDNESDAY</p>
+        <p>Seattle, $154.4 million of general obligation bonds. Competitive.</p>
+        <p>ONE DAY DURING THE WEEK</p>
+        <p>Austin, Tex., Electric, $145 million of utility bonds. Citigroup Global Markets.</p>
+        <p>Bard College series 2007 Dutchess County Industrial Development Authority, $134.7 million of revenue bonds for New York Civic Facility. Goldman Sachs.</p>
+        <p>Clark County, Nev., for Las Vegas-McCarran International Airport, $112 million of passenger facility charge revenue bonds. Citigroup.</p>
+        <p>Clark County, Nev., for Las Vegas-McCarran International Airport, $103.7 million of passenger facility charge revenue bonds. UBS.</p>
+        <p>Colorado Regional Transportation District, $132 million of certificates of participation. Bear Stearns.</p>
+        <p>Foothill-De Anza Community College District, $150 million of election of 2006 general obligation bonds for Santa Clara County, Calif. Morgan Stanley.</p>
+        <p>Florida Housing, $175 million of debt securities. Citigroup.</p>
+        <p>Hays, Tex., Consolidated Independent School District, $60.8 million of debt securities. Banc of America Securities.</p>
+        <p>Judson, Tex., Independent School District, $243.6 million of debt securities. UBS.</p>
+        <p>Lamar, Tex., Independent School District, $150 million of debt securities for Fort Bend County, Tex. UBS.</p>
+        <p>Marion County, Fla., Hospital District, $62 million of health system refunding and improvement revenue bonds for Monroe Regional Health System. Raymond James &amp; Associates.</p>
+        <p>Missouri State Environmental Improvement and Energy Resources Authority, $57.7 million of debt securities. A. G. Edwards &amp; Sons.</p>
+        <p>Municipality of Anchorage, Alaska, $246.1 million of general obligation refunding bonds. A. G. Edwards &amp; Sons.</p>
+        <p>Puerto Rico Electric Power Authority, $2.2 billion of debt securities. JPMorgan Securities.</p>
+        <p>Seneca Nation of Indians, New York, $160 million of debt securities. Merrill Lynch.</p>
+        <p>South Dakota Housing, $100 million of debt securities. Citigroup.</p>
+        <p>Springfield, Ill., Electric, $225 million of revenue bonds. Citigroup.</p>
+        <p>Temple University Commonwealth System of Higher Education, $120 million of debt securities. PNC Capital Markets.</p>
+        <p>Texas Water Development Board, $209 million of state revolving fund subordinate lien revenue bonds. UBS.</p>
+        <p>The University of Miami, Miami-Dade County Educational Facilities Authority, $500 million of debt securities. Morgan Stanley.</p>
+        <p>Trimble County, Ky., Environmental Facility, $60 million debt securities for Louisville Gas and Electric Company.</p>
+        <p>University of Arizona, $106 million of certificates of participation. Citigroup.</p>
+        <p>Virginia Resource Authority, $239.3 million of debt securities for SRF Clean Water Program. UBS.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

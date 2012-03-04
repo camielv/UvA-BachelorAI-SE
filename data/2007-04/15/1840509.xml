@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Expanding the Options</title>
+    <meta content="15rest" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="14" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/04/15/dining/15rest.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1840509"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="GOOD EATING/SEVENTH AVENUE SOUTH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Restaurants</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Restaurant Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Columns/Good Eating</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Restaurants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+        <location class="online_producer">New York City</location>
+        <location class="online_producer">Greenwich Village (NYC)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DEFD7133FF936A25757C0A9619C8B63" item-length="425" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Expanding the Options</hl1>
+        <hl2 class="online_headline">Expanding the Options</hl2>
+      </hedline>
+      <byline class="print_byline">Compiled by Kris Ensminger</byline>
+      <abstract>
+        <p>Excerpts from previously published reviews of restaurants on Seventh Avenue South (Good Eating column) (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>For years, Seventh Avenue South in the West Village had little to offer in the way of dining. But over the past six months, options have greatly improved with the openings of these restaurants.</p>
+        <p>CENTRAL KITCHEN  (212) 352-2230; 134 Seventh Avenue South (10th Street); $$; Article: 3/28/07.  This American-style brasserie with 160 seats and a raw bar opened last month with Craig Wilson as the chef. The menu offers seared sea bass with broccoli rabe and shrimp ravioli; grilled hangar steak; and braised short ribs with port reduction and mushrooms.</p>
+        <p>HURAPAN KITCHEN  (212) 727-2678; 29 Seventh Avenue South (Morton Street); $$; Article: 11/22/06.  A father and son, Taweewat and Dejthana Hurapan, who both worked at Rain, opened this restaurant in November. The ground-floor dining room serves a pan-Asian menu with dishes like spicy charred beef with Fuji apple, and pork loin marinated in grilled herbs and soy.</p>
+        <p>The more intimate dining room and lounge downstairs serves small plates of papaya salad, grilled calamari and other foods inspired by Bangkok's floating market.</p>
+        <p>OSTIA  (212) 924-2305; 113 Seventh Avenue South (Christopher Street); $; $25 and Under: 3/14/07.  The team at this tapas bar does a better job than most of the city's Spanish-style places.</p>
+        <p>The small plates employ plenty of simple riffs on good Spanish ingredients, among them bruschetta-like tapas of white anchovies and tomato; and a portion of piquillo peppers -- plenty likable on their own -- from which spills an overstuffed filling of blood sausage, pine nuts and capers. Each bite is an ambush of flavor.</p>
+        <p>PARDO'S  (212) 488-3900; 92 Seventh Avenue South (Grove Street); $; $25 and Under: 1/3/07.  This offshoot of an established chain in Peru and Chile dishes up Peruvian cuisine, which borrows freely from Chinese, Japanese, Spanish and African cooking as it makes the best of the country's indigenous larder. Pardo's spit-roasted chickens, the pollo alla brasa, are very good: the skin is crisp and the flesh is moist, from the plumpest part of the meaty breast to the nubby ends of the well-seasoned legs.</p>
+        <p>TASCA  (212) 620-6815; 137 Seventh Avenue South (10th Street); $$; Article: 1/3/07.  The Gaudí-esque tiles on the floor and the bar telegraph a menu of tapas and Spanish wines. Barrels on the bar dispense sangria. Tapas selections like Spanish omelets, mussels romesco, ceviche, jumbo shrimp with garlic, and albondigas -- meatballs with tomato mint sauce -- share the menu with larger plates like chicken and wild mushroom paella, and grilled pork chop with savoy cabbage, bacon and apple puree.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>For years, Seventh Avenue South in the West Village had offered little in the way of dining. But over the past six months, the options have greatly improved.</p>
+      </block>
+      <block class="full_text">
+        <p>For years, Seventh Avenue South in the West Village had little to offer in the way of dining. But over the past six months, options have greatly improved with the openings of these restaurants.</p>
+        <p>CENTRAL KITCHEN  (212) 352-2230; 134 Seventh Avenue South (10th Street); $$; Article: 3/28/07.  This American-style brasserie with 160 seats and a raw bar opened last month with Craig Wilson as the chef. The menu offers seared sea bass with broccoli rabe and shrimp ravioli; grilled hangar steak; and braised short ribs with port reduction and mushrooms.</p>
+        <p>HURAPAN KITCHEN  (212) 727-2678; 29 Seventh Avenue South (Morton Street); $$; Article: 11/22/06.  A father and son, Taweewat and Dejthana Hurapan, who both worked at Rain, opened this restaurant in November. The ground-floor dining room serves a pan-Asian menu with dishes like spicy charred beef with Fuji apple, and pork loin marinated in grilled herbs and soy.</p>
+        <p>The more intimate dining room and lounge downstairs serves small plates of papaya salad, grilled calamari and other foods inspired by Bangkok's floating market.</p>
+        <p>OSTIA  (212) 924-2305; 113 Seventh Avenue South (Christopher Street); $; $25 and Under: 3/14/07.  The team at this tapas bar does a better job than most of the city's Spanish-style places.</p>
+        <p>The small plates employ plenty of simple riffs on good Spanish ingredients, among them bruschetta-like tapas of white anchovies and tomato; and a portion of piquillo peppers -- plenty likable on their own -- from which spills an overstuffed filling of blood sausage, pine nuts and capers. Each bite is an ambush of flavor.</p>
+        <p>PARDO'S  (212) 488-3900; 92 Seventh Avenue South (Grove Street); $; $25 and Under: 1/3/07.  This offshoot of an established chain in Peru and Chile dishes up Peruvian cuisine, which borrows freely from Chinese, Japanese, Spanish and African cooking as it makes the best of the country's indigenous larder. Pardo's spit-roasted chickens, the pollo alla brasa, are very good: the skin is crisp and the flesh is moist, from the plumpest part of the meaty breast to the nubby ends of the well-seasoned legs.</p>
+        <p>TASCA  (212) 620-6815; 137 Seventh Avenue South (10th Street); $$; Article: 1/3/07.  The Gaudí-esque tiles on the floor and the bar telegraph a menu of tapas and Spanish wines. Barrels on the bar dispense sangria. Tapas selections like Spanish omelets, mussels romesco, ceviche, jumbo shrimp with garlic, and albondigas -- meatballs with tomato mint sauce -- share the menu with larger plates like chicken and wild mushroom paella, and grilled pork chop with savoy cabbage, bacon and apple puree.</p>
+        <p>GOOD EATING/SEVENTH AVENUE SOUTH E-mail: eating@nytimes.com</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">E-mail: eating@nytimes.com</tagline>
+    </body.end>
+  </body>
+</nitf>

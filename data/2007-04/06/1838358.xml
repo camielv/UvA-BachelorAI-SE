@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; TV: Then There Were Eight</title>
+    <meta content="06arts-3" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838358"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ratings and Rating Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070406T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E3DC173FF935A35757C0A9619C8B63" item-length="209" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; TV: Then There Were Eight</hl1>
+      </hedline>
+      <byline class="print_byline">By BENJAMIN TOFF; Compiled by Lawrence Van Gelder</byline>
+      <byline class="normalized_byline">Toff, Benjamin</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>When all the text messages and phone calls were tallied following Tuesday's ''American Idol'' performances, Gina Glocksen failed to make the cut. The 22-year-old singer's departure was announced on Wednesday on the half-hour ''Idol'' results show. She leaves behind eight competitors, all of whom received more votes of the 33 million cast, a new record this season. According to Nielsen's estimates, 25.3 million viewers tuned in for the results at 9 p.m., helping Fox win the night's ratings over all. CBS and ABC shared second place, with CBS drawing more total viewers and ABC faring better among adults 18 to 49. Although ABC's ''Lost'' (11.5 million) led the 10 p.m. hour in both categories, its ratings in the 18 to 49 demographic fell to yet another new low. Meanwhile, on the CW, ''America's Next Top Model'' (5.2 million) posted a first-place finish among adults 18 to 34 in the 8 p.m. hour, ranking second among adults 18 to 49 to the time slot leader, Fox's ''Bones'' (10.3 million). On Monday, according to Nielsen's final numbers, 40.3 million viewers watched all or part of CBS's coverage of the N.C.A.A. basketball championship, an increase of 6 percent over the 2006 final game.</p>
+        <p>BENJAMIN TOFF</p>
+      </block>
+      <block class="full_text">
+        <p>When all the text messages and phone calls were tallied following Tuesday's ''American Idol'' performances, Gina Glocksen failed to make the cut. The 22-year-old singer's departure was announced on Wednesday on the half-hour ''Idol'' results show. She leaves behind eight competitors, all of whom received more votes of the 33 million cast, a new record this season. According to Nielsen's estimates, 25.3 million viewers tuned in for the results at 9 p.m., helping Fox win the night's ratings over all. CBS and ABC shared second place, with CBS drawing more total viewers and ABC faring better among adults 18 to 49. Although ABC's ''Lost'' (11.5 million) led the 10 p.m. hour in both categories, its ratings in the 18 to 49 demographic fell to yet another new low. Meanwhile, on the CW, ''America's Next Top Model'' (5.2 million) posted a first-place finish among adults 18 to 34 in the 8 p.m. hour, ranking second among adults 18 to 49 to the time slot leader, Fox's ''Bones'' (10.3 million). On Monday, according to Nielsen's final numbers, 40.3 million viewers watched all or part of CBS's coverage of the N.C.A.A. basketball championship, an increase of 6 percent over the 2006 final game.</p>
+        <p>BENJAMIN TOFF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

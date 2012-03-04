@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New Jersey: Trenton: Additional Storm Disaster Designations</title>
+    <meta content="01mbrfs-6" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/05/01/nyregion/01mbrfs-disaster.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1844336"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Floods</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070501T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9507EED6133EF932A35756C0A9619C8B63" item-length="89" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New Jersey: Trenton: Additional Storm Disaster Designations</hl1>
+        <hl2 class="online_headline">Trenton Additional Storm Disaster Designations</hl2>
+      </hedline>
+      <byline class="print_byline">By TINA KELLEY; Compiled by John Sullivan</byline>
+      <byline class="normalized_byline">Kelley, Tina</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Three New Jersey counties -- Camden, Gloucester and Mercer -- were added yesterday to President Bush's disaster declaration in regard to the northeaster of April 15. Last week, the president declared disaster areas in Bergen, Burlington, Essex, Passaic, Somerset and Union Counties, with Hudson, Middlesex and Morris added on Saturday. Acting Gov. Richard J. Codey had requested that the entire state receive the designation, which gives residents access to federal aid. The president also allowed for infrastructure repairs to municipalities in 11 counties.</p>
+        <p>TINA KELLEY</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Three New Jersey counties  Camden, Gloucester and Mercer  were added yesterday to President Bush’s disaster declaration in regard to the northeaster of April 15. Last week, the president declared disaster areas in Bergen, Burlington, Essex, Passaic, Somerset and Union Counties, with Hudson, Middlesex and Morris added on Saturday. Acting Gov. Richard J. Codey had requested that the entire state receive the designation, which gives residents access to federal aid. The president also allowed for infrastructure repairs to municipalities in 11 counties.</p>
+      </block>
+      <block class="full_text">
+        <p>Three New Jersey counties -- Camden, Gloucester and Mercer -- were added yesterday to President Bush's disaster declaration in regard to the northeaster of April 15. Last week, the president declared disaster areas in Bergen, Burlington, Essex, Passaic, Somerset and Union Counties, with Hudson, Middlesex and Morris added on Saturday. Acting Gov. Richard J. Codey had requested that the entire state receive the designation, which gives residents access to federal aid. The president also allowed for infrastructure repairs to municipalities in 11 counties.</p>
+        <p>TINA KELLEY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

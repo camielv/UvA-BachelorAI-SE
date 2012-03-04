@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Older Husband</title>
+    <meta content="l17age" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1840975"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="general_descriptor">Men</classifier>
+        <classifier class="online_producer" type="general_descriptor">Age, Chronological</classifier>
+        <classifier class="online_producer" type="general_descriptor">Families and Family Life</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070417T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E06E6D8113FF934A25757C0A9619C8B63" item-length="115" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Older Husband</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''He's Not My Grandpa. He's My Dad'' (Thursday Styles, April 12): My husband is 17 years my senior. We married when I was 20 and he was 37. Our first child was born one year later. When our sixth child was born, my husband was 56.</p>
+        <p>He was a great Lamaze coach, and while I breast-fed, he still got up first, changed the baby and brought the baby to me. We are now the grandparents of 14.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''He's Not My Grandpa. He's My Dad'' (Thursday Styles, April 12): My husband is 17 years my senior. We married when I was 20 and he was 37. Our first child was born one year later. When our sixth child was born, my husband was 56.</p>
+        <p>He was a great Lamaze coach, and while I breast-fed, he still got up first, changed the baby and brought the baby to me. We are now the grandparents of 14.</p>
+        <p>My only concern has always been the number of years we will have together.</p>
+        <p>Now I realize, eternity wouldn't be long enough.</p>
+        <p>Jocelyn Ruth Krieger  Boca Raton, Fla., April 13, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

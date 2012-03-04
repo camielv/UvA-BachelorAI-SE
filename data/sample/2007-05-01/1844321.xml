@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Feeling a Patient's Pain</title>
+    <meta content="01lett-4" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1844321"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070501T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402E1D6133EF932A35756C0A9619C8B63" item-length="123" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Feeling a Patient's Pain</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Understanding Empathy: Can You Feel My Pain?'' (Behavior, April 24): There is a fine line between a practitioner sharing the experiences of the patient and simply having the background to understand those experiences.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Understanding Empathy: Can You Feel My Pain?'' (Behavior, April 24): There is a fine line between a practitioner sharing the experiences of the patient and simply having the background to understand those experiences.</p>
+        <p>A patient who returns from a trip to an exotic country with unexplained symptoms might seek out a specialist known to have experience in foreign parasites. Similarly, an observant Jewish patient seeking psychotherapy after a loss might seek a practitioner familiar with Jewish death and mourning rituals.</p>
+        <p>When you are in pain, it helps to be able to start the story with your own experiences without having to explain the background, terminology and social history of those experiences.</p>
+        <p>Susan Hornstein  Highland Park, N.J.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

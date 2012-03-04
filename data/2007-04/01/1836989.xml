@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   REILLEY, ELIZABETH KALS</title>
+    <meta content="dn040107.1" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="27" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1836989"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">REILLEY, ELIZABETH KALS</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9501E3D9153AF932A35757C0A9619C8B63" item-length="81" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   REILLEY, ELIZABETH KALS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>REILLEY--Elizabeth Kals, of Muttontown, LI on March 29th, 2007 in her 100th year. Beloved wife of the late Ewing. Aunt of Maria Kals Opie and Karen Kals Ezekiel. Great-aunt of Jane Opie Maltan and Andreas Maltan. Also survived by special caregivers Jesus and Amparo Martinez. Friends may visit at the Funeral Home of Dodge-Thomas, Glen Cove, LI on Sunday 4-6pm. Interment private at St. John's of Lattingtown Memorial Garden. A memorial service will be held in her garden in May.</p>
+      </block>
+      <block class="full_text">
+        <p>REILLEY--Elizabeth Kals, of Muttontown, LI on March 29th, 2007 in her 100th year. Beloved wife of the late Ewing. Aunt of Maria Kals Opie and Karen Kals Ezekiel. Great-aunt of Jane Opie Maltan and Andreas Maltan. Also survived by special caregivers Jesus and Amparo Martinez. Friends may visit at the Funeral Home of Dodge-Thomas, Glen Cove, LI on Sunday 4-6pm. Interment private at St. John's of Lattingtown Memorial Garden. A memorial service will be held in her garden in May.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

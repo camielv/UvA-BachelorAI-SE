@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Frightfully Bad Turns</title>
+    <meta content="15alsmail-9" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts; Theater; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1840388"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="ACCENTS AND ACTING"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Theater</classifier>
+        <location class="indexing_service">Great Britain</location>
+        <person class="indexing_service">Baldwin, Glenn</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Britain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE0D8123FF936A25757C0A9619C8B63" item-length="140" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Frightfully Bad Turns</hl1>
+      </hedline>
+      <abstract>
+        <p>Glenn Baldwin letter abut April 8 article on British accents discusses bad British acting (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Jolly Good Show  Or Was It?'' [April 8]:</p>
+        <p>Though I was unaware of Stephen Fry's comments concerning the lack of discernment we Americans seem to evince in evaluating British actors, this subject has long been a source of great mirth among my set.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Jolly Good Show  Or Was It?'' [April 8]:</p>
+        <p>Though I was unaware of Stephen Fry's comments concerning the lack of discernment we Americans seem to evince in evaluating British actors, this subject has long been a source of great mirth among my set.</p>
+        <p>I invite readers to sample Emma Thompson's odious multicharacter turn in ''Angels in America'' or Anthony Hopkins in, well, anything, to get a sense of just how awful (and thus fabulously entertaining) bad British acting can be. Even the truly talented deliver the occasional stinker; witness Derek Jacobi in ''Dead Again'' (directed by that celebrated canned ham, Kenneth Branagh).</p>
+        <p>That these examples were lauded here perhaps speaks to our general sense that we will always be somewhat déclassé. I definitely think Mr. Fry is on to something.</p>
+        <p>Glenn Baldwin  Chicago</p>
+        <p>ACCENTS AND ACTING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

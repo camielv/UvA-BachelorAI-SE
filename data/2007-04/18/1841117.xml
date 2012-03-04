@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Beer That Wanted to Cozy Up to a Fish</title>
+    <meta content="18pair" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining, Dining Out/Cultural Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts; Dining and Wine" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1841117"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="PAIRINGS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Beer</classifier>
+        <classifier class="online_producer" type="general_descriptor">Beverages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cooking and Cookbooks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Alcoholic Beverages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070418T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D02E2DE1E3FF93BA25757C0A9619C8B63" item-length="443" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Beer That Wanted to Cozy Up to a Fish</hl1>
+      </hedline>
+      <byline class="print_byline">By FLORENCE FABRICANT</byline>
+      <byline class="normalized_byline">Fabricant, Florence</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BEER and sausages? Naturally. And assertive cheeses? Check. Hearty stewed meats? Ditto.</p>
+        <p>But bock beer is a seasonal brew, poured in spring. None of the usual beer-friendly foods seemed to tempt my appetite at this fresh, new time of year.</p>
+      </block>
+      <block class="full_text">
+        <p>BEER and sausages? Naturally. And assertive cheeses? Check. Hearty stewed meats? Ditto.</p>
+        <p>But bock beer is a seasonal brew, poured in spring. None of the usual beer-friendly foods seemed to tempt my appetite at this fresh, new time of year.</p>
+        <p>Also, bock beers do not sing in unison, so finding compatible food can be challenging. Some of the beers are earthy and darkly spicy, while others display fruity, citric notes. What the best have in common is a sophisticated bitterness, making them deliciously food-friendly.</p>
+        <p>The notion of pairing these beers with fish may seem unusual, but it did not come out of nowhere. On the lunch buffet at our tasting there was seared tilapia. I moistened my portion with a mustardy vinaigrette that was meant for a salad. And I was happy to have the beers alongside.</p>
+        <p>I devised this stir-fry of tilapia, a firm-textured fish that stands up to being moved around in the pan. I combined the fish with rhubarb for that touch of acidity demanded by fish, and fresh scallions for spring green. Instead of the mustard, miso and soy sauce added earthiness. To pick up other flavors in the beers, I included bacon for richness, ginger for spice and toasted sesame oil for a caramelized grace note.</p>
+        <p>TILAPIA WITH RHUBARB AND SCALLIONS  Time: 30 minutes</p>
+        <p>1 tablespoon white miso paste  1 tablespoon soy sauce  1 teaspoon Thai fish sauce  1 cup fish stock  1 1/2 pounds tilapia (3 to 4 fillets)  2 teaspoons cornstarch  Freshly ground black pepper  1/2 cup peanut oil  2 ounces slab bacon, finely diced  1 tablespoon minced fresh ginger  1 cup rhubarb, in 1/2-inch dice  5 scallions, trimmed, in 1-inch slant-cut pieces  1 teaspoon toasted sesame oil  1 tablespoon minced chives.</p>
+        <p>1. Dissolve miso in soy sauce. Add fish sauce and stock. Set aside. Cut each fillet in half along seam, then slice each piece on the bias in strips 1 inch wide. Place in a bowl, dust with cornstarch and pepper and turn to coat.  2. Heat oil to very hot in a wok or skillet, add fish and stir-fry, turning gently, until just starting to brown, 3 to 4 minutes. Remove fish to a plate, draining well. Discard oil.  3. Lower heat to medium, add bacon and ginger and sauté until bacon starts to color. Add rhubarb and scallions. Stir-fry a couple of minutes, until rhubarb starts to soften.  4. Return fish to pan, add miso mixture and cook a minute or two, stirring gently, until ingredients are well mixed and sauce thickens. Add sesame oil, sprinkle with chives and serve.  Yield: 4 servings.</p>
+        <p>PAIRINGS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

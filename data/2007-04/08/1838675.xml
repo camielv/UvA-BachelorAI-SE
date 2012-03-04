@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Foxx Forgotten</title>
+    <meta content="08alsmail-5" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1838675"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="COMICS AND DRAMA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Comedy and Humor</classifier>
+        <person class="indexing_service">Stephney, Bill</person>
+        <person class="indexing_service">Foxx, Jamie</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Comedy and Humor</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070408T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A03E0D9163FF93BA35757C0A9619C8B63" item-length="90" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Foxx Forgotten</hl1>
+      </hedline>
+      <abstract>
+        <p>Bill Stephney letter about Mar 25 article on stand-up comedians says Jamie Foxx was neglected (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>It is an unfortunate omission to not include the work of Jamie Foxx in Caryn James's ''Out on the Tightrope, Where Comics Try Acting'' [March 25]. Mr. Foxx not only emerged as a stand-up comedian (''Def Comedy Jam''), but he also appeared in the same comic ensemble television show (''In Living Color'') that Jim Carrey did. Further, in 2005 Mr. Foxx won the best actor Oscar for his role in ''Ray'' and was nominated for best supporting actor for ''Collateral.''</p>
+        <p>Bill Stephney  Randolph, N.J.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>It is an unfortunate omission to not include the work of Jamie Foxx in Caryn James's ''Out on the Tightrope, Where Comics Try Acting'' [March 25]. Mr. Foxx not only emerged as a stand-up comedian (''Def Comedy Jam''), but he also appeared in the same comic ensemble television show (''In Living Color'') that Jim Carrey did. Further, in 2005 Mr. Foxx won the best actor Oscar for his role in ''Ray'' and was nominated for best supporting actor for ''Collateral.''</p>
+        <p>Bill Stephney  Randolph, N.J.</p>
+        <p>COMICS AND DRAMA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ways to Prevent Family Homelessness</title>
+    <meta content="l01city-2" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="14" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1837359"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Homeless Persons</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Cohen, Arnold S</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Homeless Persons</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9806EED81130F932A35757C0A9619C8B63" item-length="224" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ways to Prevent Family Homelessness</hl1>
+      </hedline>
+      <abstract>
+        <p>Partnership for the Homeless president Arnold S Cohen letter on March 25 editorial on rise in number of homeless families in New York City</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''The Homeless Maze'' (editorial, March 25):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''The Homeless Maze'' (editorial, March 25):</p>
+        <p>Though families in shelters are at an all-time high, that number alone does not define the depth of the challenge facing our city. Countless numbers of other families, who too must be considered homeless, are sleeping on living room couches in the overcrowded apartments of family members and friends -- the last desperate step before seeking shelter.</p>
+        <p>Thus, while we're pleased that the city is ameliorating serious deficiencies in its housing subsidy program, there's a cautionary note. Although rent assistance is an essential tool in the effort to move people out of shelters, we need to reach beyond shelter into our struggling communities with strategies that truly attack the root cause of family homelessness -- entrenched poverty.</p>
+        <p>So, in addition to a robust affordable housing plan, we also must invest in initiatives that genuinely focus on developing opportunities for all New Yorkers to share in the fruits of our economic prosperity, starting with living-wage jobs and health benefits. And in doing so, we can prevent vulnerable families from entering shelter in the first place, and ensure that those leaving shelter, receiving rent assistance, will simply be using it as a safety net on the road to financial independence.</p>
+        <p>Arnold S. Cohen  President and Chief Executive  Partnership for the Homeless  Chelsea</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>
