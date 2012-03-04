@@ -38,7 +38,7 @@ import matplotlib.pyplot as plt
 ###############################################
 indexdir='index'
 webdir='web'
-search_file = webdir + '/search.html'
+search_file = webdir + '/index.html'
 working_dir = os.environ["PWD"]
 
 
