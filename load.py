@@ -193,7 +193,7 @@ class DocumentDisplayer(tornado.web.RequestHandler):
         res_id = str(r['id'])
         res_title = r['title']
         self.write("<a href=/display?docid=" + res_id + ">"+ res_title +"</a><br />")
-      self.write("</p><p>")
+      self.write("</p><h2>Article</h2><p>")
 
       f = open(path, "r")
       lines = f.readlines()
