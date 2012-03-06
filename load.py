@@ -33,6 +33,7 @@ from math import log
 import matplotlib
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt 
+from xml.dom import minidom
 
 # program constants
 ###############################################
@@ -123,12 +124,35 @@ class MainHandler(tornado.web.RequestHandler):
 class CloudDisplayer(tornado.web.RequestHandler):
     def get(self):
         docid = self.get_argument("docid")
-        self.write("<h1>Cloud</h1>")
-	terms_list = [('aap', 2), ('banaan', 1)]
-	words = 2
-        cloud = generate_term_cloud(terms_list, words)
-	self.write("<p>Cloud is Awesome</p>")
-	print cloud
+        res = application.searcher_bm25f.find("id", unicode(docid))
+        path = get_relative_path(res[0]['path'])
+        xmldoc = minidom.parse(path)
+        zoeknew = xmldoc.getElementsByTagName('block')
+        plijst = zoeknew[1].childNodes
+        zinlijst = []
+        for i in range(len(plijst)):
+          if i % 2 == 1:
+            zinlijst.append(plijst[i].firstChild.toxml())
+        compleet = " ".join(zinlijst)
+        keytermen = application.searcher_tf_idf.key_terms_from_text("content", compleet, numterms=25, normalize=True)
+        print keytermen
+        keytermint = []
+        for i in range(len(keytermen)):
+          keytermint.append(keytermen[i][:1] + (int(keytermen[i][1]*1000),))
+        cloud, cloudlink = generate_term_cloud(keytermint, len(keytermint))
+
+        f = open(header_file, 'r')
+        lines = f.readlines()
+        for l in lines:
+          self.write(l)
+
+	frame = "<iframe src=\"" + cloudlink + "\" width=\"800\" height=\"400\" ></iframe>"
+	self.write(frame)
+
+        f = open(footer_file, 'r')
+        lines = f.readlines()
+        for l in lines:
+          self.write(l)
       
 class SearchHandler(tornado.web.RequestHandler):
     def post(self):
@@ -401,7 +425,7 @@ def generate_term_cloud(terms_list, words):
       cloud = f.get_cloud(cloud_link)
       if cloud is not None:
         break
-  return cloud
+  return cloud, cloud_link
 
 # plots and returns a link to the plotted file
 def plot(weights_list):
@@ -471,4 +495,5 @@ def _cosine(x, y):
         
     print "cosine similarity: %.2f" % score
     return score
-  
+ 
+start_server(29003) 
