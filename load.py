@@ -146,7 +146,7 @@ class CloudDisplayer(tornado.web.RequestHandler):
         for l in lines:
           self.write(l)
 
-	frame = "<iframe src=\"" + cloudlink + "\" width=\"800\" height=\"400\" ></iframe>"
+	frame = "<h1>Word Cloud</h1><iframe src=\"" + cloudlink + "\"></iframe>"
 	self.write(frame)
 
         f = open(footer_file, 'r')
@@ -177,7 +177,7 @@ class SearchHandler(tornado.web.RequestHandler):
         lines = f.readlines()
         for l in lines:
           self.write(l)
-        self.write("<p>")
+        self.write("<h1>Results</h1><p>")
         res = searcher.find(field, unicode(query), limit=int(number))
         self.write("Query: " + query)
         self.write("<br />")
@@ -212,6 +212,7 @@ class DocumentDisplayer(tornado.web.RequestHandler):
 
       self.write("<h1>" + title + "</h1>")
       self.write("<p><a href=\"/cloud?docid=" + docid + "\">Generate Cloud</a></p><h2>Relevant Articles</h2><p>")
+
       res = application.searcher_tf_idf.find("content", unicode(title), limit=int(10))
       for r in res:
         res_id = str(r['id'])
