@@ -110,19 +110,19 @@ html_header = open(header_file, 'r').readlines()
 html_search = open(search_file, 'r').readlines()
 html_footer = open(footer_file, 'r').readlines()
 
-
 # tornado request handlers
 ###############################################
 class MainHandler(tornado.web.RequestHandler):
     def get(self):
         # Read the html file on every request.
-        lines = html_header
-        lines += "<div class=\"center\">"
-        lines += html_search
-        lines += "</div>"
-        lines += html_footer
+        lines = list()
+        lines.extend(html_header)
+        lines.append("<div class=\"center\">")
+        lines.extend(html_search)
+        lines.append("</div>")
+        lines.extend(html_footer)
 
-        # Print index file
+        # Write index file
         for l in lines:
           self.write(l) 
 
@@ -179,7 +179,6 @@ class CloudDisplayer(tornado.web.RequestHandler):
       
 class SearchHandler(tornado.web.RequestHandler):
     def get(self):
-	time.sleep(1)
         query = self.get_argument("query")
         scoring = self.get_argument("scoring")
         field = self.get_argument("field")
@@ -198,7 +197,7 @@ class SearchHandler(tornado.web.RequestHandler):
         else:
           searcher = application.searcher_bm25f
 
-        # Geneate page
+        # Generate page
         lines = html_header
         for l in lines:
           self.write(l)
