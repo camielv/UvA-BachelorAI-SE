@@ -418,7 +418,7 @@ def generate_term_cloud(terms_list, words):
  
   f = Fietstas(key='0ce798c52985460e9b79dbb23812fc42') 
   doc_id = f.upload_document(document = doc)
-  cloud_link, cloud = f.make_cloud(docs=doc_id, words = words)
+  cloud_link, cloud = f.make_cloud(docs=doc_id, words = words, stopwords = 1)
   if cloud is None:
     # Cloud is not available yet: wait in a loop
     for i in range(10):
@@ -497,4 +497,4 @@ def _cosine(x, y):
     print "cosine similarity: %.2f" % score
     return score
  
-start_server(29003) 
+start_server(29004)
