@@ -212,7 +212,7 @@ class SearchHandler(tornado.web.RequestHandler):
         self.write("<br />")
         self.write("Field: " + field)
         self.write("<br /> <br />")
-        self.write("Number of hits:  " + str(min(int(number), len(res))) + "<br />")
+        self.write("Number of hits:  " + len(res) + "<br />")
         for r in res:
           nextid = str(r['id'])
           nexttitle = r['title']
