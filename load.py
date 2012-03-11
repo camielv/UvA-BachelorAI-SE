@@ -105,19 +105,24 @@ parser_content = qparser.QueryParser("content")
 parser_title = qparser.QueryParser("title")
 parser = qparser.MultifieldParser(['content', 'title'])
 
+# Website parts
+html_header = open(header_file, 'r').readlines()
+html_search = open(search_file, 'r').readlines()
+html_footer = open(footer_file, 'r').readlines()
+
+
 # tornado request handlers
 ###############################################
 class MainHandler(tornado.web.RequestHandler):
     def get(self):
-        # read the html file on every request - very inefficient
-        f = open(header_file, 'r')
-        lines = f.readlines()
+        # Read the html file on every request.
+        lines = html_header
         lines += "<div class=\"center\">"
-        f = open(search_file, 'r')
-        lines += f.readlines()
+        lines += html_search
         lines += "</div>"
-        f = open(footer_file, 'r')
-        lines += f.readlines()
+        lines += html_footer
+
+        # Print index file
         for l in lines:
           self.write(l) 
 
@@ -165,8 +170,8 @@ class CloudDisplayer(tornado.web.RequestHandler):
         for l in lines:
           self.write(l)
 
-	frame = "<h1>Word Cloud</h1><iframe src=\"" + cloudlink + "\"></iframe>"
-	self.write(frame)
+        frame = "<h1>Word Cloud</h1><iframe src=\"" + cloudlink + "\"></iframe>"
+        self.write(frame)
 
         f = open(footer_file, 'r')
         lines = f.readlines()
@@ -247,8 +252,6 @@ class DocumentDisplayer(tornado.web.RequestHandler):
         self.write(l)
 
       self.write("<h1>" + title + "</h1>")
-      self.write("<p><a href=\"/cloud?docid=" + docid + "&docnum=" + str(docnum) + "\">Generate Cloud</a></p><h2>Relevant Articles</h2><p>")
-
       res = application.searcher_tf_idf.find("content", keystringlijst, limit=int(10))
       self.write("<p><a href=\"/cloud?docid=" + docid + "\">Generate Cloud</a></p><h2>Relevant Articles</h2><p>")
 
