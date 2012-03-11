@@ -200,7 +200,7 @@ class SearchHandler(tornado.web.RequestHandler):
         
         res = list()
         if(number == "All"):
-          res = searcher.find(field, unicode(query))
+          res = searcher.find(field, unicode(query), limit = 1000)
         else:
           res = searcher.find(field, unicode(query), limit=int(number))
 
