@@ -1,14 +1,7 @@
     <h1>Search</h1>
-    <form id="mainsearch" method="post" action="/search">
+    <form id="mainsearch" method="get" action="/search">
         <input name="query" type="text" onclick="hideText(this)" value="Type here to search"/><br />
         <label for="number">Results</label>
-        <select name="number">
-            <option>All</option>
-            <option>1</option>
-            <option>10</option>                       
-            <option>100</option>
-            <option>1000</option>
-        </select>
         <label for="field">Field</label>
         <select name="field">
             <option value="title">Title</option>
