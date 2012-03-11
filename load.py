@@ -124,21 +124,9 @@ class MainHandler(tornado.web.RequestHandler):
 class CloudDisplayer(tornado.web.RequestHandler):
     def get(self):
         docid = self.get_argument("docid")
-        docnum=int(self.get_argument("docnum"))
         res = application.searcher_bm25f.find("id", unicode(docid))
         path = get_relative_path(res[0]['path'])
-        #xmldoc = minidom.parse(path)
-        #blocklijst = xmldoc.getElementsByTagName('block')
-      
-        #plijst = blocklijst[-1].childNodes
-        #print plijst
-        #zinlijst = []
-        #for i in range(len(plijst)):
-        #  if i % 2 == 1:
-        #    zinlijst.append(plijst[i].firstChild.toxml())
-        #compleet = " ".join(zinlijst)
-        #keytermen = application.searcher_tf_idf.key_terms_from_text("content", compleet, numterms=25, normalize=True)
-        #print keytermen
+        docnum = int(res[0].docnum)
 
         keywords_and_scores = application.searcher_tf_idf.key_terms([docnum], "content", numterms=15)    
         keylijst = []
@@ -222,8 +210,7 @@ class SearchHandler(tornado.web.RequestHandler):
         for r in res:
           nextid = str(r['id'])
           nexttitle = r['title']
-          docnum = str(r.docnum)
-          self.write("<a href=/display?docid=" + nextid + "&docnum=" + docnum + ">"+ nexttitle +"</a><br />")
+          self.write("<a href=/display?docid=" + nextid + ">"+ nexttitle +"</a><br />")
         self.write("</p>")
         f = open(footer_file, 'r')
         lines = f.readlines()
@@ -233,11 +220,10 @@ class SearchHandler(tornado.web.RequestHandler):
 class DocumentDisplayer(tornado.web.RequestHandler):
     def get(self):
       docid=self.get_argument("docid")
-      docnum=int(self.get_argument("docnum"))
       res = application.searcher_bm25f.find("id", unicode(docid))
       path = get_relative_path(res[0]['path'])
       title = get_relative_path(res[0]['title'])
-
+      docnum = int(res[0].docnum)
 
       keywords_and_scores = application.searcher_tf_idf.key_terms([docnum], "content", numterms=2)    
       keylijst = []
@@ -262,11 +248,12 @@ class DocumentDisplayer(tornado.web.RequestHandler):
 
       res = application.searcher_tf_idf.find("content", unicode(title), limit=int(10))
       for r in res:
-        res_id = str(r['id'])
-        if not(res_id == docid):
-          res_title = r['title']
-          docnum = str(r.docnum)
-          self.write("<a href=/display?docid=" + res_id + "&docnum=" + docnum + ">"+ res_title +"</a><br />")
+        if (r['id'] == docid):
+          continue
+
+        res_title = r['title']
+        self.write("<a href=/display?docid=" + res_id + ">"+ res_title +"</a><br />")
+
       self.write("</p><h2>Article</h2><p>")
 
       f = open(path, "r")
