@@ -221,7 +221,7 @@ class SearchHandler(tornado.web.RequestHandler):
         for r in res:
           nextid = str(r['id'])
           nexttitle = r['title']
-          path = r['path']
+          path = get_relative_path(r['path'])
           self.write("<p><a href=/display?docid=" + nextid + ">"+ nexttitle +"</a><br />")
 
           dom = minidom.parse(path)
