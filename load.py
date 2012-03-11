@@ -33,6 +33,7 @@ from math import log
 import matplotlib
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt 
+from xml.dom import minidom
 
 # program constants
 ###############################################
@@ -123,12 +124,51 @@ class MainHandler(tornado.web.RequestHandler):
 class CloudDisplayer(tornado.web.RequestHandler):
     def get(self):
         docid = self.get_argument("docid")
-        self.write("<h1>Cloud</h1>")
-	terms_list = [('aap', 2), ('banaan', 1)]
-	words = 2
-        cloud = generate_term_cloud(terms_list, words)
-	self.write("<p>Cloud is Awesome</p>")
-	print cloud
+        docnum=int(self.get_argument("docnum"))
+        res = application.searcher_bm25f.find("id", unicode(docid))
+        path = get_relative_path(res[0]['path'])
+        #xmldoc = minidom.parse(path)
+        #blocklijst = xmldoc.getElementsByTagName('block')
+      
+        #plijst = blocklijst[-1].childNodes
+        #print plijst
+        #zinlijst = []
+        #for i in range(len(plijst)):
+        #  if i % 2 == 1:
+        #    zinlijst.append(plijst[i].firstChild.toxml())
+        #compleet = " ".join(zinlijst)
+        #keytermen = application.searcher_tf_idf.key_terms_from_text("content", compleet, numterms=25, normalize=True)
+        #print keytermen
+
+        keywords_and_scores = application.searcher_tf_idf.key_terms([docnum], "content", numterms=15)    
+        keylijst = []
+        for i in range(len(keywords_and_scores)):
+          keylijst.append(keywords_and_scores[i][0])
+          print application.searcher_tf_idf.idf("content",keywords_and_scores[i][0]), keywords_and_scores[i][0] 
+	
+        print keywords_and_scores
+        print keylijst
+
+        keystringlijst = " ".join(keylijst)
+        print keystringlijst
+
+        keytermint = []
+        for i in range(len(keywords_and_scores)):
+          keytermint.append(keywords_and_scores[i][:1] + (int(keywords_and_scores[i][1]*1000),))
+        cloud, cloudlink = generate_term_cloud(keytermint, len(keytermint))
+
+        f = open(header_file, 'r')
+        lines = f.readlines()
+        for l in lines:
+          self.write(l)
+
+	frame = "<h1>Word Cloud</h1><iframe src=\"" + cloudlink + "\"></iframe>"
+	self.write(frame)
+
+        f = open(footer_file, 'r')
+        lines = f.readlines()
+        for l in lines:
+          self.write(l)
       
 class SearchHandler(tornado.web.RequestHandler):
     def post(self):
@@ -153,7 +193,7 @@ class SearchHandler(tornado.web.RequestHandler):
         lines = f.readlines()
         for l in lines:
           self.write(l)
-        self.write("<p>")
+        self.write("<h1>Results</h1><p>")
         res = searcher.find(field, unicode(query), limit=int(number))
         self.write("Query: " + query)
         self.write("<br />")
@@ -167,7 +207,8 @@ class SearchHandler(tornado.web.RequestHandler):
         for r in res:
           nextid = str(r['id'])
           nexttitle = r['title']
-          self.write("<a href=/display?docid=" + nextid + ">"+ nexttitle +"</a><br />")
+          docnum = str(r.docnum)
+          self.write("<a href=/display?docid=" + nextid + "&docnum=" + docnum + ">"+ nexttitle +"</a><br />")
         self.write("</p>")
         f = open(footer_file, 'r')
         lines = f.readlines()
@@ -177,9 +218,21 @@ class SearchHandler(tornado.web.RequestHandler):
 class DocumentDisplayer(tornado.web.RequestHandler):
     def get(self):
       docid=self.get_argument("docid")
+      docnum=int(self.get_argument("docnum"))
       res = application.searcher_bm25f.find("id", unicode(docid))
       path = get_relative_path(res[0]['path'])
       title = get_relative_path(res[0]['title'])
+
+
+      keywords_and_scores = application.searcher_tf_idf.key_terms([docnum], "content", numterms=2)    
+      keylijst = []
+      for i in range(len(keywords_and_scores)):
+        keylijst.append(keywords_and_scores[i][0])
+      print keywords_and_scores
+      print keylijst
+
+      keystringlijst = " ".join(keylijst)
+      print keystringlijst
 
       f = open(header_file, 'r')
       lines = f.readlines()
@@ -187,12 +240,15 @@ class DocumentDisplayer(tornado.web.RequestHandler):
         self.write(l)
 
       self.write("<h1>" + title + "</h1>")
-      self.write("<p><a href=\"/cloud?docid=" + docid + "\">Generate Cloud</a></p><h2>Relevant Articles</h2><p>")
-      res = application.searcher_tf_idf.find("content", unicode(title), limit=int(10))
+      self.write("<p><a href=\"/cloud?docid=" + docid + "&docnum=" + str(docnum) + "\">Generate Cloud</a></p><h2>Relevant Articles</h2><p>")
+
+      res = application.searcher_tf_idf.find("content", keystringlijst, limit=int(10))
       for r in res:
         res_id = str(r['id'])
-        res_title = r['title']
-        self.write("<a href=/display?docid=" + res_id + ">"+ res_title +"</a><br />")
+        if not(res_id == docid):
+          res_title = r['title']
+          docnum = str(r.docnum)
+          self.write("<a href=/display?docid=" + res_id + "&docnum=" + docnum + ">"+ res_title +"</a><br />")
       self.write("</p><h2>Article</h2><p>")
 
       f = open(path, "r")
@@ -393,7 +449,7 @@ def generate_term_cloud(terms_list, words):
  
   f = Fietstas(key='0ce798c52985460e9b79dbb23812fc42') 
   doc_id = f.upload_document(document = doc)
-  cloud_link, cloud = f.make_cloud(docs=doc_id, words = words)
+  cloud_link, cloud = f.make_cloud(docs=doc_id, words = words, stopwords = 1)
   if cloud is None:
     # Cloud is not available yet: wait in a loop
     for i in range(10):
@@ -401,7 +457,7 @@ def generate_term_cloud(terms_list, words):
       cloud = f.get_cloud(cloud_link)
       if cloud is not None:
         break
-  return cloud
+  return cloud, cloud_link
 
 # plots and returns a link to the plotted file
 def plot(weights_list):
@@ -471,4 +527,5 @@ def _cosine(x, y):
         
     print "cosine similarity: %.2f" % score
     return score
-  
+ 
+start_server(29030)
