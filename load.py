@@ -263,13 +263,15 @@ class DocumentDisplayer(tornado.web.RequestHandler):
 
       self.write("</p><h2>Article</h2><p>")
 
+      # Print Article 
       dom = minidom.parse(path)
-      blocks = getElementsByTagName('block')
+      blocks = dom.getElementsByTagName('block')
       for block in blocks:
-        if block.hasAttribute('full_text'):
+        if(block.hasAttribute('class') and (block.getAttribute('class') == 'full_text')):
           for i in range(len(block.childNodes)):
-            block.childNodes[i].toxml()
+            self.write(block.childNodes[i].toxml())
 
+      # Print footer
       f = open(footer_file, 'r')
       lines = f.readlines()
       for l in lines:
