@@ -197,7 +197,13 @@ class SearchHandler(tornado.web.RequestHandler):
         for l in lines:
           self.write(l)
         self.write("<h1>Results</h1><p>")
-        res = searcher.find(field, unicode(query), limit=int(number))
+        
+        res = list()
+        if(number == "All"):
+          res = searcher.find(field, unicode(query))
+        else:
+          res = searcher.find(field, unicode(query), limit=int(number))
+
         self.write("Query: " + query)
         self.write("<br />")
         self.write("Max hits: " + number)
