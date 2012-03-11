@@ -155,6 +155,21 @@ class CloudDisplayer(tornado.web.RequestHandler):
         keytermint = []
         for i in range(len(keywords_and_scores)):
           keytermint.append(keywords_and_scores[i][:1] + (int(keywords_and_scores[i][1]*1000),))
+        res = application.searcher_bm25f.find("id", unicode(docid))
+        path = get_relative_path(res[0]['path'])
+        xmldoc = minidom.parse(path)
+        zoeknew = xmldoc.getElementsByTagName('block')
+        plijst = zoeknew[1].childNodes
+        zinlijst = []
+        for i in range(len(plijst)):
+          if i % 2 == 1:
+            zinlijst.append(plijst[i].firstChild.toxml())
+        compleet = " ".join(zinlijst)
+        keytermen = application.searcher_tf_idf.key_terms_from_text("content", compleet, numterms=25, normalize=True)
+        print keytermen
+        keytermint = []
+        for i in range(len(keytermen)):
+          keytermint.append(keytermen[i][:1] + (int(keytermen[i][1]*1000),))
         cloud, cloudlink = generate_term_cloud(keytermint, len(keytermint))
 
         f = open(header_file, 'r')
@@ -243,6 +258,9 @@ class DocumentDisplayer(tornado.web.RequestHandler):
       self.write("<p><a href=\"/cloud?docid=" + docid + "&docnum=" + str(docnum) + "\">Generate Cloud</a></p><h2>Relevant Articles</h2><p>")
 
       res = application.searcher_tf_idf.find("content", keystringlijst, limit=int(10))
+      self.write("<p><a href=\"/cloud?docid=" + docid + "\">Generate Cloud</a></p><h2>Relevant Articles</h2><p>")
+
+      res = application.searcher_tf_idf.find("content", unicode(title), limit=int(10))
       for r in res:
         res_id = str(r['id'])
         if not(res_id == docid):
@@ -528,4 +546,4 @@ def _cosine(x, y):
     print "cosine similarity: %.2f" % score
     return score
  
-start_server(29030)
+start_server(29004)
