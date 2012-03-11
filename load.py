@@ -178,11 +178,12 @@ class CloudDisplayer(tornado.web.RequestHandler):
           self.write(l)
       
 class SearchHandler(tornado.web.RequestHandler):
-    def post(self):
+    def get(self):
+	time.sleep(1)
         query = self.get_argument("query")
-        number = self.get_argument("number")
         scoring = self.get_argument("scoring")
         field = self.get_argument("field")
+        page = self.get_arguments("page")
         searcher = None
         if scoring == "Cosine":
           searcher = application.searcher_cosine
@@ -195,7 +196,7 @@ class SearchHandler(tornado.web.RequestHandler):
         elif scoring == "Frequency":
           searcher = application.searcher_frequency
         else:
-          raise Exception("Unsupported scoring method")
+          searcher = application.searcher_bm25f
 
         # Geneate page
         lines = html_header
@@ -203,21 +204,34 @@ class SearchHandler(tornado.web.RequestHandler):
           self.write(l)
         self.write("<h1>Results</h1><p>")
         
-        res = list()
-        if(number == "All"):
-          res = searcher.find(field, unicode(query), limit = 1000)
-        else:
-          res = searcher.find(field, unicode(query), limit=int(number))
+        res = searcher.find(field, unicode(query), limit = 100000)
 
         self.write("Query: " + query)
-        self.write("<br />")
-        self.write("Max hits: " + number)
         self.write("<br />")
         self.write("Scoring: " + scoring)
         self.write("<br />")
         self.write("Field: " + field)
         self.write("<br /> <br />")
         self.write("Number of hits:  " + str(len(res)) + "<br /></p>")
+
+        # Generate subpages
+        try:
+          page = int(page[0])
+        except:
+          page = 0
+
+        pages = len(res) / 10
+        if (len(res) % 10 == 0 and pages > 0):
+          pages -= 1
+        if (page > pages):
+          page = pages
+        if (page < 0):
+          page = 0
+        if (page == pages):
+          res = res[page*10:]
+        else:
+          res = res[page*10:(page+1)*10]
+
         for r in res:
           nextid = str(r['id'])
           nexttitle = r['title']
@@ -232,6 +246,16 @@ class SearchHandler(tornado.web.RequestHandler):
                 self.write(block.childNodes[i].toxml())
           self.write('</p>')
 
+        self.write('<h3>More results</h3><p>')
+
+        for i in range(pages+1):
+          if (i == page):
+            self.write(' ' + str(i) + ' ')
+          else :
+            link = " <a href=\"/search?query=" + query + "&field=" + field + "&scoring=" + scoring + "&page="
+            self.write(link + str(i) + '">' + str(i) + '</a> ')
+
+        self.write('</p>')
         lines = html_footer
         for l in lines:
           self.write(l)
