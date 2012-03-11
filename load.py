@@ -248,7 +248,8 @@ class DocumentDisplayer(tornado.web.RequestHandler):
 
       res = application.searcher_tf_idf.find("content", unicode(title), limit=int(10))
       for r in res:
-        if (r['id'] == docid):
+        res_id = r['id']
+        if (res_id == docid):
           continue
 
         res_title = r['title']
