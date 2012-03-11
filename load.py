@@ -165,16 +165,15 @@ class CloudDisplayer(tornado.web.RequestHandler):
           keytermint.append(keytermen[i][:1] + (int(keytermen[i][1]*1000),))
         cloud, cloudlink = generate_term_cloud(keytermint, len(keytermint))
 
-        f = open(header_file, 'r')
-        lines = f.readlines()
+        # Generate page
+        lines = html_header
         for l in lines:
           self.write(l)
 
         frame = "<h1>Word Cloud</h1><iframe src=\"" + cloudlink + "\"></iframe>"
         self.write(frame)
 
-        f = open(footer_file, 'r')
-        lines = f.readlines()
+        lines = html_footer
         for l in lines:
           self.write(l)
       
@@ -197,8 +196,9 @@ class SearchHandler(tornado.web.RequestHandler):
           searcher = application.searcher_frequency
         else:
           raise Exception("Unsupported scoring method")
-        f = open(header_file, 'r')
-        lines = f.readlines()
+
+        # Geneate page
+        lines = html_header
         for l in lines:
           self.write(l)
         self.write("<h1>Results</h1><p>")
@@ -217,14 +217,22 @@ class SearchHandler(tornado.web.RequestHandler):
         self.write("<br />")
         self.write("Field: " + field)
         self.write("<br /> <br />")
-        self.write("Number of hits:  " + str(len(res)) + "<br />")
+        self.write("Number of hits:  " + str(len(res)) + "<br /></p>")
         for r in res:
           nextid = str(r['id'])
           nexttitle = r['title']
-          self.write("<a href=/display?docid=" + nextid + ">"+ nexttitle +"</a><br />")
-        self.write("</p>")
-        f = open(footer_file, 'r')
-        lines = f.readlines()
+          path = r['path']
+          self.write("<p><a href=/display?docid=" + nextid + ">"+ nexttitle +"</a><br />")
+
+          dom = minidom.parse(path)
+          blocks = dom.getElementsByTagName('block')
+          for block in blocks:
+            if(block.hasAttribute('class') and (block.getAttribute('class') == 'online_lead_paragraph')):
+              for i in range(len(block.childNodes)):
+                self.write(block.childNodes[i].toxml())
+          self.write('</p>')
+
+        lines = html_footer
         for l in lines:
           self.write(l)
 
@@ -246,8 +254,8 @@ class DocumentDisplayer(tornado.web.RequestHandler):
       keystringlijst = " ".join(keylijst)
       print keystringlijst
 
-      f = open(header_file, 'r')
-      lines = f.readlines()
+      # Generate page
+      lines = html_header
       for l in lines:
         self.write(l)
 
@@ -274,9 +282,7 @@ class DocumentDisplayer(tornado.web.RequestHandler):
           for i in range(len(block.childNodes)):
             self.write(block.childNodes[i].toxml())
 
-      # Print footer
-      f = open(footer_file, 'r')
-      lines = f.readlines()
+      lines = html_footer
       for l in lines:
         self.write(l)
 
