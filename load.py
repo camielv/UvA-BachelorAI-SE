@@ -33,7 +33,9 @@ from math import log
 import matplotlib
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt 
+import pylab  
 from xml.dom import minidom
+import datetime
 
 # program constants
 ###############################################
@@ -133,7 +135,7 @@ class CloudDisplayer(tornado.web.RequestHandler):
         path = get_relative_path(res[0]['path'])
         docnum = int(res[0].docnum)
 
-        keywords_and_scores = application.searcher_bm25f.key_terms([docnum], "content", numterms=15)   
+        keywords_and_scores = application.searcher_bm25f.key_terms([docnum], "content", numterms=10)
         keylijst = []
         for i in range(len(keywords_and_scores)):
           keylijst.append(keywords_and_scores[i][0])
@@ -191,6 +193,7 @@ class SearchHandler(tornado.web.RequestHandler):
         res = searcher.find(field, unicode(query), limit = 100000)
 
         self.write("Query: " + query)
+        self.write(" <a href=\"/trend?query=" + query + "\">(Trend of query)</a>")
         self.write("<br />")
         self.write("Scoring: " + scoring)
         self.write("<br />")
@@ -305,6 +308,47 @@ class DocumentDisplayer(tornado.web.RequestHandler):
       for l in lines:
         self.write(l)
 
+class TrendDisplayer(tornado.web.RequestHandler):
+    def get(self):
+      query = self.get_argument("query", default=" ")
+
+      res = application.searcher_bm25f.find("content", unicode(query), limit=100000)
+
+      trend = dict()
+
+      for r in res:
+        path = get_relative_path(r['path'])
+        dom = minidom.parse(path)
+        metas = dom.getElementsByTagName('meta')
+        day = 0
+        month = 0
+        year = 0
+        for meta in metas:
+          if(meta.hasAttribute('name') and (meta.getAttribute('name') == 'publication_day_of_month') and meta.hasAttribute('content')):
+            day = int(meta.getAttribute('content'))
+          elif(meta.hasAttribute('name') and (meta.getAttribute('name') == 'publication_month') and meta.hasAttribute('content')):
+            month = int(meta.getAttribute('content'))
+          elif(meta.hasAttribute('name') and (meta.getAttribute('name') == 'publication_year') and meta.hasAttribute('content')):
+            year = int(meta.getAttribute('content'))
+          else:
+            pass
+
+        key = datetime.date(year, month, day)
+        if(trend.has_key(key)):
+          trend[key] += 1
+        else:
+          trend[key] = 1
+
+      # Generate Page
+      lines = html_header
+      for l in lines:
+        self.write(l)
+
+      self.write('<img src=\"' + plot_trend_word(trend, query) + "\" />")
+
+      lines = html_footer
+      for l in lines:
+        self.write(l)
 class LexiconDisplayer(tornado.web.RequestHandler):
     def get(self):
       self.post()
@@ -424,6 +468,7 @@ application = tornado.web.Application([
     (r"/search", SearchHandler),
     (r"/cloud", CloudDisplayer),
     (r"/display", DocumentDisplayer),
+    (r"/trend", TrendDisplayer),
     (r"/lexdisplay", LexiconDisplayer),
     (r"/close", Closer),
     (r"/index", Indexer),
@@ -511,6 +556,29 @@ def plot(weights_list):
   plt.ylabel('Frequency')
   plt.savefig("web/plot.png")  
   return "/static/plot.png"
+
+def plot_trend_word(trend, query):
+  keys = trend.keys()
+  keys.sort()
+  values = list()
+  for i in range(len(keys)):
+    values.append(trend[keys[i]])
+
+  figure = pylab.figure(figsize = (12,5))
+  ax = figure.add_subplot(1, 1, 1)
+  ax.bar(range(len(values)), values,align='center', log=False)
+  ax.set_title("Word trend " + query)
+  ax.set_ylabel("Values")
+  ax.set_xlabel("Date")
+  ax.set_xticks(range(len(values)))
+  ax.set_xticklabels(keys)
+  figure.autofmt_xdate()
+  #pylab.clf()
+  #pylab.plot_date(pylab.date2num(keys), values, linestyle = '-')
+  #pylab.xlabel('Date')
+  #pylab.ylabel('Values')
+  figure.savefig('web/trend.png')
+  return "static/trend.png"
 
 def get_relative_path(path):
   parts = re.split("\.\.\/", path)
