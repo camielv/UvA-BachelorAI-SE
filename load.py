@@ -133,12 +133,12 @@ class CloudDisplayer(tornado.web.RequestHandler):
         path = get_relative_path(res[0]['path'])
         docnum = int(res[0].docnum)
 
-        keywords_and_scores = application.searcher_tf_idf.key_terms([docnum], "content", numterms=15)    
+        keywords_and_scores = application.searcher_bm25f.key_terms([docnum], "content", numterms=15)   
         keylijst = []
         for i in range(len(keywords_and_scores)):
           keylijst.append(keywords_and_scores[i][0])
-          print application.searcher_tf_idf.idf("content",keywords_and_scores[i][0]), keywords_and_scores[i][0] 
-	
+          print application.searcher_bm25f.idf("content",keywords_and_scores[i][0]), keywords_and_scores[i][0]
+   
         print keywords_and_scores
         print keylijst
 
@@ -148,21 +148,6 @@ class CloudDisplayer(tornado.web.RequestHandler):
         keytermint = []
         for i in range(len(keywords_and_scores)):
           keytermint.append(keywords_and_scores[i][:1] + (int(keywords_and_scores[i][1]*1000),))
-        res = application.searcher_bm25f.find("id", unicode(docid))
-        path = get_relative_path(res[0]['path'])
-        xmldoc = minidom.parse(path)
-        zoeknew = xmldoc.getElementsByTagName('block')
-        plijst = zoeknew[1].childNodes
-        zinlijst = []
-        for i in range(len(plijst)):
-          if i % 2 == 1:
-            zinlijst.append(plijst[i].firstChild.toxml())
-        compleet = " ".join(zinlijst)
-        keytermen = application.searcher_tf_idf.key_terms_from_text("content", compleet, numterms=25, normalize=True)
-        print keytermen
-        keytermint = []
-        for i in range(len(keytermen)):
-          keytermint.append(keytermen[i][:1] + (int(keytermen[i][1]*1000),))
         cloud, cloudlink = generate_term_cloud(keytermint, len(keytermint))
 
         # Generate page
@@ -267,15 +252,20 @@ class DocumentDisplayer(tornado.web.RequestHandler):
       title = get_relative_path(res[0]['title'])
       docnum = int(res[0].docnum)
 
-      keywords_and_scores = application.searcher_tf_idf.key_terms([docnum], "content", numterms=2)    
+      keywords_and_scores = application.searcher_bm25f.key_terms([docnum], "content", numterms=10)
+
       keylijst = []
+      count = 0
       for i in range(len(keywords_and_scores)):
         keylijst.append(keywords_and_scores[i][0])
-      print keywords_and_scores
-      print keylijst
-
-      keystringlijst = " ".join(keylijst)
-      print keystringlijst
+        count += 1
+        if( count == 2 ):
+          count = 0
+          keystringlijst = " ".join(keylijst)
+          keylijst = list()
+          res = application.searcher_bm25f.find("content", keystringlijst, limit=int(10))
+          if( len(res) > 1 ):
+            break
 
       # Generate page
       lines = html_header
@@ -283,17 +273,23 @@ class DocumentDisplayer(tornado.web.RequestHandler):
         self.write(l)
 
       self.write("<h1>" + title + "</h1>")
-      res = application.searcher_tf_idf.find("content", keystringlijst, limit=int(10))
       self.write("<p><a href=\"/cloud?docid=" + docid + "\">Generate Cloud</a></p><h2>Relevant Articles</h2><p>")
 
-      res = application.searcher_tf_idf.find("content", unicode(title), limit=int(10))
       for r in res:
         res_id = r['id']
         if (res_id == docid):
           continue
-
+        res_path = get_relative_path(r['path'])
         res_title = r['title']
-        self.write("<a href=/display?docid=" + res_id + ">"+ res_title +"</a><br />")
+        self.write("<p><a href=/display?docid=" + res_id + ">"+ res_title +"</a><br />")
+
+        dom = minidom.parse(res_path)
+        blocks = dom.getElementsByTagName('block')
+        for block in blocks:
+          if(block.hasAttribute('class') and (block.getAttribute('class') == 'online_lead_paragraph')):
+            for i in range(len(block.childNodes)):
+              self.write(block.childNodes[i].toxml())
+        self.write('</p>')
 
       self.write("</p><h2>Article</h2><p>")
 
