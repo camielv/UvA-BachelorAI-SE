@@ -1,4 +1,5 @@
 # whoosh imports
+import urllib2
 ###############################################
 from whoosh.index import create_in
 from whoosh.index import open_dir
@@ -36,6 +37,7 @@ import matplotlib.pyplot as plt
 import pylab  
 from xml.dom import minidom
 import datetime
+import nltk
 
 # program constants
 ###############################################
@@ -128,6 +130,46 @@ class MainHandler(tornado.web.RequestHandler):
         for l in lines:
           self.write(l) 
 
+
+class CloudDisplayer(tornado.web.RequestHandler):
+    def get(self):
+        docid = self.get_argument("docid")
+        res = application.searcher_bm25f.find("id", unicode(docid))
+        path = get_relative_path(res[0]['path'])
+        docnum = int(res[0].docnum)
+
+        dom = minidom.parse(path)
+        blocks = dom.getElementsByTagName('block')
+        article = ""
+        for block in blocks:
+          if(block.hasAttribute('class') and (block.getAttribute('class') == 'full_text')):
+            for i in range(len(block.childNodes)):
+              article += block.childNodes[i].toxml()
+
+        article = nltk.clean_html(article)
+        article = strip_non_ascii(article)
+        article = nltk.Text((word for word in re.findall(r"(?u)\w+", article.lower()) if word not in set(nltk.corpus.stopwords.words("english"))))
+
+        key_terms = nltk.FreqDist(article)
+        key_terms = [(word, freq) for (word, freq) in key_terms.items() if freq > 0]
+
+        top_terms = "" 
+        for i in range(10):
+          (term, freq) = key_terms[i]
+          top_terms += (term + " ") * freq
+
+        lines = html_header
+        for l in lines:
+          self.write(l)
+        
+        applet = "<applet name=\"wordle\" codebase=\"http://wordle.appspot.com\" mayscript=\"mayscript\" code=\"wordle.WordleApplet.class\" archive=\"/j/v1356/wordle.jar\" width=\"400\" height=\"400\"><param name=\"text\" value=\"" + top_terms + "\"><param name=\"java_arguments\" value=\"-Xmx256m -Xms64m\"></applet>"
+        self.write(applet)
+
+        lines = html_footer
+        for l in lines:
+          self.write(l)
+
+'''
 class CloudDisplayer(tornado.web.RequestHandler):
     def get(self):
         docid = self.get_argument("docid")
@@ -163,7 +205,8 @@ class CloudDisplayer(tornado.web.RequestHandler):
         lines = html_footer
         for l in lines:
           self.write(l)
-      
+'''
+
 class SearchHandler(tornado.web.RequestHandler):
     def get(self):
         query = self.get_argument("query")
@@ -255,7 +298,7 @@ class DocumentDisplayer(tornado.web.RequestHandler):
       title = get_relative_path(res[0]['title'])
       docnum = int(res[0].docnum)
 
-      keywords_and_scores = application.searcher_bm25f.key_terms([docnum], "content", numterms=10)
+      keywords_and_scores = application.searcher_bm25f.key_terms([docnum], "content", numterms=11)
 
       keylijst = []
       count = 0
@@ -638,5 +681,10 @@ def _cosine(x, y):
         
     print "cosine similarity: %.2f" % score
     return score
- 
+
+def strip_non_ascii(string):
+    ''' Returns the string without non ASCII characters'''
+    stripped = (c for c in string if 0 < ord(c) < 127)
+    return ''.join(stripped) 
+
 start_server(29004)
