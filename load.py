@@ -162,7 +162,7 @@ class CloudDisplayer(tornado.web.RequestHandler):
         for l in lines:
           self.write(l)
         
-        self.write("<a href=\"/display?docid=" + docid + "\">Back to document</a><br />")
+        self.write("<a href=\"/display?docid=" + docid + "\">Back to document</a><br /><br />")
         
         applet = "<applet name=\"wordle\" codebase=\"http://wordle.appspot.com\" mayscript=\"mayscript\" code=\"wordle.WordleApplet.class\" archive=\"/j/v1356/wordle.jar\" width=\"100%\" height=\"400\"><param name=\"text\" value=\"" + top_terms + "\"><param name=\"java_arguments\" value=\"-Xmx256m -Xms64m\"></applet>"
         self.write(applet)
@@ -388,6 +388,8 @@ class TrendDisplayer(tornado.web.RequestHandler):
       lines = html_header
       for l in lines:
         self.write(l)
+
+      self.write("<a href=\"/display?docid=" + docid + "\">Back to document</a><br /><br />")
 
       self.write('<div id=\"header\"><img src=\"' + plot_trend_word(trend, query) + " width=\"600\" height=\"250\"  /></div>")
 
