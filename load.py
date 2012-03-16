@@ -162,6 +162,8 @@ class CloudDisplayer(tornado.web.RequestHandler):
         for l in lines:
           self.write(l)
         
+        self.write("<a href=\"/display?docid=\"" + docid + ">Back to document</a><br />")
+        
         applet = "<applet name=\"wordle\" codebase=\"http://wordle.appspot.com\" mayscript=\"mayscript\" code=\"wordle.WordleApplet.class\" archive=\"/j/v1356/wordle.jar\" width=\"100%\" height=\"400\"><param name=\"text\" value=\"" + top_terms + "\"><param name=\"java_arguments\" value=\"-Xmx256m -Xms64m\"></applet>"
         self.write(applet)
 
