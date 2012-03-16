@@ -389,7 +389,7 @@ class TrendDisplayer(tornado.web.RequestHandler):
       for l in lines:
         self.write(l)
 
-      self.write('<img src=\"' + plot_trend_word(trend, query) + "\" width=\"50%\" height=\"50%\"  />")
+      self.write('<img src=\"' + plot_trend_word(trend, query) + "\" width=\"600\" height=\"250\"  />")
 
       lines = html_footer
       for l in lines:
