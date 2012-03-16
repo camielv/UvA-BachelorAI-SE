@@ -237,6 +237,33 @@ class SearchHandler(tornado.web.RequestHandler):
         
         res = searcher.find(field, unicode(query), limit = 100000)
 
+        trend = dict()
+
+        for r in res:
+          r_path = get_relative_path(r['path'])
+          dom = minidom.parse(r_path)
+          metas = dom.getElementsByTagName('meta')
+          day = 0
+          month = 0
+          year = 0
+          for meta in metas:
+            if(meta.hasAttribute('name') and (meta.getAttribute('name') == 'publication_day_of_month') and meta.hasAttribute('content')):
+              day = int(meta.getAttribute('content'))
+            elif(meta.hasAttribute('name') and (meta.getAttribute('name') == 'publication_month') and meta.hasAttribute('content')):
+              month = int(meta.getAttribute('content'))
+            elif(meta.hasAttribute('name') and (meta.getAttribute('name') == 'publication_year') and meta.hasAttribute('content')):
+              year = int(meta.getAttribute('content'))
+            else:
+              pass
+
+          key = datetime.date(year, month, day)
+          if(trend.has_key(key)):
+            trend[key] += 1
+          else:
+            trend[key] = 1
+
+        self.write('<img src=\"' + plot_trend_word(trend, query) + "\"class=\"right\" width=\"600\" height=\"250\"  />")
+
         self.write("Query: " + query)
         self.write(" <a href=\"/trend?query=" + query + "\">(Trend of query)</a>")
         self.write("<br />")
@@ -300,7 +327,7 @@ class DocumentDisplayer(tornado.web.RequestHandler):
       title = get_relative_path(res[0]['title'])
       docnum = int(res[0].docnum)
 
-      keywords_and_scores = application.searcher_bm25f.key_terms([docnum], "content", numterms=11)
+      keywords_and_scores = application.searcher_bm25f.key_terms([docnum], "content", numterms=10)
 
       keylijst = []
       count = 0
@@ -311,7 +338,7 @@ class DocumentDisplayer(tornado.web.RequestHandler):
           count = 0
           keystringlijst = " ".join(keylijst)
           keylijst = list()
-          res = application.searcher_bm25f.find("content", keystringlijst, limit=int(10))
+          res = application.searcher_bm25f.find("content", keystringlijst, limit=int(11))
           if( len(res) > 1 ):
             break
 
@@ -389,7 +416,7 @@ class TrendDisplayer(tornado.web.RequestHandler):
       for l in lines:
         self.write(l)
 
-      self.write('<img src=\"' + plot_trend_word(trend, query) + "\" width=\"600\" height=\"250\"  />")
+      self.write('<img src=\"' + plot_trend_word(trend, query) + "\"class=\"right\" width=\"600\" height=\"250\"  />")
 
       lines = html_footer
       for l in lines:
