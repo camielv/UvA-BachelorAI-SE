@@ -154,7 +154,7 @@ class CloudDisplayer(tornado.web.RequestHandler):
         key_terms = [(word, freq) for (word, freq) in key_terms.items() if freq > 0]
 
         top_terms = "" 
-        for i in range(10):
+        for i in range(20):
           (term, freq) = key_terms[i]
           top_terms += (term + " ") * freq
 
