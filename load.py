@@ -389,7 +389,7 @@ class TrendDisplayer(tornado.web.RequestHandler):
       for l in lines:
         self.write(l)
 
-      self.write('<img src=\"' + plot_trend_word(trend, query) + "\" />")
+      self.write('<img src=\"' + plot_trend_word(trend, query) + "\" width=\"50%\" height=\"50%\"  />")
 
       lines = html_footer
       for l in lines:
@@ -613,15 +613,11 @@ def plot_trend_word(trend, query):
   ax = figure.add_subplot(1, 1, 1)
   ax.bar(range(len(values)), values,align='center', log=False)
   ax.set_title("Word trend " + query)
-  ax.set_ylabel("Values")
+  ax.set_ylabel("Frequency Results")
   ax.set_xlabel("Date")
   ax.set_xticks(range(len(values)))
   ax.set_xticklabels(keys)
   figure.autofmt_xdate()
-  #pylab.clf()
-  #pylab.plot_date(pylab.date2num(keys), values, linestyle = '-')
-  #pylab.xlabel('Date')
-  #pylab.ylabel('Values')
   figure.savefig('web/trend.png')
   return "static/trend.png"
 
