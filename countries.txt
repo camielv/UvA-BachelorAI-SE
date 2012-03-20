@@ -1,0 +1,821 @@
+(dp1
+S'ascension'
+p2
+I01
+sS'samoa'
+p3
+I01
+sS'japan'
+p4
+I01
+sS'china, republic of (taiwan)'
+p5
+I01
+sS'kosovo'
+p6
+I01
+sS'cook islands'
+p7
+I01
+sS'cayman islands'
+p8
+I01
+sS'azerbaijan'
+p9
+I01
+sS'kingman reef'
+p10
+I01
+sS'uzbekistan'
+p11
+I01
+sS'djibouti'
+p12
+I01
+sS'wake island'
+p13
+I01
+sS'malta'
+p14
+I01
+sS'guinea-bissau'
+p15
+I01
+sS'hungary'
+p16
+I01
+sS'cyprus'
+p17
+I01
+sS"korea, democratic people's republic of (north korea)"
+p18
+I01
+sS'barbados'
+p19
+I01
+sS'south ossetia'
+p20
+I01
+sS'bhutan'
+p21
+I01
+sS'kazakhstan'
+p22
+I01
+sS'lithuania'
+p23
+I01
+sS'micronesia'
+p24
+I01
+sS'andorra'
+p25
+I01
+sS'tunisia'
+p26
+I01
+sS'rwanda'
+p27
+I01
+sS'british virgin islands'
+p28
+I01
+sS'heard island and mcdonald islands'
+p29
+I01
+sS'argentina'
+p30
+I01
+sS'norway'
+p31
+I01
+sS'sierra leone'
+p32
+I01
+sS'aland'
+p33
+I01
+sS'ghana'
+p34
+I01
+sS'serbia'
+p35
+I01
+sS'australia'
+p36
+I01
+sS'saint helena'
+p37
+I01
+sS'cuba'
+p38
+I01
+sS'anguilla'
+p39
+I01
+sS'zambia'
+p40
+I01
+sS'french polynesia'
+p41
+I01
+sS'british antarctic territory'
+p42
+I01
+sS'guatemala'
+p43
+I01
+sS'zimbabwe'
+p44
+I01
+sS'belgium'
+p45
+I01
+sS'haiti'
+p46
+I01
+sS'macau'
+p47
+I01
+sS'bahamas, the'
+p48
+I01
+sS'burkina faso'
+p49
+I01
+sS'liberia'
+p50
+I01
+sS'kyrgyzstan'
+p51
+I01
+sS'netherlands'
+p52
+I01
+sS'portugal'
+p53
+I01
+sS'midway islands'
+p54
+I01
+sS'denmark'
+p55
+I01
+sS'philippines'
+p56
+I01
+sS'montserrat'
+p57
+I01
+sS'senegal'
+p58
+I01
+sS'moldova'
+p59
+I01
+sS'latvia'
+p60
+I01
+sS'croatia'
+p61
+I01
+sS'bosnia and herzegovina'
+p62
+I01
+sS'sri lanka'
+p63
+I01
+sS'french guiana'
+p64
+I01
+sS'saint barthelemy'
+p65
+I01
+sS'baker island'
+p66
+I01
+sS'bulgaria'
+p67
+I01
+sS'jamaica'
+p68
+I01
+sS'albania'
+p69
+I01
+sS'angola'
+p70
+I01
+sS'pridnestrovie (transnistria)'
+p71
+I01
+sS'lebanon'
+p72
+I01
+sS'malaysia'
+p73
+I01
+sS'christmas island'
+p74
+I01
+sS'mozambique'
+p75
+I01
+sS'greece'
+p76
+I01
+sS'nicaragua'
+p77
+I01
+sS'niger'
+p78
+I01
+sS'northern cyprus'
+p79
+I01
+sS'brazil'
+p80
+I01
+sS'afghanistan'
+p81
+I01
+sS'qatar'
+p82
+I01
+sS'palau'
+p83
+I01
+sS'turkmenistan'
+p84
+I01
+sS'ashmore and cartier islands'
+p85
+I01
+sS'equatorial guinea'
+p86
+I01
+sS'sudan'
+p87
+I01
+sS'guinea'
+p88
+I01
+sS'panama'
+p89
+I01
+sS'nepal'
+p90
+I01
+sS'jarvis island'
+p91
+I01
+sS'central african republic'
+p92
+I01
+sS'luxembourg'
+p93
+I01
+sS"cote d'ivoire (ivory coast)"
+p94
+I01
+sS'faroe islands'
+p95
+I01
+sS'swaziland'
+p96
+I01
+sS'somalia'
+p97
+I01
+sS'tokelau'
+p98
+I01
+sS'tuvalu'
+p99
+I01
+sS'netherlands antilles'
+p100
+I01
+sS'namibia'
+p101
+I01
+sS'nauru'
+p102
+I01
+sS'venezuela'
+p103
+I01
+sS'brunei'
+p104
+I01
+sS'south georgia and the south sandwich islands'
+p105
+I01
+sS'iran'
+p106
+I01
+sS'congo, democratic republic of the (congo \x96 kinshasa)'
+p107
+I01
+sS'wallis and futuna'
+p108
+I01
+sS'british indian ocean territory'
+p109
+I01
+sS'united arab emirates'
+p110
+I01
+sS'mali'
+p111
+I01
+sS'saint kitts and nevis'
+p112
+I01
+sS'switzerland'
+p113
+I01
+sS'paraguay'
+p114
+I01
+sS'armenia'
+p115
+I01
+sS'kiribati'
+p116
+I01
+sS'iraq'
+p117
+I01
+sS'ukraine'
+p118
+I01
+sS'guadeloupe'
+p119
+I01
+sS'northern mariana islands'
+p120
+I01
+sS'libya'
+p121
+I01
+sS'trinidad and tobago'
+p122
+I01
+sS'mayotte'
+p123
+I01
+sS'oman'
+p124
+I01
+sS'norfolk island'
+p125
+I01
+sS'finland'
+p126
+I01
+sS'ross dependency'
+p127
+I01
+sS'macedonia'
+p128
+I01
+sS'mauritius'
+p129
+I01
+sS'congo, republic of the (congo \x96 brazzaville)'
+p130
+I01
+sS'antigua and barbuda'
+p131
+I01
+sS'niue'
+p132
+I01
+sS'estonia'
+p133
+I01
+sS'french southern and antarctic lands'
+p134
+I01
+sS'syria'
+p135
+I01
+sS'dominican republic'
+p136
+I01
+sS'jersey'
+p137
+I01
+sS'pakistan'
+p138
+I01
+sS'romania'
+p139
+I01
+sS'seychelles'
+p140
+I01
+sS'czech republic'
+p141
+I01
+sS'egypt'
+p142
+I01
+sS'guam'
+p143
+I01
+sS'papua new guinea'
+p144
+I01
+sS'tristan da cunha'
+p145
+I01
+sS'united states'
+p146
+I01
+sS'svalbard'
+p147
+I01
+sS'austria'
+p148
+I01
+sS'greenland'
+p149
+I01
+sS'palestinian territories (gaza strip and west bank)'
+p150
+I01
+sS'mongolia'
+p151
+I01
+sS'colombia'
+p152
+I01
+sS'thailand'
+p153
+I01
+sS'honduras'
+p154
+I01
+sS'new zealand'
+p155
+I01
+sS'common name'
+p156
+I01
+sS'fiji'
+p157
+I01
+sS'comoros'
+p158
+I01
+sS"china, people's republic of"
+p159
+I01
+sS'turkey'
+p160
+I01
+sS'united kingdom'
+p161
+I01
+sS'madagascar'
+p162
+I01
+sS'belize'
+p163
+I01
+sS'bangladesh'
+p164
+I01
+sS'mauritania'
+p165
+I01
+sS'uruguay'
+p166
+I01
+sS'pitcairn islands'
+p167
+I01
+sS'france'
+p168
+I01
+sS'slovakia'
+p169
+I01
+sS'gibraltar'
+p170
+I01
+sS'ireland'
+p171
+I01
+sS'laos'
+p172
+I01
+sS'aruba'
+p173
+I01
+sS'nigeria'
+p174
+I01
+sS'bolivia'
+p175
+I01
+sS'malawi'
+p176
+I01
+sS'ecuador'
+p177
+I01
+sS'abkhazia'
+p178
+I01
+sS'saint martin'
+p179
+I01
+sS'navassa island'
+p180
+I01
+sS'israel'
+p181
+I01
+sS'peru'
+p182
+I01
+sS'algeria'
+p183
+I01
+sS'san marino'
+p184
+I01
+sS'tanzania'
+p185
+I01
+sS'isle of man'
+p186
+I01
+sS'montenegro'
+p187
+I01
+sS'tajikistan'
+p188
+I01
+sS'togo'
+p189
+I01
+sS'australian antarctic territory'
+p190
+I01
+sS'jordan'
+p191
+I01
+sS'chile'
+p192
+I01
+sS'martinique'
+p193
+I01
+sS'turks and caicos islands'
+p194
+I01
+sS'spain'
+p195
+I01
+sS'sao tome and principe'
+p196
+I01
+sS'georgia'
+p197
+I01
+sS'bouvet island'
+p198
+I01
+sS'nagorno-karabakh'
+p199
+I01
+sS'american samoa'
+p200
+I01
+sS'morocco'
+p201
+I01
+sS'sweden'
+p202
+I01
+sS'gambia, the'
+p203
+I01
+sS'gabon'
+p204
+I01
+sS'guyana'
+p205
+I01
+sS'grenada'
+p206
+I01
+sS'yemen'
+p207
+I01
+sS'hong kong'
+p208
+I01
+sS'russia'
+p209
+I01
+sS'u.s. virgin islands'
+p210
+I01
+sS'palmyra atoll'
+p211
+I01
+sS'falkland islands (islas malvinas)'
+p212
+I01
+sS'bahrain'
+p213
+I01
+sS'chad'
+p214
+I01
+sS'mexico'
+p215
+I01
+sS'reunion'
+p216
+I01
+sS'india'
+p217
+I01
+sS'new caledonia'
+p218
+I01
+sS'lesotho'
+p219
+I01
+sS'antarctica'
+p220
+I01
+sS'belarus'
+p221
+I01
+sS'saint vincent and the grenadines'
+p222
+I01
+sS'saint pierre and miquelon'
+p223
+I01
+sS'uganda'
+p224
+I01
+sS'burundi'
+p225
+I01
+sS'kenya'
+p226
+I01
+sS'puerto rico'
+p227
+I01
+sS'botswana'
+p228
+I01
+sS'italy'
+p229
+I01
+sS'western sahara'
+p230
+I01
+sS'south africa'
+p231
+I01
+sS'coral sea islands'
+p232
+I01
+sS'cambodia'
+p233
+I01
+sS'ethiopia'
+p234
+I01
+sS'bermuda'
+p235
+I01
+sS'johnston atoll'
+p236
+I01
+sS'timor-leste (east timor)'
+p237
+I01
+sS'vanuatu'
+p238
+I01
+sS'marshall islands'
+p239
+I01
+sS'cameroon'
+p240
+I01
+sS'queen maud land'
+p241
+I01
+sS'benin'
+p242
+I01
+sS'somaliland'
+p243
+I01
+sS'canada'
+p244
+I01
+sS'saudi arabia'
+p245
+I01
+sS'singapore'
+p246
+I01
+sS'solomon islands'
+p247
+I01
+sS'iceland'
+p248
+I01
+sS'saint lucia'
+p249
+I01
+sS'monaco'
+p250
+I01
+sS'costa rica'
+p251
+I01
+sS'cocos (keeling) islands'
+p252
+I01
+sS'slovenia'
+p253
+I01
+sS'germany'
+p254
+I01
+sS'myanmar (burma)'
+p255
+I01
+sS'howland island'
+p256
+I01
+sS'korea, republic of  (south korea)'
+p257
+I01
+sS'dominica'
+p258
+I01
+sS'suriname'
+p259
+I01
+sS'eritrea'
+p260
+I01
+sS'tonga'
+p261
+I01
+sS'maldives'
+p262
+I01
+sS'el salvador'
+p263
+I01
+sS'poland'
+p264
+I01
+sS'indonesia'
+p265
+I01
+sS'vatican city'
+p266
+I01
+sS'cape verde'
+p267
+I01
+sS'british sovereign base areas'
+p268
+I01
+sS'liechtenstein'
+p269
+I01
+sS'vietnam'
+p270
+I01
+sS'clipperton island'
+p271
+I01
+sS'guernsey'
+p272
+I01
+sS'kuwait'
+p273
+I01
+sS'peter i island'
+p274
+I01
+s.

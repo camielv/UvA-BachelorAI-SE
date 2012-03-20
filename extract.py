@@ -1,15 +1,14 @@
 import csv
 import cPickle
 
-city = csv.reader(open('cities15000.txt', 'rb'), dialect='excel-tab')
+city = csv.reader(open('countries.csv', 'rb'), delimiter=',')
 
 database = dict()
 
 for entry in city:
-  name = entry[2].lower()
-  latitude = entry[4]
-  longitude = entry[5]
-  database[ name ] = (latitude, longitude)
+  name = entry[1].lower()
+  database[ name ] = True
 print len(database)
-save_file = open('database.txt', 'w')
+print database
+save_file = open('countries.txt', 'w')
 cPickle.dump(database, save_file)
