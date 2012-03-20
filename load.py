@@ -38,6 +38,7 @@ import pylab
 from xml.dom import minidom
 import datetime
 import nltk
+import operator
 
 # program constants
 ###############################################
@@ -153,10 +154,19 @@ class CloudDisplayer(tornado.web.RequestHandler):
         key_terms = nltk.FreqDist(article)
         key_terms = [(word, freq) for (word, freq) in key_terms.items() if freq > 0]
 
-        top_terms = "" 
-        for i in range(20):
+        tf_idf_terms = list()
+	for i in range(len(key_terms)):
           (term, freq) = key_terms[i]
-          top_terms += (term + " ") * freq
+          score = application.searcher_bm25f.idf("content", term)
+          tf_idf_terms.append( (term, freq * score) )
+
+        tf_idf_terms = sorted( tf_idf_terms, key=operator.itemgetter(1), reverse=True )
+	print tf_idf_terms
+
+        top_terms = "" 
+        for i in range(10):
+          (term, score) = tf_idf_terms[i]
+          top_terms += (term + " ") * int(round(score * 10))
 
         lines = html_header
         for l in lines:
@@ -236,33 +246,6 @@ class SearchHandler(tornado.web.RequestHandler):
         self.write("<h1>Results</h1><p>")
         
         res = searcher.find(field, unicode(query), limit = 100000)
-
-        trend = dict()
-
-        for r in res:
-          r_path = get_relative_path(r['path'])
-          dom = minidom.parse(r_path)
-          metas = dom.getElementsByTagName('meta')
-          day = 0
-          month = 0
-          year = 0
-          for meta in metas:
-            if(meta.hasAttribute('name') and (meta.getAttribute('name') == 'publication_day_of_month') and meta.hasAttribute('content')):
-              day = int(meta.getAttribute('content'))
-            elif(meta.hasAttribute('name') and (meta.getAttribute('name') == 'publication_month') and meta.hasAttribute('content')):
-              month = int(meta.getAttribute('content'))
-            elif(meta.hasAttribute('name') and (meta.getAttribute('name') == 'publication_year') and meta.hasAttribute('content')):
-              year = int(meta.getAttribute('content'))
-            else:
-              pass
-
-          key = datetime.date(year, month, day)
-          if(trend.has_key(key)):
-            trend[key] += 1
-          else:
-            trend[key] = 1
-
-        self.write('<img src=\"' + plot_trend_word(trend, query) + "\"class=\"right\" width=\"600\" height=\"250\"  />")
 
         self.write("Query: " + query)
         self.write(" <a href=\"/trend?query=" + query + "\">(Trend of query)</a>")
