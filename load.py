@@ -38,6 +38,7 @@ import pylab
 from xml.dom import minidom
 import datetime
 import nltk
+import operator
 
 # program constants
 ###############################################
@@ -153,10 +154,19 @@ class CloudDisplayer(tornado.web.RequestHandler):
         key_terms = nltk.FreqDist(article)
         key_terms = [(word, freq) for (word, freq) in key_terms.items() if freq > 0]
 
-        top_terms = "" 
-        for i in range(20):
+        tf_idf_terms = list()
+	for i in range(len(key_terms)):
           (term, freq) = key_terms[i]
-          top_terms += (term + " ") * freq
+          score = application.searcher_bm25f.idf("content", term)
+          tf_idf_terms.append( (term, freq * score) )
+
+        tf_idf_terms = sorted( tf_idf_terms, key=operator.itemgetter(1), reverse=True )
+	print tf_idf_terms
+
+        top_terms = "" 
+        for i in range(10):
+          (term, score) = tf_idf_terms[i]
+          top_terms += (term + " ") * int(round(score * 10))
 
         lines = html_header
         for l in lines:
