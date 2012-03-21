@@ -138,6 +138,19 @@ class MapDisplayer(tornado.web.RequestHandler):
         path = get_relative_path(res[0]['path'])
         docnum = int(res[0].docnum)
 
+        dom = minidom.parse(path)
+        blocks = dom.getElementsByTagName('block')
+        article = ""
+        for block in blocks:
+          if(block.hasAttribute('class') and (block.getAttribute('class') == 'full_text')):
+            for i in range(len(block.childNodes)):
+              article += block.childNodes[i].toxml()
+
+        article = nltk.clean_html(article)
+        article = strip_non_ascii(article)
+        print type(article)
+
+
         lines = html_header
         for l in lines:
           self.write(l)
@@ -346,7 +359,7 @@ class DocumentDisplayer(tornado.web.RequestHandler):
         self.write(l)
 
       self.write("<h1>" + title + "</h1>")
-      self.write("<p><a href=\"/cloud?docid=" + docid + "\">Generate Cloud</a><a href=\"map?docid=" + docid + "\">Generate Map</a></p><h2>Relevant Articles</h2><p>")
+      self.write("<p><a href=\"/cloud?docid=" + docid + "\">Generate Cloud</a><br /><a href=\"map?docid=" + docid + "\">Generate Map</a></p><h2>Relevant Articles</h2><p>")
 
       for r in res:
         res_id = r['id']
