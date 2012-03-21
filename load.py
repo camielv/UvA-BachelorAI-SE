@@ -346,7 +346,7 @@ class DocumentDisplayer(tornado.web.RequestHandler):
         self.write(l)
 
       self.write("<h1>" + title + "</h1>")
-      self.write("<p><a href=\"/cloud?docid=" + docid + "\">Generate Cloud</a><a href=\"map?docid=" + docid + "\">Generate Map</a></p><h2>Relevant Articles</h2><p>")
+      self.write("<p><a href=\"/cloud?docid=" + docid + "\">Generate Cloud</a><br /><a href=\"map?docid=" + docid + "\">Generate Map</a></p><h2>Relevant Articles</h2><p>")
 
       for r in res:
         res_id = r['id']
