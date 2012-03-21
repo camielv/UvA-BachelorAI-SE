@@ -131,6 +131,22 @@ class MainHandler(tornado.web.RequestHandler):
         for l in lines:
           self.write(l) 
 
+class MapDisplayer(tornado.web.RequestHandler):
+    def get(self):
+        docid = self.get_argument("docid")
+        res = application.searcher_bm25f.find("id", unicode(docid))
+        path = get_relative_path(res[0]['path'])
+        docnum = int(res[0].docnum)
+
+        lines = html_header
+        for l in lines:
+          self.write(l)
+
+        self.write("<a href=\"/display?docid=" + docid + "\">Back to document</a><br /><br />")
+
+        lines = html_footer
+        for l in lines:
+          self.write(l)
 
 class CloudDisplayer(tornado.web.RequestHandler):
     def get(self):
@@ -155,13 +171,12 @@ class CloudDisplayer(tornado.web.RequestHandler):
         key_terms = [(word, freq) for (word, freq) in key_terms.items() if freq > 0]
 
         tf_idf_terms = list()
-	for i in range(len(key_terms)):
+        for i in range(len(key_terms)):
           (term, freq) = key_terms[i]
           score = application.searcher_bm25f.idf("content", term)
           tf_idf_terms.append( (term, freq * score) )
 
         tf_idf_terms = sorted( tf_idf_terms, key=operator.itemgetter(1), reverse=True )
-	print tf_idf_terms
 
         top_terms = "" 
         for i in range(10):
@@ -172,7 +187,7 @@ class CloudDisplayer(tornado.web.RequestHandler):
         for l in lines:
           self.write(l)
         
-        self.write("<a href=\"/display?docid=" + docid + "\">Back to document</a><br />")
+        self.write("<a href=\"/display?docid=" + docid + "\">Back to document</a><br /><br />")
         
         applet = "<applet name=\"wordle\" codebase=\"http://wordle.appspot.com\" mayscript=\"mayscript\" code=\"wordle.WordleApplet.class\" archive=\"/j/v1356/wordle.jar\" width=\"100%\" height=\"400\"><param name=\"text\" value=\"" + top_terms + "\"><param name=\"java_arguments\" value=\"-Xmx256m -Xms64m\"></applet>"
         self.write(applet)
@@ -248,7 +263,7 @@ class SearchHandler(tornado.web.RequestHandler):
         res = searcher.find(field, unicode(query), limit = 100000)
 
         self.write("Query: " + query)
-        self.write(" <a href=\"/trend?query=" + query + "\">(Trend of query)</a>")
+        self.write("<a href=\"/trend?query=" + query + "\">(Trend of query)</a>")
         self.write("<br />")
         self.write("Scoring: " + scoring)
         self.write("<br />")
@@ -331,7 +346,7 @@ class DocumentDisplayer(tornado.web.RequestHandler):
         self.write(l)
 
       self.write("<h1>" + title + "</h1>")
-      self.write("<p><a href=\"/cloud?docid=" + docid + "\">Generate Cloud</a></p><h2>Relevant Articles</h2><p>")
+      self.write("<p><a href=\"/cloud?docid=" + docid + "\">Generate Cloud</a><a href=\"map?docid=" + docid + "\">Generate Map</a></p><h2>Relevant Articles</h2><p>")
 
       for r in res:
         res_id = r['id']
@@ -399,11 +414,14 @@ class TrendDisplayer(tornado.web.RequestHandler):
       for l in lines:
         self.write(l)
 
-      self.write('<img src=\"' + plot_trend_word(trend, query) + "\"class=\"right\" width=\"600\" height=\"250\"  />")
+      self.write("<a href=\"/display?docid=" + docid + "\">Back to document</a><br /><br />")
+
+      self.write('<div id=\"header\"><img src=\"' + plot_trend_word(trend, query) + " width=\"600\" height=\"250\"  /></div>")
 
       lines = html_footer
       for l in lines:
         self.write(l)
+
 class LexiconDisplayer(tornado.web.RequestHandler):
     def get(self):
       self.post()
@@ -523,6 +541,7 @@ application = tornado.web.Application([
     (r"/search", SearchHandler),
     (r"/cloud", CloudDisplayer),
     (r"/display", DocumentDisplayer),
+    (r"/map", MapDisplayer),
     (r"/trend", TrendDisplayer),
     (r"/lexdisplay", LexiconDisplayer),
     (r"/close", Closer),
