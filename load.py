@@ -148,7 +148,7 @@ class MapDisplayer(tornado.web.RequestHandler):
 
         article = nltk.clean_html(article)
         article = strip_non_ascii(article)
-        article = nltk.tokenize(article)
+        article = nltk.tokenize.word_tokenize(article)
         print article
         article = nltk.Text(article)
         words = article.findall("<[A-Z].*>{1,}")
