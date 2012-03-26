@@ -1,5 +1,4 @@
 # whoosh imports
-import urllib2
 ###############################################
 from whoosh.index import create_in
 from whoosh.index import open_dir
@@ -39,6 +38,9 @@ from xml.dom import minidom
 import datetime
 import nltk
 import operator
+import cPickle
+import urllib
+import json
 
 # program constants
 ###############################################
@@ -47,8 +49,12 @@ webdir='web'
 header_file = webdir + '/header.html'
 search_file = webdir + '/index.html'
 footer_file = webdir + '/footer.html'
+map_s = webdir + '/map_s.html'
+map_e = webdir + '/map_e.html'
 working_dir = os.environ["PWD"]
-
+cities = cPickle.load(open('cities.txt', 'r'))
+countries = cPickle.load(open('countries.txt', 'r'))
+GEO_URL = 'http://maps.googleapis.com/maps/api/geocode/json'
 
 # This is the cosine implementation from whoosh 0.3
 ###############################################
@@ -114,6 +120,8 @@ parser = qparser.MultifieldParser(['content', 'title'])
 html_header = open(header_file, 'r').readlines()
 html_search = open(search_file, 'r').readlines()
 html_footer = open(footer_file, 'r').readlines()
+html_map_s = open(map_s, 'r').readlines()
+html_map_e = open(map_e, 'r').readlines()
 
 # tornado request handlers
 ###############################################
@@ -149,16 +157,52 @@ class MapDisplayer(tornado.web.RequestHandler):
         article = nltk.clean_html(article)
         article = strip_non_ascii(article)
         article = nltk.tokenize.word_tokenize(article)
-        print article
-        article = nltk.Text(article)
+        article = nltk.text.TokenSearcher(article)
         words = article.findall("<[A-Z].*>{1,}")
-        print words
+        print "Capital words", words
+        locations = dict()
+        for i in range(len(words)):
+          for j in range(len(words[i])):
+            location = words[i][j].lower()
+            if( cities.has_key(location) or countries.has_key(location) ):
+              if( locations.has_key(location) ):
+                locations[location] += 1
+              else:
+                locations[location] = 1
+        print "Found locations", locations
+        locations = sorted( locations.iteritems() , key=operator.itemgetter(1), reverse=True )
+        print "Found locations", locations
 
-        lines = html_header
+        max_loc = len(locations)
+        if( max_loc > 10 ):
+          max_loc = 10
+
+        lines = html_map_s
         for l in lines:
           self.write(l)
 
+        for i in range(max_loc):
+          url = GEO_URL + '?' + urllib.urlencode({'address': locations[i][0], 'sensor': 'false'})
+          result = json.load(urllib.urlopen(url))
+          if( result['status'] == 'OK' ):
+            latitude = result['results'][0]['geometry']['location']['lat']
+            longtitude = result['results'][0]['geometry']['location']['lng']
+            name = result['results'][0]['address_components'][0]['long_name']
+            self.write('coords = new google.maps.LatLng(' + str(latitude) + ', ' + str(longtitude) + ');\n')
+            self.write('var marker = new google.maps.Marker({position: coords, map: map, title:"' + name + '"});\n')
+
+        lines = html_map_e
+        for l in lines:
+          self.write(l)
+        self.write("<h1>Map</h1>")
+
         self.write("<a href=\"/display?docid=" + docid + "\">Back to document</a><br /><br />")
+        self.write("<div id=\"map_canvas\"></div>") 
+
+        self.write("<h2>Found locations</h2>")
+        self.write("<p><em><b>Note:</b> based on country/city names</em></p>")
+        for i in range(len(locations)):
+          self.write("<p><b>" + locations[i][0].title() + ":</b> " + str(locations[i][1]) + " time(s)</p>")
 
         lines = html_footer
         for l in lines:
@@ -202,6 +246,7 @@ class CloudDisplayer(tornado.web.RequestHandler):
         lines = html_header
         for l in lines:
           self.write(l)
+        self.write("<h1>Word Cloud</h1>")
         
         self.write("<a href=\"/display?docid=" + docid + "\">Back to document</a><br /><br />")
         
