@@ -482,9 +482,7 @@ class TrendDisplayer(tornado.web.RequestHandler):
       for l in lines:
         self.write(l)
 
-      self.write("<a href=\"/display?docid=" + docid + "\">Back to document</a><br /><br />")
-
-      self.write('<div id=\"header\"><img src=\"' + plot_trend_word(trend, query) + " width=\"600\" height=\"250\"  /></div>")
+      self.write('<div id=\"header\"><img src=\"' + plot_trend_word(trend, query) + "\"  width=\"600\" height=\"250\"  /></div>")
 
       lines = html_footer
       for l in lines:
