@@ -363,6 +363,7 @@ class SearchHandler(tornado.web.RequestHandler):
             if(check[0] and check[1] and check[2]):
               new_res.append(r)
           res = new_res
+          self.write("Date: " + date)
           
         self.write("Query: " + query)
         self.write(" (<a href=\"/trend?query=" + query + "\">Trend of query</a>)")
