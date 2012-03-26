@@ -308,6 +308,7 @@ class SearchHandler(tornado.web.RequestHandler):
         scoring = self.get_argument("scoring")
         field = self.get_argument("field")
         page = self.get_arguments("page")
+        date = self.get_argument("date", default="0")
         searcher = None
         if scoring == "Cosine":
           searcher = application.searcher_cosine
@@ -330,8 +331,41 @@ class SearchHandler(tornado.web.RequestHandler):
         
         res = searcher.find(field, unicode(query), limit = 100000)
 
+        if(date != '0'):
+          new_res = list()
+          date_num = date.split("-")
+          year = int(date_num[0])
+          month = int(date_num[1])
+          day = int(date_num[2])
+          for r in res:
+            path = get_relative_path(r['path'])
+            dom = minidom.parse(path)
+            metas = dom.getElementsByTagName('meta')
+            check = [False, False, False]
+            for meta in metas:
+              if(meta.hasAttribute('name') and (meta.getAttribute('name') == 'publication_day_of_month') and meta.hasAttribute('content')):
+                if(day == int(meta.getAttribute('content'))):
+                  check[0] = True
+                else:
+                  break
+              elif(meta.hasAttribute('name') and (meta.getAttribute('name') == 'publication_month') and meta.hasAttribute('content')):
+                if(month == int(meta.getAttribute('content'))):
+                  check[1] = True
+                else:
+                  break
+              elif(meta.hasAttribute('name') and (meta.getAttribute('name') == 'publication_year') and meta.hasAttribute('content')):
+                if(year == int(meta.getAttribute('content'))):
+                  check[2] = True
+                else:
+                  break
+              else:
+                pass
+            if(check[0] and check[1] and check[2]):
+              new_res.append(r)
+          res = new_res
+          
         self.write("Query: " + query)
-        self.write("<a href=\"/trend?query=" + query + "\">(Trend of query)</a>")
+        self.write(" (<a href=\"/trend?query=" + query + "\">Trend of query</a>)")
         self.write("<br />")
         self.write("Scoring: " + scoring)
         self.write("<br />")
@@ -377,7 +411,7 @@ class SearchHandler(tornado.web.RequestHandler):
           if (i == page):
             self.write(' ' + str(i) + ' ')
           else :
-            link = " <a href=\"/search?query=" + query + "&field=" + field + "&scoring=" + scoring + "&page="
+            link = " <a href=\"/search?query=" + query + "&field=" + field + "&date=" + date + "&scoring=" + scoring + "&page="
             self.write(link + str(i) + '">' + str(i) + '</a> ')
 
         self.write('</p>')
@@ -477,12 +511,22 @@ class TrendDisplayer(tornado.web.RequestHandler):
         else:
           trend[key] = 1
 
+      keys = trend.keys()
+      keys.sort()
+      values = list()
+      for i in range(len(keys)):
+        values.append(trend[keys[i]])
+
       # Generate Page
       lines = html_header
       for l in lines:
         self.write(l)
 
-      self.write('<div id=\"header\"><img src=\"' + plot_trend_word(trend, query) + "\"  width=\"600\" height=\"250\"  /></div>")
+      self.write("<p><a href=\"/search?query=" + query + "&field=content&scoring=BM25F\">Back to search</a></p>")
+      self.write('<div id=\"header\"><img src=\"' + plot_trend_word(keys, values, query) + "\"  width=\"600\" height=\"250\"  /></div>")
+      self.write('<h2>Days</h2>')
+      for i in range(len(keys)):
+        self.write('<p><a href=\"search?query=' + query + '&field=content&scoring=BM25F&date=' + str(keys[i]) + '\">' + str(keys[i]) + ': ' + str(values[i]) + '</a></p>')
 
       lines = html_footer
       for l in lines:
@@ -697,13 +741,7 @@ def plot(weights_list):
   plt.savefig("web/plot.png")  
   return "/static/plot.png"
 
-def plot_trend_word(trend, query):
-  keys = trend.keys()
-  keys.sort()
-  values = list()
-  for i in range(len(keys)):
-    values.append(trend[keys[i]])
-
+def plot_trend_word(keys, values, query):
   figure = pylab.figure(figsize = (12,5))
   ax = figure.add_subplot(1, 1, 1)
   ax.bar(range(len(values)), values,align='center', log=False)
