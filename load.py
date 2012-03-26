@@ -364,6 +364,7 @@ class SearchHandler(tornado.web.RequestHandler):
               new_res.append(r)
           res = new_res
           self.write("Date: " + date)
+          self.write("<br />")
           
         self.write("Query: " + query)
         self.write(" (<a href=\"/trend?query=" + query + "\">Trend of query</a>)")
