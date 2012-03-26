@@ -158,8 +158,11 @@ class MapDisplayer(tornado.web.RequestHandler):
         article = strip_non_ascii(article)
         article = nltk.tokenize.word_tokenize(article)
         article = nltk.text.TokenSearcher(article)
+        # Look for capital words
         words = article.findall("<[A-Z].*>{1,}")
-        print "Capital words", words
+
+        # Find locations by iterating over capital words
+        # Note you will only find one word cities/countries as lazy implementation, not checking for combinations
         locations = dict()
         for i in range(len(words)):
           for j in range(len(words[i])):
@@ -169,14 +172,15 @@ class MapDisplayer(tornado.web.RequestHandler):
                 locations[location] += 1
               else:
                 locations[location] = 1
-        print "Found locations", locations
+        # Sort locations at the most frequent one first.
         locations = sorted( locations.iteritems() , key=operator.itemgetter(1), reverse=True )
-        print "Found locations", locations
 
+        # Show the 10 best locations
         max_loc = len(locations)
         if( max_loc > 10 ):
           max_loc = 10
 
+        # Write it to the client
         lines = html_map_s
         for l in lines:
           self.write(l)
@@ -197,8 +201,11 @@ class MapDisplayer(tornado.web.RequestHandler):
         self.write("<h1>Map</h1>")
 
         self.write("<a href=\"/display?docid=" + docid + "\">Back to document</a><br /><br />")
+
+        # Show map
         self.write("<div id=\"map_canvas\"></div>") 
 
+        # Show found locations
         self.write("<h2>Found locations</h2>")
         self.write("<p><em><b>Note:</b> based on country/city names</em></p>")
         for i in range(len(locations)):
