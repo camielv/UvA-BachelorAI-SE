@@ -41,6 +41,7 @@ import operator
 import cPickle
 import urllib
 import json
+import random
 
 # program constants
 ###############################################
@@ -264,44 +265,6 @@ class CloudDisplayer(tornado.web.RequestHandler):
         for l in lines:
           self.write(l)
 
-'''
-class CloudDisplayer(tornado.web.RequestHandler):
-    def get(self):
-        docid = self.get_argument("docid")
-        res = application.searcher_bm25f.find("id", unicode(docid))
-        path = get_relative_path(res[0]['path'])
-        docnum = int(res[0].docnum)
-
-        keywords_and_scores = application.searcher_bm25f.key_terms([docnum], "content", numterms=10)
-        keylijst = []
-        for i in range(len(keywords_and_scores)):
-          keylijst.append(keywords_and_scores[i][0])
-          print application.searcher_bm25f.idf("content",keywords_and_scores[i][0]), keywords_and_scores[i][0]
-   
-        print keywords_and_scores
-        print keylijst
-
-        keystringlijst = " ".join(keylijst)
-        print keystringlijst
-
-        keytermint = []
-        for i in range(len(keywords_and_scores)):
-          keytermint.append(keywords_and_scores[i][:1] + (int(keywords_and_scores[i][1]*1000),))
-        cloud, cloudlink = generate_term_cloud(keytermint, len(keytermint))
-
-        # Generate page
-        lines = html_header
-        for l in lines:
-          self.write(l)
-
-        frame = "<h1>Word Cloud</h1><iframe src=\"" + cloudlink + "\"></iframe>"
-        self.write(frame)
-
-        lines = html_footer
-        for l in lines:
-          self.write(l)
-'''
-
 class SearchHandler(tornado.web.RequestHandler):
     def get(self):
         query = self.get_argument("query")
@@ -331,6 +294,7 @@ class SearchHandler(tornado.web.RequestHandler):
         
         res = searcher.find(field, unicode(query), limit = 100000)
 
+        # IF date specified only show results from that date
         if(date != '0'):
           new_res = list()
           date_num = date.split("-")
@@ -374,6 +338,7 @@ class SearchHandler(tornado.web.RequestHandler):
         self.write("Field: " + field)
         self.write("<br /> <br />")
         self.write("Number of hits:  " + str(len(res)) + "<br /></p>")
+        self.write("<p><a href=\"/cluster?query=" + query + "&field=" + field + "\">Cluster Results</a></p>")
 
         # Generate subpages
         try:
@@ -420,6 +385,78 @@ class SearchHandler(tornado.web.RequestHandler):
         lines = html_footer
         for l in lines:
           self.write(l)
+
+class ClusterDisplayer(tornado.web.RequestHandler):
+    def get(self):
+      query = self.get_argument("query", default = " ")
+      field = self.get_argument("field", default = "content")
+
+      res = application.searcher_bm25f.find(field, unicode(query), limit = 100000)
+
+      vector = dict()
+      # Make a vector
+      for r in res:
+        # Retrieve document
+        document = 0
+        res_path = get_relative_path(r['path'])
+        dom = minidom.parse(res_path)
+        blocks = dom.getElementsByTagName('block')
+        for block in blocks:
+          if(block.hasAttribute('class') and (block.getAttribute('class') == 'full_text')):
+            for i in range(len(block.childNodes)):
+              document += len(block.childNodes[i].toxml())
+        vector[len(vector)] = (int(r['id']), document)
+      maximum = len(vector)
+      clusters = [dict(), dict()]
+      centers = [0, 0]
+      precenters = [0, 0]
+      while(centers[0] == centers[1]):
+        centers[0] = random.randint(0, maximum + 1)
+        centers[1] = random.randint(0, maximum + 1)
+      centers[0] = vector[centers[0]][1]
+      centers[1] = vector[centers[1]][1]
+
+      while(precenters[0] != centers[0] and precenters[1] != centers[1]):
+        clusters = [dict(), dict()]
+        for i in range(maximum):
+          if(abs(vector[i][1] - centers[0]) <= abs(vector[i][1] - centers[1])):
+            clusters[0][i] = vector[i][1]
+          else:  
+            clusters[1][i] = vector[i][1]
+        precenters[0] = centers[0]
+        precenters[1] = centers[1]
+        
+        centers[0] = 1.0 * sum(clusters[0].values()) / len(clusters[0])
+        centers[1] = 1.0 * sum(clusters[1].values()) / len(clusters[1])
+
+      lines = html_header
+      for l in lines:
+        self.write(l)
+
+      self.write('<h1>Clustering</h1>')
+      self.write("<p><a href=\"/search?query=" + query + "&field=content&scoring=BM25F\">Back to search</a></p>")
+      self.write('<h2>Class A (' + str(centers[0]) + ')</h2><p>')
+      count = 0
+      class_b = ""
+      for r in res:
+        r_id = r['id']
+        r_title = r['title']
+        if(clusters[0].has_key(count)):
+          self.write('<a href=\"/display?docid=' + r_id + '\">' + r_title + "</a> - ")
+        else:
+          class_b += '<a href=\"/display?docid=' + r_id + '\">' + r_title + "</a> - "
+
+        count += 1
+
+      self.write('<h2>Class B (' + str(centers[0]) + ')</h2><p>')
+      lines = class_b
+      for l in lines:
+        self.write(l)
+      self.write('</p>')
+
+      lines = html_footer
+      for l in lines:
+        self.write(l)
 
 class DocumentDisplayer(tornado.web.RequestHandler):
     def get(self):
@@ -654,6 +691,7 @@ application = tornado.web.Application([
     (r"/cloud", CloudDisplayer),
     (r"/display", DocumentDisplayer),
     (r"/map", MapDisplayer),
+    (r"/cluster", ClusterDisplayer),
     (r"/trend", TrendDisplayer),
     (r"/lexdisplay", LexiconDisplayer),
     (r"/close", Closer),
@@ -820,4 +858,4 @@ def strip_non_ascii(string):
     stripped = (c for c in string if 0 < ord(c) < 127)
     return ''.join(stripped) 
 
-start_server(29004)
+start_server(29005)
