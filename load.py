@@ -435,6 +435,7 @@ class ClusterDisplayer(tornado.web.RequestHandler):
 
       self.write('<h1>Clustering</h1>')
       self.write("<p><a href=\"/search?query=" + query + "&field=content&scoring=BM25F\">Back to search</a></p>")
+      self.write('<p>Length between parenthesis</p>')
       self.write('<h2>Class A (' + str(centers[0]) + ')</h2><p>')
       count = 0
       class_b = ""
@@ -442,13 +443,13 @@ class ClusterDisplayer(tornado.web.RequestHandler):
         r_id = r['id']
         r_title = r['title']
         if(clusters[0].has_key(count)):
-          self.write('<a href=\"/display?docid=' + r_id + '\">' + r_title + "</a> - ")
+          self.write('<a href=\"/display?docid=' + r_id + '\">' + r_title + ' (' + str(vector[count][1]) + ')</a> - ')
         else:
-          class_b += '<a href=\"/display?docid=' + r_id + '\">' + r_title + "</a> - "
+          class_b += '<a href=\"/display?docid=' + r_id + '\">' + r_title + ' (' + str(vector[count][1]) + ')</a> - '
 
         count += 1
 
-      self.write('<h2>Class B (' + str(centers[0]) + ')</h2><p>')
+      self.write('<h2>Class B (' + str(centers[1]) + ')</h2><p>')
       lines = class_b
       for l in lines:
         self.write(l)
